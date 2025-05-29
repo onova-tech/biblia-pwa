@@ -1,0 +1,77 @@
+{
+    "book": {
+        "id": "Ne",
+        "book_number": 16,
+        "new_testament": false,
+        "num_chapters": 13,
+        "book_name": "NEEMIAS",
+        "book_full_name": "O LIVRO DE NEEMIAS"
+    },
+    "chapters": [
+        {
+            "chapter_number": 10,
+            "chapter_reference": "",
+            "chapter_title": "Os nomes dos que selaram o concerto"
+        },
+        {
+            "chapter_number": 11,
+            "chapter_reference": "",
+            "chapter_title": "Relação dos que habitaram em Jerusalém"
+        },
+        {
+            "chapter_number": 12,
+            "chapter_reference": "",
+            "chapter_title": "Os sacerdotes que vieram para Jerusalém com Zorobabel"
+        },
+        {
+            "chapter_number": 13,
+            "chapter_reference": "",
+            "chapter_title": "Neemias remove diversos abusos"
+        },
+        {
+            "chapter_number": 1,
+            "chapter_reference": "",
+            "chapter_title": "Neemias, sabendo o triste estado de Jerusalém, ora a Deus"
+        },
+        {
+            "chapter_number": 2,
+            "chapter_reference": "",
+            "chapter_title": "Artaxerxes permite a Neemias ir a Jerusalém e edificar os muros"
+        },
+        {
+            "chapter_number": 3,
+            "chapter_reference": "",
+            "chapter_title": "Dos que trabalharam na edificação dos muros"
+        },
+        {
+            "chapter_number": 4,
+            "chapter_reference": "",
+            "chapter_title": "Os inimigos pretendem retardar a edificação dos muros"
+        },
+        {
+            "chapter_number": 5,
+            "chapter_reference": "",
+            "chapter_title": "Os pobres murmuram contra os ricos, Neemias repreende os últimos"
+        },
+        {
+            "chapter_number": 6,
+            "chapter_reference": "",
+            "chapter_title": "Os inimigos conspiram para surpreender e intimidar Neemias"
+        },
+        {
+            "chapter_number": 7,
+            "chapter_reference": "",
+            "chapter_title": "Neemias estabelece guardas e faz uma relação dos que primeiro vieram a Jerusalém"
+        },
+        {
+            "chapter_number": 8,
+            "chapter_reference": "",
+            "chapter_title": "Esdras lê a lei diante do povo"
+        },
+        {
+            "chapter_number": 9,
+            "chapter_reference": "",
+            "chapter_title": "Arrependimento e confissão do pecado"
+        }
+    ]
+}

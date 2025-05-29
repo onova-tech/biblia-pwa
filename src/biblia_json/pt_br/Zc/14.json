@@ -1,0 +1,137 @@
+{
+    "book": {
+        "id": "Zc",
+        "book_number": 38,
+        "new_testament": false,
+        "num_chapters": 14,
+        "book_name": "ZACARIAS",
+        "book_full_name": "ZACARIAS"
+    },
+    "chapter": {
+        "chapter_number": 14,
+        "chapter_reference": "",
+        "chapter_title": "",
+        "versicles": [
+            {
+                "id": "v14.1",
+                "versicle_number": 1,
+                "text": "EIS que vem um dia do Senhor, em que os teus despojos se repartirão no meio de ti."
+            },
+            {
+                "id": "v14.2",
+                "versicle_number": 2,
+                "text": "Porque eu ajuntarei todas as nações para a peleja contra Jerusalém; e a cidade será tomada, e as casas serão saqueadas, e as mulheres forçadas; e metade da cidade sairá para o cativeiro, mas o resto do povo não será expulso da cidade."
+            },
+            {
+                "id": "v14.3",
+                "versicle_number": 3,
+                "text": "E o Senhor sairá, e pelejará contra estas nações, como no dia em que pelejou no dia da batalha."
+            },
+            {
+                "id": "v14.4",
+                "versicle_number": 4,
+                "text": "E naquele dia estarão os seus pés sobre o monte das Oliveiras, que está defronte de Jerusalém para o oriente; e o monte das Oliveiras será fendido pelo meio, para o oriente e para o ocidente, e haverá um vale muito grande; e metade do monte se apartará para o norte, e a outra metade dele para o sul."
+            },
+            {
+                "id": "v14.5",
+                "versicle_number": 5,
+                "text": "E fugireis pelo vale dos meus montes (porque o vale dos montes chegará até Asel), e fugireis assim como fugistes do terremoto nos dias de Uzias, rei de Judá: então virá o Senhor meu Deus, e todos os santos contigo, ó Senhor."
+            },
+            {
+                "id": "v14.6",
+                "versicle_number": 6,
+                "text": "E acontecerá naquele dia, que não haverá preciosa luz nem espessa escuridão."
+            },
+            {
+                "id": "v14.7",
+                "versicle_number": 7,
+                "text": "Mas será um dia conhecido do Senhor; nem dia nem noite será; e acontecerá que no tempo da tarde haverá luz."
+            },
+            {
+                "id": "v14.8",
+                "versicle_number": 8,
+                "text": "Naquele dia também acontecerá que correrão de Jerusalém águas vivas,{note:1} metade delas para o mar oriental, e metade delas até ao mar ocidental: no estio e no inverno sucederá isto."
+            },
+            {
+                "id": "v14.9",
+                "versicle_number": 9,
+                "text": "E o Senhor será rei sobre toda a terra: naquele dia um será o Senhor, e um será o seu nome."
+            },
+            {
+                "id": "v14.10",
+                "versicle_number": 10,
+                "text": "Toda a terra em redor se tornará em planície, desde Geba até Rimom, ao do sul de Jerusalém; ela será exalçada, e habitada no seu lugar, desde a porta de Benjamim até ao lugar da primeira porta, até à porta da esquina, e desde a torre de Hananeel até aos lagares do rei."
+            },
+            {
+                "id": "v14.11",
+                "versicle_number": 11,
+                "text": "E habitarão nela, e não haverá mais anátema,{note:2} porque Jerusalém habitará segura."
+            },
+            {
+                "id": "v14.12",
+                "versicle_number": 12,
+                "text": "E esta será a praga com que o Senhor ferirá a todos os povos que guerrearam contra Jerusalém: a sua carne será consumida, estando eles de pé, e lhes apodrecerão os olhos nas suas órbitas, e lhes apodrecerá a língua na sua boca."
+            },
+            {
+                "id": "v14.13",
+                "versicle_number": 13,
+                "text": "Naquele dia também acontecerá que haverá uma grande perturbação do Senhor entre eles; porque pegará cada um na mão do seu companheiro, e alçar-se-á a mão de cada um contra a mão do seu companheiro."
+            },
+            {
+                "id": "v14.14",
+                "versicle_number": 14,
+                "text": "E também Judá pelejará em Jerusalém, e se ajuntarão em redor as riquezas de todas as nações, ouro e prata e vestidos em grande abundância."
+            },
+            {
+                "id": "v14.15",
+                "versicle_number": 15,
+                "text": "E será a praga dos cavalos, dos machos, dos camelos e dos jumentos, e de todos os animais que estiverem naqueles exércitos, como foi a praga deles."
+            },
+            {
+                "id": "v14.16",
+                "versicle_number": 16,
+                "text": "E acontecerá que, todos os que restarem de todas as nações que vieram contra Jerusalém, subirão de ano em ano para adorarem o Rei, o Senhor dos Exércitos, e celebrarem a festa das cabanas.{note:3}"
+            },
+            {
+                "id": "v14.17",
+                "versicle_number": 17,
+                "text": "E acontecerá que se alguma das famílias da terra não subir a Jerusalém, para adorar o Rei, o Senhor dos Exércitos, não virá sobre ela a chuva."
+            },
+            {
+                "id": "v14.18",
+                "versicle_number": 18,
+                "text": "E, se a família dos egípcios não subir, nem vier, virá sobre eles a praga com que o Senhor ferirá as nações que não subirem a celebrar a festa das cabanas."
+            },
+            {
+                "id": "v14.19",
+                "versicle_number": 19,
+                "text": "Este será o castigo dos egípcios e o castigo de todas as nações que não subirem a celebrar a festa das cabanas."
+            },
+            {
+                "id": "v14.20",
+                "versicle_number": 20,
+                "text": "Naquele dia se gravará sobre as campainhas dos cavalos: SANTIDADE AO SENHOR: e as panelas na casa do Senhor serão como as bacias diante do altar."
+            },
+            {
+                "id": "v14.21",
+                "versicle_number": 21,
+                "text": "E todas as panelas em Jerusalém e Judá serão consagradas ao Senhor dos Exércitos, e todos os que sacrificarem virão, e delas tomarão, e nelas cozerão: e não haverá mais cananita na casa do Senhor dos Exércitos naquele dia."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 14.8 Ez 47.1; Jo 7.38; Ap 22.1"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 14.11 Ap 22.3"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 14.16 Lv 23.39-43"
+            }
+        ]
+    }
+}

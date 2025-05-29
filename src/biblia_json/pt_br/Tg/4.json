@@ -1,0 +1,119 @@
+{
+    "book": {
+        "id": "Tg",
+        "book_number": 59,
+        "new_testament": true,
+        "num_chapters": 5,
+        "book_name": "TIAGO",
+        "book_full_name": "EPÍSTOLA UNIVERSAL DO APÓSTOLO TIAGO"
+    },
+    "chapter": {
+        "chapter_number": 4,
+        "chapter_reference": "",
+        "chapter_title": "Devemos resistir às paixões",
+        "versicles": [
+            {
+                "id": "v4.1",
+                "versicle_number": 1,
+                "text": "DONDE vêm as guerras e pelejas entre vós? Porventura não vêm disto, a saber, dos vossos deleites, que nos vossos membros guerreiam?"
+            },
+            {
+                "id": "v4.2",
+                "versicle_number": 2,
+                "text": "Cobiçais, e nada tendes: sois invejosos e cobiçosos, e não podeis alcançar: combateis e guerreais, e nada tendes, porque não pedis."
+            },
+            {
+                "id": "v4.3",
+                "versicle_number": 3,
+                "text": "Pedis, e não recebeis, porque pedis mal, para o gastardes em vossos deleites."
+            },
+            {
+                "id": "v4.4",
+                "versicle_number": 4,
+                "text": "Adúlteros e adúlteras, não sabeis vós que a amizade do mundo é inimizade contra Deus? Portanto qualquer que quiser ser amigo do mundo constitui-se inimigo de Deus."
+            },
+            {
+                "id": "v4.5",
+                "versicle_number": 5,
+                "text": "Ou cuidais vós que em vão diz a Escritura: O espírito que em nós habita tem ciúmes?"
+            },
+            {
+                "id": "v4.6",
+                "versicle_number": 6,
+                "text": "Antes dá maior graça. Portanto diz: Deus resiste aos soberbos,{note:1} dá, porém, graça aos humildes."
+            },
+            {
+                "id": "v4.7",
+                "versicle_number": 7,
+                "text": "Sujeitai-vos pois a Deus, resisti ao diabo, e ele fugirá de vós."
+            },
+            {
+                "id": "v4.8",
+                "versicle_number": 8,
+                "text": "Chegai-vos a Deus, e ele se chegará a vós. Alimpai as mãos, pecadores; e, vós de duplo ânimo, purificai os corações."
+            },
+            {
+                "id": "v4.9",
+                "versicle_number": 9,
+                "text": "Senti as vossas misérias, e lamentai e chorai: converta-se o vosso riso em pranto, e o vosso gozo em tristeza."
+            },
+            {
+                "id": "v4.10",
+                "versicle_number": 10,
+                "text": "Humilhai-vos perante o Senhor, e ele vos exaltará."
+            },
+            {
+                "id": "v4.11",
+                "versicle_number": 11,
+                "text": "Irmãos, não faleis mal uns dos outros. Quem fala mal de um irmão, e julga a seu irmão, fala mal da lei, e julga a lei; e, se tu julgas a lei já não és observador da lei, mas juiz."
+            },
+            {
+                "id": "v4.12",
+                "versicle_number": 12,
+                "text": "Há só um legislador e um juiz que pode salvar e destruir. Tu, porém, quem és, que julgas a outrem?"
+            },
+            {
+                "id": "v4.13",
+                "versicle_number": 13,
+                "text": "Eia agora vós, que dizeis: Hoje, ou amanhã, iremos a tal cidade, e lá passaremos um ano, e contrataremos, e ganharemos;"
+            },
+            {
+                "id": "v4.14",
+                "versicle_number": 14,
+                "text": "Digo-vos que não sabeis o que acontecerá amanhã. Porque, que é a vossa vida? É um vapor que aparece por um pouco, e depois se desvanece."
+            },
+            {
+                "id": "v4.15",
+                "versicle_number": 15,
+                "text": "Em lugar do que devíeis dizer: Se o Senhor quiser, e se vivermos, faremos isto ou aquilo."
+            },
+            {
+                "id": "v4.16",
+                "versicle_number": 16,
+                "text": "Mas agora vos gloriais em vossas presunções: toda a glória tal como esta é maligna.{note:2}"
+            },
+            {
+                "id": "v4.17",
+                "versicle_number": 17,
+                "text": "Aquele pois que sabe fazer o bem e o não faz, comete pecado."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v4.13",
+                "text": "A falibilidade dos projetos humanos"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 4.6 Pv 3.34"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 4.13-16 Pv 27.1"
+            }
+        ]
+    }
+}

@@ -1,0 +1,335 @@
+{
+    "book": {
+        "id": "1Sm",
+        "book_number": 9,
+        "new_testament": false,
+        "num_chapters": 31,
+        "book_name": "SAMUEL",
+        "book_full_name": "O PRIMEIRO LIVRO DE SAMUEL"
+    },
+    "chapter": {
+        "chapter_number": 17,
+        "chapter_reference": "",
+        "chapter_title": "Guerra entre os israelitas e os filisteus",
+        "versicles": [
+            {
+                "id": "v17.1",
+                "versicle_number": 1,
+                "text": "E OS filisteus ajuntaram os seus arraiais para a guerra e congregaram-se em Socó, que está em Judá, e acamparam-se entre Socó e Azeca, no termo de Damim."
+            },
+            {
+                "id": "v17.2",
+                "versicle_number": 2,
+                "text": "Porém Saul e os homens de Israel se ajuntaram e acamparam no vale do carvalho, e ordenaram a batalha contra os filisteus."
+            },
+            {
+                "id": "v17.3",
+                "versicle_number": 3,
+                "text": "E os filisteus estavam num monte da banda dalém, e os israelitas estavam no outro monte da banda daquém; e o vale estava entre eles."
+            },
+            {
+                "id": "v17.4",
+                "versicle_number": 4,
+                "text": "Então saiu do arraial dos filisteus um homem guerreiro, cujo nome era Golias de Gate, que tinha de altura seis côvados e um palmo."
+            },
+            {
+                "id": "v17.5",
+                "versicle_number": 5,
+                "text": "Trazia na cabeça um capacete de bronze, e vestia uma couraça de escamas; e era o peso da couraça de cinco mil siclos de bronze."
+            },
+            {
+                "id": "v17.6",
+                "versicle_number": 6,
+                "text": "E trazia grevas de bronze por cima de seus pés, e um escudo de bronze entre os seus ombros."
+            },
+            {
+                "id": "v17.7",
+                "versicle_number": 7,
+                "text": "E a haste da sua lança era como o órgão do tecelão, e o ferro da sua lança de seiscentos siclos de ferro, e diante dele ia o escudeiro."
+            },
+            {
+                "id": "v17.8",
+                "versicle_number": 8,
+                "text": "E parou, e clamou às companhias de Israel, e disse-lhes: Para que saireis a ordenar a batalha? Não sou eu filisteu e vós servos de Saul? Escolhei dentre vós um homem que desça a mim."
+            },
+            {
+                "id": "v17.9",
+                "versicle_number": 9,
+                "text": "Se ele puder pelejar comigo, e me ferir, seremos vossos servos; porém, se eu o vencer, e o ferir, então sereis nossos servos, e nos servireis."
+            },
+            {
+                "id": "v17.10",
+                "versicle_number": 10,
+                "text": "Disse mais o filisteu: Hoje desafio as companhias de Israel, dizendo: Dai-me um homem, para que ambos pelejemos."
+            },
+            {
+                "id": "v17.11",
+                "versicle_number": 11,
+                "text": "Ouvindo então Saul e todo o Israel estas palavras do filisteu, espantaram-se, e temeram muito."
+            },
+            {
+                "id": "v17.12",
+                "versicle_number": 12,
+                "text": "E Davi era filho de um homem, efrateu, de Belém de Judá, cujo nome era Jessé, que tinha oito filhos: e nos dias de Saul era este homem já velho e adiantado na idade entre os homens."
+            },
+            {
+                "id": "v17.13",
+                "versicle_number": 13,
+                "text": "Foram-se os três filhos mais velhos de Jessé, e seguiram a Saul à guerra: e eram os nomes de seus três filhos, que foram à guerra, Eliabe, o primogênito, e o segundo Abinadabe, e o terceiro Sama."
+            },
+            {
+                "id": "v17.14",
+                "versicle_number": 14,
+                "text": "E Davi era o menor; e os três maiores seguiram a Saul."
+            },
+            {
+                "id": "v17.15",
+                "versicle_number": 15,
+                "text": "Davi porém ia e voltava de Saul, para apascentar as ovelhas de seu pai em Belém."
+            },
+            {
+                "id": "v17.16",
+                "versicle_number": 16,
+                "text": "Chegava-se pois o filisteu pela manhã e à tarde; e apresentou-se por quarenta dias."
+            },
+            {
+                "id": "v17.17",
+                "versicle_number": 17,
+                "text": "E disse Jessé a Davi, seu filho: Toma, peço-te, para teus irmãos um efa deste grão tostado e estes dez pães e corre a levá-los ao arraial, a teus irmãos."
+            },
+            {
+                "id": "v17.18",
+                "versicle_number": 18,
+                "text": "Porém estes dez queijos de leite leva ao chefe de mil; e visitarás a teus irmãos, a ver se lhes vai bem; e tomarás o seu penhor."
+            },
+            {
+                "id": "v17.19",
+                "versicle_number": 19,
+                "text": "E estavam Saul, e eles, e todos os homens de Israel no vale do carvalho, pelejando com os filisteus."
+            },
+            {
+                "id": "v17.20",
+                "versicle_number": 20,
+                "text": "Davi então de madrugada se levantou pela manhã, e deixou as ovelhas a um guarda, e carregou-se, e partiu, como Jessé lhe ordenara: e chegou ao lugar dos carros, quando já o arraial saía em ordem de batalha, e a gritos chamavam à peleja."
+            },
+            {
+                "id": "v17.21",
+                "versicle_number": 21,
+                "text": "E os israelitas e filisteus se puseram em ordem, fileira contra fileira."
+            },
+            {
+                "id": "v17.22",
+                "versicle_number": 22,
+                "text": "E Davi deixou a carga que trouxera na mão do guarda da bagagem, e correu à batalha; e, chegando, perguntou a seus irmãos se estavam bem."
+            },
+            {
+                "id": "v17.23",
+                "versicle_number": 23,
+                "text": "E, estando ele ainda falando com eles, eis que vinha subindo do exército dos filisteus o homem guerreiro, cujo nome era Golias, o filisteu de Gate, e falou conforme àquelas palavras, e Davi as ouviu."
+            },
+            {
+                "id": "v17.24",
+                "versicle_number": 24,
+                "text": "Porém todos os homens em Israel, vendo aquele homem, fugiam de diante dele, e temiam grandemente;"
+            },
+            {
+                "id": "v17.25",
+                "versicle_number": 25,
+                "text": "E diziam os homens de Israel: Vistes aquele homem que subiu? pois subiu para afrontar a Israel: há de ser pois que ao homem que o ferir o rei o enriquecerá de grandes riquezas, e lhe dará a sua filha, e fará franca a casa de seu pai em Israel."
+            },
+            {
+                "id": "v17.26",
+                "versicle_number": 26,
+                "text": "Então falou Davi aos homens que estavam com ele, dizendo: Que farão àquele homem que ferir a este filisteu, e tirar a afronta de sobre Israel? quem é pois este incircunciso filisteu, para afrontar os exércitos do Deus vivo?"
+            },
+            {
+                "id": "v17.27",
+                "versicle_number": 27,
+                "text": "E o povo lhe tornou a falar conforme àquela palavra, dizendo: Assim farão ao homem que o ferir."
+            },
+            {
+                "id": "v17.28",
+                "versicle_number": 28,
+                "text": "E, ouvindo Eliabe, seu irmão mais velho falar àqueles homens, acendeu-se a ira de Eliabe contra Davi, e disse: Por que desceste aqui? e a quem deixaste aquelas poucas ovelhas no deserto? bem conheço a tua presunção, e a maldade do teu coração, que desceste para ver a peleja."
+            },
+            {
+                "id": "v17.29",
+                "versicle_number": 29,
+                "text": "Então disse Davi: Que fiz eu agora? porventura não há razão para isso?"
+            },
+            {
+                "id": "v17.30",
+                "versicle_number": 30,
+                "text": "E desviou-se dele para outro, e falou conforme àquela palavra: e o povo lhe tornou a responder conforme às primeiras palavras."
+            },
+            {
+                "id": "v17.31",
+                "versicle_number": 31,
+                "text": "E, ouvidas as palavras que Davi havia falado, as anunciaram a Saul, e mandou em busca dele."
+            },
+            {
+                "id": "v17.32",
+                "versicle_number": 32,
+                "text": "E Davi disse a Saul: Não desfaleça o coração de ninguém por causa dele: teu servo irá, e pelejará contra este filisteu."
+            },
+            {
+                "id": "v17.33",
+                "versicle_number": 33,
+                "text": "Porém Saul disse a Davi: Contra este filisteu não poderás ir para pelejar com ele: pois tu ainda és moço, e ele homem de guerra desde a sua mocidade."
+            },
+            {
+                "id": "v17.34",
+                "versicle_number": 34,
+                "text": "Então disse Davi a Saul: Teu servo apascentava as ovelhas de seu pai; e vinha um leão e um urso, e tomava uma ovelha do rebanho;"
+            },
+            {
+                "id": "v17.35",
+                "versicle_number": 35,
+                "text": "E eu saí após ele, e o feri, e livrei-a da sua boca: e, levantando-se ele contra mim, lancei-lhe mão da barba, e o feri, e o matei."
+            },
+            {
+                "id": "v17.36",
+                "versicle_number": 36,
+                "text": "Assim feriu o teu servo o leão como o urso: assim será este incircunciso filisteu como um deles; porquanto afrontou os exércitos do Deus vivo."
+            },
+            {
+                "id": "v17.37",
+                "versicle_number": 37,
+                "text": "Disse mais Davi: O Senhor me livrou da mão do leão, e da do urso; ele me livrará da mão deste filisteu. Então disse Saul a Davi: Vai-te embora, e o Senhor seja contigo."
+            },
+            {
+                "id": "v17.38",
+                "versicle_number": 38,
+                "text": "E Saul vestiu a Davi dos seus vestidos, e pôs-lhe sobre a cabeça um capacete de bronze: e o vestiu de uma couraça."
+            },
+            {
+                "id": "v17.39",
+                "versicle_number": 39,
+                "text": "E Davi cingiu a espada sobre os seus vestidos, e começou a andar; porém nunca o havia experimentado: então disse Davi a Saul: Não posso andar com isto, pois nunca o experimentei. E Davi tirou aquilo de sobre si."
+            },
+            {
+                "id": "v17.40",
+                "versicle_number": 40,
+                "text": "E tomou o seu cajado na mão, e escolheu para si cinco seixos do ribeiro, e pô-los no alforje de pastor, que trazia, a saber, no surrão, e lançou mão da sua funda: e foi-se chegando ao filisteu."
+            },
+            {
+                "id": "v17.41",
+                "versicle_number": 41,
+                "text": "O filisteu também veio e se vinha chegando a Davi; e o que lhe levava o escudo ia diante dele."
+            },
+            {
+                "id": "v17.42",
+                "versicle_number": 42,
+                "text": "E, olhando o filisteu, e vendo a Davi, o desprezou, porquanto era mancebo, ruivo, e de gentil aspecto."
+            },
+            {
+                "id": "v17.43",
+                "versicle_number": 43,
+                "text": "Disse pois o filisteu a Davi: Sou eu algum cão para tu vires a mim com paus? E o filisteu amaldiçoou a Davi pelos seus deuses."
+            },
+            {
+                "id": "v17.44",
+                "versicle_number": 44,
+                "text": "Disse mais o filisteu a Davi: Vem a mim, e darei a tua carne às aves do céu e às bestas do campo."
+            },
+            {
+                "id": "v17.45",
+                "versicle_number": 45,
+                "text": "Davi porém disse ao filisteu: Tu vens a mim com espada, e com lança, e com escudo; porém eu venho a ti em nome do Senhor dos exércitos, o Deus dos exércitos de Israel, a quem tens afrontado."
+            },
+            {
+                "id": "v17.46",
+                "versicle_number": 46,
+                "text": "Hoje mesmo o Senhor te entregará na minha mão, e ferir-te-ei, e te tirarei a cabeça, e os corpos do arraial dos filisteus darei hoje mesmo às aves do céu e às bestas da terra: e toda a terra saberá que há Deus em Israel:"
+            },
+            {
+                "id": "v17.47",
+                "versicle_number": 47,
+                "text": "E saberá toda esta congregação que o Senhor salva, não com espada, nem com lança; porque do Senhor é a guerra, e ele vos entregará na nossa mão."
+            },
+            {
+                "id": "v17.48",
+                "versicle_number": 48,
+                "text": "E sucedeu que, levantando-se o filisteu, e indo encontrar-se com Davi, apressou-se Davi, e correu ao combate, a encontrar-se com o filisteu."
+            },
+            {
+                "id": "v17.49",
+                "versicle_number": 49,
+                "text": "E Davi meteu a mão no alforje, e tomou dali uma pedra e com a funda lha atirou, e feriu o filisteu na testa, e a pedra se lhe cravou na testa, e caiu sobre o seu rosto em terra."
+            },
+            {
+                "id": "v17.50",
+                "versicle_number": 50,
+                "text": "Assim Davi prevaleceu contra o filisteu, com uma funda e com uma pedra, e feriu o filisteu, e o matou sem que Davi tivesse uma espada na mão."
+            },
+            {
+                "id": "v17.51",
+                "versicle_number": 51,
+                "text": "Pelo que correu Davi, e pôs-se em pé sobre o filisteu, e tomou a sua espada, e tirou-a da bainha; e o matou, e lhe cortou com ela a cabeça: vendo então os filisteus, que o seu {note:j}campeão era morto, fugiram."
+            },
+            {
+                "id": "v17.52",
+                "versicle_number": 52,
+                "text": "Então os homens de Israel e Judá se levantaram, e jubilaram, e seguiram os filisteus, até chegar ao vale, e até às portas de Ecrom: e caíram os feridos dos filisteus pelo caminho de Saaraim até Gate e até Ecrom."
+            },
+            {
+                "id": "v17.53",
+                "versicle_number": 53,
+                "text": "Então voltaram os filhos de Israel de perseguirem os filisteus, e despojaram os seus arraiais."
+            },
+            {
+                "id": "v17.54",
+                "versicle_number": 54,
+                "text": "E Davi tomou a cabeça do filisteu, e a trouxe a Jerusalém: porém pôs as armas dele na sua tenda."
+            },
+            {
+                "id": "v17.55",
+                "versicle_number": 55,
+                "text": "Vendo porém Saul sair Davi a encontrar-se com o filisteu, disse a Abner, o chefe do exército: De quem é filho este mancebo, Abner? E disse Abner: Vive a tua alma, ó rei, que o não sei."
+            },
+            {
+                "id": "v17.56",
+                "versicle_number": 56,
+                "text": "Disse então o rei: Pergunta, pois, de quem é filho este mancebo."
+            },
+            {
+                "id": "v17.57",
+                "versicle_number": 57,
+                "text": "Voltando pois Davi de ferir o filisteu, Abner o tomou consigo, e o trouxe à presença de Saul, trazendo ele na mão a cabeça do filisteu."
+            },
+            {
+                "id": "v17.58",
+                "versicle_number": 58,
+                "text": "E disse-lhe Saul: De quem és filho, mancebo? E disse Davi: Filho de teu servo Jessé, belemita."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "",
+                "text": "Jessé envia Davi a seus irmãos"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v17.23",
+                "text": "O gigante Golias insulta os israelitas"
+            },
+            {
+                "id": "s3",
+                "next_versicle_id": "v17.32",
+                "text": "Davi dispõe-se a pelejar contra o gigante"
+            },
+            {
+                "id": "s4",
+                "next_versicle_id": "v17.48",
+                "text": "Davi encontra-se com o gigante e mata-o"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:j} 17.51 ou homem valoroso"
+            }
+        ]
+    }
+}

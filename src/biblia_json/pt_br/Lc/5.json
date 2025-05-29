@@ -1,0 +1,252 @@
+{
+    "book": {
+        "id": "Lc",
+        "book_number": 42,
+        "new_testament": true,
+        "num_chapters": 24,
+        "book_name": "LUCAS",
+        "book_full_name": "O SANTO EVANGELHO SEGUNDO LUCAS"
+    },
+    "chapter": {
+        "chapter_number": 5,
+        "chapter_reference": "Mateus 8.1-4 e refs.",
+        "chapter_title": "A pesca maravilhosa: os primeiros discípulos",
+        "versicles": [
+            {
+                "id": "v5.1",
+                "versicle_number": 1,
+                "text": "E ACONTECEU que, apertando-o a multidão, para ouvir a palavra de Deus, estava ele junto ao lago de Genesaré;"
+            },
+            {
+                "id": "v5.2",
+                "versicle_number": 2,
+                "text": "E viu estar dois barcos junto à praia do lago; e os pescadores, havendo descido deles, estavam lavando as redes."
+            },
+            {
+                "id": "v5.3",
+                "versicle_number": 3,
+                "text": "E, entrando num dos barcos, que era o de Simão, pediu-lhe que o afastasse um pouco da terra; e, assentando-se, ensinava do barco a multidão.{note:1}"
+            },
+            {
+                "id": "v5.4",
+                "versicle_number": 4,
+                "text": "E, quando acabou de falar, disse a Simão: Faze-te ao mar alto, e lançai as vossas redes para pescar."
+            },
+            {
+                "id": "v5.5",
+                "versicle_number": 5,
+                "text": "E, respondendo Simão, disse-lhe: Mestre, havendo trabalhado toda a noite, nada apanhamos; mas, sobre tua palavra, lançarei a rede."
+            },
+            {
+                "id": "v5.6",
+                "versicle_number": 6,
+                "text": "E, fazendo assim, colheram uma grande quantidade de peixes, e rompia-se-lhes a rede."
+            },
+            {
+                "id": "v5.7",
+                "versicle_number": 7,
+                "text": "E fizeram sinal aos companheiros que estavam no outro barco, para que os fossem ajudar. E foram, e encheram ambos os barcos, de maneira tal que quase iam a pique."
+            },
+            {
+                "id": "v5.8",
+                "versicle_number": 8,
+                "text": "E, vendo isto Simão Pedro, prostrou-se aos pés de Jesus, dizendo: Senhor, ausenta-te de mim, que sou um homem pecador."
+            },
+            {
+                "id": "v5.9",
+                "versicle_number": 9,
+                "text": "Pois que o espanto se apoderara dele, e de todos os que com ele estavam, por causa da pesca de peixe que haviam feito;"
+            },
+            {
+                "id": "v5.10",
+                "versicle_number": 10,
+                "text": "E, de igual modo, também de Tiago e João, filhos de Zebedeu, que eram companheiros de Simão. E disse Jesus a Simão: Não temas: de agora em diante serás pescador de homens."
+            },
+            {
+                "id": "v5.11",
+                "versicle_number": 11,
+                "text": "E, levando os barcos para terra, deixaram tudo, e o seguiram.{note:2}"
+            },
+            {
+                "id": "v5.12",
+                "versicle_number": 12,
+                "text": "E aconteceu que, quando estava numa daquelas cidades, eis que um homem cheio de lepra, vendo a Jesus, prostrou-se sobre o rosto, e rogou-lhe, dizendo: Senhor, se quiseres, bem podes limpar-me."
+            },
+            {
+                "id": "v5.13",
+                "versicle_number": 13,
+                "text": "E ele, estendendo a mão, tocou-lhe, dizendo: Quero; sê limpo. E logo a lepra desapareceu dele,"
+            },
+            {
+                "id": "v5.14",
+                "versicle_number": 14,
+                "text": "E ordenou-lhe que a ninguém o dissesse. Mas vai, disse, mostra-te ao sacerdote, e oferece,{note:3} pela tua purificação, o que Moisés determinou, para que lhes sirva de testemunho."
+            },
+            {
+                "id": "v5.15",
+                "versicle_number": 15,
+                "text": "Porém a sua fama se propagava ainda mais, e ajuntava-se muita gente para o ouvir e para ser por ele curada das suas enfermidades."
+            },
+            {
+                "id": "v5.16",
+                "versicle_number": 16,
+                "text": "Porém ele retirava-se para os desertos, e ali orava."
+            },
+            {
+                "id": "v5.17",
+                "versicle_number": 17,
+                "text": "E aconteceu que, num daqueles dias, estava ensinando, e estavam ali assentados fariseus e doutores da lei, que tinham vindo de todas as aldeias da Galileia, e da Judeia, e de Jerusalém. E a virtude do Senhor estava com ele para curar."
+            },
+            {
+                "id": "v5.18",
+                "versicle_number": 18,
+                "text": "E eis que uns homens transportaram numa cama um homem que estava paralítico, e procuravam fazê-lo entrar e pô-lo diante dele;"
+            },
+            {
+                "id": "v5.19",
+                "versicle_number": 19,
+                "text": "E, não achando por onde o pudessem levar, por causa da multidão, subiram ao telhado, e por entre as telhas o baixaram com a cama, até ao meio, diante de Jesus."
+            },
+            {
+                "id": "v5.20",
+                "versicle_number": 20,
+                "text": "E, vendo ele a fé deles, disse-lhe: Homem, os teus pecados te são perdoados."
+            },
+            {
+                "id": "v5.21",
+                "versicle_number": 21,
+                "text": "E os escribas e os fariseus começaram a arrazoar, dizendo: Quem é este que diz blasfêmias? Quem pode perdoar pecados, senão só Deus?"
+            },
+            {
+                "id": "v5.22",
+                "versicle_number": 22,
+                "text": "Jesus, porém, conhecendo os seus pensamentos, respondeu, e disse-lhes: Que arrazoais em vossos corações?"
+            },
+            {
+                "id": "v5.23",
+                "versicle_number": 23,
+                "text": "Qual é mais fácil? dizer: Os teus pecados te são perdoados; ou dizer: Levanta-te, e anda?"
+            },
+            {
+                "id": "v5.24",
+                "versicle_number": 24,
+                "text": "Ora, para que saibais que o Filho do homem tem sobre a terra poder de perdoar pecados (disse ao paralítico), a ti te digo: Levanta-te, toma a tua cama, e vai para tua casa."
+            },
+            {
+                "id": "v5.25",
+                "versicle_number": 25,
+                "text": "E, levantando-se logo diante deles, e tomando a cama em que estava deitado, foi para sua casa, glorificando a Deus."
+            },
+            {
+                "id": "v5.26",
+                "versicle_number": 26,
+                "text": "E todos ficaram maravilhados, e glorificaram a Deus; e ficaram cheios de temor, dizendo: Hoje vimos prodígios."
+            },
+            {
+                "id": "v5.27",
+                "versicle_number": 27,
+                "text": "E, depois disto, saiu, e viu um publicano, chamado Levi, assentado na recebedoria, e disse-lhe: Segue-me."
+            },
+            {
+                "id": "v5.28",
+                "versicle_number": 28,
+                "text": "E ele, deixando tudo, levantou-se e o seguiu."
+            },
+            {
+                "id": "v5.29",
+                "versicle_number": 29,
+                "text": "E fez-lhe Levi um grande banquete em sua casa; e havia ali uma multidão de publicanos e outros que estavam com eles à mesa."
+            },
+            {
+                "id": "v5.30",
+                "versicle_number": 30,
+                "text": "E os escribas deles, e os fariseus, murmuravam contra os seus discípulos, dizendo: Por que comeis e bebeis com publicanos e pecadores?{note:4}"
+            },
+            {
+                "id": "v5.31",
+                "versicle_number": 31,
+                "text": "E Jesus, respondendo, disse-lhes: Não necessitam de médico os que estão sãos, mas, sim, os que estão enfermos;"
+            },
+            {
+                "id": "v5.32",
+                "versicle_number": 32,
+                "text": "Eu não vim chamar os justos, mas, sim, os pecadores, ao arrependimento."
+            },
+            {
+                "id": "v5.33",
+                "versicle_number": 33,
+                "text": "Disseram-lhe então eles: Por que jejuam os discípulos de João muitas vezes, e fazem orações, como também os dos fariseus, mas os teus comem e bebem?"
+            },
+            {
+                "id": "v5.34",
+                "versicle_number": 34,
+                "text": "E ele lhes disse: Podeis vós fazer jejuar os filhos das bodas, enquanto o esposo está com eles?"
+            },
+            {
+                "id": "v5.35",
+                "versicle_number": 35,
+                "text": "Dias virão, porém, em que o esposo lhes será tirado, e então, naqueles dias, jejuarão."
+            },
+            {
+                "id": "v5.36",
+                "versicle_number": 36,
+                "text": "E disse-lhes também uma parábola: Ninguém tira um pedaço dum vestido novo para o coser em vestido velho, pois que romperá o novo e o remendo não condiz com o velho."
+            },
+            {
+                "id": "v5.37",
+                "versicle_number": 37,
+                "text": "E ninguém deita vinho novo em odres velhos; doutra sorte o vinho novo romperá os odres, e entornar-se-á o vinho, e os odres se estragarão;"
+            },
+            {
+                "id": "v5.38",
+                "versicle_number": 38,
+                "text": "Mas o vinho novo deve deitar-se em odres novos, e ambos juntamente se conservarão."
+            },
+            {
+                "id": "v5.39",
+                "versicle_number": 39,
+                "text": "E ninguém tendo bebido o velho quer logo o novo, porque diz: Melhor é o velho."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "",
+                "text": "Cura dum leproso"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "",
+                "text": "Cura dum paralítico"
+            },
+            {
+                "id": "s3",
+                "next_versicle_id": "",
+                "text": "A vocação de Levi"
+            },
+            {
+                "id": "s4",
+                "next_versicle_id": "",
+                "text": "Acerca do jejum"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 5.1-3 Mt 13.1-2; Mc 3.9-10; 4.1"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 5.1-11 Jo 21.1-14"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 5.14 Lv 14.1-32"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 5.29-30 Lc 15.1-2"
+            }
+        ]
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "book": {
+        "id": "Jr",
+        "book_number": 24,
+        "new_testament": false,
+        "num_chapters": 52,
+        "book_name": "JEREMIAS",
+        "book_full_name": "JEREMIAS"
+    },
+    "chapter": {
+        "chapter_number": 40,
+        "chapter_reference": "",
+        "chapter_title": "Jeremias fica em Mizpá com Gedalias",
+        "versicles": [
+            {
+                "id": "v40.1",
+                "versicle_number": 1,
+                "text": "A PALAVRA que veio a Jeremias da parte do Senhor, depois que Nebuzaradão, capitão da guarda, o deixou ir de Ramá, quando o tomou, estando ele atado com cadeias no meio de todos os do cativeiro de Jerusalém e de Judá, que foram levados cativos para Babilônia;"
+            },
+            {
+                "id": "v40.2",
+                "versicle_number": 2,
+                "text": "Porque o capitão da guarda levou Jeremias, e lhe disse. O Senhor teu Deus pronunciou este mal contra este lugar;"
+            },
+            {
+                "id": "v40.3",
+                "versicle_number": 3,
+                "text": "E o Senhor o trouxe, e fez como havia dito: porque pecastes contra o Senhor, e não obedecestes à sua voz; pelo que vos sucedeu tudo isto."
+            },
+            {
+                "id": "v40.4",
+                "versicle_number": 4,
+                "text": "Agora pois, eis que te soltei hoje das cadeias que estavam sobre as tuas mãos. Se te apraz vir comigo para Babilônia, vem, e eu velarei por ti; mas, se te não apraz vir comigo para Babilônia, deixa de vir. Olha toda a terra está diante de ti; para onde parecer bom e reto aos teus olhos que vás, para ali vai."
+            },
+            {
+                "id": "v40.5",
+                "versicle_number": 5,
+                "text": "Mas, como ele ainda não tinha voltado, disse-lhe: Volta a Gedalias, filho de Aicão, filho de Safã, a quem o rei de Babilônia pôs sobre as cidades de Judá, e habita com ele no meio do povo; ou se para qualquer outra parte te aprouver ir, vai. E deu-lhe o capitão da guarda sustento para o caminho, e um presente, e o deixou ir."
+            },
+            {
+                "id": "v40.6",
+                "versicle_number": 6,
+                "text": "Assim veio Jeremias a Gedalias, filho de Aicão, a Mizpá; e habitou com ele no meio do povo que havia ficado na terra."
+            },
+            {
+                "id": "v40.7",
+                "versicle_number": 7,
+                "text": "Ouvindo pois todos os príncipes dos exércitos, que estavam no campo, eles e os seus homens, que o rei de Babilônia tinha posto sobre a terra a Gedalias,{note:1} filho de Aicão, e que lhe havia confiado os homens, e as mulheres, e os meninos, e os mais pobres da terra, que não foram levados cativos para Babilônia,"
+            },
+            {
+                "id": "v40.8",
+                "versicle_number": 8,
+                "text": "Vieram ter com Gedalias, a Mizpá; e eram: Ismael, filho de Netanias, e Joanã e Jônatas, filhos de Careá, e Seraías, filho de Tanumete, e os filhos de Efai, o netofatita, e Jezanias, filho dum maacatita, eles e os seus homens."
+            },
+            {
+                "id": "v40.9",
+                "versicle_number": 9,
+                "text": "Jurou Gedalias, filho de Aicão, filho de Safã, a eles, e aos seus homens, dizendo: Não temais servir aos caldeus: ficai na terra, e servi o rei de Babilônia, e bem vos irá."
+            },
+            {
+                "id": "v40.10",
+                "versicle_number": 10,
+                "text": "Eu, porém, eis que habito em Mizpá, para estar às ordens dos caldeus que vierem a nós; e vós recolhei o vinho, e as frutas de verão, e o azeite, e metei-os nos vossos vasos, e habitai nas vossas cidades que tomastes."
+            },
+            {
+                "id": "v40.11",
+                "versicle_number": 11,
+                "text": "Do mesmo modo, quando todos os judeus que estavam em Moabe, e entre os filhos de Amom, e em Edom, e os que havia em todas aquelas terras, ouviram que o rei de Babilônia havia deixado um resto em Judá, e que havia posto sobre eles a Gedalias, filho de Aicão, filho de Safã,"
+            },
+            {
+                "id": "v40.12",
+                "versicle_number": 12,
+                "text": "Tornaram então todos os judeus de todos os lugares, para onde foram lançados, e vieram à terra de Judá, a Gedalias, a Mizpá; e recolheram vinho e frutas do verão com muita abundância."
+            },
+            {
+                "id": "v40.13",
+                "versicle_number": 13,
+                "text": "Joanã, filho de Careá, e todos os príncipes dos exércitos, que estavam no campo, vieram a Gedalias, a Mizpá."
+            },
+            {
+                "id": "v40.14",
+                "versicle_number": 14,
+                "text": "E disseram-lhe: Bem sabes que Baalis, rei dos filhos de Amom, enviou a Ismael, filho de Netanias, para te tirar a vida. Mas não lhes deu crédito Gedalias, filho de Aicão."
+            },
+            {
+                "id": "v40.15",
+                "versicle_number": 15,
+                "text": "Todavia Joanã, filho de Careá, falou a Gedalias em segredo, em Mizpá, dizendo: Irei agora, e ferirei a Ismael, filho de Netanias, sem que ninguém o saiba: por que razão te tiraria ele a vida, e todo o Judá que se tem congregado a ti seria disperso, e pereceria o resto de Judá?"
+            },
+            {
+                "id": "v40.16",
+                "versicle_number": 16,
+                "text": "Mas disse Gedalias, filho de Aicão, a Joanã, filho de Careá: Não faças tal cousa; por que falas falsamente contra Ismael."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 40.7 2Rs 25.22-24"
+            }
+        ]
+    }
+}

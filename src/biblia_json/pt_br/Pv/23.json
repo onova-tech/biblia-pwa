@@ -1,0 +1,199 @@
+{
+    "book": {
+        "id": "Pv",
+        "book_number": 20,
+        "new_testament": false,
+        "num_chapters": 31,
+        "book_name": "PROVÉRBIOS",
+        "book_full_name": "DE SALOMÃO PROVÉRBIOS"
+    },
+    "chapter": {
+        "chapter_number": 23,
+        "chapter_reference": "",
+        "chapter_title": "",
+        "versicles": [
+            {
+                "id": "v23.1",
+                "versicle_number": 1,
+                "text": "QUANDO te assentares a comer com um governador, atenta bem para o que se te pôs diante."
+            },
+            {
+                "id": "v23.2",
+                "versicle_number": 2,
+                "text": "E põe uma faca à tua garganta, se és homem glutão."
+            },
+            {
+                "id": "v23.3",
+                "versicle_number": 3,
+                "text": "Não cobices os seus manjares gostosos, porque são pão de mentiras."
+            },
+            {
+                "id": "v23.4",
+                "versicle_number": 4,
+                "text": "Não te canses para enriqueceres; dá de mão à tua própria sabedoria."
+            },
+            {
+                "id": "v23.5",
+                "versicle_number": 5,
+                "text": "Porventura fitarás os teus olhos naquilo que não é nada? porque certamente isso se fará asas e voará ao céu como a águia."
+            },
+            {
+                "id": "v23.6",
+                "versicle_number": 6,
+                "text": "Não comas o pão daquele que tem os olhos malignos, nem cobices os seus manjares gostosos."
+            },
+            {
+                "id": "v23.7",
+                "versicle_number": 7,
+                "text": "Porque, como imaginou na sua alma, assim é; ele te dirá: Come e bebe: mas o seu coração não estará contigo."
+            },
+            {
+                "id": "v23.8",
+                "versicle_number": 8,
+                "text": "Vomitarias o bocado que comeste, e perderias as tuas suaves palavras."
+            },
+            {
+                "id": "v23.9",
+                "versicle_number": 9,
+                "text": "Não fales aos ouvidos do tolo, porque desprezará a sabedoria das tuas palavras."
+            },
+            {
+                "id": "v23.10",
+                "versicle_number": 10,
+                "text": "Não removas os limites antigos, nem entres nas herdades dos órfãos"
+            },
+            {
+                "id": "v23.11",
+                "versicle_number": 11,
+                "text": "Porque o seu redentor é forte; ele pleiteará a sua causa contra ti."
+            },
+            {
+                "id": "v23.12",
+                "versicle_number": 12,
+                "text": "Aplica à disciplina o teu coração e os teus ouvidos às palavras do conhecimento."
+            },
+            {
+                "id": "v23.13",
+                "versicle_number": 13,
+                "text": "Não retires a disciplina da criança, porque, fustigando-a com a vara, nem por isso morrerá."
+            },
+            {
+                "id": "v23.14",
+                "versicle_number": 14,
+                "text": "Tu a fustigarás com a vara e livrarás a sua alma do {note:n}inferno."
+            },
+            {
+                "id": "v23.15",
+                "versicle_number": 15,
+                "text": "Filho meu, se o teu coração for sábio, alegrar-se-á o meu coração, sim, o meu próprio."
+            },
+            {
+                "id": "v23.16",
+                "versicle_number": 16,
+                "text": "E exultarão os meus rins, quando os teus lábios falarem cousas retas."
+            },
+            {
+                "id": "v23.17",
+                "versicle_number": 17,
+                "text": "Não tenha o teu coração inveja dos pecadores; antes sê no temor do Senhor todo o dia."
+            },
+            {
+                "id": "v23.18",
+                "versicle_number": 18,
+                "text": "Porque deveras há um fim bom: não será malograda a tua esperança."
+            },
+            {
+                "id": "v23.19",
+                "versicle_number": 19,
+                "text": "Ouve tu, filho meu, e sê sábio, e dirige no caminho o teu coração."
+            },
+            {
+                "id": "v23.20",
+                "versicle_number": 20,
+                "text": "Não estejas entre os beberrões de vinho, nem entre os comilões de carne."
+            },
+            {
+                "id": "v23.21",
+                "versicle_number": 21,
+                "text": "Porque o beberrão e o comilão cairão em pobreza; e a sonolência faz trazer os vestidos rotos."
+            },
+            {
+                "id": "v23.22",
+                "versicle_number": 22,
+                "text": "Ouve a teu pai, que te gerou, e não desprezes a tua mãe, quando vier a envelhecer."
+            },
+            {
+                "id": "v23.23",
+                "versicle_number": 23,
+                "text": "Compra a verdade, e não a vendas: sim, a sabedoria, e a disciplina, e a prudência."
+            },
+            {
+                "id": "v23.24",
+                "versicle_number": 24,
+                "text": "Grandemente se regozijará o pai do justo, e o que gerar a um sábio se alegrará nele."
+            },
+            {
+                "id": "v23.25",
+                "versicle_number": 25,
+                "text": "Alegrem-se teu pai e tua mãe, e regozije-se a que te gerou."
+            },
+            {
+                "id": "v23.26",
+                "versicle_number": 26,
+                "text": "Dá-me, filho meu, o teu coração, e os teus olhos observem os meus caminhos."
+            },
+            {
+                "id": "v23.27",
+                "versicle_number": 27,
+                "text": "Porque cova profunda é a prostituta, e poço estreito a estranha."
+            },
+            {
+                "id": "v23.28",
+                "versicle_number": 28,
+                "text": "Também ela, como um salteador, se põe a espreitar, e multiplica entre os homens os iníquos."
+            },
+            {
+                "id": "v23.29",
+                "versicle_number": 29,
+                "text": "Para quem são os ais? para quem os pesares? para quem as pelejas? para quem as queixas? para quem as feridas sem causa? e para quem os olhos vermelhos?"
+            },
+            {
+                "id": "v23.30",
+                "versicle_number": 30,
+                "text": "Para os que se demoram perto do vinho, para os que andam buscando bebida misturada."
+            },
+            {
+                "id": "v23.31",
+                "versicle_number": 31,
+                "text": "Não olhes para o vinho, quando se mostra vermelho, quando resplandece no copo, e se escoa suavemente."
+            },
+            {
+                "id": "v23.32",
+                "versicle_number": 32,
+                "text": "No seu fim morderá como a cobra, e como o basilisco picará."
+            },
+            {
+                "id": "v23.33",
+                "versicle_number": 33,
+                "text": "Os teus olhos olharão para as mulheres estranhas, e o teu coração falará perversidades."
+            },
+            {
+                "id": "v23.34",
+                "versicle_number": 34,
+                "text": "E serás como o que dorme no meio do mar, e como o que dorme no topo do mastro."
+            },
+            {
+                "id": "v23.35",
+                "versicle_number": 35,
+                "text": "E dirás: Espancaram-me, e não me doeu; bateram-me, e não o senti; quando virei a despertar? ainda tornarei a buscá-la outra vez."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:n} 23.14 Heb. Sheol"
+            }
+        ]
+    }
+}

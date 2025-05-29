@@ -1,0 +1,393 @@
+{
+    "book": {
+        "id": "Ne",
+        "book_number": 16,
+        "new_testament": false,
+        "num_chapters": 13,
+        "book_name": "NEEMIAS",
+        "book_full_name": "O LIVRO DE NEEMIAS"
+    },
+    "chapter": {
+        "chapter_number": 7,
+        "chapter_reference": "",
+        "chapter_title": "Neemias estabelece guardas e faz uma relação dos que primeiro vieram a Jerusalém",
+        "versicles": [
+            {
+                "id": "v7.1",
+                "versicle_number": 1,
+                "text": "SUCEDEU mais que, depois que o muro fora edificado, eu levantei as portas; e foram estabelecidos os porteiros, e os cantores, e os levitas."
+            },
+            {
+                "id": "v7.2",
+                "versicle_number": 2,
+                "text": "Eu nomeei a Hanani, meu irmão, e a Hananias, maioral da fortaleza, sobre Jerusalém; porque era como homem fiel e temente a Deus, mais do que muitos,"
+            },
+            {
+                "id": "v7.3",
+                "versicle_number": 3,
+                "text": "E disse-lhes: não se abram as portas de Jerusalém até que o sol aqueça; e enquanto assistirem ali fechem as portas, e vós trancai-as; e ponham-se guardas dos moradores de Jerusalém, cada um na sua guarda, e cada um diante da sua casa."
+            },
+            {
+                "id": "v7.4",
+                "versicle_number": 4,
+                "text": "E era a cidade larga de espaço, e grande, porém pouco povo havia dentro dela; e ainda as casas não estavam edificadas."
+            },
+            {
+                "id": "v7.5",
+                "versicle_number": 5,
+                "text": "Então o meu Deus me pôs no coração que ajuntasse os nobres, e os magistrados, e o povo, para registrar as genealogias. E achei o livro da genealogia dos que subiram primeiro e assim achei escrito nele:"
+            },
+            {
+                "id": "v7.6",
+                "versicle_number": 6,
+                "text": "Estes são os filhos da província, que subiram do cativeiro, os transportados, que transportara Nabucodonosor, rei de Babilônia; e voltaram para Jerusalém e para Judá, cada um para a sua cidade."
+            },
+            {
+                "id": "v7.7",
+                "versicle_number": 7,
+                "text": "Os quais vieram com Zorobabel, Jesua, Neemias, Azarias, Raamias, Naamani, Mardiqués, Bilsã, Misperete, Bigvai, Neum, e Baana; este é o número dos homens do povo de Israel:"
+            },
+            {
+                "id": "v7.8",
+                "versicle_number": 8,
+                "text": "Foram os filhos de Parós, dois mil cento e setenta e dois."
+            },
+            {
+                "id": "v7.9",
+                "versicle_number": 9,
+                "text": "Os filhos de Sefatias, trezentos e setenta e dois."
+            },
+            {
+                "id": "v7.10",
+                "versicle_number": 10,
+                "text": "Os filhos de Ará, seiscentos e cinquenta e dois."
+            },
+            {
+                "id": "v7.11",
+                "versicle_number": 11,
+                "text": "Os filhos de Paate-Moabe, dos filhos de Jesua e de Joabe, dois mil oitocentos e dezoito."
+            },
+            {
+                "id": "v7.12",
+                "versicle_number": 12,
+                "text": "Os filhos de Elão, mil duzentos e cinquenta e quatro."
+            },
+            {
+                "id": "v7.13",
+                "versicle_number": 13,
+                "text": "Os filhos de Zatu, oitocentos e quarenta e cinco."
+            },
+            {
+                "id": "v7.14",
+                "versicle_number": 14,
+                "text": "Os filhos de Zacai, setecentos e sessenta."
+            },
+            {
+                "id": "v7.15",
+                "versicle_number": 15,
+                "text": "Os filhos de Binuí, seiscentos e quarenta e oito."
+            },
+            {
+                "id": "v7.16",
+                "versicle_number": 16,
+                "text": "Os filhos de Babai, seiscentos e vinte e oito."
+            },
+            {
+                "id": "v7.17",
+                "versicle_number": 17,
+                "text": "Os filhos de Azgade, dois mil trezentos e vinte e dois."
+            },
+            {
+                "id": "v7.18",
+                "versicle_number": 18,
+                "text": "Os filhos de Adonicão, seiscentos e sessenta e sete."
+            },
+            {
+                "id": "v7.19",
+                "versicle_number": 19,
+                "text": "Os filhos de Bigvai, dois mil e sessenta e sete."
+            },
+            {
+                "id": "v7.20",
+                "versicle_number": 20,
+                "text": "Os filhos de Adim, seiscentos e cinquenta e cinco."
+            },
+            {
+                "id": "v7.21",
+                "versicle_number": 21,
+                "text": "Os filhos de Ater, de Hezequias, noventa e oito."
+            },
+            {
+                "id": "v7.22",
+                "versicle_number": 22,
+                "text": "Os filhos de Hassum, trezentos e vinte e oito."
+            },
+            {
+                "id": "v7.23",
+                "versicle_number": 23,
+                "text": "Os filhos de Besai, trezentos e vinte e quatro."
+            },
+            {
+                "id": "v7.24",
+                "versicle_number": 24,
+                "text": "Os filhos de Harife, cento e doze."
+            },
+            {
+                "id": "v7.25",
+                "versicle_number": 25,
+                "text": "Os filhos de Gibeom, noventa e cinco."
+            },
+            {
+                "id": "v7.26",
+                "versicle_number": 26,
+                "text": "Os homens de Belém e de Netofá, cento e oitenta e oito."
+            },
+            {
+                "id": "v7.27",
+                "versicle_number": 27,
+                "text": "Os homens de Anatote, cento e vinte e oito."
+            },
+            {
+                "id": "v7.28",
+                "versicle_number": 28,
+                "text": "Os homens de Bete-Azmavete, quarenta e dois."
+            },
+            {
+                "id": "v7.29",
+                "versicle_number": 29,
+                "text": "Os homens de Quiriate-Jearim, Cefira, e Beerote, setecentos e quarenta e três."
+            },
+            {
+                "id": "v7.30",
+                "versicle_number": 30,
+                "text": "Os homens de Ramá e Geba, seiscentos e vinte e um."
+            },
+            {
+                "id": "v7.31",
+                "versicle_number": 31,
+                "text": "Os homens de Micmas, cento e vinte e dois."
+            },
+            {
+                "id": "v7.32",
+                "versicle_number": 32,
+                "text": "Os homens de Betel e Ai, cento e vinte e três."
+            },
+            {
+                "id": "v7.33",
+                "versicle_number": 33,
+                "text": "Os homens doutra Nebo, cinquenta e dois."
+            },
+            {
+                "id": "v7.34",
+                "versicle_number": 34,
+                "text": "Os filhos do outro Elão, mil duzentos e cinquenta e quatro."
+            },
+            {
+                "id": "v7.35",
+                "versicle_number": 35,
+                "text": "Os filhos de Harim, trezentos e vinte."
+            },
+            {
+                "id": "v7.36",
+                "versicle_number": 36,
+                "text": "Os filhos de Jericó, trezentos e quarenta e cinco."
+            },
+            {
+                "id": "v7.37",
+                "versicle_number": 37,
+                "text": "Os filhos de Lode, Hadide e Ono, setecentos e vinte e um."
+            },
+            {
+                "id": "v7.38",
+                "versicle_number": 38,
+                "text": "Os filhos de Senaa, três mil novecentos e trinta."
+            },
+            {
+                "id": "v7.39",
+                "versicle_number": 39,
+                "text": "Os sacerdotes: Os filhos de Jedaías, da casa de Jesua, novecentos e setenta e três."
+            },
+            {
+                "id": "v7.40",
+                "versicle_number": 40,
+                "text": "Os filhos de Imer, mil e cinquenta e dois."
+            },
+            {
+                "id": "v7.41",
+                "versicle_number": 41,
+                "text": "Os filhos de Pasur, mil duzentos e quarenta e sete."
+            },
+            {
+                "id": "v7.42",
+                "versicle_number": 42,
+                "text": "Os filhos de Harim, mil e dezessete."
+            },
+            {
+                "id": "v7.43",
+                "versicle_number": 43,
+                "text": "Os levitas: Os filhos de Jesua, de Cadmiel, dos filhos de Hodeva, setenta e quatro."
+            },
+            {
+                "id": "v7.44",
+                "versicle_number": 44,
+                "text": "Os cantores: Os filhos de Asafe, cento e quarenta e oito."
+            },
+            {
+                "id": "v7.45",
+                "versicle_number": 45,
+                "text": "Os porteiros: Os filhos de Salum, os filhos de Ater, os filhos de Talmom, os filhos de Hacube, os filhos de Hatita, os filhos de Sobai, cento e trinta e oito."
+            },
+            {
+                "id": "v7.46",
+                "versicle_number": 46,
+                "text": "Os netineus: Os filhos de Zia, os filhos de Hasufa, os filhos de Tabaote,"
+            },
+            {
+                "id": "v7.47",
+                "versicle_number": 47,
+                "text": "Os filhos de Queros, os filhos de Sia, os filhos de Padom,"
+            },
+            {
+                "id": "v7.48",
+                "versicle_number": 48,
+                "text": "Os filhos de Lebana, os filhos de Hagaba, os filhos de Salmai,"
+            },
+            {
+                "id": "v7.49",
+                "versicle_number": 49,
+                "text": "Os filhos de Hanã, os filhos de Gidel, os filhos de Gaar,"
+            },
+            {
+                "id": "v7.50",
+                "versicle_number": 50,
+                "text": "Os filhos de Reaías, os filhos de Resim, os filhos de Necoda,"
+            },
+            {
+                "id": "v7.51",
+                "versicle_number": 51,
+                "text": "Os filhos de Gazão, os filhos de Uzá, os filhos de Paseá,"
+            },
+            {
+                "id": "v7.52",
+                "versicle_number": 52,
+                "text": "Os filhos de Besai, os filhos de Meunim, os filhos de Nefussim,"
+            },
+            {
+                "id": "v7.53",
+                "versicle_number": 53,
+                "text": "Os filhos de Bacbuque, os filhos de Hacufa, os filhos de Harur,"
+            },
+            {
+                "id": "v7.54",
+                "versicle_number": 54,
+                "text": "Os filhos de Baslite, os filhos de Meida, os filhos de Harsa,"
+            },
+            {
+                "id": "v7.55",
+                "versicle_number": 55,
+                "text": "Os filhos de Barcos, os filhos de Sísera, os filhos de Temá,"
+            },
+            {
+                "id": "v7.56",
+                "versicle_number": 56,
+                "text": "Os filhos de Nesiague, os filhos de Hatifa."
+            },
+            {
+                "id": "v7.57",
+                "versicle_number": 57,
+                "text": "Os filhos dos servos de Salomão: os filhos de Sotai, os filhos de Soferete, os filhos de Perida,"
+            },
+            {
+                "id": "v7.58",
+                "versicle_number": 58,
+                "text": "Os filhos de Jaela, os filhos de Darcom, os filhos de Gidel,"
+            },
+            {
+                "id": "v7.59",
+                "versicle_number": 59,
+                "text": "Os filhos de Sefatias, os filhos de Hatil, os filhos de Poquerete-Zabaim, os filhos de Amom."
+            },
+            {
+                "id": "v7.60",
+                "versicle_number": 60,
+                "text": "Todos os netineus e os filhos dos servos de Salomão, trezentos e noventa e dois."
+            },
+            {
+                "id": "v7.61",
+                "versicle_number": 61,
+                "text": "Também estes subiram de Telmela: Telarsa, Querube, Adom, e Imer porém não puderam mostrar a casa de seus pais e a sua linhagem, se eram de Israel."
+            },
+            {
+                "id": "v7.62",
+                "versicle_number": 62,
+                "text": "Os filhos de Delaías, os filhos de Tobias, os filhos de Necoda, seiscentos e quarenta e dois."
+            },
+            {
+                "id": "v7.63",
+                "versicle_number": 63,
+                "text": "E dos sacerdotes: Os filhos de Habaías, os filhos de Cós, os filhos de Barzilai, que tomara uma mulher das filhas de Barzilai, o gileadita, e se chamou do nome delas."
+            },
+            {
+                "id": "v7.64",
+                "versicle_number": 64,
+                "text": "Estes buscaram o seu registro, querendo contar a sua geração, porém não se achou; pelo que, como imundos, foram excluídos do sacerdócio."
+            },
+            {
+                "id": "v7.65",
+                "versicle_number": 65,
+                "text": "E o {note:b}tirsata lhes disse que não comessem das cousas sagradas, até que se aprestasse um sacerdote com Urim{note:1} e Tumim."
+            },
+            {
+                "id": "v7.66",
+                "versicle_number": 66,
+                "text": "Toda esta congregação junta foi de quarenta e dois mil trezentos e sessenta,"
+            },
+            {
+                "id": "v7.67",
+                "versicle_number": 67,
+                "text": "Afora os seus servos e as suas servas, que foram sete mil trezentos e trinta e sete; e tinham duzentos e quarenta e cinco cantores e cantoras."
+            },
+            {
+                "id": "v7.68",
+                "versicle_number": 68,
+                "text": "Os seus cavalos, setecentos e trinta e seis; os seus mulos, duzentos e quarenta e cinco."
+            },
+            {
+                "id": "v7.69",
+                "versicle_number": 69,
+                "text": "Camelos, quatrocentos e trinta e cinco; jumentos, seis mil setecentos e vinte."
+            },
+            {
+                "id": "v7.70",
+                "versicle_number": 70,
+                "text": "E uma parte dos cabeças dos pais deram para a obra; o tirsata deu para o tesouro, em ouro, mil dracmas, cinquenta bacias, e quinhentas e trinta vestes sacerdotais."
+            },
+            {
+                "id": "v7.71",
+                "versicle_number": 71,
+                "text": "E alguns mais dos cabeças dos pais deram para o tesouro da obra, em ouro, vinte mil dracmas; e em prata, dois mil e duzentos arráteis."
+            },
+            {
+                "id": "v7.72",
+                "versicle_number": 72,
+                "text": "E o que deu o resto do povo foi, em ouro vinte mil dracmas e em prata dois mil arráteis; e sessenta e sete vestes sacerdotais."
+            },
+            {
+                "id": "v7.73",
+                "versicle_number": 73,
+                "text": "E habitaram os sacerdotes,{note:2} e os levitas, e os porteiros, e os cantores, e alguns do povo e os netineus, e todo o Israel nas suas cidades."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:b} 7.65 ou governador {note:1} 7.65 Êx 28.30"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 7.73 1Cr 9.2; Ne 11.3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,169 @@
+{
+    "book": {
+        "id": "Ap",
+        "book_number": 66,
+        "new_testament": true,
+        "num_chapters": 22,
+        "book_name": "APOCALIPSE",
+        "book_full_name": "DO APÓSTOLO JOÃO APOCALIPSE"
+    },
+    "chapter": {
+        "chapter_number": 22,
+        "chapter_reference": "",
+        "chapter_title": "Admoestações e promessas finais. Conclusão",
+        "versicles": [
+            {
+                "id": "v22.1",
+                "versicle_number": 1,
+                "text": "E MOSTROU-ME o rio puro da água da vida,{note:1} claro como cristal, que procedia do trono de Deus e do Cordeiro."
+            },
+            {
+                "id": "v22.2",
+                "versicle_number": 2,
+                "text": "No meio da sua praça, e de uma e da outra banda do rio, estava a árvore da vida,{note:2} que produz doze frutos, dando seu fruto de mês em mês; e as folhas da árvore são para a saúde das nações."
+            },
+            {
+                "id": "v22.3",
+                "versicle_number": 3,
+                "text": "E ali nunca mais haverá maldição{note:3} contra alguém; e nela estará o trono de Deus e do Cordeiro, e os seus servos o servirão."
+            },
+            {
+                "id": "v22.4",
+                "versicle_number": 4,
+                "text": "E verão o seu rosto, e nas suas testas estará o seu nome."
+            },
+            {
+                "id": "v22.5",
+                "versicle_number": 5,
+                "text": "E ali não haverá mais noite,{note:4} e não necessitarão de lâmpada nem de luz do sol, porque o Senhor Deus os alumia; e reinarão para todo o sempre.{note:5}"
+            },
+            {
+                "id": "v22.6",
+                "versicle_number": 6,
+                "text": "E disse-me: Estas palavras são fiéis e verdadeiras; e o Senhor, o Deus dos santos profetas, enviou o seu anjo, para mostrar aos seus servos as coisas que em breve hão de acontecer."
+            },
+            {
+                "id": "v22.7",
+                "versicle_number": 7,
+                "text": "Eis que presto venho: Bem-aventurado aquele que guarda as palavras da profecia deste livro."
+            },
+            {
+                "id": "v22.8",
+                "versicle_number": 8,
+                "text": "E eu, João, sou aquele que vi e ouvi estas coisas. E, havendo-as ouvido e visto, prostrei-me aos pés do anjo que mas mostrava para o adorar."
+            },
+            {
+                "id": "v22.9",
+                "versicle_number": 9,
+                "text": "E disse-me: Olha não faças tal; porque eu sou conservo teu e de teus irmãos, os profetas, e dos que guardam as palavras deste livro. Adora a Deus."
+            },
+            {
+                "id": "v22.10",
+                "versicle_number": 10,
+                "text": "E disse-me: Não seles as palavras da profecia deste livro; porque próximo está o tempo."
+            },
+            {
+                "id": "v22.11",
+                "versicle_number": 11,
+                "text": "Quem é injusto, faça injustiça{note:6} ainda; e quem está sujo, suje-se ainda; e quem é justo, faça justiça {note:q}ainda; e quem é santo, seja santificado ainda."
+            },
+            {
+                "id": "v22.12",
+                "versicle_number": 12,
+                "text": "E eis que cedo venho, e o meu galardão{note:7} está comigo, para dar a cada um segundo a sua obra.{note:8}"
+            },
+            {
+                "id": "v22.13",
+                "versicle_number": 13,
+                "text": "Eu sou o Alfa e o Ômega, o princípio e o fim, o primeiro e o derradeiro.{note:9}"
+            },
+            {
+                "id": "v22.14",
+                "versicle_number": 14,
+                "text": "Bem-aventurados aqueles {note:r}que lavam as suas vestiduras no sangue do Cordeiro, para que tenham direito à árvore da vida,{note:10} e possam entrar na cidade pelas portas."
+            },
+            {
+                "id": "v22.15",
+                "versicle_number": 15,
+                "text": "Ficarão de fora os cães e os feiticeiros, e os que se prostituem, e os homicidas, e os idólatras, e qualquer que ama e comete a mentira."
+            },
+            {
+                "id": "v22.16",
+                "versicle_number": 16,
+                "text": "Eu, Jesus, enviei o meu anjo, para vos testificar estas coisas nas igrejas: eu sou a raiz e a geração de Davi,{note:11} a resplandecente estrela da manhã."
+            },
+            {
+                "id": "v22.17",
+                "versicle_number": 17,
+                "text": "E o Espírito e a esposa dizem: Vem. E quem ouve, diga: Vem. E quem tem sede, venha;{note:12} e quem quiser, tome de graça da água da vida."
+            },
+            {
+                "id": "v22.18",
+                "versicle_number": 18,
+                "text": "Porque eu testifico a todo aquele que ouvir as palavras da profecia deste livro que se alguém lhes acrescentar alguma coisa, Deus fará vir sobre ele as pragas que estão escritas neste livro;"
+            },
+            {
+                "id": "v22.19",
+                "versicle_number": 19,
+                "text": "E, se alguém tirar quaisquer palavras do livro desta profecia, Deus tirará a sua parte da árvore da vida, e da cidade santa, que estão escritas neste livro.{note:13}"
+            },
+            {
+                "id": "v22.20",
+                "versicle_number": 20,
+                "text": "Aquele que testifica estas coisas diz: Certamente cedo venho. Amém. Ora vem, Senhor Jesus."
+            },
+            {
+                "id": "v22.21",
+                "versicle_number": 21,
+                "text": "A graça de nosso Senhor Jesus Cristo seja com todos vós. Amém."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 22.1 Ez 47.1; Zc 14.8"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 22.2 Gn 2.9"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 22.3 Zc 14.11"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 22.5 Is 60.19 {note:5} 22.5 Dn 7.18,27"
+            },
+            {
+                "id": "n5",
+                "text": "{note:6} 22.11 Dn 12.10 {note:q} 22.11 ou ainda mais"
+            },
+            {
+                "id": "n6",
+                "text": "{note:7} 22.12 Is 40.10; 62.11 {note:8} 22.12 Sl 28.4"
+            },
+            {
+                "id": "n7",
+                "text": "{note:9} 22.13 Is 44.6; 48.12"
+            },
+            {
+                "id": "n8",
+                "text": "{note:r} 22.14 ou que guardam os seus mandamentos, para que tenham poder na árvore da vida {note:10} 22.14 Gn 2.9; 3.22"
+            },
+            {
+                "id": "n9",
+                "text": "{note:11} 22.16 Is 11.1"
+            },
+            {
+                "id": "n10",
+                "text": "{note:12} 22.17 Is 55.1"
+            },
+            {
+                "id": "n11",
+                "text": "{note:13} 22.18-19 Dt 4.2; 12.32"
+            }
+        ]
+    }
+}

@@ -1,0 +1,285 @@
+{
+    "book": {
+        "id": "Gn",
+        "book_number": 1,
+        "new_testament": false,
+        "num_chapters": 50,
+        "book_name": "GÊNESIS",
+        "book_full_name": "O PRIMEIRO LIVRO DE MOISÉS GÊNESIS"
+    },
+    "chapter": {
+        "chapter_number": 27,
+        "chapter_reference": "",
+        "chapter_title": "Isaque manda Esaú fazer-lhe um guisado",
+        "versicles": [
+            {
+                "id": "v27.1",
+                "versicle_number": 1,
+                "text": "E ACONTECEU que, como Isaque envelheceu, e os seus olhos se escureceram, de maneira que não podia ver, chamou a Esaú, seu filho mais velho, e disse-lhe: Meu filho. E ele lhe disse: Eis-me aqui."
+            },
+            {
+                "id": "v27.2",
+                "versicle_number": 2,
+                "text": "E ele disse: Eis que já agora estou velho, e não sei o dia da minha morte;"
+            },
+            {
+                "id": "v27.3",
+                "versicle_number": 3,
+                "text": "Agora pois, toma as tuas armas, a tua aljava e o teu arco, e sai ao campo, e apanha para mim alguma caça."
+            },
+            {
+                "id": "v27.4",
+                "versicle_number": 4,
+                "text": "E faze-me um guisado saboroso, como eu gosto, e traze-mo, para que eu coma; para que minha alma te abençoe, antes que morra."
+            },
+            {
+                "id": "v27.5",
+                "versicle_number": 5,
+                "text": "E Rebeca escutou quando Isaque falava ao seu filho Esaú: e foi-se Esaú ao campo, para apanhar caça que havia de trazer."
+            },
+            {
+                "id": "v27.6",
+                "versicle_number": 6,
+                "text": "Então falou Rebeca a Jacó seu filho, dizendo: Eis que tenho ouvido o teu pai que falava com Esaú teu irmão, dizendo:"
+            },
+            {
+                "id": "v27.7",
+                "versicle_number": 7,
+                "text": "Traze-me caça, e faze-me um guisado saboroso, para que eu coma, e te abençoe diante da face do Senhor, antes da minha morte."
+            },
+            {
+                "id": "v27.8",
+                "versicle_number": 8,
+                "text": "Agora pois, filho meu, ouve a minha voz naquilo que eu te mando:"
+            },
+            {
+                "id": "v27.9",
+                "versicle_number": 9,
+                "text": "Vai agora ao rebanho, e traze-me de lá dois bons cabritos das cabras, e eu farei deles um guisado saboroso para teu pai, como ele gosta,"
+            },
+            {
+                "id": "v27.10",
+                "versicle_number": 10,
+                "text": "E levá-lo-ás a teu pai, para que o coma; para que te abençoe antes da sua morte."
+            },
+            {
+                "id": "v27.11",
+                "versicle_number": 11,
+                "text": "Então disse Jacó a Rebeca, sua mãe: Eis que Esaú meu irmão é varão cabeludo, e eu varão liso."
+            },
+            {
+                "id": "v27.12",
+                "versicle_number": 12,
+                "text": "Porventura me apalpará o meu pai, e serei em seus olhos enganador: assim trarei eu sobre mim maldição, e não bênção."
+            },
+            {
+                "id": "v27.13",
+                "versicle_number": 13,
+                "text": "E disse-lhe sua mãe: Meu filho, sobre mim seja a tua maldição; somente obedece à minha voz, e vai traze-mos."
+            },
+            {
+                "id": "v27.14",
+                "versicle_number": 14,
+                "text": "E foi, e tomou-os, e trouxe-os a sua mãe; e sua mãe fez um guisado saboroso, como seu pai gostava."
+            },
+            {
+                "id": "v27.15",
+                "versicle_number": 15,
+                "text": "Depois tomou Rebeca os {note:n}vestidos de gala de Esaú, seu filho mais velho, que tinha consigo em casa, e vestiu a Jacó, seu filho menor;"
+            },
+            {
+                "id": "v27.16",
+                "versicle_number": 16,
+                "text": "E com as peles dos cabritos das cabras cobriu as suas mãos e a lisura do seu pescoço;"
+            },
+            {
+                "id": "v27.17",
+                "versicle_number": 17,
+                "text": "E deu o guisado saboroso, e o pão que tinha preparado, na mão de Jacó seu filho."
+            },
+            {
+                "id": "v27.18",
+                "versicle_number": 18,
+                "text": "E veio ele a seu pai, e disse: Meu pai! E ele disse: Eis-me aqui; quem és tu, meu filho?"
+            },
+            {
+                "id": "v27.19",
+                "versicle_number": 19,
+                "text": "E Jacó disse a seu pai: Eu sou Esaú, teu primogênito; tenho feito como me disseste: levanta-te agora, assenta-te, e come da minha caça, para que a tua alma me abençoe."
+            },
+            {
+                "id": "v27.20",
+                "versicle_number": 20,
+                "text": "Então disse Isaque a seu filho: Como é isto, que tão cedo a achaste, filho meu? E ele disse: Porque o Senhor teu Deus a mandou ao meu encontro."
+            },
+            {
+                "id": "v27.21",
+                "versicle_number": 21,
+                "text": "E disse Isaque a Jacó: Chega-te agora, para que te apalpe, meu filho, se és meu filho Esaú mesmo, ou não."
+            },
+            {
+                "id": "v27.22",
+                "versicle_number": 22,
+                "text": "Então se chegou Jacó a Isaque seu pai, que o apalpou, e disse: A voz é a voz de Jacó, porém as mãos são as mãos de Esaú."
+            },
+            {
+                "id": "v27.23",
+                "versicle_number": 23,
+                "text": "E não o conheceu, porquanto as suas mãos estavam cabeludas, como as mãos de Esaú seu irmão; e abençoou-o."
+            },
+            {
+                "id": "v27.24",
+                "versicle_number": 24,
+                "text": "E disse: És tu meu filho Esaú mesmo? E ele disse: Eu sou."
+            },
+            {
+                "id": "v27.25",
+                "versicle_number": 25,
+                "text": "Então disse: Faze chegar isso perto de mim, para que coma da caça de meu filho; para que a minha alma te abençoe. E chegou-lho, e comeu; trouxe-lhe também vinho, e bebeu."
+            },
+            {
+                "id": "v27.26",
+                "versicle_number": 26,
+                "text": "E disse-lhe Isaque seu pai: Ora chega-te, e beija-me, filho meu."
+            },
+            {
+                "id": "v27.27",
+                "versicle_number": 27,
+                "text": "E chegou-se, e beijou-o; então cheirou o cheiro dos seus vestidos, e abençoou-o, e disse: Eis que o cheiro do meu filho é como o cheiro do campo, que o Senhor abençoou:"
+            },
+            {
+                "id": "v27.28",
+                "versicle_number": 28,
+                "text": "Assim pois te dê Deus do orvalho dos céus, e das gorduras da terra, e abundância de trigo e de mosto:"
+            },
+            {
+                "id": "v27.29",
+                "versicle_number": 29,
+                "text": "Sirvam-te povos, e nações se encurvem a ti: sê senhor de teus irmãos, e os filhos da tua mãe se encurvem a ti: malditos{note:1} sejam os que te amaldiçoarem, e benditos sejam os que te abençoarem.{note:2}"
+            },
+            {
+                "id": "v27.30",
+                "versicle_number": 30,
+                "text": "E aconteceu que, acabando Isaque de abençoar a Jacó, apenas Jacó acabava de sair da face de Isaque seu pai, veio Esaú, seu irmão, da sua caça;"
+            },
+            {
+                "id": "v27.31",
+                "versicle_number": 31,
+                "text": "E fez também ele um guisado saboroso, e trouxe-o a seu pai e disse a seu pai: Levanta-te, meu pai, e come da caça de teu filho, para que me abençoe a tua alma."
+            },
+            {
+                "id": "v27.32",
+                "versicle_number": 32,
+                "text": "E disse-lhe Isaque seu pai: Quem és tu? E ele disse: Eu sou teu filho, o teu primogênito, Esaú."
+            },
+            {
+                "id": "v27.33",
+                "versicle_number": 33,
+                "text": "Então estremeceu Isaque de um estremecimento muito grande; e disse: Quem, pois, é aquele que apanhou a caça, e ma trouxe? Eu comi de tudo, antes que tu viesses, e abençoei-o: também será bendito."
+            },
+            {
+                "id": "v27.34",
+                "versicle_number": 34,
+                "text": "Esaú, ouvindo as palavras de seu pai, bradou com grande e mui amargo brado, e disse a seu pai: Abençoa-me também a mim, meu pai."
+            },
+            {
+                "id": "v27.35",
+                "versicle_number": 35,
+                "text": "E ele disse: Veio o teu irmão com sutileza, e tomou a tua bênção."
+            },
+            {
+                "id": "v27.36",
+                "versicle_number": 36,
+                "text": "Então disse ele: Não foi o seu nome justamente chamado Jacó, por isso que já duas vezes me enganou? A minha primogenitura{note:3} me tomou, e eis que agora me tomou a minha bênção. Mais disse: Não reservaste pois para mim bênção alguma?"
+            },
+            {
+                "id": "v27.37",
+                "versicle_number": 37,
+                "text": "Então respondeu Isaque, e disse a Esaú: Eis que o tenho posto por senhor sobre ti, e todos os seus irmãos lhe tenho dado por servos: e de trigo e de mosto o tenho fortalecido; — que te farei pois agora a ti, meu filho?"
+            },
+            {
+                "id": "v27.38",
+                "versicle_number": 38,
+                "text": "E disse Esaú a seu pai: Tens uma só bênção, meu pai? Abençoa-me também a mim, meu pai. E levantou Esaú a sua voz, e chorou.{note:4}"
+            },
+            {
+                "id": "v27.39",
+                "versicle_number": 39,
+                "text": "Então respondeu Isaque seu pai, e disse-lhe: Eis que a tua habitação será{note:5} nas gorduras da terra e no orvalho dos céus do alto."
+            },
+            {
+                "id": "v27.40",
+                "versicle_number": 40,
+                "text": "E pela tua espada viverás, e ao teu irmão servirás. Acontecerá, porém, que quando te libertares, então sacudirás o seu jugo{note:6} do teu pescoço."
+            },
+            {
+                "id": "v27.41",
+                "versicle_number": 41,
+                "text": "E aborreceu Esaú a Jacó por causa daquela bênção, com que seu pai o tinha abençoado; e Esaú disse no seu coração: Chegar-se-ão os dias de luto de meu pai: e matarei a Jacó meu irmão."
+            },
+            {
+                "id": "v27.42",
+                "versicle_number": 42,
+                "text": "E foram denunciadas a Rebeca estas palavras de Esaú, seu filho mais velho; e ela enviou, e chamou a Jacó, seu filho menor, e disse-lhe: Eis que Esaú teu irmão se consola a teu respeito, propondo-se matar-te."
+            },
+            {
+                "id": "v27.43",
+                "versicle_number": 43,
+                "text": "Agora pois, meu filho, ouve a minha voz, e levanta-te; acolhe-te a Labão meu irmão, em Harã,"
+            },
+            {
+                "id": "v27.44",
+                "versicle_number": 44,
+                "text": "E mora com ele alguns dias, até que passe o furor de teu irmão;"
+            },
+            {
+                "id": "v27.45",
+                "versicle_number": 45,
+                "text": "Até que se desvie de ti a ira de teu irmão, e se esqueça do que lhe fizeste: então enviarei, e te farei vir de lá; por que seria eu desfilhada também de vós ambos num mesmo dia?"
+            },
+            {
+                "id": "v27.46",
+                "versicle_number": 46,
+                "text": "E disse Rebeca a Isaque: Enfadada estou da minha vida, por causa das filhas de Hete; se Jacó tomar mulher das filhas de Hete, como estas são das filhas desta terra, para que me será a vida?"
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v27.6",
+                "text": "Rebeca e Jacó enganam Isaque"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v27.30",
+                "text": "Esaú traz ao seu pai o guisado e descobre que Jacó já tomou a bênção"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:n} 27.15 ou vestes preciosas"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 27.29 Gn 12.3 {note:2} 27.27-29 Hb 11.20"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 27.36 Gn 25.29-34"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 27.38 Hb 12.17"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 27.39 Hb 11.20"
+            },
+            {
+                "id": "n6",
+                "text": "{note:6} 27.40 2Rs 8.20; 2Cr 21.8"
+            }
+        ]
+    }
+}

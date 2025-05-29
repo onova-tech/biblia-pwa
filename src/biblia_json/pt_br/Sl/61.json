@@ -1,0 +1,59 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 61,
+        "chapter_reference": "",
+        "chapter_title": "Davi confia em Deus como seu refúgio",
+        "versicles": [
+            {
+                "id": "v61.1",
+                "versicle_number": 1,
+                "text": "OUVE, ó Deus, o meu clamor; atende à minha oração."
+            },
+            {
+                "id": "v61.2",
+                "versicle_number": 2,
+                "text": "Desde o fim da terra clamo a ti, por estar abatido o meu coração; leva-me para a rocha que é mais alta do que eu."
+            },
+            {
+                "id": "v61.3",
+                "versicle_number": 3,
+                "text": "Pois tens sido o meu refúgio, e uma torre forte contra o inimigo."
+            },
+            {
+                "id": "v61.4",
+                "versicle_number": 4,
+                "text": "Habitarei no teu tabernáculo para sempre: abrigar-me-ei no oculto das tuas asas. (Selá.)"
+            },
+            {
+                "id": "v61.5",
+                "versicle_number": 5,
+                "text": "Pois tu, ó Deus, ouviste os meus votos: deste-me a herança dos que temem o teu nome."
+            },
+            {
+                "id": "v61.6",
+                "versicle_number": 6,
+                "text": "Prolongarás os dias do rei; e os seus anos serão como muitas gerações."
+            },
+            {
+                "id": "v61.7",
+                "versicle_number": 7,
+                "text": "Ele permanecerá diante de Deus para sempre; prepara-lhe misericórdia e verdade que o preservem."
+            },
+            {
+                "id": "v61.8",
+                "versicle_number": 8,
+                "text": "Assim cantarei salmos ao teu nome perpetuamente, para pagar os meus votos de dia em dia."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

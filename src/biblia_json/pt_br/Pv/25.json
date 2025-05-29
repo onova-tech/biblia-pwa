@@ -1,0 +1,176 @@
+{
+    "book": {
+        "id": "Pv",
+        "book_number": 20,
+        "new_testament": false,
+        "num_chapters": 31,
+        "book_name": "PROVÉRBIOS",
+        "book_full_name": "DE SALOMÃO PROVÉRBIOS"
+    },
+    "chapter": {
+        "chapter_number": 25,
+        "chapter_reference": "",
+        "chapter_title": "Outros provérbios de Salomão, que foram coligidos no tempo do rei Ezequias",
+        "versicles": [
+            {
+                "id": "v25.1",
+                "versicle_number": 1,
+                "text": "TAMBÉM estes são provérbios de Salomão, os quais transcreveram os homens de Ezequias, rei de Judá."
+            },
+            {
+                "id": "v25.2",
+                "versicle_number": 2,
+                "text": "A glória de Deus é encobrir o negócio; mas a glória dos reis é tudo investigar."
+            },
+            {
+                "id": "v25.3",
+                "versicle_number": 3,
+                "text": "Para a altura dos céus, e para a profundeza da terra, e para o coração dos reis, não há investigação alguma."
+            },
+            {
+                "id": "v25.4",
+                "versicle_number": 4,
+                "text": "Tira da prata as escórias, e sairá vaso para o fundidor."
+            },
+            {
+                "id": "v25.5",
+                "versicle_number": 5,
+                "text": "Tira o ímpio da presença do rei, e o seu trono se firmará na justiça."
+            },
+            {
+                "id": "v25.6",
+                "versicle_number": 6,
+                "text": "Não te glories na presença do rei, nem te ponhas no lugar dos grandes:"
+            },
+            {
+                "id": "v25.7",
+                "versicle_number": 7,
+                "text": "Porque melhor é que te digam: Sobe para aqui; do que seres humilhado diante do príncipe a quem já os teus olhos viram.{note:1}"
+            },
+            {
+                "id": "v25.8",
+                "versicle_number": 8,
+                "text": "Não te apresses a litigar, para depois, ao fim, não saberes o que hás de fazer, podendo-te confundir o teu próximo."
+            },
+            {
+                "id": "v25.9",
+                "versicle_number": 9,
+                "text": "Pleiteia a tua causa com o teu próximo mesmo, e não descubras o segredo de outro:"
+            },
+            {
+                "id": "v25.10",
+                "versicle_number": 10,
+                "text": "Para que não te desonre o que o ouvir, não se apartando de ti a infâmia."
+            },
+            {
+                "id": "v25.11",
+                "versicle_number": 11,
+                "text": "Como maçãs de ouro em {note:o}salvas de prata, assim é a palavra dita a seu tempo."
+            },
+            {
+                "id": "v25.12",
+                "versicle_number": 12,
+                "text": "Como pendentes de ouro e gargantilhas de ouro fino, assim, é o sábio repreensor para o ouvido ouvinte."
+            },
+            {
+                "id": "v25.13",
+                "versicle_number": 13,
+                "text": "Como frieza de neve no tempo da sega, assim é o mensageiro fiel para com os que o enviam; porque recreia a alma dos seus senhores."
+            },
+            {
+                "id": "v25.14",
+                "versicle_number": 14,
+                "text": "Como nuvens e ventos que não trazem chuva, assim é o homem que se gaba falsamente de dádivas."
+            },
+            {
+                "id": "v25.15",
+                "versicle_number": 15,
+                "text": "Pela longanimidade se persuade o príncipe, e a língua branda quebranta os ossos."
+            },
+            {
+                "id": "v25.16",
+                "versicle_number": 16,
+                "text": "Achaste mel? come o que te basta; para que porventura não te fartes dele, e o venhas a vomitar."
+            },
+            {
+                "id": "v25.17",
+                "versicle_number": 17,
+                "text": "Retira o teu pé da casa do teu próximo, para que se não enfade de ti, e te aborreça."
+            },
+            {
+                "id": "v25.18",
+                "versicle_number": 18,
+                "text": "Martelo, e espada, e frecha aguda é o homem que levanta falso testemunho contra o seu próximo."
+            },
+            {
+                "id": "v25.19",
+                "versicle_number": 19,
+                "text": "Como dente quebrado e pé deslocado, é a confiança no desleal, no tempo da angústia."
+            },
+            {
+                "id": "v25.20",
+                "versicle_number": 20,
+                "text": "O que entoa canções junto ao coração aflito é como aquele que se despe num dia de frio, e como vinagre sobre {note:p}salitre."
+            },
+            {
+                "id": "v25.21",
+                "versicle_number": 21,
+                "text": "Se o que te aborrece tiver fome, dá-lhe pão para comer; e se tiver sede, dá-lhe água para beber;"
+            },
+            {
+                "id": "v25.22",
+                "versicle_number": 22,
+                "text": "Porque assim brasas lhe amontoarás sobre a cabeça; e o Senhor to pagará.{note:2}"
+            },
+            {
+                "id": "v25.23",
+                "versicle_number": 23,
+                "text": "O vento norte afugenta a chuva, e a face irada a língua fingida."
+            },
+            {
+                "id": "v25.24",
+                "versicle_number": 24,
+                "text": "Melhor é morar a um canto de umas águas-furtadas, do que com a mulher rixosa numa casa ampla."
+            },
+            {
+                "id": "v25.25",
+                "versicle_number": 25,
+                "text": "Como água fria para uma alma cansada, tais são as boas-novas de terra remota."
+            },
+            {
+                "id": "v25.26",
+                "versicle_number": 26,
+                "text": "Como fonte turva, e manancial corruto, assim é o justo que cai diante do ímpio."
+            },
+            {
+                "id": "v25.27",
+                "versicle_number": 27,
+                "text": "Comer muito mel não é bom; assim a investigação da própria glória não é glória."
+            },
+            {
+                "id": "v25.28",
+                "versicle_number": 28,
+                "text": "Como a cidade derribada, que não tem muros, assim é o homem que não pode conter o seu espírito."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 25.6-7 Lc 14.8-10"
+            },
+            {
+                "id": "n2",
+                "text": "{note:o} 25.11 ou obra de filigrana"
+            },
+            {
+                "id": "n3",
+                "text": "{note:p} 25.20 ou soda"
+            },
+            {
+                "id": "n4",
+                "text": "{note:2} 25.21-22 Rm 12.20"
+            }
+        ]
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "book": {
+        "id": "1Co",
+        "book_number": 46,
+        "new_testament": true,
+        "num_chapters": 16,
+        "book_name": "CORÍNTIOS",
+        "book_full_name": "PRIMEIRA EPÍSTOLA DO APÓSTOLO PAULO AOS CORÍNTIOS"
+    },
+    "chapter": {
+        "chapter_number": 10,
+        "chapter_reference": "",
+        "chapter_title": "Não devemos tentar a Cristo, como alguns dos israelitas o tentaram",
+        "versicles": [
+            {
+                "id": "v10.1",
+                "versicle_number": 1,
+                "text": "ORA, irmãos, não quero que ignoreis que nossos pais estiveram todos debaixo da nuvem,{note:1} e todos passaram pelo mar.{note:2}"
+            },
+            {
+                "id": "v10.2",
+                "versicle_number": 2,
+                "text": "E todos foram batizados em Moisés, na nuvem e no mar,"
+            },
+            {
+                "id": "v10.3",
+                "versicle_number": 3,
+                "text": "E todos comeram dum mesmo manjar espiritual,{note:3}"
+            },
+            {
+                "id": "v10.4",
+                "versicle_number": 4,
+                "text": "E beberam todos duma mesma bebida espiritual,{note:4} porque bebiam da pedra espiritual que os seguia; e a pedra era Cristo."
+            },
+            {
+                "id": "v10.5",
+                "versicle_number": 5,
+                "text": "Mas Deus não se agradou da maior parte deles,{note:5} pelo que foram prostrados no deserto."
+            },
+            {
+                "id": "v10.6",
+                "versicle_number": 6,
+                "text": "E estas coisas foram-nos feitas em figura, para que não cobicemos as coisas más, como eles cobiçaram.{note:6}"
+            },
+            {
+                "id": "v10.7",
+                "versicle_number": 7,
+                "text": "Não vos façais pois idólatras, como alguns deles, conforme está escrito: O povo assentou-se a comer e a beber, e levantou-se para folgar.{note:7}"
+            },
+            {
+                "id": "v10.8",
+                "versicle_number": 8,
+                "text": "E não nos prostituamos,{note:8} como alguns deles fizeram; e caíram num dia vinte e três mil."
+            },
+            {
+                "id": "v10.9",
+                "versicle_number": 9,
+                "text": "E não tentemos{note:9} a Cristo, como alguns deles também tentaram, e pereceram pelas serpentes."
+            },
+            {
+                "id": "v10.10",
+                "versicle_number": 10,
+                "text": "E não murmureis,{note:10} como também alguns deles murmuraram, e pereceram pelo destruidor."
+            },
+            {
+                "id": "v10.11",
+                "versicle_number": 11,
+                "text": "Ora tudo isto lhes sobreveio como figuras, e estão escritas para aviso nosso, para quem já são chegados os fins dos séculos."
+            },
+            {
+                "id": "v10.12",
+                "versicle_number": 12,
+                "text": "Aquele pois que cuida estar em pé, olhe não caia."
+            },
+            {
+                "id": "v10.13",
+                "versicle_number": 13,
+                "text": "Não veio sobre vós tentação, senão humana; mas fiel é Deus, que vos não deixará tentar acima do que podeis, antes com a tentação dará também o escape, para que a possais suportar."
+            },
+            {
+                "id": "v10.14",
+                "versicle_number": 14,
+                "text": "Portanto, meus amados, fugi da idolatria."
+            },
+            {
+                "id": "v10.15",
+                "versicle_number": 15,
+                "text": "Falo como a entendidos, julgai vós mesmos o que digo."
+            },
+            {
+                "id": "v10.16",
+                "versicle_number": 16,
+                "text": "Porventura o cálice de bênção,{note:11} que abençoamos, não é a comunhão do sangue de Cristo? O pão que partimos não é porventura a comunhão do corpo de Cristo?"
+            },
+            {
+                "id": "v10.17",
+                "versicle_number": 17,
+                "text": "Porque nós, sendo muitos, somos um só pão e um só corpo: porque todos participamos do mesmo pão."
+            },
+            {
+                "id": "v10.18",
+                "versicle_number": 18,
+                "text": "Vede a Israel segundo a carne: os que comem os sacrifícios não são porventura participantes do altar?{note:12}"
+            },
+            {
+                "id": "v10.19",
+                "versicle_number": 19,
+                "text": "Mas que digo? Que o ídolo é alguma coisa? Ou que o sacrificado ao ídolo é alguma coisa?"
+            },
+            {
+                "id": "v10.20",
+                "versicle_number": 20,
+                "text": "Antes digo que as coisas que os gentios sacrificam, as sacrificam aos demônios,{note:13} e não a Deus. E não quero que sejais participantes com os demônios."
+            },
+            {
+                "id": "v10.21",
+                "versicle_number": 21,
+                "text": "Não podeis beber o cálice do Senhor e o cálice dos demônios: não podeis ser participantes da mesa do Senhor e da mesa dos demônios."
+            },
+            {
+                "id": "v10.22",
+                "versicle_number": 22,
+                "text": "Ou irritaremos o Senhor?{note:14} Somos nós mais fortes do que ele?"
+            },
+            {
+                "id": "v10.23",
+                "versicle_number": 23,
+                "text": "Todas as coisas me são lícitas,{note:15} mas nem todas as coisas convêm: todas as coisas me são lícitas, mas nem todas as coisas edificam."
+            },
+            {
+                "id": "v10.24",
+                "versicle_number": 24,
+                "text": "Ninguém busque o proveito próprio, antes cada um o que é de outrem."
+            },
+            {
+                "id": "v10.25",
+                "versicle_number": 25,
+                "text": "Comei de tudo quanto se vende no açougue, sem perguntar nada, por causa da consciência."
+            },
+            {
+                "id": "v10.26",
+                "versicle_number": 26,
+                "text": "Porque a terra é do Senhor, e toda a sua plenitude.{note:16}"
+            },
+            {
+                "id": "v10.27",
+                "versicle_number": 27,
+                "text": "E, se algum dos infiéis vos convidar, e quiserdes ir, comei de tudo o que se puser diante de vós, sem nada perguntar, por causa da consciência."
+            },
+            {
+                "id": "v10.28",
+                "versicle_number": 28,
+                "text": "Mas, se alguém vos disser: Isto foi sacrificado aos ídolos, não comais, por causa daquele que vos advertiu e por causa da consciência; porque a terra é do Senhor, e toda a sua plenitude."
+            },
+            {
+                "id": "v10.29",
+                "versicle_number": 29,
+                "text": "Digo, porém, a consciência, não a tua, mas a do outro. Pois por que há de a minha liberdade ser julgada pela consciência de outrem?"
+            },
+            {
+                "id": "v10.30",
+                "versicle_number": 30,
+                "text": "E, se eu com graça participo, por que sou blasfemado naquilo por que dou graças?"
+            },
+            {
+                "id": "v10.31",
+                "versicle_number": 31,
+                "text": "Portanto, quer comais quer bebais, ou façais outra qualquer coisa, fazei tudo para glória de Deus."
+            },
+            {
+                "id": "v10.32",
+                "versicle_number": 32,
+                "text": "Portai-vos de modo que não deis escândalo nem aos judeus, nem aos gregos, nem à igreja de Deus."
+            },
+            {
+                "id": "v10.33",
+                "versicle_number": 33,
+                "text": "Como também eu em tudo agrado a todos, não buscando o meu próprio proveito, mas o de muitos, para que assim se possam salvar."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v10.14",
+                "text": "A idolatria e o culto de demônios"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v10.22",
+                "text": "Liberdade e caridade cristãs"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 10.1 Êx 13.21-22 {note:2} 10.1 Êx 14.22-29"
+            },
+            {
+                "id": "n2",
+                "text": "{note:3} 10.3 Êx 16.35"
+            },
+            {
+                "id": "n3",
+                "text": "{note:4} 10.4 Êx 17.6; Nm 20.11"
+            },
+            {
+                "id": "n4",
+                "text": "{note:5} 10.5 Nm 14.29-30"
+            },
+            {
+                "id": "n5",
+                "text": "{note:6} 10.6 Nm 11.4"
+            },
+            {
+                "id": "n6",
+                "text": "{note:7} 10.7 Êx 32.6"
+            },
+            {
+                "id": "n7",
+                "text": "{note:8} 10.8 Nm 25.1-18"
+            },
+            {
+                "id": "n8",
+                "text": "{note:9} 10.9 Nm 21.5-6"
+            },
+            {
+                "id": "n9",
+                "text": "{note:10} 10.10 Nm 16.41,49"
+            },
+            {
+                "id": "n10",
+                "text": "{note:11} 10.16 Mt 26.27-28; Mc 14.22-24; Lc 22.19-20"
+            },
+            {
+                "id": "n11",
+                "text": "{note:12} 10.18 Lv 7.6"
+            },
+            {
+                "id": "n12",
+                "text": "{note:13} 10.20 Dt 32.17"
+            },
+            {
+                "id": "n13",
+                "text": "{note:14} 10.22 Dt 32.21"
+            },
+            {
+                "id": "n14",
+                "text": "{note:15} 10.23 1Co 6.12"
+            },
+            {
+                "id": "n15",
+                "text": "{note:16} 10.26 Sl 24.1"
+            }
+        ]
+    }
+}

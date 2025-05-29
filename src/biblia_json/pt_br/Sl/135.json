@@ -1,0 +1,133 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 135,
+        "chapter_reference": "",
+        "chapter_title": "Deus é louvado pela sua bondade, poder e justiça. A vaidade dos ídolos",
+        "versicles": [
+            {
+                "id": "v135.1",
+                "versicle_number": 1,
+                "text": "{note:b}LOUVAI ao Senhor. Louvai o nome do Senhor; louvai-o, servos do Senhor."
+            },
+            {
+                "id": "v135.2",
+                "versicle_number": 2,
+                "text": "Vós que assistis na casa do Senhor, nos átrios da casa do nosso Deus."
+            },
+            {
+                "id": "v135.3",
+                "versicle_number": 3,
+                "text": "Louvai ao Senhor, porque o Senhor é bom: cantai louvores ao seu nome, porque é agradável."
+            },
+            {
+                "id": "v135.4",
+                "versicle_number": 4,
+                "text": "Porque o Senhor escolheu para si a Jacó, e a Israel para seu tesouro peculiar."
+            },
+            {
+                "id": "v135.5",
+                "versicle_number": 5,
+                "text": "Porque eu conheço que o Senhor é grande e que o nosso Deus está acima de todos os deuses."
+            },
+            {
+                "id": "v135.6",
+                "versicle_number": 6,
+                "text": "Tudo o que o Senhor quis, ele o fez, nos céus e na terra, nos mares e em todos os abismos."
+            },
+            {
+                "id": "v135.7",
+                "versicle_number": 7,
+                "text": "Faz subir os vapores das extremidades da terra: faz os relâmpagos para a chuva: tira os ventos dos seus tesouros."
+            },
+            {
+                "id": "v135.8",
+                "versicle_number": 8,
+                "text": "Foi ele que feriu os primogênitos do Egito, desde os homens até aos animais;"
+            },
+            {
+                "id": "v135.9",
+                "versicle_number": 9,
+                "text": "Que operou sinais e prodígios no meio de ti, ó Egito, contra Faraó e contra os seus servos;"
+            },
+            {
+                "id": "v135.10",
+                "versicle_number": 10,
+                "text": "Que feriu muitas nações, e deu a morte a poderosos reis;"
+            },
+            {
+                "id": "v135.11",
+                "versicle_number": 11,
+                "text": "A Seom, rei dos amorreus, e a Ogue, rei de Basã, e a todos os reinos de Canaã."
+            },
+            {
+                "id": "v135.12",
+                "versicle_number": 12,
+                "text": "E deu a sua terra em herança, em herança a Israel, seu povo."
+            },
+            {
+                "id": "v135.13",
+                "versicle_number": 13,
+                "text": "O teu nome, ó Senhor, permanece perpetuamente: e a tua memória, ó Senhor, de geração em geração."
+            },
+            {
+                "id": "v135.14",
+                "versicle_number": 14,
+                "text": "Pois o Senhor julgará o seu povo, e se arrependerá em atenção aos seus servos."
+            },
+            {
+                "id": "v135.15",
+                "versicle_number": 15,
+                "text": "Os ídolos das nações são prata e ouro, obra das mãos dos homens."
+            },
+            {
+                "id": "v135.16",
+                "versicle_number": 16,
+                "text": "Têm boca, mas não falam; têm olhos, e não veem."
+            },
+            {
+                "id": "v135.17",
+                "versicle_number": 17,
+                "text": "Têm ouvidos, mas não ouvem, nem há respiro algum nas suas bocas."
+            },
+            {
+                "id": "v135.18",
+                "versicle_number": 18,
+                "text": "Semelhantes a eles se tornem os que os fazem, e todos os que confiam neles.{note:1}"
+            },
+            {
+                "id": "v135.19",
+                "versicle_number": 19,
+                "text": "Casa de Israel, bendizei ao Senhor; casa de Aarão, bendizei ao Senhor."
+            },
+            {
+                "id": "v135.20",
+                "versicle_number": 20,
+                "text": "Casa de Levi, bendizei ao Senhor: vós, os que temeis ao Senhor, louvai ao Senhor."
+            },
+            {
+                "id": "v135.21",
+                "versicle_number": 21,
+                "text": "Bendito seja o Senhor desde Sião, que habita em Jerusalém. Louvai ao Senhor."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:b} 135.1 Heb. Aleluia"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 135.15-18 Sl 115.4-8; Ap 9.20"
+            }
+        ]
+    }
+}

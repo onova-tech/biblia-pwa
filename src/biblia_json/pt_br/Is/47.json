@@ -1,0 +1,103 @@
+{
+    "book": {
+        "id": "Is",
+        "book_number": 23,
+        "new_testament": false,
+        "num_chapters": 66,
+        "book_name": "ISAÍAS",
+        "book_full_name": "ISAÍAS"
+    },
+    "chapter": {
+        "chapter_number": 47,
+        "chapter_reference": "",
+        "chapter_title": "A queda de Babilônia",
+        "versicles": [
+            {
+                "id": "v47.1",
+                "versicle_number": 1,
+                "text": "DESCE, e assenta-te no pó, ó virgem filha de Babilônia; assenta-te no chão; não há já trono, ó filha dos caldeus, porque nunca mais serás chamada a tenra nem a delicada."
+            },
+            {
+                "id": "v47.2",
+                "versicle_number": 2,
+                "text": "Toma a mó, e mói a farinha: descobre a tua cabeça, descalça os pés, descobre as pernas e passa os rios."
+            },
+            {
+                "id": "v47.3",
+                "versicle_number": 3,
+                "text": "A tua vergonha se descobrirá, e ver-se-á o teu opróbrio: tomarei vingança, e não farei acepção de homem algum."
+            },
+            {
+                "id": "v47.4",
+                "versicle_number": 4,
+                "text": "O nome do nosso Redentor é o Senhor dos Exércitos, o Santo de Israel."
+            },
+            {
+                "id": "v47.5",
+                "versicle_number": 5,
+                "text": "Assenta-te silenciosa e entra nas trevas, ó filha dos caldeus, porque nunca mais serás chamada senhora de reinos."
+            },
+            {
+                "id": "v47.6",
+                "versicle_number": 6,
+                "text": "Muito me agastei contra o meu povo, tornei profana a minha herança, e os entreguei na tua mão: não usaste com eles de misericórdia, e até sobre os velhos fizeste muito pesado o teu jugo."
+            },
+            {
+                "id": "v47.7",
+                "versicle_number": 7,
+                "text": "E dizias: Eu serei senhora para sempre: até agora não tomaste estas cousas em teu coração, nem lembraste do fim delas."
+            },
+            {
+                "id": "v47.8",
+                "versicle_number": 8,
+                "text": "Agora pois ouve isto, tu que és dada a delícias, que habitas tão segura, que dizes no teu coração: Eu sou e fora de mim não há outra; não ficarei viúva, nem conhecerei a perda de filhos."
+            },
+            {
+                "id": "v47.9",
+                "versicle_number": 9,
+                "text": "Mas ambas estas cousas virão sobre ti num momento, no mesmo dia, perda de filhos e viuvez: em toda a sua força virão sobre ti, por causa da multidão das tuas feitiçarias, por causa da abundância dos teus muitos encantamentos.{note:1}"
+            },
+            {
+                "id": "v47.10",
+                "versicle_number": 10,
+                "text": "Porque confiaste na tua maldade e disseste: Ninguém me pode ver; a tua sabedoria e a tua ciência, isso te fez desviar, e disseste no teu coração: Eu sou, e fora de mim não há outro."
+            },
+            {
+                "id": "v47.11",
+                "versicle_number": 11,
+                "text": "Pelo que sobre ti virá mal de que não saberás a origem, e tal destruição cairá sobre ti, que a não poderás afastar; porque virá sobre ti de repente tão tempestuosa desolação, que a não poderás conhecer."
+            },
+            {
+                "id": "v47.12",
+                "versicle_number": 12,
+                "text": "Deixa-te estar com os teus encantamentos, e com a multidão das tuas feitiçarias em que trabalhaste desde a tua mocidade, a ver se podes tirar proveito, ou se porventura te podes fortificar."
+            },
+            {
+                "id": "v47.13",
+                "versicle_number": 13,
+                "text": "Cansaste-te na multidão dos teus conselhos; levantem-se pois agora os agoureiros dos céus, os que contemplavam os astros, os prognosticadores das luas novas, e salvem-te do que há de vir sobre ti."
+            },
+            {
+                "id": "v47.14",
+                "versicle_number": 14,
+                "text": "Eis que serão como a pragana, o fogo os queimará; não poderão salvar a sua vida do poder da labareda; ela não será um braseiro, para se aquentarem, nem fogo para se assentarem junto dele."
+            },
+            {
+                "id": "v47.15",
+                "versicle_number": 15,
+                "text": "Assim serão para contigo aqueles com quem trabalhaste, os teus negociantes desde a tua mocidade: cada qual irá vagueando pelo seu caminho; ninguém te salvará.{note:2}"
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 47.8-9 Ap 18.7-8"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 47.1-15 Is 13.1—14.23; Jr 50.1—51.64"
+            }
+        ]
+    }
+}

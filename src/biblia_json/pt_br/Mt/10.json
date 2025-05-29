@@ -1,0 +1,274 @@
+{
+    "book": {
+        "id": "Mt",
+        "book_number": 40,
+        "new_testament": true,
+        "num_chapters": 28,
+        "book_name": "MATEUS",
+        "book_full_name": "O SANTO EVANGELHO SEGUNDO MATEUS"
+    },
+    "chapter": {
+        "chapter_number": 10,
+        "chapter_reference": "",
+        "chapter_title": "Os doze e a sua missão",
+        "versicles": [
+            {
+                "id": "v10.1",
+                "versicle_number": 1,
+                "text": "E, CHAMANDO os seus doze discípulos, deu-lhes poder sobre os espíritos imundos, para os expulsarem, e para curarem toda a enfermidade e todo o mal."
+            },
+            {
+                "id": "v10.2",
+                "versicle_number": 2,
+                "text": "Ora os nomes dos doze apóstolos são estes: O primeiro, Simão, chamado Pedro, e André, seu irmão; Tiago, filho de Zebedeu, e João, seu irmão;"
+            },
+            {
+                "id": "v10.3",
+                "versicle_number": 3,
+                "text": "Filipe e Bartolomeu; Tomé e Mateus, o publicano; Tiago, filho de Alfeu, e Lebeu, apelidado Tadeu;"
+            },
+            {
+                "id": "v10.4",
+                "versicle_number": 4,
+                "text": "Simão Cananita, e Judas Iscariotes, aquele que o traiu."
+            },
+            {
+                "id": "v10.5",
+                "versicle_number": 5,
+                "text": "Jesus enviou estes doze, e lhes ordenou, dizendo: Não ireis pelo caminho das gentes, nem entrareis em cidade de samaritanos;"
+            },
+            {
+                "id": "v10.6",
+                "versicle_number": 6,
+                "text": "Mas ide antes às ovelhas perdidas da casa d'Israel;"
+            },
+            {
+                "id": "v10.7",
+                "versicle_number": 7,
+                "text": "E, indo, pregai, dizendo: É chegado o reino dos céus."
+            },
+            {
+                "id": "v10.8",
+                "versicle_number": 8,
+                "text": "Curai os enfermos, limpai os leprosos, ressuscitai os mortos, expulsai os demônios: de graça recebestes, de graça dai."
+            },
+            {
+                "id": "v10.9",
+                "versicle_number": 9,
+                "text": "Não possuais ouro, nem prata, nem cobre, em vossos cintos;"
+            },
+            {
+                "id": "v10.10",
+                "versicle_number": 10,
+                "text": "Nem alforjes para o caminho, nem duas túnicas, nem alparcas, nem bordão; porque digno é o operário do seu alimento.{note:1}"
+            },
+            {
+                "id": "v10.11",
+                "versicle_number": 11,
+                "text": "E, em qualquer cidade ou aldeia em que entrardes, procurai saber quem nela seja digno, e hospedai-vos aí até que vos retireis."
+            },
+            {
+                "id": "v10.12",
+                "versicle_number": 12,
+                "text": "E, quando entrardes nalguma casa, saudai-a;"
+            },
+            {
+                "id": "v10.13",
+                "versicle_number": 13,
+                "text": "E, se a casa for digna, desça sobre ela a vossa paz; mas, se não for digna, torne para vós a vossa paz."
+            },
+            {
+                "id": "v10.14",
+                "versicle_number": 14,
+                "text": "E, se ninguém vos receber, nem escutar as vossas palavras, saindo daquela casa ou cidade, sacudi o pó{note:2} dos vossos pés."
+            },
+            {
+                "id": "v10.15",
+                "versicle_number": 15,
+                "text": "Em verdade vos digo que, no dia do juízo, haverá menos rigor{note:3} para o país de Sodoma e Gomorra{note:4} do que para aquela cidade.{note:5}"
+            },
+            {
+                "id": "v10.16",
+                "versicle_number": 16,
+                "text": "Eis que vos envio como ovelhas ao meio de lobos; portanto sede prudentes como as serpentes e símplices como as pombas."
+            },
+            {
+                "id": "v10.17",
+                "versicle_number": 17,
+                "text": "Acautelai-vos, porém, dos homens; porque eles vos entregarão aos sinédrios, e vos açoitarão nas suas sinagogas;"
+            },
+            {
+                "id": "v10.18",
+                "versicle_number": 18,
+                "text": "E sereis até conduzidos à presença dos governadores e dos reis por causa de mim, para lhes servir de testemunho a eles e aos gentios."
+            },
+            {
+                "id": "v10.19",
+                "versicle_number": 19,
+                "text": "Mas, quando vos entregarem, não vos dê cuidado como, ou o que haveis de falar, porque naquela mesma hora vos será ministrado o que haveis de dizer."
+            },
+            {
+                "id": "v10.20",
+                "versicle_number": 20,
+                "text": "Porque não sois vós quem falará, mas o Espírito de vosso Pai é que fala em vós."
+            },
+            {
+                "id": "v10.21",
+                "versicle_number": 21,
+                "text": "E o irmão entregará à morte o irmão, e o pai o filho; e os filhos se levantarão contra os pais, e os matarão."
+            },
+            {
+                "id": "v10.22",
+                "versicle_number": 22,
+                "text": "E odiados de todos sereis por causa do meu nome: mas aquele que perseverar até ao fim será salvo."
+            },
+            {
+                "id": "v10.23",
+                "versicle_number": 23,
+                "text": "Quando pois vos perseguirem nesta cidade, fugi para outra; porque em verdade vos digo que não acabareis de percorrer as cidades d'Israel sem que venha o Filho do homem."
+            },
+            {
+                "id": "v10.24",
+                "versicle_number": 24,
+                "text": "Não é o discípulo{note:6} mais do que o mestre, nem o servo{note:7} mais do que o seu senhor."
+            },
+            {
+                "id": "v10.25",
+                "versicle_number": 25,
+                "text": "Basta ao discípulo ser como seu mestre, e ao servo como seu senhor. Se chamaram Belzebu{note:8} ao pai de família, quanto mais aos seus domésticos?"
+            },
+            {
+                "id": "v10.26",
+                "versicle_number": 26,
+                "text": "Portanto, não os temais; porque nada há encoberto que não haja de revelar-se,{note:9} nem oculto que não haja de saber-se."
+            },
+            {
+                "id": "v10.27",
+                "versicle_number": 27,
+                "text": "O que vos digo em trevas dizei-o em luz; e o que escutais ao ouvido pregai-o sobre os telhados."
+            },
+            {
+                "id": "v10.28",
+                "versicle_number": 28,
+                "text": "E não temais os que matam o corpo, e não podem matar a alma; temei antes aquele que pode fazer perecer no inferno a alma e o corpo."
+            },
+            {
+                "id": "v10.29",
+                "versicle_number": 29,
+                "text": "Não se vendem dois passarinhos por um {note:n}ceitil? e nenhum deles cairá em terra sem a vontade de vosso Pai."
+            },
+            {
+                "id": "v10.30",
+                "versicle_number": 30,
+                "text": "E até mesmo os cabelos da vossa cabeça estão todos contados."
+            },
+            {
+                "id": "v10.31",
+                "versicle_number": 31,
+                "text": "Não temais pois: mais valeis vós do que muitos passarinhos."
+            },
+            {
+                "id": "v10.32",
+                "versicle_number": 32,
+                "text": "Portanto, qualquer que me confessar diante dos homens, eu o confessarei diante de meu Pai, que está nos céus."
+            },
+            {
+                "id": "v10.33",
+                "versicle_number": 33,
+                "text": "Mas qualquer que me negar{note:10} diante dos homens, eu o negarei também diante de meu Pai, que está nos céus."
+            },
+            {
+                "id": "v10.34",
+                "versicle_number": 34,
+                "text": "Não cuideis que vim trazer a paz à terra; não vim trazer paz, mas espada;"
+            },
+            {
+                "id": "v10.35",
+                "versicle_number": 35,
+                "text": "Porque eu vim pôr em dissensão o homem contra seu pai, e a filha contra sua mãe, e a nora contra sua sogra;"
+            },
+            {
+                "id": "v10.36",
+                "versicle_number": 36,
+                "text": "E assim os inimigos do homem serão os seus familiares.{note:11}"
+            },
+            {
+                "id": "v10.37",
+                "versicle_number": 37,
+                "text": "Quem ama o pai ou a mãe mais do que a mim não é digno de mim; e quem ama o filho ou a filha mais do que a mim não é digno de mim."
+            },
+            {
+                "id": "v10.38",
+                "versicle_number": 38,
+                "text": "E quem não toma a sua cruz, e não segue após mim, não é digno de mim."
+            },
+            {
+                "id": "v10.39",
+                "versicle_number": 39,
+                "text": "Quem achar a sua {note:o}vida perdê-la-á;{note:12} e quem perder a sua vida por amor de mim achá-la-á.{note:13}"
+            },
+            {
+                "id": "v10.40",
+                "versicle_number": 40,
+                "text": "Quem vos recebe, a mim me recebe;{note:14} e quem me recebe a mim, recebe aquele{note:15} que me enviou."
+            },
+            {
+                "id": "v10.41",
+                "versicle_number": 41,
+                "text": "Quem recebe um profeta em qualidade de profeta, receberá galardão de profeta; e quem recebe um justo em qualidade de justo, receberá galardão de justo."
+            },
+            {
+                "id": "v10.42",
+                "versicle_number": 42,
+                "text": "E qualquer que tiver dado só que seja um copo d' água fria a um destes pequenos, em nome de discípulo, em verdade vos digo que de modo algum perderá o seu galardão."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 10.10 1Co 9.14; 1Tm 5.18"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 10.14 At 13.51"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 10.15 Mt 11.23-24 {note:5} 10.5-15 Lc 10.1-12 {note:4} 10.15 Gn 19.24-28"
+            },
+            {
+                "id": "n4",
+                "text": "{note:6} 10.24 Lc 6.40 {note:7} 10.24 Jo 13.16; 15.20"
+            },
+            {
+                "id": "n5",
+                "text": "{note:8} 10.25 Mt 9.34; 12.24; Mc 3.22; Lc 11.15"
+            },
+            {
+                "id": "n6",
+                "text": "{note:9} 10.26 Mc 4.22; Lc 8.17"
+            },
+            {
+                "id": "n7",
+                "text": "{note:n} 10.29 ou asse"
+            },
+            {
+                "id": "n8",
+                "text": "{note:10} 10.33 2Tm 2.12"
+            },
+            {
+                "id": "n9",
+                "text": "{note:11} 10.35-36 Mq 7.6"
+            },
+            {
+                "id": "n10",
+                "text": "{note:o} 10.39 ou alma {note:13} 10.38-39 Mt 16.24-25; Mc 8.34-35; Lc 9.23-24; 17.33; Jo 12.25 {note:12} 10.39 Lc 17.33; Jo 12.25"
+            },
+            {
+                "id": "n11",
+                "text": "{note:14} 10.40 Lc 10.16; Jo 13.20 {note:15} 10.40 Mc 9.37; Lc 9.48"
+            }
+        ]
+    }
+}

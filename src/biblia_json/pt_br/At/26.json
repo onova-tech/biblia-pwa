@@ -1,0 +1,200 @@
+{
+    "book": {
+        "id": "At",
+        "book_number": 44,
+        "new_testament": true,
+        "num_chapters": 28,
+        "book_name": "ATOS DOS APÓSTOLOS",
+        "book_full_name": "ATOS DOS APÓSTOLOS"
+    },
+    "chapter": {
+        "chapter_number": 26,
+        "chapter_reference": "",
+        "chapter_title": "",
+        "versicles": [
+            {
+                "id": "v26.1",
+                "versicle_number": 1,
+                "text": "DEPOIS Agripa disse a Paulo: Permite-se-te que te defendas. Então Paulo, estendendo a mão em sua defesa, respondeu:"
+            },
+            {
+                "id": "v26.2",
+                "versicle_number": 2,
+                "text": "Tenho-me por venturoso, ó rei Agripa, de que perante ti me haja hoje de defender de todas as coisas de que sou acusado pelos judeus;"
+            },
+            {
+                "id": "v26.3",
+                "versicle_number": 3,
+                "text": "Mormente sabendo eu que tens conhecimento de todos os costumes e questões que há entre os judeus; pelo que te rogo que me ouças com paciência."
+            },
+            {
+                "id": "v26.4",
+                "versicle_number": 4,
+                "text": "A minha vida, pois, desde a mocidade, qual haja sido, desde o princípio, em Jerusalém, entre os da minha nação, todos os judeus a sabem."
+            },
+            {
+                "id": "v26.5",
+                "versicle_number": 5,
+                "text": "Sabendo de mim desde o princípio (se o quiserem testificar), que, conforme a mais severa seita da nossa religião, vivi fariseu.{note:1}"
+            },
+            {
+                "id": "v26.6",
+                "versicle_number": 6,
+                "text": "E agora pela esperança da promessa que por Deus foi feita a nossos pais estou aqui e sou julgado."
+            },
+            {
+                "id": "v26.7",
+                "versicle_number": 7,
+                "text": "À qual as nossas doze tribos esperam chegar, servindo a Deus continuamente, noite e dia. Por esta esperança, ó rei Agripa, eu sou acusado pelos judeus."
+            },
+            {
+                "id": "v26.8",
+                "versicle_number": 8,
+                "text": "Pois quê? julga-se coisa incrível entre vós que Deus ressuscite os mortos?"
+            },
+            {
+                "id": "v26.9",
+                "versicle_number": 9,
+                "text": "Bem tinha eu imaginado que contra o nome de Jesus nazareno devia eu praticar muitos atos;"
+            },
+            {
+                "id": "v26.10",
+                "versicle_number": 10,
+                "text": "O que também fiz em Jerusalém. E, havendo recebido poder dos principais dos sacerdotes, encerrei muitos dos santos nas prisões; e quando os matavam eu dava o meu voto contra eles."
+            },
+            {
+                "id": "v26.11",
+                "versicle_number": 11,
+                "text": "E, castigando-os muitas vezes por todas as sinagogas, os obriguei a blasfemar. E, enfurecido demasiadamente contra eles, até nas cidades estranhas os persegui.{note:2}"
+            },
+            {
+                "id": "v26.12",
+                "versicle_number": 12,
+                "text": "Sobre o que, indo então a Damasco, com poder e comissão dos principais dos sacerdotes,"
+            },
+            {
+                "id": "v26.13",
+                "versicle_number": 13,
+                "text": "Ao meio-dia, ó rei, vi no caminho uma luz do céu, que excedia o esplendor do sol, cuja claridade me envolveu a mim e aos que iam comigo."
+            },
+            {
+                "id": "v26.14",
+                "versicle_number": 14,
+                "text": "E, caindo nós todos por terra, ouvi uma voz que me falava, e em língua hebraica dizia: Saulo, Saulo, por que me persegues? Dura coisa te é recalcitrar contra os aguilhões."
+            },
+            {
+                "id": "v26.15",
+                "versicle_number": 15,
+                "text": "E disse eu: Quem és, Senhor? E ele respondeu: Eu sou Jesus, a quem tu persegues;"
+            },
+            {
+                "id": "v26.16",
+                "versicle_number": 16,
+                "text": "Mas levanta-te e põe-te sobre teus pés, porque te apareci por isto, para te pôr por ministro e testemunha tanto das coisas que tens visto como daquelas pelas quais te aparecerei ainda;"
+            },
+            {
+                "id": "v26.17",
+                "versicle_number": 17,
+                "text": "Livrando-te deste povo, e dos gentios, a quem agora te envio,"
+            },
+            {
+                "id": "v26.18",
+                "versicle_number": 18,
+                "text": "Para lhes abrires os olhos, e das trevas os converteres à luz, e do poder de Satanás a Deus: a fim de que recebam a remissão dos pecados, e sorte entre os santificados pela fé em mim.{note:3}"
+            },
+            {
+                "id": "v26.19",
+                "versicle_number": 19,
+                "text": "Pelo que, ó rei Agripa, não fui desobediente à visão celestial."
+            },
+            {
+                "id": "v26.20",
+                "versicle_number": 20,
+                "text": "Antes anunciei primeiramente aos que estão em Damasco{note:4} e em Jerusalém,{note:5} e por toda a terra da Judeia, e aos gentios, que se emendassem e se convertessem a Deus, fazendo obras dignas de arrependimento."
+            },
+            {
+                "id": "v26.21",
+                "versicle_number": 21,
+                "text": "Por causa disto os judeus lançaram mão de mim no templo, e procuraram matar-me."
+            },
+            {
+                "id": "v26.22",
+                "versicle_number": 22,
+                "text": "Mas, alcançando socorro de Deus, ainda até ao dia de hoje permaneço, dando testemunho tanto a pequenos como a grandes não dizendo nada mais do que o que os profetas e Moisés disseram que devia acontecer,"
+            },
+            {
+                "id": "v26.23",
+                "versicle_number": 23,
+                "text": "Isto é, que o Cristo devia padecer, e, sendo o primeiro da ressurreição dos mortos, devia anunciar a luz{note:6} a este povo e aos gentios."
+            },
+            {
+                "id": "v26.24",
+                "versicle_number": 24,
+                "text": "E, dizendo ele isto em sua defesa, disse Festo em alta voz: Estás louco, Paulo: as muitas letras te fazem delirar."
+            },
+            {
+                "id": "v26.25",
+                "versicle_number": 25,
+                "text": "Mas ele disse: Não deliro ó potentíssimo Festo; antes digo palavras de verdade e de um são juízo."
+            },
+            {
+                "id": "v26.26",
+                "versicle_number": 26,
+                "text": "Porque o rei, diante de quem falo com ousadia, sabe estas coisas, pois não creio que nada disto lhe é oculto; porque isto não se fez em qualquer canto."
+            },
+            {
+                "id": "v26.27",
+                "versicle_number": 27,
+                "text": "Crês tu nos profetas, ó rei Agripa? Bem sei que crês."
+            },
+            {
+                "id": "v26.28",
+                "versicle_number": 28,
+                "text": "E disse Agripa a Paulo: Por pouco me queres persuadir a que me faça cristão!"
+            },
+            {
+                "id": "v26.29",
+                "versicle_number": 29,
+                "text": "E disse Paulo: Prouvera a Deus que, ou por pouco ou por muito, não somente tu, mas também todos quantos hoje me estão ouvindo se tornassem tais qual eu sou, exceto estas cadeias."
+            },
+            {
+                "id": "v26.30",
+                "versicle_number": 30,
+                "text": "E, dizendo ele isto, se levantou o rei, e o presidente, e Berenice, e os que com eles estavam assentados."
+            },
+            {
+                "id": "v26.31",
+                "versicle_number": 31,
+                "text": "E apartando-se dali, falavam uns com os outros, dizendo: Este homem nada fez digno de morte ou de prisões."
+            },
+            {
+                "id": "v26.32",
+                "versicle_number": 32,
+                "text": "E Agripa disse a Festo: Bem podia soltar-se este homem, se não houvera apelado para César."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 26.5 At 23.6; Fp 3.5"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 26.9-11 At 8.1-3"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 26.12-18 At 9.1-19; 22.6-16"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 26.20 At 9.20-22 {note:5} 26.20 At 9.28-29"
+            },
+            {
+                "id": "n5",
+                "text": "{note:6} 26.23 Is 42.6; 49.6"
+            }
+        ]
+    }
+}

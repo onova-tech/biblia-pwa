@@ -1,0 +1,49 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 13,
+        "chapter_reference": "",
+        "chapter_title": "Davi, na sua extrema tristeza, recorre a Deus e confia nele",
+        "versicles": [
+            {
+                "id": "v13.1",
+                "versicle_number": 1,
+                "text": "ATÉ quando te esquecerás de mim, Senhor? para sempre? Até quando esconderás de mim o teu rosto?"
+            },
+            {
+                "id": "v13.2",
+                "versicle_number": 2,
+                "text": "Até quando consultarei com a minha alma, tendo tristeza no meu coração cada dia? Até quando se exaltará sobre mim o meu inimigo?"
+            },
+            {
+                "id": "v13.3",
+                "versicle_number": 3,
+                "text": "Atenta em mim, ouve-me, ó Senhor meu Deus; alumia os meus olhos para que eu não adormeça na morte;"
+            },
+            {
+                "id": "v13.4",
+                "versicle_number": 4,
+                "text": "Para que o meu inimigo não diga: Prevaleci contra ele; e os meus adversários se não alegrem, vindo eu a vacilar."
+            },
+            {
+                "id": "v13.5",
+                "versicle_number": 5,
+                "text": "Mas eu confio na tua benignidade: na tua salvação meu coração se alegrará."
+            },
+            {
+                "id": "v13.6",
+                "versicle_number": 6,
+                "text": "Cantarei ao Senhor, porquanto me tem feito muito bem."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

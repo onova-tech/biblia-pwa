@@ -1,0 +1,163 @@
+{
+    "book": {
+        "id": "Ex",
+        "book_number": 2,
+        "new_testament": false,
+        "num_chapters": 40,
+        "book_name": "ÊXODO",
+        "book_full_name": "O SEGUNDO LIVRO DE MOISÉS ÊXODO"
+    },
+    "chapter": {
+        "chapter_number": 18,
+        "chapter_reference": "",
+        "chapter_title": "O sogro de Moisés traz-lhe sua mulher e seus filhos",
+        "versicles": [
+            {
+                "id": "v18.1",
+                "versicle_number": 1,
+                "text": "ORA Jetro, sacerdote de Midiã, sogro de Moisés, ouviu todas as cousas que Deus tinha feito a Moisés e a Israel seu povo: como o Senhor tinha tirado a Israel do Egito."
+            },
+            {
+                "id": "v18.2",
+                "versicle_number": 2,
+                "text": "E Jetro, sogro de Moisés, tomou a Zípora,{note:1} a mulher de Moisés, depois que ele lha enviara,"
+            },
+            {
+                "id": "v18.3",
+                "versicle_number": 3,
+                "text": "Com seus dois filhos, dos quais um se chamava Gérson; porque disse: Eu fui peregrino em terra estranha;"
+            },
+            {
+                "id": "v18.4",
+                "versicle_number": 4,
+                "text": "E o outro se chamava Eliézer; porque disse: o Deus de meu pai foi minha ajuda, e me livrou da espada de Faraó.{note:2}"
+            },
+            {
+                "id": "v18.5",
+                "versicle_number": 5,
+                "text": "Vindo pois Jetro, o sogro de Moisés, com seus filhos e com sua mulher, a Moisés no deserto, ao monte de Deus, onde se tinha acampado,"
+            },
+            {
+                "id": "v18.6",
+                "versicle_number": 6,
+                "text": "Disse a Moisés: Eu, teu sogro Jetro, venho a ti, com tua mulher, e seus dois filhos com ela."
+            },
+            {
+                "id": "v18.7",
+                "versicle_number": 7,
+                "text": "Então saiu Moisés ao encontro de seu sogro, e inclinou-se, e beijou-o, e perguntaram um ao outro como estavam, e entraram na tenda."
+            },
+            {
+                "id": "v18.8",
+                "versicle_number": 8,
+                "text": "E Moisés contou a seu sogro todas as cousas que o Senhor tinha feito a Faraó e aos egípcios por amor de Israel, e todo o trabalho que passaram no caminho, e como o Senhor os livrara."
+            },
+            {
+                "id": "v18.9",
+                "versicle_number": 9,
+                "text": "E alegrou-se Jetro de todo o bem que o Senhor tinha feito a Israel, livrando-o da mão dos egípcios."
+            },
+            {
+                "id": "v18.10",
+                "versicle_number": 10,
+                "text": "E Jetro disse: Bendito seja o Senhor, que vos livrou das mãos dos egípcios e da mão de Faraó; que livrou a este povo de debaixo da mão dos egípcios."
+            },
+            {
+                "id": "v18.11",
+                "versicle_number": 11,
+                "text": "Agora sei que o Senhor é maior que todos os deuses; porque na cousa em que se ensoberbeceram, os sobrepujou."
+            },
+            {
+                "id": "v18.12",
+                "versicle_number": 12,
+                "text": "Então tomou Jetro, o sogro de Moisés, holocausto e sacrifícios para Deus; e veio Aarão, e todos os anciãos de Israel, para comerem pão com o sogro de Moisés diante de Deus."
+            },
+            {
+                "id": "v18.13",
+                "versicle_number": 13,
+                "text": "E aconteceu que, ao outro dia, Moisés assentou-se para julgar o povo; e o povo estava em pé diante de Moisés desde a manhã até à tarde."
+            },
+            {
+                "id": "v18.14",
+                "versicle_number": 14,
+                "text": "Vendo pois o sogro de Moisés tudo o que ele fazia ao povo, disse: Que é isto, que tu fazes ao povo? por que te assentas só, e todo o povo está em pé diante de ti, desde a manhã até à tarde?"
+            },
+            {
+                "id": "v18.15",
+                "versicle_number": 15,
+                "text": "Então disse Moisés a seu sogro: É porque este povo vem a mim, para consultar a Deus:"
+            },
+            {
+                "id": "v18.16",
+                "versicle_number": 16,
+                "text": "Quando tem algum negócio vem a mim, para que eu julgue entre um e outro, e lhes declare os estatutos de Deus, e as suas leis."
+            },
+            {
+                "id": "v18.17",
+                "versicle_number": 17,
+                "text": "O sogro de Moisés porém lhe disse: Não é bom o que fazes."
+            },
+            {
+                "id": "v18.18",
+                "versicle_number": 18,
+                "text": "Totalmente desfalecerás, assim tu, como este povo que está contigo: porque este negócio é mui difícil para ti; tu só não o podes fazer."
+            },
+            {
+                "id": "v18.19",
+                "versicle_number": 19,
+                "text": "Ouve agora a minha voz; eu te aconselharei, e Deus será contigo: Sê tu pelo povo diante de Deus, e leva tu as cousas a Deus;"
+            },
+            {
+                "id": "v18.20",
+                "versicle_number": 20,
+                "text": "E declara-lhes os estatutos e as leis, e faze-lhes saber o caminho em que devem andar, e a obra que devem fazer."
+            },
+            {
+                "id": "v18.21",
+                "versicle_number": 21,
+                "text": "E tu dentre todo o povo procura homens capazes, tementes a Deus, homens de verdade, que aborreçam a avareza; e põe-nos sobre eles por maiorais de mil, maiorais de cem, maiorais de cinquenta, e maiorais de dez;"
+            },
+            {
+                "id": "v18.22",
+                "versicle_number": 22,
+                "text": "Para que julguem este povo em todo o tempo, e seja que todo o negócio grave tragam a ti, mas todo o negócio pequeno eles o julguem; assim a ti mesmo te aliviarás da carga, e eles a levarão contigo."
+            },
+            {
+                "id": "v18.23",
+                "versicle_number": 23,
+                "text": "Se isto fizeres, e Deus to mandar, poderás então subsistir: assim também todo este povo em paz virá ao seu lugar."
+            },
+            {
+                "id": "v18.24",
+                "versicle_number": 24,
+                "text": "E Moisés deu ouvidos à voz de seu sogro e fez tudo quanto tinha dito;"
+            },
+            {
+                "id": "v18.25",
+                "versicle_number": 25,
+                "text": "E escolheu Moisés homens capazes, de todo o Israel, e os pôs por cabeças sobre o povo: maiorais de mil e maiorais de cem, maiorais de cinquenta, e maiorais de dez."
+            },
+            {
+                "id": "v18.26",
+                "versicle_number": 26,
+                "text": "E eles julgaram o povo em todo o tempo; o negócio árduo trouxeram a Moisés, e todo o negócio pequeno julgaram eles."
+            },
+            {
+                "id": "v18.27",
+                "versicle_number": 27,
+                "text": "Então despediu Moisés o seu sogro, o qual se foi à sua terra."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 18.2 Êx 2.21-22"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 18.3-4 At 7.29"
+            }
+        ]
+    }
+}

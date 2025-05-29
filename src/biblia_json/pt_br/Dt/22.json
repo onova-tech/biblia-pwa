@@ -1,0 +1,201 @@
+{
+    "book": {
+        "id": "Dt",
+        "book_number": 5,
+        "new_testament": false,
+        "num_chapters": 34,
+        "book_name": "DEUTERONÔMIO",
+        "book_full_name": "O QUINTO LIVRO DE MOISÉS DEUTERONÔMIO"
+    },
+    "chapter": {
+        "chapter_number": 22,
+        "chapter_reference": "",
+        "chapter_title": "Caridade com o próximo",
+        "versicles": [
+            {
+                "id": "v22.1",
+                "versicle_number": 1,
+                "text": "VENDO extraviado o boi ou ovelha de teu irmão, não te esconderás deles: restituí-los-ás sem falta a teu irmão."
+            },
+            {
+                "id": "v22.2",
+                "versicle_number": 2,
+                "text": "E se teu irmão não estiver perto de ti, ou tu o não conheceres, recolhê-los-ás na tua casa, para que fiquem contigo, até que teu irmão os busque, e tu lhos tornarás a dar."
+            },
+            {
+                "id": "v22.3",
+                "versicle_number": 3,
+                "text": "Assim também farás com o seu jumento, e assim farás com os seus vestidos; assim farás também com toda a cousa perdida, que se perder de teu irmão, e tu a achares; não te poderás esconder."
+            },
+            {
+                "id": "v22.4",
+                "versicle_number": 4,
+                "text": "O jumento de teu irmão, ou o seu boi, não verás caídos no caminho, e deles te esconderás: com ele os levantarás sem falta.{note:1}"
+            },
+            {
+                "id": "v22.5",
+                "versicle_number": 5,
+                "text": "Não haverá trajo de homem na mulher, e não vestirá o homem vestido de mulher: porque, qualquer que faz isto abominação é ao Senhor teu Deus."
+            },
+            {
+                "id": "v22.6",
+                "versicle_number": 6,
+                "text": "Quando encontrares algum ninho de ave no caminho em alguma árvore, ou no chão, com passarinhos, ou ovos, e a mãe posta sobre os passarinhos, ou sobre os ovos, não tomarás a mãe com os filhos;"
+            },
+            {
+                "id": "v22.7",
+                "versicle_number": 7,
+                "text": "Deixarás ir livremente a mãe, e os filhos tomarás para ti; para que bem te vá, e para que prolongues os dias."
+            },
+            {
+                "id": "v22.8",
+                "versicle_number": 8,
+                "text": "Quando edificares uma casa nova, farás no teu telhado um parapeito, para que não ponhas culpa de sangue na tua casa, se alguém dalguma maneira cair dela."
+            },
+            {
+                "id": "v22.9",
+                "versicle_number": 9,
+                "text": "Não semearás a tua vinha de diferentes espécies de semente, para que se não profane o fruto da semente que semeares, e a novidade da vinha."
+            },
+            {
+                "id": "v22.10",
+                "versicle_number": 10,
+                "text": "Com boi e com jumento juntamente não lavrarás."
+            },
+            {
+                "id": "v22.11",
+                "versicle_number": 11,
+                "text": "Não te vestirás de diversos estofos de lã e linho juntamente.{note:2}"
+            },
+            {
+                "id": "v22.12",
+                "versicle_number": 12,
+                "text": "Franjas porás{note:3} nas quatro bordas da tua manta, com que te cobrires."
+            },
+            {
+                "id": "v22.13",
+                "versicle_number": 13,
+                "text": "Quando um homem tomar mulher e, entrando a ela, a aborrecer,"
+            },
+            {
+                "id": "v22.14",
+                "versicle_number": 14,
+                "text": "E lhe imputar cousas escandalosas, e contra ela divulgar má fama, dizendo: Tomei esta mulher, e me cheguei a ela, porém não a achei virgem;"
+            },
+            {
+                "id": "v22.15",
+                "versicle_number": 15,
+                "text": "Então o pai da moça e sua mãe tomarão os sinais da virgindade da moça, e levá-los-ão para fora aos anciãos da cidade, à porta:"
+            },
+            {
+                "id": "v22.16",
+                "versicle_number": 16,
+                "text": "E o pai da moça dirá aos anciãos: Eu dei minha filha por mulher a este homem, porém ele a aborreceu;"
+            },
+            {
+                "id": "v22.17",
+                "versicle_number": 17,
+                "text": "E eis que lhe imputou cousas escandalosas, dizendo: Não achei virgem tua filha; porém eis aqui os sinais da virgindade de minha filha. E estenderão o lençol diante dos anciãos da cidade."
+            },
+            {
+                "id": "v22.18",
+                "versicle_number": 18,
+                "text": "Então os anciãos da mesma cidade tomarão aquele homem, e o castigarão,"
+            },
+            {
+                "id": "v22.19",
+                "versicle_number": 19,
+                "text": "E o condenarão em cem siclos de prata, e os darão ao pai da moça; porquanto divulgou má fama sobre uma virgem de Israel. E lhe será por mulher, em todos os seus dias não a poderá despedir."
+            },
+            {
+                "id": "v22.20",
+                "versicle_number": 20,
+                "text": "Porém se este negócio for verdade, que a virgindade se não achou na moça,"
+            },
+            {
+                "id": "v22.21",
+                "versicle_number": 21,
+                "text": "Então levarão a moça à porta da casa de seu pai, e os homens da sua cidade a apedrejarão com pedras, até que morra; pois fez loucura em Israel, prostituindo-se na casa de seu pai: assim tirarás o mal do meio de ti."
+            },
+            {
+                "id": "v22.22",
+                "versicle_number": 22,
+                "text": "Quando um homem for achado deitado com mulher casada com marido, então ambos morrerão, o homem que se deitou com a mulher, e a mulher: assim tirarás o mal de Israel."
+            },
+            {
+                "id": "v22.23",
+                "versicle_number": 23,
+                "text": "Quando houver moça virgem, desposada com algum homem, e um homem a achar na cidade, e se deitar com ela,"
+            },
+            {
+                "id": "v22.24",
+                "versicle_number": 24,
+                "text": "Então trareis ambos à porta daquela cidade, e os apedrejareis com pedras, até que morram; a moça, porquanto não gritou na cidade, e o homem, porquanto humilhou a mulher do seu próximo: assim tirarás o mal do meio de ti."
+            },
+            {
+                "id": "v22.25",
+                "versicle_number": 25,
+                "text": "E se algum homem no campo achar uma moça desposada, e o homem a forçar, e se deitar com ela, então morrerá só o homem que se deitou com ela;"
+            },
+            {
+                "id": "v22.26",
+                "versicle_number": 26,
+                "text": "Porém à moça não farás nada: a moça não tem culpa de morte; porque, como o homem que se levanta contra o seu próximo, e lhe tira a vida, assim é este negócio."
+            },
+            {
+                "id": "v22.27",
+                "versicle_number": 27,
+                "text": "Pois a achou no campo: a moça desposada gritou, e não houve quem a livrasse."
+            },
+            {
+                "id": "v22.28",
+                "versicle_number": 28,
+                "text": "Quando um homem achar uma moça virgem, que não for desposada, e pegar nela, e se deitar com ela, e forem apanhados,"
+            },
+            {
+                "id": "v22.29",
+                "versicle_number": 29,
+                "text": "Então o homem que se deitou com ela dará ao pai da moça cinquenta siclos de prata: e porquanto a humilhou, lhe será por mulher: não a poderá despedir em todos os seus dias.{note:4}"
+            },
+            {
+                "id": "v22.30",
+                "versicle_number": 30,
+                "text": "Nenhum homem tomará a mulher{note:5} de seu pai, nem descobrirá a ourela de seu pai."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v22.5",
+                "text": "Acerca dos vestidos do homem e dos da mulher"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v22.13",
+                "text": "As penas de diversos pecados cometidos para com mulheres"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 22.1-4 Êx 23.4-5"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 22.9-11 Lv 19.19"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 22.12 Nm 15.37-41"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 22.28-29 Êx 22.16-17"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 22.30 Lv 18.8; 20.11; Dt 27.20"
+            }
+        ]
+    }
+}

@@ -1,0 +1,227 @@
+{
+    "book": {
+        "id": "Hb",
+        "book_number": 58,
+        "new_testament": true,
+        "num_chapters": 13,
+        "book_name": "HEBREUS",
+        "book_full_name": "EPÍSTOLA AOS HEBREUS"
+    },
+    "chapter": {
+        "chapter_number": 12,
+        "chapter_reference": "",
+        "chapter_title": "Perseverança no meio das provações, segundo o exemplo de Cristo",
+        "versicles": [
+            {
+                "id": "v12.1",
+                "versicle_number": 1,
+                "text": "PORTANTO nós também, pois que estamos rodeados de uma tão grande nuvem de testemunhas, deixemos todo o embaraço, e o pecado que tão de perto nos rodeia, e corramos com paciência a carreira que nos está proposta:"
+            },
+            {
+                "id": "v12.2",
+                "versicle_number": 2,
+                "text": "Olhando para Jesus, {note:v}autor e consumador da fé, o qual pelo gozo que lhe estava proposto suportou a cruz, desprezando a afronta e assentou-se à destra do trono de Deus."
+            },
+            {
+                "id": "v12.3",
+                "versicle_number": 3,
+                "text": "Considerai pois aquele que suportou tais contradições dos pecadores contra si mesmo, para que não enfraqueçais, desfalecendo em vossos ânimos."
+            },
+            {
+                "id": "v12.4",
+                "versicle_number": 4,
+                "text": "Ainda não resististes até ao sangue, combatendo contra o pecado."
+            },
+            {
+                "id": "v12.5",
+                "versicle_number": 5,
+                "text": "E já vos esquecestes da exortação que argumenta convosco como filhos: Filho meu, não desprezes a correção do Senhor, e não desmaies quando por ele fores repreendido;"
+            },
+            {
+                "id": "v12.6",
+                "versicle_number": 6,
+                "text": "Porque o Senhor corrige o que ama, e açoita a qualquer que recebe por filho.{note:1}"
+            },
+            {
+                "id": "v12.7",
+                "versicle_number": 7,
+                "text": "Se suportais a correção, Deus vos trata como filhos; porque, que filho há a quem o pai não corrija?"
+            },
+            {
+                "id": "v12.8",
+                "versicle_number": 8,
+                "text": "Mas, se estais sem disciplina, da qual todos são feitos participantes, sois então bastardos, e não filhos."
+            },
+            {
+                "id": "v12.9",
+                "versicle_number": 9,
+                "text": "Além do que tivemos nossos pais segundo a carne, para nos corrigirem, e nós os reverenciamos: não nos sujeitaremos muito mais ao Pai dos espíritos, para vivermos?"
+            },
+            {
+                "id": "v12.10",
+                "versicle_number": 10,
+                "text": "Porque aqueles, na verdade, por um pouco de tempo, nos corrigiam como bem lhes parecia; mas este, para nosso proveito, para sermos participantes da sua santidade."
+            },
+            {
+                "id": "v12.11",
+                "versicle_number": 11,
+                "text": "E, na verdade, toda a correção, ao presente, não parece ser de gozo, senão de tristeza, mas depois produz um fruto pacífico de justiça nos exercitados por ela."
+            },
+            {
+                "id": "v12.12",
+                "versicle_number": 12,
+                "text": "Portanto tornai{note:2} a levantar as mãos cansadas, e os joelhos {note:w}desconjuntados,"
+            },
+            {
+                "id": "v12.13",
+                "versicle_number": 13,
+                "text": "E fazei veredas direitas{note:3} para os vossos pés, para que o que manqueja se não desvie inteiramente, antes seja sarado."
+            },
+            {
+                "id": "v12.14",
+                "versicle_number": 14,
+                "text": "Segui a paz com todos, e a santificação, sem a qual ninguém verá o Senhor:"
+            },
+            {
+                "id": "v12.15",
+                "versicle_number": 15,
+                "text": "Tendo cuidado de que ninguém se prive da graça de Deus, e de que nenhuma raiz de amargura,{note:4} brotando, vos perturbe, e por ela muitos se contaminem."
+            },
+            {
+                "id": "v12.16",
+                "versicle_number": 16,
+                "text": "E ninguém seja fornicário, ou profano, como Esaú, que por um manjar vendeu o seu direito de primogenitura.{note:5}"
+            },
+            {
+                "id": "v12.17",
+                "versicle_number": 17,
+                "text": "Porque bem sabeis que, querendo ele ainda depois herdar a bênção, foi rejeitado,{note:6} porque não achou lugar de arrependimento, ainda que com lágrimas o buscou."
+            },
+            {
+                "id": "v12.18",
+                "versicle_number": 18,
+                "text": "Porque não chegastes ao monte palpável, aceso em fogo, e à escuridão, e às trevas, e à tempestade,"
+            },
+            {
+                "id": "v12.19",
+                "versicle_number": 19,
+                "text": "E ao sonido da trombeta, e à voz das palavras, a qual os que a ouviram pediram que se lhes não falasse mais;{note:7}"
+            },
+            {
+                "id": "v12.20",
+                "versicle_number": 20,
+                "text": "Porque não podiam suportar o que se lhes mandava: se até um animal tocar o monte, será apedrejado.{note:8}"
+            },
+            {
+                "id": "v12.21",
+                "versicle_number": 21,
+                "text": "E tão terrível era {note:x}a visão que Moisés disse: Estou todo assombrado, e tremendo.{note:9}"
+            },
+            {
+                "id": "v12.22",
+                "versicle_number": 22,
+                "text": "Mas chegastes ao monte de Sião, e à cidade do Deus vivo, à Jerusalém celestial, e aos muitos milhares de anjos;"
+            },
+            {
+                "id": "v12.23",
+                "versicle_number": 23,
+                "text": "À universal assembleia e igreja dos primogênitos, que estão inscritos nos céus, e a Deus, o juiz de todos, e aos espíritos dos justos aperfeiçoados;"
+            },
+            {
+                "id": "v12.24",
+                "versicle_number": 24,
+                "text": "E a Jesus, o Mediador duma Nova Aliança, e ao sangue da aspersão, que fala melhor do que o de Abel.{note:10}"
+            },
+            {
+                "id": "v12.25",
+                "versicle_number": 25,
+                "text": "Vede que não rejeiteis ao que fala; porque, se não escaparam aqueles que rejeitaram o que {note:y}na terra{note:11} os advertia, muito menos nós, se nos desviarmos daquele que {note:z}é dos céus:"
+            },
+            {
+                "id": "v12.26",
+                "versicle_number": 26,
+                "text": "A voz do qual moveu então a terra, mas agora {note:a}anunciou, dizendo: Ainda uma vez comoverei, não só a terra, senão também o céu.{note:12}"
+            },
+            {
+                "id": "v12.27",
+                "versicle_number": 27,
+                "text": "E esta palavra: Ainda uma vez, mostra a mudança das coisas móveis, como coisas feitas, para que as imóveis permaneçam."
+            },
+            {
+                "id": "v12.28",
+                "versicle_number": 28,
+                "text": "Pelo que, tendo recebido um reino que não pode ser abalado, retenhamos a graça, pela qual sirvamos a Deus agradavelmente com reverência e piedade;"
+            },
+            {
+                "id": "v12.29",
+                "versicle_number": 29,
+                "text": "Porque o nosso Deus é um fogo consumidor.{note:13}"
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v12.12",
+                "text": "Exortação à santidade: vários preceitos"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:v} 12.2 ou o capitão e perfector"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 12.5-6 Pv 3.11-12; Jó 5.17"
+            },
+            {
+                "id": "n3",
+                "text": "{note:2} 12.12 Is 35.3 {note:w} 12.12 ou paralisados"
+            },
+            {
+                "id": "n4",
+                "text": "{note:3} 12.13 Pv 4.26"
+            },
+            {
+                "id": "n5",
+                "text": "{note:4} 12.15 Dt 29.18"
+            },
+            {
+                "id": "n6",
+                "text": "{note:5} 12.16 Gn 25.29-34"
+            },
+            {
+                "id": "n7",
+                "text": "{note:6} 12.17 Gn 27.30-40"
+            },
+            {
+                "id": "n8",
+                "text": "{note:7} 12.18-19 Êx 19.16-22; 20.18-21; Dt 4.11-12; 5.22-27"
+            },
+            {
+                "id": "n9",
+                "text": "{note:8} 12.20 Êx 19.12-13"
+            },
+            {
+                "id": "n10",
+                "text": "{note:x} 12.21 ou o que se via {note:9} 12.21 Dt 9.19"
+            },
+            {
+                "id": "n11",
+                "text": "{note:10} 12.24 Gn 4.10"
+            },
+            {
+                "id": "n12",
+                "text": "{note:y} 12.25 ou os avisou na terra {note:z} 12.25 ou os avisou dos céus {note:11} 12.25 Êx 20.19"
+            },
+            {
+                "id": "n13",
+                "text": "{note:a} 12.26 ou prometeu {note:12} 12.26 Ag 2.6"
+            },
+            {
+                "id": "n14",
+                "text": "{note:13} 12.29 Dt 4.24"
+            }
+        ]
+    }
+}

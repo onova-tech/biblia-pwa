@@ -1,0 +1,205 @@
+{
+    "book": {
+        "id": "Ef",
+        "book_number": 49,
+        "new_testament": true,
+        "num_chapters": 6,
+        "book_name": "EFÉSIOS",
+        "book_full_name": "EPÍSTOLA DO APÓSTOLO PAULO AOS EFÉSIOS"
+    },
+    "chapter": {
+        "chapter_number": 5,
+        "chapter_reference": "",
+        "chapter_title": "Os deveres domésticos",
+        "versicles": [
+            {
+                "id": "v5.1",
+                "versicle_number": 1,
+                "text": "SEDE pois imitadores de Deus, como filhos amados;"
+            },
+            {
+                "id": "v5.2",
+                "versicle_number": 2,
+                "text": "E andai em amor, como também Cristo vos amou, e se entregou a si mesmo por nós, em oferta e sacrifício a Deus, em cheiro suave.{note:1}"
+            },
+            {
+                "id": "v5.3",
+                "versicle_number": 3,
+                "text": "Mas a prostituição, e toda a impureza ou avareza, nem ainda se nomeie entre vós, como convém a santos;"
+            },
+            {
+                "id": "v5.4",
+                "versicle_number": 4,
+                "text": "Nem torpezas, nem parvoíces, nem chocarrices, que não convém; mas antes ações de graças."
+            },
+            {
+                "id": "v5.5",
+                "versicle_number": 5,
+                "text": "Porque bem sabeis isto: que nenhum fornicário, ou impuro, ou avarento, o qual é idólatra, tem herança no reino de Cristo e de Deus."
+            },
+            {
+                "id": "v5.6",
+                "versicle_number": 6,
+                "text": "Ninguém vos engane com palavras vãs; porque por estas coisas vem a ira de Deus sobre os filhos da desobediência."
+            },
+            {
+                "id": "v5.7",
+                "versicle_number": 7,
+                "text": "Portanto não sejais seus companheiros."
+            },
+            {
+                "id": "v5.8",
+                "versicle_number": 8,
+                "text": "Porque noutro tempo éreis trevas, mas agora sois luz no Senhor: andai como filhos da luz."
+            },
+            {
+                "id": "v5.9",
+                "versicle_number": 9,
+                "text": "(Porque o fruto do Espírito está em toda a bondade, e justiça e verdade);"
+            },
+            {
+                "id": "v5.10",
+                "versicle_number": 10,
+                "text": "Aprovando o que é agradável ao Senhor."
+            },
+            {
+                "id": "v5.11",
+                "versicle_number": 11,
+                "text": "E não comuniqueis com as obras infrutuosas das trevas, mas antes condenai-as."
+            },
+            {
+                "id": "v5.12",
+                "versicle_number": 12,
+                "text": "Porque o que eles fazem em oculto até dizê-lo é torpe."
+            },
+            {
+                "id": "v5.13",
+                "versicle_number": 13,
+                "text": "Mas todas estas coisas se manifestam, sendo condenadas, pela luz, porque a luz tudo manifesta."
+            },
+            {
+                "id": "v5.14",
+                "versicle_number": 14,
+                "text": "Pelo que diz: Desperta, tu que dormes, e levanta-te dentre os mortos, e Cristo te esclarecerá."
+            },
+            {
+                "id": "v5.15",
+                "versicle_number": 15,
+                "text": "Portanto, vede prudentemente como andais, não como néscios, mas como sábios,"
+            },
+            {
+                "id": "v5.16",
+                "versicle_number": 16,
+                "text": "Remindo o tempo;{note:2} porquanto os dias são maus."
+            },
+            {
+                "id": "v5.17",
+                "versicle_number": 17,
+                "text": "Pelo que não sejais insensatos, mas entendei qual seja a vontade do Senhor."
+            },
+            {
+                "id": "v5.18",
+                "versicle_number": 18,
+                "text": "E não vos embriagueis com vinho, em que há contenda, mas enchei-vos do Espírito;"
+            },
+            {
+                "id": "v5.19",
+                "versicle_number": 19,
+                "text": "Falando entre vós em salmos, e hinos, e cânticos espirituais: cantando e salmodiando ao Senhor no vosso coração;"
+            },
+            {
+                "id": "v5.20",
+                "versicle_number": 20,
+                "text": "Dando sempre graças por tudo a nosso Deus e Pai, em nome de nosso Senhor Jesus Cristo:{note:3}"
+            },
+            {
+                "id": "v5.21",
+                "versicle_number": 21,
+                "text": "Sujeitando-vos uns aos outros no temor de Deus."
+            },
+            {
+                "id": "v5.22",
+                "versicle_number": 22,
+                "text": "Vós, mulheres,{note:4} sujeitai-vos a vossos maridos, como ao Senhor;"
+            },
+            {
+                "id": "v5.23",
+                "versicle_number": 23,
+                "text": "Porque o marido é a cabeça da mulher, como também Cristo é a cabeça da igreja: sendo ele próprio o salvador do corpo."
+            },
+            {
+                "id": "v5.24",
+                "versicle_number": 24,
+                "text": "De sorte que, assim como a igreja está sujeita a Cristo, assim também as mulheres sejam em tudo sujeitas a seus maridos."
+            },
+            {
+                "id": "v5.25",
+                "versicle_number": 25,
+                "text": "Vós, maridos, amai vossas mulheres, como também Cristo amou a igreja, e a si mesmo se entregou por ela,"
+            },
+            {
+                "id": "v5.26",
+                "versicle_number": 26,
+                "text": "Para a santificar, purificando-a com a lavagem da água, pela palavra,"
+            },
+            {
+                "id": "v5.27",
+                "versicle_number": 27,
+                "text": "Para a apresentar a si mesmo igreja gloriosa, sem mácula, nem ruga, nem coisa semelhante, mas santa e irrepreensível."
+            },
+            {
+                "id": "v5.28",
+                "versicle_number": 28,
+                "text": "Assim devem os maridos amar a suas próprias mulheres, como a seus próprios corpos. Quem ama a sua mulher, ama-se a si mesmo."
+            },
+            {
+                "id": "v5.29",
+                "versicle_number": 29,
+                "text": "Porque nunca ninguém aborreceu a sua própria carne; antes a alimenta e sustenta, como também o Senhor à igreja;"
+            },
+            {
+                "id": "v5.30",
+                "versicle_number": 30,
+                "text": "Porque somos membros do seu corpo."
+            },
+            {
+                "id": "v5.31",
+                "versicle_number": 31,
+                "text": "Por isso deixará o homem seu pai e sua mãe, e se unirá a sua mulher; e serão dois numa carne.{note:5}"
+            },
+            {
+                "id": "v5.32",
+                "versicle_number": 32,
+                "text": "Grande é este mistério: digo-o, porém, a respeito de Cristo e da igreja."
+            },
+            {
+                "id": "v5.33",
+                "versicle_number": 33,
+                "text": "Assim também vós cada um em particular ame a sua própria mulher como a si mesmo, e a mulher reverencie o marido."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 5.2 Êx 29.18"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 5.16 Cl 4.5"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 5.15-20 Cl 3.16-17"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 5.22 1Pe 3.1"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 5.31 Gn 2.24"
+            }
+        ]
+    }
+}

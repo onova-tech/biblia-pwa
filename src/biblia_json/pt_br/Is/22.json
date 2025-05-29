@@ -1,0 +1,163 @@
+{
+    "book": {
+        "id": "Is",
+        "book_number": 23,
+        "new_testament": false,
+        "num_chapters": 66,
+        "book_name": "ISAÍAS",
+        "book_full_name": "ISAÍAS"
+    },
+    "chapter": {
+        "chapter_number": 22,
+        "chapter_reference": "",
+        "chapter_title": "Quadro profético do cerco de Jerusalém",
+        "versicles": [
+            {
+                "id": "v22.1",
+                "versicle_number": 1,
+                "text": "{note:c}PESO do vale da visão. Que tens agora, para que assim totalmente subisses aos telhados?"
+            },
+            {
+                "id": "v22.2",
+                "versicle_number": 2,
+                "text": "Cidade cheia de aclamações, cidade turbulenta, cidade que salta de alegria, os teus mortos não são mortos à espada, nem morreram na guerra."
+            },
+            {
+                "id": "v22.3",
+                "versicle_number": 3,
+                "text": "Todos os teus príncipes juntamente fugiram, foram ligados pelos archeiros: todos os que em ti se acharam, foram amarrados juntamente e fugiram para longe."
+            },
+            {
+                "id": "v22.4",
+                "versicle_number": 4,
+                "text": "Portanto digo: Desviai de mim a vista, e chorarei amargamente: não vos canseis mais em consolar-me pela destruição da filha do meu povo."
+            },
+            {
+                "id": "v22.5",
+                "versicle_number": 5,
+                "text": "Porque dia de alvoroço, e de vexame, e de confusão é este da parte do Senhor Jeová dos Exércitos, no vale da visão: um derribar de muros, e um clamor até às montanhas."
+            },
+            {
+                "id": "v22.6",
+                "versicle_number": 6,
+                "text": "Porque Elão tomou a aljava, com carros de homens e cavaleiros: e Quir descobre os escudos."
+            },
+            {
+                "id": "v22.7",
+                "versicle_number": 7,
+                "text": "E será que os teus mais formosos vales se encherão de carros, e os cavaleiros se porão em ordem às portas."
+            },
+            {
+                "id": "v22.8",
+                "versicle_number": 8,
+                "text": "E se tirará a cobertura de Judá, e naquele dia olharás para as armas da casa do bosque."
+            },
+            {
+                "id": "v22.9",
+                "versicle_number": 9,
+                "text": "E vereis as brechas da cidade de Davi, porquanto são muitas, e ajuntareis as águas do viveiro inferior."
+            },
+            {
+                "id": "v22.10",
+                "versicle_number": 10,
+                "text": "Também contareis as casas de Jerusalém, e derribareis as casas, para fortalecer os muros."
+            },
+            {
+                "id": "v22.11",
+                "versicle_number": 11,
+                "text": "Fizestes também um reservatório entre os dois muros para as águas do viveiro velho, mas não olhastes para cima, para o que o tinha feito, nem considerastes o que o formou desde a antiguidade."
+            },
+            {
+                "id": "v22.12",
+                "versicle_number": 12,
+                "text": "E o Senhor, o Senhor dos Exércitos vos convidará naquele dia ao choro, e ao pranto, e à rapadura da cabeça, e ao cingidouro do saco."
+            },
+            {
+                "id": "v22.13",
+                "versicle_number": 13,
+                "text": "Mas eis aqui gozo e alegria, matam-se vacas e degolam-se ovelhas, come-se carne, e bebe-se vinho, e diz-se: Comamos e bebamos,{note:1} porque amanhã morreremos."
+            },
+            {
+                "id": "v22.14",
+                "versicle_number": 14,
+                "text": "Mas o Senhor dos Exércitos se declarou aos meus ouvidos, dizendo. Certamente esta maldade não será expiada até que morrais, diz o Senhor Jeová dos Exércitos."
+            },
+            {
+                "id": "v22.15",
+                "versicle_number": 15,
+                "text": "Assim diz o Senhor Jeová dos Exércitos: Anda, vai ter com este tesoureiro, com Sebna, o mordomo, e dize-lhe:"
+            },
+            {
+                "id": "v22.16",
+                "versicle_number": 16,
+                "text": "Que é que tens aqui? ou a quem tens tu aqui, para que cavasses aqui uma sepultura? Cavando em lugar alto a sua sepultura, cinzelando na rocha uma morada para si mesmo!"
+            },
+            {
+                "id": "v22.17",
+                "versicle_number": 17,
+                "text": "Eis que o Senhor te arrojará violentamente como um homem forte, e de todo te envolverá."
+            },
+            {
+                "id": "v22.18",
+                "versicle_number": 18,
+                "text": "Certamente te fará rolar, como se faz rolar uma bola em terra larga e espaçosa: ali morrerás, e ali acabarão os carros da tua glória, o opróbrio da casa do teu Senhor."
+            },
+            {
+                "id": "v22.19",
+                "versicle_number": 19,
+                "text": "E demitir-te-ei do teu ofício e te arrancarei do teu assento."
+            },
+            {
+                "id": "v22.20",
+                "versicle_number": 20,
+                "text": "E será naquele dia que chamarei a meu servo Eliaquim, filho de Hilquias,"
+            },
+            {
+                "id": "v22.21",
+                "versicle_number": 21,
+                "text": "E revesti-lo-ei da tua túnica, e esforçá-lo-ei com o teu talabarte, e entregarei nas suas mãos o teu domínio, e será como pai para os moradores de Jerusalém, e para a casa de Judá."
+            },
+            {
+                "id": "v22.22",
+                "versicle_number": 22,
+                "text": "E porei a chave{note:2} da casa de Davi sobre o seu ombro, e abrirá, e ninguém fechará, e fechará, e ninguém abrirá."
+            },
+            {
+                "id": "v22.23",
+                "versicle_number": 23,
+                "text": "E fixá-lo-ei como a um prego num lugar firme e será como um trono de honra para a casa de seu pai."
+            },
+            {
+                "id": "v22.24",
+                "versicle_number": 24,
+                "text": "E dele penderá toda a glória da casa de seu pai, os renovos e os descendentes, todos os vasos menores, desde as taças até às garrafas."
+            },
+            {
+                "id": "v22.25",
+                "versicle_number": 25,
+                "text": "Naquele dia, diz o Senhor dos Exércitos, o prego pregado em lugar firme será tirado: será arrancado, e cairá, e a carga que nele estava se desprenderá, porque o Senhor o disse."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v22.15",
+                "text": "Sebna é degradado: Eliaquim é exaltado"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:c} 22.1 ou Sentença"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 22.13 1Co 15.32"
+            },
+            {
+                "id": "n3",
+                "text": "{note:2} 22.22 Ap 3.7"
+            }
+        ]
+    }
+}

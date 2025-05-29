@@ -1,0 +1,91 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 42,
+        "chapter_reference": "",
+        "chapter_title": "A alma anela por servir a Deus no seu templo",
+        "versicles": [
+            {
+                "id": "v42.1",
+                "versicle_number": 1,
+                "text": "COMO o cervo {note:z}brama pelas correntes das águas, assim suspira a minha alma por ti, ó Deus!"
+            },
+            {
+                "id": "v42.2",
+                "versicle_number": 2,
+                "text": "A minha alma tem sede de Deus, do Deus vivo: quando entrarei e me apresentarei ante a face de Deus?"
+            },
+            {
+                "id": "v42.3",
+                "versicle_number": 3,
+                "text": "As minhas lágrimas servem-me de mantimento de dia e de noite, porquanto me dizem constantemente: Onde está o teu Deus?"
+            },
+            {
+                "id": "v42.4",
+                "versicle_number": 4,
+                "text": "Quando me lembro disto, dentro de mim derramo a minha alma: pois eu havia ido com a multidão; fui com eles à casa de Deus, com voz de alegria e louvor, com a multidão que festejava."
+            },
+            {
+                "id": "v42.5",
+                "versicle_number": 5,
+                "text": "Por que estás abatida, ó minha alma, e por que te perturbas em mim? Espera em Deus, pois ainda o louvarei na salvação da sua presença."
+            },
+            {
+                "id": "v42.6",
+                "versicle_number": 6,
+                "text": "Ó meu Deus, dentro de mim a minha alma está abatida; portanto lembro-me de ti desde a terra do Jordão, e desde os hermonitas, desde o {note:a}pequeno monte."
+            },
+            {
+                "id": "v42.7",
+                "versicle_number": 7,
+                "text": "Um abismo chama outro abismo, ao ruído das tuas catadupas: todas as tuas ondas e vagas têm passado sobre mim."
+            },
+            {
+                "id": "v42.8",
+                "versicle_number": 8,
+                "text": "Contudo o Senhor mandará de dia a sua misericórdia, e de noite a sua canção estará comigo: a oração ao Deus da minha vida."
+            },
+            {
+                "id": "v42.9",
+                "versicle_number": 9,
+                "text": "Direi a Deus, a minha Rocha: Por que te esqueceste de mim? por que ando de nojo por causa da opressão do inimigo?"
+            },
+            {
+                "id": "v42.10",
+                "versicle_number": 10,
+                "text": "Como {note:b}com ferida mortal em meus ossos me afrontam os meus adversários, quando todo o dia me dizem: Onde está o teu Deus?"
+            },
+            {
+                "id": "v42.11",
+                "versicle_number": 11,
+                "text": "Por que estás abatida, ó minha alma, e por que te perturbas dentro de mim? espera em Deus, pois ainda o louvarei. Ele é {note:c}a salvação da minha face, e o meu Deus."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:z} 42.1 ou anela"
+            },
+            {
+                "id": "n2",
+                "text": "{note:a} 42.6 Heb. monte Mizar"
+            },
+            {
+                "id": "n3",
+                "text": "{note:b} 42.10 Heb. com espada ou esmagamento"
+            },
+            {
+                "id": "n4",
+                "text": "{note:c} 42.11 ou a saúde"
+            }
+        ]
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "book": {
+        "id": "1Sm",
+        "book_number": 9,
+        "new_testament": false,
+        "num_chapters": 31,
+        "book_name": "1º SAMUEL",
+        "book_full_name": "O PRIMEIRO LIVRO DE SAMUEL"
+    },
+    "chapters": [
+        {
+            "chapter_number": 10,
+            "chapter_reference": "",
+            "chapter_title": "Samuel unge Saul como rei de Israel"
+        },
+        {
+            "chapter_number": 11,
+            "chapter_reference": "",
+            "chapter_title": "Saul vence os amonitas"
+        },
+        {
+            "chapter_number": 12,
+            "chapter_reference": "",
+            "chapter_title": "Samuel resigna o seu cargo"
+        },
+        {
+            "chapter_number": 13,
+            "chapter_reference": "",
+            "chapter_title": "Guerra entre os israelitas e os filisteus"
+        },
+        {
+            "chapter_number": 14,
+            "chapter_reference": "",
+            "chapter_title": "A vitória de Jônatas sobre os filisteus"
+        },
+        {
+            "chapter_number": 15,
+            "chapter_reference": "",
+            "chapter_title": "Samuel manda a Saul destruir os amalequitas"
+        },
+        {
+            "chapter_number": 16,
+            "chapter_reference": "",
+            "chapter_title": "Deus manda Samuel ungir a Davi como rei"
+        },
+        {
+            "chapter_number": 17,
+            "chapter_reference": "",
+            "chapter_title": "Guerra entre os israelitas e os filisteus"
+        },
+        {
+            "chapter_number": 18,
+            "chapter_reference": "",
+            "chapter_title": "Amizade de Jônatas para com Davi"
+        },
+        {
+            "chapter_number": 19,
+            "chapter_reference": "",
+            "chapter_title": "Jônatas aplaca o ciúme que seu pai tem de Davi"
+        },
+        {
+            "chapter_number": 1,
+            "chapter_reference": "",
+            "chapter_title": "Elcana e suas mulheres"
+        },
+        {
+            "chapter_number": 20,
+            "chapter_reference": "",
+            "chapter_title": "A entrevista de Davi com Jônatas"
+        },
+        {
+            "chapter_number": 21,
+            "chapter_reference": "",
+            "chapter_title": "Davi vai ter com o sacerdote Aquimeleque"
+        },
+        {
+            "chapter_number": 22,
+            "chapter_reference": "",
+            "chapter_title": "Davi esconde-se na caverna de Adulão"
+        },
+        {
+            "chapter_number": 23,
+            "chapter_reference": "",
+            "chapter_title": "Davi livra Queila"
+        },
+        {
+            "chapter_number": 24,
+            "chapter_reference": "",
+            "chapter_title": "Davi corta a orla do manto de Saul"
+        },
+        {
+            "chapter_number": 25,
+            "chapter_reference": "",
+            "chapter_title": "A morte de Samuel e a retirada de Davi para o deserto de Parã"
+        },
+        {
+            "chapter_number": 26,
+            "chapter_reference": "",
+            "chapter_title": "Davi poupa outra vez a vida de Saul"
+        },
+        {
+            "chapter_number": 27,
+            "chapter_reference": "",
+            "chapter_title": "Davi vai ter outra vez com Áquis rei de Gate"
+        },
+        {
+            "chapter_number": 28,
+            "chapter_reference": "",
+            "chapter_title": "Saul consulta uma pitonisa de Endor"
+        },
+        {
+            "chapter_number": 29,
+            "chapter_reference": "",
+            "chapter_title": "Davi marcha com Áquis contra os israelitas"
+        },
+        {
+            "chapter_number": 2,
+            "chapter_reference": "",
+            "chapter_title": "O cântico de Ana"
+        },
+        {
+            "chapter_number": 30,
+            "chapter_reference": "",
+            "chapter_title": "Siclague é saqueada pelos amalequitas"
+        },
+        {
+            "chapter_number": 31,
+            "chapter_reference": "",
+            "chapter_title": "A matança dos israelitas e a morte de Saul"
+        },
+        {
+            "chapter_number": 3,
+            "chapter_reference": "",
+            "chapter_title": "Deus fala com Samuel em sonhos"
+        },
+        {
+            "chapter_number": 4,
+            "chapter_reference": "",
+            "chapter_title": "Os filisteus vencem os israelitas"
+        },
+        {
+            "chapter_number": 5,
+            "chapter_reference": "",
+            "chapter_title": "A arca, na terra dos filisteus, causa-lhes aflições"
+        },
+        {
+            "chapter_number": 6,
+            "chapter_reference": "",
+            "chapter_title": "Os filisteus enviam a arca para fora da sua terra"
+        },
+        {
+            "chapter_number": 7,
+            "chapter_reference": "",
+            "chapter_title": "Samuel exorta ao arrependimento"
+        },
+        {
+            "chapter_number": 8,
+            "chapter_reference": "",
+            "chapter_title": "Os israelitas pedem um rei e Deus concede-o"
+        },
+        {
+            "chapter_number": 9,
+            "chapter_reference": "",
+            "chapter_title": "Saul busca as jumentas extraviadas e vai ter com Samuel"
+        }
+    ]
+}

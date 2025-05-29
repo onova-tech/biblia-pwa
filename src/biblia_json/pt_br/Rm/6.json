@@ -1,0 +1,139 @@
+{
+    "book": {
+        "id": "Rm",
+        "book_number": 45,
+        "new_testament": true,
+        "num_chapters": 16,
+        "book_name": "ROMANOS",
+        "book_full_name": "EPÍSTOLA DO APÓSTOLO PAULO AOS ROMANOS"
+    },
+    "chapter": {
+        "chapter_number": 6,
+        "chapter_reference": "",
+        "chapter_title": "A graça não nos deixa permanecer no pecado, antes nos livra do poder do pecado",
+        "versicles": [
+            {
+                "id": "v6.1",
+                "versicle_number": 1,
+                "text": "QUE diremos pois? Permaneceremos no pecado, para que a graça abunde?"
+            },
+            {
+                "id": "v6.2",
+                "versicle_number": 2,
+                "text": "De modo nenhum. Nós, que estamos mortos para o pecado, como viveremos ainda nele?"
+            },
+            {
+                "id": "v6.3",
+                "versicle_number": 3,
+                "text": "Ou não sabeis que todos quantos fomos batizados em Jesus Cristo fomos batizados na sua morte?"
+            },
+            {
+                "id": "v6.4",
+                "versicle_number": 4,
+                "text": "De sorte que fomos sepultados com ele{note:1} pelo batismo na morte; para que, como Cristo ressuscitou dos mortos, pela glória do Pai, assim andemos nós também em novidade de vida."
+            },
+            {
+                "id": "v6.5",
+                "versicle_number": 5,
+                "text": "Porque, se fomos plantados juntamente com ele na semelhança da sua morte, também o seremos na da sua ressurreição;"
+            },
+            {
+                "id": "v6.6",
+                "versicle_number": 6,
+                "text": "Sabendo isto, que o nosso homem velho foi com ele crucificado, para que o corpo do pecado seja desfeito, para que não sirvamos mais ao pecado."
+            },
+            {
+                "id": "v6.7",
+                "versicle_number": 7,
+                "text": "Porque aquele que está morto está justificado do pecado."
+            },
+            {
+                "id": "v6.8",
+                "versicle_number": 8,
+                "text": "Ora, se já morremos com Cristo, cremos que também com ele viveremos;"
+            },
+            {
+                "id": "v6.9",
+                "versicle_number": 9,
+                "text": "Sabendo que, havendo Cristo ressuscitado dos mortos, já não morre: a morte não mais terá domínio sobre ele."
+            },
+            {
+                "id": "v6.10",
+                "versicle_number": 10,
+                "text": "Pois, quanto a ter morrido, de uma vez morreu para o pecado, mas, quanto a viver, vive para Deus."
+            },
+            {
+                "id": "v6.11",
+                "versicle_number": 11,
+                "text": "Assim também vós considerai-vos como mortos para o pecado, mas vivos para Deus em Cristo Jesus nosso Senhor."
+            },
+            {
+                "id": "v6.12",
+                "versicle_number": 12,
+                "text": "Não reine portanto o pecado em vosso corpo mortal, para lhe obedecerdes em suas concupiscências;"
+            },
+            {
+                "id": "v6.13",
+                "versicle_number": 13,
+                "text": "Nem tão pouco apresenteis os vossos membros ao pecado por instrumentos de iniquidade; mas apresentai-vos a Deus, como vivos dentre mortos, e os vossos membros a Deus, como instrumentos de justiça."
+            },
+            {
+                "id": "v6.14",
+                "versicle_number": 14,
+                "text": "Porque o pecado não terá domínio sobre vós, pois não estais debaixo da lei, mas debaixo da graça."
+            },
+            {
+                "id": "v6.15",
+                "versicle_number": 15,
+                "text": "Pois quê? Pecaremos porque não estamos debaixo da lei, mas debaixo da graça? de modo nenhum."
+            },
+            {
+                "id": "v6.16",
+                "versicle_number": 16,
+                "text": "Não sabeis vós que a quem vos apresentardes por servos para lhe obedecer, sois servos daquele a quem obedeceis, ou do pecado para a morte, ou da obediência para a justiça?"
+            },
+            {
+                "id": "v6.17",
+                "versicle_number": 17,
+                "text": "Mas graças a Deus que, tendo sido servos do pecado, obedecestes de coração à forma de doutrina a que fostes entregues."
+            },
+            {
+                "id": "v6.18",
+                "versicle_number": 18,
+                "text": "E libertados do pecado, fostes feitos servos da justiça."
+            },
+            {
+                "id": "v6.19",
+                "versicle_number": 19,
+                "text": "Falo como homem, pela fraqueza da vossa carne: pois que, assim como apresentastes os vossos membros para servirem à imundícia, e à maldade, para a maldade, assim apresentai agora os vossos membros para servirem à justiça para santificação."
+            },
+            {
+                "id": "v6.20",
+                "versicle_number": 20,
+                "text": "Porque, quando éreis servos do pecado, estáveis livres da justiça."
+            },
+            {
+                "id": "v6.21",
+                "versicle_number": 21,
+                "text": "E que fruto tínheis então das coisas de que agora vos envergonhais? porque o fim delas é a morte."
+            },
+            {
+                "id": "v6.22",
+                "versicle_number": 22,
+                "text": "Mas agora, libertados do pecado, e feitos servos de Deus, tendes o vosso fruto para santificação, e por fim a vida eterna."
+            },
+            {
+                "id": "v6.23",
+                "versicle_number": 23,
+                "text": "Porque o salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna, por Cristo Jesus nosso Senhor."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 6.4 Cl 2.12"
+            }
+        ]
+    }
+}

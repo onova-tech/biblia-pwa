@@ -1,0 +1,99 @@
+{
+    "book": {
+        "id": "Ec",
+        "book_number": 21,
+        "new_testament": false,
+        "num_chapters": 12,
+        "book_name": "ECLESIASTES",
+        "book_full_name": "LIVRO DO ECLESIASTES"
+    },
+    "chapter": {
+        "chapter_number": 4,
+        "chapter_reference": "",
+        "chapter_title": "Os males e as tribulações da vida",
+        "versicles": [
+            {
+                "id": "v4.1",
+                "versicle_number": 1,
+                "text": "DEPOIS voltei-me, e atentei para todas as opressões que se fazem debaixo do sol: e eis que vi as lágrimas dos que foram oprimidos e dos que não têm consolador; e a força estava da banda dos seus opressores; mas eles não tinham nenhum consolador."
+            },
+            {
+                "id": "v4.2",
+                "versicle_number": 2,
+                "text": "Pelo que eu louvei os que já morreram, mais do que os que vivem ainda."
+            },
+            {
+                "id": "v4.3",
+                "versicle_number": 3,
+                "text": "E melhor que uns e outros é aquele que ainda não é; que não viu as más obras que se fazem debaixo do sol."
+            },
+            {
+                "id": "v4.4",
+                "versicle_number": 4,
+                "text": "Também vi eu que todo o trabalho, e toda a destreza em obras, traz ao homem a inveja do seu próximo. Também isto é vaidade e aflição de espírito."
+            },
+            {
+                "id": "v4.5",
+                "versicle_number": 5,
+                "text": "O tolo cruza as suas mãos, e come a sua própria carne."
+            },
+            {
+                "id": "v4.6",
+                "versicle_number": 6,
+                "text": "Melhor é uma mão cheia com descanso do que ambas as mãos cheias com trabalho e aflição de espírito."
+            },
+            {
+                "id": "v4.7",
+                "versicle_number": 7,
+                "text": "Outra vez me voltei, e vi vaidade debaixo do sol."
+            },
+            {
+                "id": "v4.8",
+                "versicle_number": 8,
+                "text": "Há um que é só, e não tem segundo; sim, ele não tem filho nem irmã; e contudo de todo o seu trabalho não há fim, nem os seus olhos se fartam de riquezas; e não diz: Para quem trabalho eu, privando a minha alma do bem? Também isto é vaidade e enfadonha ocupação."
+            },
+            {
+                "id": "v4.9",
+                "versicle_number": 9,
+                "text": "Melhor é serem dois do que um, porque têm melhor paga do seu trabalho."
+            },
+            {
+                "id": "v4.10",
+                "versicle_number": 10,
+                "text": "Porque se um cair, o outro levanta o seu companheiro: mas ai do que estiver só; pois, caindo, não haverá outro que o levante."
+            },
+            {
+                "id": "v4.11",
+                "versicle_number": 11,
+                "text": "Também, se dois dormirem juntos, eles se aquentarão; mas um só como se aquentará?"
+            },
+            {
+                "id": "v4.12",
+                "versicle_number": 12,
+                "text": "E, se alguém quiser prevalecer contra um, os dois lhe resistirão; e o cordão de três dobras não se quebra tão depressa."
+            },
+            {
+                "id": "v4.13",
+                "versicle_number": 13,
+                "text": "Melhor é o mancebo pobre e sábio do que o rei velho e insensato, que se não deixa mais admoestar."
+            },
+            {
+                "id": "v4.14",
+                "versicle_number": 14,
+                "text": "Porque um sai do cárcere para reinar; sim, um que nasceu pobre no seu reino."
+            },
+            {
+                "id": "v4.15",
+                "versicle_number": 15,
+                "text": "Vi a todos os viventes andarem debaixo do sol com o mancebo, o sucessor, que ficará em seu lugar."
+            },
+            {
+                "id": "v4.16",
+                "versicle_number": 16,
+                "text": "Não tem fim todo o povo, todo o que ele domina; tão pouco os descendentes se alegrarão dele. Na verdade que também isto é vaidade e aflição de espírito."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

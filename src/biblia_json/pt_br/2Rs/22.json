@@ -1,0 +1,139 @@
+{
+    "book": {
+        "id": "2Rs",
+        "book_number": 12,
+        "new_testament": false,
+        "num_chapters": 25,
+        "book_name": "REIS",
+        "book_full_name": "O SEGUNDO LIVRO DOS REIS"
+    },
+    "chapter": {
+        "chapter_number": 22,
+        "chapter_reference": "",
+        "chapter_title": "Josias repara o templo",
+        "versicles": [
+            {
+                "id": "v22.1",
+                "versicle_number": 1,
+                "text": "TINHA Josias{note:1} oito anos de idade quando começou a reinar, e reinou trinta e um anos em Jerusalém: e era o nome de sua mãe, Jedida, filha de Adaís, de Bozcate."
+            },
+            {
+                "id": "v22.2",
+                "versicle_number": 2,
+                "text": "E fez o que era reto aos olhos do Senhor; e andou em todo o caminho de Davi, seu pai, e não se apartou dele nem para a direita nem para a esquerda."
+            },
+            {
+                "id": "v22.3",
+                "versicle_number": 3,
+                "text": "Sucedeu pois que, no ano décimo oitavo do rei Josias, o rei mandou o escrivão Safã, filho de Azalias, filho de Mesulão, à casa do Senhor, dizendo:"
+            },
+            {
+                "id": "v22.4",
+                "versicle_number": 4,
+                "text": "Sobe a Hilquias, o sumo sacerdote, para que tome o dinheiro que se trouxe à casa do Senhor, o qual os guardas do umbral da porta ajuntaram do povo."
+            },
+            {
+                "id": "v22.5",
+                "versicle_number": 5,
+                "text": "E que o deem na mão dos que têm o cargo da obra e estão encarregados da casa do Senhor; para que o deem àqueles que fazem a obra que há na casa do Senhor, para repararem as {note:j}fendas da casa:"
+            },
+            {
+                "id": "v22.6",
+                "versicle_number": 6,
+                "text": "Aos carpinteiros, e aos edificadores, e aos pedreiros: e para comprar madeira e pedras lavradas, para repararem a casa."
+            },
+            {
+                "id": "v22.7",
+                "versicle_number": 7,
+                "text": "Porém com eles se não fez conta do dinheiro que se lhes entregara nas suas mãos, porquanto obravam com fidelidade."
+            },
+            {
+                "id": "v22.8",
+                "versicle_number": 8,
+                "text": "Então disse o sumo sacerdote Hilquias ao escrivão Safã: Achei o livro da lei na casa do Senhor. E Hilquias deu o livro a Safã, e ele o leu."
+            },
+            {
+                "id": "v22.9",
+                "versicle_number": 9,
+                "text": "Então o escrivão Safã veio ao rei, e referiu ao rei a resposta: e disse: Teus servos ajuntaram o dinheiro que se achou na casa, e o entregaram na mão dos que têm o cargo da obra, que estão encarregados da casa do Senhor."
+            },
+            {
+                "id": "v22.10",
+                "versicle_number": 10,
+                "text": "Também Safã, o escrivão, fez saber ao rei dizendo: O sacerdote Hilquias me deu um livro. E Safã o leu diante do rei."
+            },
+            {
+                "id": "v22.11",
+                "versicle_number": 11,
+                "text": "Sucedeu pois que, ouvindo o rei as palavras do livro da lei, rasgou os seus vestidos."
+            },
+            {
+                "id": "v22.12",
+                "versicle_number": 12,
+                "text": "E o rei mandou a Hilquias, o sacerdote, e a Aicão, filho de Safã, e a Acbor, filho de Micaias, e a Safã, o escrivão, e a Asaías, o servo do rei, dizendo:"
+            },
+            {
+                "id": "v22.13",
+                "versicle_number": 13,
+                "text": "Ide, e consultai ao Senhor por mim, e pelo povo, e por todo o Judá, acerca das palavras deste livro que se achou; porque grande é o furor do Senhor, que se acendeu contra nós; porquanto nossos pais não deram ouvidos às palavras deste livro, para fazerem conforme tudo quanto de nós está escrito."
+            },
+            {
+                "id": "v22.14",
+                "versicle_number": 14,
+                "text": "Então foi o sacerdote Hilquias, e Aicão, e Acbor, e Safã, e Asaías à profetisa Hulda, mulher de Salum, filho de Ticva, o filho de Harás, o guarda das vestiduras (e ela habitava em Jerusalém, na segunda parte), e lhe falaram."
+            },
+            {
+                "id": "v22.15",
+                "versicle_number": 15,
+                "text": "E ela lhes disse: Assim diz o Senhor, o Deus de Israel: Dizei ao homem que vos enviou a mim:"
+            },
+            {
+                "id": "v22.16",
+                "versicle_number": 16,
+                "text": "Assim diz o Senhor: Eis que trarei mal sobre este lugar, e sobre os seus moradores a saber: todas as palavras do livro que leu o rei de Judá."
+            },
+            {
+                "id": "v22.17",
+                "versicle_number": 17,
+                "text": "Porquanto me deixaram, e queimaram incenso a outros deuses, para me provocarem à ira por todas as obras das suas mãos, o meu furor se acendeu contra este lugar, e não se apagará."
+            },
+            {
+                "id": "v22.18",
+                "versicle_number": 18,
+                "text": "Porém ao rei de Judá, que vos enviou a consultar ao Senhor, assim lhe direis: Assim diz o Senhor, o Deus de Israel, acerca das palavras que ouviste:"
+            },
+            {
+                "id": "v22.19",
+                "versicle_number": 19,
+                "text": "Porquanto o teu coração se enterneceu, e te humilhaste perante o Senhor, quando ouviste o que falei contra este lugar, e contra os seus moradores, que seriam para assolação e para maldição, e rasgaste os teus vestidos, e choraste perante mim, também eu te ouvi, diz o Senhor."
+            },
+            {
+                "id": "v22.20",
+                "versicle_number": 20,
+                "text": "Pelo que eis que eu te ajuntarei a teus pais, e tu serás ajuntado em paz à tua sepultura, e os teus olhos não verão todo o mal que hei de trazer sobre este lugar. Então tornaram a trazer ao rei a resposta."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v22.8",
+                "text": "Hilquias acha o livro da lei"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v22.14",
+                "text": "Hulda, a profetisa"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 22.1 Jr 3.6"
+            },
+            {
+                "id": "n2",
+                "text": "{note:j} 22.5 ou brechas ou ruínas"
+            }
+        ]
+    }
+}

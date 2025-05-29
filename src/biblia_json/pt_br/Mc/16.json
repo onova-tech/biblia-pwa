@@ -1,0 +1,134 @@
+{
+    "book": {
+        "id": "Mc",
+        "book_number": 41,
+        "new_testament": true,
+        "num_chapters": 16,
+        "book_name": "MARCOS",
+        "book_full_name": "O SANTO EVANGELHO SEGUNDO MARCOS"
+    },
+    "chapter": {
+        "chapter_number": 16,
+        "chapter_reference": "Mateus 28.1-10 e refs.",
+        "chapter_title": "A ressurreição",
+        "versicles": [
+            {
+                "id": "v16.1",
+                "versicle_number": 1,
+                "text": "E, PASSADO o sábado, Maria Madalena, e Maria, mãe de Tiago, e Salomé, compraram aromas para irem ungi-lo."
+            },
+            {
+                "id": "v16.2",
+                "versicle_number": 2,
+                "text": "E, no primeiro dia da semana, foram ao sepulcro, de manhã cedo, ao nascer do sol;"
+            },
+            {
+                "id": "v16.3",
+                "versicle_number": 3,
+                "text": "E diziam umas às outras: Quem nos revolverá a pedra da porta do sepulcro?"
+            },
+            {
+                "id": "v16.4",
+                "versicle_number": 4,
+                "text": "E, olhando, viram que já a pedra estava revolvida; e era ela muito grande."
+            },
+            {
+                "id": "v16.5",
+                "versicle_number": 5,
+                "text": "E, entrando no sepulcro, viram um mancebo assentado à direita, vestido de uma roupa comprida, branca; e ficaram espantadas."
+            },
+            {
+                "id": "v16.6",
+                "versicle_number": 6,
+                "text": "Porém ele disse-lhes: Não vos assusteis; buscais a Jesus Nazareno, que foi crucificado; já ressuscitou, não está aqui; eis aqui o lugar onde o puseram."
+            },
+            {
+                "id": "v16.7",
+                "versicle_number": 7,
+                "text": "Mas ide, dizei a seus discípulos, e a Pedro, que ele vai adiante de vós para a Galileia;{note:1} ali o vereis, como ele vos disse."
+            },
+            {
+                "id": "v16.8",
+                "versicle_number": 8,
+                "text": "E, saindo elas apressadamente, fugiram do sepulcro, porque estavam possuídas de temor e assombro; e nada diziam a ninguém, porque temiam."
+            },
+            {
+                "id": "v16.9",
+                "versicle_number": 9,
+                "text": "E Jesus, tendo ressuscitado na manhã do primeiro dia da semana, apareceu primeiramente a Maria Madalena, da qual tinha expulsado sete demônios."
+            },
+            {
+                "id": "v16.10",
+                "versicle_number": 10,
+                "text": "E, partindo ela, anunciou-o aqueles que tinham estado com ele, os quais estavam tristes, e chorando."
+            },
+            {
+                "id": "v16.11",
+                "versicle_number": 11,
+                "text": "E, ouvindo eles que vivia, e que tinha sido visto por ela, não o creram."
+            },
+            {
+                "id": "v16.12",
+                "versicle_number": 12,
+                "text": "E depois manifestou-se noutra forma a dois deles, que iam de caminho para o campo."
+            },
+            {
+                "id": "v16.13",
+                "versicle_number": 13,
+                "text": "E, indo estes, anunciaram-no aos outros, mas nem ainda estes creram."
+            },
+            {
+                "id": "v16.14",
+                "versicle_number": 14,
+                "text": "Finalmente apareceu aos onze, estando eles assentados juntamente, e lançou-lhes em rosto a sua incredulidade e dureza de coração, por não haverem crido nos que o tinham visto já ressuscitado."
+            },
+            {
+                "id": "v16.15",
+                "versicle_number": 15,
+                "text": "E disse-lhes: Ide por todo o mundo,{note:2} pregai o evangelho a toda a criatura."
+            },
+            {
+                "id": "v16.16",
+                "versicle_number": 16,
+                "text": "Quem crer e for batizado será salvo; mas quem não crer será condenado."
+            },
+            {
+                "id": "v16.17",
+                "versicle_number": 17,
+                "text": "E estes sinais seguirão aos que crerem: Em meu nome expulsarão os demônios; falarão novas línguas;"
+            },
+            {
+                "id": "v16.18",
+                "versicle_number": 18,
+                "text": "Pegarão nas serpentes; e, se beberem alguma coisa mortífera, não lhes fará dano algum; e porão as mãos sobre os enfermos, e os curarão."
+            },
+            {
+                "id": "v16.19",
+                "versicle_number": 19,
+                "text": "Ora o Senhor, depois de lhes ter falado, foi recebido no céu, e assentou-se à direita de Deus."
+            },
+            {
+                "id": "v16.20",
+                "versicle_number": 20,
+                "text": "E eles, tendo partido, pregaram por todas as partes, cooperando com eles o Senhor, e confirmando a palavra com os sinais que se seguiram. Amém."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v16.9",
+                "text": "Aparições de Jesus depois da sua ressurreição"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 16.7 Mt 26.32; Mc 14.28"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 16.15 At 1.8"
+            }
+        ]
+    }
+}

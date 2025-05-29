@@ -1,0 +1,170 @@
+{
+    "book": {
+        "id": "2Pe",
+        "book_number": 61,
+        "new_testament": true,
+        "num_chapters": 3,
+        "book_name": "PEDRO",
+        "book_full_name": "SEGUNDA EPÍSTOLA UNIVERSAL DO APÓSTOLO PEDRO"
+    },
+    "chapter": {
+        "chapter_number": 2,
+        "chapter_reference": "",
+        "chapter_title": "Os falsos mestres",
+        "versicles": [
+            {
+                "id": "v2.1",
+                "versicle_number": 1,
+                "text": "E TAMBÉM houve entre o povo falsos profetas, como entre vós haverá também falsos {note:d}doutores, que introduzirão encobertamente heresias de perdição, e negarão o Senhor que os resgatou, trazendo sobre si mesmos repentina perdição."
+            },
+            {
+                "id": "v2.2",
+                "versicle_number": 2,
+                "text": "E muitos seguirão as suas {note:e}dissoluções, pelos quais será blasfemado o caminho da verdade."
+            },
+            {
+                "id": "v2.3",
+                "versicle_number": 3,
+                "text": "E por avareza farão de vós negócio com palavras fingidas; sobre os quais já de largo tempo {note:f}não será tardia a sentença, e a sua perdição não dormita."
+            },
+            {
+                "id": "v2.4",
+                "versicle_number": 4,
+                "text": "Porque, se Deus não perdoou aos anjos que pecaram, mas, havendo-os lançado no inferno, os entregou às cadeias da escuridão, ficando reservados para o juízo;"
+            },
+            {
+                "id": "v2.5",
+                "versicle_number": 5,
+                "text": "E não perdoou ao mundo antigo, mas guardou a Noé,{note:1} pregoeiro da justiça, com mais sete pessoas, ao trazer o dilúvio sobre o mundo dos ímpios;"
+            },
+            {
+                "id": "v2.6",
+                "versicle_number": 6,
+                "text": "E condenou à subversão as cidades{note:2} de Sodoma e Gomorra, reduzindo-as a cinza, e pondo-as para exemplo aos que vivessem impiamente;"
+            },
+            {
+                "id": "v2.7",
+                "versicle_number": 7,
+                "text": "E livrou o justo Ló,{note:3} enfadado da vida dissoluta dos homens abomináveis."
+            },
+            {
+                "id": "v2.8",
+                "versicle_number": 8,
+                "text": "(Porque este justo, habitando entre eles, afligia todos os dias a sua alma justa, pelo que via e ouvia sobre as suas obras injustas);"
+            },
+            {
+                "id": "v2.9",
+                "versicle_number": 9,
+                "text": "Assim, sabe o Senhor livrar da tentação os piedosos, e reservar os injustos para o dia de juízo, para serem castigados;"
+            },
+            {
+                "id": "v2.10",
+                "versicle_number": 10,
+                "text": "Mas principalmente aqueles que segundo a carne andam em concupiscências de imundícia, e desprezam as dominações; atrevidos, obstinados, não receando blasfemar das dignidades;"
+            },
+            {
+                "id": "v2.11",
+                "versicle_number": 11,
+                "text": "Enquanto os anjos, sendo maiores em força e poder não pronunciam contra eles juízo blasfemo diante do Senhor."
+            },
+            {
+                "id": "v2.12",
+                "versicle_number": 12,
+                "text": "Mas estes, como animais irracionais, que seguem a natureza, feitos para serem presos e mortos, blasfemando do que não entendem, perecerão na sua corrupção,"
+            },
+            {
+                "id": "v2.13",
+                "versicle_number": 13,
+                "text": "Recebendo o galardão da injustiça; pois que {note:g}tais homens têm prazer nos deleites quotidianos; nódoas são eles e máculas, deleitando-se em seus enganos, quando se banqueteiam convosco;"
+            },
+            {
+                "id": "v2.14",
+                "versicle_number": 14,
+                "text": "Tendo os olhos cheios de adultério, e não cessando de pecar, engodando as almas inconstantes, tendo o coração exercitado na avareza, filhos de maldição;"
+            },
+            {
+                "id": "v2.15",
+                "versicle_number": 15,
+                "text": "Os quais, deixando o caminho direito, erraram seguindo o caminho de Balaão, filho de Bosor, que amou o prêmio da injustiça;"
+            },
+            {
+                "id": "v2.16",
+                "versicle_number": 16,
+                "text": "Mas teve a repreensão da sua transgressão; o mudo jumento, falando com voz humana, impediu a loucura do profeta.{note:4}"
+            },
+            {
+                "id": "v2.17",
+                "versicle_number": 17,
+                "text": "Estes são fontes sem água, nuvens levadas pela força do vento: para os quais a escuridão das trevas eternamente se reserva."
+            },
+            {
+                "id": "v2.18",
+                "versicle_number": 18,
+                "text": "Porque, falando coisas mui arrogantes de vaidades, engodam com as concupiscências da carne, e com dissoluções, aqueles que se estavam afastando dos que andam em erro:"
+            },
+            {
+                "id": "v2.19",
+                "versicle_number": 19,
+                "text": "Prometendo-lhes liberdade, sendo eles mesmos {note:h}servos da corrupção. Porque de quem alguém é vencido, do tal faz-se também servo."
+            },
+            {
+                "id": "v2.20",
+                "versicle_number": 20,
+                "text": "Porquanto se, depois de terem escapado das corrupções do mundo, pelo conhecimento do Senhor e Salvador Jesus Cristo, forem outra vez envolvidos nelas e vencidos, tornou-se-lhes o último estado pior do que o primeiro."
+            },
+            {
+                "id": "v2.21",
+                "versicle_number": 21,
+                "text": "Porque melhor lhes fora não conhecerem o caminho da justiça, do que, conhecendo-o, desviarem-se do santo mandamento que lhes fora dado;"
+            },
+            {
+                "id": "v2.22",
+                "versicle_number": 22,
+                "text": "Deste modo sobreveio-lhes o que por um verdadeiro provérbio se diz: O cão voltou ao seu próprio vômito,{note:5} e a porca lavada ao espojadouro de lama.{note:6}"
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:d} 2.1 ou instrutores"
+            },
+            {
+                "id": "n2",
+                "text": "{note:e} 2.2 ou práticas lascivas"
+            },
+            {
+                "id": "n3",
+                "text": "{note:f} 2.3 ou o juízo não tarda"
+            },
+            {
+                "id": "n4",
+                "text": "{note:1} 2.5 Gn 6.1—7.24"
+            },
+            {
+                "id": "n5",
+                "text": "{note:2} 2.6 Gn 19.24"
+            },
+            {
+                "id": "n6",
+                "text": "{note:3} 2.7 Gn 19.16"
+            },
+            {
+                "id": "n7",
+                "text": "{note:g} 2.13 ou reputam por prazer o viver diariamente em delícias;"
+            },
+            {
+                "id": "n8",
+                "text": "{note:4} 2.15-16 Nm 22.4-35"
+            },
+            {
+                "id": "n9",
+                "text": "{note:h} 2.19 ou escravos"
+            },
+            {
+                "id": "n10",
+                "text": "{note:5} 2.22 Pv 26.11 {note:6} 2.1-22 Jd 3-23"
+            }
+        ]
+    }
+}

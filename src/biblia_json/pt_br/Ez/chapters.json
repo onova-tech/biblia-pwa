@@ -1,0 +1,252 @@
+{
+    "book": {
+        "id": "Ez",
+        "book_number": 26,
+        "new_testament": false,
+        "num_chapters": 48,
+        "book_name": "EZEQUIEL",
+        "book_full_name": "EZEQUIEL"
+    },
+    "chapters": [
+        {
+            "chapter_number": 10,
+            "chapter_reference": "",
+            "chapter_title": "A segunda visão dos querubins"
+        },
+        {
+            "chapter_number": 11,
+            "chapter_reference": "",
+            "chapter_title": "O juízo de Deus contra os chefes do povo"
+        },
+        {
+            "chapter_number": 12,
+            "chapter_reference": "",
+            "chapter_title": "A mudança para fora do muro é o símbolo do cativeiro da dispersão"
+        },
+        {
+            "chapter_number": 13,
+            "chapter_reference": "",
+            "chapter_title": ""
+        },
+        {
+            "chapter_number": 14,
+            "chapter_reference": "",
+            "chapter_title": "O castigo dos idólatras"
+        },
+        {
+            "chapter_number": 15,
+            "chapter_reference": "",
+            "chapter_title": "O pau inútil da videira"
+        },
+        {
+            "chapter_number": 16,
+            "chapter_reference": "",
+            "chapter_title": "A meretriz e as abominações de Jerusalém"
+        },
+        {
+            "chapter_number": 17,
+            "chapter_reference": "",
+            "chapter_title": "A parábola das duas águias e da videira"
+        },
+        {
+            "chapter_number": 18,
+            "chapter_reference": "",
+            "chapter_title": "A responsabilidade é pessoal"
+        },
+        {
+            "chapter_number": 19,
+            "chapter_reference": "",
+            "chapter_title": "O lamento da leoa; a parábola da videira"
+        },
+        {
+            "chapter_number": 1,
+            "chapter_reference": "",
+            "chapter_title": "A primeira visão dos querubins"
+        },
+        {
+            "chapter_number": 20,
+            "chapter_reference": "",
+            "chapter_title": "As abominações da casa de Israel depois do êxodo"
+        },
+        {
+            "chapter_number": 21,
+            "chapter_reference": "",
+            "chapter_title": "A espada do Senhor"
+        },
+        {
+            "chapter_number": 22,
+            "chapter_reference": "",
+            "chapter_title": "As abominações de Jerusalém"
+        },
+        {
+            "chapter_number": 23,
+            "chapter_reference": "",
+            "chapter_title": "Oola e Oóliba, as duas meretrizes"
+        },
+        {
+            "chapter_number": 24,
+            "chapter_reference": "",
+            "chapter_title": "A parábola da panela"
+        },
+        {
+            "chapter_number": 25,
+            "chapter_reference": "",
+            "chapter_title": "Profecia contra Amom"
+        },
+        {
+            "chapter_number": 26,
+            "chapter_reference": "",
+            "chapter_title": "Profecia contra Tiro"
+        },
+        {
+            "chapter_number": 27,
+            "chapter_reference": "",
+            "chapter_title": "A lamentação sobre Tiro"
+        },
+        {
+            "chapter_number": 28,
+            "chapter_reference": "",
+            "chapter_title": "Profecia contra o rei de Tiro"
+        },
+        {
+            "chapter_number": 29,
+            "chapter_reference": "",
+            "chapter_title": "Profecia contra o Egito"
+        },
+        {
+            "chapter_number": 2,
+            "chapter_reference": "",
+            "chapter_title": "A vocação de Ezequiel. Visão do rolo de livro"
+        },
+        {
+            "chapter_number": 30,
+            "chapter_reference": "",
+            "chapter_title": "Outra profecia contra o Egito e contra Faraó"
+        },
+        {
+            "chapter_number": 31,
+            "chapter_reference": "",
+            "chapter_title": "Outra profecia contra Faraó, rei do Egito"
+        },
+        {
+            "chapter_number": 32,
+            "chapter_reference": "",
+            "chapter_title": "Lamentação sobre Faraó, rei do Egito"
+        },
+        {
+            "chapter_number": 33,
+            "chapter_reference": "",
+            "chapter_title": "O ofício do verdadeiro profeta"
+        },
+        {
+            "chapter_number": 34,
+            "chapter_reference": "",
+            "chapter_title": "Profecia contra os pastores infiéis de Israel"
+        },
+        {
+            "chapter_number": 35,
+            "chapter_reference": "",
+            "chapter_title": "Profecia contra o monte de Seir"
+        },
+        {
+            "chapter_number": 36,
+            "chapter_reference": "",
+            "chapter_title": "Profecia feita aos montes de Israel"
+        },
+        {
+            "chapter_number": 37,
+            "chapter_reference": "",
+            "chapter_title": "A visão dum vale de ossos secos"
+        },
+        {
+            "chapter_number": 38,
+            "chapter_reference": "",
+            "chapter_title": "Profecia contra Gogue"
+        },
+        {
+            "chapter_number": 39,
+            "chapter_reference": "",
+            "chapter_title": ""
+        },
+        {
+            "chapter_number": 3,
+            "chapter_reference": "",
+            "chapter_title": "O atalaia de Israel"
+        },
+        {
+            "chapter_number": 40,
+            "chapter_reference": "",
+            "chapter_title": "A restauração do templo: os átrios e os vestíbulos"
+        },
+        {
+            "chapter_number": 41,
+            "chapter_reference": "",
+            "chapter_title": "A restauração do templo: o santuário"
+        },
+        {
+            "chapter_number": 42,
+            "chapter_reference": "",
+            "chapter_title": "A restauração do templo: as câmaras santas"
+        },
+        {
+            "chapter_number": 43,
+            "chapter_reference": "",
+            "chapter_title": "A restauração do templo: a glória do Senhor"
+        },
+        {
+            "chapter_number": 44,
+            "chapter_reference": "",
+            "chapter_title": "A restauração do templo: reformas no ministério do santuário"
+        },
+        {
+            "chapter_number": 45,
+            "chapter_reference": "",
+            "chapter_title": "A repartição da terra: o lugar santo"
+        },
+        {
+            "chapter_number": 46,
+            "chapter_reference": "",
+            "chapter_title": ""
+        },
+        {
+            "chapter_number": 47,
+            "chapter_reference": "",
+            "chapter_title": "A torrente das águas purificadoras"
+        },
+        {
+            "chapter_number": 48,
+            "chapter_reference": "",
+            "chapter_title": "Os termos das doze tribos"
+        },
+        {
+            "chapter_number": 4,
+            "chapter_reference": "",
+            "chapter_title": "Predição do cerco de Jerusalém"
+        },
+        {
+            "chapter_number": 5,
+            "chapter_reference": "",
+            "chapter_title": ""
+        },
+        {
+            "chapter_number": 6,
+            "chapter_reference": "",
+            "chapter_title": "Profecia contra os montes de Israel"
+        },
+        {
+            "chapter_number": 7,
+            "chapter_reference": "",
+            "chapter_title": "O fim vem! O fim vem!"
+        },
+        {
+            "chapter_number": 8,
+            "chapter_reference": "",
+            "chapter_title": "As abominações no santuário"
+        },
+        {
+            "chapter_number": 9,
+            "chapter_reference": "",
+            "chapter_title": "Os castigos de Jerusalém"
+        }
+    ]
+}

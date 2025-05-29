@@ -1,0 +1,219 @@
+{
+    "book": {
+        "id": "At",
+        "book_number": 44,
+        "new_testament": true,
+        "num_chapters": 28,
+        "book_name": "ATOS DOS APÓSTOLOS",
+        "book_full_name": "ATOS DOS APÓSTOLOS"
+    },
+    "chapter": {
+        "chapter_number": 16,
+        "chapter_reference": "",
+        "chapter_title": "A visão em Troas. Paulo passa à Macedônia e prega em Filipos. Lídia, a pitonisa. O carcereiro de Filipos",
+        "versicles": [
+            {
+                "id": "v16.1",
+                "versicle_number": 1,
+                "text": "E CHEGOU a Derbe e Listra. E eis que estava ali um certo discípulo por nome Timóteo, filho de uma judia que era crente, mas de pai grego;"
+            },
+            {
+                "id": "v16.2",
+                "versicle_number": 2,
+                "text": "Do qual davam bom testemunho os irmãos que estavam em Listra e em Icônio."
+            },
+            {
+                "id": "v16.3",
+                "versicle_number": 3,
+                "text": "Paulo quis que este fosse com ele: e tomando-o, o circuncidou, por causa dos judeus que estavam naqueles lugares; porque todos sabiam que seu pai era grego."
+            },
+            {
+                "id": "v16.4",
+                "versicle_number": 4,
+                "text": "E, quando iam passando pelas cidades, lhes entregavam, para serem observados, os decretos que haviam sido estabelecidos pelos apóstolos e anciãos em Jerusalém."
+            },
+            {
+                "id": "v16.5",
+                "versicle_number": 5,
+                "text": "De sorte que as igrejas eram confirmadas na fé, e cada dia cresciam em número."
+            },
+            {
+                "id": "v16.6",
+                "versicle_number": 6,
+                "text": "E, passando pela Frígia e pela província da Galácia, foram impedidos pelo Espírito Santo de anunciar a palavra na Ásia."
+            },
+            {
+                "id": "v16.7",
+                "versicle_number": 7,
+                "text": "E, quando chegaram a Mísia, intentavam ir para Bitínia, mas o Espírito de Jesus não lho permitiu."
+            },
+            {
+                "id": "v16.8",
+                "versicle_number": 8,
+                "text": "E, tendo passado por Mísia, desceram a Troas."
+            },
+            {
+                "id": "v16.9",
+                "versicle_number": 9,
+                "text": "E Paulo teve de noite uma visão, em que se apresentou um varão da Macedônia, e lhe rogou, dizendo: Passa à Macedônia, e ajuda-nos."
+            },
+            {
+                "id": "v16.10",
+                "versicle_number": 10,
+                "text": "E, logo depois desta visão, procuramos partir para a Macedônia, concluindo que o Senhor nos chamava para lhes anunciarmos o evangelho."
+            },
+            {
+                "id": "v16.11",
+                "versicle_number": 11,
+                "text": "E, navegando de Troas, fomos correndo em caminho direito para a Samotrácia, e no dia seguinte para Nápoles;"
+            },
+            {
+                "id": "v16.12",
+                "versicle_number": 12,
+                "text": "E dali para Filipos, que é a primeira cidade desta parte da Macedônia, e é uma colônia; e estivemos alguns dias nesta cidade."
+            },
+            {
+                "id": "v16.13",
+                "versicle_number": 13,
+                "text": "E no dia de sábado saímos fora das portas, para a beira do rio, onde julgávamos ter lugar para oração; e, assentando-nos, falamos às mulheres que ali se ajuntaram."
+            },
+            {
+                "id": "v16.14",
+                "versicle_number": 14,
+                "text": "E uma certa mulher, chamada Lídia, vendedora de púrpura, da cidade de Tiatira, e que servia a Deus, nos ouvia, e o Senhor lhe abriu o coração para que estivesse atenta ao que Paulo dizia."
+            },
+            {
+                "id": "v16.15",
+                "versicle_number": 15,
+                "text": "E, depois que foi batizada ela e a sua casa, nos rogou, dizendo: Se haveis julgado que eu seja fiel ao Senhor, entrai em minha casa, e ficai ali. E nos constrangeu a isso."
+            },
+            {
+                "id": "v16.16",
+                "versicle_number": 16,
+                "text": "E aconteceu que, indo nós à oração, nos saiu ao encontro uma jovem, que tinha espírito de adivinhação, a qual, adivinhando, dava grande lucro aos seus senhores."
+            },
+            {
+                "id": "v16.17",
+                "versicle_number": 17,
+                "text": "Esta, seguindo a Paulo e a nós, clamava, dizendo: Estes homens, que nos anunciam o caminho da salvação, são servos do Deus Altíssimo."
+            },
+            {
+                "id": "v16.18",
+                "versicle_number": 18,
+                "text": "E isto fez ela por muitos dias. Mas Paulo, perturbado, voltou-se, e disse ao espírito: Em nome de Jesus Cristo, te mando que saias dela. E na mesma hora saiu."
+            },
+            {
+                "id": "v16.19",
+                "versicle_number": 19,
+                "text": "E, vendo seus senhores que a esperança do seu lucro estava perdida, prenderam Paulo e Silas, e os levaram à praça, à presença dos magistrados."
+            },
+            {
+                "id": "v16.20",
+                "versicle_number": 20,
+                "text": "E, apresentando-os aos magistrados, disseram: Estes homens sendo judeus, perturbaram a nossa cidade."
+            },
+            {
+                "id": "v16.21",
+                "versicle_number": 21,
+                "text": "E nos expõem costumes que nos não é lícito receber nem praticar, visto que somos romanos."
+            },
+            {
+                "id": "v16.22",
+                "versicle_number": 22,
+                "text": "E a multidão se levantou unida contra eles, e os magistrados, rasgando-lhes os vestidos, mandaram açoitá-los com varas."
+            },
+            {
+                "id": "v16.23",
+                "versicle_number": 23,
+                "text": "E, havendo-lhes dado muitos açoites, os lançaram na prisão, mandando ao carcereiro que os guardasse com segurança."
+            },
+            {
+                "id": "v16.24",
+                "versicle_number": 24,
+                "text": "O qual, tendo recebido tal ordem, os lançou no cárcere interior, e lhes segurou os pés no tronco."
+            },
+            {
+                "id": "v16.25",
+                "versicle_number": 25,
+                "text": "E, perto da meia noite, Paulo e Silas oravam e cantavam hinos a Deus, e os outros presos os escutavam."
+            },
+            {
+                "id": "v16.26",
+                "versicle_number": 26,
+                "text": "E de repente sobreveio um tão grande terremoto, que os alicerces do cárcere se moveram, e logo se abriram todas as portas, e foram soltas as prisões de todos."
+            },
+            {
+                "id": "v16.27",
+                "versicle_number": 27,
+                "text": "E, acordando o carcereiro, e vendo abertas as portas da prisão, tirou a espada, e quis matar-se, cuidando que os presos já tinham fugido."
+            },
+            {
+                "id": "v16.28",
+                "versicle_number": 28,
+                "text": "Mas Paulo clamou com grande voz, dizendo: Não te faças nenhum mal, que todos aqui estamos."
+            },
+            {
+                "id": "v16.29",
+                "versicle_number": 29,
+                "text": "E, pedindo luz, saltou dentro, e, todo trêmulo, se prostrou ante Paulo e Silas."
+            },
+            {
+                "id": "v16.30",
+                "versicle_number": 30,
+                "text": "E, tirando-os para fora, disse: Senhores, que é necessário que eu faça para me salvar?"
+            },
+            {
+                "id": "v16.31",
+                "versicle_number": 31,
+                "text": "E eles disseram: Crê no Senhor Jesus Cristo, e serás salvo, tu e a tua casa."
+            },
+            {
+                "id": "v16.32",
+                "versicle_number": 32,
+                "text": "E lhe pregavam a palavra do Senhor, e a todos os que estavam em sua casa."
+            },
+            {
+                "id": "v16.33",
+                "versicle_number": 33,
+                "text": "E, tomando-os ele consigo naquela mesma hora da noite, lavou-lhes os vergões; e logo foi batizado, ele e todos os seus."
+            },
+            {
+                "id": "v16.34",
+                "versicle_number": 34,
+                "text": "E, levando-os a sua casa, lhes pôs a mesa; e, na sua crença em Deus alegrou-se com toda a sua casa."
+            },
+            {
+                "id": "v16.35",
+                "versicle_number": 35,
+                "text": "E, sendo já dia, os magistrados mandaram quadrilheiros, dizendo: Soltai aqueles homens."
+            },
+            {
+                "id": "v16.36",
+                "versicle_number": 36,
+                "text": "E o carcereiro anunciou a Paulo estas palavras, dizendo: Os magistrados mandaram que vos soltasse; agora pois saí, e ide em paz."
+            },
+            {
+                "id": "v16.37",
+                "versicle_number": 37,
+                "text": "Mas Paulo replicou: Açoitaram-nos publicamente, e, sem sermos condenados, sendo homens romanos, nos lançaram na prisão, e agora encobertamente nos lançam fora? Não será assim; mas venham eles mesmos e tirem-nos para fora."
+            },
+            {
+                "id": "v16.38",
+                "versicle_number": 38,
+                "text": "E os quadrilheiros foram dizer aos magistrados estas palavras; e eles temeram, ouvindo que eram romanos."
+            },
+            {
+                "id": "v16.39",
+                "versicle_number": 39,
+                "text": "E, vindo, lhes dirigiram súplicas; e, tirando-os para fora, lhes pediram que saíssem da cidade."
+            },
+            {
+                "id": "v16.40",
+                "versicle_number": 40,
+                "text": "E, saindo da prisão, entraram em casa de Lídia, e, vendo os irmãos, os confortaram, e depois partiram."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

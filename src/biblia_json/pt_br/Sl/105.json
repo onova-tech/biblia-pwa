@@ -1,0 +1,341 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 105,
+        "chapter_reference": "",
+        "chapter_title": "O salmista louva a Deus por haver guardado o seu pacto com os patriarcas, por haver livrado do Egito a Israel, e por o haver conduzido pelo deserto até Canaã",
+        "versicles": [
+            {
+                "id": "v105.1",
+                "versicle_number": 1,
+                "text": "LOUVAI ao Senhor, e invocai o seu nome; fazei conhecidas as suas obras entre os povos."
+            },
+            {
+                "id": "v105.2",
+                "versicle_number": 2,
+                "text": "Cantai-lhe, cantai-lhe salmos: falai de todas as suas maravilhas."
+            },
+            {
+                "id": "v105.3",
+                "versicle_number": 3,
+                "text": "Gloriai-vos no seu santo nome: alegre-se o coração daqueles que buscam ao Senhor."
+            },
+            {
+                "id": "v105.4",
+                "versicle_number": 4,
+                "text": "Buscai ao Senhor, e a sua força: buscai a sua face continuamente."
+            },
+            {
+                "id": "v105.5",
+                "versicle_number": 5,
+                "text": "Lembrai-vos das maravilhas que fez, dos seus prodígios e dos juízos da sua boca;"
+            },
+            {
+                "id": "v105.6",
+                "versicle_number": 6,
+                "text": "Vós, descendência de Abraão, seu servo, vós, filhos de Jacó, seus escolhidos."
+            },
+            {
+                "id": "v105.7",
+                "versicle_number": 7,
+                "text": "Ele é o Senhor, nosso Deus; os seus juízos estão em toda a terra."
+            },
+            {
+                "id": "v105.8",
+                "versicle_number": 8,
+                "text": "Lembra-se perpetuamente do seu concerto, da palavra que mandou, até milhares de gerações."
+            },
+            {
+                "id": "v105.9",
+                "versicle_number": 9,
+                "text": "Do concerto que fez com Abraão,{note:1} e do seu juramento a Isaque.{note:2}"
+            },
+            {
+                "id": "v105.10",
+                "versicle_number": 10,
+                "text": "O qual ele confirmou a Jacó{note:3} por estatuto, e a Israel por concerto, eterno,"
+            },
+            {
+                "id": "v105.11",
+                "versicle_number": 11,
+                "text": "Dizendo: A ti darei a terra de Canaã, por limite da vossa herança."
+            },
+            {
+                "id": "v105.12",
+                "versicle_number": 12,
+                "text": "Quando eram ainda poucos homens, sim, muito poucos, e estrangeiros nela;"
+            },
+            {
+                "id": "v105.13",
+                "versicle_number": 13,
+                "text": "Quando andavam de nação em nação e dum reino para outro povo,"
+            },
+            {
+                "id": "v105.14",
+                "versicle_number": 14,
+                "text": "Não permitiu a ninguém que os oprimisse, e por amor deles repreendeu reis, dizendo:"
+            },
+            {
+                "id": "v105.15",
+                "versicle_number": 15,
+                "text": "Não toqueis nos meus ungidos, e não maltrateis os meus profetas.{note:4}"
+            },
+            {
+                "id": "v105.16",
+                "versicle_number": 16,
+                "text": "Chamou a fome{note:5} sobre a terra; fez mirrar toda a planta do pão."
+            },
+            {
+                "id": "v105.17",
+                "versicle_number": 17,
+                "text": "Mandou perante eles um varão, que foi vendido por escravo: José,{note:6}"
+            },
+            {
+                "id": "v105.18",
+                "versicle_number": 18,
+                "text": "Cujos pés apertaram com grilhões e a quem puseram em ferros:"
+            },
+            {
+                "id": "v105.19",
+                "versicle_number": 19,
+                "text": "Até ao tempo em que chegou a sua palavra; a palavra do Senhor o provou.{note:7}"
+            },
+            {
+                "id": "v105.20",
+                "versicle_number": 20,
+                "text": "Mandou o rei, e o fez soltar;{note:8} o dominador dos povos, e o soltou."
+            },
+            {
+                "id": "v105.21",
+                "versicle_number": 21,
+                "text": "Fê-lo senhor{note:9} da sua casa, e governador de toda a sua fazenda;"
+            },
+            {
+                "id": "v105.22",
+                "versicle_number": 22,
+                "text": "Para, a seu gosto, sujeitar os seus príncipes, e instruir os seus anciãos."
+            },
+            {
+                "id": "v105.23",
+                "versicle_number": 23,
+                "text": "Então Israel entrou no Egito,{note:10} e Jacó peregrinou{note:11} na terra de Cão."
+            },
+            {
+                "id": "v105.24",
+                "versicle_number": 24,
+                "text": "E ele multiplicou sobremodo o seu povo, e o fez mais poderoso do que os seus inimigos."
+            },
+            {
+                "id": "v105.25",
+                "versicle_number": 25,
+                "text": "Mudou o coração deles para que aborrecessem o seu povo, para que tratassem astutamente aos seus servos.{note:12}"
+            },
+            {
+                "id": "v105.26",
+                "versicle_number": 26,
+                "text": "Enviou Moisés,{note:13} seu servo, e Aarão, a quem escolhera."
+            },
+            {
+                "id": "v105.27",
+                "versicle_number": 27,
+                "text": "Fizeram entre eles os seus sinais e prodígios, na terra de Cão."
+            },
+            {
+                "id": "v105.28",
+                "versicle_number": 28,
+                "text": "Mandou às trevas{note:14} que a escurecessem: e não foram rebeldes à sua palavra."
+            },
+            {
+                "id": "v105.29",
+                "versicle_number": 29,
+                "text": "Converteu as suas águas em sangue,{note:15} e assim fez morrer os peixes."
+            },
+            {
+                "id": "v105.30",
+                "versicle_number": 30,
+                "text": "A sua terra produziu rãs{note:16} em abundância, até nas câmaras dos seus reis."
+            },
+            {
+                "id": "v105.31",
+                "versicle_number": 31,
+                "text": "Falou ele, e vieram enxames de moscas,{note:17} e piolhos{note:18} em todo o seu termo."
+            },
+            {
+                "id": "v105.32",
+                "versicle_number": 32,
+                "text": "Converteu as suas chuvas em saraiva, e fogo abrasador na sua terra."
+            },
+            {
+                "id": "v105.33",
+                "versicle_number": 33,
+                "text": "Feriu as suas vinhas e os seus figueirais, e quebrou as árvores dos seus termos.{note:19}"
+            },
+            {
+                "id": "v105.34",
+                "versicle_number": 34,
+                "text": "Falou ele, e vieram gafanhotos, e pulgão em quantidade inumerável."
+            },
+            {
+                "id": "v105.35",
+                "versicle_number": 35,
+                "text": "E comeram toda a erva da sua terra, e devoraram o fruto dos seus campos.{note:20}"
+            },
+            {
+                "id": "v105.36",
+                "versicle_number": 36,
+                "text": "Feriu também a todos os primogênitos{note:21} da sua terra, as primícias de todas as suas forças."
+            },
+            {
+                "id": "v105.37",
+                "versicle_number": 37,
+                "text": "Mas a eles os fez sair com prata e ouro, e entre as suas tribos não houve um só enfermo."
+            },
+            {
+                "id": "v105.38",
+                "versicle_number": 38,
+                "text": "O Egito alegrou-se quando eles saíram, porque o seu temor caíra sobre eles.{note:22}"
+            },
+            {
+                "id": "v105.39",
+                "versicle_number": 39,
+                "text": "Estendeu uma nuvem{note:23} por coberta, e um fogo para os alumiar de noite."
+            },
+            {
+                "id": "v105.40",
+                "versicle_number": 40,
+                "text": "Oraram, e ele fez vir codornizes,{note:24} e saciou-os com pão do céu."
+            },
+            {
+                "id": "v105.41",
+                "versicle_number": 41,
+                "text": "Abriu a penha,{note:25} e dela brotaram águas, que correram pelos lugares secos, como um rio."
+            },
+            {
+                "id": "v105.42",
+                "versicle_number": 42,
+                "text": "Porque se lembrou da sua santa palavra, e de Abraão, seu servo."
+            },
+            {
+                "id": "v105.43",
+                "versicle_number": 43,
+                "text": "E tirou dali o seu povo com alegria, e os seus escolhidos com regozijo."
+            },
+            {
+                "id": "v105.44",
+                "versicle_number": 44,
+                "text": "E deu-lhes as terras{note:26} das nações; e herdaram o trabalho dos povos;"
+            },
+            {
+                "id": "v105.45",
+                "versicle_number": 45,
+                "text": "Para que guardassem os seus preceitos, e observassem as suas leis. {note:r}Louvai ao Senhor."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 105.9 Gn 12.7 {note:2} 105.9 Gn 26.3"
+            },
+            {
+                "id": "n2",
+                "text": "{note:3} 105.10 Gn 28.13"
+            },
+            {
+                "id": "n3",
+                "text": "{note:4} 105.14-15 Gn 20.3-7"
+            },
+            {
+                "id": "n4",
+                "text": "{note:5} 105.16 Gn 41.53-57"
+            },
+            {
+                "id": "n5",
+                "text": "{note:6} 105.17 Gn 37.28; 45.5"
+            },
+            {
+                "id": "n6",
+                "text": "{note:7} 105.18-19 Gn 39.20—40.23"
+            },
+            {
+                "id": "n7",
+                "text": "{note:8} 105.20 Gn 41.14"
+            },
+            {
+                "id": "n8",
+                "text": "{note:9} 105.21 Gn 41.39-41"
+            },
+            {
+                "id": "n9",
+                "text": "{note:10} 105.23 Gn 46.6 {note:11} 105.23 Gn 47.11"
+            },
+            {
+                "id": "n10",
+                "text": "{note:12} 105.24-25 Êx 1.7-14"
+            },
+            {
+                "id": "n11",
+                "text": "{note:13} 105.26 Êx 3.1—4.17"
+            },
+            {
+                "id": "n12",
+                "text": "{note:14} 105.28 Êx 10.21-23"
+            },
+            {
+                "id": "n13",
+                "text": "{note:15} 105.29 Êx 7.17-21"
+            },
+            {
+                "id": "n14",
+                "text": "{note:16} 105.30 Êx 8.1-6"
+            },
+            {
+                "id": "n15",
+                "text": "{note:17} 105.31 Êx 8.20-24 {note:18} 105.31 Êx 8.16-17"
+            },
+            {
+                "id": "n16",
+                "text": "{note:19} 105.32-33 Êx 9.22-25"
+            },
+            {
+                "id": "n17",
+                "text": "{note:20} 105.34-35 Êx 10.12-15"
+            },
+            {
+                "id": "n18",
+                "text": "{note:21} 105.36 Êx 12.29"
+            },
+            {
+                "id": "n19",
+                "text": "{note:22} 105.37-38 Êx 12.33-36"
+            },
+            {
+                "id": "n20",
+                "text": "{note:23} 105.39 Êx 13.21-22"
+            },
+            {
+                "id": "n21",
+                "text": "{note:24} 105.40 Êx 16.2-15"
+            },
+            {
+                "id": "n22",
+                "text": "{note:25} 105.41 Êx 17.1-7; Nm 20.2-13"
+            },
+            {
+                "id": "n23",
+                "text": "{note:26} 105.44 Js 11.16-23"
+            },
+            {
+                "id": "n24",
+                "text": "{note:r} 105.45 Heb. Aleluia"
+            }
+        ]
+    }
+}

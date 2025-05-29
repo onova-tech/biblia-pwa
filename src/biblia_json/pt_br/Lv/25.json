@@ -1,0 +1,303 @@
+{
+    "book": {
+        "id": "Lv",
+        "book_number": 3,
+        "new_testament": false,
+        "num_chapters": 27,
+        "book_name": "LEVÍTICO",
+        "book_full_name": "O TERCEIRO LIVRO DE MOISÉS LEVÍTICO"
+    },
+    "chapter": {
+        "chapter_number": 25,
+        "chapter_reference": "",
+        "chapter_title": "O ano do jubileu",
+        "versicles": [
+            {
+                "id": "v25.1",
+                "versicle_number": 1,
+                "text": "FALOU mais o Senhor a Moisés no monte de Sinai, dizendo:"
+            },
+            {
+                "id": "v25.2",
+                "versicle_number": 2,
+                "text": "Fala aos filhos de Israel e dize-lhes: Quando tiverdes entrado na terra, que eu vos dou, então a terra guardará um sábado ao Senhor."
+            },
+            {
+                "id": "v25.3",
+                "versicle_number": 3,
+                "text": "Seis anos semearás a tua terra, e seis anos podarás a tua vinha, e colherás a sua novidade:"
+            },
+            {
+                "id": "v25.4",
+                "versicle_number": 4,
+                "text": "Porém ao sétimo ano haverá sábado de descanso para a terra, um sábado ao Senhor: não semearás o teu campo nem podarás a tua vinha."
+            },
+            {
+                "id": "v25.5",
+                "versicle_number": 5,
+                "text": "O que nascer de si mesmo da tua sega não segarás, e as uvas da tua vide não tratada não vindimarás: ano de descanso será para a terra."
+            },
+            {
+                "id": "v25.6",
+                "versicle_number": 6,
+                "text": "Mas a novidade do sábado da terra vos será por alimento, a ti, e ao teu servo, e à tua serva, e ao teu jornaleiro, e ao estrangeiro que peregrina contigo;"
+            },
+            {
+                "id": "v25.7",
+                "versicle_number": 7,
+                "text": "E ao teu gado, e aos teus animais, que estão na tua terra, toda a sua novidade será por mantimento."
+            },
+            {
+                "id": "v25.8",
+                "versicle_number": 8,
+                "text": "Também contarás sete semanas de anos, sete vezes sete anos: de maneira que os dias das sete semanas de anos te serão quarenta e nove anos."
+            },
+            {
+                "id": "v25.9",
+                "versicle_number": 9,
+                "text": "Então no mês sétimo, aos dez do mês, farás passar a trombeta do jubileu: no dia da expiação fareis passar a trombeta por toda a vossa terra."
+            },
+            {
+                "id": "v25.10",
+                "versicle_number": 10,
+                "text": "E santificareis o ano quinquagésimo, e apregoareis liberdade na terra a todos os seus moradores: ano de jubileu vos será, e tornareis, cada um à sua possessão, e tornareis, cada um à sua família."
+            },
+            {
+                "id": "v25.11",
+                "versicle_number": 11,
+                "text": "O ano quinquagésimo vos será jubileu: não semeareis nem segareis o que nele nascer de si mesmo, nem nele vindimareis as uvas das vides não tratadas."
+            },
+            {
+                "id": "v25.12",
+                "versicle_number": 12,
+                "text": "Porque jubileu é, santo será para vós: a novidade do campo comereis."
+            },
+            {
+                "id": "v25.13",
+                "versicle_number": 13,
+                "text": "Neste ano de jubileu tornareis cada um à sua possessão."
+            },
+            {
+                "id": "v25.14",
+                "versicle_number": 14,
+                "text": "E quando venderdes alguma cousa ao vosso próximo, ou a comprardes da mão do vosso próximo, ninguém oprima a seu irmão:"
+            },
+            {
+                "id": "v25.15",
+                "versicle_number": 15,
+                "text": "Conforme ao número dos anos desde o jubileu, comprarás ao teu próximo; e conforme ao número dos anos das novidades, ele venderá a ti."
+            },
+            {
+                "id": "v25.16",
+                "versicle_number": 16,
+                "text": "Conforme à multidão dos anos, aumentarás o seu preço, e conforme à diminuição dos anos abaixarás o seu preço; porque conforme ao número das novidades é que ele te vende."
+            },
+            {
+                "id": "v25.17",
+                "versicle_number": 17,
+                "text": "Ninguém pois oprima ao seu próximo; mas terás temor do teu Deus: porque eu sou o Senhor vosso Deus."
+            },
+            {
+                "id": "v25.18",
+                "versicle_number": 18,
+                "text": "E fazei os meus estatutos, e guardai os meus juízos, e fazei-os: assim habitareis seguros na terra."
+            },
+            {
+                "id": "v25.19",
+                "versicle_number": 19,
+                "text": "E a terra dará o seu fruto, e comereis a fartar, e nela habitareis seguros."
+            },
+            {
+                "id": "v25.20",
+                "versicle_number": 20,
+                "text": "E se disserdes: Que comeremos no ano sétimo, visto que não havemos de semear nem colher a nossa novidade?"
+            },
+            {
+                "id": "v25.21",
+                "versicle_number": 21,
+                "text": "Então eu mandarei a minha bênção sobre vós no sexto ano, para que dê fruto por três anos."
+            },
+            {
+                "id": "v25.22",
+                "versicle_number": 22,
+                "text": "E no oitavo ano semeareis, e comereis da colheita velha até ao ano nono: até que venha a sua novidade, comereis a velha."
+            },
+            {
+                "id": "v25.23",
+                "versicle_number": 23,
+                "text": "Também a terra não se venderá em perpetuidade, porque a terra é minha: pois vós sois estrangeiros e peregrinos comigo."
+            },
+            {
+                "id": "v25.24",
+                "versicle_number": 24,
+                "text": "Portanto em toda a terra da vossa possessão dareis resgate à terra."
+            },
+            {
+                "id": "v25.25",
+                "versicle_number": 25,
+                "text": "Quando teu irmão empobrecer e vender alguma porção da sua possessão, então virá o seu resgatador, seu parente, e resgatará o que vendeu seu irmão."
+            },
+            {
+                "id": "v25.26",
+                "versicle_number": 26,
+                "text": "E se alguém não tiver resgatador, porém a sua mão alcançar e achar o que basta para o seu resgate,"
+            },
+            {
+                "id": "v25.27",
+                "versicle_number": 27,
+                "text": "Então contará os anos desde a sua venda, e o que ficar restituirá ao homem a quem o vendeu, e tornará à sua possessão."
+            },
+            {
+                "id": "v25.28",
+                "versicle_number": 28,
+                "text": "Mas, se a sua mão não alcançar o que basta para restituir-lha, então a que for vendida ficará na mão do comprador até ao ano do jubileu: porém no ano do jubileu sairá, e ele tornará à sua possessão."
+            },
+            {
+                "id": "v25.29",
+                "versicle_number": 29,
+                "text": "E, quando algum vender uma casa de moradia em cidade murada, então a pode resgatar até que se cumpra o ano da sua venda; durante um ano inteiro será lícito o seu resgate."
+            },
+            {
+                "id": "v25.30",
+                "versicle_number": 30,
+                "text": "Mas, se, passando-se-lhe um ano inteiro, ainda não for resgatada, então a casa, que estiver na cidade que tem muro, em perpetuidade ficará ao que a comprou, pelas suas gerações: não sairá no jubileu."
+            },
+            {
+                "id": "v25.31",
+                "versicle_number": 31,
+                "text": "Mas as casas das aldeias que não têm muro em roda serão estimadas como o campo da terra: para elas haverá resgate, e sairão no jubileu."
+            },
+            {
+                "id": "v25.32",
+                "versicle_number": 32,
+                "text": "Mas, no tocante às cidades dos levitas, às casas das cidades da sua possessão, direito perpétuo de resgate terão os levitas."
+            },
+            {
+                "id": "v25.33",
+                "versicle_number": 33,
+                "text": "E, havendo feito resgate um dos levitas, então a casa comprada e a cidade da sua possessão sairão no jubileu: porque as casas das cidades dos levitas são a sua possessão no meio dos filhos de Israel."
+            },
+            {
+                "id": "v25.34",
+                "versicle_number": 34,
+                "text": "Mas o campo do arrabalde das suas cidades não se venderá, porque lhes é possessão perpétua."
+            },
+            {
+                "id": "v25.35",
+                "versicle_number": 35,
+                "text": "E, quando teu irmão empobrecer, e as suas forças decaírem, então sustentá-lo-ás, como estrangeiro e peregrino, para que viva contigo."
+            },
+            {
+                "id": "v25.36",
+                "versicle_number": 36,
+                "text": "Não tomarás dele usura nem ganho; mas do teu Deus terás temor, para que teu irmão viva contigo."
+            },
+            {
+                "id": "v25.37",
+                "versicle_number": 37,
+                "text": "Não lhe darás teu dinheiro com usura,{note:1} nem darás o teu manjar por interesse."
+            },
+            {
+                "id": "v25.38",
+                "versicle_number": 38,
+                "text": "Eu sou o Senhor vosso Deus, que vos tirei da terra do Egito, para vos dar a terra de Canaã, para ser vosso Deus."
+            },
+            {
+                "id": "v25.39",
+                "versicle_number": 39,
+                "text": "Quando também teu irmão empobrecer, estando ele contigo, e se vender a ti, não o farás servir serviço de escravo."
+            },
+            {
+                "id": "v25.40",
+                "versicle_number": 40,
+                "text": "Como jornaleiro, como peregrino estará contigo; até ao ano do jubileu te servirá:"
+            },
+            {
+                "id": "v25.41",
+                "versicle_number": 41,
+                "text": "Então sairá do teu serviço, ele e seus filhos com ele, e tornará à sua família, e à possessão de seus pais tornará."
+            },
+            {
+                "id": "v25.42",
+                "versicle_number": 42,
+                "text": "Porque são meus servos, que tirei da terra do Egito: não serão vendidos como se vendem os escravos."
+            },
+            {
+                "id": "v25.43",
+                "versicle_number": 43,
+                "text": "Não te assenhorearás dele com rigor, mas do teu Deus terás temor."
+            },
+            {
+                "id": "v25.44",
+                "versicle_number": 44,
+                "text": "E quanto a teu escravo ou a tua escrava que tiveres, serão das gentes que estão ao redor de vós; deles comprareis escravos e escravas."
+            },
+            {
+                "id": "v25.45",
+                "versicle_number": 45,
+                "text": "Também os comprareis dos filhos dos forasteiros que peregrinam entre vós, deles e das suas gerações que estiverem convosco, que tiverem gerado na vossa terra; e vos serão por possessão."
+            },
+            {
+                "id": "v25.46",
+                "versicle_number": 46,
+                "text": "E possuí-los-eis por herança para vossos filhos depois de vós, para herdarem a possessão; perpetuamente os fareis servir: mas sobre vossos irmãos, os filhos de Israel, cada um sobre o seu irmão, não vos assenhoreareis dele com rigor.{note:2}"
+            },
+            {
+                "id": "v25.47",
+                "versicle_number": 47,
+                "text": "E quando a mão do estrangeiro e peregrino que está contigo alcançar riqueza, e teu irmão, que está com ele, empobrecer, e se vender ao estrangeiro ou peregrino que está contigo, ou à raça da linhagem do estrangeiro,"
+            },
+            {
+                "id": "v25.48",
+                "versicle_number": 48,
+                "text": "Depois que se houver vendido, haverá resgate para ele: um de seus irmãos o resgatará;"
+            },
+            {
+                "id": "v25.49",
+                "versicle_number": 49,
+                "text": "Ou seu tio, ou o filho de seu tio o resgatará: ou um dos seus parentes, da sua família, o resgatará: ou, se a sua mão alcançar riqueza, se resgatará a si mesmo."
+            },
+            {
+                "id": "v25.50",
+                "versicle_number": 50,
+                "text": "E contará com aquele que o comprou, desde o ano que se vendeu a ele até ao ano do jubileu, e o dinheiro da sua venda será conforme ao número dos anos: conforme aos dias de um jornaleiro estará com ele."
+            },
+            {
+                "id": "v25.51",
+                "versicle_number": 51,
+                "text": "Se ainda muitos anos faltarem, conforme a eles restituirá o seu resgate do dinheiro pelo qual foi vendido."
+            },
+            {
+                "id": "v25.52",
+                "versicle_number": 52,
+                "text": "E se ainda restarem poucos anos até ao ano do jubileu, então fará contas com ele: segundo os seus anos restituirá o seu resgate."
+            },
+            {
+                "id": "v25.53",
+                "versicle_number": 53,
+                "text": "Como jornaleiro, de ano em ano, estará com ele: não se assenhoreará sobre ele com rigor diante dos teus olhos."
+            },
+            {
+                "id": "v25.54",
+                "versicle_number": 54,
+                "text": "E, se desta sorte se não resgatar, sairá no ano do jubileu, ele e seus filhos com ele."
+            },
+            {
+                "id": "v25.55",
+                "versicle_number": 55,
+                "text": "Porque os filhos de Israel me são servos; meus servos são eles, que tirei da terra do Egito: eu sou o Senhor vosso Deus."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 25.37 Êx 22.25; Dt 23.19-20"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 25.39-46 Êx 21.1-11; Dt 15.12-18"
+            }
+        ]
+    }
+}

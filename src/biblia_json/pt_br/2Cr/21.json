@@ -1,0 +1,132 @@
+{
+    "book": {
+        "id": "2Cr",
+        "book_number": 14,
+        "new_testament": false,
+        "num_chapters": 36,
+        "book_name": "CRÔNICAS",
+        "book_full_name": "O SEGUNDO LIVRO DAS CRÔNICAS"
+    },
+    "chapter": {
+        "chapter_number": 21,
+        "chapter_reference": "",
+        "chapter_title": "A morte de Josafá e a impiedade de Jorão",
+        "versicles": [
+            {
+                "id": "v21.1",
+                "versicle_number": 1,
+                "text": "DEPOIS Josafá dormiu com seus pais, e o sepultaram com seus pais na cidade de Davi; e Jorão, seu filho, reinou em seu lugar."
+            },
+            {
+                "id": "v21.2",
+                "versicle_number": 2,
+                "text": "E teve irmãos, filhos de Josafá: Azarias, e Jeiel, e Zacarias, e Asarias, e Micael, e Sefatias; todos estes foram filhos de Josafá, rei de Israel."
+            },
+            {
+                "id": "v21.3",
+                "versicle_number": 3,
+                "text": "E seu pai lhes deu muitos dons de prata, e de ouro, e de cousas preciosíssimas, com cidades fortes em Judá: porém o reino deu a Jorão, porquanto era o primogênito."
+            },
+            {
+                "id": "v21.4",
+                "versicle_number": 4,
+                "text": "E, subindo Jorão ao reino de seu pai, e havendo-se fortificado, matou a todos os seus irmãos à espada, como também a alguns dos príncipes de Israel."
+            },
+            {
+                "id": "v21.5",
+                "versicle_number": 5,
+                "text": "Da idade de trinta e dois anos era Jorão quando começou a reinar; e reinou oito anos em Jerusalém."
+            },
+            {
+                "id": "v21.6",
+                "versicle_number": 6,
+                "text": "E andou no caminho dos reis de Israel, como fazia a casa de Acabe; porque tinha a filha de Acabe por mulher; e fazia o que parecia mal ao olhos do Senhor."
+            },
+            {
+                "id": "v21.7",
+                "versicle_number": 7,
+                "text": "Porém o Senhor não quis destruir a casa de Davi, em atenção ao concerto que tinha feito com Davi; e porque também tinha dito que lhe daria por todos os dias uma lâmpada,{note:1} a ele e a seus filhos."
+            },
+            {
+                "id": "v21.8",
+                "versicle_number": 8,
+                "text": "Nos seus dias se revoltaram os idumeus{note:2} contra o domínio de Judá, e constituíram para si um rei."
+            },
+            {
+                "id": "v21.9",
+                "versicle_number": 9,
+                "text": "Pelo que Jorão passou adiante com os seus chefes, e todos os carros com ele; e levantou-se de noite, e feriu aos idumeus, que o tinham cercado, como também aos capitães dos carros."
+            },
+            {
+                "id": "v21.10",
+                "versicle_number": 10,
+                "text": "Todavia os idumeus se revoltaram contra o domínio de Judá até ao dia de hoje; então no mesmo tempo Libna se revoltou de debaixo de seu mando; porque deixara ao Senhor, Deus de seus pais."
+            },
+            {
+                "id": "v21.11",
+                "versicle_number": 11,
+                "text": "Ele também fez altos nos montes de Judá: e fez com que se corrompessem os moradores de Jerusalém, e até a Judá impeliu a isso."
+            },
+            {
+                "id": "v21.12",
+                "versicle_number": 12,
+                "text": "Então lhe veio um escrito da parte de Elias o profeta, que dizia: Assim diz o Senhor, Deus de Davi teu pai: Porquanto não andaste nos caminhos de Josafá, teu pai, e nos caminhos de Asa, rei de Judá,"
+            },
+            {
+                "id": "v21.13",
+                "versicle_number": 13,
+                "text": "Mas andaste no caminho dos reis de Israel, e fizeste corromper a Judá e aos moradores de Jerusalém, segundo a corrupção da casa de Acabe, e também mataste a teus irmãos, da casa de teu pai, melhores do que tu,"
+            },
+            {
+                "id": "v21.14",
+                "versicle_number": 14,
+                "text": "Eis que o Senhor ferirá com um grande {note:t}flagelo ao teu povo, e aos teus filhos, e às tuas mulheres e a todas as tuas fazendas."
+            },
+            {
+                "id": "v21.15",
+                "versicle_number": 15,
+                "text": "Tu também terás uma grande enfermidade por meio dum mal nas tuas entranhas, até que te saiam as tuas entranhas, por causa da enfermidade, de dia em dia."
+            },
+            {
+                "id": "v21.16",
+                "versicle_number": 16,
+                "text": "Despertou pois o Senhor, contra Jorão o espírito dos filisteus e dos arábios, que estão da banda dos etíopes."
+            },
+            {
+                "id": "v21.17",
+                "versicle_number": 17,
+                "text": "Estes subiram a Judá, e deram sobre ela, e levaram toda a fazenda que se achou na casa do rei, como também a seus filhos e a suas mulheres; de modo que lhe não deixaram filho, senão a Joacaz, o mais moço de seus filhos."
+            },
+            {
+                "id": "v21.18",
+                "versicle_number": 18,
+                "text": "E depois de tudo isto o Senhor o feriu nas suas entranhas com uma enfermidade incurável."
+            },
+            {
+                "id": "v21.19",
+                "versicle_number": 19,
+                "text": "E sucedeu que, depois de muitos dias, e chegado que foi o fim de dois anos, saíram-lhe as entranhas com a doença, e morreu de más enfermidades: e o seu povo lhe não queimou aromas como queimara a seus pais."
+            },
+            {
+                "id": "v21.20",
+                "versicle_number": 20,
+                "text": "Era da idade de trinta e dois anos quando começou a reinar, e reinou em Jerusalém oito anos: e foi-se sem deixar de si saudades algumas; e o sepultaram na cidade de Davi, porém não nos sepulcros dos reis."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 21.7 1Rs 11.36"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 21.8 Gn 27.40"
+            },
+            {
+                "id": "n3",
+                "text": "{note:t} 21.14 Heb. golpe"
+            }
+        ]
+    }
+}

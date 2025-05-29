@@ -1,0 +1,137 @@
+{
+    "book": {
+        "id": "2Co",
+        "book_number": 47,
+        "new_testament": true,
+        "num_chapters": 13,
+        "book_name": "CORÍNTIOS",
+        "book_full_name": "SEGUNDA EPÍSTOLA DO APÓSTOLO PAULO AOS CORÍNTIOS"
+    },
+    "chapter": {
+        "chapter_number": 5,
+        "chapter_reference": "",
+        "chapter_title": "O ministério da reconciliação",
+        "versicles": [
+            {
+                "id": "v5.1",
+                "versicle_number": 1,
+                "text": "PORQUE sabemos que, se a nossa casa terrestre deste tabernáculo se desfizer, temos de Deus um edifício, uma casa não feita por mãos, eterna, nos céus."
+            },
+            {
+                "id": "v5.2",
+                "versicle_number": 2,
+                "text": "E por isso também gememos, desejando ser revestidos da nossa habitação, que é do céu;"
+            },
+            {
+                "id": "v5.3",
+                "versicle_number": 3,
+                "text": "Se, todavia, estando vestidos, não formos achados nus."
+            },
+            {
+                "id": "v5.4",
+                "versicle_number": 4,
+                "text": "Porque também nós, os que estamos neste tabernáculo, gememos carregados: não porque queremos ser despidos, mas revestidos, para que o mortal seja absorvido pela vida."
+            },
+            {
+                "id": "v5.5",
+                "versicle_number": 5,
+                "text": "Ora, quem para isto mesmo nos preparou foi Deus, o qual nos deu também o penhor do Espírito."
+            },
+            {
+                "id": "v5.6",
+                "versicle_number": 6,
+                "text": "Pelo que estamos sempre de bom ânimo, sabendo que, enquanto estamos no corpo, vivemos ausentes do Senhor."
+            },
+            {
+                "id": "v5.7",
+                "versicle_number": 7,
+                "text": "(Porque andamos por fé, e não por vista.)"
+            },
+            {
+                "id": "v5.8",
+                "versicle_number": 8,
+                "text": "Mas temos confiança {note:c}e desejamos antes deixar este corpo, para habitar com o Senhor."
+            },
+            {
+                "id": "v5.9",
+                "versicle_number": 9,
+                "text": "Pelo que muito desejamos também ser-lhe agradáveis, quer presentes, quer ausentes."
+            },
+            {
+                "id": "v5.10",
+                "versicle_number": 10,
+                "text": "Porque todos devemos comparecer{note:1} ante o tribunal de Cristo, para que cada um receba segundo o que tiver feito por meio do corpo, ou bem, ou mal."
+            },
+            {
+                "id": "v5.11",
+                "versicle_number": 11,
+                "text": "Assim que, sabendo o temor que se deve ao Senhor, persuadimos os homens à fé, mas somos manifestos a Deus; e espero que nas vossas consciências sejamos também manifestos."
+            },
+            {
+                "id": "v5.12",
+                "versicle_number": 12,
+                "text": "Porque não nos recomendamos outra vez a vós; mas damo-vos ocasião de vos gloriardes de nós, para que tenhais que responder aos que se gloriam na aparência, e não no coração."
+            },
+            {
+                "id": "v5.13",
+                "versicle_number": 13,
+                "text": "Porque, se enlouquecemos, é para Deus, e, se conservamos o juízo, é para vós."
+            },
+            {
+                "id": "v5.14",
+                "versicle_number": 14,
+                "text": "Porque o amor de Cristo nos constrange, julgando nós assim: que, se um morreu por todos, logo todos morreram."
+            },
+            {
+                "id": "v5.15",
+                "versicle_number": 15,
+                "text": "E ele morreu por todos, para que os que vivem não vivam mais para si, mas para aquele que por eles morreu e ressuscitou."
+            },
+            {
+                "id": "v5.16",
+                "versicle_number": 16,
+                "text": "Assim que daqui por diante a ninguém conhecemos segundo a carne, e, ainda que também tenhamos conhecido Cristo segundo a carne, contudo agora já o não conhecemos deste modo."
+            },
+            {
+                "id": "v5.17",
+                "versicle_number": 17,
+                "text": "Assim que, se alguém está em Cristo, nova {note:d}criatura é: as coisas velhas já passaram; eis que tudo se fez novo."
+            },
+            {
+                "id": "v5.18",
+                "versicle_number": 18,
+                "text": "E tudo isto provém de Deus que nos reconciliou consigo mesmo por Jesus Cristo, e nos deu o ministério da reconciliação;"
+            },
+            {
+                "id": "v5.19",
+                "versicle_number": 19,
+                "text": "Isto é, Deus estava em Cristo reconciliando consigo o mundo, não lhes imputando os seus pecados; e pôs em nós a palavra da reconciliação."
+            },
+            {
+                "id": "v5.20",
+                "versicle_number": 20,
+                "text": "De sorte que somos embaixadores da parte de Cristo, como se Deus por nós rogasse. Rogamos-vos pois da parte de Cristo que vos reconcilieis com Deus."
+            },
+            {
+                "id": "v5.21",
+                "versicle_number": 21,
+                "text": "Àquele que não conheceu pecado, o fez pecado por nós; para que nele fôssemos feitos justiça de Deus."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:c} 5.8 ou queremos, antes, ausentar-nos do corpo e estar presentes ao Senhor"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 5.10 Rm 14.10"
+            },
+            {
+                "id": "n3",
+                "text": "{note:d} 5.17 Gr. criação"
+            }
+        ]
+    }
+}

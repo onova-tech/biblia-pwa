@@ -1,0 +1,118 @@
+{
+    "book": {
+        "id": "Sf",
+        "book_number": 36,
+        "new_testament": false,
+        "num_chapters": 3,
+        "book_name": "SOFONIAS",
+        "book_full_name": "SOFONIAS"
+    },
+    "chapter": {
+        "chapter_number": 1,
+        "chapter_reference": "",
+        "chapter_title": "Ameaças contra Judá e Jerusalém",
+        "versicles": [
+            {
+                "id": "v1.1",
+                "versicle_number": 1,
+                "text": "PALAVRA do Senhor vinda a Sofonias, filho de Cusi, filho de Gedalias, filho de Amarias, filho de Hezequias, nos dias de Josias,{note:1} filho de Amom, rei de Judá."
+            },
+            {
+                "id": "v1.2",
+                "versicle_number": 2,
+                "text": "Inteiramente consumirei tudo sobre a face da terra, diz o Senhor."
+            },
+            {
+                "id": "v1.3",
+                "versicle_number": 3,
+                "text": "Arrebatarei os homens e os animais, consumirei as aves do céu, e os peixes do mar, e os tropeços com os ímpios; e exterminarei os homens de cima da terra, disse o Senhor."
+            },
+            {
+                "id": "v1.4",
+                "versicle_number": 4,
+                "text": "E estenderei a minha mão contra Judá, e contra todos os habitantes de Jerusalém, e exterminarei deste lugar o resto de Baal, e o nome dos {note:a}quemarins com os sacerdotes;"
+            },
+            {
+                "id": "v1.5",
+                "versicle_number": 5,
+                "text": "E os que sobre os telhados se curvam ao exército do céu; e os que se inclinam jurando ao Senhor, e juram por Malcã;"
+            },
+            {
+                "id": "v1.6",
+                "versicle_number": 6,
+                "text": "E os que deixam de andar em seguimento do Senhor, e os que não buscam ao Senhor, nem perguntam por ele."
+            },
+            {
+                "id": "v1.7",
+                "versicle_number": 7,
+                "text": "Cala-te diante do Senhor JEOVÁ, porque o dia do Senhor está perto, porque o Senhor preparou o sacrifício, e santificou os seus convidados."
+            },
+            {
+                "id": "v1.8",
+                "versicle_number": 8,
+                "text": "E acontecerá que, no dia do sacrifício do Senhor, hei de castigar os príncipes, e os filhos do rei, e todos os que se vestem de vestidura estranha."
+            },
+            {
+                "id": "v1.9",
+                "versicle_number": 9,
+                "text": "Castigarei também naquele dia todos aqueles que saltam sobre o umbral, que enchem de violência e engano a casa dos seus senhores."
+            },
+            {
+                "id": "v1.10",
+                "versicle_number": 10,
+                "text": "E naquele dia, diz o Senhor, far-se-á ouvir uma voz de clamor desde a porta do peixe e um uivo desde a segunda parte, e grande quebranto desde os outeiros."
+            },
+            {
+                "id": "v1.11",
+                "versicle_number": 11,
+                "text": "Uivai vós, moradores de Mactés, porque todo o povo de Canaã está arruinado, todos os carregados de dinheiro são destruídos."
+            },
+            {
+                "id": "v1.12",
+                "versicle_number": 12,
+                "text": "E há de ser que, naquele tempo, esquadrinharei a Jerusalém com lanternas, e castigarei os homens que estão assentados sobre as suas fezes, que dizem no seu coração: O Senhor não faz bem nem faz mal."
+            },
+            {
+                "id": "v1.13",
+                "versicle_number": 13,
+                "text": "Por isso será saqueada a sua fazenda, e assoladas as suas casas: e edificarão casas, mas não habitarão nelas, e plantarão vinhas, mas não lhes beberão o vinho."
+            },
+            {
+                "id": "v1.14",
+                "versicle_number": 14,
+                "text": "O grande dia do Senhor está perto, está perto, e se apressa muito a voz do dia do Senhor: amargamente clamará ali o homem poderoso."
+            },
+            {
+                "id": "v1.15",
+                "versicle_number": 15,
+                "text": "Aquele dia é um dia de indignação, dia de angústia e de ânsia, dia de alvoroço e de desolação, dia de trevas e de escuridão, dia de nuvens e de densas trevas."
+            },
+            {
+                "id": "v1.16",
+                "versicle_number": 16,
+                "text": "Dia de trombeta e de alarido contra as cidades fortes e contra as torres altas."
+            },
+            {
+                "id": "v1.17",
+                "versicle_number": 17,
+                "text": "E angustiarei os homens, e eles andarão como cegos, porque pecaram contra o Senhor; e o seu sangue se derramará como pó e a sua carne como esterco."
+            },
+            {
+                "id": "v1.18",
+                "versicle_number": 18,
+                "text": "Nem a sua prata nem o seu ouro os poderá livrar no dia do furor do Senhor, mas pelo fogo do seu zelo toda esta terra será consumida, porque certamente fará de todos os moradores da terra uma destruição total e apressada."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 1.1 2Rs 22.1—23.30; 2Cr 34.1—35.27"
+            },
+            {
+                "id": "n2",
+                "text": "{note:a} 1.4 que é ministrantes dos ídolos"
+            }
+        ]
+    }
+}

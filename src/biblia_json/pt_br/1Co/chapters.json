@@ -1,0 +1,92 @@
+{
+    "book": {
+        "id": "1Co",
+        "book_number": 46,
+        "new_testament": true,
+        "num_chapters": 16,
+        "book_name": "1º CORÍNTIOS",
+        "book_full_name": "PRIMEIRA EPÍSTOLA DO APÓSTOLO PAULO AOS CORÍNTIOS"
+    },
+    "chapters": [
+        {
+            "chapter_number": 10,
+            "chapter_reference": "",
+            "chapter_title": "Não devemos tentar a Cristo, como alguns dos israelitas o tentaram"
+        },
+        {
+            "chapter_number": 11,
+            "chapter_reference": "",
+            "chapter_title": "Como as mulheres devem apresentar-se na igreja"
+        },
+        {
+            "chapter_number": 12,
+            "chapter_reference": "",
+            "chapter_title": "Acerca da diversidade de dons espirituais"
+        },
+        {
+            "chapter_number": 13,
+            "chapter_reference": "",
+            "chapter_title": "A suprema excelência da caridade"
+        },
+        {
+            "chapter_number": 14,
+            "chapter_reference": "",
+            "chapter_title": "O dom da profecia é superior ao das línguas"
+        },
+        {
+            "chapter_number": 15,
+            "chapter_reference": "",
+            "chapter_title": "A ressurreição"
+        },
+        {
+            "chapter_number": 16,
+            "chapter_reference": "",
+            "chapter_title": "As coletas para os crentes de Jerusalém"
+        },
+        {
+            "chapter_number": 1,
+            "chapter_reference": "",
+            "chapter_title": "Prefácio, saudação e ação de graças"
+        },
+        {
+            "chapter_number": 2,
+            "chapter_reference": "",
+            "chapter_title": "O caráter da pregação de Paulo em Corinto"
+        },
+        {
+            "chapter_number": 3,
+            "chapter_reference": "",
+            "chapter_title": "O espírito mundano causa dissensões nas igrejas"
+        },
+        {
+            "chapter_number": 4,
+            "chapter_reference": "",
+            "chapter_title": "Os ministros e despenseiros dos mistérios de Deus"
+        },
+        {
+            "chapter_number": 5,
+            "chapter_reference": "",
+            "chapter_title": "A impureza da igreja de Corinto; repreensões e exortações"
+        },
+        {
+            "chapter_number": 6,
+            "chapter_reference": "",
+            "chapter_title": "Paulo censura o litígio entre os irmãos"
+        },
+        {
+            "chapter_number": 7,
+            "chapter_reference": "",
+            "chapter_title": "Resposta às perguntas acerca do casamento"
+        },
+        {
+            "chapter_number": 8,
+            "chapter_reference": "",
+            "chapter_title": "Resposta às perguntas acerca das carnes sacrificadas aos ídolos"
+        },
+        {
+            "chapter_number": 9,
+            "chapter_reference": "",
+            "chapter_title": "A liberdade e os direitos dos apóstolos"
+        }
+    ]
+}

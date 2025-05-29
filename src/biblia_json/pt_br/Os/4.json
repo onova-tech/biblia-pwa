@@ -1,0 +1,114 @@
+{
+    "book": {
+        "id": "Os",
+        "book_number": 28,
+        "new_testament": false,
+        "num_chapters": 14,
+        "book_name": "OSEIAS",
+        "book_full_name": "OSEIAS"
+    },
+    "chapter": {
+        "chapter_number": 4,
+        "chapter_reference": "",
+        "chapter_title": "Israel e Judá são ameaçados com castigo por causa da sua impiedade: a ignorância e malícia do povo",
+        "versicles": [
+            {
+                "id": "v4.1",
+                "versicle_number": 1,
+                "text": "OUVI a palavra do Senhor, vós, filhos de Israel, porque o Senhor tem uma contenda com os habitantes da terra, porque não há verdade, nem benignidade, nem conhecimento de Deus na terra."
+            },
+            {
+                "id": "v4.2",
+                "versicle_number": 2,
+                "text": "Só prevalecem o perjurar, e o mentir, e o matar, e o furtar, e o adulterar, e há homicídios sobre homicídios."
+            },
+            {
+                "id": "v4.3",
+                "versicle_number": 3,
+                "text": "Por isso a terra se lamentará, e qualquer que morar nela desfalecerá com os animais do campo e com as aves do céu; e até os peixes do mar serão tirados."
+            },
+            {
+                "id": "v4.4",
+                "versicle_number": 4,
+                "text": "Todavia, ninguém contenda, nem qualquer repreenda; porque o teu povo é como os que contendem com o sacerdote."
+            },
+            {
+                "id": "v4.5",
+                "versicle_number": 5,
+                "text": "Por isso cairás de dia, e o profeta contigo cairá de noite; e destruirei a tua mãe."
+            },
+            {
+                "id": "v4.6",
+                "versicle_number": 6,
+                "text": "O meu povo foi destruído, porque lhe faltou o conhecimento; porque tu rejeitaste o conhecimento, também eu te rejeitarei, para que não sejas sacerdote diante de mim; visto que te esqueceste da lei do teu Deus, também eu me esquecerei de teus filhos."
+            },
+            {
+                "id": "v4.7",
+                "versicle_number": 7,
+                "text": "Como eles se multiplicaram, assim contra mim pecaram: eu mudarei a sua honra em vergonha."
+            },
+            {
+                "id": "v4.8",
+                "versicle_number": 8,
+                "text": "Alimentam-se do pecado do meu povo, e da maldade dele têm desejo ardente."
+            },
+            {
+                "id": "v4.9",
+                "versicle_number": 9,
+                "text": "Por isso, como é o povo, assim será o sacerdote; e visitarei sobre ele os seus caminhos, e lhe darei a recompensa das suas obras."
+            },
+            {
+                "id": "v4.10",
+                "versicle_number": 10,
+                "text": "Comerão, mas não se fartarão; entregar-se-ão à luxúria, mas não se multiplicarão; porque deixaram de olhar para o Senhor."
+            },
+            {
+                "id": "v4.11",
+                "versicle_number": 11,
+                "text": "A incontinência, e o vinho, e o mosto tiram a inteligência."
+            },
+            {
+                "id": "v4.12",
+                "versicle_number": 12,
+                "text": "O meu povo consulta a sua madeira, e a sua vara lhe responde, porque o espírito de luxúria os engana, e eles se corrompem, apartando-se da sujeição do seu Deus."
+            },
+            {
+                "id": "v4.13",
+                "versicle_number": 13,
+                "text": "Sacrificam sobre os cumes dos montes, e queimam incenso sobre os outeiros, debaixo do carvalho, e do álamo, e do olmeiro, porque é boa a sua sombra; por isso vossas filhas se prostituem, e as vossas noras adulteram."
+            },
+            {
+                "id": "v4.14",
+                "versicle_number": 14,
+                "text": "Eu não castigarei vossas filhas, que se prostituem, nem vossas noras, quando adulteram; porque eles mesmos com as prostitutas se desviam e com as meretrizes sacrificam: pois o povo que não tem entendimento será transtornado."
+            },
+            {
+                "id": "v4.15",
+                "versicle_number": 15,
+                "text": "Se tu, ó Israel, queres corromper-te, não se faça culpado Judá; não venhais a Gilgal, e não subais a Bete-Áven, e não jureis, dizendo: Vive o Senhor."
+            },
+            {
+                "id": "v4.16",
+                "versicle_number": 16,
+                "text": "Porque como uma vaca rebelde se rebelou Israel: agora o Senhor os apascentará como a um cordeiro num lugar espaçoso."
+            },
+            {
+                "id": "v4.17",
+                "versicle_number": 17,
+                "text": "Efraim está entregue aos ídolos; deixa-o."
+            },
+            {
+                "id": "v4.18",
+                "versicle_number": 18,
+                "text": "A sua bebida se foi: eles corrompem-se cada vez mais; certamente amaram a vergonha os seus príncipes."
+            },
+            {
+                "id": "v4.19",
+                "versicle_number": 19,
+                "text": "Um vento os envolveu nas suas asas, e envergonhar-se-ão por causa dos seus sacrifícios."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

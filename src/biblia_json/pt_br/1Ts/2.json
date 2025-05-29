@@ -1,0 +1,138 @@
+{
+    "book": {
+        "id": "1Ts",
+        "book_number": 52,
+        "new_testament": true,
+        "num_chapters": 5,
+        "book_name": "TESSALONICENSES",
+        "book_full_name": "PRIMEIRA EPÍSTOLA DO APÓSTOLO PAULO AOS TESSALONICENSES"
+    },
+    "chapter": {
+        "chapter_number": 2,
+        "chapter_reference": "",
+        "chapter_title": "Como Paulo exerceu o seu ministério entre os tessalonicenses",
+        "versicles": [
+            {
+                "id": "v2.1",
+                "versicle_number": 1,
+                "text": "PORQUE vós mesmos, irmãos, bem sabeis que a nossa entrada para convosco não foi vã;"
+            },
+            {
+                "id": "v2.2",
+                "versicle_number": 2,
+                "text": "Mas, havendo primeiro padecido,{note:1} e sido agravados em Filipos, como sabeis, tornamo-nos ousados{note:2} em nosso Deus, para vos falar o evangelho de Deus com grande combate."
+            },
+            {
+                "id": "v2.3",
+                "versicle_number": 3,
+                "text": "Porque a nossa exortação não foi com engano, nem com imundícia, nem com fraudulência;"
+            },
+            {
+                "id": "v2.4",
+                "versicle_number": 4,
+                "text": "Mas, como fomos aprovados de Deus para que o evangelho nos fosse confiado, assim falamos, não como para agradar aos homens, mas a Deus, que prova os nossos corações."
+            },
+            {
+                "id": "v2.5",
+                "versicle_number": 5,
+                "text": "Porque, como bem sabeis, nunca usamos de palavras lisonjeiras, nem houve um pretexto de avareza; Deus é testemunha;"
+            },
+            {
+                "id": "v2.6",
+                "versicle_number": 6,
+                "text": "E não buscamos glória dos homens, nem de vós, nem de outros, ainda que podíamos, como apóstolos de Cristo, ser-vos pesados;"
+            },
+            {
+                "id": "v2.7",
+                "versicle_number": 7,
+                "text": "Antes fomos brandos entre vós, como a ama que cria seus filhos."
+            },
+            {
+                "id": "v2.8",
+                "versicle_number": 8,
+                "text": "Assim nós, sendo-vos tão afeiçoados, de boa vontade quiséramos comunicar-vos, não somente o evangelho de Deus, mas ainda as nossas próprias almas; porquanto nos éreis muito queridos."
+            },
+            {
+                "id": "v2.9",
+                "versicle_number": 9,
+                "text": "Porque bem vos lembrais, irmãos, do nosso trabalho e fadiga; pois, trabalhando noite e dia, para não sermos pesados a nenhum de vós, vos pregamos o evangelho de Deus."
+            },
+            {
+                "id": "v2.10",
+                "versicle_number": 10,
+                "text": "Vós e Deus sois testemunhas de quão santa, e justa, e irrepreensivelmente nos houvemos para convosco, os que crestes."
+            },
+            {
+                "id": "v2.11",
+                "versicle_number": 11,
+                "text": "Assim como bem sabeis de que modo vos exortávamos e consolávamos, a cada um de vós, como o pai a seus filhos;"
+            },
+            {
+                "id": "v2.12",
+                "versicle_number": 12,
+                "text": "Para que vos conduzísseis dignamente para com Deus, que vos chama para o seu reino e glória."
+            },
+            {
+                "id": "v2.13",
+                "versicle_number": 13,
+                "text": "Pelo que também damos sem cessar graças a Deus, pois, havendo recebido de nós a palavra da pregação de Deus, a recebestes, não como palavra de homens, mas (segundo é, na verdade), como palavra de Deus, a qual também opera em vós, os que crestes."
+            },
+            {
+                "id": "v2.14",
+                "versicle_number": 14,
+                "text": "Porque vós, irmãos, haveis sido feitos imitadores das igrejas de Deus que na Judeia estão em Jesus Cristo; porquanto também padecestes de vossos próprios concidadãos{note:3} o mesmo que os judeus lhes fizeram a eles,"
+            },
+            {
+                "id": "v2.15",
+                "versicle_number": 15,
+                "text": "Os quais também mataram o Senhor Jesus e os seus próprios profetas, e nos têm perseguido, e não agradam a Deus, e são contrários a todos os homens."
+            },
+            {
+                "id": "v2.16",
+                "versicle_number": 16,
+                "text": "E nos impedem de pregar aos gentios as palavras da salvação, a fim de encherem sempre a medida de seus pecados; mas a ira de Deus caiu sobre eles até ao fim.{note:4}"
+            },
+            {
+                "id": "v2.17",
+                "versicle_number": 17,
+                "text": "Nós, porém, irmãos, sendo privados de vós por um momento de tempo, de vista, mas não do coração, tanto mais procuramos com grande desejo ver o vosso rosto."
+            },
+            {
+                "id": "v2.18",
+                "versicle_number": 18,
+                "text": "Pelo que bem quisemos uma e outra vez ir ter convosco, pelo menos eu, Paulo, mas Satanás no-lo impediu."
+            },
+            {
+                "id": "v2.19",
+                "versicle_number": 19,
+                "text": "Porque, qual é a nossa esperança, ou gozo, ou coroa de glória? Porventura não o sois vós também diante de nosso Senhor Jesus Cristo em sua vinda?"
+            },
+            {
+                "id": "v2.20",
+                "versicle_number": 20,
+                "text": "Na verdade vós sois a nossa glória e gozo."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v2.17",
+                "text": "O desejo de Paulo de voltar a Tessalônica; seu gozo e seus votos em vista das boas novas que Timóteo lhe trouxe"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 2.2 At 16.19-24 {note:2} 2.2 At 17.1-9"
+            },
+            {
+                "id": "n2",
+                "text": "{note:3} 2.14 At 17.5"
+            },
+            {
+                "id": "n3",
+                "text": "{note:4} 2.15-16 At 9.23,29; 13.45,50; 14.2,5,19; 17.5,13; 18.12"
+            }
+        ]
+    }
+}

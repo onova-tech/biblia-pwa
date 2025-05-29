@@ -1,0 +1,155 @@
+{
+    "book": {
+        "id": "2Sm",
+        "book_number": 10,
+        "new_testament": false,
+        "num_chapters": 24,
+        "book_name": "SAMUEL",
+        "book_full_name": "O SEGUNDO LIVRO DE SAMUEL"
+    },
+    "chapter": {
+        "chapter_number": 6,
+        "chapter_reference": "",
+        "chapter_title": "Davi traz a arca para Jerusalém",
+        "versicles": [
+            {
+                "id": "v6.1",
+                "versicle_number": 1,
+                "text": "E TORNOU Davi a ajuntar todos os escolhidos de Israel, em número de trinta mil."
+            },
+            {
+                "id": "v6.2",
+                "versicle_number": 2,
+                "text": "E levantou-se Davi, e partiu com todo o povo que tinha consigo de Baalim de Judá, para levarem dali para cima a arca de Deus, sobre a qual se invoca o nome, o nome do Senhor dos exércitos, que se assenta entre os querubins.{note:1}"
+            },
+            {
+                "id": "v6.3",
+                "versicle_number": 3,
+                "text": "E puseram a arca de Deus em um carro novo, e a levaram da casa de Abinadabe,{note:2} que está em Gibeá: e Uza e Aío, filhos de Abinadabe; guiavam o carro novo."
+            },
+            {
+                "id": "v6.4",
+                "versicle_number": 4,
+                "text": "E levando-o da casa de Abinadabe, que está em Gibeá, com a arca de Deus, Aío ia adiante da arca."
+            },
+            {
+                "id": "v6.5",
+                "versicle_number": 5,
+                "text": "E Davi, e toda a casa de Israel, alegravam-se perante o Senhor, com toda a sorte de instrumentos de pau de faia: como com harpas, e com saltérios, e com tamboris, e com pandeiros, e com címbalos."
+            },
+            {
+                "id": "v6.6",
+                "versicle_number": 6,
+                "text": "E, chegando à eira de Nacom, estendeu Uza a mão à arca de Deus, e teve mão nela; porque os bois a deixavam pender."
+            },
+            {
+                "id": "v6.7",
+                "versicle_number": 7,
+                "text": "Então a ira do Senhor se acendeu contra Uza, e Deus o feriu ali por esta imprudência: e morreu ali junto à arca de Deus."
+            },
+            {
+                "id": "v6.8",
+                "versicle_number": 8,
+                "text": "E Davi se contristou, porque o Senhor abrira rotura em Uzá; e chamou aquele lugar {note:c}Perez-Uzá, até ao dia de hoje."
+            },
+            {
+                "id": "v6.9",
+                "versicle_number": 9,
+                "text": "E temeu Davi ao Senhor naquele dia; e disse: Como virá a mim a arca do Senhor?"
+            },
+            {
+                "id": "v6.10",
+                "versicle_number": 10,
+                "text": "E não quis Davi retirar para si a arca do Senhor, para a cidade de Davi; mas Davi a fez levar à casa de Obede-Edom, o geteu."
+            },
+            {
+                "id": "v6.11",
+                "versicle_number": 11,
+                "text": "E ficou a arca do Senhor em casa de Obede-Edom, o geteu, três meses: e abençoou{note:3} o Senhor a Obede-Edom, e a toda a sua casa."
+            },
+            {
+                "id": "v6.12",
+                "versicle_number": 12,
+                "text": "Então avisaram a Davi, dizendo: Abençoou o Senhor a casa de Obede-Edom, e tudo quanto tem, por amor da arca de Deus: foi pois Davi, e trouxe a arca de Deus para cima, da casa de Obede-Edom, à cidade de Davi, com alegria."
+            },
+            {
+                "id": "v6.13",
+                "versicle_number": 13,
+                "text": "E sucedeu que, quando os que levavam a arca do Senhor tinham dado seis passos, sacrificava bois e carneiros cevados."
+            },
+            {
+                "id": "v6.14",
+                "versicle_number": 14,
+                "text": "E Davi saltava com todas as suas forças diante do Senhor: e estava Davi cingido dum éfode de linho."
+            },
+            {
+                "id": "v6.15",
+                "versicle_number": 15,
+                "text": "Assim subindo, levavam Davi e todo o Israel a arca do Senhor, com júbilo, e ao som das trombetas."
+            },
+            {
+                "id": "v6.16",
+                "versicle_number": 16,
+                "text": "E sucedeu que, entrando a arca do Senhor na cidade de Davi Mical, a filha de Saul, estava olhando pela janela: e, vendo ao rei Davi, que ia bailando e saltando diante do Senhor, o desprezou no seu coração."
+            },
+            {
+                "id": "v6.17",
+                "versicle_number": 17,
+                "text": "E introduzindo a arca do Senhor, a puseram no seu lugar, na tenda que Davi lhe armara: e ofereceu Davi holocaustos e ofertas pacíficas perante o Senhor."
+            },
+            {
+                "id": "v6.18",
+                "versicle_number": 18,
+                "text": "E acabando Davi de oferecer os holocaustos e ofertas pacíficas, abençoou o povo em nome do Senhor dos exércitos."
+            },
+            {
+                "id": "v6.19",
+                "versicle_number": 19,
+                "text": "E repartiu a todo o povo, e a toda a multidão de Israel, desde os homens até às mulheres, a cada um, um bolo de pão, e um bom pedaço de carne, e um frasco de vinho: então foi-se todo o povo, cada um para sua casa."
+            },
+            {
+                "id": "v6.20",
+                "versicle_number": 20,
+                "text": "E, voltando Davi para abençoar a sua casa, Mical, a filha de Saul, saiu a encontrar-se com Davi e disse: Quão honrado foi o rei de Israel, descobrindo-se hoje aos olhos das servas de seus servos, como sem pejo se descobre qualquer dos vadios.{note:4}"
+            },
+            {
+                "id": "v6.21",
+                "versicle_number": 21,
+                "text": "Disse porém Davi a Mical: Perante o Senhor que me escolheu a mim antes do que a teu pai, e a toda a sua casa, mandando-me que fosse chefe sobre o povo do Senhor, sobre Israel: perante o Senhor me tenho alegrado."
+            },
+            {
+                "id": "v6.22",
+                "versicle_number": 22,
+                "text": "E ainda mais do que isto me envilecerei, e me humilharei aos meus olhos: e das servas, de quem falaste, delas serei honrado."
+            },
+            {
+                "id": "v6.23",
+                "versicle_number": 23,
+                "text": "E Mical, a filha de Saul, não teve filhos, até ao dia da sua morte."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 6.2 Êx 25.22"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 6.3 1Sm 7.1-2"
+            },
+            {
+                "id": "n3",
+                "text": "{note:c} 6.8 que é a rotura de Uzá"
+            },
+            {
+                "id": "n4",
+                "text": "{note:3} 6.11 1Cr 26.5"
+            },
+            {
+                "id": "n5",
+                "text": "{note:4} 6.19-20 1Cr 16.43"
+            }
+        ]
+    }
+}

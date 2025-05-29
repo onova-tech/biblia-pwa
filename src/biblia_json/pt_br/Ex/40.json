@@ -1,0 +1,220 @@
+{
+    "book": {
+        "id": "Ex",
+        "book_number": 2,
+        "new_testament": false,
+        "num_chapters": 40,
+        "book_name": "ÊXODO",
+        "book_full_name": "O SEGUNDO LIVRO DE MOISÉS ÊXODO"
+    },
+    "chapter": {
+        "chapter_number": 40,
+        "chapter_reference": "",
+        "chapter_title": "Deus manda Moisés levantar o tabernáculo",
+        "versicles": [
+            {
+                "id": "v40.1",
+                "versicle_number": 1,
+                "text": "FALOU mais o Senhor a Moisés, dizendo:"
+            },
+            {
+                "id": "v40.2",
+                "versicle_number": 2,
+                "text": "No primeiro mês, no primeiro dia do mês, levantarás o tabernáculo da tenda da congregação,"
+            },
+            {
+                "id": "v40.3",
+                "versicle_number": 3,
+                "text": "E porás nele a arca do testemunho, e cobrirás a arca com o véu."
+            },
+            {
+                "id": "v40.4",
+                "versicle_number": 4,
+                "text": "Depois meterás nele a mesa, e porás em ordem o que se deve pôr em ordem nela; também meterás nele o castiçal, e acenderás as suas lâmpadas."
+            },
+            {
+                "id": "v40.5",
+                "versicle_number": 5,
+                "text": "E porás o altar de ouro para o incenso diante da arca do testemunho: então pendurarás a coberta da porta do tabernáculo."
+            },
+            {
+                "id": "v40.6",
+                "versicle_number": 6,
+                "text": "Porás também o altar do holocausto diante da porta do tabernáculo da tenda da congregação."
+            },
+            {
+                "id": "v40.7",
+                "versicle_number": 7,
+                "text": "E porás a pia entre a tenda da congregação e o altar, e nela porás água."
+            },
+            {
+                "id": "v40.8",
+                "versicle_number": 8,
+                "text": "Depois porás o pátio ao redor, e pendurarás a coberta à porta do pátio."
+            },
+            {
+                "id": "v40.9",
+                "versicle_number": 9,
+                "text": "Então tomarás o azeite da unção, e ungirás o tabernáculo, e tudo o que há nele: e o santificarás com todos os seus vasos e será santo."
+            },
+            {
+                "id": "v40.10",
+                "versicle_number": 10,
+                "text": "Ungirás também o altar do holocausto, e a todos os seus vasos; e santificarás o altar; e o altar será uma cousa santíssima."
+            },
+            {
+                "id": "v40.11",
+                "versicle_number": 11,
+                "text": "Então ungirás a pia e a sua base, e a santificarás."
+            },
+            {
+                "id": "v40.12",
+                "versicle_number": 12,
+                "text": "Farás também chegar Aarão e seus filhos à porta da tenda da congregação, e os lavarás com água."
+            },
+            {
+                "id": "v40.13",
+                "versicle_number": 13,
+                "text": "E vestirás a Aarão os vestidos santos, e o ungirás, e o santificarás, para que me administre o sacerdócio."
+            },
+            {
+                "id": "v40.14",
+                "versicle_number": 14,
+                "text": "Também farás chegar seus filhos, e lhes vestirás as túnicas,"
+            },
+            {
+                "id": "v40.15",
+                "versicle_number": 15,
+                "text": "E os ungirás como ungiste a seu pai, para que me administrem o sacerdócio, e a sua unção lhes será por sacerdócio perpétuo nas suas gerações."
+            },
+            {
+                "id": "v40.16",
+                "versicle_number": 16,
+                "text": "E fê-lo Moisés: conforme a tudo o que o Senhor lhe ordenou, assim o fez."
+            },
+            {
+                "id": "v40.17",
+                "versicle_number": 17,
+                "text": "E aconteceu no mês primeiro, no ano segundo, ao primeiro do mês, que o tabernáculo foi levantado;"
+            },
+            {
+                "id": "v40.18",
+                "versicle_number": 18,
+                "text": "Porque Moisés levantou o tabernáculo, e pôs as suas bases, e armou as suas tábuas, e meteu nele os seus varais, e levantou as suas colunas;"
+            },
+            {
+                "id": "v40.19",
+                "versicle_number": 19,
+                "text": "E estendeu a tenda sobre o tabernáculo, e pôs a coberta da tenda sobre ela, em cima, como o Senhor ordenara a Moisés."
+            },
+            {
+                "id": "v40.20",
+                "versicle_number": 20,
+                "text": "E tomou o testemunho, e pô-lo na arca, e meteu os varais à arca; e pôs o propiciatório sobre a arca, em cima."
+            },
+            {
+                "id": "v40.21",
+                "versicle_number": 21,
+                "text": "E levou a arca ao tabernáculo, e pendurou o véu da cobertura, e cobriu a arca do testemunho, como o Senhor ordenara a Moisés."
+            },
+            {
+                "id": "v40.22",
+                "versicle_number": 22,
+                "text": "Pôs também a mesa na tenda da congregação, ao lado do tabernáculo para o norte, fora do véu."
+            },
+            {
+                "id": "v40.23",
+                "versicle_number": 23,
+                "text": "E sobre ela pôs em ordem o pão perante o Senhor, como o Senhor ordenara a Moisés."
+            },
+            {
+                "id": "v40.24",
+                "versicle_number": 24,
+                "text": "Pôs também na tenda da congregação o castiçal defronte da mesa, ao lado do tabernáculo para o sul,"
+            },
+            {
+                "id": "v40.25",
+                "versicle_number": 25,
+                "text": "E acendeu as lâmpadas perante o Senhor, como o Senhor ordenara a Moisés."
+            },
+            {
+                "id": "v40.26",
+                "versicle_number": 26,
+                "text": "E pôs o altar de ouro na tenda da congregação, diante do véu."
+            },
+            {
+                "id": "v40.27",
+                "versicle_number": 27,
+                "text": "E acendeu sobre ele o incenso de especiarias aromáticas, como o Senhor ordenara a Moisés."
+            },
+            {
+                "id": "v40.28",
+                "versicle_number": 28,
+                "text": "Pendurou também a coberta da porta do tabernáculo,"
+            },
+            {
+                "id": "v40.29",
+                "versicle_number": 29,
+                "text": "E pôs o altar do holocausto à porta do tabernáculo da tenda da congregação, e ofereceu sobre ele holocausto e oferta de manjares, como o Senhor ordenara a Moisés."
+            },
+            {
+                "id": "v40.30",
+                "versicle_number": 30,
+                "text": "Pôs também a pia entre a tenda da congregação e o altar, e derramou água nela, para lavar."
+            },
+            {
+                "id": "v40.31",
+                "versicle_number": 31,
+                "text": "E Moisés, e Aarão e seus filhos lavaram nela as suas mãos e os seus pés."
+            },
+            {
+                "id": "v40.32",
+                "versicle_number": 32,
+                "text": "Quando entravam na tenda da congregação, e quando chegavam ao altar, lavavam-se, como o Senhor ordenara a Moisés."
+            },
+            {
+                "id": "v40.33",
+                "versicle_number": 33,
+                "text": "Levantou também o pátio ao redor do tabernáculo e do altar, e pendurou a coberta da porta do pátio. Assim Moisés acabou a obra."
+            },
+            {
+                "id": "v40.34",
+                "versicle_number": 34,
+                "text": "Então a nuvem cobriu a tenda da congregação, e a glória do Senhor encheu o tabernáculo:"
+            },
+            {
+                "id": "v40.35",
+                "versicle_number": 35,
+                "text": "De maneira que Moisés não podia entrar na tenda da congregação, porquanto a nuvem ficava sobre ela, e a glória do Senhor enchia o tabernáculo."
+            },
+            {
+                "id": "v40.36",
+                "versicle_number": 36,
+                "text": "Quando pois a nuvem se levantava de sobre o tabernáculo, então os filhos de Israel caminhavam em todas as suas jornadas."
+            },
+            {
+                "id": "v40.37",
+                "versicle_number": 37,
+                "text": "Se a nuvem porém não se levantava, não caminhavam até ao dia em que ela se levantava;"
+            },
+            {
+                "id": "v40.38",
+                "versicle_number": 38,
+                "text": "Porquanto a nuvem do Senhor estava de dia sobre o tabernáculo, e o fogo estava de noite sobre ele, perante os olhos de toda a casa de Israel, em todas as suas jornadas."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v40.17",
+                "text": "O tabernáculo é levantado"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v40.34",
+                "text": "A nuvem cobre o tabernáculo"
+            }
+        ],
+        "notes": []
+    }
+}

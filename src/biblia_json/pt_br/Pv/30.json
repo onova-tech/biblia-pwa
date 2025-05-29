@@ -1,0 +1,193 @@
+{
+    "book": {
+        "id": "Pv",
+        "book_number": 20,
+        "new_testament": false,
+        "num_chapters": 31,
+        "book_name": "PROVÉRBIOS",
+        "book_full_name": "DE SALOMÃO PROVÉRBIOS"
+    },
+    "chapter": {
+        "chapter_number": 30,
+        "chapter_reference": "",
+        "chapter_title": "As palavras de Agur",
+        "versicles": [
+            {
+                "id": "v30.1",
+                "versicle_number": 1,
+                "text": "PALAVRAS de Agur, filho de Jaque, o oráculo. Disse este varão a Itiel; a Itiel e a Ucal:"
+            },
+            {
+                "id": "v30.2",
+                "versicle_number": 2,
+                "text": "Na verdade que eu sou mais bruto do que ninguém; não tenho o entendimento do homem."
+            },
+            {
+                "id": "v30.3",
+                "versicle_number": 3,
+                "text": "Nem aprendi a sabedoria, nem tenho o conhecimento do Santo."
+            },
+            {
+                "id": "v30.4",
+                "versicle_number": 4,
+                "text": "Quem subiu ao céu e desceu? quem encerrou os ventos nos seus punhos? quem amarrou as águas na sua roupa? quem estabeleceu todas as extremidades da terra? qual é o seu nome, e qual é o nome de seu filho, se é que o sabes?"
+            },
+            {
+                "id": "v30.5",
+                "versicle_number": 5,
+                "text": "Toda a palavra de Deus é pura; escudo é para os que confiam nele."
+            },
+            {
+                "id": "v30.6",
+                "versicle_number": 6,
+                "text": "Nada acrescentes às suas palavras, para que não te repreenda e sejas achado mentiroso."
+            },
+            {
+                "id": "v30.7",
+                "versicle_number": 7,
+                "text": "Duas cousas te pedi: não mas negues, antes que morra:"
+            },
+            {
+                "id": "v30.8",
+                "versicle_number": 8,
+                "text": "Afasta de mim a vaidade e a palavra mentirosa; não me dês nem a pobreza nem a riqueza: mantém-me do pão da minha porção acostumada;"
+            },
+            {
+                "id": "v30.9",
+                "versicle_number": 9,
+                "text": "Para que porventura de farto te não negue, e diga: Quem é o Senhor? ou que, empobrecendo, não venha a furtar, e lance mão do nome de Deus."
+            },
+            {
+                "id": "v30.10",
+                "versicle_number": 10,
+                "text": "Não calunies o servo diante de seu senhor, para que te não amaldiçoe e fiques culpado."
+            },
+            {
+                "id": "v30.11",
+                "versicle_number": 11,
+                "text": "Há uma geração que amaldiçoa a seu pai, e que não bendiz a sua mãe."
+            },
+            {
+                "id": "v30.12",
+                "versicle_number": 12,
+                "text": "Há uma geração que é pura aos seus olhos, e que nunca foi lavada da sua imundícia."
+            },
+            {
+                "id": "v30.13",
+                "versicle_number": 13,
+                "text": "Há uma geração cujos olhos são altivos, e cujas pálpebras são levantadas para cima."
+            },
+            {
+                "id": "v30.14",
+                "versicle_number": 14,
+                "text": "Há uma geração cujos dentes são espadas, e cujos queixais são facas, para consumirem na terra os aflitos, e os necessitados entre os homens."
+            },
+            {
+                "id": "v30.15",
+                "versicle_number": 15,
+                "text": "A sanguessuga tem duas filhas, a saber: Dá, Dá. Estas três cousas nunca se fartam; e quatro nunca dizem: Basta."
+            },
+            {
+                "id": "v30.16",
+                "versicle_number": 16,
+                "text": "A sepultura; a madre estéril; a terra que se não farta de água; e o fogo, nunca dizem: Basta."
+            },
+            {
+                "id": "v30.17",
+                "versicle_number": 17,
+                "text": "Os olhos que zombam do pai, ou desprezam a obediência da mãe, corvos do ribeiro os arrancarão e os pintãos da águia os comerão."
+            },
+            {
+                "id": "v30.18",
+                "versicle_number": 18,
+                "text": "Há três cousas que me maravilham; e a quarta não a conheço:"
+            },
+            {
+                "id": "v30.19",
+                "versicle_number": 19,
+                "text": "O caminho da águia no céu; o caminho da cobra na penha; o caminho do navio no meio do mar; e o caminho do homem com uma virgem."
+            },
+            {
+                "id": "v30.20",
+                "versicle_number": 20,
+                "text": "Tal é o caminho da mulher adúltera: ela come, e limpa a sua boca, e diz: Não cometi maldade."
+            },
+            {
+                "id": "v30.21",
+                "versicle_number": 21,
+                "text": "Por três cousas se alvoroça a terra, e a quarta não a pode suportar:"
+            },
+            {
+                "id": "v30.22",
+                "versicle_number": 22,
+                "text": "Pelo servo, quando reina; e pelo tolo, quando anda farto de pão:"
+            },
+            {
+                "id": "v30.23",
+                "versicle_number": 23,
+                "text": "Pela mulher aborrecida, quando se casa; e pela serva, quando fica herdeira da sua senhora."
+            },
+            {
+                "id": "v30.24",
+                "versicle_number": 24,
+                "text": "Estas quatro cousas são das mais pequenas da terra, mas sábias, bem-providas de sabedoria:"
+            },
+            {
+                "id": "v30.25",
+                "versicle_number": 25,
+                "text": "As formigas são um povo impotente; todavia no verão preparam a sua comida;"
+            },
+            {
+                "id": "v30.26",
+                "versicle_number": 26,
+                "text": "Os coelhos são um povo débil; e contudo fazem a sua casa nas rochas;"
+            },
+            {
+                "id": "v30.27",
+                "versicle_number": 27,
+                "text": "Os gafanhotos não têm rei; e contudo todos saem, e em bandos se repartem;"
+            },
+            {
+                "id": "v30.28",
+                "versicle_number": 28,
+                "text": "A {note:t}aranha apanha com as mãos, e está nos paços dos reis."
+            },
+            {
+                "id": "v30.29",
+                "versicle_number": 29,
+                "text": "Há três que têm um bom andar, e o quarto passeia muito bem:"
+            },
+            {
+                "id": "v30.30",
+                "versicle_number": 30,
+                "text": "O leão, o mais forte entre os animais, que por ninguém torna atrás:"
+            },
+            {
+                "id": "v30.31",
+                "versicle_number": 31,
+                "text": "O {note:u}cavalo de guerra, bem-cingido pelos lombos: e o bode também: e o rei a quem se não pode resistir."
+            },
+            {
+                "id": "v30.32",
+                "versicle_number": 32,
+                "text": "Se obraste loucamente, elevando-te, e se imaginaste o mal, põe a mão na boca."
+            },
+            {
+                "id": "v30.33",
+                "versicle_number": 33,
+                "text": "Porque o espremer do leite produz manteiga, e o espremer do nariz produz sangue, e o espremer da ira produz contenda."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:t} 30.28 ou lagartixa"
+            },
+            {
+                "id": "n2",
+                "text": "{note:u} 30.31 ou o cão de caça"
+            }
+        ]
+    }
+}

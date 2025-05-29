@@ -1,0 +1,149 @@
+{
+    "book": {
+        "id": "1Sm",
+        "book_number": 9,
+        "new_testament": false,
+        "num_chapters": 31,
+        "book_name": "SAMUEL",
+        "book_full_name": "O PRIMEIRO LIVRO DE SAMUEL"
+    },
+    "chapter": {
+        "chapter_number": 26,
+        "chapter_reference": "",
+        "chapter_title": "Davi poupa outra vez a vida de Saul",
+        "versicles": [
+            {
+                "id": "v26.1",
+                "versicle_number": 1,
+                "text": "E VIERAM os zifeus{note:1} a Saul, a Gibeá dizendo: Não está Davi escondido no outeiro de Háquila, à entrada de Jesimom?"
+            },
+            {
+                "id": "v26.2",
+                "versicle_number": 2,
+                "text": "Então Saul se levantou, e desceu ao deserto de Zife, e com ele três mil homens escolhidos de Israel, a buscar a Davi no deserto de Zife."
+            },
+            {
+                "id": "v26.3",
+                "versicle_number": 3,
+                "text": "E acampou-se Saul no outeiro de Háquila, que está à entrada de Jesimom, junto ao caminho: porém Davi ficou no deserto, e viu que Saul vinha após dele ao deserto."
+            },
+            {
+                "id": "v26.4",
+                "versicle_number": 4,
+                "text": "Pois Davi enviou espias, e soube que Saul vinha decerto."
+            },
+            {
+                "id": "v26.5",
+                "versicle_number": 5,
+                "text": "E Davi se levantou, e veio ao lugar onde Saul se tinha acampado; viu Davi o lugar onde se tinha deitado Saul, e Abner, filho de Ner, chefe do seu exército: e Saul estava deitado dentro do lugar dos carros, e o povo estava acampado ao redor dele."
+            },
+            {
+                "id": "v26.6",
+                "versicle_number": 6,
+                "text": "E respondeu Davi, e falou a Aquimeleque, o heteu, e a Abisai, filho de Zeruia, irmão de Joabe, dizendo: Quem descerá comigo a Saul ao arraial? E disse Abisai: Eu descerei contigo."
+            },
+            {
+                "id": "v26.7",
+                "versicle_number": 7,
+                "text": "Vieram pois Davi e Abisai de noite ao povo, e eis que Saul estava deitado, dormindo dentro do lugar dos carros, e a sua lança estava pregada na terra à sua cabeceira: e Abner e o povo estavam deitados ao redor dele."
+            },
+            {
+                "id": "v26.8",
+                "versicle_number": 8,
+                "text": "Então disse Abisai a Davi: Deus te entregou hoje nas mãos a teu inimigo; deixa-mo pois agora encravar com a lança duma vez na terra, e não o ferirei segunda vez."
+            },
+            {
+                "id": "v26.9",
+                "versicle_number": 9,
+                "text": "E disse Davi a Abisai: Nenhum dano lhe faças: porque quem estendeu a sua mão contra o ungido do Senhor, e ficou inocente?"
+            },
+            {
+                "id": "v26.10",
+                "versicle_number": 10,
+                "text": "Disse mais Davi: Vive o Senhor, que o Senhor o ferirá, ou o seu dia chegará em que morra, ou descerá para a batalha e perecerá;"
+            },
+            {
+                "id": "v26.11",
+                "versicle_number": 11,
+                "text": "O Senhor me guarde, de que eu estenda a mão contra o ungido do Senhor: agora porém toma lá a lança que está à sua cabeceira e a bilha da água, e vamo-nos."
+            },
+            {
+                "id": "v26.12",
+                "versicle_number": 12,
+                "text": "Tomou pois Davi a lança e a bilha da água, da cabeceira de Saul, e foram-se: e ninguém houve que o visse, nem que o advertisse nem que acordasse; porque todos estavam dormindo pois havia caído sobre eles um profundo sono do Senhor."
+            },
+            {
+                "id": "v26.13",
+                "versicle_number": 13,
+                "text": "E Davi, passando à outra banda, pôs-se no cume do monte ao longe, de maneira que entre eles havia grande distância."
+            },
+            {
+                "id": "v26.14",
+                "versicle_number": 14,
+                "text": "E Davi bradou ao povo, e a Abner, filho de Ner, dizendo: Não responderás, Abner? Então Abner respondeu e disse: Quem és tu, que bradas ao rei?"
+            },
+            {
+                "id": "v26.15",
+                "versicle_number": 15,
+                "text": "Então disse Davi a Abner: Porventura não és varão? e quem há em Israel como tu, porque, pois, não guardaste tu o rei teu senhor? porque um do povo veio para destruir o rei teu senhor."
+            },
+            {
+                "id": "v26.16",
+                "versicle_number": 16,
+                "text": "Não é bom isto, que fizeste; vive o Senhor, que sois dignos de morte, vós que não guardastes a vosso senhor, o ungido do Senhor: vede pois agora onde está a lança do rei, e a bilha da água, que tinha à sua cabeceira."
+            },
+            {
+                "id": "v26.17",
+                "versicle_number": 17,
+                "text": "Então conheceu Saul a voz de Davi, e disse: Não é esta a tua voz, meu filho Davi? E disse Davi: Minha voz é, ó rei meu senhor."
+            },
+            {
+                "id": "v26.18",
+                "versicle_number": 18,
+                "text": "Disse mais: Por que persegue o meu senhor assim o seu servo? pois que fiz eu? e que maldade se acha nas minhas mãos?"
+            },
+            {
+                "id": "v26.19",
+                "versicle_number": 19,
+                "text": "Ouve pois agora, te rogo, rei meu senhor, as palavras de teu servo: Se o senhor te incita contra mim, cheire ele a oferta de manjares: porém se são os filhos dos homens, malditos sejam perante o Senhor: pois eles me têm repelido hoje para que eu não fique apegado à herança do Senhor, dizendo: Vai, serve a outros deuses."
+            },
+            {
+                "id": "v26.20",
+                "versicle_number": 20,
+                "text": "Agora pois não se derrame o meu sangue na terra diante do Senhor: pois saiu o rei de Israel em busca de uma pulga; como quem persegue uma perdiz nos montes."
+            },
+            {
+                "id": "v26.21",
+                "versicle_number": 21,
+                "text": "Então disse Saul: Pequei; volta, meu filho Davi, porque não mandarei fazer-te mal; porque foi hoje preciosa a minha vida aos teus olhos: eis que procedi loucamente e errei grandissimamente."
+            },
+            {
+                "id": "v26.22",
+                "versicle_number": 22,
+                "text": "Davi então respondeu, e disse: Eis aqui a lança do rei; passe cá um dos mancebos, e leve-a."
+            },
+            {
+                "id": "v26.23",
+                "versicle_number": 23,
+                "text": "O Senhor porém pague a cada um a sua justiça e a sua lealdade; pois o Senhor te tinha dado hoje na minha mão, porém não quis estender a minha mão contra o ungido do Senhor."
+            },
+            {
+                "id": "v26.24",
+                "versicle_number": 24,
+                "text": "E eis que assim como foi a tua vida hoje de tanta estima aos meus olhos, doutra tanta estima seja a minha vida aos olhos do Senhor, e ele me livre de toda a tribulação."
+            },
+            {
+                "id": "v26.25",
+                "versicle_number": 25,
+                "text": "Então Saul disse a Davi: Bendito sejas tu, meu filho Davi; pois grandes cousas farás e também prevalecerás. Então Davi se foi pelo seu caminho e Saul voltou para o seu lugar."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 26.1 Sl 54, título"
+            }
+        ]
+    }
+}

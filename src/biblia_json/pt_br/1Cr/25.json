@@ -1,0 +1,174 @@
+{
+    "book": {
+        "id": "1Cr",
+        "book_number": 13,
+        "new_testament": false,
+        "num_chapters": 29,
+        "book_name": "CRÔNICAS",
+        "book_full_name": "O PRIMEIRO LIVRO DAS CRÔNICAS"
+    },
+    "chapter": {
+        "chapter_number": 25,
+        "chapter_reference": "",
+        "chapter_title": "Funções dos cantores em seus turnos",
+        "versicles": [
+            {
+                "id": "v25.1",
+                "versicle_number": 1,
+                "text": "E DAVI, juntamente com os capitães do exército, separou para o ministério os filhos de Asafe, e de Hemã, e de Jedutum, para profetizarem com harpas, com alaúdes, e com saltérios: e este foi o número dos homens aptos para a obra do seu ministério."
+            },
+            {
+                "id": "v25.2",
+                "versicle_number": 2,
+                "text": "Dos filhos de Asafe: foram Zacur, e José, e Netanias, e Asarela, filhos de Asafe: a cargo de Asafe, que profetizava debaixo da direção do rei Davi."
+            },
+            {
+                "id": "v25.3",
+                "versicle_number": 3,
+                "text": "Quanto a Jedutum, foram os filhos de Jedutum: Gedalias, e Zeri, e Jesaías, e Hasabias, e Matitias, seis, a cargo de seu pai Jedutum, para tanger harpas, o qual profetizava, louvando e dando graças ao Senhor."
+            },
+            {
+                "id": "v25.4",
+                "versicle_number": 4,
+                "text": "Quanto a Hemã: os filhos de Hemã: Buquias, Matanias, Uziel, Sebuel, e Jerimote, Hananias, Hanani, Eliata, Gidalti, e Românti-Ezer, Josbecasa, Maloti, Hotir, e Maaziote."
+            },
+            {
+                "id": "v25.5",
+                "versicle_number": 5,
+                "text": "Todos estes foram filhos de Hemã, o vidente do rei nas palavras de Deus, para exaltar a corneta. Deus dera a Hemã catorze filhos e três filhas."
+            },
+            {
+                "id": "v25.6",
+                "versicle_number": 6,
+                "text": "Todos estes estavam ao lado de seu pai para o canto da casa do Senhor, com saltérios, alaúdes e harpas, para o ministério da casa de Deus; e, ao lado do rei, Asafe, Jedutum, e Hemã."
+            },
+            {
+                "id": "v25.7",
+                "versicle_number": 7,
+                "text": "E era o numero deles, juntamente com seus irmãos instruídos no canto do Senhor, todos eles mestres, duzentos e oitenta e oito."
+            },
+            {
+                "id": "v25.8",
+                "versicle_number": 8,
+                "text": "E deitaram as sortes acerca da guarda igualmente, assim o pequeno como o grande, o mestre juntamente com o discípulo."
+            },
+            {
+                "id": "v25.9",
+                "versicle_number": 9,
+                "text": "Saiu pois a primeira sorte a Asafe, a saber: a José; a segunda a Gedalias; e eram ele, e seus irmãos, e seus filhos, ao todo, doze."
+            },
+            {
+                "id": "v25.10",
+                "versicle_number": 10,
+                "text": "A terceira a Zacur, seus filhos, e seus irmãos; doze."
+            },
+            {
+                "id": "v25.11",
+                "versicle_number": 11,
+                "text": "A quarta a Isri, seus filhos, e seus irmãos; doze."
+            },
+            {
+                "id": "v25.12",
+                "versicle_number": 12,
+                "text": "A quinta a Netanias, seus filhos, e seus irmãos; doze."
+            },
+            {
+                "id": "v25.13",
+                "versicle_number": 13,
+                "text": "A sexta a Buquias, seus filhos, e seus irmãos; doze."
+            },
+            {
+                "id": "v25.14",
+                "versicle_number": 14,
+                "text": "A sétima a Jesarela, seus filhos, e seus irmãos; doze."
+            },
+            {
+                "id": "v25.15",
+                "versicle_number": 15,
+                "text": "A oitava a Jesaías, seus filhos, e seus irmãos; doze."
+            },
+            {
+                "id": "v25.16",
+                "versicle_number": 16,
+                "text": "A nona a Matanias, seus filhos, e seus irmãos; doze."
+            },
+            {
+                "id": "v25.17",
+                "versicle_number": 17,
+                "text": "A décima a Simei, seus filhos, e seus irmãos; doze."
+            },
+            {
+                "id": "v25.18",
+                "versicle_number": 18,
+                "text": "A undécima a Azareel, seus filhos, e seus irmãos; doze."
+            },
+            {
+                "id": "v25.19",
+                "versicle_number": 19,
+                "text": "A duodécima a Hasabias, seus filhos, e seus irmãos; doze."
+            },
+            {
+                "id": "v25.20",
+                "versicle_number": 20,
+                "text": "A décima terceira a Subael, seus filhos, e seus irmãos; doze."
+            },
+            {
+                "id": "v25.21",
+                "versicle_number": 21,
+                "text": "A décima quarta a Matitias, seus filhos, e seus irmãos; doze."
+            },
+            {
+                "id": "v25.22",
+                "versicle_number": 22,
+                "text": "A décima quinta a Jerimote, seus filhos, e seus irmãos; doze."
+            },
+            {
+                "id": "v25.23",
+                "versicle_number": 23,
+                "text": "A décima sexta a Hananias, seus filhos, e seus irmãos; doze."
+            },
+            {
+                "id": "v25.24",
+                "versicle_number": 24,
+                "text": "A décima sétima a Josbecasa, seus filhos, e seus irmãos; doze."
+            },
+            {
+                "id": "v25.25",
+                "versicle_number": 25,
+                "text": "A décima oitava a Hanani, seus filhos, e seus irmãos; doze."
+            },
+            {
+                "id": "v25.26",
+                "versicle_number": 26,
+                "text": "A décima nona a Maloti, seus filhos, e seus irmãos; doze."
+            },
+            {
+                "id": "v25.27",
+                "versicle_number": 27,
+                "text": "A vigésima a Eliata, seus filhos, e seus irmãos; doze."
+            },
+            {
+                "id": "v25.28",
+                "versicle_number": 28,
+                "text": "A vigésima primeira a Hotir, seus filhos, e seus irmãos; doze."
+            },
+            {
+                "id": "v25.29",
+                "versicle_number": 29,
+                "text": "A vigésima segunda a Gidalti, seus filhos, e seus irmãos; doze."
+            },
+            {
+                "id": "v25.30",
+                "versicle_number": 30,
+                "text": "A vigésima terceira a Maaziote, seus filhos, e seus irmãos; doze."
+            },
+            {
+                "id": "v25.31",
+                "versicle_number": 31,
+                "text": "A vigésima quarta a Românti-Ezer, seus filhos, e seus irmãos; doze."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

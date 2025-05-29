@@ -1,0 +1,149 @@
+{
+    "book": {
+        "id": "Jz",
+        "book_number": 7,
+        "new_testament": false,
+        "num_chapters": 21,
+        "book_name": "JUÍZES",
+        "book_full_name": "O LIVRO DOS JUÍZES"
+    },
+    "chapter": {
+        "chapter_number": 7,
+        "chapter_reference": "",
+        "chapter_title": "Gideão com trezentos homens vence os midianitas",
+        "versicles": [
+            {
+                "id": "v7.1",
+                "versicle_number": 1,
+                "text": "ENTÃO Jerubaal (que é Gideão) se levantou de madrugada, e todo o povo que com ele havia, e se acamparam junto à fonte de Harode; de maneira que tinha o arraial dos midianitas para o norte, pelo outeiro de Moré no vale."
+            },
+            {
+                "id": "v7.2",
+                "versicle_number": 2,
+                "text": "E disse o Senhor a Gideão: Muito é o povo que está contigo, para eu dar aos midianitas em sua mão; a fim de que Israel se não glorie contra mim, dizendo: A minha mão me livrou."
+            },
+            {
+                "id": "v7.3",
+                "versicle_number": 3,
+                "text": "Agora pois apregoa aos ouvidos do povo dizendo: Quem for covarde{note:1} e medroso, volte, e vá-se apressadamente das montanhas de Gileade. Então voltaram do povo vinte e dois mil, e dez mil ficaram."
+            },
+            {
+                "id": "v7.4",
+                "versicle_number": 4,
+                "text": "E disse o Senhor a Gideão: Ainda muito povo há: faze-os descer às águas, e ali tos provarei: e será que aquele de que eu te disser: Este irá contigo, esse contigo irá; porém todo aquele, de que eu te disser: Este não irá contigo, esse não irá."
+            },
+            {
+                "id": "v7.5",
+                "versicle_number": 5,
+                "text": "E fez descer o povo às águas. Então o Senhor disse a Gideão: Qualquer que lamber as águas com a sua língua, como as lambe o cão, esse porás à parte; como também a todo aquele que se abaixar de joelhos a beber."
+            },
+            {
+                "id": "v7.6",
+                "versicle_number": 6,
+                "text": "E foi o número dos que lamberam, levando a mão à boca, trezentos homens; e todo o resto do povo se abaixou de joelhos a beber as águas,"
+            },
+            {
+                "id": "v7.7",
+                "versicle_number": 7,
+                "text": "E disse o Senhor a Gideão: Com estes trezentos homens que lamberam as águas vos livrarei, e darei os midianitas na tua mão; pelo que toda a outra gente se vá cada um ao seu lugar."
+            },
+            {
+                "id": "v7.8",
+                "versicle_number": 8,
+                "text": "E o povo tomou na sua mão a provisão e as suas buzinas, e ele enviou todos os outros homens de Israel cada um à sua tenda, porém os trezentos homens reteve: e estava o arraial dos midianitas abaixo no vale."
+            },
+            {
+                "id": "v7.9",
+                "versicle_number": 9,
+                "text": "E sucedeu que, naquela mesma noite, o Senhor lhe disse: Levanta-te, e desce ao arraial, porque o tenho dado na tua mão."
+            },
+            {
+                "id": "v7.10",
+                "versicle_number": 10,
+                "text": "E, se ainda temes descer, desce tu e teu moço Pura ao arraial;"
+            },
+            {
+                "id": "v7.11",
+                "versicle_number": 11,
+                "text": "E ouvirás o que dizem, e então se esforçarão as tuas mãos e descerás ao arraial. Então desceu ele com o seu moço Pura até ao extremo das sentinelas que estavam no arraial."
+            },
+            {
+                "id": "v7.12",
+                "versicle_number": 12,
+                "text": "E os midianitas, e amalequitas, e todos os filhos do oriente jaziam no vale como gafanhotos em multidão: e eram inumeráveis os seus camelos, como a areia que há na praia do mar em multidão."
+            },
+            {
+                "id": "v7.13",
+                "versicle_number": 13,
+                "text": "Chegando pois Gideão, eis que estava contando um homem ao seu companheiro um sonho, e dizia: Eis que um sonho sonhei, eis que um pão de cevada torrado rodava pelo arraial dos midianitas, e chegava até às tendas, e as feriu, e caíram, e as transtornou de cima para baixo, e ficaram abatidas."
+            },
+            {
+                "id": "v7.14",
+                "versicle_number": 14,
+                "text": "E respondeu o seu companheiro, e disse: Não é isto outra cousa, senão a espada de Gideão, filho de Joás, varão israelita. Deus tem dado na sua mão aos midianitas, e a todo este arraial."
+            },
+            {
+                "id": "v7.15",
+                "versicle_number": 15,
+                "text": "E sucedeu que, ouvindo Gideão a narração deste sonho, e a sua explicação, adorou; e tornou ao arraial de Israel, e disse: Levantai-vos, porque o Senhor tem dado o arraial dos midianitas nas vossas mãos."
+            },
+            {
+                "id": "v7.16",
+                "versicle_number": 16,
+                "text": "Então repartiu os trezentos homens em três esquadrões: e deu-lhes a cada um nas suas mãos buzinas, e cântaros vazios, com tochas neles acesas."
+            },
+            {
+                "id": "v7.17",
+                "versicle_number": 17,
+                "text": "E disse-lhes: Olhai para mim, e fazei como eu fizer: e eis que chegando eu ao extremo do arraial, será que como eu fizer, assim fareis vós."
+            },
+            {
+                "id": "v7.18",
+                "versicle_number": 18,
+                "text": "Tocando eu e todos os que comigo estiverem a buzina, então também vós tocareis a buzina ao redor de todo o arraial, e direis: Pelo Senhor, e Gideão."
+            },
+            {
+                "id": "v7.19",
+                "versicle_number": 19,
+                "text": "Chegou pois Gideão, e os cem homens que com ele iam, ao extremo do arraial, ao princípio da vigília da meia-noite, havendo-se já posto as guardas: e tocaram as buzinas, e partiram os cântaros, que tinham nas mãos."
+            },
+            {
+                "id": "v7.20",
+                "versicle_number": 20,
+                "text": "Assim tocaram os três esquadrões as buzinas, e partiram os cântaros, e tinham nas suas mãos esquerdas as tochas acesas, e nas suas mãos direitas as buzinas, que tocavam; e exclamaram: Espada do Senhor e de Gideão."
+            },
+            {
+                "id": "v7.21",
+                "versicle_number": 21,
+                "text": "E ficou-se cada um no seu lugar ao redor do arraial: então todo o exército deitou a correr, e, gritando, fugiram."
+            },
+            {
+                "id": "v7.22",
+                "versicle_number": 22,
+                "text": "Tocando pois os trezentos as buzinas, o Senhor tornou a espada dum contra o outro e isto em todo o arraial: e o exército fugiu para Zererá, até Bete-Sita, até aos limites de Abel-Meola, acima de Tabate."
+            },
+            {
+                "id": "v7.23",
+                "versicle_number": 23,
+                "text": "Então os homens de Israel, de Naftali, e de Aser e de todo o Manassés foram convocados, e perseguiram aos midianitas."
+            },
+            {
+                "id": "v7.24",
+                "versicle_number": 24,
+                "text": "Também Gideão enviou mensageiros a todas as montanhas de Efraim, dizendo: Descei ao encontro dos midianitas, e tomai-lhes as águas até Bete-Bara, a saber, o Jordão. Convocados pois todos os homens de Efraim, tomaram-lhes as águas até Bete-Bara e Jordão."
+            },
+            {
+                "id": "v7.25",
+                "versicle_number": 25,
+                "text": "E prenderam a dois príncipes dos midianitas, a Orebe e a Zeebe; e mataram a Orebe na penha de Orebe, e a Zeebe mataram no lagar de Zeebe, e perseguiram aos midianitas: e trouxeram as cabeças de Orebe e de Zeebe a Gideão, dalém do Jordão."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 7.3 Dt 20.8"
+            }
+        ]
+    }
+}

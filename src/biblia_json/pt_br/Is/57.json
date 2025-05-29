@@ -1,0 +1,145 @@
+{
+    "book": {
+        "id": "Is",
+        "book_number": 23,
+        "new_testament": false,
+        "num_chapters": 66,
+        "book_name": "ISAÍAS",
+        "book_full_name": "ISAÍAS"
+    },
+    "chapter": {
+        "chapter_number": 57,
+        "chapter_reference": "",
+        "chapter_title": "",
+        "versicles": [
+            {
+                "id": "v57.1",
+                "versicle_number": 1,
+                "text": "PERECE o justo, e não há quem considere isso em seu coração, e os homens compassivos são retirados, sem que alguém considere que o justo é levado antes do mal."
+            },
+            {
+                "id": "v57.2",
+                "versicle_number": 2,
+                "text": "Entrará em paz: descansarão nas suas camas os que houveram andado na sua retidão."
+            },
+            {
+                "id": "v57.3",
+                "versicle_number": 3,
+                "text": "Mas chegai-vos aqui, vós os filhos da agoureira, semente adulterina e de prostituição."
+            },
+            {
+                "id": "v57.4",
+                "versicle_number": 4,
+                "text": "De quem fazeis o vosso passatempo? contra quem escancarais a boca, e deitais para fora a língua? porventura não sois filhos da transgressão, semente da falsidade,"
+            },
+            {
+                "id": "v57.5",
+                "versicle_number": 5,
+                "text": "Que vos esquentais com os ídolos debaixo de toda a árvore verde, e sacrificais os filhos nos ribeiros, nas aberturas dos penhascos?"
+            },
+            {
+                "id": "v57.6",
+                "versicle_number": 6,
+                "text": "Nas pedras lisas dos ribeiros está a tua parte; estas, estas são a tua sorte; sobre elas também derramas a tua libação, e lhes ofereces ofertas: contentar-me-ia eu destas cousas?"
+            },
+            {
+                "id": "v57.7",
+                "versicle_number": 7,
+                "text": "Sobre os montes altos e levantados pões a tua cama; e a eles sobes para oferecer sacrifícios."
+            },
+            {
+                "id": "v57.8",
+                "versicle_number": 8,
+                "text": "E detrás das portas e das umbreiras pões os teus memoriais; porque a outros mais do que a mim te descobres, e sobes, alargas a tua cama, e fazes concerto com eles: amas a sua cama, onde quer que a vês."
+            },
+            {
+                "id": "v57.9",
+                "versicle_number": 9,
+                "text": "E vais ao rei com óleo e multiplicas os teus perfumes; e envias os teus embaixadores para longe, e te abates até {note:o}aos infernos."
+            },
+            {
+                "id": "v57.10",
+                "versicle_number": 10,
+                "text": "Na tua comprida viagem te cansaste; mas não dizes: Não há esperança; o que buscavas achaste, por isso não adoeces."
+            },
+            {
+                "id": "v57.11",
+                "versicle_number": 11,
+                "text": "Mas de quem tiveste receio ou temor, para que mentisses, e não te lembrasses de mim, nem no teu coração me pusesses? não é porventura porque eu me calo, e isso já  desde muito tempo, e me não temes?"
+            },
+            {
+                "id": "v57.12",
+                "versicle_number": 12,
+                "text": "Eu publicarei a tua justiça, e as tuas obras, que não te aproveitarão."
+            },
+            {
+                "id": "v57.13",
+                "versicle_number": 13,
+                "text": "Quando clamares, livrem-te os teus congregados; mas o vento a todos levará, e a vaidade os arrebatará: mas o que confia em mim possuirá a terra, e herdará o meu santo monte."
+            },
+            {
+                "id": "v57.14",
+                "versicle_number": 14,
+                "text": "E dir-se-á: Aplainai, aplainai, preparai o caminho: tirai os tropeços do caminho do meu povo."
+            },
+            {
+                "id": "v57.15",
+                "versicle_number": 15,
+                "text": "Porque assim diz o alto e o sublime, que habita na eternidade, e cujo nome é santo: Num alto e santo lugar habito, e também com o contrito e abatido de espírito, para vivificar o espírito dos abatidos, e para vivificar o coração dos contritos."
+            },
+            {
+                "id": "v57.16",
+                "versicle_number": 16,
+                "text": "Porque para sempre não contenderei, nem continuamente me indignarei; porque o espírito perante a minha face {note:p}se enfraqueceria, e as almas que eu fiz."
+            },
+            {
+                "id": "v57.17",
+                "versicle_number": 17,
+                "text": "Pela iniquidade da sua avareza me indignei, e os feri: escondi-me, e indignei-me; mas, rebeldes, seguiram o caminho do seu coração."
+            },
+            {
+                "id": "v57.18",
+                "versicle_number": 18,
+                "text": "Eu vejo os seus caminhos, e os sararei; também os guiarei, e lhes tornarei a dar consolações e aos seus pranteadores."
+            },
+            {
+                "id": "v57.19",
+                "versicle_number": 19,
+                "text": "Eu crio os frutos dos lábios: paz, paz, para os que estão longe, e para os que estão perto,{note:1} diz o Senhor, e eu os sararei."
+            },
+            {
+                "id": "v57.20",
+                "versicle_number": 20,
+                "text": "Mas os ímpios são como o mar bravo que se não pode aquietar, e cujas águas {note:q}lançam de si lama e lodo."
+            },
+            {
+                "id": "v57.21",
+                "versicle_number": 21,
+                "text": "Os ímpios, diz o meu Deus, não têm paz.{note:2}"
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:o} 57.9 Heb. ao Sheol"
+            },
+            {
+                "id": "n2",
+                "text": "{note:p} 57.16 ou desfaleceria"
+            },
+            {
+                "id": "n3",
+                "text": "{note:1} 57.19 Ef 2.13"
+            },
+            {
+                "id": "n4",
+                "text": "{note:q} 57.20 ou arrojam lama e lodo"
+            },
+            {
+                "id": "n5",
+                "text": "{note:2} 57.21 Is 48.22"
+            }
+        ]
+    }
+}

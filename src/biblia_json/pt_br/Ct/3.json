@@ -1,0 +1,74 @@
+{
+    "book": {
+        "id": "Ct",
+        "book_number": 22,
+        "new_testament": false,
+        "num_chapters": 8,
+        "book_name": "CANTARES",
+        "book_full_name": "DE SALOMÃO CANTARES"
+    },
+    "chapter": {
+        "chapter_number": 3,
+        "chapter_reference": "",
+        "chapter_title": "O cortejo nupcial. O esposo exprime o seu amor pela esposa",
+        "versicles": [
+            {
+                "id": "v3.1",
+                "versicle_number": 1,
+                "text": "DE noite busquei em minha cama aquele a quem ama a minha alma: busquei-o, e não o achei."
+            },
+            {
+                "id": "v3.2",
+                "versicle_number": 2,
+                "text": "Levantar-me-ei, pois, e rodearei a cidade; pelas ruas e pelas praças buscarei aquele a quem ama a minha alma; busquei-o, e não o achei."
+            },
+            {
+                "id": "v3.3",
+                "versicle_number": 3,
+                "text": "Acharam-me os guardas, que rondavam pela cidade: eu perguntei-lhes: Vistes aquele a quem ama a minha alma?"
+            },
+            {
+                "id": "v3.4",
+                "versicle_number": 4,
+                "text": "Apartando-me eu um pouco deles, logo achei aquele a quem ama a minha alma: detive-o, até que o introduzi em casa de minha mãe, na câmara daquela que me gerou."
+            },
+            {
+                "id": "v3.5",
+                "versicle_number": 5,
+                "text": "Conjuro-vos, ó filhas de Jerusalém, pelas gazelas e cervas do campo, que não acordeis, nem desperteis o meu amor, até que queira."
+            },
+            {
+                "id": "v3.6",
+                "versicle_number": 6,
+                "text": "Quem é esta que sobe do deserto, como colunas de fumo, perfumada de mirra, de incenso, e de toda a sorte de pós aromáticos?"
+            },
+            {
+                "id": "v3.7",
+                "versicle_number": 7,
+                "text": "Eis que é a liteira de Salomão; sessenta valentes estão ao redor dela, dos valentes de Israel:"
+            },
+            {
+                "id": "v3.8",
+                "versicle_number": 8,
+                "text": "Todos armados de espadas, destros na guerra: cada um com a sua espada à cinta, por causa dos temores noturnos."
+            },
+            {
+                "id": "v3.9",
+                "versicle_number": 9,
+                "text": "O rei Salomão fez para si um palanquim de madeira do Líbano."
+            },
+            {
+                "id": "v3.10",
+                "versicle_number": 10,
+                "text": "Fez-lhe as colunas de prata, o estrado de ouro, o assento de púrpura, o interior revestido com amor, pelas filhas de Jerusalém."
+            },
+            {
+                "id": "v3.11",
+                "versicle_number": 11,
+                "text": "Saí, ó filhas de Sião, e contemplai ao rei Salomão com a coroa com que o coroou sua mãe no dia do seu desposório e no dia do júbilo do seu coração."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

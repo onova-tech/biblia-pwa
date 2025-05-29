@@ -1,0 +1,213 @@
+{
+    "book": {
+        "id": "Ex",
+        "book_number": 2,
+        "new_testament": false,
+        "num_chapters": 40,
+        "book_name": "ÊXODO",
+        "book_full_name": "O SEGUNDO LIVRO DE MOISÉS ÊXODO"
+    },
+    "chapter": {
+        "chapter_number": 22,
+        "chapter_reference": "",
+        "chapter_title": "As leis acerca da propriedade",
+        "versicles": [
+            {
+                "id": "v22.1",
+                "versicle_number": 1,
+                "text": "SE alguém furtar boi ou ovelha, e o degolar ou vender, por um boi pagará cinco bois, e pela ovelha quatro ovelhas."
+            },
+            {
+                "id": "v22.2",
+                "versicle_number": 2,
+                "text": "Se o ladrão for achado a minar, e for ferido, e morrer, o que o feriu não será culpado do sangue."
+            },
+            {
+                "id": "v22.3",
+                "versicle_number": 3,
+                "text": "Se o sol houver saído sobre ele, será culpado do sangue. O ladrão fará restituição total; e se não tiver com que pagar, será vendido por seu furto."
+            },
+            {
+                "id": "v22.4",
+                "versicle_number": 4,
+                "text": "Se o furto for achado vivo na sua mão, seja boi, ou jumento, ou ovelha, pagará o dobro."
+            },
+            {
+                "id": "v22.5",
+                "versicle_number": 5,
+                "text": "Se alguém fizer pastar o seu animal num campo ou numa vinha, e o largar para comer no campo de outro, o melhor do seu próprio campo e o melhor da sua própria vinha restituirá."
+            },
+            {
+                "id": "v22.6",
+                "versicle_number": 6,
+                "text": "Se rebentar um fogo, e pegar aos espinhos, e abrasar a meda de trigo, ou a seara, ou o campo, aquele que acendeu o fogo pagará totalmente o queimado."
+            },
+            {
+                "id": "v22.7",
+                "versicle_number": 7,
+                "text": "Se alguém der prata, ou vasos ao seu próximo a guardar, e isso for furtado da casa daquele homem, se o ladrão se achar, pagará o dobro."
+            },
+            {
+                "id": "v22.8",
+                "versicle_number": 8,
+                "text": "Se o ladrão não se achar, então o dono da casa será levado diante dos juízes, a ver se não meteu a sua mão na fazenda do seu próximo."
+            },
+            {
+                "id": "v22.9",
+                "versicle_number": 9,
+                "text": "Sobre todo o negócio de injustiça, sobre boi, sobre jumento, sobre gado miúdo, sobre vestido, sobre toda a cousa perdida, de que alguém disser que é sua, a causa de ambos virá perante os juízes: aquele a quem condenarem os juízes o pagará em dobro ao seu próximo."
+            },
+            {
+                "id": "v22.10",
+                "versicle_number": 10,
+                "text": "Se alguém der a seu próximo a guardar um jumento, ou boi, ou ovelha, ou algum animal, e morrer, ou for dilacerado, ou afugentado, ninguém o vendo,"
+            },
+            {
+                "id": "v22.11",
+                "versicle_number": 11,
+                "text": "Então haverá juramento do Senhor entre ambos, de que não meteu a sua mão na fazenda do seu próximo: e seu dono o aceitará, e o outro não o restituirá."
+            },
+            {
+                "id": "v22.12",
+                "versicle_number": 12,
+                "text": "Mas se lhe for furtado, o pagará ao seu dono."
+            },
+            {
+                "id": "v22.13",
+                "versicle_number": 13,
+                "text": "Porém se lhe for dilacerado, trá-lo-á em testemunho disso, e não pagará o dilacerado."
+            },
+            {
+                "id": "v22.14",
+                "versicle_number": 14,
+                "text": "E se alguém a seu próximo pedir alguma cousa, e for danificada ou morta, não estando presente o seu dono, certamente a restituirá."
+            },
+            {
+                "id": "v22.15",
+                "versicle_number": 15,
+                "text": "Se o seu dono esteve presente, não a restituirá: se foi alugada, será pelo seu aluguel."
+            },
+            {
+                "id": "v22.16",
+                "versicle_number": 16,
+                "text": "Se alguém enganar alguma virgem, que não for desposada, e se deitar com ela, certamente a dotará por sua mulher."
+            },
+            {
+                "id": "v22.17",
+                "versicle_number": 17,
+                "text": "Se seu pai inteiramente recusar dar-lha, dará dinheiro conforme ao dote das virgens.{note:1}"
+            },
+            {
+                "id": "v22.18",
+                "versicle_number": 18,
+                "text": "A feiticeira não deixarás viver."
+            },
+            {
+                "id": "v22.19",
+                "versicle_number": 19,
+                "text": "Todo aquele que se deitar com animal,{note:2} certamente morrerá."
+            },
+            {
+                "id": "v22.20",
+                "versicle_number": 20,
+                "text": "O que sacrificar{note:3} aos deuses, e não só ao Senhor, será morto."
+            },
+            {
+                "id": "v22.21",
+                "versicle_number": 21,
+                "text": "O estrangeiro não afligirás,{note:4} nem o oprimirás; pois estrangeiros fostes na terra do Egito."
+            },
+            {
+                "id": "v22.22",
+                "versicle_number": 22,
+                "text": "A nenhuma viúva nem órfão afligireis."
+            },
+            {
+                "id": "v22.23",
+                "versicle_number": 23,
+                "text": "Se de alguma maneira os afligirdes, e eles clamarem a mim, eu certamente ouvirei o seu clamor,"
+            },
+            {
+                "id": "v22.24",
+                "versicle_number": 24,
+                "text": "E a minha ira se acenderá, e vos matarei à espada; e vossas mulheres ficarão viúvas, e vossos filhos órfãos."
+            },
+            {
+                "id": "v22.25",
+                "versicle_number": 25,
+                "text": "Se emprestares dinheiro{note:5} ao meu povo, ao pobre, que está contigo, não te haverás com ele como um usurário; não lhe imporeis usura."
+            },
+            {
+                "id": "v22.26",
+                "versicle_number": 26,
+                "text": "Se tomares{note:6} em penhor o vestido do teu próximo, lho restituirás antes do pôr do sol,"
+            },
+            {
+                "id": "v22.27",
+                "versicle_number": 27,
+                "text": "Porque aquela é a sua cobertura, e o vestido da sua pele; em que se deitaria? Será pois que, quando clamar a mim, eu o ouvirei, porque sou misericordioso."
+            },
+            {
+                "id": "v22.28",
+                "versicle_number": 28,
+                "text": "Os juízes não amaldiçoarás, e o príncipe{note:7} dentre o teu povo não maldirás."
+            },
+            {
+                "id": "v22.29",
+                "versicle_number": 29,
+                "text": "As tuas primícias, e os teus licores não retardarás: o primogênito de teus filhos me darás."
+            },
+            {
+                "id": "v22.30",
+                "versicle_number": 30,
+                "text": "Assim farás dos teus bois e das tuas ovelhas: sete dias estarão com sua mãe, e ao oitavo dia mos darás."
+            },
+            {
+                "id": "v22.31",
+                "versicle_number": 31,
+                "text": "E ser-me-eis homens santos; portanto não comereis carne{note:8} despedaçada no campo; aos cães a lançareis."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v22.16",
+                "text": "As leis acerca da imoralidade e idolatria"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 22.16-17 Dt 22.28-29"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 22.19 Lv 18.23; 20.15-16; Dt 27.21"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 22.20 Dt 17.2-7"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 22.21 Êx 23.9; Lv 19.33-34; Dt 24.17-18; 27.19"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 22.25 Lv 25.35-38; Dt 15.7-11; 23.19-20"
+            },
+            {
+                "id": "n6",
+                "text": "{note:6} 22.26 Dt 24.10-13"
+            },
+            {
+                "id": "n7",
+                "text": "{note:7} 22.28 At 23.5"
+            },
+            {
+                "id": "n8",
+                "text": "{note:8} 22.31 Lv 17.15"
+            }
+        ]
+    }
+}

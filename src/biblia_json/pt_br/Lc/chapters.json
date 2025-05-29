@@ -1,0 +1,132 @@
+{
+    "book": {
+        "id": "Lc",
+        "book_number": 42,
+        "new_testament": true,
+        "num_chapters": 24,
+        "book_name": "LUCAS",
+        "book_full_name": "O SANTO EVANGELHO SEGUNDO LUCAS"
+    },
+    "chapters": [
+        {
+            "chapter_number": 10,
+            "chapter_reference": "",
+            "chapter_title": "A missão dos setenta discípulos"
+        },
+        {
+            "chapter_number": 11,
+            "chapter_reference": "Mateus 6.9-15 e refs.",
+            "chapter_title": "A oração dominical"
+        },
+        {
+            "chapter_number": 12,
+            "chapter_reference": "Mateus 10.28-33 e refs.",
+            "chapter_title": "Não devemos temer os homens"
+        },
+        {
+            "chapter_number": 13,
+            "chapter_reference": "Mateus 13.31-33 e refs.",
+            "chapter_title": "A mortandade dos galileus e a queda da torre em Siloé"
+        },
+        {
+            "chapter_number": 14,
+            "chapter_reference": "Mateus 22.1-14 e refs.",
+            "chapter_title": "Cura dum hidrópico"
+        },
+        {
+            "chapter_number": 15,
+            "chapter_reference": "",
+            "chapter_title": "Parábolas, da ovelha e da dracma perdidas"
+        },
+        {
+            "chapter_number": 16,
+            "chapter_reference": "",
+            "chapter_title": "Parábola do mordomo infiel"
+        },
+        {
+            "chapter_number": 17,
+            "chapter_reference": "",
+            "chapter_title": "Acerca dos escândalos, do perdão, do poder da fé e dos servos inúteis"
+        },
+        {
+            "chapter_number": 18,
+            "chapter_reference": "Mateus 19.13-15 e refs.",
+            "chapter_title": "A parábola do juiz iníquo"
+        },
+        {
+            "chapter_number": 19,
+            "chapter_reference": "Mateus 25.14-30",
+            "chapter_title": "Zaqueu o publicano"
+        },
+        {
+            "chapter_number": 1,
+            "chapter_reference": "",
+            "chapter_title": "Prefácio"
+        },
+        {
+            "chapter_number": 20,
+            "chapter_reference": "Mateus 21.23-27 e refs.",
+            "chapter_title": "O batismo de João"
+        },
+        {
+            "chapter_number": 21,
+            "chapter_reference": "Marcos 12.41, etc.",
+            "chapter_title": "A pequena oferta da viúva pobre"
+        },
+        {
+            "chapter_number": 22,
+            "chapter_reference": "Mateus 26.17-30 e refs.",
+            "chapter_title": "A última páscoa: a santa ceia"
+        },
+        {
+            "chapter_number": 23,
+            "chapter_reference": "Mateus 27.1-2,11-31 e refs.",
+            "chapter_title": "Jesus perante Pilatos e perante Herodes"
+        },
+        {
+            "chapter_number": 24,
+            "chapter_reference": "Mateus 28.1-10 e refs.",
+            "chapter_title": "A ressurreição"
+        },
+        {
+            "chapter_number": 2,
+            "chapter_reference": "",
+            "chapter_title": "O nascimento de Jesus"
+        },
+        {
+            "chapter_number": 3,
+            "chapter_reference": "Mateus 3.1-12",
+            "chapter_title": "A pregação de João Batista"
+        },
+        {
+            "chapter_number": 4,
+            "chapter_reference": "Mateus 4.1-11",
+            "chapter_title": "A tentação de Jesus"
+        },
+        {
+            "chapter_number": 5,
+            "chapter_reference": "Mateus 8.1-4 e refs.",
+            "chapter_title": "A pesca maravilhosa: os primeiros discípulos"
+        },
+        {
+            "chapter_number": 6,
+            "chapter_reference": "Mateus 12.1-8 e refs.",
+            "chapter_title": "Jesus é Senhor do sábado"
+        },
+        {
+            "chapter_number": 7,
+            "chapter_reference": "Mateus 8.5-13 e refs.",
+            "chapter_title": "O centurião de Capernaum"
+        },
+        {
+            "chapter_number": 8,
+            "chapter_reference": "Mateus 13.1-23 e refs.",
+            "chapter_title": "As mulheres que serviam a Jesus com os seus bens"
+        },
+        {
+            "chapter_number": 9,
+            "chapter_reference": "Mateus 10.5, etc.",
+            "chapter_title": "A missão dos doze"
+        }
+    ]
+}

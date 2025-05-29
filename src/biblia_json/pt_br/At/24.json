@@ -1,0 +1,163 @@
+{
+    "book": {
+        "id": "At",
+        "book_number": 44,
+        "new_testament": true,
+        "num_chapters": 28,
+        "book_name": "ATOS DOS APÓSTOLOS",
+        "book_full_name": "ATOS DOS APÓSTOLOS"
+    },
+    "chapter": {
+        "chapter_number": 24,
+        "chapter_reference": "",
+        "chapter_title": "Paulo perante o tribunal do governador Félix",
+        "versicles": [
+            {
+                "id": "v24.1",
+                "versicle_number": 1,
+                "text": "E CINCO dias depois o sumo sacerdote Ananias desceu com os anciãos, e um certo Tértulo, orador os quais compareceram perante o presidente contra Paulo."
+            },
+            {
+                "id": "v24.2",
+                "versicle_number": 2,
+                "text": "E, sendo chamado, Tértulo começou a acusá-lo, dizendo:"
+            },
+            {
+                "id": "v24.3",
+                "versicle_number": 3,
+                "text": "Visto como por ti temos tanta paz e por tua prudência se fazem a este povo muitos e louváveis serviços, sempre e em todo o lugar, ó potentíssimo Félix, com todo o agradecimento o queremos reconhecer."
+            },
+            {
+                "id": "v24.4",
+                "versicle_number": 4,
+                "text": "Mas, para que te não detenha muito, rogo-te que, conforme a tua equidade, nos ouças por pouco tempo."
+            },
+            {
+                "id": "v24.5",
+                "versicle_number": 5,
+                "text": "Temos achado que este homem é uma peste, e promotor de sedições entre todos os judeus, por todo o mundo; e o principal defensor da seita dos nazarenos;"
+            },
+            {
+                "id": "v24.6",
+                "versicle_number": 6,
+                "text": "O qual intentou também profanar o templo: e por isso o prendemos, e conforme a nossa lei o quisemos julgar."
+            },
+            {
+                "id": "v24.7",
+                "versicle_number": 7,
+                "text": "Mas, sobrevindo o tribuno Lísias, no-lo tirou dentre as mãos, com grande violência,"
+            },
+            {
+                "id": "v24.8",
+                "versicle_number": 8,
+                "text": "Mandando aos seus acusadores que viessem a ti: e dele tu mesmo, examinando-o, poderás entender tudo o de que o acusamos."
+            },
+            {
+                "id": "v24.9",
+                "versicle_number": 9,
+                "text": "E também os judeus o acusavam, dizendo serem estas coisas assim."
+            },
+            {
+                "id": "v24.10",
+                "versicle_number": 10,
+                "text": "Paulo, porém, fazendo-lhe o presidente sinal que falasse, respondeu: Porque sei que já vai para muitos anos que desta nação és juiz, com tanto melhor ânimo respondo por mim."
+            },
+            {
+                "id": "v24.11",
+                "versicle_number": 11,
+                "text": "Pois bem podes saber que não há mais de doze dias que subi a Jerusalém a adorar;"
+            },
+            {
+                "id": "v24.12",
+                "versicle_number": 12,
+                "text": "E não me acharam no templo falando com alguém, nem amotinando o povo nas sinagogas, nem na cidade."
+            },
+            {
+                "id": "v24.13",
+                "versicle_number": 13,
+                "text": "Nem tão pouco podem provar as coisas de que agora me acusam."
+            },
+            {
+                "id": "v24.14",
+                "versicle_number": 14,
+                "text": "Mas confesso-te isto: que, conforme aquele caminho que chamam seita, assim sirvo ao Deus de nossos pais, crendo tudo quanto está escrito na lei e nos profetas."
+            },
+            {
+                "id": "v24.15",
+                "versicle_number": 15,
+                "text": "Tendo esperança em Deus, como estes mesmos também esperam, de que há de haver ressurreição de mortos, assim dos justos como dos injustos."
+            },
+            {
+                "id": "v24.16",
+                "versicle_number": 16,
+                "text": "E por isso procuro sempre ter uma consciência sem ofensa, tanto para com Deus como para com os homens."
+            },
+            {
+                "id": "v24.17",
+                "versicle_number": 17,
+                "text": "Ora, muitos anos depois, vim trazer à minha nação esmolas e ofertas."
+            },
+            {
+                "id": "v24.18",
+                "versicle_number": 18,
+                "text": "Nisto me acharam já santificado no templo, não em ajuntamentos, nem com alvoroços, uns certos judeus da Ásia,{note:1}"
+            },
+            {
+                "id": "v24.19",
+                "versicle_number": 19,
+                "text": "Os quais convinha que estivessem presentes perante ti, e me acusassem, se alguma coisa contra mim tivessem."
+            },
+            {
+                "id": "v24.20",
+                "versicle_number": 20,
+                "text": "Ou digam estes mesmos, se acharam em mim alguma iniquidade, quando compareci perante o conselho,"
+            },
+            {
+                "id": "v24.21",
+                "versicle_number": 21,
+                "text": "A não ser estas palavras, que, estando entre eles, clamei: Hoje sou julgado por vós acerca da ressurreição dos mortos.{note:2}"
+            },
+            {
+                "id": "v24.22",
+                "versicle_number": 22,
+                "text": "Então Félix, havendo ouvido estas coisas, lhes pôs dilação, dizendo: Havendo-me informado melhor deste caminho, quando o tribuno Lísias tiver descido então tomarei inteiro conhecimento dos vossos negócios."
+            },
+            {
+                "id": "v24.23",
+                "versicle_number": 23,
+                "text": "E mandou ao centurião que o guardassem em prisão, tratando-o com brandura, e que a ninguém dos seus proibisse servi-lo ou vir ter com ele."
+            },
+            {
+                "id": "v24.24",
+                "versicle_number": 24,
+                "text": "E alguns dias depois, vindo Félix com sua mulher Drusila, que era judia, mandou chamar a Paulo, e ouviu-o acerca da fé em Cristo."
+            },
+            {
+                "id": "v24.25",
+                "versicle_number": 25,
+                "text": "E, tratando ele da justiça, e da temperança, e do juízo vindouro, Félix, espavorido, respondeu: Por agora vai-te, e em tendo oportunidade te chamarei."
+            },
+            {
+                "id": "v24.26",
+                "versicle_number": 26,
+                "text": "Esperando ao mesmo tempo que Paulo lhe desse dinheiro, para que o soltasse; pelo que também muitas vezes o mandava chamar, e falava com ele."
+            },
+            {
+                "id": "v24.27",
+                "versicle_number": 27,
+                "text": "Mas, passados dois anos, Félix teve por sucessor a Pórcio Festo; e, querendo Félix comprazer aos judeus, deixou a Paulo preso."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 24.17-18 At 21.17-28"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 24.21 At 23.6"
+            }
+        ]
+    }
+}

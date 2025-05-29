@@ -1,0 +1,144 @@
+{
+    "book": {
+        "id": "Job",
+        "book_number": 18,
+        "new_testament": false,
+        "num_chapters": 42,
+        "book_name": "JÓ",
+        "book_full_name": "O LIVRO DE JÓ"
+    },
+    "chapter": {
+        "chapter_number": 37,
+        "chapter_reference": "",
+        "chapter_title": "O homem, por conhecer as obras de Deus e a sua sabedoria, deve temê-lo",
+        "versicles": [
+            {
+                "id": "v37.1",
+                "versicle_number": 1,
+                "text": "SOBRE isto também treme o meu coração, e salta do seu lugar."
+            },
+            {
+                "id": "v37.2",
+                "versicle_number": 2,
+                "text": "Atentamente ouvi o movimento da sua voz, e o sonido que sai da sua boca."
+            },
+            {
+                "id": "v37.3",
+                "versicle_number": 3,
+                "text": "Ele o envia por debaixo de todos os céus, e a sua luz até aos confins da terra."
+            },
+            {
+                "id": "v37.4",
+                "versicle_number": 4,
+                "text": "Depois disto brama com grande voz, troveja com a sua alta voz; e, ouvida a sua voz, não tarda com estas cousas."
+            },
+            {
+                "id": "v37.5",
+                "versicle_number": 5,
+                "text": "Com a sua voz troveja Deus maravilhosamente; faz grandes cousas, que nós não compreendemos."
+            },
+            {
+                "id": "v37.6",
+                "versicle_number": 6,
+                "text": "Porque à neve diz: Cai na terra; como também ao aguaceiro e à sua forte chuva."
+            },
+            {
+                "id": "v37.7",
+                "versicle_number": 7,
+                "text": "Ele sela as mãos de todo o homem, para que conheçam todos os homens a sua obra."
+            },
+            {
+                "id": "v37.8",
+                "versicle_number": 8,
+                "text": "E as alimárias entram nos seus esconderijos e ficam nas suas cavernas."
+            },
+            {
+                "id": "v37.9",
+                "versicle_number": 9,
+                "text": "Das recâmaras do sul sai o pé de vento, e do norte o frio."
+            },
+            {
+                "id": "v37.10",
+                "versicle_number": 10,
+                "text": "Pelo assopro de Deus se dá a geada, e as largas águas se endurecem."
+            },
+            {
+                "id": "v37.11",
+                "versicle_number": 11,
+                "text": "Também com a umidade carrega as grossas nuvens, e esparge a nuvem {note:m}da sua luz."
+            },
+            {
+                "id": "v37.12",
+                "versicle_number": 12,
+                "text": "Então ela segundo o seu prudente conselho, se espalha em roda, para que faça tudo quanto lhe ordena sobre a superfície do mundo habitável;"
+            },
+            {
+                "id": "v37.13",
+                "versicle_number": 13,
+                "text": "Seja para correção, ou para a sua terra, ou para beneficência, que a faça vir."
+            },
+            {
+                "id": "v37.14",
+                "versicle_number": 14,
+                "text": "A isto, ó Jó, inclina os teus ouvidos; atende, e considera as maravilhas de Deus."
+            },
+            {
+                "id": "v37.15",
+                "versicle_number": 15,
+                "text": "Porventura sabes tu como Deus as opera, e faz resplandecer a luz da sua nuvem?"
+            },
+            {
+                "id": "v37.16",
+                "versicle_number": 16,
+                "text": "Tens tu notícia do equilíbrio das grossas nuvens e das maravilhas daquele que é perfeito nos conhecimentos?"
+            },
+            {
+                "id": "v37.17",
+                "versicle_number": 17,
+                "text": "Ou de como os teus vestidos aquecem, quando do sul há calma sobre a terra?"
+            },
+            {
+                "id": "v37.18",
+                "versicle_number": 18,
+                "text": "Ou estendeste com ele os céus, que estão firmes como espelho fundido?"
+            },
+            {
+                "id": "v37.19",
+                "versicle_number": 19,
+                "text": "Ensina-nos o que lhe diremos; porque nós nada poderemos pôr em boa ordem, por causa das trevas."
+            },
+            {
+                "id": "v37.20",
+                "versicle_number": 20,
+                "text": "Contar-lhe-ia alguém o que tenho dito? Ou desejaria um homem que ele fosse devorado?"
+            },
+            {
+                "id": "v37.21",
+                "versicle_number": 21,
+                "text": "E agora não se pode ver o sol, que resplandece nos céus; mas, passando o vento e purificando-os,"
+            },
+            {
+                "id": "v37.22",
+                "versicle_number": 22,
+                "text": "O esplendor de ouro vem do norte; pois em Deus há uma tremenda majestade."
+            },
+            {
+                "id": "v37.23",
+                "versicle_number": 23,
+                "text": "Ao Todo-poderoso não podemos alcançar; grande é em poder; porém a ninguém oprime em juízo e grandeza de justiça."
+            },
+            {
+                "id": "v37.24",
+                "versicle_number": 24,
+                "text": "Por isso o temem os homens; ele não respeita os que são sábios no coração."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:m} 37.11 ou do seu relâmpago"
+            }
+        ]
+    }
+}

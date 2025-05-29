@@ -1,0 +1,162 @@
+{
+    "book": {
+        "id": "2Sm",
+        "book_number": 10,
+        "new_testament": false,
+        "num_chapters": 24,
+        "book_name": "SAMUEL",
+        "book_full_name": "O SEGUNDO LIVRO DE SAMUEL"
+    },
+    "chapter": {
+        "chapter_number": 20,
+        "chapter_reference": "",
+        "chapter_title": "A sedição de Seba e a sua morte",
+        "versicles": [
+            {
+                "id": "v20.1",
+                "versicle_number": 1,
+                "text": "ENTÃO se achou ali por acaso um homem de Belial, cujo nome era Seba, filho de Bicri, homem de Benjamim, o qual tocou a buzina, e disse: Não temos parte em Davi,{note:1} nem herança no filho de Jessé; cada um às suas tendas, ó Israel."
+            },
+            {
+                "id": "v20.2",
+                "versicle_number": 2,
+                "text": "Então todos os homens de Israel deixaram de seguir Davi, e seguiram Seba, filho de Bicri; porém os homens de Judá se uniram ao seu rei desde o Jordão até Jerusalém."
+            },
+            {
+                "id": "v20.3",
+                "versicle_number": 3,
+                "text": "Vindo pois Davi para sua casa, a Jerusalém, tomou o rei as dez mulheres,{note:2} suas concubinas, que deixara para guardarem a casa, e as pôs numa casa em guarda, e as sustentava; porém não entrou a elas: e estiveram encerradas até ao dia da sua morte, vivendo como viúvas."
+            },
+            {
+                "id": "v20.4",
+                "versicle_number": 4,
+                "text": "Disse mais o rei a Amasa: Convoca-me os homens de Judá para o terceiro dia: e tu então apresenta-te aqui."
+            },
+            {
+                "id": "v20.5",
+                "versicle_number": 5,
+                "text": "E foi Amasa para convocar a Judá: porém demorou-se além do tempo que lhe tinha designado."
+            },
+            {
+                "id": "v20.6",
+                "versicle_number": 6,
+                "text": "Então disse Davi a Abisai: Mais mal agora nos fará Seba, o filho de Bicri, do que Absalão: pelo que toma tu os servos de teu senhor, e persegue-o, para que porventura não ache para si cidades fortes, e escape dos nossos olhos."
+            },
+            {
+                "id": "v20.7",
+                "versicle_number": 7,
+                "text": "Então saíram atrás dele os homens de Joabe, e os quereteus, e os peleteus, e todos os valentes: estes saíram de Jerusalém para irem atrás de Seba, filho de Bicri."
+            },
+            {
+                "id": "v20.8",
+                "versicle_number": 8,
+                "text": "Chegando eles pois à pedra grande que está junto a Gibeom, Amasa veio perante eles: e estava Joabe cingido da sua roupa que vestiu, e sobre ela um cinto com a espada, em seus lombos, na sua bainha: e, adiantando-se ele, lhe caiu."
+            },
+            {
+                "id": "v20.9",
+                "versicle_number": 9,
+                "text": "E disse Joabe a Amasa: Vai contigo bem, meu irmão? E Joabe, com a mão direita, pegou da barba de Amasa, para o beijar."
+            },
+            {
+                "id": "v20.10",
+                "versicle_number": 10,
+                "text": "E Amasa não se resguardou da espada que estava na mão de Joabe, de sorte que este o feriu com ela na quinta costela, e lhe derramou por terra as entranhas; e não o feriu segunda vez, e morreu: então Joabe e Abisai, seu irmão, foram atrás de Seba, filho de Bicri."
+            },
+            {
+                "id": "v20.11",
+                "versicle_number": 11,
+                "text": "Mas um dentre os moços de Joabe parou junto a ele, e disse: Quem há que bem queira a Joabe, e quem seja por Davi, siga a Joabe."
+            },
+            {
+                "id": "v20.12",
+                "versicle_number": 12,
+                "text": "E Amasa estava envolto no seu sangue no meio do caminho: e, vendo aquele homem que todo o povo parava, desviou a Amasa do caminho para o campo, e lançou sobre ele um manto; porque via que todo aquele que chegava a ele parava."
+            },
+            {
+                "id": "v20.13",
+                "versicle_number": 13,
+                "text": "E, como estava apartado do caminho, todos os homens seguiram a Joabe, para perseguirem a Seba filho de Bicri."
+            },
+            {
+                "id": "v20.14",
+                "versicle_number": 14,
+                "text": "E passou por todas as tribos de Israel até Abel, a saber, a Bete-Maaca e a todos os beritas: e ajuntaram-se todos, e também o seguiram."
+            },
+            {
+                "id": "v20.15",
+                "versicle_number": 15,
+                "text": "E vieram, e o cercaram em Abel de Bete-Maaca, e levantaram uma tranqueira contra a cidade, assim que já estava em frente do antemuro: e todo o povo que estava com Joabe batia o muro, para o derribar."
+            },
+            {
+                "id": "v20.16",
+                "versicle_number": 16,
+                "text": "Então uma mulher sábia gritou de dentro da cidade: Ouvi, ouvi, peço-vos que digais a Joabe: Chega-te cá, para que eu te fale."
+            },
+            {
+                "id": "v20.17",
+                "versicle_number": 17,
+                "text": "Chegou-se a ela, e disse a mulher: Tu és Joabe? E disse ele: Eu sou. E ela lhe disse: Ouve as palavras de tua serva. E disse ele: Ouço."
+            },
+            {
+                "id": "v20.18",
+                "versicle_number": 18,
+                "text": "Então falou ela, dizendo: Antigamente costumava-se falar, dizendo: Certamente pediram conselho a Abel; e assim o cumpriam."
+            },
+            {
+                "id": "v20.19",
+                "versicle_number": 19,
+                "text": "Eu sou uma das pacíficas e das fiéis em Israel: e tu procuras matar uma cidade que é madre em Israel: por que pois devorarias a herança do Senhor?"
+            },
+            {
+                "id": "v20.20",
+                "versicle_number": 20,
+                "text": "Então respondeu Joabe, e disse: Longe, longe de mim que eu tal faça, que eu devore ou arruíne!"
+            },
+            {
+                "id": "v20.21",
+                "versicle_number": 21,
+                "text": "A cousa não é assim: porém um só homem do monte de Efraim, cujo nome é Seba, filho de Bicri, levantou a mão contra o rei, contra Davi; entregai-me só este, e retirar-me-ei da cidade. Então disse a mulher a Joabe: Eis que te será lançada a sua cabeça pelo muro."
+            },
+            {
+                "id": "v20.22",
+                "versicle_number": 22,
+                "text": "E a mulher, na sua sabedoria, entrou a todo o povo, e cortaram a cabeça de Seba, filho de Bicri, e a lançaram a Joabe: então tocou a buzina, e se retiraram da cidade, cada um para as suas tendas, e Joabe voltou a Jerusalém, ao rei."
+            },
+            {
+                "id": "v20.23",
+                "versicle_number": 23,
+                "text": "E Joabe estava sobre todo o exército de Israel; e Benaia, filho de Joiada, sobre os quereteus e sobre os peleteus;"
+            },
+            {
+                "id": "v20.24",
+                "versicle_number": 24,
+                "text": "E Adorão sobre os tributos; e Josafá, filho de Ailude, era o chanceler;"
+            },
+            {
+                "id": "v20.25",
+                "versicle_number": 25,
+                "text": "E Seva o escrivão; e Zadoque e Abiatar os sacerdotes;"
+            },
+            {
+                "id": "v20.26",
+                "versicle_number": 26,
+                "text": "E também Ira, o jairita, era o {note:g}oficial-mor de Davi."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 20.1 1Rs 12.16; 2Cr 10.16"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 20.3 2Sm 16.22"
+            },
+            {
+                "id": "n3",
+                "text": "{note:g} 20.26 ou sacerdote"
+            }
+        ]
+    }
+}

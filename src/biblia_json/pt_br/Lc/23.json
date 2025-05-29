@@ -1,0 +1,352 @@
+{
+    "book": {
+        "id": "Lc",
+        "book_number": 42,
+        "new_testament": true,
+        "num_chapters": 24,
+        "book_name": "LUCAS",
+        "book_full_name": "O SANTO EVANGELHO SEGUNDO LUCAS"
+    },
+    "chapter": {
+        "chapter_number": 23,
+        "chapter_reference": "Mateus 27.1-2,11-31 e refs.",
+        "chapter_title": "Jesus perante Pilatos e perante Herodes",
+        "versicles": [
+            {
+                "id": "v23.1",
+                "versicle_number": 1,
+                "text": "E, LEVANTANDO-SE toda a multidão deles, o levaram a Pilatos."
+            },
+            {
+                "id": "v23.2",
+                "versicle_number": 2,
+                "text": "E começaram a acusá-lo, dizendo: Havemos achado este, pervertendo a nossa nação, proibindo dar o tributo a César, e dizendo que ele mesmo é {note:r}Cristo, o rei."
+            },
+            {
+                "id": "v23.3",
+                "versicle_number": 3,
+                "text": "E Pilatos perguntou-lhe, dizendo: Tu és o Rei dos Judeus? E ele, respondendo, disse-lhe: Tu o dizes."
+            },
+            {
+                "id": "v23.4",
+                "versicle_number": 4,
+                "text": "E disse Pilatos aos principais dos sacerdotes, e à multidão: Não acho culpa alguma neste homem."
+            },
+            {
+                "id": "v23.5",
+                "versicle_number": 5,
+                "text": "Mas eles insistiam cada vez mais, dizendo: Alvoroça o povo ensinando por toda a Judeia, começando desde a Galileia até aqui."
+            },
+            {
+                "id": "v23.6",
+                "versicle_number": 6,
+                "text": "Então Pilatos, ouvindo falar da Galileia, perguntou se aquele homem era galileu."
+            },
+            {
+                "id": "v23.7",
+                "versicle_number": 7,
+                "text": "E, sabendo que era da jurisdição de Herodes, remeteu-o a Herodes, que também naqueles dias estava em Jerusalém."
+            },
+            {
+                "id": "v23.8",
+                "versicle_number": 8,
+                "text": "E Herodes, quando viu a Jesus alegrou-se muito; porque havia muito que desejava vê-lo, por ter ouvido dele muitas coisas; e esperava que lhe veria fazer algum sinal;"
+            },
+            {
+                "id": "v23.9",
+                "versicle_number": 9,
+                "text": "E interrogava-o com muitas palavras, mas ele nada lhe respondia."
+            },
+            {
+                "id": "v23.10",
+                "versicle_number": 10,
+                "text": "E estavam os principais dos sacerdotes, e os escribas, acusando-o com grande veemência."
+            },
+            {
+                "id": "v23.11",
+                "versicle_number": 11,
+                "text": "E Herodes, com os seus soldados, desprezou-o, e, escarnecendo dele, vestiu-o de uma roupa resplandecente e tornou a enviá-lo a Pilatos."
+            },
+            {
+                "id": "v23.12",
+                "versicle_number": 12,
+                "text": "E no mesmo dia Pilatos e Herodes entre si se fizeram amigos; pois dantes andavam em inimizade um com o outro."
+            },
+            {
+                "id": "v23.13",
+                "versicle_number": 13,
+                "text": "E, convocando Pilatos os principais dos sacerdotes, e os magistrados, e o povo, disse-lhes:"
+            },
+            {
+                "id": "v23.14",
+                "versicle_number": 14,
+                "text": "Haveis-me apresentado este homem como pervertedor do povo; e eis que, examinando-o na vossa presença, nenhuma culpa, das de que o acusais, acho neste homem."
+            },
+            {
+                "id": "v23.15",
+                "versicle_number": 15,
+                "text": "Nem mesmo Herodes, porque a ele vos remeti, e eis que não tem feito coisa alguma digna de morte."
+            },
+            {
+                "id": "v23.16",
+                "versicle_number": 16,
+                "text": "Castigá-lo-ei pois, e soltá-lo-ei."
+            },
+            {
+                "id": "v23.17",
+                "versicle_number": 17,
+                "text": "E era-lhe necessário soltar-lhes um pela festa."
+            },
+            {
+                "id": "v23.18",
+                "versicle_number": 18,
+                "text": "Mas toda a multidão clamou à uma, dizendo: Fora daqui com este, e solta-nos Barrabás."
+            },
+            {
+                "id": "v23.19",
+                "versicle_number": 19,
+                "text": "O qual fora lançado na prisão por causa de uma sedição feita na cidade, e de um homicídio."
+            },
+            {
+                "id": "v23.20",
+                "versicle_number": 20,
+                "text": "Falou pois outra vez Pilatos, querendo soltar a Jesus."
+            },
+            {
+                "id": "v23.21",
+                "versicle_number": 21,
+                "text": "Mas eles clamavam em contrário, dizendo: Crucifica-o crucifica-o"
+            },
+            {
+                "id": "v23.22",
+                "versicle_number": 22,
+                "text": "Então ele, pela terceira vez, lhes disse: Mas que mal fez este? Não acho nele culpa alguma de morte. Castigá-lo-ei pois, e soltá-lo-ei."
+            },
+            {
+                "id": "v23.23",
+                "versicle_number": 23,
+                "text": "Mas eles instavam com grandes gritos, pedindo que fosse crucificado. E os seus gritos, e os dos principais dos sacerdotes, redobravam."
+            },
+            {
+                "id": "v23.24",
+                "versicle_number": 24,
+                "text": "Então Pilatos julgou que devia fazer o que eles pediam."
+            },
+            {
+                "id": "v23.25",
+                "versicle_number": 25,
+                "text": "E soltou-lhes o que fora lançado na prisão por uma sedição e homicídio, que era o que pediam; mas entregou Jesus à vontade deles."
+            },
+            {
+                "id": "v23.26",
+                "versicle_number": 26,
+                "text": "E quando o iam levando, tomaram um certo Simão, cireneu, que vinha do campo, e puseram-lhe a cruz às costas, para que a levasse após Jesus."
+            },
+            {
+                "id": "v23.27",
+                "versicle_number": 27,
+                "text": "E seguia-o grande multidão de povo e de mulheres, as quais batiam nos peitos, e o lamentavam."
+            },
+            {
+                "id": "v23.28",
+                "versicle_number": 28,
+                "text": "Porém Jesus, voltando-se para elas, disse: Filhas de Jerusalém, não choreis por mim, chorai antes por vós mesmas, e por vossos filhos."
+            },
+            {
+                "id": "v23.29",
+                "versicle_number": 29,
+                "text": "Porque eis que hão de vir dias em que dirão: Bem-aventuradas as estéreis, e os ventres que não geraram, e os peitos que não amamentaram!"
+            },
+            {
+                "id": "v23.30",
+                "versicle_number": 30,
+                "text": "Então começarão a dizer{note:1} aos montes: Caí sobre nós, e aos outeiros: Cobri-nos."
+            },
+            {
+                "id": "v23.31",
+                "versicle_number": 31,
+                "text": "Porque, se ao madeiro verde fazem isto, que se fará ao seco?"
+            },
+            {
+                "id": "v23.32",
+                "versicle_number": 32,
+                "text": "E também conduziram outros dois, que eram malfeitores, para com ele serem mortos."
+            },
+            {
+                "id": "v23.33",
+                "versicle_number": 33,
+                "text": "E, quando chegaram ao lugar chamado a Caveira, ali o crucificaram, e aos malfeitores, um à direita e outro à esquerda."
+            },
+            {
+                "id": "v23.34",
+                "versicle_number": 34,
+                "text": "E dizia Jesus: Pai, perdoa-lhes, porque não sabem o que fazem. E, repartindo os seus vestidos{note:2} lançaram sortes."
+            },
+            {
+                "id": "v23.35",
+                "versicle_number": 35,
+                "text": "E o povo estava olhando. E também os {note:s}príncipes zombavam dele, dizendo: Aos outros salvou, salve-se a si mesmo, se este é o Cristo, o escolhido de Deus."
+            },
+            {
+                "id": "v23.36",
+                "versicle_number": 36,
+                "text": "E também os soldados, o escarneciam chegando-se a ele, e apresentando-lhe vinagre,"
+            },
+            {
+                "id": "v23.37",
+                "versicle_number": 37,
+                "text": "E dizendo: Se tu és o Rei dos Judeus salva-te a ti mesmo."
+            },
+            {
+                "id": "v23.38",
+                "versicle_number": 38,
+                "text": "E também por cima dele estava um título, escrito em letras gregas, romanas, e hebraicas: ESTE É O REI DOS JUDEUS."
+            },
+            {
+                "id": "v23.39",
+                "versicle_number": 39,
+                "text": "E um dos malfeitores que estavam pendurados blasfemava dele, dizendo: Se tu és o Cristo, salva-te a ti mesmo, e a nós."
+            },
+            {
+                "id": "v23.40",
+                "versicle_number": 40,
+                "text": "Respondendo, porém, o outro, repreendia-o, dizendo: Tu nem ainda temes a Deus, estando na mesma condenação?"
+            },
+            {
+                "id": "v23.41",
+                "versicle_number": 41,
+                "text": "E nós, na verdade, com justiça, porque recebemos o que os nossos feitos mereciam; mas este nenhum mal fez."
+            },
+            {
+                "id": "v23.42",
+                "versicle_number": 42,
+                "text": "E disse a Jesus: Senhor, lembra-te de mim, quando entrares no teu reino."
+            },
+            {
+                "id": "v23.43",
+                "versicle_number": 43,
+                "text": "E disse-lhe Jesus: Em verdade te digo que hoje estarás comigo no Paraíso."
+            },
+            {
+                "id": "v23.44",
+                "versicle_number": 44,
+                "text": "E era já quase a hora sexta, e houve trevas em toda a terra até a hora nona,"
+            },
+            {
+                "id": "v23.45",
+                "versicle_number": 45,
+                "text": "Escurecendo-se o sol; e rasgou-se ao meio o véu{note:3} do templo."
+            },
+            {
+                "id": "v23.46",
+                "versicle_number": 46,
+                "text": "E, clamando Jesus com grande voz, disse: Pai, nas tuas mãos entrego o meu espírito.{note:4} E, havendo dito isto, expirou."
+            },
+            {
+                "id": "v23.47",
+                "versicle_number": 47,
+                "text": "E o centurião, vendo o que tinha acontecido, deu glória a Deus, dizendo: Na verdade, este homem era justo."
+            },
+            {
+                "id": "v23.48",
+                "versicle_number": 48,
+                "text": "E toda a multidão que se ajuntara a este espetáculo, vendo o que havia acontecido, voltava batendo nos peitos."
+            },
+            {
+                "id": "v23.49",
+                "versicle_number": 49,
+                "text": "E todos os seus conhecidos, e as mulheres{note:5} que juntamente o haviam seguido desde a Galileia, estavam de longe vendo estas coisas."
+            },
+            {
+                "id": "v23.50",
+                "versicle_number": 50,
+                "text": "E eis que um varão por nome José, senador, homem de bem e justo,"
+            },
+            {
+                "id": "v23.51",
+                "versicle_number": 51,
+                "text": "Que não tinha consentido no conselho e nos atos dos outros, de Arimateia, cidade dos judeus, e que também esperava o reino de Deus;"
+            },
+            {
+                "id": "v23.52",
+                "versicle_number": 52,
+                "text": "Esse, chegando a Pilatos, pediu o corpo de Jesus."
+            },
+            {
+                "id": "v23.53",
+                "versicle_number": 53,
+                "text": "E, havendo-o tirado, envolveu-o num lençol, e pô-lo num sepulcro escavado numa {note:t}penha, onde ninguém ainda havia sido posto."
+            },
+            {
+                "id": "v23.54",
+                "versicle_number": 54,
+                "text": "E era o dia da preparação, e amanhecia o sábado."
+            },
+            {
+                "id": "v23.55",
+                "versicle_number": 55,
+                "text": "E as mulheres, que tinham vindo com ele da Galileia, seguiram também e viram o sepulcro, e como foi posto o seu corpo."
+            },
+            {
+                "id": "v23.56",
+                "versicle_number": 56,
+                "text": "E, voltando elas, prepararam especiarias e unguentos, e no sábado repousaram, conforme o mandamento.{note:6}"
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v23.26",
+                "text": "Jesus no caminho do Gólgota"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "",
+                "text": "A crucifixão"
+            },
+            {
+                "id": "s3",
+                "next_versicle_id": "",
+                "text": "A sepultura de Jesus"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:r} 23.2 ou um rei ungido"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 23.30 Os 10.8; Ap 6.16"
+            },
+            {
+                "id": "n3",
+                "text": "{note:2} 23.34 Sl 22.18"
+            },
+            {
+                "id": "n4",
+                "text": "{note:s} 23.35 ou magistrados"
+            },
+            {
+                "id": "n5",
+                "text": "{note:3} 23.45 Êx 26.31-33"
+            },
+            {
+                "id": "n6",
+                "text": "{note:4} 23.46 Sl 31.5"
+            },
+            {
+                "id": "n7",
+                "text": "{note:5} 23.49 Lc 8.2-3"
+            },
+            {
+                "id": "n8",
+                "text": "{note:t} 23.53 ou rocha"
+            },
+            {
+                "id": "n9",
+                "text": "{note:6} 23.56 Êx 20.10; Dt 5.14"
+            }
+        ]
+    }
+}

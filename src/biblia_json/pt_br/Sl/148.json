@@ -1,0 +1,98 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 148,
+        "chapter_reference": "",
+        "chapter_title": "Toda a criação deve louvar ao Senhor",
+        "versicles": [
+            {
+                "id": "v148.1",
+                "versicle_number": 1,
+                "text": "{note:k}LOUVAI ao Senhor. Louvai ao Senhor desde os céus, louvai-o nas alturas."
+            },
+            {
+                "id": "v148.2",
+                "versicle_number": 2,
+                "text": "Louvai-o, todos os seus anjos; louvai-o, todos os seus exércitos."
+            },
+            {
+                "id": "v148.3",
+                "versicle_number": 3,
+                "text": "Louvai-o, sol e lua; louvai-o, todas as estrelas luzentes."
+            },
+            {
+                "id": "v148.4",
+                "versicle_number": 4,
+                "text": "Louvai-o, céus dos céus, e as águas que estão sobre os céus:"
+            },
+            {
+                "id": "v148.5",
+                "versicle_number": 5,
+                "text": "Louvem o nome do Senhor, pois mandou, e logo foram criados."
+            },
+            {
+                "id": "v148.6",
+                "versicle_number": 6,
+                "text": "E os confirmou para sempre, e lhes deu uma lei que não ultrapassarão."
+            },
+            {
+                "id": "v148.7",
+                "versicle_number": 7,
+                "text": "Louvai ao Senhor desde a terra: vós, baleias, e todos os abismos,"
+            },
+            {
+                "id": "v148.8",
+                "versicle_number": 8,
+                "text": "Fogo e saraiva, neve e vapores, e vento tempestuoso que executa a sua palavra:"
+            },
+            {
+                "id": "v148.9",
+                "versicle_number": 9,
+                "text": "Montes e todos os outeiros, árvores frutíferas e todos os cedros:"
+            },
+            {
+                "id": "v148.10",
+                "versicle_number": 10,
+                "text": "As feras e todos os gados, répteis e aves voadoras:"
+            },
+            {
+                "id": "v148.11",
+                "versicle_number": 11,
+                "text": "Reis da terra e todos os povos, príncipes e todos os juízes da terra:"
+            },
+            {
+                "id": "v148.12",
+                "versicle_number": 12,
+                "text": "Mancebos e donzelas, velhos e crianças,"
+            },
+            {
+                "id": "v148.13",
+                "versicle_number": 13,
+                "text": "Louvem o nome do Senhor, pois só o seu nome é exaltado: a sua glória está sobre a terra e o céu."
+            },
+            {
+                "id": "v148.14",
+                "versicle_number": 14,
+                "text": "Ele também exalta o {note:l}poder do seu povo, o louvor de todos os seus santos, dos filhos de Israel, um povo que lhe é chegado. {note:m}Louvai ao SENHOR."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:k} 148.1 Heb. Aleluia"
+            },
+            {
+                "id": "n2",
+                "text": "{note:l} 148.14 Heb. chifre {note:m} 148.14 Heb. Aleluia"
+            }
+        ]
+    }
+}

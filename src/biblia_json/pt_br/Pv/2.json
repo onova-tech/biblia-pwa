@@ -1,0 +1,129 @@
+{
+    "book": {
+        "id": "Pv",
+        "book_number": 20,
+        "new_testament": false,
+        "num_chapters": 31,
+        "book_name": "PROVÉRBIOS",
+        "book_full_name": "DE SALOMÃO PROVÉRBIOS"
+    },
+    "chapter": {
+        "chapter_number": 2,
+        "chapter_reference": "",
+        "chapter_title": "A excelência da Sabedoria",
+        "versicles": [
+            {
+                "id": "v2.1",
+                "versicle_number": 1,
+                "text": "FILHO meu, se aceitares as minhas palavras, e esconderes contigo os meus mandamentos,"
+            },
+            {
+                "id": "v2.2",
+                "versicle_number": 2,
+                "text": "Para fazeres atento à sabedoria o teu ouvido, e para inclinares o teu coração ao entendimento,"
+            },
+            {
+                "id": "v2.3",
+                "versicle_number": 3,
+                "text": "E se clamares por entendimento, e por inteligência alçares a tua voz,"
+            },
+            {
+                "id": "v2.4",
+                "versicle_number": 4,
+                "text": "Se como a prata a buscares e como a tesouros escondidos a procurares,"
+            },
+            {
+                "id": "v2.5",
+                "versicle_number": 5,
+                "text": "Então entenderás o temor do Senhor, e acharás o conhecimento de Deus."
+            },
+            {
+                "id": "v2.6",
+                "versicle_number": 6,
+                "text": "Porque o Senhor dá a sabedoria: da sua boca vem o conhecimento e o entendimento."
+            },
+            {
+                "id": "v2.7",
+                "versicle_number": 7,
+                "text": "Ele reserva a verdadeira sabedoria para os retos: escudo é para os que caminham na sinceridade."
+            },
+            {
+                "id": "v2.8",
+                "versicle_number": 8,
+                "text": "Para que guarde as veredas do juízo: e conserve o caminho dos seus santos."
+            },
+            {
+                "id": "v2.9",
+                "versicle_number": 9,
+                "text": "Então entenderás justiça, e juízo, e equidades, e todas as boas veredas."
+            },
+            {
+                "id": "v2.10",
+                "versicle_number": 10,
+                "text": "Porquanto a sabedoria entrará no teu coração, e o conhecimento será suave à tua alma."
+            },
+            {
+                "id": "v2.11",
+                "versicle_number": 11,
+                "text": "O bom siso te guardará e a inteligência te conservará;"
+            },
+            {
+                "id": "v2.12",
+                "versicle_number": 12,
+                "text": "Para te livrar do mau caminho, e do homem que diz cousas perversas;"
+            },
+            {
+                "id": "v2.13",
+                "versicle_number": 13,
+                "text": "Dos que deixam as veredas da retidão, para andarem pelos caminhos das trevas;"
+            },
+            {
+                "id": "v2.14",
+                "versicle_number": 14,
+                "text": "Que se alegram de mal fazer, e folgam com as perversidades dos maus,"
+            },
+            {
+                "id": "v2.15",
+                "versicle_number": 15,
+                "text": "Cujas veredas são tortuosas e desviadas nas suas carreiras;"
+            },
+            {
+                "id": "v2.16",
+                "versicle_number": 16,
+                "text": "Para te livrar da mulher estranha e da estrangeira, que lisonjeia com suas palavras;"
+            },
+            {
+                "id": "v2.17",
+                "versicle_number": 17,
+                "text": "Que deixa o guia da sua mocidade e se esquece do concerto do seu Deus."
+            },
+            {
+                "id": "v2.18",
+                "versicle_number": 18,
+                "text": "Porque a sua casa se inclina para a morte, e as suas veredas para os mortos:"
+            },
+            {
+                "id": "v2.19",
+                "versicle_number": 19,
+                "text": "Todos os que se dirigem a elas não voltarão, e não atinarão com as veredas da vida."
+            },
+            {
+                "id": "v2.20",
+                "versicle_number": 20,
+                "text": "Para que andes pelo caminho dos bons, e guardes as veredas dos justos."
+            },
+            {
+                "id": "v2.21",
+                "versicle_number": 21,
+                "text": "Porque os retos habitarão a terra, e os sinceros permanecerão nela."
+            },
+            {
+                "id": "v2.22",
+                "versicle_number": 22,
+                "text": "Mas os ímpios serão arrancados da terra e os aleivosos serão dela exterminados."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

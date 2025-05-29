@@ -1,0 +1,154 @@
+{
+    "book": {
+        "id": "Ez",
+        "book_number": 26,
+        "new_testament": false,
+        "num_chapters": 48,
+        "book_name": "EZEQUIEL",
+        "book_full_name": "EZEQUIEL"
+    },
+    "chapter": {
+        "chapter_number": 10,
+        "chapter_reference": "",
+        "chapter_title": "A segunda visão dos querubins",
+        "versicles": [
+            {
+                "id": "v10.1",
+                "versicle_number": 1,
+                "text": "DEPOIS olhei, e eis que no firmamento, que estava por cima da cabeça dos querubins, apareceu sobre eles como uma pedra de safira, como o aspecto da semelhança dum trono.{note:1}"
+            },
+            {
+                "id": "v10.2",
+                "versicle_number": 2,
+                "text": "E falou ao homem vestido de linho, dizendo: Vai por entre as rodas, até debaixo do querubim, e enche as tuas mãos de brasas acesas{note:2} dentre os querubins, e espalha-as sobre a cidade. E ele entrou à minha vista."
+            },
+            {
+                "id": "v10.3",
+                "versicle_number": 3,
+                "text": "E os querubins estavam ao lado direito da casa, quando entrou aquele homem; e uma nuvem encheu o átrio interior."
+            },
+            {
+                "id": "v10.4",
+                "versicle_number": 4,
+                "text": "Então se levantou a glória do Senhor de sobre o querubim para a entrada da casa; e encheu-se a casa duma nuvem, e o átrio se encheu do resplendor da glória do Senhor."
+            },
+            {
+                "id": "v10.5",
+                "versicle_number": 5,
+                "text": "E o estrondo das asas dos querubins se ouviu até ao átrio exterior, como a voz do Deus Todo-poderoso, quando fala."
+            },
+            {
+                "id": "v10.6",
+                "versicle_number": 6,
+                "text": "E sucedeu pois, dando ele ordem ao homem vestido de linho, dizendo: Toma fogo dentre as rodas, dentre os querubins, que entrou ele, e se pôs junto às rodas."
+            },
+            {
+                "id": "v10.7",
+                "versicle_number": 7,
+                "text": "Então estendeu um querubim a sua mão de entre os querubins para o fogo que estava entre os querubins: e tirou, e o pôs nas mãos do que estava vestido de linho; o qual o tomou, e saiu."
+            },
+            {
+                "id": "v10.8",
+                "versicle_number": 8,
+                "text": "E apareceu nos querubins uma semelhança de mão de homem debaixo das suas asas."
+            },
+            {
+                "id": "v10.9",
+                "versicle_number": 9,
+                "text": "Então olhei, e eis quatro{note:3} rodas junto aos querubins, uma roda junto a um querubim; e outra roda junto a outro querubim; e o aspecto das rodas era como cor de pedra de {note:k}turquesa."
+            },
+            {
+                "id": "v10.10",
+                "versicle_number": 10,
+                "text": "E, quanto ao seu aspecto, as quatro tinham uma mesma semelhança; como se estivera uma roda no meio doutra roda."
+            },
+            {
+                "id": "v10.11",
+                "versicle_number": 11,
+                "text": "Andando eles, andavam elas pelos seus quatro lados; não se viravam quando andavam, mas para o lugar para onde olhava a cabeça, para esse andavam; não se viravam quando andavam."
+            },
+            {
+                "id": "v10.12",
+                "versicle_number": 12,
+                "text": "E todo o seu corpo, e as suas costas, e as suas mãos, e as suas asas, e as rodas, as rodas que os quatro tinham, estavam cheias de olhos{note:4} em redor."
+            },
+            {
+                "id": "v10.13",
+                "versicle_number": 13,
+                "text": "E, quanto às rodas, elas foram chamadas, ouvindo eu, {note:l}Galgal."
+            },
+            {
+                "id": "v10.14",
+                "versicle_number": 14,
+                "text": "E cada um tinha quatro rostos:{note:5} o rosto do primeiro era rosto de querubim, e o rosto do segundo era rosto de homem, e do terceiro era rosto de leão, e do quarto rosto de águia."
+            },
+            {
+                "id": "v10.15",
+                "versicle_number": 15,
+                "text": "E os querubins se elevaram ao alto: estes são os mesmos animais que vi junto ao rio Quebar."
+            },
+            {
+                "id": "v10.16",
+                "versicle_number": 16,
+                "text": "E, andando os querubins, andavam as rodas juntamente com eles; e, levantando os querubins as suas asas, para se elevarem de sobre a terra, também as rodas não se separavam deles."
+            },
+            {
+                "id": "v10.17",
+                "versicle_number": 17,
+                "text": "Parando eles, paravam elas; e, elevando-se eles, elevavam-se elas, porque o espírito de vida estava nelas."
+            },
+            {
+                "id": "v10.18",
+                "versicle_number": 18,
+                "text": "Então saiu a glória do Senhor da entrada da casa, e parou sobre os querubins."
+            },
+            {
+                "id": "v10.19",
+                "versicle_number": 19,
+                "text": "E os querubins alçaram as suas asas, e se elevaram da terra aos meus olhos, quando saíram; e as rodas os acompanhavam; e pararam à entrada da porta oriental da casa do Senhor; e a glória do Deus de Israel estava no alto, sobre eles."
+            },
+            {
+                "id": "v10.20",
+                "versicle_number": 20,
+                "text": "Estes são os animais que vi debaixo do Deus de Israel, junto ao rio Quebar, e conheci que eram querubins."
+            },
+            {
+                "id": "v10.21",
+                "versicle_number": 21,
+                "text": "Cada um tinha quatro rostos e cada um quatro asas, e a semelhança de mãos de homem debaixo das suas asas."
+            },
+            {
+                "id": "v10.22",
+                "versicle_number": 22,
+                "text": "E a semelhança dos seus rostos era a dos rostos que eu tinha visto junto ao rio Quebar, como o seu aspecto e eles próprios; cada um andava ao direito do seu rosto."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 10.1 Ez 1.26; Ap 4.2"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 10.2 Ap 8.5"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 10.9 Ez 1.15-21 {note:k} 10.9 ou Társis"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 10.12 Ap 4.8"
+            },
+            {
+                "id": "n5",
+                "text": "{note:l} 10.13 que é revolvente"
+            },
+            {
+                "id": "n6",
+                "text": "{note:5} 10.14 Ez 1.10; Ap 4.7"
+            }
+        ]
+    }
+}

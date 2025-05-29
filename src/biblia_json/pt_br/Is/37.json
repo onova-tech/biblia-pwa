@@ -1,0 +1,222 @@
+{
+    "book": {
+        "id": "Is",
+        "book_number": 23,
+        "new_testament": false,
+        "num_chapters": 66,
+        "book_name": "ISAÍAS",
+        "book_full_name": "ISAÍAS"
+    },
+    "chapter": {
+        "chapter_number": 37,
+        "chapter_reference": "",
+        "chapter_title": "",
+        "versicles": [
+            {
+                "id": "v37.1",
+                "versicle_number": 1,
+                "text": "E ACONTECEU que, tendo ouvido isto o rei Ezequias, rasgou os seus vestidos, e se cobriu de saco, e entrou na casa do Senhor."
+            },
+            {
+                "id": "v37.2",
+                "versicle_number": 2,
+                "text": "E enviou Eliaquim, o mordomo, e Sebna, o escrivão, e os anciãos dos sacerdotes, cobertos de sacos, a Isaías, filho de Amós, o profeta."
+            },
+            {
+                "id": "v37.3",
+                "versicle_number": 3,
+                "text": "E disseram-lhe: Assim diz Ezequias: Este dia é dia de angústia e de vitupérios, e de blasfêmias, porque chegados são os filhos ao parto, e força não há para os dar à luz."
+            },
+            {
+                "id": "v37.4",
+                "versicle_number": 4,
+                "text": "Porventura o Senhor teu Deus terá ouvido as palavras de Rabsaqué, a quem enviou o rei da Assíria, seu amo, para afrontar o Deus vivo, e para o vituperar com as palavras que o Senhor teu Deus tem ouvido: faze oração pelo resto que ficou."
+            },
+            {
+                "id": "v37.5",
+                "versicle_number": 5,
+                "text": "E os servos do rei Ezequias vieram a Isaías."
+            },
+            {
+                "id": "v37.6",
+                "versicle_number": 6,
+                "text": "E Isaías lhes disse: Assim direis a vosso amo: Assim diz o Senhor: Não temas à vista das palavras que ouviste, com as quais os servos do rei da Assíria de mim blasfemaram."
+            },
+            {
+                "id": "v37.7",
+                "versicle_number": 7,
+                "text": "Eis que porei nele um espírito, e ele ouvirá um rumor e voltará para a sua terra; e fá-lo-ei cair morto à espada na sua terra."
+            },
+            {
+                "id": "v37.8",
+                "versicle_number": 8,
+                "text": "Voltou pois Rabsaqué, e achou o rei da Assíria pelejando contra Libna; porque ouvira que já se havia retirado de Laquis."
+            },
+            {
+                "id": "v37.9",
+                "versicle_number": 9,
+                "text": "E ouviu dizer que Tiraca, rei da Etiópia, tinha saído para lhe fazer guerra. Assim que isto ouviu, enviou mensageiros a Ezequias, dizendo:"
+            },
+            {
+                "id": "v37.10",
+                "versicle_number": 10,
+                "text": "Assim falareis a Ezequias, rei de Judá, dizendo: Não te engane o teu Deus, em quem confias, dizendo: Jerusalém não será entregue na mão do rei da Assíria."
+            },
+            {
+                "id": "v37.11",
+                "versicle_number": 11,
+                "text": "Eis que já tens ouvido o que fizeram os reis da Assíria a todas as terras, destruindo-as totalmente: e escaparias tu?"
+            },
+            {
+                "id": "v37.12",
+                "versicle_number": 12,
+                "text": "Porventura as livraram os deuses das nações que meus pais destruíram: Gozã, e Harã, e Resefe, e os filhos de Édem, que estavam em Telassar?"
+            },
+            {
+                "id": "v37.13",
+                "versicle_number": 13,
+                "text": "Onde está o rei de Hamate, e o rei de Arpade, e o rei da cidade de Sefarvaim, Hena e Iva?"
+            },
+            {
+                "id": "v37.14",
+                "versicle_number": 14,
+                "text": "Recebendo pois Ezequias as cartas das mãos dos mensageiros, e lendo-as, subiu à casa do Senhor; e Ezequias as estendeu perante o Senhor."
+            },
+            {
+                "id": "v37.15",
+                "versicle_number": 15,
+                "text": "E orou Ezequias ao Senhor, dizendo:"
+            },
+            {
+                "id": "v37.16",
+                "versicle_number": 16,
+                "text": "Ó Senhor dos Exércitos, Deus de Israel, que habitas entre os querubins;{note:1} tu és o Deus, tu somente, de todos os reinos da terra; tu fizeste os céus e a terra."
+            },
+            {
+                "id": "v37.17",
+                "versicle_number": 17,
+                "text": "Inclina ó Senhor, o teu ouvido, e ouve: abre, Senhor, os teus olhos, e olha: e ouve todas as palavras de Senaqueribe, as quais ele mandou para afrontar o Deus vivo."
+            },
+            {
+                "id": "v37.18",
+                "versicle_number": 18,
+                "text": "Verdade é, Senhor, que os reis da Assíria assolaram todos os países, e suas terras."
+            },
+            {
+                "id": "v37.19",
+                "versicle_number": 19,
+                "text": "E lançaram no fogo os seus deuses; porque deuses não eram, senão obra de mãos de homens, madeira e pedra; por isso os destruíram."
+            },
+            {
+                "id": "v37.20",
+                "versicle_number": 20,
+                "text": "Agora pois, ó Senhor nosso Deus, livra-nos da sua mão, para que todos os reinos da terra conheçam que só tu és o Senhor.{note:2}"
+            },
+            {
+                "id": "v37.21",
+                "versicle_number": 21,
+                "text": "Então Isaías, filho de Amós, mandou dizer a Ezequias: Assim diz o Senhor, o Deus de Israel: Quanto ao que me pediste acerca de Senaqueribe, rei da Assíria,"
+            },
+            {
+                "id": "v37.22",
+                "versicle_number": 22,
+                "text": "Esta é a palavra que o Senhor falou a respeito dele: A virgem, a filha de Sião, te despreza, e de ti zomba; a filha de Jerusalém meneia a cabeça por detrás de ti."
+            },
+            {
+                "id": "v37.23",
+                "versicle_number": 23,
+                "text": "A quem afrontaste e de quem blasfemaste? e contra quem alçaste a voz e ergueste os teus olhos ao alto? Contra o Santo de Israel."
+            },
+            {
+                "id": "v37.24",
+                "versicle_number": 24,
+                "text": "Por meio de teus servos afrontaste o Senhor, e disseste: Com a multidão dos meus carros subi eu aos cumes dos montes, aos últimos recessos do Líbano; e cortarei os seus altos cedros e as suas faias escolhidas, e entrarei no seu cume mais elevado, no bosque do seu campo fértil."
+            },
+            {
+                "id": "v37.25",
+                "versicle_number": 25,
+                "text": "Eu cavei, e bebi as águas; e com as plantas de meus pés sequei todos os rios do Egito."
+            },
+            {
+                "id": "v37.26",
+                "versicle_number": 26,
+                "text": "Porventura não ouviste que já muito antes eu fiz isto, e já desde os dias antigos o tinha pensado? Agora porém se cumpre, e eu quis que tu fosses que destruísses as cidades fortes, e as reduzisses a montões assolados."
+            },
+            {
+                "id": "v37.27",
+                "versicle_number": 27,
+                "text": "Por isso os seus moradores, com as mãos caídas, andam atemorizados e envergonhados: eram como a erva do campo, e a erva verde, e o feno dos telhados, e o trigo queimado antes da seara."
+            },
+            {
+                "id": "v37.28",
+                "versicle_number": 28,
+                "text": "Mas eu conheço o teu assentar, e o teu sair, e o teu entrar, e o teu furor contra mim."
+            },
+            {
+                "id": "v37.29",
+                "versicle_number": 29,
+                "text": "Por causa da tua raiva contra mim, e porque a tua arrogância subiu até aos meus ouvidos, eis que porei o meu anzol no teu nariz e o meu freio nos teus beiços, e te farei voltar pelo caminho por onde vieste."
+            },
+            {
+                "id": "v37.30",
+                "versicle_number": 30,
+                "text": "E isto te será por sinal: este ano se comerá o que espontaneamente nascer, e no segundo ano o que daí proceder: mas no terceiro ano semeai e segai, e plantai vinhas, e comei os frutos delas."
+            },
+            {
+                "id": "v37.31",
+                "versicle_number": 31,
+                "text": "Porque o que escapou da casa de Judá, e ficou de resto, tornará a lançar raízes para baixo, e dará fruto para cima."
+            },
+            {
+                "id": "v37.32",
+                "versicle_number": 32,
+                "text": "Porque de Jerusalém sairá o restante, e do monte de Sião o que escapou: o zelo do Senhor dos Exércitos fará isto."
+            },
+            {
+                "id": "v37.33",
+                "versicle_number": 33,
+                "text": "Pelo que assim diz o Senhor acerca do rei da Assíria: Não entrará nesta cidade, nem lançará nela frecha alguma: tão pouco virá perante ela com escudo, ou levantará contra ela tranqueira."
+            },
+            {
+                "id": "v37.34",
+                "versicle_number": 34,
+                "text": "Pelo caminho por onde vier, por esse voltará; mas nesta cidade não entrará, diz o Senhor."
+            },
+            {
+                "id": "v37.35",
+                "versicle_number": 35,
+                "text": "Porque eu ampararei esta cidade, para a livrar, por amor de mim e por amor do meu servo Davi."
+            },
+            {
+                "id": "v37.36",
+                "versicle_number": 36,
+                "text": "Então saiu o anjo do Senhor, e feriu no arraial dos assírios a cento e oitenta e cinco mil; e quando se levantaram pela manhã cedo, eis que tudo eram corpos mortos."
+            },
+            {
+                "id": "v37.37",
+                "versicle_number": 37,
+                "text": "Assim Senaqueribe, rei da Assíria, se retirou, e se foi, e voltou, e ficou em Nínive."
+            },
+            {
+                "id": "v37.38",
+                "versicle_number": 38,
+                "text": "E sucedeu que estando ele prostrado na casa de Nisroque, seu deus, Adrameleque e Sarezer, seus filhos, o feriram à espada; e eles fugiram para a terra de Arará: e Esaradom, seu filho, reinou em seu lugar.{note:3}"
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 37.16 Êx 25.22"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 36.1—37.20 2Cr 32.1-20"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 37.36-38 2Cr 32.21"
+            }
+        ]
+    }
+}

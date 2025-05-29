@@ -1,0 +1,177 @@
+{
+    "book": {
+        "id": "Gn",
+        "book_number": 1,
+        "new_testament": false,
+        "num_chapters": 50,
+        "book_name": "GÊNESIS",
+        "book_full_name": "O PRIMEIRO LIVRO DE MOISÉS GÊNESIS"
+    },
+    "chapter": {
+        "chapter_number": 50,
+        "chapter_reference": "",
+        "chapter_title": "A lamentação por Jacó e o seu enterro",
+        "versicles": [
+            {
+                "id": "v50.1",
+                "versicle_number": 1,
+                "text": "ENTÃO José se lançou sobre o rosto de seu pai; e chorou sobre ele, e o beijou."
+            },
+            {
+                "id": "v50.2",
+                "versicle_number": 2,
+                "text": "E José ordenou aos seus servos, os médicos, que embalsamassem a seu pai; e os médicos embalsamaram a Israel."
+            },
+            {
+                "id": "v50.3",
+                "versicle_number": 3,
+                "text": "E cumpriram-se-lhe quarenta dias; porque assim se cumprem os dias daqueles que se embalsamam; e os egípcios o choraram setenta dias."
+            },
+            {
+                "id": "v50.4",
+                "versicle_number": 4,
+                "text": "Passados pois os dias de seu choro, falou José à casa de Faraó, dizendo: Se agora tenho achado graça aos vossos olhos, rogo-vos que faleis aos ouvidos de Faraó, dizendo:"
+            },
+            {
+                "id": "v50.5",
+                "versicle_number": 5,
+                "text": "Meu pai me fez jurar,{note:1} dizendo: Eis que eu morro; em meu sepulcro, que cavei para mim na terra de Canaã, ali me sepultarás. Agora pois, te peço, que eu suba, para que sepulte a meu pai; então voltarei."
+            },
+            {
+                "id": "v50.6",
+                "versicle_number": 6,
+                "text": "E Faraó disse: Sobe, e sepulta a teu pai como ele te fez jurar."
+            },
+            {
+                "id": "v50.7",
+                "versicle_number": 7,
+                "text": "E José subiu para sepultar a seu pai; e subiram com ele todos os servos de Faraó, os anciãos da sua casa, e todos os anciãos da terra do Egito,"
+            },
+            {
+                "id": "v50.8",
+                "versicle_number": 8,
+                "text": "Como também toda a casa de José, e seus irmãos, e a casa de seu pai; somente deixaram na terra de Gósen os seus meninos, e as suas ovelhas, e as suas vacas."
+            },
+            {
+                "id": "v50.9",
+                "versicle_number": 9,
+                "text": "E subiram também com ele, tanto carros como gente a cavalo; e o concurso foi grandíssimo."
+            },
+            {
+                "id": "v50.10",
+                "versicle_number": 10,
+                "text": "Chegando eles pois à {note:r}eira do espinhal, que está além do Jordão, fizeram um grande e gravíssimo pranto, e fez a seu pai um grande pranto por sete dias."
+            },
+            {
+                "id": "v50.11",
+                "versicle_number": 11,
+                "text": "E vendo os moradores da terra, os cananeus, o luto na eira do espinhal, disseram: É este o pranto grande dos egípcios. Por isso chamou-se o seu nome Abelmizraim, que está além do Jordão."
+            },
+            {
+                "id": "v50.12",
+                "versicle_number": 12,
+                "text": "E fizeram-lhe os seus filhos assim como ele lhes ordenara,"
+            },
+            {
+                "id": "v50.13",
+                "versicle_number": 13,
+                "text": "Pois os seus filhos o levaram{note:2} à terra de Canaã, e o sepultaram na cova do campo de Macpela, que Abraão tinha comprado com o campo, por herança de sepultura, a Efrom, o heteu, em frente de Manre."
+            },
+            {
+                "id": "v50.14",
+                "versicle_number": 14,
+                "text": "Depois tornou José para o Egito, ele e seus irmãos, e todos os que com ele subiram a sepultar seu pai, depois de haver sepultado seu pai."
+            },
+            {
+                "id": "v50.15",
+                "versicle_number": 15,
+                "text": "Vendo então os irmãos de José que seu pai já estava morto, disseram: Porventura nos aborrecerá José, e nos pagará certamente todo o mal que lhe fizemos."
+            },
+            {
+                "id": "v50.16",
+                "versicle_number": 16,
+                "text": "Portanto enviaram a José, dizendo: Teu pai mandou, antes da sua morte dizendo:"
+            },
+            {
+                "id": "v50.17",
+                "versicle_number": 17,
+                "text": "Assim direis a José: Perdoa, rogo-te, a transgressão de teus irmãos, e o seu pecado, porque te fizeram mal; agora pois rogamos-te que perdoes a transgressão dos servos do Deus de teu pai. E José chorou quando eles lhe falavam."
+            },
+            {
+                "id": "v50.18",
+                "versicle_number": 18,
+                "text": "Depois vieram também seus irmãos, e prostraram-se diante dele, e disseram: Eis-nos aqui por teus servos."
+            },
+            {
+                "id": "v50.19",
+                "versicle_number": 19,
+                "text": "E José lhes disse: Não temais, porque porventura estou eu em lugar de Deus?"
+            },
+            {
+                "id": "v50.20",
+                "versicle_number": 20,
+                "text": "Vós bem intentastes mal contra mim, porém Deus o tornou em bem, para fazer como se vê neste dia, para conservar em vida a um povo grande;"
+            },
+            {
+                "id": "v50.21",
+                "versicle_number": 21,
+                "text": "Agora pois não temais; eu vos sustentarei a vós e a vossos meninos. Assim os consolou, e falou segundo o coração deles."
+            },
+            {
+                "id": "v50.22",
+                "versicle_number": 22,
+                "text": "José pois habitou no Egito, ele e a casa de seu pai; e viveu José cento e dez anos."
+            },
+            {
+                "id": "v50.23",
+                "versicle_number": 23,
+                "text": "E viu José os filhos de Efraim, da terceira geração; também os filhos de Maquir, filho de Manassés, nasceram sobre os joelhos de José."
+            },
+            {
+                "id": "v50.24",
+                "versicle_number": 24,
+                "text": "E disse José a seus irmãos: Eu morro; mas Deus certamente vos visitará, e vos fará subir desta terra para a terra que jurou a Abraão, a Isaque e a Jacó."
+            },
+            {
+                "id": "v50.25",
+                "versicle_number": 25,
+                "text": "E José fez jurar os filhos de Israel, dizendo: Certamente vos visitará Deus, e fareis transportar{note:3} os meus ossos daqui."
+            },
+            {
+                "id": "v50.26",
+                "versicle_number": 26,
+                "text": "E morreu José da idade de cento e dez anos; e o embalsamaram, e o puseram num caixão no Egito."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v50.14",
+                "text": "José anima a seus irmãos"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v50.22",
+                "text": "A morte de José"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 50.5 Gn 47.29-31"
+            },
+            {
+                "id": "n2",
+                "text": "{note:r} 50.10 ou eira de Atade"
+            },
+            {
+                "id": "n3",
+                "text": "{note:2} 50.13 At 7.16"
+            },
+            {
+                "id": "n4",
+                "text": "{note:3} 50.25 Êx 13.19; Js 24.32; Hb 11.22"
+            }
+        ]
+    }
+}

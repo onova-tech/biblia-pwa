@@ -1,0 +1,143 @@
+{
+    "book": {
+        "id": "1Tm",
+        "book_number": 54,
+        "new_testament": true,
+        "num_chapters": 6,
+        "book_name": "TIMÓTEO",
+        "book_full_name": "PRIMEIRA EPÍSTOLA DO APÓSTOLO PAULO A TIMÓTEO"
+    },
+    "chapter": {
+        "chapter_number": 6,
+        "chapter_reference": "",
+        "chapter_title": "Os deveres dos servos",
+        "versicles": [
+            {
+                "id": "v6.1",
+                "versicle_number": 1,
+                "text": "TODOS os servos que estão debaixo do jugo estimem a seus senhores por dignos de toda a honra, para que o nome de Deus e a doutrina não sejam blasfemados."
+            },
+            {
+                "id": "v6.2",
+                "versicle_number": 2,
+                "text": "E os que têm senhores crentes não os desprezem, por serem irmãos; antes os sirvam melhor, porque eles, que participam do benefício, são crentes e amados. Isto ensina e exorta."
+            },
+            {
+                "id": "v6.3",
+                "versicle_number": 3,
+                "text": "Se alguém ensina alguma outra doutrina, e se não conforma com as sãs palavras de nosso Senhor Jesus Cristo, e com a doutrina que é segundo a piedade,"
+            },
+            {
+                "id": "v6.4",
+                "versicle_number": 4,
+                "text": "É soberbo, e nada sabe, mas delira acerca de questões e contendas de palavras, das quais nascem invejas, porfias, blasfêmias, ruins suspeitas,"
+            },
+            {
+                "id": "v6.5",
+                "versicle_number": 5,
+                "text": "Contendas de homens corruptos de entendimento, e privados da verdade, cuidando que a piedade seja causa de ganho: aparta-te dos tais."
+            },
+            {
+                "id": "v6.6",
+                "versicle_number": 6,
+                "text": "Mas é grande ganho a piedade com contentamento."
+            },
+            {
+                "id": "v6.7",
+                "versicle_number": 7,
+                "text": "Porque nada trouxemos para este mundo, e manifesto é que nada podemos levar dele."
+            },
+            {
+                "id": "v6.8",
+                "versicle_number": 8,
+                "text": "Tendo, porém, sustento, e com que nos cobrirmos, estejamos com isso contentes."
+            },
+            {
+                "id": "v6.9",
+                "versicle_number": 9,
+                "text": "Mas os que querem ser ricos caem em tentação e em laço, e em muitas concupiscências loucas e nocivas, que submergem os homens na perdição e ruína."
+            },
+            {
+                "id": "v6.10",
+                "versicle_number": 10,
+                "text": "Porque o amor do dinheiro é a raiz de toda a espécie de males; e nessa cobiça alguns se desviaram da fé, e se traspassaram a si mesmos com muitas dores."
+            },
+            {
+                "id": "v6.11",
+                "versicle_number": 11,
+                "text": "Mas tu, ó homem de Deus, foge destas coisas, e segue a justiça, a piedade, a fé, {note:f}a caridade, a paciência, a mansidão."
+            },
+            {
+                "id": "v6.12",
+                "versicle_number": 12,
+                "text": "Milita a boa milícia da fé, toma posse da vida eterna, para a qual também foste chamado, {note:g}tendo já feito boa confissão diante de muitas testemunhas."
+            },
+            {
+                "id": "v6.13",
+                "versicle_number": 13,
+                "text": "Mando-te diante de Deus, que todas as coisas vivifica, e de Cristo Jesus, que diante de Pôncio Pilatos{note:1} deu o testemunho de boa confissão,"
+            },
+            {
+                "id": "v6.14",
+                "versicle_number": 14,
+                "text": "Que guardes este mandamento sem mácula e repreensão, até à aparição de nosso Senhor Jesus Cristo;"
+            },
+            {
+                "id": "v6.15",
+                "versicle_number": 15,
+                "text": "A qual a seu tempo mostrará o bem-aventurado, e único poderoso Senhor, Rei dos reis e Senhor dos senhores;"
+            },
+            {
+                "id": "v6.16",
+                "versicle_number": 16,
+                "text": "Aquele que tem, ele só, a imortalidade, e habita na luz inacessível; a quem nenhum dos homens viu nem pode ver: ao qual seja honra e poder sempiterno. Amém."
+            },
+            {
+                "id": "v6.17",
+                "versicle_number": 17,
+                "text": "Manda aos ricos deste mundo que não sejam altivos, nem ponham a esperança na incerteza das riquezas, mas em Deus, que abundantemente nos dá todas as coisas para delas gozarmos;"
+            },
+            {
+                "id": "v6.18",
+                "versicle_number": 18,
+                "text": "Que façam bem, enriqueçam em boas obras, repartam de boa mente, e sejam comunicáveis;"
+            },
+            {
+                "id": "v6.19",
+                "versicle_number": 19,
+                "text": "Que entesourem para si mesmos um bom fundamento para o futuro, para que possam alcançar a vida eterna."
+            },
+            {
+                "id": "v6.20",
+                "versicle_number": 20,
+                "text": "Ó Timóteo, guarda o depósito que te foi confiado, tendo horror aos clamores vãos e profanos e às oposições da falsamente chamada ciência;"
+            },
+            {
+                "id": "v6.21",
+                "versicle_number": 21,
+                "text": "A qual professando-a alguns, se desviaram da fé. A graça seja contigo. Amém."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v6.3",
+                "text": "Exortações e conselhos gerais. Conclusão"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:f} 6.11 ou o amor"
+            },
+            {
+                "id": "n2",
+                "text": "{note:g} 6.12 Gr. e já confessaste a boa confissão"
+            },
+            {
+                "id": "n3",
+                "text": "{note:1} 6.13 Jo 18.37"
+            }
+        ]
+    }
+}

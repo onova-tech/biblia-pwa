@@ -1,0 +1,217 @@
+{
+    "book": {
+        "id": "Ap",
+        "book_number": 66,
+        "new_testament": true,
+        "num_chapters": 22,
+        "book_name": "APOCALIPSE",
+        "book_full_name": "DO APÓSTOLO JOÃO APOCALIPSE"
+    },
+    "chapter": {
+        "chapter_number": 2,
+        "chapter_reference": "",
+        "chapter_title": "Cartas às sete igrejas da Ásia. Primeira carta, à igreja de Éfeso",
+        "versicles": [
+            {
+                "id": "v2.1",
+                "versicle_number": 1,
+                "text": "ESCREVE ao anjo da igreja que está em Éfeso: Isto diz aquele que tem na sua destra as sete estrelas, que anda no meio dos sete castiçais de ouro:"
+            },
+            {
+                "id": "v2.2",
+                "versicle_number": 2,
+                "text": "Eu sei as tuas obras, e o teu trabalho, e a tua paciência, e que não podes sofrer os maus; e puseste à prova os que dizem ser apóstolos e o não são, e tu os achaste mentirosos."
+            },
+            {
+                "id": "v2.3",
+                "versicle_number": 3,
+                "text": "E sofreste, e tens paciência; e trabalhaste pelo meu nome, e não te cansaste."
+            },
+            {
+                "id": "v2.4",
+                "versicle_number": 4,
+                "text": "Tenho, porém, contra ti que deixaste {note:b}a tua primeira caridade."
+            },
+            {
+                "id": "v2.5",
+                "versicle_number": 5,
+                "text": "Lembra-te pois donde caíste, e arrepende-te, e pratica as primeiras obras; quando não, brevemente a ti virei, e tirarei do seu lugar o teu castiçal, se não te arrependeres."
+            },
+            {
+                "id": "v2.6",
+                "versicle_number": 6,
+                "text": "Tens, porém, isto: que aborreces as obras dos nicolaítas, as quais eu também aborreço."
+            },
+            {
+                "id": "v2.7",
+                "versicle_number": 7,
+                "text": "Quem tem ouvidos, ouça o que o Espírito diz às igrejas: Ao que vencer, dar-lhe-ei a comer da árvore da vida,{note:1} que está no meio do paraíso de Deus."
+            },
+            {
+                "id": "v2.8",
+                "versicle_number": 8,
+                "text": "E ao anjo da igreja que está em Smirna, escreve: Isto diz o primeiro e o último, que foi morto, e reviveu:"
+            },
+            {
+                "id": "v2.9",
+                "versicle_number": 9,
+                "text": "Eu sei as tuas obras, e tribulação, e pobreza (mas tu és rico), e a blasfêmia dos que se dizem judeus, e não o são, mas são a sinagoga de Satanás."
+            },
+            {
+                "id": "v2.10",
+                "versicle_number": 10,
+                "text": "Nada temas das coisas que hás de padecer. Eis que o diabo lançará alguns de vós na prisão, para que sejais tentados; e tereis uma tribulação de dez dias. Sê fiel até a morte, e dar-te-ei a coroa da vida."
+            },
+            {
+                "id": "v2.11",
+                "versicle_number": 11,
+                "text": "Quem tem ouvidos, ouça o que o Espírito diz às igrejas: O que vencer não receberá o dano da segunda morte.{note:2}"
+            },
+            {
+                "id": "v2.12",
+                "versicle_number": 12,
+                "text": "E ao anjo da igreja que está em Pérgamo escreve: Isto diz aquele que tem a espada aguda de dois fios:"
+            },
+            {
+                "id": "v2.13",
+                "versicle_number": 13,
+                "text": "Eu sei as tuas obras, e onde habitas, que é onde está o trono de Satanás; e reténs o meu nome, e não negaste a minha fé, ainda nos dias de Antipas, minha fiel testemunha, o qual foi morto entre vós, onde Satanás habita."
+            },
+            {
+                "id": "v2.14",
+                "versicle_number": 14,
+                "text": "Mas umas poucas de coisas tenho contra ti: porque tens lá os que seguem a doutrina de Balaão,{note:3} o qual ensinava Balaque a lançar tropeços diante dos filhos de Israel, para que comessem dos sacrifícios da idolatria, e se prostituíssem."
+            },
+            {
+                "id": "v2.15",
+                "versicle_number": 15,
+                "text": "Assim tens também os que seguem a doutrina dos nicolaítas: o que eu aborreço."
+            },
+            {
+                "id": "v2.16",
+                "versicle_number": 16,
+                "text": "Arrepende-te, pois, quando não em breve virei a ti, e contra eles batalharei com a espada da minha boca."
+            },
+            {
+                "id": "v2.17",
+                "versicle_number": 17,
+                "text": "Quem tem ouvidos, ouça o que o Espírito diz às igrejas: Ao que vencer darei eu a comer do maná escondido,{note:4} e dar-lhe-ei uma pedra branca, e na pedra um novo nome escrito, o qual ninguém conhece senão aquele que o recebe."
+            },
+            {
+                "id": "v2.18",
+                "versicle_number": 18,
+                "text": "E ao anjo da igreja de Tiatira escreve: Isto diz o Filho de Deus, que tem seus olhos como chama de fogo, e os pés semelhantes ao latão reluzente:"
+            },
+            {
+                "id": "v2.19",
+                "versicle_number": 19,
+                "text": "Eu conheço as tuas obras, e {note:c}a tua caridade, e o teu serviço, e a tua fé, e a tua paciência, e que as tuas últimas obras são mais do que as primeiras."
+            },
+            {
+                "id": "v2.20",
+                "versicle_number": 20,
+                "text": "Mas tenho contra ti que toleras Jezabel,{note:5} mulher que se diz profetisa, ensinar e enganar os meus servos, para que se prostituam e comam dos sacrifícios da idolatria."
+            },
+            {
+                "id": "v2.21",
+                "versicle_number": 21,
+                "text": "E dei-lhe tempo para que se arrependesse da sua prostituição; e não se arrependeu."
+            },
+            {
+                "id": "v2.22",
+                "versicle_number": 22,
+                "text": "Eis que a porei numa cama, e sobre os que adulteram com ela virá grande tribulação, se não se arrependerem das suas obras."
+            },
+            {
+                "id": "v2.23",
+                "versicle_number": 23,
+                "text": "E ferirei de {note:d}morte a seus filhos, e todas as igrejas saberão que eu sou aquele que sonda os rins e os corações.{note:6} E darei a cada um de vós segundo as vossas obras.{note:7}"
+            },
+            {
+                "id": "v2.24",
+                "versicle_number": 24,
+                "text": "Mas eu vos digo a vós, e aos restantes que estão em Tiatira, a todos quantos não têm esta doutrina, e não conheceram, como dizem, as profundezas de Satanás, que outra carga vos não porei."
+            },
+            {
+                "id": "v2.25",
+                "versicle_number": 25,
+                "text": "Mas o que tendes retende-o até que eu venha."
+            },
+            {
+                "id": "v2.26",
+                "versicle_number": 26,
+                "text": "E ao que vencer, e guardar até ao fim as minhas obras, eu lhe darei poder sobre as nações,"
+            },
+            {
+                "id": "v2.27",
+                "versicle_number": 27,
+                "text": "E com vara de ferro as regerá: e serão quebradas como vasos de oleiro;{note:8} como também recebi de meu Pai."
+            },
+            {
+                "id": "v2.28",
+                "versicle_number": 28,
+                "text": "E dar-lhe-ei a estrela da manhã."
+            },
+            {
+                "id": "v2.29",
+                "versicle_number": 29,
+                "text": "Quem tem ouvidos, ouça o que o Espírito diz às igrejas."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v2.8",
+                "text": "Segunda carta, à igreja de Smirna"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v2.12",
+                "text": "Terceira carta, à igreja de Pérgamo"
+            },
+            {
+                "id": "s3",
+                "next_versicle_id": "v2.18",
+                "text": "Quarta carta, à igreja de Tiatira"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:b} 2.4 ou o teu primeiro amor"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 2.7 Gn 2.9; Ap 22.2"
+            },
+            {
+                "id": "n3",
+                "text": "{note:2} 2.11 Ap 20.14; 21.8"
+            },
+            {
+                "id": "n4",
+                "text": "{note:3} 2.14 Nm 25.1-2; 31.16"
+            },
+            {
+                "id": "n5",
+                "text": "{note:4} 2.17 Êx 16.14-15"
+            },
+            {
+                "id": "n6",
+                "text": "{note:c} 2.19 ou o teu amor"
+            },
+            {
+                "id": "n7",
+                "text": "{note:5} 2.20 1Rs 16.31; 2Rs 9.22,30"
+            },
+            {
+                "id": "n8",
+                "text": "{note:d} 2.23 ou pestilência {note:7} 2.23 Sl 62.12 {note:6} 2.23 Sl 7.9; Jr 17.10"
+            },
+            {
+                "id": "n9",
+                "text": "{note:8} 2.26-27 Sl 2.8-9"
+            }
+        ]
+    }
+}

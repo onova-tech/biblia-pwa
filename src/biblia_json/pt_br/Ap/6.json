@@ -1,0 +1,141 @@
+{
+    "book": {
+        "id": "Ap",
+        "book_number": 66,
+        "new_testament": true,
+        "num_chapters": 22,
+        "book_name": "APOCALIPSE",
+        "book_full_name": "DO APÓSTOLO JOÃO APOCALIPSE"
+    },
+    "chapter": {
+        "chapter_number": 6,
+        "chapter_reference": "",
+        "chapter_title": "A abertura dos primeiros seis selos",
+        "versicles": [
+            {
+                "id": "v6.1",
+                "versicle_number": 1,
+                "text": "E, HAVENDO o Cordeiro aberto um dos selos, olhei, e ouvi um dos quatro animais, que dizia como em voz de trovão: Vem, e vê."
+            },
+            {
+                "id": "v6.2",
+                "versicle_number": 2,
+                "text": "E olhei, e eis um cavalo branco:{note:1} e o que estava assentado sobre ele tinha um arco; e foi-lhe dada uma coroa, e saiu vitorioso, e para vencer."
+            },
+            {
+                "id": "v6.3",
+                "versicle_number": 3,
+                "text": "E, havendo aberto o segundo selo, ouvi o segundo animal, dizendo: Vem, e vê."
+            },
+            {
+                "id": "v6.4",
+                "versicle_number": 4,
+                "text": "E saiu outro cavalo, vermelho;{note:2} e ao que estava assentado sobre ele foi dado que tirasse a paz da terra, e que se matassem uns aos outros; e foi-lhe dada uma grande espada."
+            },
+            {
+                "id": "v6.5",
+                "versicle_number": 5,
+                "text": "E, havendo aberto o terceiro selo, ouvi dizer ao terceiro animal: Vem, e vê. E olhei, e eis um cavalo preto{note:3} e o que sobre ele estava assentado tinha uma balança na mão."
+            },
+            {
+                "id": "v6.6",
+                "versicle_number": 6,
+                "text": "E ouvi uma voz no meio dos quatro animais, que dizia: Uma medida de trigo por um dinheiro, e três medidas de cevada por um dinheiro: e não danifiques o azeite e o vinho."
+            },
+            {
+                "id": "v6.7",
+                "versicle_number": 7,
+                "text": "E, havendo aberto o quarto selo, ouvi a voz do quarto animal, que dizia: Vem, e vê."
+            },
+            {
+                "id": "v6.8",
+                "versicle_number": 8,
+                "text": "E olhei, e eis um cavalo amarelo, e o que estava assentado sobre ele tinha por nome Morte; e o {note:h}inferno o seguia; e foi-lhes dado poder para matar{note:4} a quarta parte da terra, com espada, e com fome, e com peste, e com as feras da terra."
+            },
+            {
+                "id": "v6.9",
+                "versicle_number": 9,
+                "text": "E, havendo aberto o quinto selo, vi debaixo do altar as almas dos que foram mortos por amor da palavra de Deus e por amor do testemunho que deram."
+            },
+            {
+                "id": "v6.10",
+                "versicle_number": 10,
+                "text": "E clamavam com grande voz, dizendo: Até quando, ó verdadeiro e santo Dominador, não julgas e vingas o nosso sangue dos que habitam sobre a terra?"
+            },
+            {
+                "id": "v6.11",
+                "versicle_number": 11,
+                "text": "E foram dadas a cada um compridas vestes brancas e foi-lhes dito que repousassem ainda um pouco de tempo, até que também se completasse o número de seus conservos e seus irmãos, que haviam de ser mortos como eles foram."
+            },
+            {
+                "id": "v6.12",
+                "versicle_number": 12,
+                "text": "E, havendo aberto o sexto selo, olhei, e eis que houve um grande tremor de terra; e o sol tornou-se negro{note:5} como saco de cilício, e a lua tornou-se como sangue."
+            },
+            {
+                "id": "v6.13",
+                "versicle_number": 13,
+                "text": "E as estrelas do céu caíram sobre a terra, como quando a figueira lança de si os seus figos verdes, abalada por um vento forte."
+            },
+            {
+                "id": "v6.14",
+                "versicle_number": 14,
+                "text": "E o céu retirou-se como um {note:i}livro que se enrola; e todos os montes e ilhas foram removidos dos seus lugares.{note:6}"
+            },
+            {
+                "id": "v6.15",
+                "versicle_number": 15,
+                "text": "E os reis da terra, e os grandes, e os ricos, e os tribunos, e os poderosos, e todo o servo, e todo o livre, se esconderam nas cavernas e nas rochas{note:7} das montanhas;"
+            },
+            {
+                "id": "v6.16",
+                "versicle_number": 16,
+                "text": "E diziam aos montes e aos rochedos:{note:8} Caí sobre nós, e escondei-nos do rosto daquele que está assentado sobre o trono, e da ira do Cordeiro;"
+            },
+            {
+                "id": "v6.17",
+                "versicle_number": 17,
+                "text": "Porque é vindo o grande dia da sua ira;{note:9} e quem poderá subsistir?"
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 6.2 Zc 1.8; 6.3"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 6.4 Zc 1.8; 6.2"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 6.5 Zc 6.2-6"
+            },
+            {
+                "id": "n4",
+                "text": "{note:h} 6.8 Gr. Hades {note:4} 6.8 Jr 15.3; Ez 5.12,17; 14.21"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 6.12 Is 13.10; Ez 32.7; Jl 2.31; Mt 24.29; Mc 13.24-25; Lc 21.25"
+            },
+            {
+                "id": "n6",
+                "text": "{note:i} 6.14 ou rolo {note:6} 6.13-14 Is 34.4"
+            },
+            {
+                "id": "n7",
+                "text": "{note:7} 6.15 Is 2.10"
+            },
+            {
+                "id": "n8",
+                "text": "{note:8} 6.16 Os 10.8"
+            },
+            {
+                "id": "n9",
+                "text": "{note:9} 6.17 Jl 2.11; Ml 3.2"
+            }
+        ]
+    }
+}

@@ -1,0 +1,331 @@
+{
+    "book": {
+        "id": "Jo",
+        "book_number": 43,
+        "new_testament": true,
+        "num_chapters": 21,
+        "book_name": "JOÃO",
+        "book_full_name": "O SANTO EVANGELHO SEGUNDO JOÃO"
+    },
+    "chapter": {
+        "chapter_number": 7,
+        "chapter_reference": "",
+        "chapter_title": "A incredulidade dos irmãos de Jesus",
+        "versicles": [
+            {
+                "id": "v7.1",
+                "versicle_number": 1,
+                "text": "E DEPOIS disto Jesus andava pela Galileia, e já não queria andar pela Judeia, pois os judeus procuravam matá-lo."
+            },
+            {
+                "id": "v7.2",
+                "versicle_number": 2,
+                "text": "E estava próxima a festa dos judeus, a dos tabernáculos.{note:1}"
+            },
+            {
+                "id": "v7.3",
+                "versicle_number": 3,
+                "text": "Disseram-lhe pois seus irmãos: Sai daqui, e vai para a Judeia, para que também os teus discípulos vejam as obras que fazes."
+            },
+            {
+                "id": "v7.4",
+                "versicle_number": 4,
+                "text": "Porque não há ninguém que procure ser conhecido que faça coisa alguma em oculto. Se fazes estas coisas, manifesta-te ao mundo."
+            },
+            {
+                "id": "v7.5",
+                "versicle_number": 5,
+                "text": "Porque nem mesmo seus irmãos criam nele."
+            },
+            {
+                "id": "v7.6",
+                "versicle_number": 6,
+                "text": "Disse-lhes pois Jesus: Ainda não é chegado o meu tempo, mas o vosso tempo sempre está pronto."
+            },
+            {
+                "id": "v7.7",
+                "versicle_number": 7,
+                "text": "O mundo não vos pode aborrecer, mas ele me aborrece a mim, porquanto dele testifico que as suas obras são más."
+            },
+            {
+                "id": "v7.8",
+                "versicle_number": 8,
+                "text": "Subi vós a esta festa: eu não subo ainda a esta festa; porque ainda o meu tempo não está cumprido."
+            },
+            {
+                "id": "v7.9",
+                "versicle_number": 9,
+                "text": "E, havendo-lhes dito isto, ficou na Galileia."
+            },
+            {
+                "id": "v7.10",
+                "versicle_number": 10,
+                "text": "Mas, quando seus irmãos já tinham subido à festa, então subiu ele também não manifestamente, mas como em oculto."
+            },
+            {
+                "id": "v7.11",
+                "versicle_number": 11,
+                "text": "Ora os judeus procuravam-no na festa, e diziam: Onde está ele?"
+            },
+            {
+                "id": "v7.12",
+                "versicle_number": 12,
+                "text": "E havia grande murmuração entre a multidão a respeito dele. Diziam alguns: Ele é bom. E outros diziam: Não, antes engana o povo."
+            },
+            {
+                "id": "v7.13",
+                "versicle_number": 13,
+                "text": "Todavia ninguém falava dele abertamente, por medo dos judeus."
+            },
+            {
+                "id": "v7.14",
+                "versicle_number": 14,
+                "text": "Mas, no meio da festa, subiu Jesus ao templo, e ensinava."
+            },
+            {
+                "id": "v7.15",
+                "versicle_number": 15,
+                "text": "E os judeus maravilhavam-se, dizendo: Como sabe este letras não as tendo aprendido?"
+            },
+            {
+                "id": "v7.16",
+                "versicle_number": 16,
+                "text": "Jesus lhes respondeu, e disse: A minha doutrina não é minha, mas daquele que me enviou."
+            },
+            {
+                "id": "v7.17",
+                "versicle_number": 17,
+                "text": "Se alguém quiser fazer a vontade dele, pela mesma doutrina conhecerá se ela é de Deus, ou se eu falo de mim mesmo."
+            },
+            {
+                "id": "v7.18",
+                "versicle_number": 18,
+                "text": "Quem fala de si mesmo busca a sua própria glória, mas o que busca a glória daquele que o enviou, esse é verdadeiro, e não há nele injustiça."
+            },
+            {
+                "id": "v7.19",
+                "versicle_number": 19,
+                "text": "Não vos deu Moisés a lei? e nenhum de vós observa a lei. Por que procurais matar-me?"
+            },
+            {
+                "id": "v7.20",
+                "versicle_number": 20,
+                "text": "A multidão respondeu, e disse: Tens demônio; quem procura matar-te?"
+            },
+            {
+                "id": "v7.21",
+                "versicle_number": 21,
+                "text": "Respondeu Jesus, e disse-lhes: Fiz uma obra, e todos vos maravilhais."
+            },
+            {
+                "id": "v7.22",
+                "versicle_number": 22,
+                "text": "Pelo motivo de que Moisés vos deu a circuncisão{note:2} (não que fosse de Moisés, mas dos pais),{note:3} no sábado circuncidais um homem."
+            },
+            {
+                "id": "v7.23",
+                "versicle_number": 23,
+                "text": "Se o homem recebe a circuncisão no sábado, para que a lei de Moisés não seja quebrantada, indignais-vos contra mim, porque no sábado curei de todo um homem?{note:4}"
+            },
+            {
+                "id": "v7.24",
+                "versicle_number": 24,
+                "text": "Não julgueis segundo a aparência, mas julgai segundo a reta justiça."
+            },
+            {
+                "id": "v7.25",
+                "versicle_number": 25,
+                "text": "Então alguns dos de Jerusalém diziam: Não é este o que procuram matar?"
+            },
+            {
+                "id": "v7.26",
+                "versicle_number": 26,
+                "text": "E ei-lo aí está falando abertamente, e nada lhe dizem. Porventura sabem verdadeiramente os príncipes que este é o Cristo?"
+            },
+            {
+                "id": "v7.27",
+                "versicle_number": 27,
+                "text": "Todavia bem sabemos donde este é; mas, quando vier o Cristo, ninguém saberá donde ele é."
+            },
+            {
+                "id": "v7.28",
+                "versicle_number": 28,
+                "text": "Clamava pois Jesus no templo, ensinando, e dizendo: Vós conheceis-me, e sabeis donde sou; e eu não vim de mim mesmo, mas aquele que me enviou é verdadeiro, o qual vós não conheceis."
+            },
+            {
+                "id": "v7.29",
+                "versicle_number": 29,
+                "text": "Mas eu conheço-o, porque dele sou e ele me enviou."
+            },
+            {
+                "id": "v7.30",
+                "versicle_number": 30,
+                "text": "Procuravam pois prendê-lo, mas ninguém lançou mão dele, porque ainda não era chegada a sua hora."
+            },
+            {
+                "id": "v7.31",
+                "versicle_number": 31,
+                "text": "E muitos da multidão creram nele, e diziam: Quando o Cristo vier, fará ainda mais sinais do que os que este tem feito?"
+            },
+            {
+                "id": "v7.32",
+                "versicle_number": 32,
+                "text": "Os fariseus ouviram que a multidão murmurava dele estas coisas; e os fariseus e os principais dos sacerdotes mandaram {note:c}servidores para o prenderem."
+            },
+            {
+                "id": "v7.33",
+                "versicle_number": 33,
+                "text": "Disse-lhes pois Jesus: Ainda um pouco de tempo estou convosco, e depois vou para aquele que me enviou."
+            },
+            {
+                "id": "v7.34",
+                "versicle_number": 34,
+                "text": "Vós me buscareis, e não me achareis; e onde eu estou vós não podeis vir."
+            },
+            {
+                "id": "v7.35",
+                "versicle_number": 35,
+                "text": "Disseram pois os judeus uns para os outros: Para onde irá este, que o não acharemos? Irá porventura para os dispersos entre os gregos, e ensinará os gregos?"
+            },
+            {
+                "id": "v7.36",
+                "versicle_number": 36,
+                "text": "Que palavra é esta que disse: Buscar-me-eis, e não me achareis; e: Aonde eu estou vós não podeis ir?"
+            },
+            {
+                "id": "v7.37",
+                "versicle_number": 37,
+                "text": "E no último dia, o grande dia da festa,{note:5} Jesus pôs-se em pé, e clamou, dizendo: Se alguém tem sede, venha a mim, e beba."
+            },
+            {
+                "id": "v7.38",
+                "versicle_number": 38,
+                "text": "Quem crê em mim, como diz a Escritura, rios d'água viva{note:6} correrão do seu ventre."
+            },
+            {
+                "id": "v7.39",
+                "versicle_number": 39,
+                "text": "E isto disse ele do Espírito que haviam de receber os que nele cressem; porque o Espírito Santo ainda não fora dado, por ainda Jesus não ter sido glorificado."
+            },
+            {
+                "id": "v7.40",
+                "versicle_number": 40,
+                "text": "Então muitos da multidão, ouvindo esta palavra, diziam: Verdadeiramente este é o Profeta."
+            },
+            {
+                "id": "v7.41",
+                "versicle_number": 41,
+                "text": "Outros diziam: Este é o Cristo: mas diziam outros: Vem pois o Cristo da Galileia?"
+            },
+            {
+                "id": "v7.42",
+                "versicle_number": 42,
+                "text": "Não diz a Escritura que o Cristo vem da descendência de Davi, e de Belém,{note:7} da aldeia donde era Davi?"
+            },
+            {
+                "id": "v7.43",
+                "versicle_number": 43,
+                "text": "Assim entre o povo havia dissensão por causa dele."
+            },
+            {
+                "id": "v7.44",
+                "versicle_number": 44,
+                "text": "E alguns deles queriam prendê-lo, mas ninguém lançou mão dele."
+            },
+            {
+                "id": "v7.45",
+                "versicle_number": 45,
+                "text": "E os {note:d}servidores foram ter com os principais dos sacerdotes e fariseus; e eles lhes perguntaram: Por que o não trouxestes?"
+            },
+            {
+                "id": "v7.46",
+                "versicle_number": 46,
+                "text": "Responderam os {note:e}servidores: Nunca homem algum falou assim como este homem."
+            },
+            {
+                "id": "v7.47",
+                "versicle_number": 47,
+                "text": "Responderam-lhes pois os fariseus: Também vós fostes enganados?"
+            },
+            {
+                "id": "v7.48",
+                "versicle_number": 48,
+                "text": "Creu nele porventura algum dos principais ou dos fariseus?"
+            },
+            {
+                "id": "v7.49",
+                "versicle_number": 49,
+                "text": "Mas esta multidão, que não sabe a lei, é maldita."
+            },
+            {
+                "id": "v7.50",
+                "versicle_number": 50,
+                "text": "Nicodemos que era um deles, (o que de noite fora ter com Jesus){note:8} disse-lhes:"
+            },
+            {
+                "id": "v7.51",
+                "versicle_number": 51,
+                "text": "Porventura condena a nossa lei um homem sem primeiro o ouvir e ter conhecimento do que faz?"
+            },
+            {
+                "id": "v7.52",
+                "versicle_number": 52,
+                "text": "Responderam eles, e disseram-lhe. És tu também da Galileia? Examina, e verás que da Galileia nenhum profeta surgiu."
+            },
+            {
+                "id": "v7.53",
+                "versicle_number": 53,
+                "text": "E cada um foi para sua casa."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v7.10",
+                "text": "Jesus ensina no templo na festa dos tabernáculos. Dissensão entre os judeus acerca da sua pessoa. Os fariseus mandam prendê-lo"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 7.2 Lv 23.34; Dt 16.13"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 7.22 Lv 12.3 {note:3} 7.22 Gn 17.10"
+            },
+            {
+                "id": "n3",
+                "text": "{note:4} 7.23 Jo 5.9"
+            },
+            {
+                "id": "n4",
+                "text": "{note:c} 7.32 ou meirinhos"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 7.37 Lv 23.36"
+            },
+            {
+                "id": "n6",
+                "text": "{note:6} 7.38 Ez 47.1; Zc 14.8"
+            },
+            {
+                "id": "n7",
+                "text": "{note:7} 7.42 Mq 5.2"
+            },
+            {
+                "id": "n8",
+                "text": "{note:d} 7.45 ou meirinhos"
+            },
+            {
+                "id": "n9",
+                "text": "{note:e} 7.46 ou meirinhos"
+            },
+            {
+                "id": "n10",
+                "text": "{note:8} 7.50 Jo 3.1"
+            }
+        ]
+    }
+}

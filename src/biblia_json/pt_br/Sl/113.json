@@ -1,0 +1,69 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 113,
+        "chapter_reference": "",
+        "chapter_title": "Exortação a louvar a Deus pela sua grandeza e por amor da sua bondade para com os pobres",
+        "versicles": [
+            {
+                "id": "v113.1",
+                "versicle_number": 1,
+                "text": "{note:b}LOUVAI ao Senhor. Louvai servos do Senhor, louvai o nome do Senhor."
+            },
+            {
+                "id": "v113.2",
+                "versicle_number": 2,
+                "text": "Seja bendito o nome do Senhor desde agora para sempre."
+            },
+            {
+                "id": "v113.3",
+                "versicle_number": 3,
+                "text": "Desde o nascimento do sol até ao ocaso, seja louvado o nome do Senhor."
+            },
+            {
+                "id": "v113.4",
+                "versicle_number": 4,
+                "text": "Exaltado está o Senhor acima de todas as nações, e a sua glória sobre os céus."
+            },
+            {
+                "id": "v113.5",
+                "versicle_number": 5,
+                "text": "Quem é como o Senhor nosso Deus, que habita nas alturas;"
+            },
+            {
+                "id": "v113.6",
+                "versicle_number": 6,
+                "text": "Que se curva; para ver o que está nos céus e na terra;"
+            },
+            {
+                "id": "v113.7",
+                "versicle_number": 7,
+                "text": "Que do pó levanta o pequeno, e do monturo ergue o necessitado,"
+            },
+            {
+                "id": "v113.8",
+                "versicle_number": 8,
+                "text": "Para o fazer assentar com os príncipes, sim, com os príncipes do seu povo;"
+            },
+            {
+                "id": "v113.9",
+                "versicle_number": 9,
+                "text": "Que faz com que a mulher estéril habite em família, e seja alegre mãe de filhos?! Louvai ao Senhor."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:b} 113.1 Heb. Aleluia"
+            }
+        ]
+    }
+}

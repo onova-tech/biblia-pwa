@@ -1,0 +1,213 @@
+{
+    "book": {
+        "id": "Mt",
+        "book_number": 40,
+        "new_testament": true,
+        "num_chapters": 28,
+        "book_name": "MATEUS",
+        "book_full_name": "O SANTO EVANGELHO SEGUNDO MATEUS"
+    },
+    "chapter": {
+        "chapter_number": 11,
+        "chapter_reference": "Lucas 7.18-35",
+        "chapter_title": "João Batista envia dois discípulos seus a Jesus",
+        "versicles": [
+            {
+                "id": "v11.1",
+                "versicle_number": 1,
+                "text": "E, ACONTECEU que, acabando Jesus de dar instruções aos seus doze discípulos, partiu dali a ensinar e a pregar nas cidades deles."
+            },
+            {
+                "id": "v11.2",
+                "versicle_number": 2,
+                "text": "E João, ouvindo no cárcere falar dos feitos de Cristo, enviou dois dos seus discípulos,"
+            },
+            {
+                "id": "v11.3",
+                "versicle_number": 3,
+                "text": "A dizer-lhe: És tu aquele que havia de vir, ou esperamos outro?"
+            },
+            {
+                "id": "v11.4",
+                "versicle_number": 4,
+                "text": "E Jesus, respondendo, disse-lhe: Ide, e anunciai a João as coisas que ouvis e vedes:"
+            },
+            {
+                "id": "v11.5",
+                "versicle_number": 5,
+                "text": "Os cegos{note:1} veem, e os coxos andam; os leprosos são limpos, e os surdos ouvem; os mortos são ressuscitados, e aos pobres é anunciado o evangelho.{note:2}"
+            },
+            {
+                "id": "v11.6",
+                "versicle_number": 6,
+                "text": "E bem-aventurado é aquele que se não escandalizar em mim."
+            },
+            {
+                "id": "v11.7",
+                "versicle_number": 7,
+                "text": "E, partindo eles, começou Jesus a dizer às turbas, a respeito de João: Que fostes ver no deserto? uma cana agitada pelo vento?"
+            },
+            {
+                "id": "v11.8",
+                "versicle_number": 8,
+                "text": "Sim, que fostes ver? um homem ricamente vestido? Os que trajam ricamente estão nas casas dos reis."
+            },
+            {
+                "id": "v11.9",
+                "versicle_number": 9,
+                "text": "Mas então que fostes ver? um profeta? sim, vos digo eu, e muito mais do que profeta;"
+            },
+            {
+                "id": "v11.10",
+                "versicle_number": 10,
+                "text": "Porque é este de quem está escrito: Eis que diante da tua face envio o meu anjo, que preparará diante de ti o teu caminho.{note:3}"
+            },
+            {
+                "id": "v11.11",
+                "versicle_number": 11,
+                "text": "Em verdade vos digo que, entre os que de mulher têm nascido, não apareceu alguém maior do que João Batista; mas aquele que é o menor no reino dos céus é maior do que ele."
+            },
+            {
+                "id": "v11.12",
+                "versicle_number": 12,
+                "text": "E, desde os dias de João Batista até agora, se faz violência ao reino dos céus, e pela força se apoderam dele."
+            },
+            {
+                "id": "v11.13",
+                "versicle_number": 13,
+                "text": "Porque todos os profetas e a lei profetizaram até João.{note:4}"
+            },
+            {
+                "id": "v11.14",
+                "versicle_number": 14,
+                "text": "E, se quereis dar crédito, é este o Elias{note:5} que havia de vir."
+            },
+            {
+                "id": "v11.15",
+                "versicle_number": 15,
+                "text": "Quem tem ouvidos para ouvir ouça."
+            },
+            {
+                "id": "v11.16",
+                "versicle_number": 16,
+                "text": "Mas, a quem assemelharei esta geração? É semelhante aos meninos que se assentam nas praças, e clamam aos seus companheiros,"
+            },
+            {
+                "id": "v11.17",
+                "versicle_number": 17,
+                "text": "E dizem: Tocamo-vos flauta, e não dançastes: cantamo-vos lamentações, e não chorastes."
+            },
+            {
+                "id": "v11.18",
+                "versicle_number": 18,
+                "text": "Porquanto veio João, não comendo nem bebendo, e dizem: Tem demônio."
+            },
+            {
+                "id": "v11.19",
+                "versicle_number": 19,
+                "text": "Veio o Filho do homem, comendo e bebendo, e dizem: Eis aí um homem comilão e beberrão, amigo de publicanos e pecadores. Mas a sabedoria é justificada por seus filhos."
+            },
+            {
+                "id": "v11.20",
+                "versicle_number": 20,
+                "text": "Então começou ele a lançar em rosto às cidades onde se operou a maior parte dos seus prodígios o não se haverem arrependido, dizendo:"
+            },
+            {
+                "id": "v11.21",
+                "versicle_number": 21,
+                "text": "Ai de ti, Corazim! ai de ti, Betsaida! porque, se em Tiro e em Sidom fossem feitos os prodígios que em vós se fizeram, há muito que se teriam arrependido, com saco e com cinza."
+            },
+            {
+                "id": "v11.22",
+                "versicle_number": 22,
+                "text": "Por isso eu vos digo que haverá menos rigor para Tiro e Sidom, no dia do juízo, do que para vós.{note:6}"
+            },
+            {
+                "id": "v11.23",
+                "versicle_number": 23,
+                "text": "E tu, Capernaum, que te ergues até aos céus,{note:7} serás abatida até aos infernos; porque, se em Sodoma tivessem sido feitos os prodígios que em ti se operaram, teria ela permanecido até hoje."
+            },
+            {
+                "id": "v11.24",
+                "versicle_number": 24,
+                "text": "Porém eu vos digo que haverá menos rigor para os de Sodoma, no dia do juízo, do que para ti.{note:8}"
+            },
+            {
+                "id": "v11.25",
+                "versicle_number": 25,
+                "text": "Naquele tempo, respondendo Jesus, disse: Graças te dou, ó Pai, Senhor do céu e da terra, que ocultaste estas coisas aos sábios e entendidos, e as revelaste aos pequeninos."
+            },
+            {
+                "id": "v11.26",
+                "versicle_number": 26,
+                "text": "Sim, ó Pai, porque assim te aprouve."
+            },
+            {
+                "id": "v11.27",
+                "versicle_number": 27,
+                "text": "Todas as coisas me foram entregues{note:9} por meu Pai: e ninguém conhece o Filho, senão o Pai;{note:10} e ninguém conhece o Pai, senão o Filho, e aquele a quem o Filho o quiser revelar."
+            },
+            {
+                "id": "v11.28",
+                "versicle_number": 28,
+                "text": "Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei."
+            },
+            {
+                "id": "v11.29",
+                "versicle_number": 29,
+                "text": "Tomai sobre vós o meu jugo, e aprendei de mim, que sou manso e humilde de coração; e encontrareis descanso para as vossas almas."
+            },
+            {
+                "id": "v11.30",
+                "versicle_number": 30,
+                "text": "Porque o meu jugo é suave e o meu fardo é leve."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "",
+                "text": "As três cidades impenitentes"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "",
+                "text": "O jugo de Jesus"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 11.5 Is 35.5-6 {note:2} 11.5 Is 61.1"
+            },
+            {
+                "id": "n2",
+                "text": "{note:3} 11.10 Ml 3.1"
+            },
+            {
+                "id": "n3",
+                "text": "{note:4} 11.12-13 Lc 16.16"
+            },
+            {
+                "id": "n4",
+                "text": "{note:5} 11.14 Ml 4.5; Mt 17.10-13; Mc 9.11-13"
+            },
+            {
+                "id": "n5",
+                "text": "{note:6} 11.21-22 Is 23.1-18; Ez 26.1—28.26; Jl 3.4-8; Am 1.9-10; Zc 9.2-4"
+            },
+            {
+                "id": "n6",
+                "text": "{note:7} 11.23 Is 14.13-15"
+            },
+            {
+                "id": "n7",
+                "text": "{note:8} 11.23-24 Gn 19.24-28; Mt 10.15; Lc 10.12"
+            },
+            {
+                "id": "n8",
+                "text": "{note:9} 11.27 Jo 3.35 {note:10} 11.27 Jo 10.15"
+            }
+        ]
+    }
+}

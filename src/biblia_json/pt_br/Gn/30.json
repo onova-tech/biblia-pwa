@@ -1,0 +1,281 @@
+{
+    "book": {
+        "id": "Gn",
+        "book_number": 1,
+        "new_testament": false,
+        "num_chapters": 50,
+        "book_name": "GÊNESIS",
+        "book_full_name": "O PRIMEIRO LIVRO DE MOISÉS GÊNESIS"
+    },
+    "chapter": {
+        "chapter_number": 30,
+        "chapter_reference": "",
+        "chapter_title": "Labão faz um novo pacto com Jacó",
+        "versicles": [
+            {
+                "id": "v30.1",
+                "versicle_number": 1,
+                "text": "VENDO pois Raquel que não dava filhos a Jacó, teve Raquel inveja de sua irmã, e disse a Jacó; Dá-me filhos, ou se não morro."
+            },
+            {
+                "id": "v30.2",
+                "versicle_number": 2,
+                "text": "Então se acendeu a ira de Jacó contra Raquel, e disse: Estou eu no lugar de Deus, que te impediu o fruto de teu ventre?"
+            },
+            {
+                "id": "v30.3",
+                "versicle_number": 3,
+                "text": "E ela disse: Eis aqui minha serva Bilha: entra a ela, para que tenha filhos sobre os meus joelhos, e eu assim {note:v}receba filhos por ela."
+            },
+            {
+                "id": "v30.4",
+                "versicle_number": 4,
+                "text": "Assim lhe deu a Bilha sua serva por mulher; e Jacó entrou a ela."
+            },
+            {
+                "id": "v30.5",
+                "versicle_number": 5,
+                "text": "E concebeu Bilha, e deu a Jacó um filho."
+            },
+            {
+                "id": "v30.6",
+                "versicle_number": 6,
+                "text": "Então disse Raquel: Julgou-me Deus, e também ouviu a minha voz, e me deu um filho; por isso chamou o seu nome {note:w}Dã."
+            },
+            {
+                "id": "v30.7",
+                "versicle_number": 7,
+                "text": "E Bilha, serva de Raquel, concebeu outra vez, e deu a Jacó o segundo filho."
+            },
+            {
+                "id": "v30.8",
+                "versicle_number": 8,
+                "text": "Então disse Raquel: Com lutas de Deus tenho lutado com minha irmã, também venci; e chamou o seu nome {note:x}Naftali."
+            },
+            {
+                "id": "v30.9",
+                "versicle_number": 9,
+                "text": "Vendo pois Leia que cessava de gerar, tomou também a Zilpa sua serva, e deu-a a Jacó por mulher."
+            },
+            {
+                "id": "v30.10",
+                "versicle_number": 10,
+                "text": "E deu Zilpa, serva de Leia, um filho a Jacó."
+            },
+            {
+                "id": "v30.11",
+                "versicle_number": 11,
+                "text": "Então disse Leia: {note:y}Vem uma turba: e chamou o seu nome de {note:z}Gade."
+            },
+            {
+                "id": "v30.12",
+                "versicle_number": 12,
+                "text": "Depois deu Zilpa, serva de Leia, um segundo filho a Jacó."
+            },
+            {
+                "id": "v30.13",
+                "versicle_number": 13,
+                "text": "Então disse Leia: {note:a}Para minha ventura; porque as filhas me terão por bem-aventurada; e chamou o seu nome {note:b}Aser."
+            },
+            {
+                "id": "v30.14",
+                "versicle_number": 14,
+                "text": "E foi Rúben nos dias da sega do trigo e achou mandrágoras no campo. E trouxe-as a Leia, sua mãe. Então disse Raquel a Leia: Ora dá-me das mandrágoras do teu filho."
+            },
+            {
+                "id": "v30.15",
+                "versicle_number": 15,
+                "text": "E ela lhe disse: É já pouco que hajas tomado o meu marido, tomarás também as mandrágoras do meu filho? Então disse Raquel: Por isso se deitará contigo esta noite pelas mandrágoras de teu filho."
+            },
+            {
+                "id": "v30.16",
+                "versicle_number": 16,
+                "text": "Vindo pois Jacó à tarde do campo, saiu-lhe Leia ao encontro, e disse: A mim entrarás, porque certamente te aluguei com as mandrágoras do meu filho. E deitou-se com ela aquela noite."
+            },
+            {
+                "id": "v30.17",
+                "versicle_number": 17,
+                "text": "E ouviu Deus a Leia, e concebeu, e teve um quinto filho."
+            },
+            {
+                "id": "v30.18",
+                "versicle_number": 18,
+                "text": "Então disse Leia: Deus me tem dado o meu galardão, pois tenho dado minha serva ao meu marido. E chamou o seu nome {note:c}Issacar."
+            },
+            {
+                "id": "v30.19",
+                "versicle_number": 19,
+                "text": "E Leia concebeu outra vez, e deu a Jacó um sexto filho."
+            },
+            {
+                "id": "v30.20",
+                "versicle_number": 20,
+                "text": "E disse Leia: Deus me deu a mim uma boa dádiva: desta vez morará o meu marido comigo, porque lhe tenho dado seis filhos. E chamou o seu nome {note:d}Zebulom."
+            },
+            {
+                "id": "v30.21",
+                "versicle_number": 21,
+                "text": "E depois teve uma filha, e chamou o seu nome {note:e}Diná."
+            },
+            {
+                "id": "v30.22",
+                "versicle_number": 22,
+                "text": "E lembrou-se Deus de Raquel, e Deus a ouviu, e abriu a sua madre,"
+            },
+            {
+                "id": "v30.23",
+                "versicle_number": 23,
+                "text": "E ela concebeu, e teve um filho, e disse: Tirou-me Deus a minha vergonha."
+            },
+            {
+                "id": "v30.24",
+                "versicle_number": 24,
+                "text": "E chamou o seu nome {note:f}José, dizendo: O Senhor me acrescente outro filho."
+            },
+            {
+                "id": "v30.25",
+                "versicle_number": 25,
+                "text": "E aconteceu que, quando Raquel teve a José, disse Jacó a Labão: Deixa-me ir, que me vá ao meu lugar, e à minha terra."
+            },
+            {
+                "id": "v30.26",
+                "versicle_number": 26,
+                "text": "Dá-me as minhas mulheres, e os meus filhos, pelas quais te tenho servido, e ir-me-ei; pois tu sabes o meu serviço, que te tenho feito."
+            },
+            {
+                "id": "v30.27",
+                "versicle_number": 27,
+                "text": "Então lhe disse Labão: Se agora tenho achado graça em teus olhos, fica comigo. {note:g}Tenho experimentado que o Senhor me abençoou por amor de ti."
+            },
+            {
+                "id": "v30.28",
+                "versicle_number": 28,
+                "text": "E disse mais: Determina-me o teu salário, que to darei."
+            },
+            {
+                "id": "v30.29",
+                "versicle_number": 29,
+                "text": "Então lhe disse: Tu sabes como te tenho servido, e como passou o teu gado comigo."
+            },
+            {
+                "id": "v30.30",
+                "versicle_number": 30,
+                "text": "Porque o pouco que tinhas antes de mim, é aumentado até uma multidão: e o Senhor te tem abençoado por meu trabalho. Agora, pois, quando hei de trabalhar também por minha casa?"
+            },
+            {
+                "id": "v30.31",
+                "versicle_number": 31,
+                "text": "E disse ele: Que te darei? Então disse Jacó: Nada me darás; tornarei a apascentar e a guardar o teu rebanho se me fizeres isto:"
+            },
+            {
+                "id": "v30.32",
+                "versicle_number": 32,
+                "text": "Passarei hoje por todo o teu rebanho, separando dele todos os salpicados e malhados, e todos os morenos entre os cordeiros, e os malhados e salpicados entre as cabras; e isto será o meu salário."
+            },
+            {
+                "id": "v30.33",
+                "versicle_number": 33,
+                "text": "Assim testificará por mim a minha justiça no dia de amanhã, quando vieres e o meu salário estiver diante de tua face; tudo o que não for salpicado e malhado entre as cabras e moreno entre os cordeiros, ser-me-á por furto."
+            },
+            {
+                "id": "v30.34",
+                "versicle_number": 34,
+                "text": "Então disse Labão: Eis que oxalá seja conforme à tua palavra."
+            },
+            {
+                "id": "v30.35",
+                "versicle_number": 35,
+                "text": "E separou naquele mesmo dia os bodes listrados e malhados e todas as cabras salpicadas e malhadas, tudo em que havia brancura, e todo o moreno entre os cordeiros; e deu-os nas mãos dos seus filhos."
+            },
+            {
+                "id": "v30.36",
+                "versicle_number": 36,
+                "text": "E pôs três dias de caminho entre si e Jacó; e Jacó apascentava o resto dos rebanhos de Labão."
+            },
+            {
+                "id": "v30.37",
+                "versicle_number": 37,
+                "text": "Então tomou Jacó varas verdes de álamo, e de aveleira e de castanheiro, e descascou nelas riscas brancas, descobrindo a brancura que nas varas havia,"
+            },
+            {
+                "id": "v30.38",
+                "versicle_number": 38,
+                "text": "E pôs estas varas, que tinha descascado, em frente do rebanho, nos canos e nas pias de água, aonde o rebanho vinha a beber, e conceberam vindo a beber."
+            },
+            {
+                "id": "v30.39",
+                "versicle_number": 39,
+                "text": "E concebia o rebanho diante das varas, e as ovelhas davam crias listradas, salpicadas e malhadas."
+            },
+            {
+                "id": "v30.40",
+                "versicle_number": 40,
+                "text": "Então separou Jacó os cordeiros, e pôs as faces do rebanho para os listrados, e todo o moreno entre o rebanho de Labão; e pôs o seu rebanho à parte, e não o pôs com o rebanho de Labão."
+            },
+            {
+                "id": "v30.41",
+                "versicle_number": 41,
+                "text": "E sucedia que cada vez que concebiam as ovelhas fortes, punha Jacó as varas diante dos olhos do rebanho nos canos, para que concebessem diante das varas."
+            },
+            {
+                "id": "v30.42",
+                "versicle_number": 42,
+                "text": "Mas quando enfraqueceu o rebanho, não as pôs. Assim as fracas eram de Labão, e as fortes de Jacó."
+            },
+            {
+                "id": "v30.43",
+                "versicle_number": 43,
+                "text": "E cresceu o varão em grande maneira, e teve muitos rebanhos, e servas, e servos e camelos e jumentos."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v30.37",
+                "text": "A maneira como Jacó se pagou de Labão"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:v} 30.3 ou tenha filhos"
+            },
+            {
+                "id": "n2",
+                "text": "{note:w} 30.6 que significa juiz"
+            },
+            {
+                "id": "n3",
+                "text": "{note:x} 30.8 que significa lutando"
+            },
+            {
+                "id": "n4",
+                "text": "{note:y} 30.11 Heb. Vem uma fortuna {note:z} 30.11 que significa fortuna"
+            },
+            {
+                "id": "n5",
+                "text": "{note:a} 30.13 Heb. Sou feliz {note:b} 30.13 que significa feliz"
+            },
+            {
+                "id": "n6",
+                "text": "{note:c} 30.18 que significa galardão"
+            },
+            {
+                "id": "n7",
+                "text": "{note:d} 30.20 que significa morada"
+            },
+            {
+                "id": "n8",
+                "text": "{note:e} 30.21 que significa julgada"
+            },
+            {
+                "id": "n9",
+                "text": "{note:f} 30.24 que significa aumentador"
+            },
+            {
+                "id": "n10",
+                "text": "{note:g} 30.27 Heb. Tenho adivinhado"
+            }
+        ]
+    }
+}

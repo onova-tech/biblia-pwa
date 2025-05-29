@@ -1,0 +1,69 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 47,
+        "chapter_reference": "",
+        "chapter_title": "O triunfo do reino de Deus",
+        "versicles": [
+            {
+                "id": "v47.1",
+                "versicle_number": 1,
+                "text": "APLAUDI com as mãos, todos os povos; cantai a Deus com voz de triunfo."
+            },
+            {
+                "id": "v47.2",
+                "versicle_number": 2,
+                "text": "Porque o Senhor Altíssimo é tremendo, e Rei grande sobre toda a terra."
+            },
+            {
+                "id": "v47.3",
+                "versicle_number": 3,
+                "text": "Ele nos submeterá os povos e porá as nações debaixo dos nossos pés."
+            },
+            {
+                "id": "v47.4",
+                "versicle_number": 4,
+                "text": "Escolherá para nós a nossa herança, a glória de Jacó, a quem amou. (Selá.)"
+            },
+            {
+                "id": "v47.5",
+                "versicle_number": 5,
+                "text": "Deus subiu com júbilo, o Senhor subiu ao som da trombeta."
+            },
+            {
+                "id": "v47.6",
+                "versicle_number": 6,
+                "text": "Cantai louvores a Deus, cantai louvores; cantai louvores ao nosso Rei, cantai louvores."
+            },
+            {
+                "id": "v47.7",
+                "versicle_number": 7,
+                "text": "Pois Deus é o Rei de toda a terra, cantai louvores com inteligência."
+            },
+            {
+                "id": "v47.8",
+                "versicle_number": 8,
+                "text": "Deus reina sobre as nações: Deus se assenta {note:k}sobre o trono da sua santidade."
+            },
+            {
+                "id": "v47.9",
+                "versicle_number": 9,
+                "text": "Os príncipes dos povos se congregam para serem o povo do Deus de Abraão; porque os escudos da terra são de Deus: ele está muito elevado!"
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:k} 47.8 ou sobre o seu santo trono"
+            }
+        ]
+    }
+}

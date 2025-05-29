@@ -1,0 +1,328 @@
+{
+    "book": {
+        "id": "Hb",
+        "book_number": 58,
+        "new_testament": true,
+        "num_chapters": 13,
+        "book_name": "HEBREUS",
+        "book_full_name": "EPÍSTOLA AOS HEBREUS"
+    },
+    "chapter": {
+        "chapter_number": 11,
+        "chapter_reference": "",
+        "chapter_title": "A natureza da fé, e exemplos da fé tirados do Velho Testamento",
+        "versicles": [
+            {
+                "id": "v11.1",
+                "versicle_number": 1,
+                "text": "ORA, a fé é o firme fundamento das coisas que se esperam, e a prova das coisas que se não veem."
+            },
+            {
+                "id": "v11.2",
+                "versicle_number": 2,
+                "text": "Porque por ela os antigos alcançaram testemunho."
+            },
+            {
+                "id": "v11.3",
+                "versicle_number": 3,
+                "text": "Pela fé entendemos que os mundos pela palavra de Deus{note:1} foram criados; de maneira que aquilo que se vê não foi feito do que é aparente."
+            },
+            {
+                "id": "v11.4",
+                "versicle_number": 4,
+                "text": "Pela fé Abel ofereceu{note:2} a Deus maior sacrifício do que Caim, pelo qual alcançou testemunho de que era justo, dando Deus testemunho dos seus dons, e por ela, depois de morto, ainda fala."
+            },
+            {
+                "id": "v11.5",
+                "versicle_number": 5,
+                "text": "Pela fé Enoque foi trasladado{note:3} para não ver a morte, e não foi achado, porque Deus o trasladara; visto como antes da sua trasladação alcançou testemunho de que agradara a Deus."
+            },
+            {
+                "id": "v11.6",
+                "versicle_number": 6,
+                "text": "Ora, sem fé é impossível agradar-lhe: porque é necessário que aquele que se aproxima de Deus creia que ele existe, e que é galardoador dos que o buscam."
+            },
+            {
+                "id": "v11.7",
+                "versicle_number": 7,
+                "text": "Pela fé Noé, divinamente avisado das coisas que ainda se não viam, temeu, e, para salvação da sua família, {note:r}preparou a arca,{note:4} pela qual condenou o mundo, e foi feito herdeiro da justiça que é segundo a fé."
+            },
+            {
+                "id": "v11.8",
+                "versicle_number": 8,
+                "text": "Pela fé Abraão, sendo chamado, obedeceu,{note:5} indo para um lugar que havia de receber por herança; e saiu, sem saber para onde ia."
+            },
+            {
+                "id": "v11.9",
+                "versicle_number": 9,
+                "text": "Pela fé habitou{note:6} na terra da promessa, como em terra alheia, morando em cabanas com Isaque e Jacó, herdeiros com ele da mesma promessa."
+            },
+            {
+                "id": "v11.10",
+                "versicle_number": 10,
+                "text": "Porque esperava a cidade que tem fundamentos, da qual o artífice e construtor é Deus."
+            },
+            {
+                "id": "v11.11",
+                "versicle_number": 11,
+                "text": "Pela fé também a mesma Sara{note:7} recebeu a virtude de {note:s}conceber, e deu à luz já fora da idade; porquanto teve por fiel aquele que lho tinha prometido."
+            },
+            {
+                "id": "v11.12",
+                "versicle_number": 12,
+                "text": "Pelo que também de um, e esse já amortecido, descenderam tantos, em multidão, como as estrelas do céu,{note:8} e como a areia{note:9} inumerável que está na praia do mar."
+            },
+            {
+                "id": "v11.13",
+                "versicle_number": 13,
+                "text": "Todos estes morreram na fé, sem terem recebido as promessas, mas vendo-as de longe e crendo-as e abraçando-as, confessaram{note:10} que eram estrangeiros e peregrinos na terra."
+            },
+            {
+                "id": "v11.14",
+                "versicle_number": 14,
+                "text": "Porque, os que isto dizem, claramente mostram que buscam uma pátria."
+            },
+            {
+                "id": "v11.15",
+                "versicle_number": 15,
+                "text": "E se, na verdade, se lembrassem daquela donde haviam saído, teriam oportunidade de tornar."
+            },
+            {
+                "id": "v11.16",
+                "versicle_number": 16,
+                "text": "Mas agora desejam uma melhor, isto é, a celestial. Pelo que também Deus se não envergonha deles, de se chamar seu Deus, porque já lhes preparou uma cidade."
+            },
+            {
+                "id": "v11.17",
+                "versicle_number": 17,
+                "text": "Pela fé ofereceu Abraão a Isaque, quando foi provado, sim, aquele que recebera as promessas ofereceu o seu unigênito."
+            },
+            {
+                "id": "v11.18",
+                "versicle_number": 18,
+                "text": "Sendo-lhe dito: Em Isaque será chamada a tua {note:t}descendência,{note:11} considerou que Deus era poderoso para até dos mortos o ressuscitar."
+            },
+            {
+                "id": "v11.19",
+                "versicle_number": 19,
+                "text": "E daí também em figura ele o recobrou.{note:12}"
+            },
+            {
+                "id": "v11.20",
+                "versicle_number": 20,
+                "text": "Pela fé Isaque abençoou{note:13} Jacó e Esaú, no tocante às coisas futuras."
+            },
+            {
+                "id": "v11.21",
+                "versicle_number": 21,
+                "text": "Pela fé Jacó, próximo da morte, abençoou{note:14} cada um dos filhos de José, e adorou encostado {note:u}à ponta do seu bordão."
+            },
+            {
+                "id": "v11.22",
+                "versicle_number": 22,
+                "text": "Pela fé José, próximo da morte, fez menção da saída{note:15} dos filhos de Israel, e deu ordem acerca de seus ossos."
+            },
+            {
+                "id": "v11.23",
+                "versicle_number": 23,
+                "text": "Pela fé Moisés, já nascido, foi escondido três meses{note:16} por seus pais, porque viram que era um menino formoso;{note:17} e não temeram o mandamento do rei."
+            },
+            {
+                "id": "v11.24",
+                "versicle_number": 24,
+                "text": "Pela fé Moisés,{note:18} sendo já grande, recusou ser chamado filho da filha de Faraó,"
+            },
+            {
+                "id": "v11.25",
+                "versicle_number": 25,
+                "text": "Escolhendo antes ser maltratado com o povo de Deus do que por um pouco de tempo ter o gozo do pecado;"
+            },
+            {
+                "id": "v11.26",
+                "versicle_number": 26,
+                "text": "Tendo por maiores riquezas o vitupério de Cristo do que os tesouros do Egito; porque tinha em vista a recompensa."
+            },
+            {
+                "id": "v11.27",
+                "versicle_number": 27,
+                "text": "Pela fé deixou o Egito,{note:19} não temendo a ira do rei; porque ficou firme, como vendo o invisível."
+            },
+            {
+                "id": "v11.28",
+                "versicle_number": 28,
+                "text": "Pela fé celebrou a páscoa{note:20} e a aspersão do sangue, para que o destruidor dos primogênitos lhes não tocasse."
+            },
+            {
+                "id": "v11.29",
+                "versicle_number": 29,
+                "text": "Pela fé passaram o Mar Vermelho,{note:21} como por terra seca; o que intentando os egípcios, se afogaram."
+            },
+            {
+                "id": "v11.30",
+                "versicle_number": 30,
+                "text": "Pela fé caíram os muros de Jericó,{note:22} sendo rodeados durante sete dias."
+            },
+            {
+                "id": "v11.31",
+                "versicle_number": 31,
+                "text": "Pela fé Raabe, a meretriz, não pereceu{note:23} com os incrédulos, acolhendo em paz os espias.{note:24}"
+            },
+            {
+                "id": "v11.32",
+                "versicle_number": 32,
+                "text": "E que mais direi? Faltar-me-ia o tempo contando de Gideão,{note:25} e de Baraque,{note:26} e de Sansão,{note:27} e de Jefté,{note:28} e de Davi,{note:29} e de Samuel{note:30} e dos profetas:"
+            },
+            {
+                "id": "v11.33",
+                "versicle_number": 33,
+                "text": "Os quais pela fé venceram reinos, praticaram a justiça, alcançaram promessas, fecharam as bocas dos leões,{note:31}"
+            },
+            {
+                "id": "v11.34",
+                "versicle_number": 34,
+                "text": "Apagaram a força do fogo,{note:32} escaparam do fio da espada, da fraqueza tiraram forças, na batalha se esforçaram, puseram em fugida os exércitos dos estranhos."
+            },
+            {
+                "id": "v11.35",
+                "versicle_number": 35,
+                "text": "As mulheres receberam pela ressurreição os seus mortos;{note:33} uns foram torturados, não aceitando o seu livramento, para alcançarem uma melhor ressurreição;"
+            },
+            {
+                "id": "v11.36",
+                "versicle_number": 36,
+                "text": "E outros experimentaram escárnios e açoites, e até cadeias e prisões.{note:34}"
+            },
+            {
+                "id": "v11.37",
+                "versicle_number": 37,
+                "text": "Foram apedrejados,{note:35} serrados, tentados, mortos ao fio da espada; andaram vestidos de peles de ovelhas e de cabras, desamparados, aflitos e maltratados"
+            },
+            {
+                "id": "v11.38",
+                "versicle_number": 38,
+                "text": "(Dos quais o mundo não era digno), errantes pelos desertos e montes, e pelas covas e cavernas da terra."
+            },
+            {
+                "id": "v11.39",
+                "versicle_number": 39,
+                "text": "E todos estes, tendo tido testemunho pela fé, não alcançaram a promessa:"
+            },
+            {
+                "id": "v11.40",
+                "versicle_number": 40,
+                "text": "Provendo Deus alguma coisa melhor a nosso respeito, para que eles sem nós não fossem aperfeiçoados."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 11.3 Gn 1.1"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 11.4 Gn 4.3-10"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 11.5 Gn 5.21-24"
+            },
+            {
+                "id": "n4",
+                "text": "{note:r} 11.7 ou aparelhou {note:4} 11.7 Gn 6.13-22"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 11.8 Gn 12.1-5"
+            },
+            {
+                "id": "n6",
+                "text": "{note:6} 11.9 Gn 35.27"
+            },
+            {
+                "id": "n7",
+                "text": "{note:7} 11.11 Gn 18.11-14; 21.2 {note:s} 11.11 Gr. conceber semente"
+            },
+            {
+                "id": "n8",
+                "text": "{note:8} 11.12 Gn 15.5 {note:9} 11.12 Gn 22.17"
+            },
+            {
+                "id": "n9",
+                "text": "{note:10} 11.13 Gn 23.4"
+            },
+            {
+                "id": "n10",
+                "text": "{note:t} 11.18 Gr. semente {note:11} 11.18 Gn 21.12"
+            },
+            {
+                "id": "n11",
+                "text": "{note:12} 11.17-19 Gn 22.1-14"
+            },
+            {
+                "id": "n12",
+                "text": "{note:13} 11.20 Gn 27.27-29,39-40"
+            },
+            {
+                "id": "n13",
+                "text": "{note:14} 11.21 Gn 47.31—48.20 {note:u} 11.21 ou sobre a extremidade"
+            },
+            {
+                "id": "n14",
+                "text": "{note:15} 11.22 Gn 50.24-25; Êx 13.19"
+            },
+            {
+                "id": "n15",
+                "text": "{note:16} 11.23 Êx 2.2 {note:17} 11.23 Êx 1.22"
+            },
+            {
+                "id": "n16",
+                "text": "{note:18} 11.24 Êx 2.10-12"
+            },
+            {
+                "id": "n17",
+                "text": "{note:19} 11.27 Êx 2.15"
+            },
+            {
+                "id": "n18",
+                "text": "{note:20} 11.28 Êx 12.21-30"
+            },
+            {
+                "id": "n19",
+                "text": "{note:21} 11.29 Êx 14.21-31"
+            },
+            {
+                "id": "n20",
+                "text": "{note:22} 11.30 Js 6.12-21"
+            },
+            {
+                "id": "n21",
+                "text": "{note:23} 11.31 Js 6.22-25 {note:24} 11.31 Js 2.1-21"
+            },
+            {
+                "id": "n22",
+                "text": "{note:25} 11.32 Jz 6.11—8.32 {note:30} 11.32 1Sm 1.1—25.1 {note:29} 11.32 1Sm 16.1; 1Rs 2.11 {note:28} 11.32 Jz 11.1—12.7 {note:27} 11.32 Jz 13.2—16.31 {note:26} 11.32 Jz 4.6—5.31"
+            },
+            {
+                "id": "n23",
+                "text": "{note:31} 11.33 Dn 6.1-27"
+            },
+            {
+                "id": "n24",
+                "text": "{note:32} 11.34 Dn 3.1-30"
+            },
+            {
+                "id": "n25",
+                "text": "{note:33} 11.35 1Rs 17.17-24; 2Rs 4.25-37"
+            },
+            {
+                "id": "n26",
+                "text": "{note:34} 11.36 1Rs 22.26-27; 2Cr 18.25-26; Jr 20.2; 37.15; 38.6"
+            },
+            {
+                "id": "n27",
+                "text": "{note:35} 11.37 2Cr 24.21"
+            }
+        ]
+    }
+}

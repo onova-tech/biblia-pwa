@@ -1,0 +1,117 @@
+{
+    "book": {
+        "id": "Jz",
+        "book_number": 7,
+        "new_testament": false,
+        "num_chapters": 21,
+        "book_name": "JUÍZES",
+        "book_full_name": "O LIVRO DOS JUÍZES"
+    },
+    "chapters": [
+        {
+            "chapter_number": 10,
+            "chapter_reference": "",
+            "chapter_title": "Tola e Jair juízes dos israelitas"
+        },
+        {
+            "chapter_number": 11,
+            "chapter_reference": "",
+            "chapter_title": "Jefté livra os israelitas"
+        },
+        {
+            "chapter_number": 12,
+            "chapter_reference": "",
+            "chapter_title": "Jefté peleja contra os efraimitas e os gileaditas"
+        },
+        {
+            "chapter_number": 13,
+            "chapter_reference": "",
+            "chapter_title": "Servidão dos israelitas sob os filisteus, e o nascimento de Sansão"
+        },
+        {
+            "chapter_number": 14,
+            "chapter_reference": "",
+            "chapter_title": "O casamento de Sansão"
+        },
+        {
+            "chapter_number": 15,
+            "chapter_reference": "",
+            "chapter_title": "Sansão põe fogo às searas dos filisteus"
+        },
+        {
+            "chapter_number": 16,
+            "chapter_reference": "",
+            "chapter_title": "Sansão é traído por Dalila"
+        },
+        {
+            "chapter_number": 17,
+            "chapter_reference": "",
+            "chapter_title": "Mica e o ídolo da sua casa"
+        },
+        {
+            "chapter_number": 18,
+            "chapter_reference": "",
+            "chapter_title": "Os daneus buscam uma herança e tomam Laís"
+        },
+        {
+            "chapter_number": 19,
+            "chapter_reference": "",
+            "chapter_title": "Os homens de Gibeá abusam da mulher dum levita"
+        },
+        {
+            "chapter_number": 1,
+            "chapter_reference": "",
+            "chapter_title": "Novas conquistas pelas tribos"
+        },
+        {
+            "chapter_number": 20,
+            "chapter_reference": "",
+            "chapter_title": "Os israelitas vingam o ultraje feito ao levita"
+        },
+        {
+            "chapter_number": 21,
+            "chapter_reference": "",
+            "chapter_title": "A ruína de Jabes de Gileade"
+        },
+        {
+            "chapter_number": 2,
+            "chapter_reference": "",
+            "chapter_title": "O anjo do Senhor repreende os israelitas"
+        },
+        {
+            "chapter_number": 3,
+            "chapter_reference": "",
+            "chapter_title": "Servidão dos israelitas sob Cusã, rei da Síria ou Arã"
+        },
+        {
+            "chapter_number": 4,
+            "chapter_reference": "",
+            "chapter_title": "Servidão sob Jabim rei de Canaã"
+        },
+        {
+            "chapter_number": 5,
+            "chapter_reference": "",
+            "chapter_title": "O cântico de Débora"
+        },
+        {
+            "chapter_number": 6,
+            "chapter_reference": "",
+            "chapter_title": "Servidão sob os midianitas"
+        },
+        {
+            "chapter_number": 7,
+            "chapter_reference": "",
+            "chapter_title": "Gideão com trezentos homens vence os midianitas"
+        },
+        {
+            "chapter_number": 8,
+            "chapter_reference": "",
+            "chapter_title": "Gideão apazigua os efraimitas e mata os reis dos midianitas"
+        },
+        {
+            "chapter_number": 9,
+            "chapter_reference": "",
+            "chapter_title": "Abimeleque mata os seus irmãos e se declara rei"
+        }
+    ]
+}

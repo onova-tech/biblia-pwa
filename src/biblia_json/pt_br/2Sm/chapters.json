@@ -1,0 +1,132 @@
+{
+    "book": {
+        "id": "2Sm",
+        "book_number": 10,
+        "new_testament": false,
+        "num_chapters": 24,
+        "book_name": "2º SAMUEL",
+        "book_full_name": "O SEGUNDO LIVRO DE SAMUEL"
+    },
+    "chapters": [
+        {
+            "chapter_number": 10,
+            "chapter_reference": "",
+            "chapter_title": "Davi derrota os amonitas e os siros"
+        },
+        {
+            "chapter_number": 11,
+            "chapter_reference": "",
+            "chapter_title": "Davi comete um adultério e um homicídio"
+        },
+        {
+            "chapter_number": 12,
+            "chapter_reference": "",
+            "chapter_title": "Natã, o profeta, repreende a Davi"
+        },
+        {
+            "chapter_number": 13,
+            "chapter_reference": "",
+            "chapter_title": "Amnom ama Tamar e comete um incesto"
+        },
+        {
+            "chapter_number": 14,
+            "chapter_reference": "",
+            "chapter_title": ""
+        },
+        {
+            "chapter_number": 15,
+            "chapter_reference": "",
+            "chapter_title": "A rebelião de Absalão e a fuga de Davi"
+        },
+        {
+            "chapter_number": 16,
+            "chapter_reference": "",
+            "chapter_title": "Davi é enganado por Ziba e amaldiçoado por Semei"
+        },
+        {
+            "chapter_number": 17,
+            "chapter_reference": "",
+            "chapter_title": "A vitória do exército de Davi sobre o de Absalão"
+        },
+        {
+            "chapter_number": 18,
+            "chapter_reference": "",
+            "chapter_title": "Absalão fica suspenso de uma árvore e Joabe mata-o"
+        },
+        {
+            "chapter_number": 19,
+            "chapter_reference": "",
+            "chapter_title": "Davi volta para Jerusalém"
+        },
+        {
+            "chapter_number": 1,
+            "chapter_reference": "",
+            "chapter_title": "Davi mata o amalequita que lhe traz a notícia da morte de Saul"
+        },
+        {
+            "chapter_number": 20,
+            "chapter_reference": "",
+            "chapter_title": "A sedição de Seba e a sua morte"
+        },
+        {
+            "chapter_number": 21,
+            "chapter_reference": "",
+            "chapter_title": "Fome em Israel, e a sua causa"
+        },
+        {
+            "chapter_number": 22,
+            "chapter_reference": "",
+            "chapter_title": "Cântico de Davi em ação de graças"
+        },
+        {
+            "chapter_number": 23,
+            "chapter_reference": "",
+            "chapter_title": "As últimas palavras de Davi"
+        },
+        {
+            "chapter_number": 24,
+            "chapter_reference": "",
+            "chapter_title": "A numeração do povo e o castigo que Deus enviou"
+        },
+        {
+            "chapter_number": 2,
+            "chapter_reference": "",
+            "chapter_title": "Davi é aclamado rei de Judá"
+        },
+        {
+            "chapter_number": 3,
+            "chapter_reference": "",
+            "chapter_title": "Os filhos de Davi que nasceram em Hebrom"
+        },
+        {
+            "chapter_number": 4,
+            "chapter_reference": "",
+            "chapter_title": "Dois servos de Isbosete o matam e trazem a cabeça a Davi"
+        },
+        {
+            "chapter_number": 5,
+            "chapter_reference": "",
+            "chapter_title": "Davi é constituído rei de todo o Israel"
+        },
+        {
+            "chapter_number": 6,
+            "chapter_reference": "",
+            "chapter_title": "Davi traz a arca para Jerusalém"
+        },
+        {
+            "chapter_number": 7,
+            "chapter_reference": "",
+            "chapter_title": "Davi deseja edificar um templo ao Senhor"
+        },
+        {
+            "chapter_number": 8,
+            "chapter_reference": "",
+            "chapter_title": "As vitórias de Davi sobre várias nações"
+        },
+        {
+            "chapter_number": 9,
+            "chapter_reference": "",
+            "chapter_title": "A bondade de Davi para com o filho de Jônatas"
+        }
+    ]
+}

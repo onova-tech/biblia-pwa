@@ -1,0 +1,91 @@
+{
+    "book": {
+        "id": "Is",
+        "book_number": 23,
+        "new_testament": false,
+        "num_chapters": 66,
+        "book_name": "ISAÍAS",
+        "book_full_name": "ISAÍAS"
+    },
+    "chapter": {
+        "chapter_number": 61,
+        "chapter_reference": "",
+        "chapter_title": "A salvação é proclamada",
+        "versicles": [
+            {
+                "id": "v61.1",
+                "versicle_number": 1,
+                "text": "O ESPÍRITO do Senhor JEOVÁ está sobre mim; porque o Senhor me ungiu, para pregar boas novas aos mansos:{note:1} enviou-me a restaurar os contritos de coração, a proclamar liberdade aos cativos, e a abertura de prisão aos presos;"
+            },
+            {
+                "id": "v61.2",
+                "versicle_number": 2,
+                "text": "A apregoar o ano aceitável do Senhor e o dia da vingança do nosso Deus; a consolar{note:2} todos os tristes;{note:3}"
+            },
+            {
+                "id": "v61.3",
+                "versicle_number": 3,
+                "text": "A ordenar acerca dos tristes de Sião que se lhes dê {note:x}ornamento por cinza, óleo de gozo por tristeza, vestido de louvor por espírito angustiado; a fim de que se chamem árvores de justiça, plantação do Senhor, para que ele seja glorificado."
+            },
+            {
+                "id": "v61.4",
+                "versicle_number": 4,
+                "text": "E edificarão os lugares antigamente assolados e restaurarão os de antes destruídos, e renovarão as cidades assoladas, destruídas de geração em geração."
+            },
+            {
+                "id": "v61.5",
+                "versicle_number": 5,
+                "text": "E haverá estrangeiros, que apascentarão os vossos rebanhos: e estranhos serão os vossos lavradores e os vossos vinheiros."
+            },
+            {
+                "id": "v61.6",
+                "versicle_number": 6,
+                "text": "Mas vós sereis chamados sacerdotes do Senhor, e vos chamarão ministros de nosso Deus: comereis a abundância das nações, e na sua glória vos gloriareis."
+            },
+            {
+                "id": "v61.7",
+                "versicle_number": 7,
+                "text": "Por vossa dupla vergonha, e afronta, exultarão pela sua parte; pelo que na sua terra possuirão o dobro, e terão perpétua alegria."
+            },
+            {
+                "id": "v61.8",
+                "versicle_number": 8,
+                "text": "Porque eu, o Senhor, amo o juízo, aborreço a iniquidade; eu lhes darei sua recompensa em verdade, e farei um concerto eterno com eles."
+            },
+            {
+                "id": "v61.9",
+                "versicle_number": 9,
+                "text": "E a sua posteridade será conhecida entre as nações, e os seus descendentes no meio dos povos; todos quantos os virem os conhecerão como semente bendita do Senhor."
+            },
+            {
+                "id": "v61.10",
+                "versicle_number": 10,
+                "text": "Regozijar-me-ei muito no Senhor, a minha alma se alegrara no meu Deus: porque me vestiu de vestidos de salvação, me cobriu com o manto de justiça, como um noivo que se adorna com atavios, e como noiva que se enfeita{note:4} com as suas joias."
+            },
+            {
+                "id": "v61.11",
+                "versicle_number": 11,
+                "text": "Porque, como a terra produz os seus renovos, e como o horto faz brotar o que nele se semeia, assim o Senhor JEOVÁ fará brotar a justiça e o louvor para todas as nações."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 61.1 Mt 11.5; Lc 7.22"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 61.2 Mt 5.4 {note:3} 61.1-2 Lc 4.18-19"
+            },
+            {
+                "id": "n3",
+                "text": "{note:x} 61.3 ou grinalda"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 61.10 Ap 21.2"
+            }
+        ]
+    }
+}

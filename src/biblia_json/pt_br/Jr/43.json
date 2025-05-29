@@ -1,0 +1,95 @@
+{
+    "book": {
+        "id": "Jr",
+        "book_number": 24,
+        "new_testament": false,
+        "num_chapters": 52,
+        "book_name": "JEREMIAS",
+        "book_full_name": "JEREMIAS"
+    },
+    "chapter": {
+        "chapter_number": 43,
+        "chapter_reference": "",
+        "chapter_title": "Jeremias é levado ao Egito pelo povo",
+        "versicles": [
+            {
+                "id": "v43.1",
+                "versicle_number": 1,
+                "text": "E SUCEDEU que, acabando Jeremias de anunciar a todo o povo todas as palavras do Senhor Deus deles, com as quais o Senhor Deus deles o havia enviado, e que foram todas aquelas palavras,"
+            },
+            {
+                "id": "v43.2",
+                "versicle_number": 2,
+                "text": "Então falou Azarias, filho de Hosaías, e Joanã, filho de Careá, e todos os homens soberbos, dizendo a Jeremias: Tu dizes mentiras; o Senhor nosso Deus não te enviou a dizer: Não entreis no Egito, para lá peregrinardes;"
+            },
+            {
+                "id": "v43.3",
+                "versicle_number": 3,
+                "text": "Baruque, filho de Nérias, é que te incita contra nós, para nos entregar na mão dos caldeus, para eles nos matarem, ou para nos transportarem para Babilônia."
+            },
+            {
+                "id": "v43.4",
+                "versicle_number": 4,
+                "text": "Não obedeceu pois Joanã, filho de Careá, nem nenhum de todos os príncipes dos exércitos, nem o povo todo, à voz do Senhor, para ficarem na terra de Judá."
+            },
+            {
+                "id": "v43.5",
+                "versicle_number": 5,
+                "text": "Antes tomou Joanã, filho de Careá, e todos os príncipes dos exércitos a todo o resto de Judá, que havia voltado dentre todas as nações, para onde haviam sido lançados com o fim de peregrinarem na terra de Judá;"
+            },
+            {
+                "id": "v43.6",
+                "versicle_number": 6,
+                "text": "Aos homens, e às mulheres, e aos meninos, e às filhas do rei, e a toda a alma que deixara Nebuzaradão, capitão da guarda, com Gedalias, filho de Aicão, filho de Safã; como também a Jeremias, o profeta, e a Baruque, filho de Nérias:"
+            },
+            {
+                "id": "v43.7",
+                "versicle_number": 7,
+                "text": "E entraram na terra do Egito,{note:1} porque não obedeceram à voz do Senhor; e vieram até Tafnes."
+            },
+            {
+                "id": "v43.8",
+                "versicle_number": 8,
+                "text": "Então veio a palavra do Senhor a Jeremias, em Tafnes, dizendo:"
+            },
+            {
+                "id": "v43.9",
+                "versicle_number": 9,
+                "text": "Toma na tua mão pedras grandes, e esconde-as entre o barro no forno que está à porta da casa de Faraó em Tafnes, perante os olhos de homens judeus."
+            },
+            {
+                "id": "v43.10",
+                "versicle_number": 10,
+                "text": "E dize-lhes: Assim diz o Senhor dos Exércitos, Deus de Israel: Eis que eu enviarei, e tomarei a Nabucodonosor, rei de Babilônia, meu servo, e porei o seu trono sobre estas pedras que escondi; e ele estenderá a sua tenda real sobre elas."
+            },
+            {
+                "id": "v43.11",
+                "versicle_number": 11,
+                "text": "E virá, e ferirá a terra do Egito: quem para a morte, para a morte; e quem para o cativeiro, para o cativeiro; e quem para a espada, para a espada."
+            },
+            {
+                "id": "v43.12",
+                "versicle_number": 12,
+                "text": "E lançarei fogo às casas dos deuses do Egito, e ele queimá-los-á, e levá-los-á cativos; e ornar-se-á da terra do Egito, como veste o pastor seu vestido, e sairá dali em paz."
+            },
+            {
+                "id": "v43.13",
+                "versicle_number": 13,
+                "text": "E quebrará as estátuas de Bete-Semes, que está na terra do Egito; e as casas dos deuses do Egito queimará a fogo."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v43.8",
+                "text": "Profecia da conquista do Egito por Nabucodonosor"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 43.7 2Rs 25.26"
+            }
+        ]
+    }
+}

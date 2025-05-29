@@ -1,0 +1,155 @@
+{
+    "book": {
+        "id": "Dt",
+        "book_number": 5,
+        "new_testament": false,
+        "num_chapters": 34,
+        "book_name": "DEUTERONÔMIO",
+        "book_full_name": "O QUINTO LIVRO DE MOISÉS DEUTERONÔMIO"
+    },
+    "chapter": {
+        "chapter_number": 25,
+        "chapter_reference": "",
+        "chapter_title": "A pena de açoites",
+        "versicles": [
+            {
+                "id": "v25.1",
+                "versicle_number": 1,
+                "text": "QUANDO houver contenda entre alguns, e vierem a juízo, para que os julguem, ao justo justificarão, e ao injusto condenarão."
+            },
+            {
+                "id": "v25.2",
+                "versicle_number": 2,
+                "text": "E será que, se o injusto merecer açoites, o juiz o fará deitar, e o fará açoitar diante de si, quanto bastar pela sua injustiça, por certa conta."
+            },
+            {
+                "id": "v25.3",
+                "versicle_number": 3,
+                "text": "Quarenta açoites lhe fará dar, não mais; para que, porventura, se lhe fizer dar mais açoites do que estes, teu irmão não fique envilecido aos teus olhos."
+            },
+            {
+                "id": "v25.4",
+                "versicle_number": 4,
+                "text": "Não atarás a boca ao boi,{note:1} quando trilhar."
+            },
+            {
+                "id": "v25.5",
+                "versicle_number": 5,
+                "text": "Quando alguns irmãos morarem juntos, e algum deles morrer, e não tiver filho, então a mulher do defunto não se casará com homem estranho de fora; seu cunhado entrará a ela, e a tomará por mulher, e fará a obrigação de cunhado para com ela."
+            },
+            {
+                "id": "v25.6",
+                "versicle_number": 6,
+                "text": "E será que o primogênito que ela der à luz estará em nome de seu irmão defunto; para que o seu nome se não apague em Israel.{note:2}"
+            },
+            {
+                "id": "v25.7",
+                "versicle_number": 7,
+                "text": "Porém, se o tal homem não quiser tomar sua cunhada, subirá então sua cunhada à porta dos anciãos, e dirá: Meu cunhado recusa suscitar a seu irmão nome em Israel; não quer fazer para comigo o dever de cunhado."
+            },
+            {
+                "id": "v25.8",
+                "versicle_number": 8,
+                "text": "Então os anciãos da sua cidade o chamarão, e com ele falarão: e, se ele ficar nisto, e disser: Não quero tomá-la;"
+            },
+            {
+                "id": "v25.9",
+                "versicle_number": 9,
+                "text": "Então sua cunhada se chegará a ele aos olhos dos anciãos; e lhe descalçará o sapato do pé,{note:3} e lhe cuspirá no rosto, e protestará, e dirá: Assim se fará ao homem que não edificar a casa de seu irmão:"
+            },
+            {
+                "id": "v25.10",
+                "versicle_number": 10,
+                "text": "E o seu nome se chamará em Israel: A casa do descalçado."
+            },
+            {
+                "id": "v25.11",
+                "versicle_number": 11,
+                "text": "Quando pelejarem dois homens, um contra o outro, e a mulher dum chegar para livrar a seu marido da mão do que o fere, e ela estender a sua mão, e lhe pegar pelas suas vergonhas,"
+            },
+            {
+                "id": "v25.12",
+                "versicle_number": 12,
+                "text": "Então cortar-lhe-ás a mão: não a poupará teu olho."
+            },
+            {
+                "id": "v25.13",
+                "versicle_number": 13,
+                "text": "Na tua bolsa não terás diversos pesos, um grande e um pequeno."
+            },
+            {
+                "id": "v25.14",
+                "versicle_number": 14,
+                "text": "Na tua casa não terás duas sortes de efa, uma grande e uma pequena."
+            },
+            {
+                "id": "v25.15",
+                "versicle_number": 15,
+                "text": "Peso inteiro e justo terás; efa inteira e justa terás; para que se prolonguem os teus dias na terra que te dará o Senhor teu Deus."
+            },
+            {
+                "id": "v25.16",
+                "versicle_number": 16,
+                "text": "Porque abominação é ao Senhor teu Deus todo aquele que faz isto, todo aquele que fizer injustiça.{note:4}"
+            },
+            {
+                "id": "v25.17",
+                "versicle_number": 17,
+                "text": "Lembra-te do que te fez Amaleque{note:5} no caminho, quando saíeis do Egito;"
+            },
+            {
+                "id": "v25.18",
+                "versicle_number": 18,
+                "text": "Como te saiu ao encontro no caminho, e te derribou na retaguarda todos os fracos que iam após ti, estando tu cansado e afadigado; e não temeu a Deus."
+            },
+            {
+                "id": "v25.19",
+                "versicle_number": 19,
+                "text": "Será pois que, quando o Senhor teu Deus te tiver dado repouso de todos os teus inimigos em redor, na terra que o Senhor teu Deus te dará por herança, para possuí-la, então apagarás{note:6} a memória de Amaleque de debaixo do céu: não te esqueças."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v25.5",
+                "text": "A obrigação de um homem casar com a viúva do seu irmão"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v25.13",
+                "text": "Pesos e medidas justas"
+            },
+            {
+                "id": "s3",
+                "next_versicle_id": "v25.17",
+                "text": "Amaleque será destruído"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 25.4 1Co 9.9; 1Tm 5.18"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 25.5-6 Mt 22.24; Mc 12.19; Lc 20.28"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 25.9 Rt 4.7-8"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 25.13-16 Lv 19.35-36"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 25.17 1Sm 15.2-9"
+            },
+            {
+                "id": "n6",
+                "text": "{note:6} 25.19 Êx 17.8-14"
+            }
+        ]
+    }
+}

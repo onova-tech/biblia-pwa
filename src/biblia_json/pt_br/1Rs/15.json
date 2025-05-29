@@ -1,0 +1,218 @@
+{
+    "book": {
+        "id": "1Rs",
+        "book_number": 11,
+        "new_testament": false,
+        "num_chapters": 22,
+        "book_name": "REIS",
+        "book_full_name": "O PRIMEIRO LIVRO DOS REIS"
+    },
+    "chapter": {
+        "chapter_number": 15,
+        "chapter_reference": "",
+        "chapter_title": "Abião imita a impiedade de seu pai Roboão",
+        "versicles": [
+            {
+                "id": "v15.1",
+                "versicle_number": 1,
+                "text": "E NO décimo oitavo ano do rei Jeroboão, filho de Nebate, Abião começou a reinar sobre Judá."
+            },
+            {
+                "id": "v15.2",
+                "versicle_number": 2,
+                "text": "E três anos reinou em Jerusalém: e era o nome de sua mãe Maaca, filha de Abisalom."
+            },
+            {
+                "id": "v15.3",
+                "versicle_number": 3,
+                "text": "E andou em todos os pecados que seu pai tinha cometido antes dele: e seu coração não foi perfeito para com o Senhor seu Deus como o coração de Davi, seu pai."
+            },
+            {
+                "id": "v15.4",
+                "versicle_number": 4,
+                "text": "Mas por amor de Davi o Senhor lhe deu uma lâmpada em Jerusalém,{note:1} levantando a seu filho depois dele, e confirmando a Jerusalém."
+            },
+            {
+                "id": "v15.5",
+                "versicle_number": 5,
+                "text": "Porquanto Davi tinha feito o que parecia reto aos olhos do Senhor, e não se tinha desviado de tudo o que lhe ordenara em todos os dias da sua vida, senão só no negócio de Urias, o heteu.{note:2}"
+            },
+            {
+                "id": "v15.6",
+                "versicle_number": 6,
+                "text": "E houve guerra entre Roboão e Jeroboão todos os dias da sua vida."
+            },
+            {
+                "id": "v15.7",
+                "versicle_number": 7,
+                "text": "Quanto ao mais dos sucessos de Abião, e a tudo quanto fez, porventura não está escrito no livro das crônicas dos reis de Judá? Também houve guerra entre Abião e Jeroboão."
+            },
+            {
+                "id": "v15.8",
+                "versicle_number": 8,
+                "text": "E Abião dormiu com seus pais, e o sepultaram na cidade de Davi: e Asa, seu filho, reinou em seu lugar."
+            },
+            {
+                "id": "v15.9",
+                "versicle_number": 9,
+                "text": "E no vigésimo ano de Jeroboão, rei de Israel, começou Asa a reinar em Judá."
+            },
+            {
+                "id": "v15.10",
+                "versicle_number": 10,
+                "text": "E quarenta e um anos reinou em Jerusalém: e era o nome de sua mãe Maaca, filha de Abisalom."
+            },
+            {
+                "id": "v15.11",
+                "versicle_number": 11,
+                "text": "E Asa fez o que parecia reto aos olhos do Senhor, como Davi, seu pai."
+            },
+            {
+                "id": "v15.12",
+                "versicle_number": 12,
+                "text": "Porque tirou da terra os rapazes escandalosos, e tirou todos os ídolos que seus pais fizeram."
+            },
+            {
+                "id": "v15.13",
+                "versicle_number": 13,
+                "text": "E até a Maaca, sua mãe, removeu para que não fosse rainha, porquanto tinha feito um horrível ídolo a Asera: também Asa desfez o seu ídolo horrível, e o queimou junto ao ribeiro de Cedrom."
+            },
+            {
+                "id": "v15.14",
+                "versicle_number": 14,
+                "text": "Os altos porém se não tiraram: todavia foi o coração de Asa reto para com o Senhor todos os seus dias."
+            },
+            {
+                "id": "v15.15",
+                "versicle_number": 15,
+                "text": "E à casa do Senhor trouxe as cousas consagradas de seu pai, e as cousas que ele mesmo consagrara: prata e ouro e vasos."
+            },
+            {
+                "id": "v15.16",
+                "versicle_number": 16,
+                "text": "E houve guerra entre Asa e Baasa, rei de Israel, todos os seus dias."
+            },
+            {
+                "id": "v15.17",
+                "versicle_number": 17,
+                "text": "Porque Baasa, rei de Israel, subiu contra Judá, e edificou a Ramá, para que a ninguém fosse permitido sair nem entrar junto a Asa, rei de Judá."
+            },
+            {
+                "id": "v15.18",
+                "versicle_number": 18,
+                "text": "Então Asa tomou toda a prata e ouro que ficara nos tesouros da casa do Senhor, e os tesouros da casa do rei, e os entregou nas mãos de seus servos: e o rei Asa os enviou a Benadade, filho de Tabrimom, filho de Heziom, rei da Síria, que habitava em Damasco, dizendo:"
+            },
+            {
+                "id": "v15.19",
+                "versicle_number": 19,
+                "text": "Aliança há entre mim e ti, entre meu pai e teu pai: vês aqui que te mando um presente, prata e ouro; vai, e anula a tua aliança com Baasa, rei de Israel, para que se retire de sobre mim."
+            },
+            {
+                "id": "v15.20",
+                "versicle_number": 20,
+                "text": "E Benadade deu ouvidos ao rei Asa, e enviou aos capitães dos exércitos que tinha contra as cidades de Israel: e feriu a Ijom, e a Dã, e a Abel, de Bete-Maaca e a toda a Quinerote, com toda a terra de Naftali."
+            },
+            {
+                "id": "v15.21",
+                "versicle_number": 21,
+                "text": "E sucedeu que, ouvindo-o Baasa, deixou de edificar a Ramá: e ficou em Tirzá."
+            },
+            {
+                "id": "v15.22",
+                "versicle_number": 22,
+                "text": "Então o rei Asa fez apregoar por toda a Judá que todos, sem exceção, trouxessem as pedras de Ramá, e a sua madeira com que Baasa edificara: e com elas edificou o rei Asa a Geba de Benjamim e a Mizpá."
+            },
+            {
+                "id": "v15.23",
+                "versicle_number": 23,
+                "text": "Quanto ao mais de todos os sucessos de Asa, e a todo o seu poder, e a tudo quanto fez, e as cidades que edificou, porventura não está escrito no livro das crônicas dos reis de Judá? Porém, no tempo da sua velhice, padeceu dos pés."
+            },
+            {
+                "id": "v15.24",
+                "versicle_number": 24,
+                "text": "E Asa dormiu com seus pais, e foi sepultado com seus pais na cidade de Davi, seu pai; e Josafá, seu filho reinou em seu lugar."
+            },
+            {
+                "id": "v15.25",
+                "versicle_number": 25,
+                "text": "E Nadabe, filho de Jeroboão, começou a reinar sobre Israel no ano segundo de Asa, rei de Judá; e reinou sobre Israel dois anos."
+            },
+            {
+                "id": "v15.26",
+                "versicle_number": 26,
+                "text": "E fez o que parecia mal aos olhos do Senhor: e andou nos caminhos de seu pai, e no seu pecado com que tinha feito pecar a Israel."
+            },
+            {
+                "id": "v15.27",
+                "versicle_number": 27,
+                "text": "E conspirou contra ele Baasa, filho de Aías, da casa de Issacar, e feriu-o Baasa em Gibetom, que era dos filisteus, quando Nadabe e todo o Israel cercavam a Gibetom."
+            },
+            {
+                "id": "v15.28",
+                "versicle_number": 28,
+                "text": "E matou-o Baasa no ano terceiro de Asa, rei de Judá, e reinou em seu lugar."
+            },
+            {
+                "id": "v15.29",
+                "versicle_number": 29,
+                "text": "E sucedeu pois que, reinando ele feriu a toda a casa de Jeroboão:{note:3} nada de Jeroboão deixou que tivesse fôlego, até o destruir, conforme à palavra do Senhor que dissera pelo ministério de seu servo Aías, o silonita."
+            },
+            {
+                "id": "v15.30",
+                "versicle_number": 30,
+                "text": "Por causa dos pecados de Jeroboão, o qual pecou, e fez pecar a Israel, e por causa da provocação com que provocara ao Senhor Deus de Israel."
+            },
+            {
+                "id": "v15.31",
+                "versicle_number": 31,
+                "text": "Quanto ao mais dos sucessos de Nadabe, e a tudo quanto fez, porventura não está escrito no livro das crônicas dos reis de Israel?"
+            },
+            {
+                "id": "v15.32",
+                "versicle_number": 32,
+                "text": "E houve guerra entre Asa e Baasa, rei de Israel, todos os seus dias."
+            },
+            {
+                "id": "v15.33",
+                "versicle_number": 33,
+                "text": "No ano terceiro de Asa, rei de Judá, Baasa, filho de Aías, começou a reinar sobre todo o Israel em Tirzá, e reinou vinte e quatro anos."
+            },
+            {
+                "id": "v15.34",
+                "versicle_number": 34,
+                "text": "E fez o que parecia mal aos olhos do Senhor: e andou no caminho de Jeroboão e no seu pecado com que tinha feito pecar a Israel."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v15.9",
+                "text": "Asa é bom rei sobre Israel"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v15.25",
+                "text": "Nadabe filho de Jeroboão é mau rei"
+            },
+            {
+                "id": "s3",
+                "next_versicle_id": "v15.33",
+                "text": "A profecia de Jeú contra Baasa, rei de Judá"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 15.4 1Rs 11.36"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 15.5 2Sm 11.1-27"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 15.29 1Rs 14.10"
+            }
+        ]
+    }
+}

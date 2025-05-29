@@ -1,0 +1,64 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 3,
+        "chapter_reference": "",
+        "chapter_title": "Davi confia em Deus na sua adversidade",
+        "versicles": [
+            {
+                "id": "v3.1",
+                "versicle_number": 1,
+                "text": "SENHOR, como se têm multiplicado os meus adversários! São muitos os que se levantam contra mim."
+            },
+            {
+                "id": "v3.2",
+                "versicle_number": 2,
+                "text": "Muitos dizem da minha alma: Não há salvação para ele em Deus. (Selá.)"
+            },
+            {
+                "id": "v3.3",
+                "versicle_number": 3,
+                "text": "Mas tu, Senhor, és um escudo para mim, a minha glória, e o que exalta a minha cabeça."
+            },
+            {
+                "id": "v3.4",
+                "versicle_number": 4,
+                "text": "Com a minha voz clamei ao Senhor, ele ouviu-me desde o seu santo monte. (Selá.)"
+            },
+            {
+                "id": "v3.5",
+                "versicle_number": 5,
+                "text": "Eu me deitei e dormi; acordei, porque o Senhor me sustentou."
+            },
+            {
+                "id": "v3.6",
+                "versicle_number": 6,
+                "text": "Não terei medo de dez milhares de pessoas que se puseram contra mim ao meu redor."
+            },
+            {
+                "id": "v3.7",
+                "versicle_number": 7,
+                "text": "Levanta-te, Senhor; salva-me, Deus meu, pois feriste a todos os meus inimigos nos queixos; quebraste os dentes aos ímpios."
+            },
+            {
+                "id": "v3.8",
+                "versicle_number": 8,
+                "text": "A salvação vem do Senhor; sobre o teu povo seja a tua bênção. (Selá.)"
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 3, título 2Sm 15.13-17,22"
+            }
+        ]
+    }
+}

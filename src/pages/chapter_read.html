@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link type="text/css" href="/css/materialize.css" rel="stylesheet">
+        <link type="text/css" href="/css/styles.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Ancizar+Sans:ital,wght@0,100..1000;1,100..1000&display=swap" rel="stylesheet">
+        <script type="text/javascript" src="/js/utils.js"></script>
+        <script type="text/javascript" src="/pages/js/chapter_read.js"></script>
+    </head>
+    <body>
+        <div id="content">
+            <nav>
+                <div class="nav-wrapper blue navbar_spacing">
+                    <a href="/index.html" class="brand-logo center ancizar-sans-font"><i class="material-icons">book</i>Bíblia</a>
+                    <a href="#" data-target="mobile-menu" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+                    <ul class="right hide-on-med-and-down">
+                        <li><button onclick="load_random_chapter();" class="btn">Capítulo do Dia</button></li>
+                    </ul>
+                </div>
+            </nav>
+
+            <ul class="sidenav center" id="mobile-menu">
+                <li><button onclick="load_random_chapter();" class="btn">Capítulo do Dia</button></li>
+            </ul>
+
+            <h3 id="book_name" class="book_name ancizar-sans-font"></h3>
+            <h4 id="book_subname" class="book_name ancizar-sans-font"></h4>
+            
+            <div id="chapter" class="chapter"></div>
+
+            <div id="templates" style="visibility: hidden;">
+                <h5 id="template_chapter_title" class="chapter_title ancizar-sans-font"></h5>
+                <p id="template_chapter_reference" class="chapter_reference ancizar-sans-font"></p>
+                <h5 id="template_chapter_subtitle" class="chapter_subtitle ancizar-sans-font"></h5>
+                <p id="template_verse" class="verse ancizar-sans-font"></p>
+            </div>
+        </div>
+
+        <script type="text/javascript" src="/js/materialize.js"></script>
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                var elems = document.querySelectorAll('.sidenav');
+                var instances = M.Sidenav.init(elems);
+            });
+        </script>
+    </body>
+</html>

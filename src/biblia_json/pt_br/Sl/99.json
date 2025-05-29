@@ -1,0 +1,73 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 99,
+        "chapter_reference": "",
+        "chapter_title": "A grandeza do reino de Deus",
+        "versicles": [
+            {
+                "id": "v99.1",
+                "versicle_number": 1,
+                "text": "O SENHOR reina; tremam as nações: Ele está entronizado entre os querubins;{note:1} comova-se a terra."
+            },
+            {
+                "id": "v99.2",
+                "versicle_number": 2,
+                "text": "O Senhor é grande em Sião, e mais elevado que todas as nações."
+            },
+            {
+                "id": "v99.3",
+                "versicle_number": 3,
+                "text": "Louvem o teu nome, grande e tremendo, pois é santo."
+            },
+            {
+                "id": "v99.4",
+                "versicle_number": 4,
+                "text": "E a força do Rei ama o juízo: tu firmas a equidade, fazes juízo e justiça em Jacó."
+            },
+            {
+                "id": "v99.5",
+                "versicle_number": 5,
+                "text": "Exaltai ao Senhor nosso Deus, e prostrai-vos diante do escabelo de seus pés, porque ele é santo."
+            },
+            {
+                "id": "v99.6",
+                "versicle_number": 6,
+                "text": "Moisés e Aarão, entre os seus sacerdotes, e Samuel entre os que invocam o seu nome, clamavam ao Senhor, e ele os ouvia."
+            },
+            {
+                "id": "v99.7",
+                "versicle_number": 7,
+                "text": "Na coluna de nuvem{note:2} lhes falava; eles guardavam os seus testemunhos, e os estatutos que lhes dera."
+            },
+            {
+                "id": "v99.8",
+                "versicle_number": 8,
+                "text": "Tu os escutaste, Senhor nosso Deus: tu foste um Deus que lhes perdoaste, posto que vingador dos seus feitos."
+            },
+            {
+                "id": "v99.9",
+                "versicle_number": 9,
+                "text": "Exaltai ao Senhor nosso Deus e adorai-o no seu santo monte, porque o Senhor nosso Deus é santo."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 99.1 Êx 25.22"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 99.7 Êx 33.9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "book": {
+        "id": "1Co",
+        "book_number": 46,
+        "new_testament": true,
+        "num_chapters": 16,
+        "book_name": "CORÍNTIOS",
+        "book_full_name": "PRIMEIRA EPÍSTOLA DO APÓSTOLO PAULO AOS CORÍNTIOS"
+    },
+    "chapter": {
+        "chapter_number": 8,
+        "chapter_reference": "",
+        "chapter_title": "Resposta às perguntas acerca das carnes sacrificadas aos ídolos",
+        "versicles": [
+            {
+                "id": "v8.1",
+                "versicle_number": 1,
+                "text": "ORA, no tocante às coisas sacrificadas aos ídolos, sabemos que todos temos ciência. A ciência incha, mas o amor edifica."
+            },
+            {
+                "id": "v8.2",
+                "versicle_number": 2,
+                "text": "E, se alguém cuida saber alguma coisa, ainda não sabe como convém saber."
+            },
+            {
+                "id": "v8.3",
+                "versicle_number": 3,
+                "text": "Mas, se alguém ama a Deus, esse é conhecido dele."
+            },
+            {
+                "id": "v8.4",
+                "versicle_number": 4,
+                "text": "Assim que, quanto ao comer das coisas sacrificadas aos ídolos, sabemos que o ídolo nada é no mundo, e que não há outro Deus, senão um só."
+            },
+            {
+                "id": "v8.5",
+                "versicle_number": 5,
+                "text": "Porque, ainda que haja também alguns que se chamem deuses, quer no céu quer na terra (como há muitos deuses e muitos senhores),"
+            },
+            {
+                "id": "v8.6",
+                "versicle_number": 6,
+                "text": "Todavia para nós há um só Deus, o Pai, de quem é tudo e para quem nós vivemos; e um só Senhor, Jesus Cristo, pelo qual são todas as coisas, e nós por Ele."
+            },
+            {
+                "id": "v8.7",
+                "versicle_number": 7,
+                "text": "Mas nem em todos há conhecimento; porque alguns até agora comem, no seu costume para com o ídolo, coisas sacrificadas ao ídolo; e a sua consciência, sendo fraca fica contaminada."
+            },
+            {
+                "id": "v8.8",
+                "versicle_number": 8,
+                "text": "Ora o manjar não nos faz agradáveis a Deus, porque, se comemos, nada temos de mais, e, se não comemos, nada nos falta."
+            },
+            {
+                "id": "v8.9",
+                "versicle_number": 9,
+                "text": "Mas vede que essa liberdade não seja dalguma maneira escândalo para os fracos."
+            },
+            {
+                "id": "v8.10",
+                "versicle_number": 10,
+                "text": "Porque, se alguém te vir a ti, que tens ciência, sentado à mesa no templo dos ídolos, não será a consciência do que é fraco induzida a comer das coisas sacrificadas aos ídolos?"
+            },
+            {
+                "id": "v8.11",
+                "versicle_number": 11,
+                "text": "E pela tua ciência perecerá o irmão fraco, pelo qual Cristo morreu."
+            },
+            {
+                "id": "v8.12",
+                "versicle_number": 12,
+                "text": "Ora, pecando assim contra os irmãos, e ferindo a sua fraca consciência, pecais contra Cristo."
+            },
+            {
+                "id": "v8.13",
+                "versicle_number": 13,
+                "text": "Pelo que, se o manjar escandalizar a meu irmão, nunca mais comerei carne, para que meu irmão se não escandalize."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

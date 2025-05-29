@@ -1,0 +1,154 @@
+{
+    "book": {
+        "id": "Ez",
+        "book_number": 26,
+        "new_testament": false,
+        "num_chapters": 48,
+        "book_name": "EZEQUIEL",
+        "book_full_name": "EZEQUIEL"
+    },
+    "chapter": {
+        "chapter_number": 30,
+        "chapter_reference": "",
+        "chapter_title": "Outra profecia contra o Egito e contra Faraó",
+        "versicles": [
+            {
+                "id": "v30.1",
+                "versicle_number": 1,
+                "text": "E VEIO a mim a palavra do Senhor, dizendo:"
+            },
+            {
+                "id": "v30.2",
+                "versicle_number": 2,
+                "text": "Filho do homem, profetiza, e dize: Assim diz o Senhor JEOVÁ: Gemei: Ah! aquele dia!"
+            },
+            {
+                "id": "v30.3",
+                "versicle_number": 3,
+                "text": "Porque está perto o dia, sim, está perto o dia do Senhor, dia nublado: o tempo dos gentios ele será."
+            },
+            {
+                "id": "v30.4",
+                "versicle_number": 4,
+                "text": "E uma espada virá ao Egito, e haverá grande dor na Etiópia, quando caírem os traspassados no Egito; e tomarão a sua multidão, e quebrar-se-ão os seus fundamentos."
+            },
+            {
+                "id": "v30.5",
+                "versicle_number": 5,
+                "text": "Etiópia, e {note:d}Pute, e Lude, e toda a mistura de gente, e Cube, e os filhos da terra do concerto, com eles cairão à espada."
+            },
+            {
+                "id": "v30.6",
+                "versicle_number": 6,
+                "text": "Assim diz o Senhor: Também cairão os que o Egito sustém, e descerá a soberba de seu poder: desde a torre de Sevene ali cairão à espada, diz o Senhor JEOVÁ."
+            },
+            {
+                "id": "v30.7",
+                "versicle_number": 7,
+                "text": "E serão assolados no meio das terras assoladas; e as suas cidades estarão no meio das cidades desertas."
+            },
+            {
+                "id": "v30.8",
+                "versicle_number": 8,
+                "text": "E saberão que eu sou o Senhor, quando eu puser fogo ao Egito, e forem destruídos todos os que lhe davam auxílio."
+            },
+            {
+                "id": "v30.9",
+                "versicle_number": 9,
+                "text": "Naquele dia sairão mensageiros de diante de mim em navios, para espantarem a Etiópia descuidada; e haverá neles grandes dores, como no dia do Egito; porque, eis que já vem."
+            },
+            {
+                "id": "v30.10",
+                "versicle_number": 10,
+                "text": "Assim diz o Senhor JEOVÁ: Eu pois farei cessar a multidão do Egito, por mão de Nabucodonosor, rei de Babilônia."
+            },
+            {
+                "id": "v30.11",
+                "versicle_number": 11,
+                "text": "Ele e o seu povo com ele, os mais formidáveis das nações, serão levados para destruírem a terra; e desembainharão as suas espadas contra o Egito, e encherão a terra de traspassados."
+            },
+            {
+                "id": "v30.12",
+                "versicle_number": 12,
+                "text": "E os rios farei secos, e venderei a terra, entregando-a na mão dos maus, e assolarei a terra e a sua plenitude pela mão dos estranhos; eu, o Senhor o disse."
+            },
+            {
+                "id": "v30.13",
+                "versicle_number": 13,
+                "text": "Assim diz o Senhor JEOVÁ: Também destruirei os ídolos, e farei cessar as imagens de Nofe: e não haverá mais um príncipe da terra do Egito; e porei o temor na terra do Egito."
+            },
+            {
+                "id": "v30.14",
+                "versicle_number": 14,
+                "text": "E assolarei a Patros, e porei fogo a Zoã, e executarei juízos em Nô."
+            },
+            {
+                "id": "v30.15",
+                "versicle_number": 15,
+                "text": "E derramarei o meu furor sobre Sim, a força do Egito, e exterminarei a multidão de Nô."
+            },
+            {
+                "id": "v30.16",
+                "versicle_number": 16,
+                "text": "E atearei um fogo no Egito; Sim terá grande dor, e Nô será fendida, e Nofe terá angústias quotidianas."
+            },
+            {
+                "id": "v30.17",
+                "versicle_number": 17,
+                "text": "Os mancebos de Áven e Pibsete cairão à espada, e estas cidades cairão em cativeiro."
+            },
+            {
+                "id": "v30.18",
+                "versicle_number": 18,
+                "text": "E em Tafnes se escurecerá o dia, quando eu quebrar ali os jugos do Egito, e nela cessar a soberba da sua força: uma nuvem a cobrirá, e suas filhas cairão em cativeiro."
+            },
+            {
+                "id": "v30.19",
+                "versicle_number": 19,
+                "text": "Assim executarei juízos no Egito, e saberão que eu sou o Senhor."
+            },
+            {
+                "id": "v30.20",
+                "versicle_number": 20,
+                "text": "E sucedeu que, no ano undécimo, no mês primeiro, aos sete do mês, veio a mim a palavra do Senhor, dizendo:"
+            },
+            {
+                "id": "v30.21",
+                "versicle_number": 21,
+                "text": "Filho do homem, eu quebrei o braço de Faraó, rei do Egito, e eis que não lhe aplicarão emplastos, nem lhe porão ligaduras para o atar, para o esforçar, para que pegue da espada."
+            },
+            {
+                "id": "v30.22",
+                "versicle_number": 22,
+                "text": "Portanto assim diz o Senhor JEOVÁ: Eis que eu estou contra Faraó, rei do Egito, e quebrarei os seus braços, o forte como o que está quebrado, e farei cair da sua mão a espada."
+            },
+            {
+                "id": "v30.23",
+                "versicle_number": 23,
+                "text": "E espalharei os egípcios entre as nações, e os espalharei pelas terras."
+            },
+            {
+                "id": "v30.24",
+                "versicle_number": 24,
+                "text": "E esforçarei os braços do rei de Babilônia, e porei a minha espada na sua mão; mas quebrarei os braços de Faraó, e diante dele gemerá como geme o traspassado."
+            },
+            {
+                "id": "v30.25",
+                "versicle_number": 25,
+                "text": "Eu levantarei os braços do rei de Babilônia, mas os braços de Faraó cairão; e saberão que eu sou o Senhor, quando eu puser a minha espada na mão do rei de Babilônia, e ele a estender sobre a terra do Egito."
+            },
+            {
+                "id": "v30.26",
+                "versicle_number": 26,
+                "text": "E espalharei os egípcios entre as nações, e os espalharei pelas terras; assim saberão que eu sou o Senhor."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:d} 30.5 ou Líbia"
+            }
+        ]
+    }
+}

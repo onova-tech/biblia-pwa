@@ -1,0 +1,179 @@
+{
+    "book": {
+        "id": "1Sm",
+        "book_number": 9,
+        "new_testament": false,
+        "num_chapters": 31,
+        "book_name": "SAMUEL",
+        "book_full_name": "O PRIMEIRO LIVRO DE SAMUEL"
+    },
+    "chapter": {
+        "chapter_number": 1,
+        "chapter_reference": "",
+        "chapter_title": "Elcana e suas mulheres",
+        "versicles": [
+            {
+                "id": "v1.1",
+                "versicle_number": 1,
+                "text": "HOUVE um homem de Ramataim de Zofim, da montanha de Efraim, cujo nome era Elcana, filho de Jeroão, filho de Eliú, filho de Toú, filho de Sufe, efrateu."
+            },
+            {
+                "id": "v1.2",
+                "versicle_number": 2,
+                "text": "E este tinha duas mulheres: o nome duma era Ana, e o nome da outra Penina: e Penina tinha filhos, porém Ana não tinha filhos."
+            },
+            {
+                "id": "v1.3",
+                "versicle_number": 3,
+                "text": "Subia pois este homem da sua cidade de ano em ano a adorar e a sacrificar ao Senhor dos Exércitos em Silo: e estavam ali os sacerdotes em Silo: e estavam ali os sacerdotes do Senhor, Hofni e Fineias, os dois filhos de Eli."
+            },
+            {
+                "id": "v1.4",
+                "versicle_number": 4,
+                "text": "E sucedeu que no dia em que Elcana sacrificava dava ele porções a Penina, sua mulher, e a todos os seus filhos, e a todas as suas filhas."
+            },
+            {
+                "id": "v1.5",
+                "versicle_number": 5,
+                "text": "Porém a Ana dava uma parte excelente; porquanto ele amava Ana, porém o Senhor lhe tinha cerrado a madre."
+            },
+            {
+                "id": "v1.6",
+                "versicle_number": 6,
+                "text": "E a sua competidora excessivamente a irritava para a embravecer: porquanto o Senhor lhe tinha cerrado a madre."
+            },
+            {
+                "id": "v1.7",
+                "versicle_number": 7,
+                "text": "E assim o fazia ele de ano em ano: quando ela subia à casa do Senhor, assim a outra a irritava: pelo que chorava, e não comia."
+            },
+            {
+                "id": "v1.8",
+                "versicle_number": 8,
+                "text": "Então Elcana, seu marido, lhe disse: Ana por que choras? e por que não comes? e por que está mal o teu coração? não te sou eu melhor do que dez filhos?"
+            },
+            {
+                "id": "v1.9",
+                "versicle_number": 9,
+                "text": "Então Ana se levantou, depois que comeram e beberam em Silo; e Eli, sacerdote, estava assentado numa cadeira, junto a um pilar do templo do Senhor."
+            },
+            {
+                "id": "v1.10",
+                "versicle_number": 10,
+                "text": "Ela pois, com amargura de alma, orou ao Senhor, e chorou abundantemente."
+            },
+            {
+                "id": "v1.11",
+                "versicle_number": 11,
+                "text": "E votou um voto, dizendo: Senhor dos exércitos! se benignamente atenderes para a aflição da tua serva, e de mim te lembrares, e da tua serva te não esqueceres, mas à tua serva deres um filho varão, ao Senhor o darei por todos os dias da sua vida, e sobre a sua cabeça não passará navalha.{note:1}"
+            },
+            {
+                "id": "v1.12",
+                "versicle_number": 12,
+                "text": "E sucedeu que, perseverando ela em orar perante o Senhor, Eli fez atenção à sua boca."
+            },
+            {
+                "id": "v1.13",
+                "versicle_number": 13,
+                "text": "Porquanto Ana no seu coração falava, só se moviam os seus beiços, porém não se ouvia a sua voz: pelo que Eli a teve por embriagada."
+            },
+            {
+                "id": "v1.14",
+                "versicle_number": 14,
+                "text": "E disse-lhe Eli: Até quando estarás tu embriagada? Aparta de ti o teu vinho."
+            },
+            {
+                "id": "v1.15",
+                "versicle_number": 15,
+                "text": "Porém Ana respondeu, e disse: Não, senhor meu, eu sou uma mulher atribulada de espírito; nem vinho nem bebida forte tenho bebido: porém tenho derramado a minha alma perante o Senhor."
+            },
+            {
+                "id": "v1.16",
+                "versicle_number": 16,
+                "text": "Não tenhas pois a tua serva por filha de Belial: porque da multidão dos meus cuidados e do meu desgosto tenho falado até agora."
+            },
+            {
+                "id": "v1.17",
+                "versicle_number": 17,
+                "text": "Então respondeu Eli, e disse: Vai em paz: e o Deus de Israel te conceda a tua petição que lhe pediste."
+            },
+            {
+                "id": "v1.18",
+                "versicle_number": 18,
+                "text": "E disse ela: Ache a tua serva graça em teus olhos. Assim a mulher se foi seu caminho, e comeu, e o seu semblante já não era triste."
+            },
+            {
+                "id": "v1.19",
+                "versicle_number": 19,
+                "text": "E levantaram-se de madrugada, e adoraram perante o Senhor, e voltaram, e vieram à sua casa, a Ramá, e Elcana conheceu a Ana, sua mulher, e o Senhor se lembrou dela."
+            },
+            {
+                "id": "v1.20",
+                "versicle_number": 20,
+                "text": "E sucedeu que, passado algum tempo, Ana concebeu, e teve um filho, e chamou o seu nome {note:a}Samuel; porque dizia ela, o tenho pedido ao Senhor."
+            },
+            {
+                "id": "v1.21",
+                "versicle_number": 21,
+                "text": "E subiu aquele homem Elcana com toda a sua casa, a sacrificar ao Senhor o sacrifício anual e a cumprir o seu voto."
+            },
+            {
+                "id": "v1.22",
+                "versicle_number": 22,
+                "text": "Porém Ana não subiu; mas disse a seu marido: Quando o menino for desmamado, então o levarei, para que apareça perante o Senhor, e lá fique para sempre."
+            },
+            {
+                "id": "v1.23",
+                "versicle_number": 23,
+                "text": "E Elcana, seu marido, lhe disse: Faze o que bem te parecer em teus olhos, fica até que o desmames; tão somente confirme o Senhor a sua palavra: assim ficou a mulher, e deu leite a seu filho, até que o desmamou."
+            },
+            {
+                "id": "v1.24",
+                "versicle_number": 24,
+                "text": "E, havendo-o desmamado, o levou consigo, com três bezerros, e um efa de farinha, e um odre de vinho, e o trouxe à casa do Senhor, a Silo, e era o menino ainda muito criança."
+            },
+            {
+                "id": "v1.25",
+                "versicle_number": 25,
+                "text": "E degolaram um bezerro: e assim trouxeram o menino a Eli."
+            },
+            {
+                "id": "v1.26",
+                "versicle_number": 26,
+                "text": "E disse ela: Ah! meu senhor, viva a tua alma, meu senhor; eu sou aquela mulher que aqui esteve contigo, para orar ao Senhor."
+            },
+            {
+                "id": "v1.27",
+                "versicle_number": 27,
+                "text": "Por este menino orava eu; e o Senhor me concedeu a minha petição, que eu lhe tinha pedido."
+            },
+            {
+                "id": "v1.28",
+                "versicle_number": 28,
+                "text": "Pelo que também ao Senhor eu o entreguei, por todos os dias que viver: pois ao Senhor foi pedido. E ele adorou ali ao Senhor."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v1.9",
+                "text": "Ana roga a Deus que lhe dê um filho"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v1.20",
+                "text": "Nasce Samuel e é consagrado a Deus"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 1.11 Nm 6.5"
+            },
+            {
+                "id": "n2",
+                "text": "{note:a} 1.20 que significa ouvido por Deus"
+            }
+        ]
+    }
+}

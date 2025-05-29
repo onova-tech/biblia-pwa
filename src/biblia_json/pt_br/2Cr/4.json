@@ -1,0 +1,154 @@
+{
+    "book": {
+        "id": "2Cr",
+        "book_number": 14,
+        "new_testament": false,
+        "num_chapters": 36,
+        "book_name": "CRÔNICAS",
+        "book_full_name": "O SEGUNDO LIVRO DAS CRÔNICAS"
+    },
+    "chapter": {
+        "chapter_number": 4,
+        "chapter_reference": "",
+        "chapter_title": "O altar e o mar de bronze",
+        "versicles": [
+            {
+                "id": "v4.1",
+                "versicle_number": 1,
+                "text": "TAMBÉM fez um altar de metal{note:1} de vinte côvados de comprimento, e de vinte côvados de largura, e dez côvados de altura."
+            },
+            {
+                "id": "v4.2",
+                "versicle_number": 2,
+                "text": "Fez também o mar de fundição, de dez côvados duma borda até à outra, redondo, e de cinco côvados de alto; cingia-o em roda um cordão de trinta côvados."
+            },
+            {
+                "id": "v4.3",
+                "versicle_number": 3,
+                "text": "E por baixo dele havia figuras de bois, que ao redor o cingiam, e por dez côvados cercavam aquele mar ao redor: e tinha duas carreiras de bois, fundidos na sua fundição."
+            },
+            {
+                "id": "v4.4",
+                "versicle_number": 4,
+                "text": "E estava sobre doze bois; três que olhavam para o norte, e três que olhavam para o ocidente, e três que olhavam para o sul, e três que olhavam para o oriente; e o mar estava posto sobre eles: e as suas partes posteriores estavam para a banda de dentro."
+            },
+            {
+                "id": "v4.5",
+                "versicle_number": 5,
+                "text": "E tinha um palmo de grossura, e a sua borda foi feita como a borda dum copo, ou como uma flor-de-lis, da capacidade de três mil batos."
+            },
+            {
+                "id": "v4.6",
+                "versicle_number": 6,
+                "text": "Também fez dez pias;{note:2} e pôs cinco à direita, e cinco à esquerda, para lavarem nelas; o que pertencia ao holocausto o lavavam nelas: porém o mar era para que os sacerdotes se lavassem nele."
+            },
+            {
+                "id": "v4.7",
+                "versicle_number": 7,
+                "text": "Fez também dez castiçais de ouro,{note:3} segundo a sua forma, e pô-los no templo, cinco à direita, e cinco à esquerda."
+            },
+            {
+                "id": "v4.8",
+                "versicle_number": 8,
+                "text": "Também fez dez mesas,{note:4} e pô-las no templo, cinco à direita, e cinco à esquerda; também fez cem bacias de ouro."
+            },
+            {
+                "id": "v4.9",
+                "versicle_number": 9,
+                "text": "Fez mais o pátio dos sacerdotes, e o pátio grande: como também as portadas para o pátio, e as suas portas cobriu de cobre."
+            },
+            {
+                "id": "v4.10",
+                "versicle_number": 10,
+                "text": "E o mar pôs ao lado direito, para a banda do oriente, para o sul."
+            },
+            {
+                "id": "v4.11",
+                "versicle_number": 11,
+                "text": "Também Hirão fez as caldeiras, e as pás, e as bacias: assim acabou Hirão de fazer a obra, que fazia para o rei Salomão, na casa de Deus:"
+            },
+            {
+                "id": "v4.12",
+                "versicle_number": 12,
+                "text": "As duas colunas, e os globos, e os dois capitéis sobre as cabeças das colunas: e as duas redes, para cobrir os dois globos dos capitéis, que estavam sobre a cabeça das colunas."
+            },
+            {
+                "id": "v4.13",
+                "versicle_number": 13,
+                "text": "E as quatrocentas romãs para as duas redes: duas carreiras de romãs para cada rede, para cobrirem os dois globos dos capitéis que estavam em cima das colunas."
+            },
+            {
+                "id": "v4.14",
+                "versicle_number": 14,
+                "text": "Também fez as bases: e as pias pôs sobre as bases;"
+            },
+            {
+                "id": "v4.15",
+                "versicle_number": 15,
+                "text": "Um mar, e os doze bois, debaixo dele;"
+            },
+            {
+                "id": "v4.16",
+                "versicle_number": 16,
+                "text": "Semelhantemente os potes, e as pás, e os garfos, e todos os seus vasos, fez Hirão Abiú ao rei Salomão, para a casa do Senhor, de cobre purificado."
+            },
+            {
+                "id": "v4.17",
+                "versicle_number": 17,
+                "text": "Na campina do Jordão os fundiu o rei na terra argilosa, entre Sucote e Zeredata."
+            },
+            {
+                "id": "v4.18",
+                "versicle_number": 18,
+                "text": "E fez Salomão todos estes vasos em grande abundância, porque o peso do cobre se não esquadrinhava."
+            },
+            {
+                "id": "v4.19",
+                "versicle_number": 19,
+                "text": "Fez também Salomão todos os vasos que eram para a casa de Deus, como também o altar de ouro, e as mesas, sobre as quais estavam os pães da proposição."
+            },
+            {
+                "id": "v4.20",
+                "versicle_number": 20,
+                "text": "E os castiçais com as suas lâmpadas de ouro finíssimo, para as acenderem segundo o costume, perante o oráculo."
+            },
+            {
+                "id": "v4.21",
+                "versicle_number": 21,
+                "text": "E as flores, e as lâmpadas, e os {note:i}espevitadores eram de ouro, do mais perfeito ouro."
+            },
+            {
+                "id": "v4.22",
+                "versicle_number": 22,
+                "text": "Como também os {note:j}garfos, e as bacias, e as {note:k}taças, e os incensários, de ouro finíssimo: e quanto à entrada da casa, as suas portas de dentro da santidade das santidades, e as portas da casa do templo, eram de ouro."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 4.1 Êx 27.1-2"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 4.6 Êx 30.17-21"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 4.7 Êx 25.31-40"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 4.8 Êx 25.23-30"
+            },
+            {
+                "id": "n5",
+                "text": "{note:i} 4.21 ou tenazes"
+            },
+            {
+                "id": "n6",
+                "text": "{note:j} 4.22 ou espevitadores {note:k} 4.22 ou colheres"
+            }
+        ]
+    }
+}

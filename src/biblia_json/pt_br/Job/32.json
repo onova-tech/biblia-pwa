@@ -1,0 +1,129 @@
+{
+    "book": {
+        "id": "Job",
+        "book_number": 18,
+        "new_testament": false,
+        "num_chapters": 42,
+        "book_name": "JÓ",
+        "book_full_name": "O LIVRO DE JÓ"
+    },
+    "chapter": {
+        "chapter_number": 32,
+        "chapter_reference": "",
+        "chapter_title": "Eliú repreende Jó e os seus três amigos",
+        "versicles": [
+            {
+                "id": "v32.1",
+                "versicle_number": 1,
+                "text": "ENTÃO aqueles três homens cessaram de responder a Jó; porque era justo aos seus próprios olhos."
+            },
+            {
+                "id": "v32.2",
+                "versicle_number": 2,
+                "text": "E acendeu-se a ira de Eliú, filho de Baraquel o buzita, da família de Rão: contra Jó se acendeu a sua ira, porque se justificava a si mesmo, mais do que a Deus."
+            },
+            {
+                "id": "v32.3",
+                "versicle_number": 3,
+                "text": "Também a sua ira se acendeu contra os seus três amigos: porque, não achando que responder, todavia condenavam a Jó."
+            },
+            {
+                "id": "v32.4",
+                "versicle_number": 4,
+                "text": "Eliú porém esperou para falar a Jó, porquanto tinham mais idade do que ele."
+            },
+            {
+                "id": "v32.5",
+                "versicle_number": 5,
+                "text": "Vendo pois Eliú que já não havia resposta na boca daqueles três homens, a sua ira se acendeu."
+            },
+            {
+                "id": "v32.6",
+                "versicle_number": 6,
+                "text": "E respondeu Eliú, filho de Baraquel o buzita, e disse: Eu sou de menos idade, e vós sois idosos; arreceei-me e temi de vos declarar a minha opinião."
+            },
+            {
+                "id": "v32.7",
+                "versicle_number": 7,
+                "text": "Dizia eu: Falem os dias, e a multidão dos anos ensine a sabedoria."
+            },
+            {
+                "id": "v32.8",
+                "versicle_number": 8,
+                "text": "Na verdade, há um espírito no homem, e a inspiração do Todo-poderoso os faz entendidos."
+            },
+            {
+                "id": "v32.9",
+                "versicle_number": 9,
+                "text": "Os grandes não são os sábios, nem os velhos entendem o que é reto."
+            },
+            {
+                "id": "v32.10",
+                "versicle_number": 10,
+                "text": "Pelo que digo: Dai-me ouvidos, e também eu declararei a minha opinião."
+            },
+            {
+                "id": "v32.11",
+                "versicle_number": 11,
+                "text": "Eis que aguardei as vossas palavras, e dei ouvidos às vossas considerações, até que buscásseis razões."
+            },
+            {
+                "id": "v32.12",
+                "versicle_number": 12,
+                "text": "Atentando pois para vós, eis que nenhum de vós há que possa convencer a Jó, nem que responda às suas razões:"
+            },
+            {
+                "id": "v32.13",
+                "versicle_number": 13,
+                "text": "Para que não digais: Achamos a sabedoria, Deus o derribou, e não homem algum."
+            },
+            {
+                "id": "v32.14",
+                "versicle_number": 14,
+                "text": "Ora ele não dirigiu contra mim palavra alguma, nem lhe responderei com as vossas palavras."
+            },
+            {
+                "id": "v32.15",
+                "versicle_number": 15,
+                "text": "Estão pasmados, não respondem mais, faltam-lhes as palavras."
+            },
+            {
+                "id": "v32.16",
+                "versicle_number": 16,
+                "text": "Esperei pois, mas não falam; porque já pararam, e não respondem mais."
+            },
+            {
+                "id": "v32.17",
+                "versicle_number": 17,
+                "text": "Também eu responderei pela minha parte; também eu declararei a minha opinião."
+            },
+            {
+                "id": "v32.18",
+                "versicle_number": 18,
+                "text": "Porque estou cheio de palavras; o meu espírito me constrange."
+            },
+            {
+                "id": "v32.19",
+                "versicle_number": 19,
+                "text": "Eis que o meu ventre é como o mosto, sem respiradouro, e virá a arrebentar, como odres novos."
+            },
+            {
+                "id": "v32.20",
+                "versicle_number": 20,
+                "text": "Falarei, e respirarei; abrirei os meus lábios, e responderei."
+            },
+            {
+                "id": "v32.21",
+                "versicle_number": 21,
+                "text": "Oxalá eu não faça acepção de pessoas, nem use de lisonjas com o homem!"
+            },
+            {
+                "id": "v32.22",
+                "versicle_number": 22,
+                "text": "Porque não sei usar de lisonjas; em breve me levaria o meu Criador."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 10,
+        "chapter_reference": "",
+        "chapter_title": "A audácia dos perseguidores, e o refúgio em Deus",
+        "versicles": [
+            {
+                "id": "v10.1",
+                "versicle_number": 1,
+                "text": "POR QUE te conservas longe, Senhor? Por que te escondes nos tempos de angústia?"
+            },
+            {
+                "id": "v10.2",
+                "versicle_number": 2,
+                "text": "Os ímpios, na sua arrogância, perseguem furiosamente o pobre: sejam apanhados nas ciladas que maquinaram."
+            },
+            {
+                "id": "v10.3",
+                "versicle_number": 3,
+                "text": "Porque o ímpio gloria-se do desejo da sua alma; bendiz ao avarento, e blasfema do Senhor."
+            },
+            {
+                "id": "v10.4",
+                "versicle_number": 4,
+                "text": "Por causa do seu orgulho, o ímpio não investiga; todas as suas cogitações são: Não há Deus."
+            },
+            {
+                "id": "v10.5",
+                "versicle_number": 5,
+                "text": "Os seus caminhos são sempre atormentadores: os teus juízos estão longe dele, em grande altura; trata com desprezo os seus adversários."
+            },
+            {
+                "id": "v10.6",
+                "versicle_number": 6,
+                "text": "Diz em seu coração: Não serei abalado, porque nunca me verei na adversidade."
+            },
+            {
+                "id": "v10.7",
+                "versicle_number": 7,
+                "text": "A sua boca{note:1} está cheia de imprecações, de enganos e de astúcia; debaixo da sua língua há malícia e maldade."
+            },
+            {
+                "id": "v10.8",
+                "versicle_number": 8,
+                "text": "Põe-se nos cerrados das aldeias; nos lugares ocultos mata o inocente; os seus olhos estão ocultamente fixos sobre o pobre."
+            },
+            {
+                "id": "v10.9",
+                "versicle_number": 9,
+                "text": "Arma ciladas em esconderijos, como o leão no seu covil; arma ciladas para roubar o pobre; rouba-o colhendo-o na sua rede."
+            },
+            {
+                "id": "v10.10",
+                "versicle_number": 10,
+                "text": "Encolhe-se, abaixa-se, para que os pobres caiam em suas fortes garras."
+            },
+            {
+                "id": "v10.11",
+                "versicle_number": 11,
+                "text": "Diz em seu coração: Deus esqueceu-se; cobriu o seu rosto, e nunca verá isto."
+            },
+            {
+                "id": "v10.12",
+                "versicle_number": 12,
+                "text": "Levanta-te, Senhor: oh! Deus, levanta a tua mão; não te esqueças dos necessitados."
+            },
+            {
+                "id": "v10.13",
+                "versicle_number": 13,
+                "text": "Por que blasfema de Deus o ímpio, dizendo no seu coração que tu não inquirirás?"
+            },
+            {
+                "id": "v10.14",
+                "versicle_number": 14,
+                "text": "Tu o viste, porque atentas para o trabalho e enfado, para os tomares sob tuas mãos; a ti o pobre se encomenda; tu és o auxílio do órfão."
+            },
+            {
+                "id": "v10.15",
+                "versicle_number": 15,
+                "text": "Quebranta o braço do ímpio e malvado; busca a sua impiedade, até nada mais achares dela."
+            },
+            {
+                "id": "v10.16",
+                "versicle_number": 16,
+                "text": "O Senhor é Rei eterno; da sua terra serão desarraigados {note:b}os gentios."
+            },
+            {
+                "id": "v10.17",
+                "versicle_number": 17,
+                "text": "Senhor, tu ouviste os desejos dos mansos; confortarás os seus corações; os teus ouvidos estarão abertos para eles;"
+            },
+            {
+                "id": "v10.18",
+                "versicle_number": 18,
+                "text": "Para fazeres justiça ao órfão e ao oprimido, a fim de que o homem, que é da terra, não prossiga mais em usar da violência."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 10.7 Rm 3.14"
+            },
+            {
+                "id": "n2",
+                "text": "{note:b} 10.16 ou as nações"
+            }
+        ]
+    }
+}

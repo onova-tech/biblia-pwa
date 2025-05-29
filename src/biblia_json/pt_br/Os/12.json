@@ -1,0 +1,110 @@
+{
+    "book": {
+        "id": "Os",
+        "book_number": 28,
+        "new_testament": false,
+        "num_chapters": 14,
+        "book_name": "OSEIAS",
+        "book_full_name": "OSEIAS"
+    },
+    "chapter": {
+        "chapter_number": 12,
+        "chapter_reference": "",
+        "chapter_title": "A controvérsia do Senhor com Judá e com Israel",
+        "versicles": [
+            {
+                "id": "v12.1",
+                "versicle_number": 1,
+                "text": "EFRAIM se apascenta de vento, e segue o vento leste: todo o dia multiplica a mentira e a destruição e fazem aliança com a Assíria, e o azeite se leva ao Egito."
+            },
+            {
+                "id": "v12.2",
+                "versicle_number": 2,
+                "text": "O Senhor também com Judá tem contenda, e castigará Jacó segundo os seus caminhos; segundo as suas obras o recompensará."
+            },
+            {
+                "id": "v12.3",
+                "versicle_number": 3,
+                "text": "No ventre pegou do calcanhar de seu irmão,{note:1} e pela sua força como príncipe se houve com Deus.{note:2}"
+            },
+            {
+                "id": "v12.4",
+                "versicle_number": 4,
+                "text": "Como príncipe lutou com o anjo, e prevaleceu; chorou, e lhe suplicou: em Betel{note:3} o achou, e ali falou conosco;"
+            },
+            {
+                "id": "v12.5",
+                "versicle_number": 5,
+                "text": "Sim, com o Senhor, o Deus dos Exércitos: o Senhor é o seu memorial."
+            },
+            {
+                "id": "v12.6",
+                "versicle_number": 6,
+                "text": "Tu, pois, converte-te a teu Deus: guarda a beneficência e o juízo, e em teu Deus espera sempre."
+            },
+            {
+                "id": "v12.7",
+                "versicle_number": 7,
+                "text": "É um mercador; tem balança enganadora em sua mão; ele ama a opressão."
+            },
+            {
+                "id": "v12.8",
+                "versicle_number": 8,
+                "text": "E diz Efraim: Contudo eu tenho-me enriquecido, tenho adquirido para mim grandes bens: em todo o meu trabalho não acharão em mim iniquidade alguma que seja pecado."
+            },
+            {
+                "id": "v12.9",
+                "versicle_number": 9,
+                "text": "Mas eu sou o Senhor teu Deus desde a terra do Egito: eu ainda te farei habitar em tendas, como nos dias da reunião solene.{note:4}"
+            },
+            {
+                "id": "v12.10",
+                "versicle_number": 10,
+                "text": "E falarei aos profetas, e multiplicarei a visão; e pelo ministério dos profetas proporei símiles."
+            },
+            {
+                "id": "v12.11",
+                "versicle_number": 11,
+                "text": "Não é Gileade iniquidade? pura vaidade eles são: em Gilgal sacrificam bois: os seus altares são como montões de pedras nos regos dos campos."
+            },
+            {
+                "id": "v12.12",
+                "versicle_number": 12,
+                "text": "Jacó fugiu para o campo {note:c}da Síria,{note:5} e Israel serviu por uma mulher, e por uma mulher guardou o gado."
+            },
+            {
+                "id": "v12.13",
+                "versicle_number": 13,
+                "text": "Mas o Senhor por meio dum profeta fez subir a Israel do Egito,{note:6} e por um profeta foi ele guardado."
+            },
+            {
+                "id": "v12.14",
+                "versicle_number": 14,
+                "text": "Efraim mui amargosamente provocou a sua ira: portanto deixará ficar sobre ele o seu sangue, e o seu Senhor fará cair sobre ele o seu opróbrio."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 12.3 Gn 25.26 {note:2} 12.3 Gn 32.24-26"
+            },
+            {
+                "id": "n2",
+                "text": "{note:3} 12.4 Gn 28.10-22"
+            },
+            {
+                "id": "n3",
+                "text": "{note:4} 12.9 Lv 23.39-43"
+            },
+            {
+                "id": "n4",
+                "text": "{note:c} 12.12 Heb. de Aram {note:5} 12.12 Gn 29.1-20"
+            },
+            {
+                "id": "n5",
+                "text": "{note:6} 12.13 Êx 12.50-51"
+            }
+        ]
+    }
+}

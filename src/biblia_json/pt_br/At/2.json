@@ -1,0 +1,302 @@
+{
+    "book": {
+        "id": "At",
+        "book_number": 44,
+        "new_testament": true,
+        "num_chapters": 28,
+        "book_name": "ATOS DOS APÓSTOLOS",
+        "book_full_name": "ATOS DOS APÓSTOLOS"
+    },
+    "chapter": {
+        "chapter_number": 2,
+        "chapter_reference": "",
+        "chapter_title": "A descida do Espírito Santo",
+        "versicles": [
+            {
+                "id": "v2.1",
+                "versicle_number": 1,
+                "text": "E, CUMPRINDO-SE o dia de Pentecostes,{note:1} estavam todos reunidos no mesmo lugar;"
+            },
+            {
+                "id": "v2.2",
+                "versicle_number": 2,
+                "text": "E de repente veio do céu um som, como de um vento veemente e impetuoso, e encheu toda a casa em que estavam assentados."
+            },
+            {
+                "id": "v2.3",
+                "versicle_number": 3,
+                "text": "E foram vistas por eles línguas repartidas, como que de fogo, as quais pousaram sobre cada um deles."
+            },
+            {
+                "id": "v2.4",
+                "versicle_number": 4,
+                "text": "E todos foram cheios do Espírito Santo, e começaram a falar noutras línguas, conforme o Espírito Santo lhes concedia que falassem."
+            },
+            {
+                "id": "v2.5",
+                "versicle_number": 5,
+                "text": "E em Jerusalém estavam habitando judeus, varões religiosos, de todas as nações que estão debaixo do céu."
+            },
+            {
+                "id": "v2.6",
+                "versicle_number": 6,
+                "text": "E, correndo aquela voz, ajuntou-se uma multidão, e estava confusa, porque cada um os ouvia falar na sua própria língua."
+            },
+            {
+                "id": "v2.7",
+                "versicle_number": 7,
+                "text": "E todos pasmavam e se maravilhavam, dizendo uns aos outros: Pois quê! não são galileus todos esses homens que estão falando?"
+            },
+            {
+                "id": "v2.8",
+                "versicle_number": 8,
+                "text": "Como pois os ouvimos, cada um, na nossa própria língua em que somos nascidos?"
+            },
+            {
+                "id": "v2.9",
+                "versicle_number": 9,
+                "text": "Partos e medas, elamitas e os que habitam na Mesopotâmia, e Judeia, e Capadócia, Ponto e Ásia,"
+            },
+            {
+                "id": "v2.10",
+                "versicle_number": 10,
+                "text": "E Frígia e Panfília, Egito e partes da Líbia, junto a Cirene, e forasteiros romanos, tanto judeus como prosélitos,"
+            },
+            {
+                "id": "v2.11",
+                "versicle_number": 11,
+                "text": "Cretenses e árabes, todos os temos ouvido em nossas próprias línguas falar das grandezas de Deus."
+            },
+            {
+                "id": "v2.12",
+                "versicle_number": 12,
+                "text": "E todos se maravilhavam e estavam suspensos, dizendo uns para os outros: Que quer isto dizer?"
+            },
+            {
+                "id": "v2.13",
+                "versicle_number": 13,
+                "text": "E outros, zombando, diziam: Estão cheios de mosto."
+            },
+            {
+                "id": "v2.14",
+                "versicle_number": 14,
+                "text": "Pedro, porém, pondo-se em pé com os onze, levantou a sua voz, e disse-lhes: Varões judeus, e todos os que habitais em Jerusalém, seja-vos isto notório, e escutai as minhas palavras."
+            },
+            {
+                "id": "v2.15",
+                "versicle_number": 15,
+                "text": "Estes homens não estão embriagados, como vós pensais, sendo a terceira hora do dia."
+            },
+            {
+                "id": "v2.16",
+                "versicle_number": 16,
+                "text": "Mas isto é o que foi dito pelo profeta Joel:"
+            },
+            {
+                "id": "v2.17",
+                "versicle_number": 17,
+                "text": "E nos últimos dias acontecerá, diz Deus, que do meu Espírito derramarei sobre toda a carne; e os vossos filhos e as vossas filhas profetizarão, os vossos mancebos terão visões, e os vossos velhos sonharão sonhos;"
+            },
+            {
+                "id": "v2.18",
+                "versicle_number": 18,
+                "text": "E também do meu Espírito derramarei sobre os meus servos e minhas servas naqueles dias, e profetizarão;"
+            },
+            {
+                "id": "v2.19",
+                "versicle_number": 19,
+                "text": "E farei aparecer prodígios em cima, no céu: e sinais em baixo na terra, sangue, fogo e vapor de fumo."
+            },
+            {
+                "id": "v2.20",
+                "versicle_number": 20,
+                "text": "O sol se converterá em trevas, e a lua em sangue antes de chegar o grande e o glorioso dia do Senhor;"
+            },
+            {
+                "id": "v2.21",
+                "versicle_number": 21,
+                "text": "E acontecerá que todo aquele que invocar o nome do Senhor será salvo.{note:2}"
+            },
+            {
+                "id": "v2.22",
+                "versicle_number": 22,
+                "text": "Varões israelitas, escutai estas palavras: A Jesus Nazareno, varão aprovado por Deus entre vós com maravilhas, prodígios e sinais, que Deus por ele fez no meio de vós, como vós mesmos bem sabeis;"
+            },
+            {
+                "id": "v2.23",
+                "versicle_number": 23,
+                "text": "A este que vos foi entregue pelo determinado conselho e presciência de Deus, tomando-o vós, o crucificastes{note:3} e matastes pelas mãos de injustos;"
+            },
+            {
+                "id": "v2.24",
+                "versicle_number": 24,
+                "text": "Ao qual Deus ressuscitou,{note:4} soltas as ânsias da morte, pois não era possível que fosse retido por ela;"
+            },
+            {
+                "id": "v2.25",
+                "versicle_number": 25,
+                "text": "Porque dele disse Davi: Sempre via diante de mim o Senhor, porque está à minha direita, para que eu não seja comovido;"
+            },
+            {
+                "id": "v2.26",
+                "versicle_number": 26,
+                "text": "Por isso se alegrou o meu coração, e a minha língua exultou; e ainda a minha carne há de repousar em esperança."
+            },
+            {
+                "id": "v2.27",
+                "versicle_number": 27,
+                "text": "Pois não deixarás a minha alma no Hades, nem permitirás que o teu Santo veja a corrupção;"
+            },
+            {
+                "id": "v2.28",
+                "versicle_number": 28,
+                "text": "Fizeste-me conhecidos os caminhos da vida; com a tua face me encherás de júbilo.{note:5}"
+            },
+            {
+                "id": "v2.29",
+                "versicle_number": 29,
+                "text": "Varões irmãos seja-me lícito dizer-vos livremente acerca do patriarca Davi, que ele morreu e foi sepultado, e entre nós está até hoje a sua sepultura."
+            },
+            {
+                "id": "v2.30",
+                "versicle_number": 30,
+                "text": "Sendo pois ele profeta, e sabendo que Deus lhe havia prometido com juramento{note:6} que do fruto de seus lombos, segundo a carne, levantaria o Cristo, para o assentar sobre o seu trono."
+            },
+            {
+                "id": "v2.31",
+                "versicle_number": 31,
+                "text": "Nesta previsão, disse da ressurreição de Cristo: que a sua alma não foi deixada no Hades, nem a sua carne viu a corrupção."
+            },
+            {
+                "id": "v2.32",
+                "versicle_number": 32,
+                "text": "Deus ressuscitou a este Jesus, do que todos nós somos testemunhas."
+            },
+            {
+                "id": "v2.33",
+                "versicle_number": 33,
+                "text": "De sorte que, exaltado pela destra de Deus, e tendo recebido do Pai a promessa do Espírito Santo, derramou isto que vós agora vedes e ouvis."
+            },
+            {
+                "id": "v2.34",
+                "versicle_number": 34,
+                "text": "Porque Davi não subiu aos céus, mas ele próprio diz: Disse o SENHOR ao meu Senhor: Assenta-te à minha direita,"
+            },
+            {
+                "id": "v2.35",
+                "versicle_number": 35,
+                "text": "Até que ponha os teus inimigos por escabelo de teus pés.{note:7}"
+            },
+            {
+                "id": "v2.36",
+                "versicle_number": 36,
+                "text": "Saiba pois com certeza toda a casa d'Israel que a esse Jesus, a quem vós crucificastes, Deus o fez Senhor e Cristo."
+            },
+            {
+                "id": "v2.37",
+                "versicle_number": 37,
+                "text": "E, ouvindo eles isto, compungiram-se em seu coração, e perguntaram a Pedro e aos demais apóstolos: Que faremos, varões irmãos?"
+            },
+            {
+                "id": "v2.38",
+                "versicle_number": 38,
+                "text": "E disse-lhes Pedro: Arrependei-vos, e cada um de vós seja batizado em nome de Jesus Cristo, para perdão dos pecados; e recebereis o dom do Espírito Santo;"
+            },
+            {
+                "id": "v2.39",
+                "versicle_number": 39,
+                "text": "Porque a promessa vos diz respeito a vós, a vossos filhos, e a todos os que estão longe: a tantos quantos Deus nosso Senhor chamar."
+            },
+            {
+                "id": "v2.40",
+                "versicle_number": 40,
+                "text": "E com muitas outras palavras isto testificava, e os exortava, dizendo: Salvai-vos desta geração perversa."
+            },
+            {
+                "id": "v2.41",
+                "versicle_number": 41,
+                "text": "De sorte que foram batizados os que de bom grado receberam a sua palavra; e naquele dia agregaram-se quase três mil almas;"
+            },
+            {
+                "id": "v2.42",
+                "versicle_number": 42,
+                "text": "E perseveravam na doutrina dos apóstolos, e na comunhão, e no partir do pão, e nas orações."
+            },
+            {
+                "id": "v2.43",
+                "versicle_number": 43,
+                "text": "E em toda a alma havia temor, e muitas maravilhas e sinais se faziam pelos apóstolos."
+            },
+            {
+                "id": "v2.44",
+                "versicle_number": 44,
+                "text": "E todos os que criam estavam juntos, e tinham tudo em comum.{note:8}"
+            },
+            {
+                "id": "v2.45",
+                "versicle_number": 45,
+                "text": "E vendiam suas propriedades{note:9} e fazendas, e repartiam com todos, segundo cada um havia de mister."
+            },
+            {
+                "id": "v2.46",
+                "versicle_number": 46,
+                "text": "E, perseverando unânimes todos os dias no templo, e partindo o pão em casa, comiam juntos com alegria e singeleza de coração,"
+            },
+            {
+                "id": "v2.47",
+                "versicle_number": 47,
+                "text": "Louvando a Deus, e caindo na graça de todo o povo. E todos os dias acrescentava o Senhor à igreja aqueles que se haviam de salvar."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v2.14",
+                "text": "O discurso de Pedro no dia de Pentecostes"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v2.37",
+                "text": "As primeiras conversões"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 2.1 Lv 23.15-21; Dt 16.9-11"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 2.17-21 Jl 2.28-32"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 2.23 Mt 27.35; Mc 15.24; Lc 23.33; Jo 19.18"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 2.24 Mt 28.5; Mc 16.6; Lc 24.5"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 2.25-28 Sl 16.8-11"
+            },
+            {
+                "id": "n6",
+                "text": "{note:6} 2.30 Sl 89.3-4; 132.11"
+            },
+            {
+                "id": "n7",
+                "text": "{note:7} 2.34-35 Sl 110.1"
+            },
+            {
+                "id": "n8",
+                "text": "{note:8} 2.44 At 4.32-35"
+            },
+            {
+                "id": "n9",
+                "text": "{note:9} 2.45 Mt 19.21; Mc 10.21; Lc 12.33; 18.22"
+            }
+        ]
+    }
+}

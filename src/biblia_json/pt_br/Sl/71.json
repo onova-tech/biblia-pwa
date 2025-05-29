@@ -1,0 +1,139 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 71,
+        "chapter_reference": "",
+        "chapter_title": "Davi confia em Deus, e roga-lhe que o livre dos seus inimigos, e o proteja",
+        "versicles": [
+            {
+                "id": "v71.1",
+                "versicle_number": 1,
+                "text": "EM ti, Senhor, confio; nunca seja eu confundido."
+            },
+            {
+                "id": "v71.2",
+                "versicle_number": 2,
+                "text": "Livra-me na tua justiça, e faze que eu escape: inclina os teus ouvidos para mim, e salva-me."
+            },
+            {
+                "id": "v71.3",
+                "versicle_number": 3,
+                "text": "Sê tu a minha habitação forte, à qual possa recorrer continuamente: deste um mandamento que me salva, pois tu és a minha rocha e a minha fortaleza."
+            },
+            {
+                "id": "v71.4",
+                "versicle_number": 4,
+                "text": "Livra-me, meu Deus, das mãos do ímpio, das mãos do homem injusto e cruel."
+            },
+            {
+                "id": "v71.5",
+                "versicle_number": 5,
+                "text": "Pois tu és a minha esperança, Senhor Deus; tu és a minha confiança desde a minha mocidade."
+            },
+            {
+                "id": "v71.6",
+                "versicle_number": 6,
+                "text": "Por ti tenho sido sustentado desde o ventre: tu és aquele que me tiraste das entranhas de minha mãe: o meu louvor será para ti constantemente."
+            },
+            {
+                "id": "v71.7",
+                "versicle_number": 7,
+                "text": "Sou como um prodígio para muitos, mas tu és o meu refúgio forte."
+            },
+            {
+                "id": "v71.8",
+                "versicle_number": 8,
+                "text": "Encha-se a minha boca do teu louvor e da tua glória todo o dia."
+            },
+            {
+                "id": "v71.9",
+                "versicle_number": 9,
+                "text": "Não me rejeites no tempo da velhice; não me desampares, quando se for acabando a minha força."
+            },
+            {
+                "id": "v71.10",
+                "versicle_number": 10,
+                "text": "Porque os meus inimigos falam contra mim, e os que espiam a minha alma consultam juntos,"
+            },
+            {
+                "id": "v71.11",
+                "versicle_number": 11,
+                "text": "Dizendo: Deus o desamparou: persegui-o prendei-o, pois não há quem o livre."
+            },
+            {
+                "id": "v71.12",
+                "versicle_number": 12,
+                "text": "Ó Deus, não te alongues de mim: meu Deus, apressa-te em ajudar-me."
+            },
+            {
+                "id": "v71.13",
+                "versicle_number": 13,
+                "text": "Sejam confundidos e consumidos os que são adversários da minha alma; cubram-se de opróbrio e de confusão aqueles que procuram o meu mal."
+            },
+            {
+                "id": "v71.14",
+                "versicle_number": 14,
+                "text": "Mas eu esperarei continuamente, e te louvarei cada vez mais."
+            },
+            {
+                "id": "v71.15",
+                "versicle_number": 15,
+                "text": "A minha boca relatará as bênçãos da tua justiça e da tua salvação todo o dia, posto que não conheça o seu número."
+            },
+            {
+                "id": "v71.16",
+                "versicle_number": 16,
+                "text": "Sairei na força do Senhor Deus; farei menção da tua justiça, e só dela."
+            },
+            {
+                "id": "v71.17",
+                "versicle_number": 17,
+                "text": "Ensinaste-me, ó Deus, desde a minha mocidade; e até aqui tenho anunciado as tuas maravilhas."
+            },
+            {
+                "id": "v71.18",
+                "versicle_number": 18,
+                "text": "Agora também, quando estou velho e de cabelos brancos, não me desampares, ó Deus, até que tenha anunciado a tua força a esta geração, e o teu poder a todos os vindouros."
+            },
+            {
+                "id": "v71.19",
+                "versicle_number": 19,
+                "text": "Também a tua justiça, ó Deus, está muito alta, pois fizeste grandes cousas: Ó Deus, quem é semelhante a ti?"
+            },
+            {
+                "id": "v71.20",
+                "versicle_number": 20,
+                "text": "Tu, que me tens feito ver muitos males e angústias, me darás ainda a vida, e me tirarás dos abismos da terra."
+            },
+            {
+                "id": "v71.21",
+                "versicle_number": 21,
+                "text": "Aumentarás a minha grandeza, e de novo me consolarás."
+            },
+            {
+                "id": "v71.22",
+                "versicle_number": 22,
+                "text": "Também eu te louvarei com o saltério bem como à tua verdade, ó meu Deus; cantar-te-ei com a harpa, ó Santo de Israel."
+            },
+            {
+                "id": "v71.23",
+                "versicle_number": 23,
+                "text": "Os meus lábios exultarão quando eu te cantar, assim como a minha alma que tu remiste."
+            },
+            {
+                "id": "v71.24",
+                "versicle_number": 24,
+                "text": "A minha língua falará da tua justiça todo o dia: pois estão confundidos e envergonhados aqueles que procuram o meu mal."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

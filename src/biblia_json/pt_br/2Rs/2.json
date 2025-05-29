@@ -1,0 +1,159 @@
+{
+    "book": {
+        "id": "2Rs",
+        "book_number": 12,
+        "new_testament": false,
+        "num_chapters": 25,
+        "book_name": "REIS",
+        "book_full_name": "O SEGUNDO LIVRO DOS REIS"
+    },
+    "chapter": {
+        "chapter_number": 2,
+        "chapter_reference": "",
+        "chapter_title": "Elias é elevado ao céu num carro de fogo",
+        "versicles": [
+            {
+                "id": "v2.1",
+                "versicle_number": 1,
+                "text": "SUCEDEU pois que, havendo o Senhor de elevar a Elias num redemoinho ao céu, Elias partiu com Eliseu de Gilgal."
+            },
+            {
+                "id": "v2.2",
+                "versicle_number": 2,
+                "text": "E disse Elias a Eliseu: Fica-te aqui, porque o Senhor me enviou a Betel. Porém Eliseu disse: Vive o Senhor, e vive a tua alma, que te não deixarei. E assim foram a Betel."
+            },
+            {
+                "id": "v2.3",
+                "versicle_number": 3,
+                "text": "Então os filhos dos profetas que estavam em Betel saíram a Eliseu, e lhe disseram: Sabes que o Senhor hoje tomará o teu senhor por de cima da tua cabeça? E ele disse: Também eu bem o sei; calai-vos."
+            },
+            {
+                "id": "v2.4",
+                "versicle_number": 4,
+                "text": "E Elias lhe disse: Eliseu, fica-te aqui, porque o Senhor me enviou a Jericó. Porém ele disse: Vive o Senhor, e vive a tua alma, que te não deixarei. E assim vieram a Jericó."
+            },
+            {
+                "id": "v2.5",
+                "versicle_number": 5,
+                "text": "Então os filhos dos profetas que estavam em Jericó se chegaram a Eliseu, e lhe disseram: Sabes que o Senhor hoje tomará o teu senhor por de cima da tua cabeça? E ele disse: Também eu bem o sei; calai-vos."
+            },
+            {
+                "id": "v2.6",
+                "versicle_number": 6,
+                "text": "E Elias disse: Fica-te aqui, porque o Senhor me enviou ao Jordão. Mas ele disse: Vive o Senhor, e vive a tua alma, que te não deixarei. E assim ambos foram juntos."
+            },
+            {
+                "id": "v2.7",
+                "versicle_number": 7,
+                "text": "E foram cinquenta homens dos filhos dos profetas, e de longe pararam defronte: e eles ambos pararam junto ao Jordão."
+            },
+            {
+                "id": "v2.8",
+                "versicle_number": 8,
+                "text": "Então Elias tomou a sua capa, e a dobrou, e feriu as águas, as quais se dividiram para as duas bandas: e passaram ambos em seco."
+            },
+            {
+                "id": "v2.9",
+                "versicle_number": 9,
+                "text": "Sucedeu pois que, havendo eles passado, Elias disse a Eliseu: Pede-me o que queres que te faça, antes que seja tomado de ti. E disse Eliseu: Peço-te que haja porção dobrada{note:1} de teu espírito sobre mim."
+            },
+            {
+                "id": "v2.10",
+                "versicle_number": 10,
+                "text": "E disse: Cousa dura pediste; se me vires quando for tomado de ti, assim se te fará, porém, se não, não se fará."
+            },
+            {
+                "id": "v2.11",
+                "versicle_number": 11,
+                "text": "E sucedeu que, indo eles andando e falando, eis que um carro de fogo, com cavalos de fogo, os separou um do outro: e Elias subiu ao céu num redemoinho."
+            },
+            {
+                "id": "v2.12",
+                "versicle_number": 12,
+                "text": "O que vendo Eliseu, clamou: Meu pai, meu pai,{note:2} carros de Israel, e seus cavaleiros! E nunca mais o viu: e, travando dos seus vestidos, os rasgou em duas partes."
+            },
+            {
+                "id": "v2.13",
+                "versicle_number": 13,
+                "text": "Também levantou a capa de Elias, que lhe caíra: e voltou-se, e parou à borda do Jordão."
+            },
+            {
+                "id": "v2.14",
+                "versicle_number": 14,
+                "text": "E tomou a capa de Elias, que lhe caíra, e feriu as águas, e disse: Onde está o Senhor, Deus de Elias? Então feriu as águas, e se dividiram elas para uma e outra banda: e Eliseu passou."
+            },
+            {
+                "id": "v2.15",
+                "versicle_number": 15,
+                "text": "Vendo-o pois os filhos dos profetas que estavam defronte em Jericó, disseram: O espírito de Elias repousa sobre Eliseu. E vieram-lhe ao encontro, e se prostraram diante dele em terra."
+            },
+            {
+                "id": "v2.16",
+                "versicle_number": 16,
+                "text": "E disseram-lhe: Eis que com teus servos há cinquenta homens valentes: ora deixa-os ir para buscar a teu senhor; pode ser que o elevasse o Espírito do Senhor, e o lançasse nalgum dos montes, ou nalgum dos vales. Porém ele disse: Não os envieis."
+            },
+            {
+                "id": "v2.17",
+                "versicle_number": 17,
+                "text": "Mas eles apertaram com ele, até se enfastiar; e disse-lhes: Enviai. E enviaram cinquenta homens, que o buscaram três dias, porém não o acharam."
+            },
+            {
+                "id": "v2.18",
+                "versicle_number": 18,
+                "text": "Então voltaram para ele, tendo ele ficado em Jericó: e disse-lhes: Eu não vos disse que não fôsseis?"
+            },
+            {
+                "id": "v2.19",
+                "versicle_number": 19,
+                "text": "E os homens da cidade disseram a Eliseu: Eis que boa é a habitação desta cidade, como o meu senhor vê; porém as águas são más, e a terra é estéril."
+            },
+            {
+                "id": "v2.20",
+                "versicle_number": 20,
+                "text": "E ele disse: Trazei-me uma salva nova, e ponde nela sal. E lha trouxeram."
+            },
+            {
+                "id": "v2.21",
+                "versicle_number": 21,
+                "text": "Então saiu ele ao manancial das águas, e deitou sal nele; e disse: Assim diz o Senhor: Sararei a estas águas; não haverá mais nelas morte nem esterilidade."
+            },
+            {
+                "id": "v2.22",
+                "versicle_number": 22,
+                "text": "Ficaram pois sãs aquelas águas até ao dia de hoje, conforme à palavra que Eliseu tinha dito."
+            },
+            {
+                "id": "v2.23",
+                "versicle_number": 23,
+                "text": "Então subiu dali a Betel; e, subindo ele pelo caminho, uns rapazes pequenos saíram da cidade, e zombavam dele, e diziam-lhe: Sobe, calvo, sobe, calvo!"
+            },
+            {
+                "id": "v2.24",
+                "versicle_number": 24,
+                "text": "E, virando-se ele para trás, os viu, e os amaldiçoou no nome do Senhor: então duas ursas saíram do bosque, e despedaçaram quarenta e dois daqueles pequenos."
+            },
+            {
+                "id": "v2.25",
+                "versicle_number": 25,
+                "text": "E foi-se dali para o monte Carmelo: e dali voltou para Samaria."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v2.12",
+                "text": "Eliseu, o sucessor de Elias"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 2.9 Dt 21.17"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 2.12 2Rs 13.14"
+            }
+        ]
+    }
+}

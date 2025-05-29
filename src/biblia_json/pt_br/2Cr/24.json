@@ -1,0 +1,182 @@
+{
+    "book": {
+        "id": "2Cr",
+        "book_number": 14,
+        "new_testament": false,
+        "num_chapters": 36,
+        "book_name": "CRÔNICAS",
+        "book_full_name": "O SEGUNDO LIVRO DAS CRÔNICAS"
+    },
+    "chapter": {
+        "chapter_number": 24,
+        "chapter_reference": "",
+        "chapter_title": "Joás dá ordens para consertar o templo",
+        "versicles": [
+            {
+                "id": "v24.1",
+                "versicle_number": 1,
+                "text": "TINHA Joás sete anos de idade quando começou a reinar, e quarenta anos reinou em Jerusalém; e era o nome de sua mãe Zíbia, de Berseba."
+            },
+            {
+                "id": "v24.2",
+                "versicle_number": 2,
+                "text": "E fez Joás o que era reto aos olhos do Senhor, todos os dias do sacerdote Joiada."
+            },
+            {
+                "id": "v24.3",
+                "versicle_number": 3,
+                "text": "E tomou Joiada para ele duas mulheres; e gerou filhos e filhas."
+            },
+            {
+                "id": "v24.4",
+                "versicle_number": 4,
+                "text": "E sucedeu depois disto que veio ao coração de Joás renovar a casa do Senhor."
+            },
+            {
+                "id": "v24.5",
+                "versicle_number": 5,
+                "text": "Ajuntou pois os sacerdotes e os levitas, e disse-lhes: Saí pelas cidades de Judá, e ajuntai dinheiro de todo o Israel para reparar a casa do vosso Deus de ano em ano; e vós apressai este negócio. Porém os levitas não se apressaram."
+            },
+            {
+                "id": "v24.6",
+                "versicle_number": 6,
+                "text": "E o rei chamou a Joiada, o chefe, e disse-lhe: Por que não fizeste inquirição entre os levitas, para que trouxessem de Judá e de Jerusalém a oferta{note:1} de Moisés, servo do Senhor, e da congregação de Israel, à tenda do testemunho?"
+            },
+            {
+                "id": "v24.7",
+                "versicle_number": 7,
+                "text": "Porque, sendo Atália ímpia, seus filhos arruinaram a casa de Deus, e até todas as cousas sagradas da casa do Senhor empregaram em Baalim."
+            },
+            {
+                "id": "v24.8",
+                "versicle_number": 8,
+                "text": "E deu o rei ordem e fizeram uma arca, e a puseram fora, à porta da casa do Senhor."
+            },
+            {
+                "id": "v24.9",
+                "versicle_number": 9,
+                "text": "E publicou-se em Judá e em Jerusalém que trouxessem ao Senhor a oferta que Moisés, o servo do Senhor, havia imposto a Israel no deserto."
+            },
+            {
+                "id": "v24.10",
+                "versicle_number": 10,
+                "text": "Então todos os príncipes, e todo o povo se alegraram, e trouxeram a oferta e a lançaram na arca, até que acabaram a obra."
+            },
+            {
+                "id": "v24.11",
+                "versicle_number": 11,
+                "text": "E sucedeu que, ao tempo que traziam a arca pelas mãos dos levitas, segundo o mandado do rei, e vendo que já havia muito dinheiro, vinha o escrivão do rei, e o deputado do sumo sacerdote, e esvaziavam a arca, e a tomavam, e a tornavam ao seu lugar: assim faziam de dia em dia, e ajuntaram dinheiro em abundância."
+            },
+            {
+                "id": "v24.12",
+                "versicle_number": 12,
+                "text": "O qual o rei e Joiada davam aos que tinham cargo da obra do serviço da casa do Senhor; e alugaram pedreiros e carpinteiros, para renovarem a casa do Senhor; como também ferreiros e serralheiros, para repararem a casa do Senhor."
+            },
+            {
+                "id": "v24.13",
+                "versicle_number": 13,
+                "text": "E os que tinham cargo da obra faziam que a reparação da obra fosse crescendo pela sua mão: e restauraram a casa de Deus no seu estado, e a fortaleceram."
+            },
+            {
+                "id": "v24.14",
+                "versicle_number": 14,
+                "text": "E, depois de acabarem, trouxeram o resto do dinheiro para diante do rei e de Joiada, e dele fizeram vasos para a casa do Senhor, vasos para ministrar, e oferecer, e {note:u}perfumadores e vasos de ouro e de prata. E continuamente sacrificaram holocaustos na casa do Senhor, todos os dias de Joiada."
+            },
+            {
+                "id": "v24.15",
+                "versicle_number": 15,
+                "text": "E envelheceu Joiada, e morreu farto de dias: era da idade de cento e trinta anos quando morreu."
+            },
+            {
+                "id": "v24.16",
+                "versicle_number": 16,
+                "text": "E o sepultaram na cidade de Davi com os reis; porque tinha feito bem em Israel, e para com Deus, e a sua casa."
+            },
+            {
+                "id": "v24.17",
+                "versicle_number": 17,
+                "text": "Porém depois da morte de Joiada vieram os príncipes de Judá e prostraram-se perante o rei; e o rei os ouviu."
+            },
+            {
+                "id": "v24.18",
+                "versicle_number": 18,
+                "text": "E deixaram a casa do Senhor, Deus de seus pais e serviram as imagens do bosque e os ídolos: então veio grande ira sobre Judá e Jerusalém por causa desta sua culpa."
+            },
+            {
+                "id": "v24.19",
+                "versicle_number": 19,
+                "text": "Porém enviou profetas entre eles, para os fazer tornar ao Senhor, os quais protestaram contra eles; mas eles não deram ouvidos."
+            },
+            {
+                "id": "v24.20",
+                "versicle_number": 20,
+                "text": "E o Espírito de Deus revestiu a Zacarias, filho do sacerdote Joiada, o qual se pôs em pé acima do povo, e lhes disse: Assim diz Deus: por que transgredis os mandamentos do Senhor? portanto não prosperareis; porque deixastes ao Senhor, também ele vos deixará."
+            },
+            {
+                "id": "v24.21",
+                "versicle_number": 21,
+                "text": "E eles conspiraram contra ele, e apedrejaram{note:2} com pedras, por mandado do rei, no pátio da casa do Senhor."
+            },
+            {
+                "id": "v24.22",
+                "versicle_number": 22,
+                "text": "Assim o rei Joás não se lembrou da beneficência que seu pai Joiada lhe fizera, porém, matou-lhe o filho, o qual, morrendo, disse: O Senhor o verá, e o requererá."
+            },
+            {
+                "id": "v24.23",
+                "versicle_number": 23,
+                "text": "E sucedeu, no decurso de um ano, que o exército da Síria subiu contra ele, e vieram a Judá e a Jerusalém, e destruíram dentre o povo a todos os príncipes do povo; e todo o seu despojo enviaram ao rei de Damasco."
+            },
+            {
+                "id": "v24.24",
+                "versicle_number": 24,
+                "text": "Porque, ainda que o exército dos siros viera com poucos homens, contudo o Senhor deu na sua mão um exército de grande multidão, porquanto deixaram ao Senhor, Deus de seus pais. Assim executaram os Juízos contra Joás.{note:3}"
+            },
+            {
+                "id": "v24.25",
+                "versicle_number": 25,
+                "text": "E, retirando-se dele (porque em grandes enfermidades o deixaram) seus servos conspiraram contra ele por causa do sangue do filho do sacerdote Joiada, e o mataram na sua cama, e morreu: e o sepultaram na cidade de Davi, porém não o sepultaram nos sepulcros dos reis."
+            },
+            {
+                "id": "v24.26",
+                "versicle_number": 26,
+                "text": "Estes pois foram os que conspiraram contra ele: Zabade, filho de Simeate, a amonita, e Jozabade, filho de Sinrete, a moabita."
+            },
+            {
+                "id": "v24.27",
+                "versicle_number": 27,
+                "text": "E, quanto a seus filhos, e à grandeza do cargo que se lhe impôs, e ao estabelecimento da casa de Deus, eis que está escrito na história do livro dos reis. E Amazias, seu filho, reinou em seu lugar."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v24.17",
+                "text": "A idolatria de Joás"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v24.23",
+                "text": "O juízo de Deus sobre Joás"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 24.6 Êx 30.11-16"
+            },
+            {
+                "id": "n2",
+                "text": "{note:u} 24.14 ou colheres"
+            },
+            {
+                "id": "n3",
+                "text": "{note:2} 24.21 Mt 23.35; Lc 11.51"
+            },
+            {
+                "id": "n4",
+                "text": "{note:3} 24.23-24 2Rs 12.17-18"
+            }
+        ]
+    }
+}

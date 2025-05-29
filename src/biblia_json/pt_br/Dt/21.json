@@ -1,0 +1,160 @@
+{
+    "book": {
+        "id": "Dt",
+        "book_number": 5,
+        "new_testament": false,
+        "num_chapters": 34,
+        "book_name": "DEUTERONÔMIO",
+        "book_full_name": "O QUINTO LIVRO DE MOISÉS DEUTERONÔMIO"
+    },
+    "chapter": {
+        "chapter_number": 21,
+        "chapter_reference": "",
+        "chapter_title": "Expiação por uma morte cujo autor é desconhecido",
+        "versicles": [
+            {
+                "id": "v21.1",
+                "versicle_number": 1,
+                "text": "QUANDO na terra que te der o Senhor teu Deus para possuí-la se achar algum morto, caído no campo, sem que se saiba quem o matou."
+            },
+            {
+                "id": "v21.2",
+                "versicle_number": 2,
+                "text": "Então sairão os teus anciãos e os teus juízes, e medirão o espaço até às cidades que estiverem em redor do morto;"
+            },
+            {
+                "id": "v21.3",
+                "versicle_number": 3,
+                "text": "E, na cidade mais chegada ao morto, os anciãos da mesma cidade tomarão uma bezerra da manada, que não tenha trabalhado nem tenha puxado com o jugo;"
+            },
+            {
+                "id": "v21.4",
+                "versicle_number": 4,
+                "text": "E os anciãos daquela cidade trarão a bezerra a um vale áspero, que nunca foi lavrado nem semeado; e ali, naquele vale, degolarão a bezerra;"
+            },
+            {
+                "id": "v21.5",
+                "versicle_number": 5,
+                "text": "Então se achegarão os sacerdotes, filhos de Levi (pois o Senhor teu Deus os escolheu para o servirem, e para abençoarem em nome do Senhor; e pelo seu dito se determinará toda a demanda e toda a ferida);"
+            },
+            {
+                "id": "v21.6",
+                "versicle_number": 6,
+                "text": "E todos os anciãos da mesma cidade, mais chegados ao morto lavarão as suas mãos sobre a bezerra degolada no vale;"
+            },
+            {
+                "id": "v21.7",
+                "versicle_number": 7,
+                "text": "E protestarão, e dirão: As nossas mãos não derramaram este sangue, e os nossos olhos o não viram."
+            },
+            {
+                "id": "v21.8",
+                "versicle_number": 8,
+                "text": "Sê propício ao teu povo Israel, que tu, ó Senhor, resgataste, e não ponhas o sangue inocente no meio do teu povo Israel. E aquele sangue lhes será expiado."
+            },
+            {
+                "id": "v21.9",
+                "versicle_number": 9,
+                "text": "Assim tirarás o sangue inocente do meio de ti: pois farás o que é reto aos olhos do Senhor."
+            },
+            {
+                "id": "v21.10",
+                "versicle_number": 10,
+                "text": "Quando saíres à peleja contra os teus inimigos, e o Senhor teu Deus os entregar nas tuas mãos, e tu deles levares prisioneiros,"
+            },
+            {
+                "id": "v21.11",
+                "versicle_number": 11,
+                "text": "E tu entre os presos vires uma mulher formosa à vista, e a cobiçares, e a queiras tomar por mulher,"
+            },
+            {
+                "id": "v21.12",
+                "versicle_number": 12,
+                "text": "Então a trarás para a tua casa: e ela rapará a cabeça e cortará as suas unhas,"
+            },
+            {
+                "id": "v21.13",
+                "versicle_number": 13,
+                "text": "E despirá o vestido do seu cativeiro, e se assentará na tua casa, e chorará a seu pai e a sua mãe um mês inteiro: e depois entrarás a ela, e tu serás seu marido e ela tua mulher."
+            },
+            {
+                "id": "v21.14",
+                "versicle_number": 14,
+                "text": "E será que, se te não contentares dela, a deixarás ir à sua vontade: mas de sorte nenhuma a venderás por dinheiro, nem com ela mercadejarás, pois a tens humilhado."
+            },
+            {
+                "id": "v21.15",
+                "versicle_number": 15,
+                "text": "Quando um homem tiver duas mulheres, uma a quem ama e outra a quem aborrece, e a amada e a aborrecida lhe derem filhos, e o filho primogênito for da aborrecida,"
+            },
+            {
+                "id": "v21.16",
+                "versicle_number": 16,
+                "text": "Será que, no dia em que fizer herdar a seus filhos o que tiver, não poderá dar a primogenitura ao filho da amada, adiante do filho da aborrecida, que é o primogênito."
+            },
+            {
+                "id": "v21.17",
+                "versicle_number": 17,
+                "text": "Mas ao filho da aborrecida reconhecerá por primogênito, dando-lhe dobrada porção de tudo quanto tiver: porquanto aquele é o princípio da sua força; o direito da primogenitura seu é."
+            },
+            {
+                "id": "v21.18",
+                "versicle_number": 18,
+                "text": "Quando alguém tiver um filho contumaz e rebelde, que não obedecer à voz de seu pai e à voz de sua mãe, e, castigando-o eles, lhes não der ouvidos,"
+            },
+            {
+                "id": "v21.19",
+                "versicle_number": 19,
+                "text": "Então seu pai e sua mãe pegarão nele, e o levarão aos anciãos da sua cidade, e à porta do seu lugar;"
+            },
+            {
+                "id": "v21.20",
+                "versicle_number": 20,
+                "text": "E dirão aos anciãos da cidade: Este nosso filho é rebelde e contumaz, não dá ouvidos à nossa voz: é um comilão e beberrão."
+            },
+            {
+                "id": "v21.21",
+                "versicle_number": 21,
+                "text": "Então todos os homens da sua cidade o apedrejarão com pedras, até que morra; e tirarás o mal do meio de ti, para que todo o Israel o ouça, e tema."
+            },
+            {
+                "id": "v21.22",
+                "versicle_number": 22,
+                "text": "Quando também em alguém houver pecado, digno do juízo de morte, e haja de morrer, e o pendurares num madeiro,"
+            },
+            {
+                "id": "v21.23",
+                "versicle_number": 23,
+                "text": "O seu cadáver não permanecerá no madeiro, mas certamente o enterrarás no mesmo dia: porquanto o pendurado é maldito{note:1} de Deus: assim não contaminarás a tua terra, que o Senhor teu Deus te dá em herança."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v21.10",
+                "text": "Acerca da mulher prisioneira"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v21.15",
+                "text": "O direito do primogênito"
+            },
+            {
+                "id": "s3",
+                "next_versicle_id": "v21.18",
+                "text": "Acerca dos filhos desobedientes"
+            },
+            {
+                "id": "s4",
+                "next_versicle_id": "v21.22",
+                "text": "Os cadáveres serão tirados do patíbulo"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 21.23 Gl 3.13"
+            }
+        ]
+    }
+}

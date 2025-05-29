@@ -1,0 +1,182 @@
+{
+    "book": {
+        "id": "Is",
+        "book_number": 23,
+        "new_testament": false,
+        "num_chapters": 66,
+        "book_name": "ISAÍAS",
+        "book_full_name": "ISAÍAS"
+    },
+    "chapter": {
+        "chapter_number": 5,
+        "chapter_reference": "",
+        "chapter_title": "A parábola da vinha, e a sua aplicação",
+        "versicles": [
+            {
+                "id": "v5.1",
+                "versicle_number": 1,
+                "text": "AGORA cantarei ao meu amado o cântico do meu querido a respeito da sua vinha. O meu amado tem uma vinha num outeiro fértil."
+            },
+            {
+                "id": "v5.2",
+                "versicle_number": 2,
+                "text": "E a cercou, e a limpou das pedras, e a plantou de excelentes vides; e edificou no meio dela uma torre, e também construiu nela um lagar; e esperava que desse uvas, mas deu uvas bravas.{note:1}"
+            },
+            {
+                "id": "v5.3",
+                "versicle_number": 3,
+                "text": "Agora pois, ó moradores de Jerusalém, e homens de Judá julgai, vos peço, entre mim e a minha vinha."
+            },
+            {
+                "id": "v5.4",
+                "versicle_number": 4,
+                "text": "Que mais se podia fazer à minha vinha, que eu lhe não tenha feito? e como, esperando eu que desse uvas, veio a produzir uvas bravas?"
+            },
+            {
+                "id": "v5.5",
+                "versicle_number": 5,
+                "text": "Agora pois vos farei saber o que eu hei de fazer à minha vinha: tirarei a sua sebe, para que sirva de pasto; derribarei a sua parede, para que seja pisada;"
+            },
+            {
+                "id": "v5.6",
+                "versicle_number": 6,
+                "text": "E a tornarei em deserto; não será podada nem cavada; mas crescerão nela sarças e espinheiros; e às nuvens darei ordem que não derramem chuva sobre ela."
+            },
+            {
+                "id": "v5.7",
+                "versicle_number": 7,
+                "text": "Porque a vinha do Senhor dos Exércitos é a casa de Israel, e os homens de Judá são a planta das suas delícias: e esperou que exercessem juízo, e eis aqui {note:i}opressão; justiça, e eis aqui clamor."
+            },
+            {
+                "id": "v5.8",
+                "versicle_number": 8,
+                "text": "Ai dos que ajuntam casa a casa, reúnem herdade a herdade, até que não haja mais lugar, e fiquem como únicos moradores no meio da terra!"
+            },
+            {
+                "id": "v5.9",
+                "versicle_number": 9,
+                "text": "A meus ouvidos disse o Senhor dos Exércitos: Em verdade que muitas casas ficarão desertas, e até as grandes e excelentes sem moradores."
+            },
+            {
+                "id": "v5.10",
+                "versicle_number": 10,
+                "text": "E dez jeiras de vinha não darão mais do que um {note:j}bato: e um ômer de semente não dará mais do que um efa."
+            },
+            {
+                "id": "v5.11",
+                "versicle_number": 11,
+                "text": "Ai dos que se levantam pela manhã, e seguem a bebedice; e se demoram até à noite, até que o vinho os esquenta!"
+            },
+            {
+                "id": "v5.12",
+                "versicle_number": 12,
+                "text": "E harpas e alaúdes, tamboris e pífanos, e vinho há nos seus banquetes; e não olham para a obra do Senhor, nem consideram as obras das suas mãos."
+            },
+            {
+                "id": "v5.13",
+                "versicle_number": 13,
+                "text": "Portanto o meu povo será levado cativo, por falta de entendimento; e os seus nobres terão fome, e a sua multidão se secará de sede."
+            },
+            {
+                "id": "v5.14",
+                "versicle_number": 14,
+                "text": "Por isso a sepultura aumentou o seu apetite, e abriu a sua boca desmesuradamente; e a glória deles, e a sua multidão, e a sua pompa, e os que entre eles folgavam, a ela desceram."
+            },
+            {
+                "id": "v5.15",
+                "versicle_number": 15,
+                "text": "Então o plebeu se abaterá, e o nobre se humilhará; e os olhos dos altivos se humilharão."
+            },
+            {
+                "id": "v5.16",
+                "versicle_number": 16,
+                "text": "Mas o Senhor dos Exércitos será exaltado em juízo, e Deus, o Santo, será santificado em justiça."
+            },
+            {
+                "id": "v5.17",
+                "versicle_number": 17,
+                "text": "Então os cordeiros se pascerão como em pastios seus; e os lugares pisados pelos gordos servirão de alimento a forasteiros."
+            },
+            {
+                "id": "v5.18",
+                "versicle_number": 18,
+                "text": "Ai dos que puxam pela iniquidade com cordas de vaidade, e pelo pecado como se fosse com cordas de carros!"
+            },
+            {
+                "id": "v5.19",
+                "versicle_number": 19,
+                "text": "E dizem: Avie-se, e acabe a sua obra, para que a vejamos; e aproxime-se e venha o conselho do Santo de Israel, para que o conheçamos."
+            },
+            {
+                "id": "v5.20",
+                "versicle_number": 20,
+                "text": "Ai dos que ao mal chamam bem, e ao bem mal: que fazem da escuridade luz, e da luz escuridade; e fazem do amargo doce, e do doce amargo!"
+            },
+            {
+                "id": "v5.21",
+                "versicle_number": 21,
+                "text": "Ai dos que são sábios a seus próprios olhos, e prudentes diante de si mesmos!"
+            },
+            {
+                "id": "v5.22",
+                "versicle_number": 22,
+                "text": "Ai dos que são poderosos para beber vinho, e homens forçosos para misturar bebida forte:"
+            },
+            {
+                "id": "v5.23",
+                "versicle_number": 23,
+                "text": "Dos que justificam o ímpio por presentes, e ao justo negam justiça!"
+            },
+            {
+                "id": "v5.24",
+                "versicle_number": 24,
+                "text": "Pelo que, como a língua de fogo consome a estopa, e a palha se desfaz pela chama, assim será a sua raiz, como podridão, e a sua flor se esvaecerá como pó; porquanto rejeitaram a lei do Senhor dos Exércitos, e desprezaram a palavra do Santo de Israel."
+            },
+            {
+                "id": "v5.25",
+                "versicle_number": 25,
+                "text": "Pelo que se acendeu a ira do Senhor contra o seu povo, e estendeu a sua mão contra ele, e o feriu; e as montanhas tremeram, e os seus cadáveres eram como monturo no meio das ruas: com tudo isto não tornou atrás a sua ira, mas ainda está alçada a sua mão."
+            },
+            {
+                "id": "v5.26",
+                "versicle_number": 26,
+                "text": "E ele arvorará o estandarte ante as nações de longe, e lhes assobiará desde a extremidade da terra: e eis que virão apressadamente."
+            },
+            {
+                "id": "v5.27",
+                "versicle_number": 27,
+                "text": "Não haverá entre eles cansado, nem claudicante; ninguém tosquenejará nem dormirá: não se lhe desatará o cinto dos seus lombos, nem se lhe quebrará a correia dos seus sapatos."
+            },
+            {
+                "id": "v5.28",
+                "versicle_number": 28,
+                "text": "As suas frechas serão agudas, e todos os seus arcos retesados: as unhas dos seus cavalos dir-se-iam de pederneira, e as rodas dos seus carros um redemoinho."
+            },
+            {
+                "id": "v5.29",
+                "versicle_number": 29,
+                "text": "O seu rugido será como o do leão; rugirão como filhos de leão; sim, rugirão e arrebatarão a presa, e a levarão, e não haverá quem a livre."
+            },
+            {
+                "id": "v5.30",
+                "versicle_number": 30,
+                "text": "E bramarão contra eles naquele dia, como o bramido do mar: e se alguém olhar para a terra, eis que só verá trevas e ânsia, e a luz se escurecerá em suas assolações."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 5.1-2 Mt 21.33; Mc 12.1; Lc 20.9"
+            },
+            {
+                "id": "n2",
+                "text": "{note:i} 5.7 ou derramamento de sangue"
+            },
+            {
+                "id": "n3",
+                "text": "{note:j} 5.10 que é entre 20 a 35 litros"
+            }
+        ]
+    }
+}

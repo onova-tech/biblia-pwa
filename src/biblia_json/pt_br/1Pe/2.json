@@ -1,0 +1,183 @@
+{
+    "book": {
+        "id": "1Pe",
+        "book_number": 60,
+        "new_testament": true,
+        "num_chapters": 5,
+        "book_name": "PEDRO",
+        "book_full_name": "PRIMEIRA EPÍSTOLA UNIVERSAL DO APÓSTOLO PEDRO"
+    },
+    "chapter": {
+        "chapter_number": 2,
+        "chapter_reference": "",
+        "chapter_title": "A boa conduta no meio dos pagãos; submissão às autoridades",
+        "versicles": [
+            {
+                "id": "v2.1",
+                "versicle_number": 1,
+                "text": "DEIXANDO pois toda a malícia, e todo o engano, e fingimentos, e invejas, e todas as murmurações,"
+            },
+            {
+                "id": "v2.2",
+                "versicle_number": 2,
+                "text": "Desejai afetuosamente, como meninos novamente nascidos, o leite racional, não falsificado, para que por ele vades crescendo:"
+            },
+            {
+                "id": "v2.3",
+                "versicle_number": 3,
+                "text": "Se é que já provastes que o Senhor é benigno:{note:1}"
+            },
+            {
+                "id": "v2.4",
+                "versicle_number": 4,
+                "text": "E, chegando-vos para ele — pedra viva, reprovada, na verdade, pelos homens, mas para com Deus eleita e preciosa."
+            },
+            {
+                "id": "v2.5",
+                "versicle_number": 5,
+                "text": "Vós também, como pedras vivas, sois edificados casa espiritual e sacerdócio santo, para oferecer sacrifícios espirituais agradáveis a Deus por Jesus Cristo."
+            },
+            {
+                "id": "v2.6",
+                "versicle_number": 6,
+                "text": "Pelo que também na Escritura se contém: Eis que ponho em Sião a pedra principal da esquina, eleita e preciosa; e quem nela crer não será {note:c}confundido.{note:2}"
+            },
+            {
+                "id": "v2.7",
+                "versicle_number": 7,
+                "text": "E assim para vós, os que credes, é preciosa, mas, para os rebeldes, a pedra que os edificadores reprovaram essa foi a principal da esquina:{note:3}"
+            },
+            {
+                "id": "v2.8",
+                "versicle_number": 8,
+                "text": "E uma pedra de tropeço e rocha de escândalo,{note:4} para aqueles que tropeçam na palavra, sendo desobedientes; para o que também foram destinados."
+            },
+            {
+                "id": "v2.9",
+                "versicle_number": 9,
+                "text": "Mas vós sois a geração eleita,{note:5} o sacerdócio real, a nação santa, o povo adquirido,{note:6} para que anuncieis as virtudes daquele que vos chamou das trevas para a sua maravilhosa luz;"
+            },
+            {
+                "id": "v2.10",
+                "versicle_number": 10,
+                "text": "Vós, que em outro tempo não éreis povo,{note:7} mas agora sois povo de Deus; que não tínheis alcançado misericórdia, mas agora alcançastes misericórdia."
+            },
+            {
+                "id": "v2.11",
+                "versicle_number": 11,
+                "text": "Amados, peço-vos, como a peregrinos e forasteiros, que vos abstenhais das concupiscências carnais que combatem contra a alma;"
+            },
+            {
+                "id": "v2.12",
+                "versicle_number": 12,
+                "text": "Tendo o vosso viver honesto entre os gentios; para que, naquilo em que falam mal de vós, como de malfeitores, glorifiquem a Deus no dia da visitação, pelas boas obras que em vós observem."
+            },
+            {
+                "id": "v2.13",
+                "versicle_number": 13,
+                "text": "Sujeitai-vos pois a toda a ordenação humana por amor do Senhor; quer ao rei, como superior;"
+            },
+            {
+                "id": "v2.14",
+                "versicle_number": 14,
+                "text": "Quer aos governadores como por ele enviados para castigo dos malfeitores, e para louvor dos que fazem o bem."
+            },
+            {
+                "id": "v2.15",
+                "versicle_number": 15,
+                "text": "Porque assim é a vontade de Deus, que, fazendo bem, tapeis a boca à ignorância dos homens loucos:"
+            },
+            {
+                "id": "v2.16",
+                "versicle_number": 16,
+                "text": "Como livres, e não tendo a liberdade por cobertura da malícia, mas como servos de Deus."
+            },
+            {
+                "id": "v2.17",
+                "versicle_number": 17,
+                "text": "Honrai a todos. Amai a fraternidade. Temei a Deus. Honrai o rei."
+            },
+            {
+                "id": "v2.18",
+                "versicle_number": 18,
+                "text": "Vós, servos, sujeitai-vos com todo o temor aos senhores, não somente aos bons e humanos, mas também aos maus."
+            },
+            {
+                "id": "v2.19",
+                "versicle_number": 19,
+                "text": "Porque é coisa agradável, que alguém, por causa da consciência para com Deus, sofra agravos, padecendo injustamente."
+            },
+            {
+                "id": "v2.20",
+                "versicle_number": 20,
+                "text": "Porque, que glória será essa, se, pecando, sois esbofeteados e sofreis, mas se, fazendo o bem, sois afligidos e o sofreis, isso é agradável a Deus."
+            },
+            {
+                "id": "v2.21",
+                "versicle_number": 21,
+                "text": "Porque para isto sois chamados; pois também Cristo padeceu por nós, deixando-nos o exemplo, para que sigais as suas pisadas."
+            },
+            {
+                "id": "v2.22",
+                "versicle_number": 22,
+                "text": "O qual não cometeu pecado, nem na sua boca{note:8} se achou engano."
+            },
+            {
+                "id": "v2.23",
+                "versicle_number": 23,
+                "text": "O qual, quando o injuriavam, não injuriava, e quando padecia não ameaçava, mas entregava-se àquele que julga justamente:"
+            },
+            {
+                "id": "v2.24",
+                "versicle_number": 24,
+                "text": "Levando ele mesmo em seu corpo os nossos pecados sobre o madeiro, para que, mortos para os pecados, pudéssemos viver para a justiça; e pelas suas feridas fostes sarados."
+            },
+            {
+                "id": "v2.25",
+                "versicle_number": 25,
+                "text": "Porque éreis como ovelhas desgarradas: mas agora tendes voltado ao Pastor e {note:d}Bispo das vossas almas.{note:9}"
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v2.18",
+                "text": "Os deveres dos servos cristãos"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 2.3 Sl 34.8"
+            },
+            {
+                "id": "n2",
+                "text": "{note:c} 2.6 ou envergonhado {note:2} 2.6 Is 28.16"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 2.7 Sl 118.22"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 2.8 Is 8.14-15"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 2.9 Êx 19.5-6 {note:6} 2.9 Dt 7.6; 14.2"
+            },
+            {
+                "id": "n6",
+                "text": "{note:7} 2.10 Os 2.23"
+            },
+            {
+                "id": "n7",
+                "text": "{note:8} 2.22 Is 53.9"
+            },
+            {
+                "id": "n8",
+                "text": "{note:d} 2.25 ou superintendente {note:9} 2.24-25 Is 53.5-6"
+            }
+        ]
+    }
+}

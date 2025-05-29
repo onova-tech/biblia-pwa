@@ -1,0 +1,335 @@
+{
+    "book": {
+        "id": "Gn",
+        "book_number": 1,
+        "new_testament": false,
+        "num_chapters": 50,
+        "book_name": "GÊNESIS",
+        "book_full_name": "O PRIMEIRO LIVRO DE MOISÉS GÊNESIS"
+    },
+    "chapter": {
+        "chapter_number": 31,
+        "chapter_reference": "",
+        "chapter_title": "Deus manda Jacó tornar à terra dos seus pais",
+        "versicles": [
+            {
+                "id": "v31.1",
+                "versicle_number": 1,
+                "text": "ENTÃO ouvia as palavras dos filhos de Labão, que diziam: Jacó tem tomado tudo o que era de nosso pai, e do que era de nosso pai fez ele toda esta {note:h}glória."
+            },
+            {
+                "id": "v31.2",
+                "versicle_number": 2,
+                "text": "Viu também Jacó o rosto de Labão e eis que não era para com ele como dantes."
+            },
+            {
+                "id": "v31.3",
+                "versicle_number": 3,
+                "text": "E disse o Senhor a Jacó: Torna à terra dos teus pais, e à tua parentela e eu serei contigo."
+            },
+            {
+                "id": "v31.4",
+                "versicle_number": 4,
+                "text": "Então enviou Jacó, e chamou a Raquel e a Leia ao campo, ao seu rebanho."
+            },
+            {
+                "id": "v31.5",
+                "versicle_number": 5,
+                "text": "E disse-lhes: Vejo que o rosto de vosso pai para comigo não é como anteriormente; porém o Deus de meu pai esteve comigo;"
+            },
+            {
+                "id": "v31.6",
+                "versicle_number": 6,
+                "text": "E vós mesmas sabeis que com todo o meu poder tenho servido a vosso pai;"
+            },
+            {
+                "id": "v31.7",
+                "versicle_number": 7,
+                "text": "Mas vosso pai me enganou e mudou o salário dez vezes; porém Deus não lhe permitiu que me fizesse mal."
+            },
+            {
+                "id": "v31.8",
+                "versicle_number": 8,
+                "text": "Quando ele dizia assim: Os salpicados serão o teu salário; então todos os rebanhos davam salpicados. E quando ele dizia assim: Os listrados serão o teu salário, então todos os rebanhos davam listrados."
+            },
+            {
+                "id": "v31.9",
+                "versicle_number": 9,
+                "text": "Assim Deus tirou o gado de vosso pai, e mo deu a mim."
+            },
+            {
+                "id": "v31.10",
+                "versicle_number": 10,
+                "text": "E sucedeu que, ao tempo em que o rebanho concebia, eu levantei os meus olhos, e vi em sonhos, e eis que os bodes que cobriam as ovelhas, eram listrados, salpicados e malhados."
+            },
+            {
+                "id": "v31.11",
+                "versicle_number": 11,
+                "text": "E disse-me o anjo de Deus em sonhos: Jacó. E eu disse: Eis-me aqui."
+            },
+            {
+                "id": "v31.12",
+                "versicle_number": 12,
+                "text": "E disse ele: Levanta agora os teus olhos, e vê que todos os bodes que cobrem o rebanho, são listrados, salpicados e malhados; porque tenho visto tudo o que Labão te fez."
+            },
+            {
+                "id": "v31.13",
+                "versicle_number": 13,
+                "text": "Eu sou o Deus de Betel, onde tens ungido uma coluna,{note:1} onde me tens votado o voto; levanta-te agora, sai-te desta terra, e torna-te à terra da tua parentela."
+            },
+            {
+                "id": "v31.14",
+                "versicle_number": 14,
+                "text": "Então responderam Raquel e Leia, e disseram-lhe: Há ainda para nós parte ou herança na casa de nosso pai?"
+            },
+            {
+                "id": "v31.15",
+                "versicle_number": 15,
+                "text": "Não nos considera ele como estranhas? pois vendeu-nos, e comeu todo o nosso dinheiro."
+            },
+            {
+                "id": "v31.16",
+                "versicle_number": 16,
+                "text": "Porque toda a riqueza, que Deus tirou de nosso pai, é nossa e de nossos filhos; agora, pois, faze tudo o que Deus te tem dito."
+            },
+            {
+                "id": "v31.17",
+                "versicle_number": 17,
+                "text": "Então se levantou Jacó, pondo os seus filhos e as suas mulheres sobre os camelos;"
+            },
+            {
+                "id": "v31.18",
+                "versicle_number": 18,
+                "text": "E levou todo o seu gado, e toda a sua fazenda, que havia adquirido, o gado que possuía, que alcançara em Padã-Arã, para ir a Isaque, seu pai, à terra de Canaã."
+            },
+            {
+                "id": "v31.19",
+                "versicle_number": 19,
+                "text": "E havendo Labão ido a tosquiar as suas ovelhas, furtou Raquel os {note:i}ídolos que seu pai tinha."
+            },
+            {
+                "id": "v31.20",
+                "versicle_number": 20,
+                "text": "E esquivou-se Jacó de Labão o {note:j}arameu, porque não lhe fez saber que fugia."
+            },
+            {
+                "id": "v31.21",
+                "versicle_number": 21,
+                "text": "E fugiu ele com tudo o que tinha, e levantou-se, e passou o rio; e pôs o seu rosto para a montanha de Gileade."
+            },
+            {
+                "id": "v31.22",
+                "versicle_number": 22,
+                "text": "E no terceiro dia foi anunciado a Labão que Jacó tinha fugido."
+            },
+            {
+                "id": "v31.23",
+                "versicle_number": 23,
+                "text": "Então tomou consigo os seus irmãos, e atrás dele seguiu o seu caminho por sete dias; e alcançou-o na montanha de Gileade."
+            },
+            {
+                "id": "v31.24",
+                "versicle_number": 24,
+                "text": "Veio porém Deus a Labão, o arameu em sonhos de noite, e disse-lhe: Guarda-te que não fales a Jacó nem bem nem mal."
+            },
+            {
+                "id": "v31.25",
+                "versicle_number": 25,
+                "text": "Alcançou pois Labão a Jacó, e armara Jacó a sua tenda naquela montanha: armou também Labão com os seus irmãos a sua na montanha de Gileade."
+            },
+            {
+                "id": "v31.26",
+                "versicle_number": 26,
+                "text": "Então disse Labão a Jacó: Que fizeste, que te esquivaste de mim, e levaste as minhas filhas como cativas pela espada?"
+            },
+            {
+                "id": "v31.27",
+                "versicle_number": 27,
+                "text": "Por que fugiste ocultamente, e te esquivaste de mim, e não me fizeste saber, para que eu te enviasse com alegria e com cânticos, e com tamboril e com harpa?"
+            },
+            {
+                "id": "v31.28",
+                "versicle_number": 28,
+                "text": "Também não me permitiste beijar os meus filhos e as minhas filhas. Loucamente pois agora andaste, fazendo assim."
+            },
+            {
+                "id": "v31.29",
+                "versicle_number": 29,
+                "text": "Poder havia em minha mão para vos fazer mal, mas o Deus de vosso pai me falou ontem à noite, dizendo: Guarda-te, que não fales a Jacó nem bem nem mal."
+            },
+            {
+                "id": "v31.30",
+                "versicle_number": 30,
+                "text": "E agora, se te querias ir embora, porquanto tinhas saudades de voltar à casa de teu pai, por que furtaste os meus deuses?"
+            },
+            {
+                "id": "v31.31",
+                "versicle_number": 31,
+                "text": "Então respondeu Jacó, e disse a Labão: Porque temia; pois que dizia comigo, se porventura me não arrebatarias as tuas filhas."
+            },
+            {
+                "id": "v31.32",
+                "versicle_number": 32,
+                "text": "Com quem achares os teus deuses, esse não viva; reconhece diante de nossos irmãos o que é teu do que está comigo, e toma-o para ti. Pois Jacó não sabia que Raquel os tinha furtado."
+            },
+            {
+                "id": "v31.33",
+                "versicle_number": 33,
+                "text": "Então entrou Labão na tenda de Jacó, e na tenda de Leia, e na tenda de ambas as servas e não os achou; e saindo da tenda de Leia, entrou na tenda de Raquel."
+            },
+            {
+                "id": "v31.34",
+                "versicle_number": 34,
+                "text": "Mas tinha tomado Raquel os ídolos, e os tinha posto na albarda de um camelo, e assentara-se sobre eles; e apalpou Labão toda a tenda, e não os achou."
+            },
+            {
+                "id": "v31.35",
+                "versicle_number": 35,
+                "text": "E ela disse a seu pai: Não se acenda a ira nos olhos de meu senhor, que não posso levantar-me diante da tua face; porquanto tenho o costume das mulheres. E ele procurou, mas não achou os ídolos."
+            },
+            {
+                "id": "v31.36",
+                "versicle_number": 36,
+                "text": "Então irou-se Jacó, e contendeu com Labão. E respondeu Jacó, e disse a Labão: Qual é a minha transgressão? qual é o meu pecado, que tão furiosamente me tens perseguido?"
+            },
+            {
+                "id": "v31.37",
+                "versicle_number": 37,
+                "text": "Havendo apalpado todos os meus móveis, que achaste de todos os móveis da tua casa? Põe-no aqui diante dos meus irmãos, e teus irmãos; e que julguem entre nós ambos."
+            },
+            {
+                "id": "v31.38",
+                "versicle_number": 38,
+                "text": "Estes vinte anos eu estive contigo, as tuas ovelhas e as tuas cabras nunca abortaram, e não comi os carneiros do teu rebanho."
+            },
+            {
+                "id": "v31.39",
+                "versicle_number": 39,
+                "text": "Não te trouxe eu o despedaçado; eu o pagava; o furtado de dia e o furtado de noite da minha mão o requerias."
+            },
+            {
+                "id": "v31.40",
+                "versicle_number": 40,
+                "text": "Estava eu de sorte que de dia me consumia o calor, e de noite a geada; e o meu sono foi-se dos meus olhos."
+            },
+            {
+                "id": "v31.41",
+                "versicle_number": 41,
+                "text": "Tenho estado agora vinte anos na tua casa; catorze te servi por tuas duas filhas, e seis anos por teu rebanho; mas o meu salário tens mudado dez vezes."
+            },
+            {
+                "id": "v31.42",
+                "versicle_number": 42,
+                "text": "Se o Deus de meu pai, o Deus de Abraão, e o temor de Isaque não fora comigo, por certo me enviarias agora vazio. Deus atendeu à minha aflição, e ao trabalho das minhas mãos, e repreendeu-te ontem à noite."
+            },
+            {
+                "id": "v31.43",
+                "versicle_number": 43,
+                "text": "Então respondeu Labão, e disse a Jacó: Estas filhas são minhas filhas, e estes filhos são meus filhos, e este rebanho é o meu rebanho, e tudo o que vês, meu é; e que farei hoje a estas minhas filhas, ou aos filhos que tiveram?"
+            },
+            {
+                "id": "v31.44",
+                "versicle_number": 44,
+                "text": "Agora pois vem, e façamos concerto eu e tu, que seja por testemunho entre mim e ti."
+            },
+            {
+                "id": "v31.45",
+                "versicle_number": 45,
+                "text": "Então tomou Jacó uma pedra, e erigiu-a por coluna."
+            },
+            {
+                "id": "v31.46",
+                "versicle_number": 46,
+                "text": "E disse Jacó a seus irmãos: Ajuntai pedras. E tomaram pedras, e fizeram um montão, e comeram ali sobre aquele montão."
+            },
+            {
+                "id": "v31.47",
+                "versicle_number": 47,
+                "text": "E chamou-lhe Labão {note:k}Jegar-Saaduta; porém Jacó chamou-lhe {note:l}Galeede."
+            },
+            {
+                "id": "v31.48",
+                "versicle_number": 48,
+                "text": "Então disse Labão: Este montão seja hoje por testemunha entre mim e ti: por isso se chamou o seu nome Galeede,"
+            },
+            {
+                "id": "v31.49",
+                "versicle_number": 49,
+                "text": "E {note:m}Mispá, porquanto disse: Atente o Senhor entre mim e ti, quando nós estivermos apartados um do outro:"
+            },
+            {
+                "id": "v31.50",
+                "versicle_number": 50,
+                "text": "Se afligires as minhas filhas, e se tomares mulheres além das minhas filhas, ninguém está conosco; atenta que Deus é testemunha entre mim e ti."
+            },
+            {
+                "id": "v31.51",
+                "versicle_number": 51,
+                "text": "Disse mais Labão a Jacó: Eis aqui este mesmo montão, e eis aqui essa coluna que levantei entre mim e ti."
+            },
+            {
+                "id": "v31.52",
+                "versicle_number": 52,
+                "text": "Este montão seja testemunha, e esta coluna seja testemunha, que eu não passarei este montão para lá, e que tu não passarás este montão e esta coluna para cá, para mal."
+            },
+            {
+                "id": "v31.53",
+                "versicle_number": 53,
+                "text": "O Deus de Abraão, e o Deus de Naor, o Deus de seu pai julgue entre nós."
+            },
+            {
+                "id": "",
+                "versicle_number": 54,
+                "text": "E jurou Jacó pelo temor de seu pai Isaque."
+            },
+            {
+                "id": "v31.54",
+                "versicle_number": 55,
+                "text": "E sacrificou Jacó um sacrifício na montanha, e convidou seus irmãos, para comer pão; e comeram o pão, e passaram a noite na montanha."
+            },
+            {
+                "id": "v31.55",
+                "versicle_number": 56,
+                "text": "E levantou-se Labão pela manhã de madrugada, e beijou seus filhos, e suas filhas, e abençoou-os, e partiu; e voltou Labão ao seu lugar."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v31.22",
+                "text": "Labão prossegue atrás de Jacó"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v31.43",
+                "text": "O pacto entre Labão e Jacó em Galeede"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:h} 31.1 ou riqueza"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 31.13 Gn 28.18"
+            },
+            {
+                "id": "n3",
+                "text": "{note:i} 31.19 Heb. terafim (ver Jz 17.5; 1Sm 19.13; Os 3.4)"
+            },
+            {
+                "id": "n4",
+                "text": "{note:j} 31.20 ou siro"
+            },
+            {
+                "id": "n5",
+                "text": "{note:k} 31.47 que é, em Aramaico, o montão do testemunho {note:l} 31.47 que é, em Hebraico, o montão do testemunho"
+            },
+            {
+                "id": "n6",
+                "text": "{note:m} 31.49 que significa torre de vigia"
+            }
+        ]
+    }
+}

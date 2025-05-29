@@ -1,0 +1,251 @@
+{
+    "book": {
+        "id": "1Cr",
+        "book_number": 13,
+        "new_testament": false,
+        "num_chapters": 29,
+        "book_name": "CRÔNICAS",
+        "book_full_name": "O PRIMEIRO LIVRO DAS CRÔNICAS"
+    },
+    "chapter": {
+        "chapter_number": 16,
+        "chapter_reference": "",
+        "chapter_title": "Ação de graças e cântico de Davi",
+        "versicles": [
+            {
+                "id": "v16.1",
+                "versicle_number": 1,
+                "text": "TRAZENDO pois a arca de Deus, a puseram no meio da tenda que Davi lhe tinha armado; e ofereceram holocausto e sacrifícios pacíficos perante Deus."
+            },
+            {
+                "id": "v16.2",
+                "versicle_number": 2,
+                "text": "E, acabando Davi de oferecer os holocaustos e sacrifícios pacíficos, abençoou o povo em nome do Senhor."
+            },
+            {
+                "id": "v16.3",
+                "versicle_number": 3,
+                "text": "E repartiu a todos em Israel, tanto a homens como a mulheres, a cada um um pão, e um bom pedaço de carne, e um frasco de vinho."
+            },
+            {
+                "id": "v16.4",
+                "versicle_number": 4,
+                "text": "E pôs perante a arca do Senhor alguns dos levitas por ministros; e isto para recordarem, e louvarem, e celebrarem ao Senhor Deus de Israel."
+            },
+            {
+                "id": "v16.5",
+                "versicle_number": 5,
+                "text": "Era Asafe o chefe, e Zacarias o segundo depois dele: Jeiel, e Semiramote, e Jeiel, e Matitias, e Eliabe, e Benaia e Obede-Edom, e Jeiel, com alaúdes e com harpas: e Asafe se fazia ouvir com címbalos;"
+            },
+            {
+                "id": "v16.6",
+                "versicle_number": 6,
+                "text": "Também Benaia, e Jaaziel, os sacerdotes continuamente com trombetas, perante a arca do concerto de Deus."
+            },
+            {
+                "id": "v16.7",
+                "versicle_number": 7,
+                "text": "Então naquele mesmo dia entregou Davi em primeiro lugar o Salmo seguinte, para louvarem ao Senhor, pelo ministério de Asafe e de seus irmãos:"
+            },
+            {
+                "id": "v16.8",
+                "versicle_number": 8,
+                "text": "Louvai ao Senhor, invocai o seu nome, fazei conhecidos entre os povos os seus feitos."
+            },
+            {
+                "id": "v16.9",
+                "versicle_number": 9,
+                "text": "Cantai-lhe, salmodiai-lhe, atentamente falai de todas as suas maravilhas."
+            },
+            {
+                "id": "v16.10",
+                "versicle_number": 10,
+                "text": "Gloriai-vos no seu santo nome; alegre-se o coração dos que buscam ao Senhor."
+            },
+            {
+                "id": "v16.11",
+                "versicle_number": 11,
+                "text": "Buscai ao Senhor, e a sua força; buscai a sua face continuamente."
+            },
+            {
+                "id": "v16.12",
+                "versicle_number": 12,
+                "text": "Lembrai-vos das suas maravilhas que tem feito, dos seus prodígios, e dos juízos da sua boca."
+            },
+            {
+                "id": "v16.13",
+                "versicle_number": 13,
+                "text": "Vós, semente de Israel, seus servos, vós, filhos de Jacó, seus eleitos."
+            },
+            {
+                "id": "v16.14",
+                "versicle_number": 14,
+                "text": "Ele é o Senhor nosso Deus; em toda a terra estão os seus juízos."
+            },
+            {
+                "id": "v16.15",
+                "versicle_number": 15,
+                "text": "Lembrai-vos perpetuamente do seu concerto e da palavra que prescreveu para mil gerações;"
+            },
+            {
+                "id": "v16.16",
+                "versicle_number": 16,
+                "text": "Do concerto que fez com Abraão,{note:1} e do seu juramento a Isaque;{note:2}"
+            },
+            {
+                "id": "v16.17",
+                "versicle_number": 17,
+                "text": "O qual também a Jacó ratificou por estatuto,{note:3} e a Israel por concerto eterno,"
+            },
+            {
+                "id": "v16.18",
+                "versicle_number": 18,
+                "text": "Dizendo: A ti te darei a terra de Canaã, quinhão da vossa herança,"
+            },
+            {
+                "id": "v16.19",
+                "versicle_number": 19,
+                "text": "Sendo vós em pequeno número, poucos homens, e estrangeiros nela."
+            },
+            {
+                "id": "v16.20",
+                "versicle_number": 20,
+                "text": "E andaram de nação em nação, e dum reino para outro povo."
+            },
+            {
+                "id": "v16.21",
+                "versicle_number": 21,
+                "text": "A ninguém permitiu que os oprimisse, e por amor deles repreendeu reis, dizendo:"
+            },
+            {
+                "id": "v16.22",
+                "versicle_number": 22,
+                "text": "Não toqueis os meus ungidos, e aos meus profetas não façais mal.{note:4}"
+            },
+            {
+                "id": "v16.23",
+                "versicle_number": 23,
+                "text": "Cantai ao Senhor em toda a terra; anunciai de dia em dia a sua salvação."
+            },
+            {
+                "id": "v16.24",
+                "versicle_number": 24,
+                "text": "Contai entre as nações a sua glória, entre todos os povos as suas maravilhas."
+            },
+            {
+                "id": "v16.25",
+                "versicle_number": 25,
+                "text": "Porque grande é o Senhor, e muito para louvar, e mais tremendo é do que todos os deuses."
+            },
+            {
+                "id": "v16.26",
+                "versicle_number": 26,
+                "text": "Porque todos os deuses das nações são vaidades; porém o Senhor fez os céus."
+            },
+            {
+                "id": "v16.27",
+                "versicle_number": 27,
+                "text": "Majestade e esplendor há diante dele, força e alegria no seu lugar."
+            },
+            {
+                "id": "v16.28",
+                "versicle_number": 28,
+                "text": "Dai ao Senhor, ó famílias das nações, dai ao Senhor glória e força."
+            },
+            {
+                "id": "v16.29",
+                "versicle_number": 29,
+                "text": "Dai ao Senhor a glória de seu nome; trazei presentes, e vinde perante ele: adorai ao Senhor na beleza da sua santidade."
+            },
+            {
+                "id": "v16.30",
+                "versicle_number": 30,
+                "text": "Trema perante ele, trema toda a terra; pois o mundo se firmará, para que se não abale."
+            },
+            {
+                "id": "v16.31",
+                "versicle_number": 31,
+                "text": "Alegrem-se os céus, e regozije-se a terra; e diga-se entre as nações: O Senhor reina."
+            },
+            {
+                "id": "v16.32",
+                "versicle_number": 32,
+                "text": "Brama o mar com a sua plenitude; exulte o campo com tudo o que há nele."
+            },
+            {
+                "id": "v16.33",
+                "versicle_number": 33,
+                "text": "Então jubilarão as árvores dos bosques perante o Senhor; porquanto vem a julgar a terra."
+            },
+            {
+                "id": "v16.34",
+                "versicle_number": 34,
+                "text": "Louvai ao Senhor, porque é bom; pois a sua benignidade dura perpetuamente."
+            },
+            {
+                "id": "v16.35",
+                "versicle_number": 35,
+                "text": "E dizei: Salva-nos, ó Deus da nossa salvação, e ajunta-nos, e livra-nos das nações; para que louvemos o teu santo nome, e nos gloriemos no teu louvor."
+            },
+            {
+                "id": "v16.36",
+                "versicle_number": 36,
+                "text": "Louvado seja o Senhor Deus de Israel, de século em século. E todo o povo disse: Amém! e louvou ao Senhor."
+            },
+            {
+                "id": "v16.37",
+                "versicle_number": 37,
+                "text": "Então deixou ali, diante da arca do concerto do Senhor, a Asafe e a seus irmãos, para ministrarem continuamente perante a arca, segundo se ordenara para cada dia."
+            },
+            {
+                "id": "v16.38",
+                "versicle_number": 38,
+                "text": "E mais a Obede-Edom, com seus irmãos, sessenta e oito: a este Obede-Edom, filho de Jedutum, e a Hosa, ordenou por porteiros."
+            },
+            {
+                "id": "v16.39",
+                "versicle_number": 39,
+                "text": "E mais a Zadoque, o sacerdote, e a seus irmãos, os sacerdotes, diante do tabernáculo do Senhor, no alto que estava em Gibeom,"
+            },
+            {
+                "id": "v16.40",
+                "versicle_number": 40,
+                "text": "Para oferecerem ao Senhor os holocaustos sobre o altar dos holocaustos continuamente pela manhã e à tarde: e isto segundo tudo o que está escrito na lei que o Senhor tinha prescrito a Israel."
+            },
+            {
+                "id": "v16.41",
+                "versicle_number": 41,
+                "text": "E com eles Hemã, e a Jedutum, e aos mais escolhidos, que foram apontados pelos seus nomes, para louvarem ao Senhor, porque a sua benignidade dura perpetuamente."
+            },
+            {
+                "id": "v16.42",
+                "versicle_number": 42,
+                "text": "Com eles pois estavam Hemã e Jedutum, e trombetas e címbalos para os que os faziam ouvir, e instrumentos de música de Deus; porém os filhos de Jedutum estavam à porta."
+            },
+            {
+                "id": "v16.43",
+                "versicle_number": 43,
+                "text": "Então se foi todo o povo,{note:5} cada um para a sua casa; e tornou Davi, para abençoar a sua casa."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 16.16 Gn 12.7 {note:2} 16.16 Gn 26.3"
+            },
+            {
+                "id": "n2",
+                "text": "{note:3} 16.17 Gn 28.13"
+            },
+            {
+                "id": "n3",
+                "text": "{note:4} 16.22 Gn 20.3-7"
+            },
+            {
+                "id": "n4",
+                "text": "{note:5} 16.43 2Sm 6.19-20"
+            }
+        ]
+    }
+}

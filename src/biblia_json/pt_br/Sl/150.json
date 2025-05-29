@@ -1,0 +1,62 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 150,
+        "chapter_reference": "",
+        "chapter_title": "O salmista exorta toda a criatura a louvar ao Senhor",
+        "versicles": [
+            {
+                "id": "v150.1",
+                "versicle_number": 1,
+                "text": "{note:p}LOUVAI ao Senhor. Louvai a Deus no seu santuário; louvai-o no firmamento do seu poder."
+            },
+            {
+                "id": "v150.2",
+                "versicle_number": 2,
+                "text": "Louvai-o pelos seus atos poderosos; louvai-o conforme a excelência da sua grandeza."
+            },
+            {
+                "id": "v150.3",
+                "versicle_number": 3,
+                "text": "Louvai-o com o som de trombeta; louvai-o com o saltério e a harpa."
+            },
+            {
+                "id": "v150.4",
+                "versicle_number": 4,
+                "text": "Louvai-o com o adufe e a {note:q}flauta; louvai-o com instrumento de cordas e com órgãos."
+            },
+            {
+                "id": "v150.5",
+                "versicle_number": 5,
+                "text": "Louvai-o com os címbalos sonoros; louvai-o com címbalos altissonantes."
+            },
+            {
+                "id": "v150.6",
+                "versicle_number": 6,
+                "text": "Tudo quanto tem fôlego louve {note:r}ao Senhor. Louvai ao Senhor."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:p} 150.1 Heb. Aleluia"
+            },
+            {
+                "id": "n2",
+                "text": "{note:q} 150.4 ou dança"
+            },
+            {
+                "id": "n3",
+                "text": "{note:r} 150.6 Heb. a JAH"
+            }
+        ]
+    }
+}

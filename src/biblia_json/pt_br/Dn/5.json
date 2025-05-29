@@ -1,0 +1,174 @@
+{
+    "book": {
+        "id": "Dn",
+        "book_number": 27,
+        "new_testament": false,
+        "num_chapters": 12,
+        "book_name": "DANIEL",
+        "book_full_name": "DANIEL"
+    },
+    "chapter": {
+        "chapter_number": 5,
+        "chapter_reference": "",
+        "chapter_title": "O banquete do rei Belsazar. A mão misteriosa",
+        "versicles": [
+            {
+                "id": "v5.1",
+                "versicle_number": 1,
+                "text": "O REI Belsazar deu um grande banquete a mil dos seus grandes, e bebeu vinho na presença dos mil."
+            },
+            {
+                "id": "v5.2",
+                "versicle_number": 2,
+                "text": "Havendo Belsazar provado o vinho, mandou trazer os vasos de ouro e de prata, que Nabucodonosor, seu pai, tinha tirado do templo que estava em Jerusalém, para que bebessem por eles o rei, e os seus grandes, as suas mulheres e concubinas."
+            },
+            {
+                "id": "v5.3",
+                "versicle_number": 3,
+                "text": "Então trouxeram os vasos de ouro, que foram tirados do templo da casa de Deus, que estava em Jerusalém, e beberam por eles o rei, os seus grandes, as suas mulheres e concubinas."
+            },
+            {
+                "id": "v5.4",
+                "versicle_number": 4,
+                "text": "Beberam o vinho, e deram louvores aos deuses de ouro, e de prata, de cobre, de ferro, de madeira, e de pedra."
+            },
+            {
+                "id": "v5.5",
+                "versicle_number": 5,
+                "text": "Na mesma hora apareceram uns dedos de mão de homem, e escreviam, defronte do castiçal, na estucada parede do palácio real; e o rei via a parte da mão que estava escrevendo."
+            },
+            {
+                "id": "v5.6",
+                "versicle_number": 6,
+                "text": "Então se mudou o semblante do rei, e os seus pensamentos o turbaram: as juntas dos seus lombos se relaxaram, e os seus joelhos bateram um no outro."
+            },
+            {
+                "id": "v5.7",
+                "versicle_number": 7,
+                "text": "E ordenou o rei com força, que se introduzissem os astrólogos, os caldeus e os adivinhadores: e falou o rei, e disse aos sábios de Babilônia: Qualquer que ler esta escritura, e me declarar a sua interpretação, será vestido de púrpura, e trará uma cadeia de ouro ao pescoço, e será, no reino, o terceiro dominador."
+            },
+            {
+                "id": "v5.8",
+                "versicle_number": 8,
+                "text": "Então entraram todos os sábios do rei; mas não puderam ler a escritura, nem fazer saber ao rei a sua interpretação."
+            },
+            {
+                "id": "v5.9",
+                "versicle_number": 9,
+                "text": "Então o rei Belsazar perturbou-se muito, e mudou-se nele o seu semblante; e os seus grandes estavam sobressaltados."
+            },
+            {
+                "id": "v5.10",
+                "versicle_number": 10,
+                "text": "A rainha, por causa das palavras do rei e dos seus grandes, entrou na casa do banquete: e falou a rainha, e disse: Ó rei, vive para sempre! não te turbem os teus pensamentos nem se mude o teu semblante."
+            },
+            {
+                "id": "v5.11",
+                "versicle_number": 11,
+                "text": "Há no teu reino um homem, que tem o espírito dos deuses santos; e nos dias de teu pai se achou nele luz, e inteligência, e sabedoria, como a sabedoria dos deuses; e teu pai, o rei Nabucodonosor, sim, teu pai, ó rei, o constituiu chefe dos magos, dos astrólogos, dos caldeus, e dos adivinhadores."
+            },
+            {
+                "id": "v5.12",
+                "versicle_number": 12,
+                "text": "Porquanto se achou neste Daniel um espírito excelente, e ciência e entendimento, interpretando sonhos, e explicando enigmas, e solvendo dúvidas, ao qual o rei pôs o nome de Beltessazar: chame-se pois agora Daniel, e ele dará interpretação."
+            },
+            {
+                "id": "v5.13",
+                "versicle_number": 13,
+                "text": "Então Daniel foi introduzido à presença do rei. Falou o rei, e disse a Daniel: És tu aquele Daniel, dos cativos de Judá, que o rei, meu pai, trouxe de Judá?"
+            },
+            {
+                "id": "v5.14",
+                "versicle_number": 14,
+                "text": "Tenho ouvido dizer a teu respeito que o espírito dos deuses está em ti, e que a luz, e o entendimento e a excelente sabedoria se acham em ti."
+            },
+            {
+                "id": "v5.15",
+                "versicle_number": 15,
+                "text": "Acabam de ser introduzidos à minha presença os sábios e os astrólogos, para lerem esta escritura, e me fazerem saber a sua interpretação; mas não puderam dar a interpretação destas palavras."
+            },
+            {
+                "id": "v5.16",
+                "versicle_number": 16,
+                "text": "Eu porém tenho ouvido dizer de ti que podes dar interpretações e solver dúvidas: agora, se puderes ler esta escritura, e fazer-me saber a sua interpretação, serás vestido de púrpura, e terás cadeia de ouro ao pescoço, e no reino serás o terceiro dominador."
+            },
+            {
+                "id": "v5.17",
+                "versicle_number": 17,
+                "text": "Então respondeu Daniel, e disse na presença do rei: Os teus dons fiquem contigo, e dá os teus presentes a outro; todavia lerei ao rei a escritura, e lhe farei saber a interpretação."
+            },
+            {
+                "id": "v5.18",
+                "versicle_number": 18,
+                "text": "Ó rei! Deus, o Altíssimo, deu a Nabucodonosor, teu pai, o reino, e a grandeza, e a glória, e a magnificência."
+            },
+            {
+                "id": "v5.19",
+                "versicle_number": 19,
+                "text": "E por causa da grandeza, que lhe deu todos os povos, nações e línguas tremiam e temiam diante dele: a quem queria matava, e a quem queria dava a vida; e a quem queria engrandecia, e a quem queria abatia."
+            },
+            {
+                "id": "v5.20",
+                "versicle_number": 20,
+                "text": "Mas quando o seu coração se exalçou, e o seu espírito se endureceu em soberba, foi derribado do seu trono real, e passou dele a sua glória."
+            },
+            {
+                "id": "v5.21",
+                "versicle_number": 21,
+                "text": "E foi tirado dentre os filhos dos homens, e o seu coração foi feito semelhante ao dos animais, e a sua morada foi com os jumentos monteses; fizeram-no comer erva como os bois, e pelo orvalho do céu foi molhado o seu corpo, até que conheceu que Deus, o Altíssimo, tem domínio sobre os reinos dos homens, e a quem quer constitui sobre eles."
+            },
+            {
+                "id": "v5.22",
+                "versicle_number": 22,
+                "text": "E tu, seu filho Belsazar, não humilhaste o teu coração, ainda que soubeste de tudo isto."
+            },
+            {
+                "id": "v5.23",
+                "versicle_number": 23,
+                "text": "E te levantaste contra o Senhor do céu, pois foram trazidos os vasos da casa dele perante ti, e tu, os teus grandes, as tuas mulheres e as tuas concubinas, bebestes vinho por eles; além disto, deste louvores aos deuses de prata, de ouro, de cobre, de ferro, de madeira e de pedra que não veem, não ouvem, nem sabem; mas a Deus, em cuja mão está a tua vida, e todos os teus caminhos, a ele não glorificaste."
+            },
+            {
+                "id": "v5.24",
+                "versicle_number": 24,
+                "text": "Então dele foi enviada aquela parte da mão, e escreveu-se esta escritura."
+            },
+            {
+                "id": "v5.25",
+                "versicle_number": 25,
+                "text": "Esta pois é a escritura que se escreveu: MENE, MENE, TEQUEL, UFARSIM."
+            },
+            {
+                "id": "v5.26",
+                "versicle_number": 26,
+                "text": "Esta é a interpretação daquilo: MENE: Contou Deus o teu reino e o acabou."
+            },
+            {
+                "id": "v5.27",
+                "versicle_number": 27,
+                "text": "TEQUEL: Pesado foste na balança, e foste achado em falta."
+            },
+            {
+                "id": "v5.28",
+                "versicle_number": 28,
+                "text": "PERES: Dividido foi o teu reino, e deu-se aos medos e aos persas."
+            },
+            {
+                "id": "v5.29",
+                "versicle_number": 29,
+                "text": "Então mandou Belsazar que vestissem a Daniel de púrpura, e que lhe pusessem uma cadeia de ouro ao pescoço, e proclamassem a respeito dele que havia de ser o terceiro dominador do reino."
+            },
+            {
+                "id": "v5.30",
+                "versicle_number": 30,
+                "text": "Naquela mesma noite foi morto Belsazar, rei dos caldeus."
+            },
+            {
+                "id": "v5.31",
+                "versicle_number": 31,
+                "text": "E Dario, o medo, ocupou o reino, na idade de sessenta e dois anos."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

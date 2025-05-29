@@ -1,0 +1,200 @@
+{
+    "book": {
+        "id": "2Rs",
+        "book_number": 12,
+        "new_testament": false,
+        "num_chapters": 25,
+        "book_name": "REIS",
+        "book_full_name": "O SEGUNDO LIVRO DOS REIS"
+    },
+    "chapter": {
+        "chapter_number": 6,
+        "chapter_reference": "",
+        "chapter_title": "Eliseu faz flutuar um ferro dum machado",
+        "versicles": [
+            {
+                "id": "v6.1",
+                "versicle_number": 1,
+                "text": "E DISSERAM os filhos dos profetas a Eliseu: Eis que o lugar em que habitamos diante da tua face, nos é estreito."
+            },
+            {
+                "id": "v6.2",
+                "versicle_number": 2,
+                "text": "Vamos pois até ao Jordão, e tomemos de lá, cada um de nós, uma viga, e façamo-nos ali um lugar, para habitar ali. E disse ele: Ide."
+            },
+            {
+                "id": "v6.3",
+                "versicle_number": 3,
+                "text": "E disse um: Serve-te de ires com os teus servos. E disse: Eu irei."
+            },
+            {
+                "id": "v6.4",
+                "versicle_number": 4,
+                "text": "E foi com eles; e, chegando eles ao Jordão, cortaram madeira."
+            },
+            {
+                "id": "v6.5",
+                "versicle_number": 5,
+                "text": "E sucedeu que, derribando um deles uma viga, o ferro caiu na água: e clamou, e disse: Ai, meu senhor! porque era emprestado."
+            },
+            {
+                "id": "v6.6",
+                "versicle_number": 6,
+                "text": "E disse o homem de Deus: Onde caiu? E mostrando-lhe ele o lugar, cortou um pau, e o lançou ali, e fez nadar o ferro."
+            },
+            {
+                "id": "v6.7",
+                "versicle_number": 7,
+                "text": "E disse: Levanta-o. Então ele estendeu a sua mão e o tomou."
+            },
+            {
+                "id": "v6.8",
+                "versicle_number": 8,
+                "text": "E o rei da Síria fazia guerra a Israel; e consultou com os seus servos dizendo: Em tal e em tal lugar estará o meu acampamento."
+            },
+            {
+                "id": "v6.9",
+                "versicle_number": 9,
+                "text": "Mas o homem de Deus enviou ao rei de Israel, dizendo: Guarda-te de passares por tal lugar; porque os siros desceram ali."
+            },
+            {
+                "id": "v6.10",
+                "versicle_number": 10,
+                "text": "Pelo que o rei de Israel enviou àquele lugar de que o homem de Deus lhe falara, e de que o tinha avisado, e se guardou ali, não uma nem duas vezes."
+            },
+            {
+                "id": "v6.11",
+                "versicle_number": 11,
+                "text": "Então se turbou com este incidente o coração do rei da Síria, e chamou os seus servos e lhes disse: Não me fareis saber quem dos nossos é pelo rei de Israel?"
+            },
+            {
+                "id": "v6.12",
+                "versicle_number": 12,
+                "text": "E disse um dos seus servos: Não, ó rei meu senhor; mas o profeta Eliseu, que está em Israel, faz saber ao rei de Israel as palavras que tu falas na tua câmara de dormir."
+            },
+            {
+                "id": "v6.13",
+                "versicle_number": 13,
+                "text": "E ele disse: Vai, e vê onde ele está, para que envie, e mande trazê-lo. E fizeram-lhe saber, dizendo: Eis que está em Dotã."
+            },
+            {
+                "id": "v6.14",
+                "versicle_number": 14,
+                "text": "Então enviou para lá cavalos, e carros e um grande exército, os quais vieram de noite, e cercaram a cidade."
+            },
+            {
+                "id": "v6.15",
+                "versicle_number": 15,
+                "text": "E o moço do homem de Deus se levantou mui cedo, e saiu, e eis que um exército tinha cercado a cidade com cavalos e carros; então o seu moço lhe disse: Ai, meu senhor! que faremos?"
+            },
+            {
+                "id": "v6.16",
+                "versicle_number": 16,
+                "text": "E ele disse: Não temas; porque mais são os que estão conosco do que os que estão com eles."
+            },
+            {
+                "id": "v6.17",
+                "versicle_number": 17,
+                "text": "E orou Eliseu, e disse: Senhor, peço-te que lhe abras os olhos, para que veja. E o Senhor abriu os olhos do moço, e viu; e eis que o monte estava cheio de cavalos e carros de fogo, em redor de Eliseu."
+            },
+            {
+                "id": "v6.18",
+                "versicle_number": 18,
+                "text": "E, como desceram a ele, Eliseu orou ao Senhor, e disse: Fere, peço-te, esta gente de cegueira. E feriu-a de cegueira, conforme a palavra de Eliseu."
+            },
+            {
+                "id": "v6.19",
+                "versicle_number": 19,
+                "text": "Então Eliseu lhes disse: Não é este o caminho, nem é esta a cidade; segui-me, e guiar-vos-ei ao homem que buscais. E os guiou a Samaria."
+            },
+            {
+                "id": "v6.20",
+                "versicle_number": 20,
+                "text": "E sucedeu que, chegando eles a Samaria, disse Eliseu: Ó Senhor, abre a estes os olhos para que vejam. O Senhor lhes abriu os olhos, para que vissem, e eis que estavam no meio de Samaria."
+            },
+            {
+                "id": "v6.21",
+                "versicle_number": 21,
+                "text": "E, quando o rei de Israel os viu, disse a Eliseu: Feri-los-ei, feri-los-ei, meu pai?"
+            },
+            {
+                "id": "v6.22",
+                "versicle_number": 22,
+                "text": "Mas ele disse: Não os ferirás; feririas tu os que tomasses prisioneiros com a tua espada e com o teu arco? Põe-lhes diante pão e água, para que comam e bebam, e se vão para seu senhor."
+            },
+            {
+                "id": "v6.23",
+                "versicle_number": 23,
+                "text": "E apresentou-lhes um grande banquete, e comeram e beberam: e os despediu e foram para seu senhor: e não entraram mais tropas de siros na terra de Israel."
+            },
+            {
+                "id": "v6.24",
+                "versicle_number": 24,
+                "text": "E sucedeu, depois disto, que Benadade, rei da Síria, ajuntou todo o seu exército: e subiu, e cercou a Samaria."
+            },
+            {
+                "id": "v6.25",
+                "versicle_number": 25,
+                "text": "E houve grande fome em Samaria, porque eis que a cercaram, até que se vendeu uma cabeça dum jumento por oitenta {note:b}peças de prata, e a quarta parte dum cabo de esterco de pombas por cinco peças de prata."
+            },
+            {
+                "id": "v6.26",
+                "versicle_number": 26,
+                "text": "E sucedeu que, passando o rei pelo muro uma mulher lhe bradou, dizendo: Acode-me, ó rei meu senhor."
+            },
+            {
+                "id": "v6.27",
+                "versicle_number": 27,
+                "text": "E ele lhe disse: Se o Senhor te não acode, donde te acudirei eu, da eira ou do lagar?"
+            },
+            {
+                "id": "v6.28",
+                "versicle_number": 28,
+                "text": "Disse-lhe mais o rei: Que tens? E disse ela: Esta mulher me disse: Dá cá o teu filho, para que hoje o comamos e amanhã comeremos o meu filho."
+            },
+            {
+                "id": "v6.29",
+                "versicle_number": 29,
+                "text": "Cozemos pois o meu filho, e o comemos; mas dizendo-lhe eu ao outro dia: Dá cá o teu filho para que o comamos; escondeu o seu filho."
+            },
+            {
+                "id": "v6.30",
+                "versicle_number": 30,
+                "text": "E sucedeu que, ouvindo o rei as palavras desta mulher, rasgou os seus vestidos, e ia passando pelo muro; e o povo viu que trazia cilício por dentro, sobre a sua carne."
+            },
+            {
+                "id": "v6.31",
+                "versicle_number": 31,
+                "text": "E disse: Assim me faça Deus, e outro tanto, se a cabeça de Eliseu, filho de Safate, hoje ficar sobre ele."
+            },
+            {
+                "id": "v6.32",
+                "versicle_number": 32,
+                "text": "Estava então Eliseu assentado em sua casa, e também os anciãos estavam assentados com ele. E enviou o rei um homem de diante de si; mas, antes que o mensageiro viesse a ele, disse ele aos anciãos: Vistes como o filho do homicida mandou tirar-me a cabeça? Olhai, quando vier o mensageiro, fechai-lhe a porta, e empurrai-o para fora com a porta; porventura não vem o ruído dos pés de seu senhor após ele?"
+            },
+            {
+                "id": "v6.33",
+                "versicle_number": 33,
+                "text": "E, estando ele ainda falando com eles, eis que o mensageiro descia a ele; e disse: Eis que este mal vem do Senhor, que mais pois esperaria do Senhor?"
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v6.8",
+                "text": "Eliseu adivinha os conselhos do rei da Síria"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v6.24",
+                "text": "Samaria é cercada"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:b} 6.25 ou siclos"
+            }
+        ]
+    }
+}

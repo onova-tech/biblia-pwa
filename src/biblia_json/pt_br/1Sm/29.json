@@ -1,0 +1,79 @@
+{
+    "book": {
+        "id": "1Sm",
+        "book_number": 9,
+        "new_testament": false,
+        "num_chapters": 31,
+        "book_name": "SAMUEL",
+        "book_full_name": "O PRIMEIRO LIVRO DE SAMUEL"
+    },
+    "chapter": {
+        "chapter_number": 29,
+        "chapter_reference": "",
+        "chapter_title": "Davi marcha com Áquis contra os israelitas",
+        "versicles": [
+            {
+                "id": "v29.1",
+                "versicle_number": 1,
+                "text": "E AJUNTARAM os filisteus todos os seus exércitos em Afeque: e acamparam-se os israelitas junto à fonte que está em Jezreel."
+            },
+            {
+                "id": "v29.2",
+                "versicle_number": 2,
+                "text": "E os príncipes dos filisteus se foram para lá com centenas e com milhares: porém Davi e os seus homens iam com Áquis na retaguarda."
+            },
+            {
+                "id": "v29.3",
+                "versicle_number": 3,
+                "text": "Disseram então os príncipes dos filisteus: Que fazem aqui estes hebreus? E disse Áquis aos príncipes dos filisteus: Não é este Davi, o criado de Saul, rei de Israel, que esteve comigo há alguns dias ou anos? e cousa nenhuma achei nele desde o dia em que se revoltou, até ao dia de hoje."
+            },
+            {
+                "id": "v29.4",
+                "versicle_number": 4,
+                "text": "Porém os príncipes dos filisteus muito se indignaram contra ele; e disseram-lhe os príncipes dos filisteus: Faze voltar a este homem, e torne ao seu lugar em que tu o puseste, e não desça conosco à batalha, para que não se nos torne na batalha em adversário: porque com que aplacaria este a seu senhor? porventura não seria com as cabeças destes homens?"
+            },
+            {
+                "id": "v29.5",
+                "versicle_number": 5,
+                "text": "Não é este aquele Davi, de quem uns aos outros respondiam{note:1} nas danças, dizendo: Saul feriu os seus milhares, porém Davi as suas dezenas de milhares?"
+            },
+            {
+                "id": "v29.6",
+                "versicle_number": 6,
+                "text": "Então Áquis chamou a Davi e disse-lhe: Vive o Senhor, que tu és reto, e que a tua entrada e a tua saída comigo no arraial é boa aos meus olhos; porque nenhum mal em ti achei, desde o dia em que a mim vieste, até ao dia de hoje; porém aos olhos dos príncipes não agradas."
+            },
+            {
+                "id": "v29.7",
+                "versicle_number": 7,
+                "text": "Volta pois agora, e volta em paz: para que não faças mal aos olhos dos príncipes dos filisteus."
+            },
+            {
+                "id": "v29.8",
+                "versicle_number": 8,
+                "text": "Então Davi disse a Áquis: Por quê? que fiz? ou que achaste no teu servo, desde o dia em que estive diante de ti, até ao dia de hoje, para que não vá e peleje contra os inimigos do rei meu senhor?"
+            },
+            {
+                "id": "v29.9",
+                "versicle_number": 9,
+                "text": "Respondeu porém Áquis, e disse a Davi: Bem o sei: e que na verdade aos meus olhos és bom como um anjo de Deus: porém disseram os príncipes dos filisteus: Não suba este conosco à batalha."
+            },
+            {
+                "id": "v29.10",
+                "versicle_number": 10,
+                "text": "Agora pois amanhã de madrugada levanta-te com os criados de teu senhor, que têm vindo contigo: e, levantando-vos pela manhã de madrugada, e havendo luz, parti."
+            },
+            {
+                "id": "v29.11",
+                "versicle_number": 11,
+                "text": "Então Davi de madrugada se levantou, ele e os seus homens, para partirem pela manhã, e voltarem à terra dos filisteus: e os filisteus subiram a Jezreel."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 29.5 1Sm 18.7; 21.11"
+            }
+        ]
+    }
+}

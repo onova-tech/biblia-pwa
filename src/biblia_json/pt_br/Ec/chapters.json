@@ -1,0 +1,72 @@
+{
+    "book": {
+        "id": "Ec",
+        "book_number": 21,
+        "new_testament": false,
+        "num_chapters": 12,
+        "book_name": "ECLESIASTES",
+        "book_full_name": "LIVRO DO ECLESIASTES"
+    },
+    "chapters": [
+        {
+            "chapter_number": 10,
+            "chapter_reference": "",
+            "chapter_title": "A loucura é a causa de muitas desgraças"
+        },
+        {
+            "chapter_number": 11,
+            "chapter_reference": "",
+            "chapter_title": "Façamos o que é bom no tempo oportuno"
+        },
+        {
+            "chapter_number": 12,
+            "chapter_reference": "",
+            "chapter_title": "A mocidade deve preparar-se para a velhice e para a morte"
+        },
+        {
+            "chapter_number": 1,
+            "chapter_reference": "",
+            "chapter_title": "A vaidade de todas as cousas terrestres"
+        },
+        {
+            "chapter_number": 2,
+            "chapter_reference": "",
+            "chapter_title": "Os prazeres e as riquezas não dão felicidade"
+        },
+        {
+            "chapter_number": 3,
+            "chapter_reference": "",
+            "chapter_title": "Há para todas as cousas, um tempo determinado por Deus"
+        },
+        {
+            "chapter_number": 4,
+            "chapter_reference": "",
+            "chapter_title": "Os males e as tribulações da vida"
+        },
+        {
+            "chapter_number": 5,
+            "chapter_reference": "",
+            "chapter_title": "Vários conselhos práticos"
+        },
+        {
+            "chapter_number": 6,
+            "chapter_reference": "",
+            "chapter_title": "É lícito gozar os bens que Deus deu, mas estes não podem satisfazer a alma"
+        },
+        {
+            "chapter_number": 7,
+            "chapter_reference": "",
+            "chapter_title": "As vantagens do sofrimento, da paciência, e da moderação"
+        },
+        {
+            "chapter_number": 8,
+            "chapter_reference": "",
+            "chapter_title": "A obediência devida ao rei"
+        },
+        {
+            "chapter_number": 9,
+            "chapter_reference": "",
+            "chapter_title": "As mesmas cousas sucedem aos justos e injustos. Gozemos os bens que Deus nos dá"
+        }
+    ]
+}

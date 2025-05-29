@@ -1,0 +1,169 @@
+{
+    "book": {
+        "id": "1Sm",
+        "book_number": 9,
+        "new_testament": false,
+        "num_chapters": 31,
+        "book_name": "SAMUEL",
+        "book_full_name": "O PRIMEIRO LIVRO DE SAMUEL"
+    },
+    "chapter": {
+        "chapter_number": 12,
+        "chapter_reference": "",
+        "chapter_title": "Samuel resigna o seu cargo",
+        "versicles": [
+            {
+                "id": "v12.1",
+                "versicle_number": 1,
+                "text": "ENTÃO disse Samuel a todo o Israel: Eis que ouvi a vossa voz em tudo quanto me dissestes, e pus sobre vós um rei."
+            },
+            {
+                "id": "v12.2",
+                "versicle_number": 2,
+                "text": "Agora, pois, eis que o rei vai diante de vós, e já envelheci e encaneci, e eis que meus filhos estão convosco, e eu tenho andado diante de vós desde a minha mocidade até ao dia de hoje."
+            },
+            {
+                "id": "v12.3",
+                "versicle_number": 3,
+                "text": "Eis-me aqui, testificai contra mim perante o Senhor, e perante o seu ungido, a quem tomei o boi, a quem tomei o jumento, e a quem defraudei, a quem tenho oprimido, e de cuja mão tenho tomado presente e com ele encobri os meus olhos, e vo-lo restituirei."
+            },
+            {
+                "id": "v12.4",
+                "versicle_number": 4,
+                "text": "Então disseram: Em nada nos defraudaste, nem nos oprimiste, nem tomaste cousa alguma da mão de ninguém."
+            },
+            {
+                "id": "v12.5",
+                "versicle_number": 5,
+                "text": "E ele lhes disse: O Senhor seja testemunha contra vós, e o seu ungido seja hoje testemunha, que nada tendes achado na minha mão. E disse o povo: Seja testemunha."
+            },
+            {
+                "id": "v12.6",
+                "versicle_number": 6,
+                "text": "Então disse Samuel ao povo: O Senhor é o que escolheu a Moisés e a Aarão,{note:1} e tirou a vossos pais da terra do Egito."
+            },
+            {
+                "id": "v12.7",
+                "versicle_number": 7,
+                "text": "Agora pois ponde-vos aqui em pé, e contenderei convosco perante o Senhor, sobre todas as justiças do Senhor, que fez a vós e a vossos pais."
+            },
+            {
+                "id": "v12.8",
+                "versicle_number": 8,
+                "text": "Havendo entrado Jacó no Egito, vossos pais{note:2} clamaram ao Senhor, e o Senhor enviou a Moisés e Aarão, que tiraram a vossos pais do Egito, e os fizeram habitar neste lugar."
+            },
+            {
+                "id": "v12.9",
+                "versicle_number": 9,
+                "text": "Porém esqueceram-se do Senhor seu Deus: então os entregou na mão de Sísera,{note:3} cabeça do exército de Hazor, e na mão dos filisteus,{note:4} e na mão do rei dos moabitas,{note:5} que pelejaram contra eles."
+            },
+            {
+                "id": "v12.10",
+                "versicle_number": 10,
+                "text": "E clamaram ao Senhor,{note:6} e disseram: Pecamos, pois deixamos ao Senhor, e servimos aos baalins e astarotes: agora pois livra-nos da mão de nossos inimigos, e te serviremos."
+            },
+            {
+                "id": "v12.11",
+                "versicle_number": 11,
+                "text": "E o Senhor enviou a Jerubaal,{note:7} e a Bedã,{note:8} e a Jefté,{note:9} e a Samuel;{note:10} e livrou-vos da mão de vossos inimigos em redor, e habitastes seguros."
+            },
+            {
+                "id": "v12.12",
+                "versicle_number": 12,
+                "text": "E vendo vós que Naás, rei dos filhos de Amom, vinha contra vós, me dissestes: Não, mas reinará sobre nós um rei:{note:11} sendo porém o Senhor vosso Deus, o vosso Rei."
+            },
+            {
+                "id": "v12.13",
+                "versicle_number": 13,
+                "text": "Agora pois vedes aí o rei que elegestes e que pedistes; e eis que o Senhor tem posto sobre vós um rei."
+            },
+            {
+                "id": "v12.14",
+                "versicle_number": 14,
+                "text": "Se temerdes ao Senhor, e o servirdes, e derdes ouvidos à sua voz, e não fordes rebeldes ao dito do Senhor, assim vós, como o rei que reina sobre vós, seguireis o Senhor vosso Deus."
+            },
+            {
+                "id": "v12.15",
+                "versicle_number": 15,
+                "text": "Mas se não derdes ouvidos à voz do Senhor, mas antes fordes rebeldes ao dito do Senhor, a mão do Senhor será contra vós como era contra vossos pais."
+            },
+            {
+                "id": "v12.16",
+                "versicle_number": 16,
+                "text": "Ponde-vos também agora aqui, e vede esta grande cousa que o Senhor vai fazer diante dos vossos olhos."
+            },
+            {
+                "id": "v12.17",
+                "versicle_number": 17,
+                "text": "Não é hoje a sega dos trigos? clamarei pois ao Senhor, e dará trovões e chuva; e sabereis e vereis que é grande a vossa maldade que tendes feito perante o Senhor, pedindo para vós um rei."
+            },
+            {
+                "id": "v12.18",
+                "versicle_number": 18,
+                "text": "Então invocou Samuel ao Senhor, e o Senhor deu trovões e chuva naquele dia; pelo que todo o povo temeu em grande maneira ao Senhor e a Samuel."
+            },
+            {
+                "id": "v12.19",
+                "versicle_number": 19,
+                "text": "E todo o povo disse a Samuel: Roga pelos teus servos ao Senhor teu Deus, para que não venhamos a morrer: porque a todos os nossos pecados temos acrescentado este mal, de pedirmos para nós um rei."
+            },
+            {
+                "id": "v12.20",
+                "versicle_number": 20,
+                "text": "Então disse Samuel ao povo: Não temais: vós tendes cometido todo este mal; porém não vos desvieis de seguir ao Senhor, mas servi ao Senhor com todo o vosso coração."
+            },
+            {
+                "id": "v12.21",
+                "versicle_number": 21,
+                "text": "E não vos desvieis: pois seguiríeis as vaidades, que nada aproveitam, e tão pouco vos livrarão, porque vaidades são."
+            },
+            {
+                "id": "v12.22",
+                "versicle_number": 22,
+                "text": "Pois o Senhor não desamparará o seu povo, por causa do seu grande nome: porque aprouve ao Senhor fazer-vos o seu povo."
+            },
+            {
+                "id": "v12.23",
+                "versicle_number": 23,
+                "text": "E quanto a mim, longe de mim que eu peque contra o Senhor, deixando de orar por vós: antes vos ensinarei o caminho bom e direito."
+            },
+            {
+                "id": "v12.24",
+                "versicle_number": 24,
+                "text": "Tão somente temei ao Senhor, e servi-o fielmente com todo o vosso coração: porque vede quão grandiosas cousas vos fez."
+            },
+            {
+                "id": "v12.25",
+                "versicle_number": 25,
+                "text": "Porém, se perseverardes em fazer mal, perecereis, assim vós como o vosso rei."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 12.6 Êx 6.26"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 12.8 Êx 2.23"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 12.9 Jz 4.2 {note:5} 12.9 Jz 3.12 {note:4} 12.9 Jz 13.1"
+            },
+            {
+                "id": "n4",
+                "text": "{note:6} 12.10 Jz 10.10"
+            },
+            {
+                "id": "n5",
+                "text": "{note:7} 12.11 Jz 7.1 {note:10} 12.11 1Sm 3.20 {note:9} 12.11 Jz 11.29 {note:8} 12.11 Jz 4.6"
+            },
+            {
+                "id": "n6",
+                "text": "{note:11} 12.12 1Sm 8.19"
+            }
+        ]
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 140,
+        "chapter_reference": "",
+        "chapter_title": "O salmista ora para que seja livre de inimigos potentes e injustos",
+        "versicles": [
+            {
+                "id": "v140.1",
+                "versicle_number": 1,
+                "text": "LIVRA-ME, ó Senhor, do homem mau: guarda-me do homem violento;"
+            },
+            {
+                "id": "v140.2",
+                "versicle_number": 2,
+                "text": "Os quais pensam o mal no coração: continuamente se ajuntam para a guerra."
+            },
+            {
+                "id": "v140.3",
+                "versicle_number": 3,
+                "text": "Aguçaram as línguas como a serpente; o veneno das víboras{note:1} está debaixo dos seus lábios. (Selá.)"
+            },
+            {
+                "id": "v140.4",
+                "versicle_number": 4,
+                "text": "Guarda-me, ó Senhor, das mãos do ímpio; guarda-me do homem violento, os quais se propuseram desviar os meus passos."
+            },
+            {
+                "id": "v140.5",
+                "versicle_number": 5,
+                "text": "Os soberbos armaram-me laços e cordas; estenderam a rede à beira do caminho: armaram-me laços corrediços. (Selá.)"
+            },
+            {
+                "id": "v140.6",
+                "versicle_number": 6,
+                "text": "Eu disse ao Senhor: Tu és o meu Deus: ouve a voz das minhas súplicas, ó Senhor."
+            },
+            {
+                "id": "v140.7",
+                "versicle_number": 7,
+                "text": "Senhor Deus, {note:e}fortaleza da minha salvação, tu cobriste a minha cabeça no dia da batalha."
+            },
+            {
+                "id": "v140.8",
+                "versicle_number": 8,
+                "text": "Não cumpras, ó Senhor, ao ímpio os seus desejos: não deixes ir por diante o seu mau propósito, para que não se exalte. (Selá.)"
+            },
+            {
+                "id": "v140.9",
+                "versicle_number": 9,
+                "text": "Quanto aos que, cercando-me, levantam a cabeça, cubra-os a maldade dos seus lábios."
+            },
+            {
+                "id": "v140.10",
+                "versicle_number": 10,
+                "text": "Caiam sobre eles brasas vivas: sejam lançados no fogo: em covas profundas, para que se não tornem a levantar."
+            },
+            {
+                "id": "v140.11",
+                "versicle_number": 11,
+                "text": "Não terá firmeza na terra o homem de má língua: o mal perseguirá o homem violento até que seja desterrado."
+            },
+            {
+                "id": "v140.12",
+                "versicle_number": 12,
+                "text": "Sei que o Senhor {note:f}sustentará a causa do oprimido, e o direito do necessitado."
+            },
+            {
+                "id": "v140.13",
+                "versicle_number": 13,
+                "text": "Assim os justos louvarão o teu nome: os retos habitarão na tua presença."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 140.3 Rm 3.13"
+            },
+            {
+                "id": "n2",
+                "text": "{note:e} 140.7 ou força"
+            },
+            {
+                "id": "n3",
+                "text": "{note:f} 140.12 ou manterá"
+            }
+        ]
+    }
+}

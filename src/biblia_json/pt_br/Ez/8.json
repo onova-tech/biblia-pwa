@@ -1,0 +1,122 @@
+{
+    "book": {
+        "id": "Ez",
+        "book_number": 26,
+        "new_testament": false,
+        "num_chapters": 48,
+        "book_name": "EZEQUIEL",
+        "book_full_name": "EZEQUIEL"
+    },
+    "chapter": {
+        "chapter_number": 8,
+        "chapter_reference": "",
+        "chapter_title": "As abominações no santuário",
+        "versicles": [
+            {
+                "id": "v8.1",
+                "versicle_number": 1,
+                "text": "SUCEDEU pois, no sexto ano, no mês sexto, no quinto dia do mês, estando eu assentado na minha casa, e os anciãos de Judá assentados diante de mim, que ali a mão do Senhor JEOVÁ caiu sobre mim."
+            },
+            {
+                "id": "v8.2",
+                "versicle_number": 2,
+                "text": "E olhei, e eis uma semelhança como aparência de fogo;{note:1} desde a aparência dos seus lombos, e para baixo, era fogo; e dos seus lombos para cima como aspecto de um resplendor, como cor de âmbar;"
+            },
+            {
+                "id": "v8.3",
+                "versicle_number": 3,
+                "text": "E estendeu a forma duma mão, e me tomou pelos cabelos da minha cabeça; e o Espírito me levantou entre a terra e o céu, e me trouxe a Jerusalém em visões de Deus, até à entrada da porta do pátio de dentro, que olha para o norte, onde estava colocada a imagem dos ciúmes, que provoca ciúmes."
+            },
+            {
+                "id": "v8.4",
+                "versicle_number": 4,
+                "text": "E eis que a glória do Deus de Israel{note:2} estava ali, conforme a semelhança que eu tinha visto no vale."
+            },
+            {
+                "id": "v8.5",
+                "versicle_number": 5,
+                "text": "E disse-me: Filho do homem, levanta agora os teus olhos para o caminho do norte. E levantei os meus olhos para o caminho do norte, e eis que da banda do norte, à porta do altar, estava esta imagem de ciúmes, à entrada."
+            },
+            {
+                "id": "v8.6",
+                "versicle_number": 6,
+                "text": "E disse-me: Filho do homem, vês tu o que eles estão fazendo? as grandes abominações que a casa de Israel faz aqui, para que me afaste do meu santuário? mas verás ainda maiores abominações."
+            },
+            {
+                "id": "v8.7",
+                "versicle_number": 7,
+                "text": "E levou-me à porta do átrio: então olhei, e eis que havia um buraco na parede."
+            },
+            {
+                "id": "v8.8",
+                "versicle_number": 8,
+                "text": "E disse-me: Filho do homem, cava agora naquela parede. E cavei na parede, e eis que havia uma porta."
+            },
+            {
+                "id": "v8.9",
+                "versicle_number": 9,
+                "text": "Então me disse: entra, e vê as malignas abominações que eles fazem aqui."
+            },
+            {
+                "id": "v8.10",
+                "versicle_number": 10,
+                "text": "E entrei, e olhei, e eis que toda a forma de répteis, e de animais abomináveis e de todos os ídolos da casa de Israel, estavam pintados na parede em todo o redor."
+            },
+            {
+                "id": "v8.11",
+                "versicle_number": 11,
+                "text": "E setenta homens dos anciãos da casa de Israel, com Jaazanias, filho de Safã, que se achava no meio deles, estavam em pé diante das pinturas, e cada um tinha na mão o seu incensário; e subia uma espessa nuvem de incenso."
+            },
+            {
+                "id": "v8.12",
+                "versicle_number": 12,
+                "text": "Então me disse: Viste, filho do homem, o que os anciãos da casa de Israel fazem nas trevas, cada um nas suas câmaras pintadas de imagens? e eles dizem: O Senhor não nos vê; o Senhor abandonou a terra."
+            },
+            {
+                "id": "v8.13",
+                "versicle_number": 13,
+                "text": "E disse-me: Tornarás a ver ainda maiores abominações do que as que estes fazem."
+            },
+            {
+                "id": "v8.14",
+                "versicle_number": 14,
+                "text": "E levou-me à entrada da porta da casa do Senhor, que está da banda do norte, e eis que estavam ali mulheres assentadas chorando por {note:j}Tamuz."
+            },
+            {
+                "id": "v8.15",
+                "versicle_number": 15,
+                "text": "E disse-me: Viste, filho do homem? verás ainda abominações maiores do que estas."
+            },
+            {
+                "id": "v8.16",
+                "versicle_number": 16,
+                "text": "E levou-me para o átrio interior da casa do Senhor, e eis que estavam à entrada do templo do Senhor, entre o pórtico e o altar, cerca de vinte e cinco homens, de costas para o templo do Senhor, e com os rostos para o Oriente; e eles adoravam o sol virados para o Oriente."
+            },
+            {
+                "id": "v8.17",
+                "versicle_number": 17,
+                "text": "Então me disse: Viste, filho do homem? há cousa mais leviana para a casa de Judá, do que essas abominações, que fazem aqui? havendo enchido a terra de violência, tornam a irritar-me; e, ei-los a chegar o ramo ao seu nariz."
+            },
+            {
+                "id": "v8.18",
+                "versicle_number": 18,
+                "text": "Pelo que também eu procederei com furor; o meu olho não poupará, nem terei piedade: ainda que me gritem aos ouvidos com grande voz, eu não os ouvirei."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 8.2 Ez 1.27"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 8.4 Ez 1.28"
+            },
+            {
+                "id": "n3",
+                "text": "{note:j} 8.14 que era um ídolo do paganismo"
+            }
+        ]
+    }
+}

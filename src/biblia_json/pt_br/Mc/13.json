@@ -1,0 +1,241 @@
+{
+    "book": {
+        "id": "Mc",
+        "book_number": 41,
+        "new_testament": true,
+        "num_chapters": 16,
+        "book_name": "MARCOS",
+        "book_full_name": "O SANTO EVANGELHO SEGUNDO MARCOS"
+    },
+    "chapter": {
+        "chapter_number": 13,
+        "chapter_reference": "Mateus 24.1-14 e refs.",
+        "chapter_title": "O sermão profético; o princípio de dores",
+        "versicles": [
+            {
+                "id": "v13.1",
+                "versicle_number": 1,
+                "text": "E, SAINDO ele do templo, disse-lhe um dos seus discípulos: Mestre, olha que pedras, e que edifícios!"
+            },
+            {
+                "id": "v13.2",
+                "versicle_number": 2,
+                "text": "E, respondendo Jesus, disse-lhe: Vês estes grandes edifícios? Não ficará pedra sobre pedra que não seja derribada."
+            },
+            {
+                "id": "v13.3",
+                "versicle_number": 3,
+                "text": "E, assentando-se ele no monte das Oliveiras, defronte do templo, Pedro, e Tiago, e João e André lhe perguntaram em particular:"
+            },
+            {
+                "id": "v13.4",
+                "versicle_number": 4,
+                "text": "Dize-nos, quando serão essas coisas, e que sinal haverá quando todas elas estiverem para se cumprir."
+            },
+            {
+                "id": "v13.5",
+                "versicle_number": 5,
+                "text": "E Jesus, respondendo-lhes, começou a dizer: Olhai que ninguém vos engane;"
+            },
+            {
+                "id": "v13.6",
+                "versicle_number": 6,
+                "text": "Porque muitos virão em meu nome, dizendo: Eu sou o Cristo; e enganarão a muitos."
+            },
+            {
+                "id": "v13.7",
+                "versicle_number": 7,
+                "text": "E, quando ouvirdes de guerras e de rumores de guerras, não vos perturbeis; porque assim deve acontecer; mas ainda não será o fim."
+            },
+            {
+                "id": "v13.8",
+                "versicle_number": 8,
+                "text": "Porque se levantará nação contra nação, e reino contra reino, e haverá terremotos em diversos lugares, e haverá fomes. Isto será o princípio de dores."
+            },
+            {
+                "id": "v13.9",
+                "versicle_number": 9,
+                "text": "Mas olhai por vós mesmos, porque vos entregarão aos concílios e às sinagogas; sereis açoitados, e sereis apresentados ante presidentes e reis, por amor de mim, para lhes servir de testemunho."
+            },
+            {
+                "id": "v13.10",
+                "versicle_number": 10,
+                "text": "Mas importa que o evangelho seja primeiramente pregado entre todas as gentes."
+            },
+            {
+                "id": "v13.11",
+                "versicle_number": 11,
+                "text": "Quando pois vos conduzirem para vos entregarem, não estejais solícitos d'antemão pelo que haveis de dizer; mas, o que vos for dado naquela hora, isso falai; porque não sois vós os que falais, mas o Espírito Santo."
+            },
+            {
+                "id": "v13.12",
+                "versicle_number": 12,
+                "text": "E o irmão entregará à morte o irmão, e o pai o filho; e levantar-se-ão os filhos contra os pais, e os farão morrer."
+            },
+            {
+                "id": "v13.13",
+                "versicle_number": 13,
+                "text": "E sereis aborrecidos por todos por amor do meu nome; mas quem perseverar até ao fim esse será salvo."
+            },
+            {
+                "id": "v13.14",
+                "versicle_number": 14,
+                "text": "Ora, quando vós virdes a abominação do assolamento,{note:1} que foi predito, estar onde não deve estar (quem lê, entenda), então os que estiverem na Judeia fujam para os montes."
+            },
+            {
+                "id": "v13.15",
+                "versicle_number": 15,
+                "text": "E o que estiver sobre o telhado não desça para casa, nem entre a tomar coisa alguma de sua casa;"
+            },
+            {
+                "id": "v13.16",
+                "versicle_number": 16,
+                "text": "E o que estiver no campo não volte atrás, para tomar o seu vestido."
+            },
+            {
+                "id": "v13.17",
+                "versicle_number": 17,
+                "text": "Mas ai das grávidas, e das que criarem naqueles dias!"
+            },
+            {
+                "id": "v13.18",
+                "versicle_number": 18,
+                "text": "Orai pois, para que a vossa fugida não suceda no inverno;"
+            },
+            {
+                "id": "v13.19",
+                "versicle_number": 19,
+                "text": "Porque naqueles dias haverá uma aflição{note:2} tal, qual nunca houve desde o princípio da criação, que Deus criou, até agora, nem jamais haverá."
+            },
+            {
+                "id": "v13.20",
+                "versicle_number": 20,
+                "text": "E, se o Senhor não abreviasse aqueles dias, nenhuma carne se salvaria; mas, por causa dos escolhidos que escolheu, abreviou aqueles dias."
+            },
+            {
+                "id": "v13.21",
+                "versicle_number": 21,
+                "text": "E então, se alguém vos disser: Eis aqui o Cristo; ou: Ei-lo ali; não acrediteis."
+            },
+            {
+                "id": "v13.22",
+                "versicle_number": 22,
+                "text": "Porque se levantarão falsos cristos, e falsos profetas, e farão sinais e prodígios, para enganarem, se for possível, até os escolhidos."
+            },
+            {
+                "id": "v13.23",
+                "versicle_number": 23,
+                "text": "Mas vós vede; eis que d'antemão vos tenho dito tudo."
+            },
+            {
+                "id": "v13.24",
+                "versicle_number": 24,
+                "text": "Ora, naqueles dias, depois daquela aflição, o sol se escurecerá, e a lua não dará a sua luz."
+            },
+            {
+                "id": "v13.25",
+                "versicle_number": 25,
+                "text": "E as estrelas cairão do céu, e as forças que estão nos céus serão abaladas.{note:3}"
+            },
+            {
+                "id": "v13.26",
+                "versicle_number": 26,
+                "text": "E então verão vir o Filho do homem nas nuvens,{note:4} com grande poder e glória."
+            },
+            {
+                "id": "v13.27",
+                "versicle_number": 27,
+                "text": "E ele enviará os seus anjos, e ajuntará os seus escolhidos, desde os quatro ventos, da extremidade da terra até a extremidade do céu."
+            },
+            {
+                "id": "v13.28",
+                "versicle_number": 28,
+                "text": "Aprendei pois a parábola da figueira: Quando já o seu ramo se torna tenro, e brota folhas, bem sabeis que já está próximo o verão."
+            },
+            {
+                "id": "v13.29",
+                "versicle_number": 29,
+                "text": "Assim também vós, quando virdes sucederem estas coisas, sabei que já está perto, às portas."
+            },
+            {
+                "id": "v13.30",
+                "versicle_number": 30,
+                "text": "Na verdade vos digo que não passará esta geração, sem que todas estas coisas aconteçam."
+            },
+            {
+                "id": "v13.31",
+                "versicle_number": 31,
+                "text": "Passará o céu e a terra, mas as minhas palavras não passarão."
+            },
+            {
+                "id": "v13.32",
+                "versicle_number": 32,
+                "text": "Mas daquele dia e hora ninguém sabe, nem os anjos que estão no céu, nem o Filho, senão o Pai."
+            },
+            {
+                "id": "v13.33",
+                "versicle_number": 33,
+                "text": "Olhai, vigiai e orai; porque não sabeis quando chegará o tempo."
+            },
+            {
+                "id": "v13.34",
+                "versicle_number": 34,
+                "text": "É como se um homem, partindo para fora da terra, deixasse a sua casa, e desse autoridade aos seus servos, e a cada um a sua obra, e mandasse ao porteiro que vigiasse."
+            },
+            {
+                "id": "v13.35",
+                "versicle_number": 35,
+                "text": "Vigiai pois, porque não sabeis quando virá o senhor da casa; se à tarde, se à meia-noite, se ao cantar do galo, se pela manhã,"
+            },
+            {
+                "id": "v13.36",
+                "versicle_number": 36,
+                "text": "Para que, vindo de improviso, não vos ache dormindo."
+            },
+            {
+                "id": "v13.37",
+                "versicle_number": 37,
+                "text": "E as coisas que vos digo digo-as a todos: Vigiai.{note:5}"
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "",
+                "text": "O sermão profético continua: a grande tribulação"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "",
+                "text": "O sermão profético continua: A vinda do Filho do homem"
+            },
+            {
+                "id": "s3",
+                "next_versicle_id": "v13.32",
+                "text": "O sermão profético continua:A vigilância"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 13.14 Dn 9.27; 11.31; 12.11"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 13.19 Dn 12.1; Ap 7.14"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 13.24-25 Is 13.10; Ez 32.7; Jl 2.31; Ap 6.12-13"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 13.26 Dn 7.13; Ap 1.7"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 13.32-37 Lc 12.35-40"
+            }
+        ]
+    }
+}

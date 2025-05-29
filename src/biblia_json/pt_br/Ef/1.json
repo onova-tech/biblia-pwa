@@ -1,0 +1,169 @@
+{
+    "book": {
+        "id": "Ef",
+        "book_number": 49,
+        "new_testament": true,
+        "num_chapters": 6,
+        "book_name": "EFÉSIOS",
+        "book_full_name": "EPÍSTOLA DO APÓSTOLO PAULO AOS EFÉSIOS"
+    },
+    "chapter": {
+        "chapter_number": 1,
+        "chapter_reference": "",
+        "chapter_title": "Prefácio e saudação",
+        "versicles": [
+            {
+                "id": "v1.1",
+                "versicle_number": 1,
+                "text": "PAULO, apóstolo de Jesus Cristo, pela vontade de Deus, aos santos que estão em Éfeso,{note:1} e fiéis em Cristo Jesus."
+            },
+            {
+                "id": "v1.2",
+                "versicle_number": 2,
+                "text": "A vós graça, e paz da parte de Deus nosso Pai e da do Senhor Jesus Cristo."
+            },
+            {
+                "id": "v1.3",
+                "versicle_number": 3,
+                "text": "Bendito o Deus e Pai de nosso Senhor Jesus Cristo, o qual nos abençoou com todas as bênçãos espirituais nos lugares celestiais em Cristo;"
+            },
+            {
+                "id": "v1.4",
+                "versicle_number": 4,
+                "text": "Como também nos elegeu nele antes da fundação do mundo, para que fôssemos santos e irrepreensíveis diante dele em {note:a}caridade;"
+            },
+            {
+                "id": "v1.5",
+                "versicle_number": 5,
+                "text": "E nos predestinou para filhos de adoção por Jesus Cristo, para si mesmo, segundo o beneplácito de sua vontade,"
+            },
+            {
+                "id": "v1.6",
+                "versicle_number": 6,
+                "text": "Para louvor e glória da sua graça, pela qual nos fez agradáveis a si no Amado."
+            },
+            {
+                "id": "v1.7",
+                "versicle_number": 7,
+                "text": "Em quem temos a redenção{note:2} pelo seu sangue, a remissão das ofensas, segundo as riquezas da sua graça."
+            },
+            {
+                "id": "v1.8",
+                "versicle_number": 8,
+                "text": "Que Ele fez abundar para conosco em toda a sabedoria e prudência;"
+            },
+            {
+                "id": "v1.9",
+                "versicle_number": 9,
+                "text": "Descobrindo-nos o mistério da sua vontade, segundo o seu beneplácito, que propusera em si mesmo,"
+            },
+            {
+                "id": "v1.10",
+                "versicle_number": 10,
+                "text": "De tornar a congregar em Cristo todas as coisas, na dispensação da plenitude dos tempos, tanto as que estão nos céus como as que estão na terra;"
+            },
+            {
+                "id": "v1.11",
+                "versicle_number": 11,
+                "text": "Nele, digo, em quem também fomos feitos herança, havendo sido predestinados, conforme o propósito daquele que faz todas as coisas, segundo o conselho da sua vontade;"
+            },
+            {
+                "id": "v1.12",
+                "versicle_number": 12,
+                "text": "Com o fim de sermos para louvor da sua glória, nós, os que primeiro esperamos em Cristo;"
+            },
+            {
+                "id": "v1.13",
+                "versicle_number": 13,
+                "text": "Em quem também vós estais, depois que ouvistes a palavra da verdade, o evangelho da vossa salvação; e, tendo nele também crido, fostes selados com o Espírito Santo da promessa."
+            },
+            {
+                "id": "v1.14",
+                "versicle_number": 14,
+                "text": "O qual é o penhor da nossa herança, para redenção da possessão de Deus, para louvor da sua glória."
+            },
+            {
+                "id": "v1.15",
+                "versicle_number": 15,
+                "text": "Pelo que, ouvindo eu também a fé que entre vós há no Senhor Jesus, e a vossa {note:b}caridade para com todos os santos,"
+            },
+            {
+                "id": "v1.16",
+                "versicle_number": 16,
+                "text": "Não cesso de dar graças a Deus por vós lembrando-me de vós nas minhas orações;"
+            },
+            {
+                "id": "v1.17",
+                "versicle_number": 17,
+                "text": "Para que o Deus de nosso Senhor Jesus Cristo, o Pai da glória, vos dê em seu conhecimento o espírito de sabedoria e de revelação;"
+            },
+            {
+                "id": "v1.18",
+                "versicle_number": 18,
+                "text": "Tendo iluminados os olhos do vosso entendimento, para que saibais qual seja a esperança da sua vocação, e quais as riquezas da glória da sua herança nos santos;"
+            },
+            {
+                "id": "v1.19",
+                "versicle_number": 19,
+                "text": "E qual a sobre-excelente grandeza do seu poder sobre nós, os que cremos, segundo a operação da força do seu poder,"
+            },
+            {
+                "id": "v1.20",
+                "versicle_number": 20,
+                "text": "Que manifestou em Cristo, ressuscitando-o dos mortos, e pondo-o à sua direita{note:3} nos céus."
+            },
+            {
+                "id": "v1.21",
+                "versicle_number": 21,
+                "text": "Acima de todo o principado, e poder, e potestade, e domínio, e de todo o nome que se nomeia, não só neste século, mas também no vindouro;"
+            },
+            {
+                "id": "v1.22",
+                "versicle_number": 22,
+                "text": "E sujeitou todas as coisas a seus pés,{note:4} e sobre todas as coisas o constituiu como cabeça da igreja,"
+            },
+            {
+                "id": "v1.23",
+                "versicle_number": 23,
+                "text": "Que é o seu corpo, a plenitude daquele que cumpre tudo em todos.{note:5}"
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v1.3",
+                "text": "As bênçãos de Deus em Jesus Cristo, autor da nossa redenção e cabeça da igreja"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 1.1 At 18.19-21; 19.1"
+            },
+            {
+                "id": "n2",
+                "text": "{note:a} 1.4 ou amor"
+            },
+            {
+                "id": "n3",
+                "text": "{note:2} 1.7 Cl 1.14"
+            },
+            {
+                "id": "n4",
+                "text": "{note:b} 1.15 ou amor"
+            },
+            {
+                "id": "n5",
+                "text": "{note:3} 1.20 Sl 110.1"
+            },
+            {
+                "id": "n6",
+                "text": "{note:4} 1.22 Sl 8.6"
+            },
+            {
+                "id": "n7",
+                "text": "{note:5} 1.15-23 Cl 1.3-14"
+            }
+        ]
+    }
+}

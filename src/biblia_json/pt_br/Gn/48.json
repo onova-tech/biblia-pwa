@@ -1,0 +1,156 @@
+{
+    "book": {
+        "id": "Gn",
+        "book_number": 1,
+        "new_testament": false,
+        "num_chapters": 50,
+        "book_name": "GÊNESIS",
+        "book_full_name": "O PRIMEIRO LIVRO DE MOISÉS GÊNESIS"
+    },
+    "chapter": {
+        "chapter_number": 48,
+        "chapter_reference": "",
+        "chapter_title": "Jacó adoece",
+        "versicles": [
+            {
+                "id": "v48.1",
+                "versicle_number": 1,
+                "text": "E ACONTECEU depois destas cousas, que disseram a José: Eis que teu pai está enfermo. Então tomou consigo os seus dois filhos Manassés e Efraim."
+            },
+            {
+                "id": "v48.2",
+                "versicle_number": 2,
+                "text": "E um deu parte a Jacó, e disse: Eis que José teu filho vem a ti. E esforçou-se Israel, e assentou-se sobre a cama."
+            },
+            {
+                "id": "v48.3",
+                "versicle_number": 3,
+                "text": "E Jacó disse a José: O Deus Todo-poderoso me apareceu em Luz, na terra de Canaã, e me abençoou,"
+            },
+            {
+                "id": "v48.4",
+                "versicle_number": 4,
+                "text": "E me disse: Eis que te farei frutificar e multiplicar e te porei por multidão de povos, e darei esta terra à tua semente depois de ti, em possessão perpétua.{note:1}"
+            },
+            {
+                "id": "v48.5",
+                "versicle_number": 5,
+                "text": "Agora, pois, os teus dois filhos, que te nasceram na terra do Egito, antes que eu viesse a ti no Egito, são meus: Efraim e Manassés serão meus, como Rúben e Simeão;"
+            },
+            {
+                "id": "v48.6",
+                "versicle_number": 6,
+                "text": "Mas a tua geração, que gerarás depois deles, será tua; segundo o nome de seus irmãos serão chamados na sua herança."
+            },
+            {
+                "id": "v48.7",
+                "versicle_number": 7,
+                "text": "Vindo pois eu de Padã, me morreu Raquel{note:2} na terra de Canaã, no caminho, quando ainda ficava um pequeno espaço de terra para vir a Efrata; e eu a sepultei ali, no caminho de Efrata, que é Belém."
+            },
+            {
+                "id": "v48.8",
+                "versicle_number": 8,
+                "text": "E Israel viu os filhos de José, e disse: Quem são estes?"
+            },
+            {
+                "id": "v48.9",
+                "versicle_number": 9,
+                "text": "E José disse a seu pai: Eles são meus filhos, que Deus me tem dado aqui. E ele disse: Peço-te, traze-mos aqui, para que os abençoe."
+            },
+            {
+                "id": "v48.10",
+                "versicle_number": 10,
+                "text": "Os olhos porém, de Israel eram carregados de velhice, já não podia ver bem; e fê-los chegar a ele, e beijou-os, e abraçou-os."
+            },
+            {
+                "id": "v48.11",
+                "versicle_number": 11,
+                "text": "E Israel disse a José: Eu não cuidara ver o teu rosto; e eis que Deus me fez ver a tua semente também."
+            },
+            {
+                "id": "v48.12",
+                "versicle_number": 12,
+                "text": "Então José os tirou de seus joelhos, e inclinou-se à terra diante da sua face."
+            },
+            {
+                "id": "v48.13",
+                "versicle_number": 13,
+                "text": "E tomou José a ambos eles, a Efraim na sua mão direita à esquerda de Israel, e Manassés na sua mão esquerda à direita de Israel, e fê-los chegar a ele."
+            },
+            {
+                "id": "v48.14",
+                "versicle_number": 14,
+                "text": "Mas Israel estendeu a sua mão direita, e a pôs sobre a cabeça de Efraim, ainda que era o menor, e a sua esquerda sobre a cabeça de Manassés, dirigindo as suas mãos avisadamente, ainda que Manassés era o primogênito."
+            },
+            {
+                "id": "v48.15",
+                "versicle_number": 15,
+                "text": "E abençoou a José, e disse: O Deus, em cuja presença andaram os meus pais Abraão e Isaque, o Deus que me sustentou, desde que eu nasci até este dia;"
+            },
+            {
+                "id": "v48.16",
+                "versicle_number": 16,
+                "text": "O anjo que me {note:m}livrou de todo o mal, abençoe estes rapazes, e seja chamado neles o meu nome, e o nome de meus pais Abraão e Isaque, e multipliquem-se, como peixes em multidão, no meio da terra."
+            },
+            {
+                "id": "v48.17",
+                "versicle_number": 17,
+                "text": "Vendo pois José que seu pai punha a sua mão direita sobre a cabeça de Efraim, foi mau aos seus olhos; e tomou a mão de seu pai, para a transpor de sobre a cabeça de Efraim à cabeça de Manassés."
+            },
+            {
+                "id": "v48.18",
+                "versicle_number": 18,
+                "text": "E José disse a seu pai: Não assim, meu pai, porque este é o primogênito; põe a tua mão direita sobre a sua cabeça."
+            },
+            {
+                "id": "v48.19",
+                "versicle_number": 19,
+                "text": "Mas seu pai o recusou, e disse: Eu o sei, filho meu, eu o sei; também ele será um povo, e também ele será grande; contudo o seu irmão menor será maior que ele, e a sua semente será uma {note:n}multidão de nações."
+            },
+            {
+                "id": "v48.20",
+                "versicle_number": 20,
+                "text": "Assim os abençoou{note:3} naquele dia, dizendo: Em ti Israel abençoará, dizendo: Deus te ponha como a Efraim e como a Manassés. E pôs a Efraim diante de Manassés."
+            },
+            {
+                "id": "v48.21",
+                "versicle_number": 21,
+                "text": "Depois disse Israel a José: Eis que eu morro, mas Deus será convosco, e vos fará tornar à terra de vossos pais."
+            },
+            {
+                "id": "v48.22",
+                "versicle_number": 22,
+                "text": "E eu te tenho dado a ti um pedaço de terra mais que a teus irmãos, o qual tomei com a minha espada e com o meu arco da mão dos amorreus."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v48.11",
+                "text": "Jacó abençoa José e os filhos deste"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 48.3-4 Gn 28.13-14"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 48.7 Gn 35.16-19"
+            },
+            {
+                "id": "n3",
+                "text": "{note:m} 48.16 ou remiu"
+            },
+            {
+                "id": "n4",
+                "text": "{note:n} 48.19 Heb. plenitude"
+            },
+            {
+                "id": "n5",
+                "text": "{note:3} 48.20 Hb 11.21"
+            }
+        ]
+    }
+}

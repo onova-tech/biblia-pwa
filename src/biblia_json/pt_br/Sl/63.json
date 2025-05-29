@@ -1,0 +1,79 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 63,
+        "chapter_reference": "",
+        "chapter_title": "Davi anela pela presença de Deus",
+        "versicles": [
+            {
+                "id": "v63.1",
+                "versicle_number": 1,
+                "text": "Ó DEUS, tu és o meu Deus; de madrugada te buscarei: a minha alma tem sede de ti; a minha carne te deseja muito em uma terra seca e cansada, onde não há água;"
+            },
+            {
+                "id": "v63.2",
+                "versicle_number": 2,
+                "text": "Para ver a tua fortaleza e a tua glória, como te vi no santuário."
+            },
+            {
+                "id": "v63.3",
+                "versicle_number": 3,
+                "text": "Porque a tua benignidade é melhor do que a vida; os meus lábios te louvarão."
+            },
+            {
+                "id": "v63.4",
+                "versicle_number": 4,
+                "text": "Assim eu te bendirei enquanto viver: em teu nome levantarei as minhas mãos."
+            },
+            {
+                "id": "v63.5",
+                "versicle_number": 5,
+                "text": "A minha alma se fartará, como de tutano e de gordura; e a minha boca te louvará com alegres lábios."
+            },
+            {
+                "id": "v63.6",
+                "versicle_number": 6,
+                "text": "Quando me lembrar de ti na minha cama, e meditar em ti nas vigílias da noite."
+            },
+            {
+                "id": "v63.7",
+                "versicle_number": 7,
+                "text": "Porque tu tens sido o meu auxílio; jubiloso cantarei refugiado à sombra das tuas asas."
+            },
+            {
+                "id": "v63.8",
+                "versicle_number": 8,
+                "text": "A minha alma te segue de perto: a tua destra me sustenta."
+            },
+            {
+                "id": "v63.9",
+                "versicle_number": 9,
+                "text": "Mas aqueles que procuram a minha vida para a destruírem, irão para as profundezas da terra."
+            },
+            {
+                "id": "v63.10",
+                "versicle_number": 10,
+                "text": "Cairão à espada, serão uma ração para as raposas."
+            },
+            {
+                "id": "v63.11",
+                "versicle_number": 11,
+                "text": "Mas o rei se regozijará em Deus; qualquer que por ele jurar se gloriará; porque se taparão as bocas dos que falam a mentira."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 63, título 2Sm 15.23,28"
+            }
+        ]
+    }
+}

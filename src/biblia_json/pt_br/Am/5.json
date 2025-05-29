@@ -1,0 +1,171 @@
+{
+    "book": {
+        "id": "Am",
+        "book_number": 30,
+        "new_testament": false,
+        "num_chapters": 9,
+        "book_name": "AMÓS",
+        "book_full_name": "AMÓS"
+    },
+    "chapter": {
+        "chapter_number": 5,
+        "chapter_reference": "",
+        "chapter_title": "Predição da ruína de Israel",
+        "versicles": [
+            {
+                "id": "v5.1",
+                "versicle_number": 1,
+                "text": "OUVI esta palavra, que levanto como uma lamentação sobre vós, ó casa de Israel."
+            },
+            {
+                "id": "v5.2",
+                "versicle_number": 2,
+                "text": "A virgem de Israel caiu, nunca mais tornará a levantar-se: desamparada está na sua terra, não há quem a levante."
+            },
+            {
+                "id": "v5.3",
+                "versicle_number": 3,
+                "text": "Porque assim diz o Senhor JEOVÁ: A cidade da qual saem mil conservará cem, e aquela da qual saem cem conservará dez à casa de Israel."
+            },
+            {
+                "id": "v5.4",
+                "versicle_number": 4,
+                "text": "Porque assim diz o Senhor à casa de Israel: Buscai-me, e vivei."
+            },
+            {
+                "id": "v5.5",
+                "versicle_number": 5,
+                "text": "Mas não busqueis a Betel, nem venhais a Gilgal, nem passeis a Berseba, porque Gilgal certamente será levado cativo, e Betel será desfeito em nada."
+            },
+            {
+                "id": "v5.6",
+                "versicle_number": 6,
+                "text": "Buscai ao Senhor, e vivei, para que não se lance na casa de José como um fogo, e a consuma, e não haja em Betel quem o apague."
+            },
+            {
+                "id": "v5.7",
+                "versicle_number": 7,
+                "text": "Vós que converteis o juízo em alosna, e deitais por terra a justiça,"
+            },
+            {
+                "id": "v5.8",
+                "versicle_number": 8,
+                "text": "Procurai o que faz o sete-estrelo, e o órion,{note:1} e torna a sombra da noite em manhã, e escurece o dia como a noite; o que chama as águas do mar, e as derrama sobre a terra; o Senhor é o seu nome."
+            },
+            {
+                "id": "v5.9",
+                "versicle_number": 9,
+                "text": "O que faz vir súbita destruição sobre o forte, de sorte que vem a assolação contra a fortaleza."
+            },
+            {
+                "id": "v5.10",
+                "versicle_number": 10,
+                "text": "Aborrecem na porta ao que os repreende, e abominam o que fala sinceramente."
+            },
+            {
+                "id": "v5.11",
+                "versicle_number": 11,
+                "text": "Portanto, visto que pisais o pobre, e dele exigis um tributo de trigo, edificareis casas de pedras lavradas, mas nelas não habitareis; vinhas desejáveis plantareis, mas não bebereis do seu vinho."
+            },
+            {
+                "id": "v5.12",
+                "versicle_number": 12,
+                "text": "Porque sei que são muitas as vossas transgressões, e enormes os vossos pecados: afligis o justo, tomais {note:a}resgate, e rejeitais os necessitados na porta."
+            },
+            {
+                "id": "v5.13",
+                "versicle_number": 13,
+                "text": "Portanto, o que for prudente guardará silêncio naquele tempo, porque o tempo será mau."
+            },
+            {
+                "id": "v5.14",
+                "versicle_number": 14,
+                "text": "Buscai o bem, e não o mal, para que vivais: e assim o Senhor, o Deus dos Exércitos, estará convosco, como dizeis."
+            },
+            {
+                "id": "v5.15",
+                "versicle_number": 15,
+                "text": "Aborrecei o mal, e amai o bem, e estabelecei o juízo na porta: talvez o Senhor, o Deus dos Exércitos, tenha piedade do resto de José."
+            },
+            {
+                "id": "v5.16",
+                "versicle_number": 16,
+                "text": "Portanto, assim diz o Senhor Deus dos Exércitos, o Senhor: Em todas as ruas haverá pranto, e em todos os bairros dirão: Ai! ai! E ao lavrador chamarão para choro, e para pranto os que souberem prantear."
+            },
+            {
+                "id": "v5.17",
+                "versicle_number": 17,
+                "text": "E em todas as vinhas haverá pranto; porque passarei pelo meio de ti, diz o Senhor."
+            },
+            {
+                "id": "v5.18",
+                "versicle_number": 18,
+                "text": "Ai daqueles que desejam o dia do Senhor! para que quereis vós este dia do Senhor? trevas será e não luz."
+            },
+            {
+                "id": "v5.19",
+                "versicle_number": 19,
+                "text": "Como se um homem fugisse de diante do leão, e se encontrasse com ele o urso, ou como se, entrando numa casa, a sua mão encostasse à parede e fosse mordido duma cobra."
+            },
+            {
+                "id": "v5.20",
+                "versicle_number": 20,
+                "text": "Não será pois o dia do Senhor trevas e não luz? não será completa escuridade sem nenhum resplendor?"
+            },
+            {
+                "id": "v5.21",
+                "versicle_number": 21,
+                "text": "Aborreço, desprezo as vossas festas, e as vossas assembleias solenes não me dão nenhum prazer."
+            },
+            {
+                "id": "v5.22",
+                "versicle_number": 22,
+                "text": "E, ainda que me ofereçais holocaustos, e ofertas de manjares, não me agradarei delas: nem atentarei para as ofertas pacíficas de vossos animais gordos.{note:2}"
+            },
+            {
+                "id": "v5.23",
+                "versicle_number": 23,
+                "text": "Afasta de mim o estrépito dos teus cânticos; porque não ouvirei as melodias dos teus instrumentos."
+            },
+            {
+                "id": "v5.24",
+                "versicle_number": 24,
+                "text": "Corra porém o juízo como as águas, e a justiça como o ribeiro impetuoso."
+            },
+            {
+                "id": "v5.25",
+                "versicle_number": 25,
+                "text": "Oferecestes-me vós sacrifícios e oblações no deserto por quarenta anos, ó casa de Israel?"
+            },
+            {
+                "id": "v5.26",
+                "versicle_number": 26,
+                "text": "Antes levastes a tenda de vosso Moloque, e o altar das vossas imagens, a estrela do vosso deus, que fizestes para vós mesmos."
+            },
+            {
+                "id": "v5.27",
+                "versicle_number": 27,
+                "text": "Portanto vos levarei cativos, para além de Damasco, diz o Senhor, cujo nome é o Deus dos exércitos.{note:3}"
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 5.8 Jó 9.9; 38.31"
+            },
+            {
+                "id": "n2",
+                "text": "{note:a} 5.12 ou suborno"
+            },
+            {
+                "id": "n3",
+                "text": "{note:2} 5.21-22 Is 1.11-14"
+            },
+            {
+                "id": "n4",
+                "text": "{note:3} 5.25-27 At 7.42-43"
+            }
+        ]
+    }
+}

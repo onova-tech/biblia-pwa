@@ -1,0 +1,93 @@
+{
+    "book": {
+        "id": "2Sm",
+        "book_number": 10,
+        "new_testament": false,
+        "num_chapters": 24,
+        "book_name": "SAMUEL",
+        "book_full_name": "O SEGUNDO LIVRO DE SAMUEL"
+    },
+    "chapter": {
+        "chapter_number": 9,
+        "chapter_reference": "",
+        "chapter_title": "A bondade de Davi para com o filho de Jônatas",
+        "versicles": [
+            {
+                "id": "v9.1",
+                "versicle_number": 1,
+                "text": "E DISSE Davi: Há ainda alguém que ficasse da casa de Saul,{note:1} para que lhe faça bem por amor de Jônatas?"
+            },
+            {
+                "id": "v9.2",
+                "versicle_number": 2,
+                "text": "E havia um servo na casa de Saul cujo nome era Ziba: e o chamaram que viesse a Davi, e disse-lhe o rei: És tu Ziba? E ele disse: Servo teu."
+            },
+            {
+                "id": "v9.3",
+                "versicle_number": 3,
+                "text": "E disse o rei: Não há ainda algum da casa de Saul para que use com ele de beneficência de Deus? Então disse Ziba ao rei: Ainda há um filho de Jônatas,{note:2} aleijado de ambos os pés."
+            },
+            {
+                "id": "v9.4",
+                "versicle_number": 4,
+                "text": "E disse-lhe o rei: Onde está? E disse Ziba ao rei: Eis que está em casa de Maquir, filho de Amiel, em Lo-Debar."
+            },
+            {
+                "id": "v9.5",
+                "versicle_number": 5,
+                "text": "Então mandou o rei Davi, e o tomou da casa de Maquir, filho de Amiel, de Lo-Debar."
+            },
+            {
+                "id": "v9.6",
+                "versicle_number": 6,
+                "text": "E vindo Mefibosete, filho de Jônatas, o filho de Saul, a Davi, se prostrou com o rosto por terra e se inclinou; e disse Davi: Mefibosete! E ele disse: Eis aqui teu servo."
+            },
+            {
+                "id": "v9.7",
+                "versicle_number": 7,
+                "text": "E disse-lhe Davi: Não temas, porque decerto usarei contigo de beneficência por amor de Jônatas, teu pai, e te restituirei todas as terras de Saul, teu pai, e tu de contínuo comerás pão à minha mesa."
+            },
+            {
+                "id": "v9.8",
+                "versicle_number": 8,
+                "text": "Então se inclinou, e disse: Quem é teu servo, para tu teres olhado para um cão morto tal como eu?"
+            },
+            {
+                "id": "v9.9",
+                "versicle_number": 9,
+                "text": "Então chamou Davi a Ziba, moço de Saul, e disse-lhe: Tudo o que pertencia a Saul, e de toda a sua casa, tenho dado ao filho de teu senhor."
+            },
+            {
+                "id": "v9.10",
+                "versicle_number": 10,
+                "text": "Trabalhar-lhe-eis pois a terra, tu e teus filhos, e teus servos, e recolherás os frutos, para que o filho de teu senhor tenha pão que coma; e Mefibosete, filho de teu senhor, de contínuo comerá pão à minha mesa. E tinha Ziba quinze filhos e vinte servos."
+            },
+            {
+                "id": "v9.11",
+                "versicle_number": 11,
+                "text": "E disse Ziba ao rei: Conforme a tudo quanto meu senhor, o rei, manda a seu servo, assim fará teu servo; porém Mefibosete comerá à minha mesa como um dos filhos do rei."
+            },
+            {
+                "id": "v9.12",
+                "versicle_number": 12,
+                "text": "E tinha Mefibosete um filho pequeno, cujo nome era Mica: e todos quantos moravam em casa de Ziba eram servos de Mefibosete."
+            },
+            {
+                "id": "v9.13",
+                "versicle_number": 13,
+                "text": "Morava pois Mefibosete em Jerusalém, porquanto de contínuo comia à mesa do rei, e era coxo de ambos os pés."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 9.1 1Sm 20.15-17"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 9.3 2Sm 4.4"
+            }
+        ]
+    }
+}

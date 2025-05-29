@@ -1,0 +1,69 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 52,
+        "chapter_reference": "",
+        "chapter_title": "Davi prediz a ruína do ímpio, e confia em Deus",
+        "versicles": [
+            {
+                "id": "v52.1",
+                "versicle_number": 1,
+                "text": "PORQUE te glorias na malícia, ó homem poderoso? pois a bondade de Deus permanece continuamente."
+            },
+            {
+                "id": "v52.2",
+                "versicle_number": 2,
+                "text": "A tua língua intenta o mal, como uma navalha afiada, traçando enganos."
+            },
+            {
+                "id": "v52.3",
+                "versicle_number": 3,
+                "text": "Tu amas mais o mal do que o bem, e mais a mentira do que o falar conforme a retidão. (Selá.)"
+            },
+            {
+                "id": "v52.4",
+                "versicle_number": 4,
+                "text": "Amas todas as palavras devoradoras, ó língua fraudulenta."
+            },
+            {
+                "id": "v52.5",
+                "versicle_number": 5,
+                "text": "Também Deus te destruirá para sempre; arrebatar-te-á e arrancar-te-á da tua habitação; e desarraigar-te-á da terra dos viventes. (Selá.)"
+            },
+            {
+                "id": "v52.6",
+                "versicle_number": 6,
+                "text": "E os justos o verão, e temerão: e se rirão dele:"
+            },
+            {
+                "id": "v52.7",
+                "versicle_number": 7,
+                "text": "Eis aqui o homem que não pôs a Deus por sua fortaleza; antes confiou na abundância das suas riquezas, e se fortaleceu na sua maldade."
+            },
+            {
+                "id": "v52.8",
+                "versicle_number": 8,
+                "text": "Mas eu sou como a oliveira verde na casa de Deus; confio na misericórdia de Deus para sempre, eternamente."
+            },
+            {
+                "id": "v52.9",
+                "versicle_number": 9,
+                "text": "Para sempre te louvarei, porque tu isso fizeste, e esperarei no teu nome, porque é bom diante de teus santos."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 52, título 1Sm 22.9-10"
+            }
+        ]
+    }
+}

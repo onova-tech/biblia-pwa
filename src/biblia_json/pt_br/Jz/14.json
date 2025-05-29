@@ -1,0 +1,125 @@
+{
+    "book": {
+        "id": "Jz",
+        "book_number": 7,
+        "new_testament": false,
+        "num_chapters": 21,
+        "book_name": "JUÍZES",
+        "book_full_name": "O LIVRO DOS JUÍZES"
+    },
+    "chapter": {
+        "chapter_number": 14,
+        "chapter_reference": "",
+        "chapter_title": "O casamento de Sansão",
+        "versicles": [
+            {
+                "id": "v14.1",
+                "versicle_number": 1,
+                "text": "E DESCEU Sansão a Timnata: e, vendo em Timnata a uma mulher das filhas dos filisteus,"
+            },
+            {
+                "id": "v14.2",
+                "versicle_number": 2,
+                "text": "Subiu, e declarou-o a seu pai e a sua mãe, e disse: Vi uma mulher em Timnata, das filhas dos filisteus; agora pois, tomai-ma por mulher."
+            },
+            {
+                "id": "v14.3",
+                "versicle_number": 3,
+                "text": "Porém seu pai e sua mãe lhe disseram: Não há porventura mulher entre as filhas de teus irmãos, nem entre todo o meu povo, para que tu vás tomar mulher dos filisteus, daqueles incircuncisos? E disse Sansão a seu pai: Tomai-me esta, porque ela agrada aos meus olhos."
+            },
+            {
+                "id": "v14.4",
+                "versicle_number": 4,
+                "text": "Mas seu pai e sua mãe não sabiam que isto vinha do Senhor; pois buscava ocasião contra os filisteus: porquanto naquele tempo os filisteus dominavam sobre Israel."
+            },
+            {
+                "id": "v14.5",
+                "versicle_number": 5,
+                "text": "Desceu pois Sansão com seu pai e com sua mãe a Timnata: e, chegando às vinhas de Timnata, eis que um filho de leão, bramando, lhe saiu ao encontro."
+            },
+            {
+                "id": "v14.6",
+                "versicle_number": 6,
+                "text": "Então o espírito do Senhor se apossou dele tão possantemente que o fendeu de alto a baixo, como quem fende um cabrito, sem ter nada na sua mão: porém nem a seu pai nem a sua mãe deu a saber o que tinha feito."
+            },
+            {
+                "id": "v14.7",
+                "versicle_number": 7,
+                "text": "E desceu, e falou àquela mulher, e agradou aos olhos de Sansão."
+            },
+            {
+                "id": "v14.8",
+                "versicle_number": 8,
+                "text": "E depois de alguns dias voltou ele para a tomar: e, apartando-se do caminho a ver o corpo do leão morto, eis que no corpo do leão havia um enxame de abelhas com mel."
+            },
+            {
+                "id": "v14.9",
+                "versicle_number": 9,
+                "text": "E tomou-o nas suas mãos, e foi-se andando e comendo dele; e foi-se a seu pai e a sua mãe, e deu-lhes dele, e comeram, porém não lhes deu a saber que tomara o mel do corpo do leão."
+            },
+            {
+                "id": "v14.10",
+                "versicle_number": 10,
+                "text": "Descendo pois seu pai àquela mulher, fez Sansão ali um banquete: porque assim o costumavam fazer os mancebos."
+            },
+            {
+                "id": "v14.11",
+                "versicle_number": 11,
+                "text": "E sucedeu que, como o vissem, tomaram trinta companheiros para estarem com ele."
+            },
+            {
+                "id": "v14.12",
+                "versicle_number": 12,
+                "text": "Disse-lhes pois Sansão: Eu vos darei um enigma a adivinhar e, se nos sete dias das bodas mo declarardes e descobrirdes, vos darei trinta lençóis e trinta mudas de vestidos."
+            },
+            {
+                "id": "v14.13",
+                "versicle_number": 13,
+                "text": "E, se mo não puderdes declarar, vós me dareis a mim os trinta lençóis e as trinta mudas de vestidos. E eles lhe disseram: Dá-nos o teu enigma a adivinhar, para que o ouçamos."
+            },
+            {
+                "id": "v14.14",
+                "versicle_number": 14,
+                "text": "Então lhes disse: Do comedor saiu comida, e doçura saiu do forte. E em três dias não puderam declarar o enigma."
+            },
+            {
+                "id": "v14.15",
+                "versicle_number": 15,
+                "text": "E sucedeu que, ao sétimo dia, disseram à mulher de Sansão: Persuade a teu marido que nos declare o enigma para que porventura não queimemos a fogo a ti e à casa de teu pai: chamastes-nos vós aqui para possuir o que é nosso, não é assim?"
+            },
+            {
+                "id": "v14.16",
+                "versicle_number": 16,
+                "text": "E a mulher de Sansão chorou diante dele, e disse: Tão somente me aborreces, e não me amas; pois deste aos filhos do meu povo um enigma a adivinhar, e ainda mo não declaraste a mim. E ele lhe disse: Eis que nem a meu pai nem a minha mãe o declarei, e to declararia a ti?"
+            },
+            {
+                "id": "v14.17",
+                "versicle_number": 17,
+                "text": "E chorou diante dele os sete dias em que celebravam as bodas: sucedeu pois que ao sétimo dia lho declarou, porquanto o importunava; então ela declarou o enigma aos filhos do seu povo."
+            },
+            {
+                "id": "v14.18",
+                "versicle_number": 18,
+                "text": "Disseram-lhe pois os homens daquela cidade, ao sétimo dia, antes de se pôr o sol: Que cousa há mais doce do que o mel? e que cousa há mais forte do que o leão? E ele lhes disse: Se vós não lavrásseis com a minha novilha, nunca teríeis descoberto o meu enigma."
+            },
+            {
+                "id": "v14.19",
+                "versicle_number": 19,
+                "text": "Então o espírito do Senhor tão possantemente se apossou dele, que desceu aos ascalonitas, e matou deles trinta homens, e tomou os seus vestidos, e deu as mudas de vestidos aos que declararam o enigma: porém acendeu-se a sua ira, e subiu à casa de seu pai."
+            },
+            {
+                "id": "v14.20",
+                "versicle_number": 20,
+                "text": "E a mulher de Sansão foi dada ao seu companheiro, que o acompanhava."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v14.12",
+                "text": "O enigma de Sansão"
+            }
+        ],
+        "notes": []
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "book": {
+        "id": "Is",
+        "book_number": 23,
+        "new_testament": false,
+        "num_chapters": 66,
+        "book_name": "ISAÍAS",
+        "book_full_name": "ISAÍAS"
+    },
+    "chapter": {
+        "chapter_number": 28,
+        "chapter_reference": "",
+        "chapter_title": "O anúncio do castigo de Efraim e de Judá por causa da sua impenitência",
+        "versicles": [
+            {
+                "id": "v28.1",
+                "versicle_number": 1,
+                "text": "AI da coroa de soberba dos bêbados de Efraim, cujo glorioso ornamento é como a flor que cai, que está sobre a cabeça do fértil vale dos vencidos do vinho."
+            },
+            {
+                "id": "v28.2",
+                "versicle_number": 2,
+                "text": "Eis que o Senhor mandará um homem valente e poderoso; como uma queda de saraiva, uma tormenta de destruição, e como uma tempestade de impetuosas águas que trasbordam, violentamente a derribará por terra."
+            },
+            {
+                "id": "v28.3",
+                "versicle_number": 3,
+                "text": "A coroa de soberba dos bêbados de Efraim será pisada aos pés."
+            },
+            {
+                "id": "v28.4",
+                "versicle_number": 4,
+                "text": "E a flor caída do seu glorioso ornamento, que está sobre a cabeça do fértil vale, será como a bêbera antes do verão, que, vendo-a alguém, e tendo-a ainda na mão, a engole."
+            },
+            {
+                "id": "v28.5",
+                "versicle_number": 5,
+                "text": "Naquele dia o Senhor dos Exércitos será por coroa gloriosa, e por grinalda formosa, para os restantes de seu povo;"
+            },
+            {
+                "id": "v28.6",
+                "versicle_number": 6,
+                "text": "E por espírito de juízo, para o que se assenta a julgar, e por fortaleza para os que fazem recuar a peleja até à porta."
+            },
+            {
+                "id": "v28.7",
+                "versicle_number": 7,
+                "text": "Mas também estes erram por causa do vinho e com a bebida forte se desencaminham: até o sacerdote e o profeta {note:e}erram por causa da bebida forte; são absorvidos do vinho; desencaminham-se por causa da bebida forte; andam errados na visão, e tropeçam no juízo."
+            },
+            {
+                "id": "v28.8",
+                "versicle_number": 8,
+                "text": "Porque todas as suas mesas estão cheias de vômitos e de imundícia, não há nenhum lugar limpo."
+            },
+            {
+                "id": "v28.9",
+                "versicle_number": 9,
+                "text": "A quem pois se ensinaria a ciência? e a quem se daria a entender o que se ouviu? ao desmamado, e ao arrancado dos seios?"
+            },
+            {
+                "id": "v28.10",
+                "versicle_number": 10,
+                "text": "Porque é mandamento, sobre mandamento, mandamento sobre mandamento, regra sobre regra, regra sobre regra: um pouco aqui, um pouco ali."
+            },
+            {
+                "id": "v28.11",
+                "versicle_number": 11,
+                "text": "Pelo que por lábios estranhos e por outra língua, falará a este povo."
+            },
+            {
+                "id": "v28.12",
+                "versicle_number": 12,
+                "text": "Ao qual disse: Este é o descanso, dai descanso ao cansado; e este é o refrigério: mas não quiseram ouvir.{note:1}"
+            },
+            {
+                "id": "v28.13",
+                "versicle_number": 13,
+                "text": "Assim pois a palavra do Senhor lhes será mandamento sobre mandamento, mandamento sobre mandamento, regra sobre regra, regra sobre regra, um pouco aqui, um pouco ali; para que vão, e caiam para trás, e se quebrantem, e se enlacem, e sejam presos."
+            },
+            {
+                "id": "v28.14",
+                "versicle_number": 14,
+                "text": "Ouvi, pois, a palavra do Senhor, homens escarnecedores, que dominais este povo, que está em Jerusalém."
+            },
+            {
+                "id": "v28.15",
+                "versicle_number": 15,
+                "text": "Porquanto dizeis: Fizemos concerto com a morte, e com o {note:f}inferno fizemos aliança; quando passar o dilúvio do açoite, não chegará a nós, porque pusemos a mentira por nosso refúgio, e debaixo da falsidade nos escondemos."
+            },
+            {
+                "id": "v28.16",
+                "versicle_number": 16,
+                "text": "Portanto assim diz o Senhor Jeová: Eis que eu assentei{note:2} em Sião uma pedra, uma pedra já provada, pedra preciosa de esquina, que está bem firme e fundada: aquele que crer{note:3} não se apresse."
+            },
+            {
+                "id": "v28.17",
+                "versicle_number": 17,
+                "text": "E regrarei o juízo pela linha, e a justiça pelo prumo, e a saraiva varrerá o refúgio da mentira, e as águas cobrirão o esconderijo."
+            },
+            {
+                "id": "v28.18",
+                "versicle_number": 18,
+                "text": "E o vosso concerto com a morte se anulará; e a vossa aliança com o inferno não subsistirá; e, quando o dilúvio do açoite passar, então sereis oprimidos por ele."
+            },
+            {
+                "id": "v28.19",
+                "versicle_number": 19,
+                "text": "Desde que comece a passar, vos arrebatará, porque todas as manhãs passará, e todos os dias e todas as noites: e será que somente o ouvir tal notícia causará grande turbação."
+            },
+            {
+                "id": "v28.20",
+                "versicle_number": 20,
+                "text": "Porque a cama será tão curta que ninguém se poderá estender nela; e o cobertor tão estreito que ninguém se poderá cobrir com ele."
+            },
+            {
+                "id": "v28.21",
+                "versicle_number": 21,
+                "text": "Porque o Senhor se levantará como no monte de Perazim,{note:4} e se irará, como no vale de Gibeom,{note:5} para fazer a sua obra, a sua estranha obra, e para executar o seu ato, o seu estranho ato."
+            },
+            {
+                "id": "v28.22",
+                "versicle_number": 22,
+                "text": "Agora pois não mais escarneçais, para que vossas ligaduras se não façam mais fortes: porque já ao Senhor Jeová dos Exércitos ouvi falar duma {note:g}destruição, e essa já está determinada sobre toda a terra."
+            },
+            {
+                "id": "v28.23",
+                "versicle_number": 23,
+                "text": "Inclinai os ouvidos, e ouvi a minha voz: atendei bem, e ouvi o meu discurso."
+            },
+            {
+                "id": "v28.24",
+                "versicle_number": 24,
+                "text": "Porventura lavra todo o dia o lavrador, para semear? ou abre e esterroa todo o dia a sua terra?"
+            },
+            {
+                "id": "v28.25",
+                "versicle_number": 25,
+                "text": "Não é antes assim: quando já tem gradado a sua superfície, então espalha nela ervilhaca, e semeia cominhos: ou lança nela do melhor trigo, ou cevada escolhida, ou centeio, cada qual no seu lugar?"
+            },
+            {
+                "id": "v28.26",
+                "versicle_number": 26,
+                "text": "O seu Deus o ensina, e o instrui acerca do que há de fazer."
+            },
+            {
+                "id": "v28.27",
+                "versicle_number": 27,
+                "text": "Porque a ervilhaca não se trilha com instrumento de trilhar, nem sobre os cominhos passa roda de carro; mas com uma vara se sacode a ervilhaca, e os cominhos com um pau."
+            },
+            {
+                "id": "v28.28",
+                "versicle_number": 28,
+                "text": "O trigo é esmiuçado, mas não se trilha continuamente, nem se esmiúça com as rodas do seu carro, nem se quebra com os seus cavalos."
+            },
+            {
+                "id": "v28.29",
+                "versicle_number": 29,
+                "text": "Até isto procede do Senhor dos Exércitos; porque é maravilhoso em conselho e grande em obra."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:e} 28.7 ou cambaleiam"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 28.11-12 1Co 14.21"
+            },
+            {
+                "id": "n3",
+                "text": "{note:f} 28.15 Heb. Sheol"
+            },
+            {
+                "id": "n4",
+                "text": "{note:2} 28.16 Rm 9.33; 1Pe 2.6 {note:3} 28.16 Rm 10.11"
+            },
+            {
+                "id": "n5",
+                "text": "{note:4} 28.21 2Sm 5.20; 1Cr 14.11 {note:5} 28.21 Js 10.10-12"
+            },
+            {
+                "id": "n6",
+                "text": "{note:g} 28.22 ou consumação"
+            }
+        ]
+    }
+}

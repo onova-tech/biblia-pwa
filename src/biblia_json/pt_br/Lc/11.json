@@ -1,0 +1,348 @@
+{
+    "book": {
+        "id": "Lc",
+        "book_number": 42,
+        "new_testament": true,
+        "num_chapters": 24,
+        "book_name": "LUCAS",
+        "book_full_name": "O SANTO EVANGELHO SEGUNDO LUCAS"
+    },
+    "chapter": {
+        "chapter_number": 11,
+        "chapter_reference": "Mateus 6.9-15 e refs.",
+        "chapter_title": "A oração dominical",
+        "versicles": [
+            {
+                "id": "v11.1",
+                "versicle_number": 1,
+                "text": "E ACONTECEU que, estando ele a orar num certo lugar, quando acabou lhe disse um dos seus discípulos: Senhor, ensina-nos a orar, como também João ensinou aos seus discípulos."
+            },
+            {
+                "id": "v11.2",
+                "versicle_number": 2,
+                "text": "E ele lhes disse: Quando orardes, dizei: Pai, santificado seja o teu nome; venha o teu reino;"
+            },
+            {
+                "id": "v11.3",
+                "versicle_number": 3,
+                "text": "Dá-nos cada dia o nosso pão cotidiano;"
+            },
+            {
+                "id": "v11.4",
+                "versicle_number": 4,
+                "text": "E perdoa-nos os nossos pecados, pois também nós perdoamos a qualquer que nos deve; e não nos conduzas em tentação, mas livra-nos do mal."
+            },
+            {
+                "id": "v11.5",
+                "versicle_number": 5,
+                "text": "Disse-lhes também: Qual de vós terá um amigo, e, se for procurá-lo à meia-noite, e lhe disser: Amigo, empresta-me três pães,"
+            },
+            {
+                "id": "v11.6",
+                "versicle_number": 6,
+                "text": "Pois que um amigo meu chegou a minha casa, vindo de caminho, e não tenho que apresentar-lhe;"
+            },
+            {
+                "id": "v11.7",
+                "versicle_number": 7,
+                "text": "Se ele, respondendo de dentro, disser: Não me importunes; já está a porta fechada, e os meus filhos estão comigo na cama: não posso levantar-me para tos dar;"
+            },
+            {
+                "id": "v11.8",
+                "versicle_number": 8,
+                "text": "Digo-vos que, ainda que se não levante a dar-lhos, por ser seu amigo, levantar-se-á, todavia, por causa da sua importunação, e lhe dará tudo o que houver mister."
+            },
+            {
+                "id": "v11.9",
+                "versicle_number": 9,
+                "text": "E eu vos digo a vós: Pedi e dar-se-vos-á: buscai, e achareis: batei, e abrir-se-vos-á;"
+            },
+            {
+                "id": "v11.10",
+                "versicle_number": 10,
+                "text": "Porque qualquer que pede recebe; e quem busca acha; e a quem bate abrir-se-lhe-á."
+            },
+            {
+                "id": "v11.11",
+                "versicle_number": 11,
+                "text": "E qual o pai dentre vós que, se o filho lhe pedir pão, lhe dará uma pedra? Ou também, se lhe pedir peixe, lhe dará por peixe uma serpente?"
+            },
+            {
+                "id": "v11.12",
+                "versicle_number": 12,
+                "text": "Ou também, se lhe pedir um ovo, lhe dará um escorpião?"
+            },
+            {
+                "id": "v11.13",
+                "versicle_number": 13,
+                "text": "Pois se vós, sendo maus, sabeis dar boas dádivas aos vossos filhos, quanto mais dará o Pai celestial o Espírito Santo àqueles que lho pedirem?"
+            },
+            {
+                "id": "v11.14",
+                "versicle_number": 14,
+                "text": "E estava ele expulsando um demônio, o qual era mudo. E aconteceu que, saindo o demônio, o mudo falou; e maravilhou-se a multidão."
+            },
+            {
+                "id": "v11.15",
+                "versicle_number": 15,
+                "text": "Mas alguns deles diziam: Ele expulsa os demônios por Belzebu, príncipe dos demônios.{note:1}"
+            },
+            {
+                "id": "v11.16",
+                "versicle_number": 16,
+                "text": "E outros, tentando-o, pediam-lhe um sinal do céu."
+            },
+            {
+                "id": "v11.17",
+                "versicle_number": 17,
+                "text": "Mas, conhecendo ele os seus pensamentos, disse-lhes: Todo o reino, dividido contra si mesmo, será assolado; e a casa, dividida contra si mesma, cairá."
+            },
+            {
+                "id": "v11.18",
+                "versicle_number": 18,
+                "text": "E, se também Satanás está dividido contra si mesmo, como subsistirá o seu reino? Pois dizeis que eu expulso os demônios por Belzebu."
+            },
+            {
+                "id": "v11.19",
+                "versicle_number": 19,
+                "text": "E, se eu expulso os demônios por Belzebu, por quem os expulsam vossos filhos? Eles pois serão os vossos juízes."
+            },
+            {
+                "id": "v11.20",
+                "versicle_number": 20,
+                "text": "Mas, se eu expulso os demônios pelo dedo de Deus, certamente a vós é chegado o reino de Deus."
+            },
+            {
+                "id": "v11.21",
+                "versicle_number": 21,
+                "text": "Quando o valente guarda, armado, a sua casa, em segurança está tudo quanto tem;"
+            },
+            {
+                "id": "v11.22",
+                "versicle_number": 22,
+                "text": "Mas, sobrevindo outro mais valente do que ele, e vencendo-o, tira-lhe toda a sua armadura em que confiava, e reparte os seus despojos."
+            },
+            {
+                "id": "v11.23",
+                "versicle_number": 23,
+                "text": "Quem não é comigo{note:2} é contra mim; e quem comigo não ajunta espalha."
+            },
+            {
+                "id": "v11.24",
+                "versicle_number": 24,
+                "text": "Quando o espírito imundo tem saído do homem, anda por lugares secos, buscando repouso; e, não o achando, diz: Tornarei para minha casa, donde saí."
+            },
+            {
+                "id": "v11.25",
+                "versicle_number": 25,
+                "text": "E, chegando, acha-a varrida e adornada."
+            },
+            {
+                "id": "v11.26",
+                "versicle_number": 26,
+                "text": "Então vai, e leva consigo outros sete espíritos piores do que ele, e, entrando, habitam ali; e o último estado desse homem é pior do que o primeiro."
+            },
+            {
+                "id": "v11.27",
+                "versicle_number": 27,
+                "text": "E aconteceu que, dizendo ele estas coisas, uma mulher dentre a multidão, levantando a voz, lhe disse: Bem-aventurado o ventre que te trouxe e os peitos em que mamaste."
+            },
+            {
+                "id": "v11.28",
+                "versicle_number": 28,
+                "text": "Mas ele disse: Antes bem-aventurados os que ouvem a palavra de Deus e a guardam."
+            },
+            {
+                "id": "v11.29",
+                "versicle_number": 29,
+                "text": "E, ajuntando-se a multidão, começou a dizer: Maligna é esta geração; ela pede um sinal; e não lhe será dado outro sinal, senão o sinal do profeta Jonas;"
+            },
+            {
+                "id": "v11.30",
+                "versicle_number": 30,
+                "text": "Porquanto assim como Jonas foi sinal para os ninivitas,{note:3} assim o Filho do homem o será também para esta geração."
+            },
+            {
+                "id": "v11.31",
+                "versicle_number": 31,
+                "text": "A rainha do sul{note:4} se levantará no juízo com os homens desta geração, e os condenará; pois até dos confins da terra veio ouvir a sabedoria de Salomão; e eis aqui está quem é maior do que Salomão."
+            },
+            {
+                "id": "v11.32",
+                "versicle_number": 32,
+                "text": "Os homens de Nínive se levantarão no juízo com esta geração, e a condenarão; pois se converteram com pregação de Jonas;{note:5} e eis aqui está quem é maior do que Jonas."
+            },
+            {
+                "id": "v11.33",
+                "versicle_number": 33,
+                "text": "E ninguém, acendendo uma candeia,{note:6} a põe em oculto, nem debaixo do alqueire, mas no velador, para que os que entram vejam a luz."
+            },
+            {
+                "id": "v11.34",
+                "versicle_number": 34,
+                "text": "A candeia do corpo é o olho. Sendo pois o teu olho simples, também todo o teu corpo será luminoso; mas, se for mau, também o teu corpo será tenebroso."
+            },
+            {
+                "id": "v11.35",
+                "versicle_number": 35,
+                "text": "Vê pois que a luz que em ti há não sejam trevas."
+            },
+            {
+                "id": "v11.36",
+                "versicle_number": 36,
+                "text": "Se, pois, todo o teu corpo é luminoso, não tendo em trevas parte alguma, todo será luminoso, como quando a candeia te alumia com o seu resplendor."
+            },
+            {
+                "id": "v11.37",
+                "versicle_number": 37,
+                "text": "E, estando ele ainda falando, rogou-lhe um fariseu que fosse jantar com ele; e, entrando, assentou-se à mesa."
+            },
+            {
+                "id": "v11.38",
+                "versicle_number": 38,
+                "text": "Mas o fariseu admirou-se, vendo que se não lavara antes do jantar."
+            },
+            {
+                "id": "v11.39",
+                "versicle_number": 39,
+                "text": "E o Senhor lhe disse: Agora vós, os fariseus, limpais o exterior do copo e do prato; mas o vosso interior está cheio de rapina e maldade."
+            },
+            {
+                "id": "v11.40",
+                "versicle_number": 40,
+                "text": "Loucos! o que fez o exterior não fez também o interior?"
+            },
+            {
+                "id": "v11.41",
+                "versicle_number": 41,
+                "text": "Dai antes esmola do que tiverdes, e eis que tudo vos será limpo."
+            },
+            {
+                "id": "v11.42",
+                "versicle_number": 42,
+                "text": "Mas ai de vós, fariseus, que dizimais a hortelã, e a arruda, e toda a hortaliça,{note:7} e desprezais o juízo e o amor de Deus. Importava fazer estas coisas, e não deixar as outras."
+            },
+            {
+                "id": "v11.43",
+                "versicle_number": 43,
+                "text": "Ai de vós, fariseus, que amais os primeiros assentos nas sinagogas, e as saudações nas praças."
+            },
+            {
+                "id": "v11.44",
+                "versicle_number": 44,
+                "text": "Ai de vós, escribas e fariseus hipócritas, que sois como as sepulturas que não aparecem, e os homens que sobre elas andam não o sabem."
+            },
+            {
+                "id": "v11.45",
+                "versicle_number": 45,
+                "text": "E, respondendo um dos doutores da lei, disse-lhe: Mestre, quando dizes isso também nos afrontas a nós."
+            },
+            {
+                "id": "v11.46",
+                "versicle_number": 46,
+                "text": "E ele lhe disse: Ai de vós também, doutores da lei, que carregais os homens com cargas difíceis de transportar, e vós mesmos nem ainda com um dos vossos dedos tocais essas cargas."
+            },
+            {
+                "id": "v11.47",
+                "versicle_number": 47,
+                "text": "Ai de vós que edificais os sepulcros dos profetas, e vossos pais os mataram."
+            },
+            {
+                "id": "v11.48",
+                "versicle_number": 48,
+                "text": "Bem testificais, pois, que consentis nas obras de vossos pais; porque eles os mataram, e vós edificais os seus sepulcros."
+            },
+            {
+                "id": "v11.49",
+                "versicle_number": 49,
+                "text": "Por isso diz também a sabedoria de Deus: Profetas e apóstolos lhes mandarei; e eles matarão uns, e perseguirão outros;"
+            },
+            {
+                "id": "v11.50",
+                "versicle_number": 50,
+                "text": "Para que desta geração seja requerido o sangue de todos os profetas que, desde a fundação do mundo, foi derramado;"
+            },
+            {
+                "id": "v11.51",
+                "versicle_number": 51,
+                "text": "Desde o sangue de Abel,{note:8} até ao sangue de Zacarias,{note:9} que foi morto entre o altar e o templo; assim, vos digo, será requerido desta geração."
+            },
+            {
+                "id": "v11.52",
+                "versicle_number": 52,
+                "text": "Ai de vós, doutores da lei, que tirastes a chave da ciência; vós mesmos não entrastes, e impedistes os que entravam."
+            },
+            {
+                "id": "v11.53",
+                "versicle_number": 53,
+                "text": "E, dizendo-lhes ele isto, começaram os escribas e os fariseus a apertá-lo fortemente, e a fazê-lo falar acerca de muitas coisas."
+            },
+            {
+                "id": "v11.54",
+                "versicle_number": 54,
+                "text": "Armando-lhe ciladas, a fim de apanharem da sua boca alguma coisa para o acusarem."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v11.5",
+                "text": "Parábola do amigo importuno"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "",
+                "text": "A blasfêmia dos fariseus"
+            },
+            {
+                "id": "s3",
+                "next_versicle_id": "",
+                "text": "O sinal do profeta Jonas"
+            },
+            {
+                "id": "s4",
+                "next_versicle_id": "v11.33",
+                "text": "A candeia do corpo"
+            },
+            {
+                "id": "s5",
+                "next_versicle_id": "",
+                "text": "Jesus censura os fariseus e os escribas"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 11.14-15 Mt 9.32-34; 10.25"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 11.23 Mc 9.40"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 11.30 Jn 3.4"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 11.31 1Rs 10.1-10; 2Cr 9.1-12"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 11.32 Jn 3.5"
+            },
+            {
+                "id": "n6",
+                "text": "{note:6} 11.33 Mt 5.15; Mc 4.21; Lc 8.16"
+            },
+            {
+                "id": "n7",
+                "text": "{note:7} 11.42 Lv 27.30"
+            },
+            {
+                "id": "n8",
+                "text": "{note:8} 11.51 Gn 4.8 {note:9} 11.51 2Cr 24.20-21"
+            }
+        ]
+    }
+}

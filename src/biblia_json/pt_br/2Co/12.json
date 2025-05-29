@@ -1,0 +1,140 @@
+{
+    "book": {
+        "id": "2Co",
+        "book_number": 47,
+        "new_testament": true,
+        "num_chapters": 13,
+        "book_name": "CORÍNTIOS",
+        "book_full_name": "SEGUNDA EPÍSTOLA DO APÓSTOLO PAULO AOS CORÍNTIOS"
+    },
+    "chapter": {
+        "chapter_number": 12,
+        "chapter_reference": "",
+        "chapter_title": "A visão celestial: o espinho na carne",
+        "versicles": [
+            {
+                "id": "v12.1",
+                "versicle_number": 1,
+                "text": "EM verdade que não convém gloriar-me; mas passarei às visões e revelações do Senhor."
+            },
+            {
+                "id": "v12.2",
+                "versicle_number": 2,
+                "text": "Conheço um homem em Cristo que há quatorze anos (se no corpo não sei, se fora do corpo não sei: Deus o sabe) foi arrebatado até ao terceiro céu."
+            },
+            {
+                "id": "v12.3",
+                "versicle_number": 3,
+                "text": "E sei que o tal homem (se no corpo, se fora do corpo, não sei; Deus o sabe)."
+            },
+            {
+                "id": "v12.4",
+                "versicle_number": 4,
+                "text": "Foi arrebatado ao paraíso; e ouviu palavras inefáveis, de que ao homem não é lícito falar."
+            },
+            {
+                "id": "v12.5",
+                "versicle_number": 5,
+                "text": "De um assim me gloriarei eu, mas de mim mesmo não me gloriarei, senão nas minhas fraquezas."
+            },
+            {
+                "id": "v12.6",
+                "versicle_number": 6,
+                "text": "Porque, se quiser gloriar-me, não serei néscio, porque direi a verdade; mas deixo isto, para que ninguém cuide de mim mais do que em mim vê ou de mim ouve."
+            },
+            {
+                "id": "v12.7",
+                "versicle_number": 7,
+                "text": "E, para que me não exaltasse pelas excelências das revelações, foi-me dado um espinho na carne, a saber, um {note:e}mensageiro de Satanás para me esbofetear, a fim de me não exaltar."
+            },
+            {
+                "id": "v12.8",
+                "versicle_number": 8,
+                "text": "Acerca do qual três vezes orei ao Senhor para que se desviasse de mim."
+            },
+            {
+                "id": "v12.9",
+                "versicle_number": 9,
+                "text": "E disse-me: A minha graça te basta, porque o meu poder se aperfeiçoa na fraqueza. De boa vontade pois me gloriarei nas minhas fraquezas, para que em mim habite o poder de Cristo."
+            },
+            {
+                "id": "v12.10",
+                "versicle_number": 10,
+                "text": "Pelo que sinto prazer nas fraquezas, nas injúrias, nas necessidades, nas perseguições, nas angústias por amor de Cristo. Porque quando estou fraco então sou forte."
+            },
+            {
+                "id": "v12.11",
+                "versicle_number": 11,
+                "text": "Fui néscio em gloriar-me: vós me constrangestes; porque eu devia ser louvado por vós, visto que em nada fui inferior aos mais excelentes apóstolos; ainda que nada sou."
+            },
+            {
+                "id": "v12.12",
+                "versicle_number": 12,
+                "text": "Os sinais do meu apostolado foram manifestados entre vós com toda a paciência, por sinais, prodígios e maravilhas."
+            },
+            {
+                "id": "v12.13",
+                "versicle_number": 13,
+                "text": "Porque, em que tendes vós sido inferiores às outras igrejas, a não ser que eu mesmo vos não fui pesado? Perdoai-me este agravo."
+            },
+            {
+                "id": "v12.14",
+                "versicle_number": 14,
+                "text": "Eis aqui estou pronto para pela terceira vez ir ter convosco, e não vos serei pesado, pois que não busco o que é vosso, mas sim a vós; porque não devem os filhos entesourar para os pais mas os pais para os filhos."
+            },
+            {
+                "id": "v12.15",
+                "versicle_number": 15,
+                "text": "Eu de muito boa vontade gastarei, e me deixarei gastar pelas vossas almas, ainda que, amando-vos cada vez mais, seja menos amado."
+            },
+            {
+                "id": "v12.16",
+                "versicle_number": 16,
+                "text": "Mas seja assim; eu não vos fui pesado, mas, sendo astuto, vos tomei com dolo."
+            },
+            {
+                "id": "v12.17",
+                "versicle_number": 17,
+                "text": "Porventura aproveitei-me de vós por algum daqueles que vos enviei?"
+            },
+            {
+                "id": "v12.18",
+                "versicle_number": 18,
+                "text": "Roguei a Tito, e enviei com ele um irmão. Porventura Tito se aproveitou de vós? Não andamos porventura no mesmo espírito, sobre as mesmas pisadas?"
+            },
+            {
+                "id": "v12.19",
+                "versicle_number": 19,
+                "text": "Cuidais que ainda nos desculpamos convosco? Falamos em Cristo perante Deus, e tudo isto, ó amados, para vossa edificação."
+            },
+            {
+                "id": "v12.20",
+                "versicle_number": 20,
+                "text": "Porque receio que, quando chegar, vos não ache como eu quereria, e eu seja achado de vós como não quereríeis: que de alguma maneira haja pendências, invejas, iras, porfias, detrações, mexericos, orgulhos, tumultos;"
+            },
+            {
+                "id": "v12.21",
+                "versicle_number": 21,
+                "text": "Que, quando for outra vez, o meu Deus me humilhe para convosco, e chore por muitos daqueles que dantes pecaram, e não se arrependeram da imundícia, e prostituição, e desonestidade que cometeram."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v12.11",
+                "text": "O desinteresse de Paulo"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v12.19",
+                "text": "Os últimos avisos aos coríntios: saudações"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:e} 12.7 ou anjo"
+            }
+        ]
+    }
+}

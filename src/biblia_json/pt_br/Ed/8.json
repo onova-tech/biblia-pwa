@@ -1,0 +1,199 @@
+{
+    "book": {
+        "id": "Ed",
+        "book_number": 15,
+        "new_testament": false,
+        "num_chapters": 10,
+        "book_name": "ESDRAS",
+        "book_full_name": "O LIVRO DE ESDRAS"
+    },
+    "chapter": {
+        "chapter_number": 8,
+        "chapter_reference": "",
+        "chapter_title": "A lista dos que voltaram de Babilônia com Esdras",
+        "versicles": [
+            {
+                "id": "v8.1",
+                "versicle_number": 1,
+                "text": "ESTES pois são os chefes de seus pais, com as suas genealogias, os que subiram comigo de Babilônia no reinado do rei Artaxerxes:"
+            },
+            {
+                "id": "v8.2",
+                "versicle_number": 2,
+                "text": "Dos filhos de Fineias, Gérson; dos filhos de Itamar, Daniel; dos filhos de Davi, Hatus;"
+            },
+            {
+                "id": "v8.3",
+                "versicle_number": 3,
+                "text": "Dos filhos de Secanias, e dos filhos de Parós, Zacarias, e com ele por genealogias se contaram até cento e cinquenta homens;"
+            },
+            {
+                "id": "v8.4",
+                "versicle_number": 4,
+                "text": "Dos filhos de Paate-Moabe, Elioenai, filho de Zeraquias, e com ele duzentos homens;"
+            },
+            {
+                "id": "v8.5",
+                "versicle_number": 5,
+                "text": "Dos filhos de Secanias, o filho de Jeaziel, e com ele trezentos homens;"
+            },
+            {
+                "id": "v8.6",
+                "versicle_number": 6,
+                "text": "E dos filhos de Adim, Ebede, filho de Jônatas, e com ele cinquenta homens;"
+            },
+            {
+                "id": "v8.7",
+                "versicle_number": 7,
+                "text": "E dos filhos de Elão, Jesaías, filho de Atalias, e com ele setenta homens;"
+            },
+            {
+                "id": "v8.8",
+                "versicle_number": 8,
+                "text": "E dos filhos de Sefatias, Zebadias, filho de Micael, e com ele oitenta homens;"
+            },
+            {
+                "id": "v8.9",
+                "versicle_number": 9,
+                "text": "Dos filhos de Joabe, Obadias, filho de Jeiel, e com ele duzentos e dezoito homens;"
+            },
+            {
+                "id": "v8.10",
+                "versicle_number": 10,
+                "text": "E dos filhos de Selomite, o filho de Josifias, e com ele cento e sessenta homens;"
+            },
+            {
+                "id": "v8.11",
+                "versicle_number": 11,
+                "text": "E dos filhos de Bebai, Zacarias, o filho de Bebai, e com ele vinte e oito homens;"
+            },
+            {
+                "id": "v8.12",
+                "versicle_number": 12,
+                "text": "E dos filhos de Azgade, Joanã, o filho de Catã, e com ele cento e dez homens;"
+            },
+            {
+                "id": "v8.13",
+                "versicle_number": 13,
+                "text": "E dos últimos filhos de Adonicão, cujos nomes eram estes: Elifelete, Jeiel e Semaías, e com eles sessenta homens;"
+            },
+            {
+                "id": "v8.14",
+                "versicle_number": 14,
+                "text": "E dos filhos de Bigvai, Utai e Zabude, e com eles setenta homens;"
+            },
+            {
+                "id": "v8.15",
+                "versicle_number": 15,
+                "text": "E ajuntei-os perto do rio que vai a Aava, e ficamos ali acampados três dias; então atentei para o povo e para os sacerdotes, e não achei ali nenhum dos filhos de Levi."
+            },
+            {
+                "id": "v8.16",
+                "versicle_number": 16,
+                "text": "Enviei, pois, Eliézer, Ariel, Semaías, e Elnatã, e Jaribe, e Elnatã, e Netano e Zacarias, e Mesulão, os chefes, como também a Joiaribe, e a Elnatã, que eram sábios."
+            },
+            {
+                "id": "v8.17",
+                "versicle_number": 17,
+                "text": "E dei-lhes mandado para Ido, chefe no lugar de Casifia, e lhes pus palavras na boca para dizerem a Ido, seu irmão, e aos netineus, no lugar de Casifia, que nos trouxessem ministros para a casa do nosso Deus."
+            },
+            {
+                "id": "v8.18",
+                "versicle_number": 18,
+                "text": "E trouxeram-nos, segundo a boa mão de Deus sobre nós, um homem entendido, dos filhos de Macli, filho de Levi, filho de Israel, a saber: Serebias, com os seus filhos e irmãos, dezoito;"
+            },
+            {
+                "id": "v8.19",
+                "versicle_number": 19,
+                "text": "E a Hasabias, e com ele Jesaías, dos filhos de Merari, com seus irmãos e os filhos deles, vinte;"
+            },
+            {
+                "id": "v8.20",
+                "versicle_number": 20,
+                "text": "E dos netineus que Davi e os príncipes deram para o ministério dos levitas, duzentos e vinte netineus, que todos foram expressos por seus nomes."
+            },
+            {
+                "id": "v8.21",
+                "versicle_number": 21,
+                "text": "Então apregoei ali um jejum junto ao rio Aava, para nos humilharmos diante da face de nosso Deus para lhe pedirmos caminho direito para nós, e para nossos filhos, e para toda a nossa fazenda."
+            },
+            {
+                "id": "v8.22",
+                "versicle_number": 22,
+                "text": "Porque me envergonhei de pedir ao rei exército e cavaleiros para nos defenderem do inimigo no caminho, porquanto tínhamos falado ao rei, dizendo: A mão do nosso Deus é sobre todos os que o buscam para o bem, mas a sua força e a sua ira sobre todos os que o deixam."
+            },
+            {
+                "id": "v8.23",
+                "versicle_number": 23,
+                "text": "Nós, pois, jejuamos, e pedimos isto ao nosso Deus, e moveu-se pelas nossas orações."
+            },
+            {
+                "id": "v8.24",
+                "versicle_number": 24,
+                "text": "Então separei doze dos maiorais dos sacerdotes: Serebias, Hasabias, e com eles dez dos seus irmãos;"
+            },
+            {
+                "id": "v8.25",
+                "versicle_number": 25,
+                "text": "E pesei-lhes a prata, e o ouro, e os vasos, que era a oferta para a casa de nosso Deus, a qual ofereceram o rei e os seus conselheiros, e os seus príncipes, e todo o Israel que ali se achou."
+            },
+            {
+                "id": "v8.26",
+                "versicle_number": 26,
+                "text": "E pesei em suas mãos seiscentos e cinquenta talentos de prata, e em vasos de prata cem talentos, e cem talentos de ouro."
+            },
+            {
+                "id": "v8.27",
+                "versicle_number": 27,
+                "text": "E vinte taças de ouro, de mil dracmas, e dois vasos de bom metal lustroso, tão desejável como ouro."
+            },
+            {
+                "id": "v8.28",
+                "versicle_number": 28,
+                "text": "E disse-lhes: Consagrados sois do Senhor, e sagrados são estes vasos, como também esta prata e este ouro, oferta voluntária, oferecida ao Senhor Deus de vossos pais;"
+            },
+            {
+                "id": "v8.29",
+                "versicle_number": 29,
+                "text": "Vigiai, pois, e guardai-os até que os peseis na presença dos maiorais dos sacerdotes e dos levitas, e dos príncipes dos pais de Israel, em Jerusalém, nas câmaras da casa de Deus."
+            },
+            {
+                "id": "v8.30",
+                "versicle_number": 30,
+                "text": "Então receberam os sacerdotes e os levitas o peso da prata, e do ouro, e dos vasos, para trazerem a Jerusalém, à casa de nosso Deus."
+            },
+            {
+                "id": "v8.31",
+                "versicle_number": 31,
+                "text": "E partimos do rio de Aava, no dia doze do primeiro mês, para irmos para Jerusalém: e a mão do nosso Deus estava sobre nós e livrou-nos da mão dos inimigos, e dos que nos armavam ciladas no caminho."
+            },
+            {
+                "id": "v8.32",
+                "versicle_number": 32,
+                "text": "E viemos a Jerusalém, e repousamos ali três dias."
+            },
+            {
+                "id": "v8.33",
+                "versicle_number": 33,
+                "text": "E no dia quatro se pesou a prata, e o ouro, e os vasos, na casa do nosso Deus, por mão de Meremote, filho do sacerdote Urias; e com ele estava Eleazar, filho de Fineias, e e com eles Jozabade, filho de Jesua, e Noadias, filho de Binuí, levitas;"
+            },
+            {
+                "id": "v8.34",
+                "versicle_number": 34,
+                "text": "Conforme ao número e conforme ao peso de tudo aquilo; e todo o peso se descreveu no mesmo tempo."
+            },
+            {
+                "id": "v8.35",
+                "versicle_number": 35,
+                "text": "E os transportados, que vieram do cativeiro, ofereceram holocaustos ao Deus de Israel: doze novilhos por todo o Israel, noventa e seis carneiros, setenta e sete cordeiros, e doze bodes em sacrifício pelo pecado; tudo em holocausto ao Senhor."
+            },
+            {
+                "id": "v8.36",
+                "versicle_number": 36,
+                "text": "Então deram as ordens do rei aos sátrapas do rei, e aos governadores de aquém do rio; e ajudaram o povo e a casa de Deus."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

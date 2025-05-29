@@ -1,0 +1,114 @@
+{
+    "book": {
+        "id": "2Sm",
+        "book_number": 10,
+        "new_testament": false,
+        "num_chapters": 24,
+        "book_name": "SAMUEL",
+        "book_full_name": "O SEGUNDO LIVRO DE SAMUEL"
+    },
+    "chapter": {
+        "chapter_number": 10,
+        "chapter_reference": "",
+        "chapter_title": "Davi derrota os amonitas e os siros",
+        "versicles": [
+            {
+                "id": "v10.1",
+                "versicle_number": 1,
+                "text": "E ACONTECEU depois disto que morreu o rei dos filhos de Amom, e seu filho Hanum reinou em seu lugar."
+            },
+            {
+                "id": "v10.2",
+                "versicle_number": 2,
+                "text": "Então disse Davi: Usarei de beneficência com Hanum, filho de Naás, como seu pai usou de beneficência comigo. E enviou Davi a consolá-lo, pelo ministério de seus servos, acerca de seu pai: e vieram os servos de Davi à terra dos filhos de Amom."
+            },
+            {
+                "id": "v10.3",
+                "versicle_number": 3,
+                "text": "Então disseram os príncipes dos filhos de Amom a seu senhor, Hanum: Porventura honra Davi a teu pai aos teus olhos, porque te enviou consoladores? porventura não te enviou Davi os seus servos para reconhecerem esta cidade, e para espiá-la, e para transtorná-la?"
+            },
+            {
+                "id": "v10.4",
+                "versicle_number": 4,
+                "text": "Então tomou Hanum os servos de Davi, e lhes raspou metade da barba, e lhes cortou metade dos vestidos, até às nádegas, e os despediu."
+            },
+            {
+                "id": "v10.5",
+                "versicle_number": 5,
+                "text": "O que fazendo saber a Davi enviou a encontrá-los; porque estavam estes homens sobremaneira envergonhados; e disse o rei: Deixai-vos estar em Jericó, até que vos torne a crescer a barba; e então vinde."
+            },
+            {
+                "id": "v10.6",
+                "versicle_number": 6,
+                "text": "Vendo pois os filhos de Amom, que se tinham feito abomináveis para Davi, enviaram os filhos de Amom, e alugaram dos siros de Bete-Recobe e dos siros de Zobá vinte mil homens de pé, e do rei de Maaca mil homens e dos homens de Tobe doze mil homens."
+            },
+            {
+                "id": "v10.7",
+                "versicle_number": 7,
+                "text": "O que ouvindo Davi, enviou a Joabe e a todo o exército dos valentes."
+            },
+            {
+                "id": "v10.8",
+                "versicle_number": 8,
+                "text": "E saíram os filhos de Amom, e ordenaram a batalha à entrada da porta: mas os siros de Zobá e Recobe e os homens de Tobe e Maaca estavam à parte no campo."
+            },
+            {
+                "id": "v10.9",
+                "versicle_number": 9,
+                "text": "Vendo pois Joabe que estava preparada contra ele a frente da batalha, por diante e por detrás escolheu dentre todos os escolhidos de Israel, e formou-os em linha contra os siros."
+            },
+            {
+                "id": "v10.10",
+                "versicle_number": 10,
+                "text": "E o resto do povo entregou na mão de Abisai seu irmão, o qual formou em linha contra os filhos de Amom."
+            },
+            {
+                "id": "v10.11",
+                "versicle_number": 11,
+                "text": "E disse: Se os siros forem mais fortes do que eu, tu me virás em socorro; e se os filhos de Amom forem mais fortes que tu, irei a socorrer-te a ti."
+            },
+            {
+                "id": "v10.12",
+                "versicle_number": 12,
+                "text": "Esforça-te, pois, e esforcemo-nos pelo nosso povo, e pelas cidades de nosso Deus: e faça o Senhor então o que bem parecer aos seus olhos."
+            },
+            {
+                "id": "v10.13",
+                "versicle_number": 13,
+                "text": "Então se achegou Joabe, e o povo que estava com ele, à peleja contra os siros; e fugiram de diante dele."
+            },
+            {
+                "id": "v10.14",
+                "versicle_number": 14,
+                "text": "E, vendo os filhos de Amom que os siros fugiam, também eles fugiram de diante de Abisai e entraram na cidade: e voltou Joabe dos filhos de Amom e veio para Jerusalém."
+            },
+            {
+                "id": "v10.15",
+                "versicle_number": 15,
+                "text": "Vendo pois os siros que tinham sido feridos diante de Israel tornaram a refazer-se."
+            },
+            {
+                "id": "v10.16",
+                "versicle_number": 16,
+                "text": "E enviou Hadadezer e fez sair os siros que estavam da outra banda do rio, e vieram a Helão: e Sobaque, chefe do exército de Hadadezer, marchava diante deles."
+            },
+            {
+                "id": "v10.17",
+                "versicle_number": 17,
+                "text": "Do que informado Davi, ajuntou a todo Israel, e passou o Jordão, e veio a Helã: e os siros se puseram em ordem contra Davi, e pelejaram com ele."
+            },
+            {
+                "id": "v10.18",
+                "versicle_number": 18,
+                "text": "Porém os siros fugiram de diante de Israel, e Davi feriu dentre os siros aos homens de setecentos carros e quarenta mil homens de cavalo: também ao mesmo Sobaque, general do exército, feriu, e morreu ali."
+            },
+            {
+                "id": "v10.19",
+                "versicle_number": 19,
+                "text": "Vendo pois todos os reis, servos de Hadadezer, que haviam ficado mal diante de Israel, fizeram paz com Israel, e o serviram: e temeram os siros de socorrer mais aos filhos de Amom."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

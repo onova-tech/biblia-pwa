@@ -1,0 +1,142 @@
+{
+    "book": {
+        "id": "Gn",
+        "book_number": 1,
+        "new_testament": false,
+        "num_chapters": 50,
+        "book_name": "GÊNESIS",
+        "book_full_name": "O PRIMEIRO LIVRO DE MOISÉS GÊNESIS"
+    },
+    "chapter": {
+        "chapter_number": 12,
+        "chapter_reference": "",
+        "chapter_title": "Deus chama Abrão e lhe faz promessas",
+        "versicles": [
+            {
+                "id": "v12.1",
+                "versicle_number": 1,
+                "text": "ORA, o Senhor disse a Abrão: Sai-te da tua terra,{note:1} e da tua parentela e da casa de teu pai, para a terra que eu te mostrarei."
+            },
+            {
+                "id": "v12.2",
+                "versicle_number": 2,
+                "text": "E far-te-ei uma grande nação, e abençoar-te-ei, e engrandecerei o teu nome e tu serás uma bênção."
+            },
+            {
+                "id": "v12.3",
+                "versicle_number": 3,
+                "text": "E abençoarei os que te abençoarem e amaldiçoarei os que te amaldiçoarem; e em ti serão benditas todas as famílias da terra.{note:2}"
+            },
+            {
+                "id": "v12.4",
+                "versicle_number": 4,
+                "text": "Assim partiu Abrão, como o Senhor lhe tinha dito, e foi Ló com ele; e era Abrão da idade de setenta e cinco anos, quando saiu de Harã."
+            },
+            {
+                "id": "v12.5",
+                "versicle_number": 5,
+                "text": "E tomou Abrão a Sarai, sua mulher, e a Ló, filho de seu irmão, e toda a sua fazenda, que haviam adquirido, e as almas que lhe acresceram em Harã; e saíram para irem à terra de Canaã; e vieram à terra de Canaã."
+            },
+            {
+                "id": "v12.6",
+                "versicle_number": 6,
+                "text": "E passou Abrão por aquela terra até ao lugar de Siquém, até ao carvalho de Moré; e estavam então os cananeus na terra."
+            },
+            {
+                "id": "v12.7",
+                "versicle_number": 7,
+                "text": "E apareceu o Senhor a Abrão, e disse: À tua semente darei esta terra.{note:3} E edificou ali um altar ao Senhor, que lhe aparecera."
+            },
+            {
+                "id": "v12.8",
+                "versicle_number": 8,
+                "text": "E moveu-se dali para a montanha à banda do Oriente de Betel, e armou a sua tenda, tendo Betel ao Ocidente, e Ai ao Oriente; e edificou ali um altar ao Senhor, e invocou o nome do Senhor."
+            },
+            {
+                "id": "v12.9",
+                "versicle_number": 9,
+                "text": "Depois caminhou Abrão dali, seguindo ainda para a banda do Sul."
+            },
+            {
+                "id": "v12.10",
+                "versicle_number": 10,
+                "text": "E havia fome naquela terra; e desceu Abrão ao Egito, para peregrinar ali, porquanto a fome era grande na terra."
+            },
+            {
+                "id": "v12.11",
+                "versicle_number": 11,
+                "text": "E aconteceu que, chegando ele para entrar no Egito, disse a Sarai, sua mulher: Ora bem sei que és mulher formosa à vista;"
+            },
+            {
+                "id": "v12.12",
+                "versicle_number": 12,
+                "text": "E será que, quando os egípcios te virem, dirão: Esta é a sua mulher. E matar-me-ão a mim, e a ti te guardarão em vida."
+            },
+            {
+                "id": "v12.13",
+                "versicle_number": 13,
+                "text": "Dize, peço-te, que és minha irmã,{note:4} para que me vá bem por tua causa, e que viva a minha alma por amor de ti."
+            },
+            {
+                "id": "v12.14",
+                "versicle_number": 14,
+                "text": "E aconteceu que, entrando Abrão no Egito, viram os egípcios a mulher, que era mui formosa."
+            },
+            {
+                "id": "v12.15",
+                "versicle_number": 15,
+                "text": "E viram-na os príncipes de Faraó, e gabaram-na diante de Faraó; e foi a mulher tomada para a casa de Faraó."
+            },
+            {
+                "id": "v12.16",
+                "versicle_number": 16,
+                "text": "E fez bem a Abrão por amor dela; e ele teve ovelhas, e vacas, e jumentos, servos e servas, e jumentas, e camelos."
+            },
+            {
+                "id": "v12.17",
+                "versicle_number": 17,
+                "text": "Feriu, porém, o Senhor a Faraó com grandes pragas, e a sua casa, por causa de Sarai, mulher de Abrão."
+            },
+            {
+                "id": "v12.18",
+                "versicle_number": 18,
+                "text": "Então chamou Faraó a Abrão, e disse: Que é isto que me fizeste? Por que não me disseste que ela era tua mulher?"
+            },
+            {
+                "id": "v12.19",
+                "versicle_number": 19,
+                "text": "Por que disseste: É minha irmã? de maneira que a houvera tomado por minha mulher; agora, pois, eis aqui tua mulher; toma-a e vai-te."
+            },
+            {
+                "id": "v12.20",
+                "versicle_number": 20,
+                "text": "E Faraó deu ordens aos seus varões a seu respeito, e acompanharam-no a ele, e a sua mulher, e a tudo o que tinha."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v12.10",
+                "text": "Abrão desce ao Egito"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 12.1 At 7.2-3; Hb 11.8"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 12.3 Gl 3.8"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 12.7 At 7.5; Gl 3.16"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 12.13 Gn 20.2; 26.7"
+            }
+        ]
+    }
+}

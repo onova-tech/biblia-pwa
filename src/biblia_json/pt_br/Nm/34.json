@@ -1,0 +1,175 @@
+{
+    "book": {
+        "id": "Nm",
+        "book_number": 4,
+        "new_testament": false,
+        "num_chapters": 36,
+        "book_name": "NÚMEROS",
+        "book_full_name": "O QUARTO LIVRO DE MOISÉS NÚMEROS"
+    },
+    "chapter": {
+        "chapter_number": 34,
+        "chapter_reference": "",
+        "chapter_title": "Os confins da terra",
+        "versicles": [
+            {
+                "id": "v34.1",
+                "versicle_number": 1,
+                "text": "FALOU mais o Senhor a Moisés, dizendo:"
+            },
+            {
+                "id": "v34.2",
+                "versicle_number": 2,
+                "text": "Dá ordem aos filhos de Israel, e dize-lhes: Quando entrardes na terra de Canaã, esta há de ser a terra que vos cairá em herança: a terra de Canaã, segundo os seus termos."
+            },
+            {
+                "id": "v34.3",
+                "versicle_number": 3,
+                "text": "A banda do sul vos será desde o deserto de Zim até aos termos de Edom; e o termo do sul vos será desde a extremidade do mar salgado para a banda do oriente,"
+            },
+            {
+                "id": "v34.4",
+                "versicle_number": 4,
+                "text": "E este termo vos irá rodeando do sul para a subida de Acrabim, e passará até Zim; e as suas saídas serão do sul a Cades-Barneia; e sairá a Hazaar-Adar, e passará a Azmom:"
+            },
+            {
+                "id": "v34.5",
+                "versicle_number": 5,
+                "text": "Rodeará mais este termo de Azmom até ao rio do Egito: e as suas saídas serão para a banda do mar."
+            },
+            {
+                "id": "v34.6",
+                "versicle_number": 6,
+                "text": "Acerca do termo do ocidente, o mar grande vos será por termo: este vos será o termo do ocidente."
+            },
+            {
+                "id": "v34.7",
+                "versicle_number": 7,
+                "text": "E este vos será o termo do norte: desde o mar grande marcareis até ao monte de Hor."
+            },
+            {
+                "id": "v34.8",
+                "versicle_number": 8,
+                "text": "Desde o monte de Hor marcareis até à entrada de Hamate; e as saídas deste termo serão até Zedade."
+            },
+            {
+                "id": "v34.9",
+                "versicle_number": 9,
+                "text": "E este termo sairá até Zifrom, e as suas saídas serão em Hazar-Enã; este vos será o termo do norte."
+            },
+            {
+                "id": "v34.10",
+                "versicle_number": 10,
+                "text": "E por termo da banda do oriente marcareis de Hazar-Enã até Sefão."
+            },
+            {
+                "id": "v34.11",
+                "versicle_number": 11,
+                "text": "E este termo descerá desde Sefão até Ribla, para a banda do oriente Aim: depois descerá este termo, e irá ao longo da borda do mar de Quinerete para a banda do oriente."
+            },
+            {
+                "id": "v34.12",
+                "versicle_number": 12,
+                "text": "Descerá também este termo ao longo do Jordão, e as suas saídas serão no mar salgado: esta vos será a terra, segundo os seus termos em roda."
+            },
+            {
+                "id": "v34.13",
+                "versicle_number": 13,
+                "text": "E Moisés deu ordem aos filhos de Israel, dizendo: Esta é a terra que tomareis em sorte por herança, a qual o Senhor mandou dar às nove tribos e à meia tribo."
+            },
+            {
+                "id": "v34.14",
+                "versicle_number": 14,
+                "text": "Porque a tribo dos filhos dos rubenitas, segundo a casa de seus pais, e a tribo dos filhos dos gaditas, segundo a casa de seus pais, já receberam; também a meia tribo de Manassés recebeu a sua herança."
+            },
+            {
+                "id": "v34.15",
+                "versicle_number": 15,
+                "text": "Já duas tribos e meia tribo receberam a sua herança daquém do Jordão de Jericó, da banda do oriente ao nascente.{note:1}"
+            },
+            {
+                "id": "v34.16",
+                "versicle_number": 16,
+                "text": "Falou mais o Senhor a Moisés, dizendo:"
+            },
+            {
+                "id": "v34.17",
+                "versicle_number": 17,
+                "text": "Estes são os nomes dos homens que vos repartirão a terra por herança: Eleazar, o sacerdote, e Josué, o filho de Num."
+            },
+            {
+                "id": "v34.18",
+                "versicle_number": 18,
+                "text": "Tomareis mais de cada tribo um príncipe, para repartir a terra em herança."
+            },
+            {
+                "id": "v34.19",
+                "versicle_number": 19,
+                "text": "E estes são os nomes dos homens: Da tribo de Judá, Calebe, filho de Jefoné;"
+            },
+            {
+                "id": "v34.20",
+                "versicle_number": 20,
+                "text": "E, da tribo dos filhos de Simeão, Samuel, filho de Amiúde;"
+            },
+            {
+                "id": "v34.21",
+                "versicle_number": 21,
+                "text": "Da tribo de Benjamim, Elidade, filho de Quislom;"
+            },
+            {
+                "id": "v34.22",
+                "versicle_number": 22,
+                "text": "E, da tribo dos filhos de Dã, o príncipe Buqui, filho de Jogli;"
+            },
+            {
+                "id": "v34.23",
+                "versicle_number": 23,
+                "text": "Dos filhos de José, da tribo dos filhos de Manassés, o príncipe Haniel, filho de Éfode;"
+            },
+            {
+                "id": "v34.24",
+                "versicle_number": 24,
+                "text": "E, da tribo dos filhos de Efraim, o príncipe Quemuel, filho de Siftã;"
+            },
+            {
+                "id": "v34.25",
+                "versicle_number": 25,
+                "text": "E, da tribo dos filhos de Zebulom, o príncipe Elizafã, filho de Parna;"
+            },
+            {
+                "id": "v34.26",
+                "versicle_number": 26,
+                "text": "E, da tribo dos filhos de Issacar, o príncipe Paltiel, filho de Azã;"
+            },
+            {
+                "id": "v34.27",
+                "versicle_number": 27,
+                "text": "E, da tribo dos filhos de Aser, o príncipe Aiude, filho de Selomi;"
+            },
+            {
+                "id": "v34.28",
+                "versicle_number": 28,
+                "text": "E, da tribo dos filhos de Naftali, o príncipe Pedael, filho de Amiúde."
+            },
+            {
+                "id": "v34.29",
+                "versicle_number": 29,
+                "text": "Estes são aqueles a quem o Senhor ordenou, que repartissem a herança pelos filhos de Israel na terra de Canaã."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v34.16",
+                "text": "Os homens que devem dividir a terra"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 34.13-15 Nm 26.52-56; Js 14.1-5"
+            }
+        ]
+    }
+}

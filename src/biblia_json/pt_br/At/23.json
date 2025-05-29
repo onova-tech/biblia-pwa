@@ -1,0 +1,215 @@
+{
+    "book": {
+        "id": "At",
+        "book_number": 44,
+        "new_testament": true,
+        "num_chapters": 28,
+        "book_name": "ATOS DOS APÓSTOLOS",
+        "book_full_name": "ATOS DOS APÓSTOLOS"
+    },
+    "chapter": {
+        "chapter_number": 23,
+        "chapter_reference": "",
+        "chapter_title": "Conspiração dos judeus contra Paulo; este é mandado para Cesareia",
+        "versicles": [
+            {
+                "id": "v23.1",
+                "versicle_number": 1,
+                "text": "E, PONDO Paulo os olhos no conselho, disse: Varões irmãos, até ao dia de hoje tenho andado diante de Deus com toda a boa consciência."
+            },
+            {
+                "id": "v23.2",
+                "versicle_number": 2,
+                "text": "Mas o sumo sacerdote, Ananias, mandou aos que estavam junto dele que o ferissem na boca."
+            },
+            {
+                "id": "v23.3",
+                "versicle_number": 3,
+                "text": "Então Paulo lhe disse: Deus te ferirá, parede branqueada:{note:1} tu estás aqui assentado para julgar-me conforme a lei, e contra a lei me mandas ferir?"
+            },
+            {
+                "id": "v23.4",
+                "versicle_number": 4,
+                "text": "E os que ali estavam disseram: Injurias o sumo sacerdote de Deus?"
+            },
+            {
+                "id": "v23.5",
+                "versicle_number": 5,
+                "text": "E Paulo disse: Não sabia, irmãos, que era o sumo sacerdote; porque está escrito: Não dirás mal do príncipe do teu povo.{note:2}"
+            },
+            {
+                "id": "v23.6",
+                "versicle_number": 6,
+                "text": "E Paulo, sabendo que uma parte era de saduceus e outra de fariseus,{note:3} clamou no conselho: Varões irmãos, eu sou fariseu, filho de fariseu, no tocante à esperança e ressurreição dos mortos sou julgado."
+            },
+            {
+                "id": "v23.7",
+                "versicle_number": 7,
+                "text": "E, havendo dito isto, houve dissensão entre os fariseus e saduceus; e a multidão se dividiu."
+            },
+            {
+                "id": "v23.8",
+                "versicle_number": 8,
+                "text": "Porque os saduceus dizem que não há ressurreição,{note:4} nem anjo, nem espírito; mas os fariseus reconhecem uma e outra coisa."
+            },
+            {
+                "id": "v23.9",
+                "versicle_number": 9,
+                "text": "E originou-se um grande clamor; e, levantando-se os escribas da parte dos fariseus, contendiam, dizendo: Nenhum mal achamos neste homem, e se algum espírito ou anjo lhe falou, não resistamos a Deus."
+            },
+            {
+                "id": "v23.10",
+                "versicle_number": 10,
+                "text": "E, havendo grande dissensão, o tribuno, temendo que Paulo fosse despedaçado por eles, mandou descer a soldadesca, para que o tirassem do meio deles, e o levassem para a fortaleza."
+            },
+            {
+                "id": "v23.11",
+                "versicle_number": 11,
+                "text": "E na noite seguinte, apresentando-se-lhe o Senhor, disse: Paulo, tem ânimo: porque, como de mim testificaste em Jerusalém, assim importa que testifiques também em Roma."
+            },
+            {
+                "id": "v23.12",
+                "versicle_number": 12,
+                "text": "E, quando já era dia, alguns dos judeus fizeram uma conspiração, e juraram dizendo que não comeriam nem beberiam enquanto não matassem a Paulo."
+            },
+            {
+                "id": "v23.13",
+                "versicle_number": 13,
+                "text": "E eram mais de quarenta os que fizeram esta conjuração."
+            },
+            {
+                "id": "v23.14",
+                "versicle_number": 14,
+                "text": "E estes foram ter com os principais dos sacerdotes e anciãos, e disseram: {note:h}Conjuramo-nos, sob pena de maldição, a nada provarmos até que matemos a Paulo."
+            },
+            {
+                "id": "v23.15",
+                "versicle_number": 15,
+                "text": "Agora, pois, vós, com o conselho, rogai ao tribuno que vo-lo traga amanhã, como que querendo saber mais alguma coisa de seus negócios, e, antes que chegue, estaremos prontos para o matar."
+            },
+            {
+                "id": "v23.16",
+                "versicle_number": 16,
+                "text": "E o filho da irmã de Paulo, tendo ouvido acerca desta cilada, foi, e entrou na fortaleza, e o anunciou a Paulo."
+            },
+            {
+                "id": "v23.17",
+                "versicle_number": 17,
+                "text": "E Paulo, chamando a si um dos centuriões, disse: Leva este mancebo ao tribuno, porque tem alguma coisa que lhe comunicar."
+            },
+            {
+                "id": "v23.18",
+                "versicle_number": 18,
+                "text": "Tomando-o ele, pois, o levou ao tribuno, e disse: O preso Paulo chamando-me a si, me rogou que te trouxesse este mancebo, que tem alguma coisa que dizer-te."
+            },
+            {
+                "id": "v23.19",
+                "versicle_number": 19,
+                "text": "E o tribuno, tomando-o pela mão, e pondo-se à parte, perguntou-lhe em particular: Que tens que me contar?"
+            },
+            {
+                "id": "v23.20",
+                "versicle_number": 20,
+                "text": "E disse ele: Os judeus se concertaram rogar-te que amanhã leves Paulo ao conselho como que tendo de inquirir dele mais alguma coisa ao certo:"
+            },
+            {
+                "id": "v23.21",
+                "versicle_number": 21,
+                "text": "Mas tu não os creias; porque mais de quarenta homens dentre eles lhe andam armando ciladas: os quais se obrigaram, sob pena de maldição, a não comerem nem beberem até que o tenham morto: e já estão apercebidos, esperando de ti promessa."
+            },
+            {
+                "id": "v23.22",
+                "versicle_number": 22,
+                "text": "Então o tribuno despediu o mancebo, mandando-lhe que a ninguém dissesse que lhe havia contado aquilo."
+            },
+            {
+                "id": "v23.23",
+                "versicle_number": 23,
+                "text": "E, chamando dois centuriões, lhes disse: Aprontai para as três horas da noite duzentos soldados, e setenta de cavalo, e duzentos archeiros para irem até Cesareia;"
+            },
+            {
+                "id": "v23.24",
+                "versicle_number": 24,
+                "text": "E aparelhai cavalgaduras, para que pondo nelas a Paulo, o levem salvo ao presidente Félix."
+            },
+            {
+                "id": "v23.25",
+                "versicle_number": 25,
+                "text": "E escreveu uma carta que continha isto:"
+            },
+            {
+                "id": "v23.26",
+                "versicle_number": 26,
+                "text": "Cláudio Lísias, a Félix, potentíssimo presidente, saúde."
+            },
+            {
+                "id": "v23.27",
+                "versicle_number": 27,
+                "text": "Esse homem foi preso pelos judeus; e, estando já a ponto de ser morto por eles, sobrevim eu com a soldadesca, e o livrei, informado de que era romano."
+            },
+            {
+                "id": "v23.28",
+                "versicle_number": 28,
+                "text": "E querendo saber a causa porque o acusavam, o levei ao seu conselho."
+            },
+            {
+                "id": "v23.29",
+                "versicle_number": 29,
+                "text": "E achei que o acusavam de algumas questões da sua lei: mas que nenhum crime havia nele digno de morte ou de prisão."
+            },
+            {
+                "id": "v23.30",
+                "versicle_number": 30,
+                "text": "E, sendo-me notificado que os judeus haviam de armar ciladas a esse homem, logo to enviei, mandando também aos acusadores que perante ti digam o que tiverem contra ele. Passa bem."
+            },
+            {
+                "id": "v23.31",
+                "versicle_number": 31,
+                "text": "Tomando pois os soldados a Paulo, como lhe fora mandado, o trouxeram de noite a Antipatris."
+            },
+            {
+                "id": "v23.32",
+                "versicle_number": 32,
+                "text": "E no dia seguinte, deixando aos de cavalo irem com ele, tornaram à fortaleza."
+            },
+            {
+                "id": "v23.33",
+                "versicle_number": 33,
+                "text": "Os quais, logo que chegaram a Cesareia, e entregaram a carta ao presidente, lhe apresentaram Paulo."
+            },
+            {
+                "id": "v23.34",
+                "versicle_number": 34,
+                "text": "E o presidente, lida a carta, perguntou de que província era: e, sabendo que da Cilícia,"
+            },
+            {
+                "id": "v23.35",
+                "versicle_number": 35,
+                "text": "Ouvir-te-ei, disse, quando também aqui vierem os teus acusadores. E mandou que o guardassem no pretório de Herodes."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 23.3 Mt 23.27-28; Lc 11.44"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 23.5 Êx 22.28"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 23.6 At 26.5; Fp 3.5"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 23.8 Mt 22.23; Mc 12.18; Lc 20.27"
+            },
+            {
+                "id": "n5",
+                "text": "{note:h} 23.14 Gr. Anatematizamo-nos com anátema"
+            }
+        ]
+    }
+}

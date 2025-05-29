@@ -1,0 +1,196 @@
+{
+    "book": {
+        "id": "Ez",
+        "book_number": 26,
+        "new_testament": false,
+        "num_chapters": 48,
+        "book_name": "EZEQUIEL",
+        "book_full_name": "EZEQUIEL"
+    },
+    "chapter": {
+        "chapter_number": 18,
+        "chapter_reference": "",
+        "chapter_title": "A responsabilidade é pessoal",
+        "versicles": [
+            {
+                "id": "v18.1",
+                "versicle_number": 1,
+                "text": "E VEIO a mim a palavra do Senhor, dizendo:"
+            },
+            {
+                "id": "v18.2",
+                "versicle_number": 2,
+                "text": "Que tendes vós, vós que dizeis esta parábola acerca da terra de Israel, dizendo: Os pais comeram uvas verdes,{note:1} e os dentes dos filhos se embotaram?"
+            },
+            {
+                "id": "v18.3",
+                "versicle_number": 3,
+                "text": "Vivo eu, diz o Senhor JEOVÁ, que nunca mais direis este provérbio em Israel."
+            },
+            {
+                "id": "v18.4",
+                "versicle_number": 4,
+                "text": "Eis que todas as almas são minhas; como a alma do pai, também a alma do filho é minha: a alma que pecar, essa morrerá."
+            },
+            {
+                "id": "v18.5",
+                "versicle_number": 5,
+                "text": "Sendo pois o homem justo, e fazendo juízo e justiça."
+            },
+            {
+                "id": "v18.6",
+                "versicle_number": 6,
+                "text": "Não comendo sobre os montes, nem levantando os seus olhos para os ídolos da casa de Israel, nem contaminando a mulher do seu próximo, nem se chegando à mulher na sua separação;"
+            },
+            {
+                "id": "v18.7",
+                "versicle_number": 7,
+                "text": "Não oprimindo a ninguém, tornando ao devedor o seu penhor, e não roubando, dando o seu pão ao faminto, e cobrindo ao nu com vestido,"
+            },
+            {
+                "id": "v18.8",
+                "versicle_number": 8,
+                "text": "Não dando o seu dinheiro à usura, e não recebendo demais, desviando a sua mão da injustiça, e fazendo verdadeiro juízo entre homem e homem;"
+            },
+            {
+                "id": "v18.9",
+                "versicle_number": 9,
+                "text": "Andando nos meus estatutos, e guardando os meus juízos, para obrar segundo a verdade, o tal justo certamente viverá, diz o Senhor JEOVÁ."
+            },
+            {
+                "id": "v18.10",
+                "versicle_number": 10,
+                "text": "E se ele gerar um filho ladrão, derramador de sangue, que fizer a seu irmão qualquer destas cousas;"
+            },
+            {
+                "id": "v18.11",
+                "versicle_number": 11,
+                "text": "E não cumprir todos aqueles deveres, mas antes comer sobre os montes, e contaminar a mulher de seu próximo;"
+            },
+            {
+                "id": "v18.12",
+                "versicle_number": 12,
+                "text": "E oprimir ao aflito e necessitado, praticar roubos, não tornar o penhor, e levantar os seus olhos para os ídolos, cometer abominação;"
+            },
+            {
+                "id": "v18.13",
+                "versicle_number": 13,
+                "text": "E emprestar com usura, e receber de mais, porventura viverá? Não viverá: todas estas abominações ele fez, certamente morrerá; o seu sangue será sobre ele."
+            },
+            {
+                "id": "v18.14",
+                "versicle_number": 14,
+                "text": "E eis que, se ele gerar um filho que veja todos os pecados que seu pai fez, e, vendo-os não cometer cousas semelhantes;"
+            },
+            {
+                "id": "v18.15",
+                "versicle_number": 15,
+                "text": "Não comer sobre os montes, e não levantar os seus olhos para os ídolos da casa de Israel, e não contaminar a mulher de seu próximo;"
+            },
+            {
+                "id": "v18.16",
+                "versicle_number": 16,
+                "text": "E não oprimir a ninguém, e não retiver o penhor, e não roubar, der o seu pão ao faminto, e cobrir ao nu com vestido;"
+            },
+            {
+                "id": "v18.17",
+                "versicle_number": 17,
+                "text": "Desviar do aflito a sua mão, não receber usura em demasia, fizer os meus juízos, e andar nos meus estatutos, o tal não morrerá pela maldade de seu pai; certamente viverá."
+            },
+            {
+                "id": "v18.18",
+                "versicle_number": 18,
+                "text": "Seu pai, porque fez opressão, e roubou os bens do irmão, e fez o que não era bom no meio de seu povo, eis que ele morrerá pela sua maldade."
+            },
+            {
+                "id": "v18.19",
+                "versicle_number": 19,
+                "text": "Mas dizeis: Por que não levará o filho a maldade do pai? Porque o filho fez juízo e justiça, e guardou todos os meus estatutos, e os praticou, por isso certamente viverá."
+            },
+            {
+                "id": "v18.20",
+                "versicle_number": 20,
+                "text": "A alma que pecar, essa morrerá: o filho não levará a maldade{note:2} do pai, nem o pai levará a maldade do filho: a justiça do justo ficará sobre ele, e a impiedade do ímpio cairá sobre ele."
+            },
+            {
+                "id": "v18.21",
+                "versicle_number": 21,
+                "text": "Mas se o ímpio se converter de todos os seus pecados que cometeu, e guardar todos os meus estatutos, e fizer juízo e justiça, certamente viverá; não morrerá."
+            },
+            {
+                "id": "v18.22",
+                "versicle_number": 22,
+                "text": "De todas suas transgressões que cometeu não haverá lembrança contra ele: pela sua justiça que praticou viverá."
+            },
+            {
+                "id": "v18.23",
+                "versicle_number": 23,
+                "text": "Desejaria eu, de qualquer maneira, a morte do ímpio? diz o Senhor JEOVÁ: não desejo antes que se converta dos seus caminhos e viva?"
+            },
+            {
+                "id": "v18.24",
+                "versicle_number": 24,
+                "text": "Mas, desviando-se o justo da sua justiça, e cometendo a iniquidade, fazendo conforme todas as abominações que faz o ímpio, porventura viverá? De todas as suas justiças que tiver feito não se fará memória: na sua transgressão com que transgrediu, e no seu pecado com que pecou, neles morrerá."
+            },
+            {
+                "id": "v18.25",
+                "versicle_number": 25,
+                "text": "Dizeis, porém: O caminho do Senhor não é {note:s}direito. Ouvi agora, ó casa de Israel: Não é o meu caminho direito? não são os vossos caminhos {note:t}torcidos?"
+            },
+            {
+                "id": "v18.26",
+                "versicle_number": 26,
+                "text": "Desviando-se o justo da sua justiça, e cometendo iniquidade, morrerá por ela; na sua iniquidade que cometeu morrerá."
+            },
+            {
+                "id": "v18.27",
+                "versicle_number": 27,
+                "text": "Mas convertendo-se o ímpio da sua impiedade que cometeu, e praticando o juízo e a justiça, conservará este a sua alma em vida."
+            },
+            {
+                "id": "v18.28",
+                "versicle_number": 28,
+                "text": "Pois que reconsidera, e se converte de todas as suas transgressões que cometeu, certamente viverá, não morrerá."
+            },
+            {
+                "id": "v18.29",
+                "versicle_number": 29,
+                "text": "Contudo, diz a casa de Israel: O caminho do Senhor não é direito. Não são os meus caminhos direitos, ó casa de Israel? e não são os vossos caminhos torcidos?"
+            },
+            {
+                "id": "v18.30",
+                "versicle_number": 30,
+                "text": "Portanto, eu vos julgarei, a cada um conforme os seus caminhos, ó casa de Israel, diz o Senhor JEOVÁ: vinde, e convertei-vos de todas as vossas transgressões, e a iniquidade não vos servirá de tropeço."
+            },
+            {
+                "id": "v18.31",
+                "versicle_number": 31,
+                "text": "Lançai de vós todas as vossas transgressões com que transgredistes, e criai em vós um coração novo e um espírito novo; pois por que razão morreríeis, ó casa de Israel?"
+            },
+            {
+                "id": "v18.32",
+                "versicle_number": 32,
+                "text": "Porque não tomo prazer na morte do que morre, diz o Senhor JEOVÁ: convertei-vos, pois, e vivei.{note:3}"
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 18.2 Jr 31.29"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 18.20 Dt 24.16"
+            },
+            {
+                "id": "n3",
+                "text": "{note:s} 18.25 ou igual {note:t} 18.25 ou desiguais"
+            },
+            {
+                "id": "n4",
+                "text": "{note:3} 18.21-32 Ez 33.11-20"
+            }
+        ]
+    }
+}

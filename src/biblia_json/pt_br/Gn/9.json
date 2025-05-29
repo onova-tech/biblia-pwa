@@ -1,0 +1,195 @@
+{
+    "book": {
+        "id": "Gn",
+        "book_number": 1,
+        "new_testament": false,
+        "num_chapters": 50,
+        "book_name": "GÊNESIS",
+        "book_full_name": "O PRIMEIRO LIVRO DE MOISÉS GÊNESIS"
+    },
+    "chapter": {
+        "chapter_number": 9,
+        "chapter_reference": "",
+        "chapter_title": "O pacto que Deus fez com Noé",
+        "versicles": [
+            {
+                "id": "v9.1",
+                "versicle_number": 1,
+                "text": "E ABENÇOOU Deus a Noé e a seus filhos, e disse-lhes: Frutificai e multiplicai-vos,{note:1} e enchei a terra."
+            },
+            {
+                "id": "v9.2",
+                "versicle_number": 2,
+                "text": "E será o vosso temor e o vosso pavor sobre todo o animal da terra, e sobre toda a ave dos céus; tudo o que se move sobre a terra, e todos os peixes do mar, na vossa mão são entregues."
+            },
+            {
+                "id": "v9.3",
+                "versicle_number": 3,
+                "text": "Tudo quanto se move, que é vivente, será para vosso mantimento; tudo vos tenho dado como a erva verde."
+            },
+            {
+                "id": "v9.4",
+                "versicle_number": 4,
+                "text": "A carne, porém, com sua vida, isto é, com seu sangue, não comereis.{note:2}"
+            },
+            {
+                "id": "v9.5",
+                "versicle_number": 5,
+                "text": "E certamente requererei o vosso sangue, o sangue das vossas {note:b}vidas; da mão de todo o animal o requererei; como também da mão do homem, e da mão do irmão de cada um requererei a vida do homem."
+            },
+            {
+                "id": "v9.6",
+                "versicle_number": 6,
+                "text": "Quem derramar o sangue do homem,{note:3} pelo homem o seu sangue será derramado; porque Deus fez o homem conforme a sua imagem.{note:4}"
+            },
+            {
+                "id": "v9.7",
+                "versicle_number": 7,
+                "text": "Mas vós frutificai e multiplicai-vos;{note:5} povoai abundantemente a terra, e multiplicai-vos nela."
+            },
+            {
+                "id": "v9.8",
+                "versicle_number": 8,
+                "text": "E falou Deus a Noé, e a seus filhos com ele, dizendo:"
+            },
+            {
+                "id": "v9.9",
+                "versicle_number": 9,
+                "text": "E eu, eis que estabeleço o meu concerto convosco e com a vossa semente depois de vós."
+            },
+            {
+                "id": "v9.10",
+                "versicle_number": 10,
+                "text": "E com toda a {note:c}alma vivente, que convosco está, de aves, de reses, e de todo o animal da terra convosco; desde todos que saíram da arca, até todo o animal da terra."
+            },
+            {
+                "id": "v9.11",
+                "versicle_number": 11,
+                "text": "E eu convosco estabeleço o meu concerto, que não será mais destruída toda a carne pelas águas do dilúvio; e que não haverá mais dilúvio para destruir a terra."
+            },
+            {
+                "id": "v9.12",
+                "versicle_number": 12,
+                "text": "E disse Deus: Este é o sinal do concerto que ponho entre mim e vós, e entre toda a alma vivente, que está convosco, por gerações eternas."
+            },
+            {
+                "id": "v9.13",
+                "versicle_number": 13,
+                "text": "O meu arco tenho posto na nuvem, este será por sinal do concerto entre mim e a terra."
+            },
+            {
+                "id": "v9.14",
+                "versicle_number": 14,
+                "text": "E acontecerá que, quando eu trouxer nuvens sobre a terra, aparecerá o arco nas nuvens."
+            },
+            {
+                "id": "v9.15",
+                "versicle_number": 15,
+                "text": "Então me lembrarei do meu concerto, que está entre mim e vós, e ainda toda a alma vivente de toda a carne; e as águas não se tornarão mais em dilúvio, para destruir toda a carne."
+            },
+            {
+                "id": "v9.16",
+                "versicle_number": 16,
+                "text": "E estará o arco nas nuvens, e eu o verei, para me lembrar do concerto eterno entre Deus e toda a alma vivente de toda a carne, que está sobre a terra."
+            },
+            {
+                "id": "v9.17",
+                "versicle_number": 17,
+                "text": "E disse Deus a Noé: Este é o sinal do concerto que tenho estabelecido entre mim e toda a carne, que está sobre a terra."
+            },
+            {
+                "id": "v9.18",
+                "versicle_number": 18,
+                "text": "E os filhos de Noé, que da arca saíram, foram Sem, e Cão, e Jafé; e Cão é o pai de Canaã."
+            },
+            {
+                "id": "v9.19",
+                "versicle_number": 19,
+                "text": "Estes três foram os filhos de Noé; e destes se povoou toda a terra."
+            },
+            {
+                "id": "v9.20",
+                "versicle_number": 20,
+                "text": "E começou Noé a ser lavrador da terra, e plantou uma vinha."
+            },
+            {
+                "id": "v9.21",
+                "versicle_number": 21,
+                "text": "E bebeu do vinho, e embebedou-se; e descobriu-se no meio de sua tenda."
+            },
+            {
+                "id": "v9.22",
+                "versicle_number": 22,
+                "text": "E viu Cão, o pai de Canaã, a nudez de seu pai, e fê-lo saber a ambos seus irmãos fora."
+            },
+            {
+                "id": "v9.23",
+                "versicle_number": 23,
+                "text": "Então tomaram Sem e Jafé uma capa, e puseram-na sobre ambos os seus ombros, e indo virados para trás, cobriram a nudez do seu pai, e os seus rostos eram virados, de maneira que não viram a nudez do seu pai."
+            },
+            {
+                "id": "v9.24",
+                "versicle_number": 24,
+                "text": "E despertou Noé do seu vinho, e soube o que seu filho menor lhe fizera."
+            },
+            {
+                "id": "v9.25",
+                "versicle_number": 25,
+                "text": "E disse: Maldito seja Canaã; servo dos servos seja aos seus irmãos."
+            },
+            {
+                "id": "v9.26",
+                "versicle_number": 26,
+                "text": "E disse: Bendito seja o Senhor Deus de Sem; e seja-lhe Canaã por servo."
+            },
+            {
+                "id": "v9.27",
+                "versicle_number": 27,
+                "text": "Alargue Deus a Jafé, e habite nas tendas de Sem; e seja-lhe Canaã por servo."
+            },
+            {
+                "id": "v9.28",
+                "versicle_number": 28,
+                "text": "E viveu Noé, depois do dilúvio, trezentos e cinquenta anos."
+            },
+            {
+                "id": "v9.29",
+                "versicle_number": 29,
+                "text": "E foram todos os dias de Noé novecentos e cinquenta anos, e morreu."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v9.20",
+                "text": "Noé planta uma vinha"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 9.1 Gn 1.28"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 9.4 Lv 7.26-27; 17.10-14; 19.26; Dt 12.16,23; 15.23"
+            },
+            {
+                "id": "n3",
+                "text": "{note:b} 9.5 ou almas"
+            },
+            {
+                "id": "n4",
+                "text": "{note:3} 9.6 Êx 20.13 {note:4} 9.6 Gn 1.26"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 9.7 Gn 1.28"
+            },
+            {
+                "id": "n6",
+                "text": "{note:c} 9.10 ou criatura"
+            }
+        ]
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "book": {
+        "id": "Hc",
+        "book_number": 35,
+        "new_testament": false,
+        "num_chapters": 3,
+        "book_name": "HABACUQUE",
+        "book_full_name": "HABACUQUE"
+    },
+    "chapter": {
+        "chapter_number": 2,
+        "chapter_reference": "",
+        "chapter_title": "Os caldeus serão castigados a seu turno",
+        "versicles": [
+            {
+                "id": "v2.1",
+                "versicle_number": 1,
+                "text": "SOBRE a minha guarda estarei, e sobre a fortaleza me apresentarei e vigiarei, para ver o que fala comigo, e o que eu responderei, quando eu for arguido."
+            },
+            {
+                "id": "v2.2",
+                "versicle_number": 2,
+                "text": "Então o Senhor me respondeu, e disse: Escreve a visão, e torna-a bem legível sobre tábuas, para que a possa ler o que correndo passa."
+            },
+            {
+                "id": "v2.3",
+                "versicle_number": 3,
+                "text": "Porque a visão é ainda para o tempo determinado, e até ao fim falará, e não mentirá: se tardar, espera-o, porque certamente virá,{note:1} não tardará."
+            },
+            {
+                "id": "v2.4",
+                "versicle_number": 4,
+                "text": "Eis que a sua alma se incha, não é reta nele; mas o justo pela sua fé{note:2} viverá."
+            },
+            {
+                "id": "v2.5",
+                "versicle_number": 5,
+                "text": "Tanto mais que, por ser dado ao vinho, é desleal; um homem soberbo, que não se contém, que alarga como o sepulcro o seu desejo, e, como a morte, que não se farta, ajunta a si todas as nações, e congrega a si todos os povos."
+            },
+            {
+                "id": "v2.6",
+                "versicle_number": 6,
+                "text": "Não levantarão pois todos estes contra ele uma parábola e um dito agudo contra ele dizendo: Ai daquele que multiplica o que não é seu! (até quando!) e daquele que se carrega a si mesmo de dívidas!"
+            },
+            {
+                "id": "v2.7",
+                "versicle_number": 7,
+                "text": "Não se levantarão de repente os que te hão de morder? e não despertarão os que te hão de abalar? e não lhes servirás tu de despojo?"
+            },
+            {
+                "id": "v2.8",
+                "versicle_number": 8,
+                "text": "Visto como despojaste a muitas nações, todos os mais povos te despojarão a ti por causa do sangue dos homens, e da violência para com a terra, a cidade, e todos os que habitam nela."
+            },
+            {
+                "id": "v2.9",
+                "versicle_number": 9,
+                "text": "Ai daquele que ajunta em sua casa bens mal adquiridos, para pôr o seu ninho no alto, a fim de se livrar da mão do mal!"
+            },
+            {
+                "id": "v2.10",
+                "versicle_number": 10,
+                "text": "Vergonha maquinaste para a tua casa; destruindo tu a muitos povos, pecaste contra a tua alma."
+            },
+            {
+                "id": "v2.11",
+                "versicle_number": 11,
+                "text": "Porque a pedra clamará da parede, e a trave lhe responderá do madeiramento."
+            },
+            {
+                "id": "v2.12",
+                "versicle_number": 12,
+                "text": "Ai daquele que edifica a cidade com sangue, e que funda a cidade com iniquidade!"
+            },
+            {
+                "id": "v2.13",
+                "versicle_number": 13,
+                "text": "Eis que não vem do Senhor dos Exércitos que os povos trabalhem para o fogo e os homens se cansem pela vaidade."
+            },
+            {
+                "id": "v2.14",
+                "versicle_number": 14,
+                "text": "Porque a terra se encherá{note:3} do conhecimento da glória do Senhor, como as águas cobrem o mar."
+            },
+            {
+                "id": "v2.15",
+                "versicle_number": 15,
+                "text": "Ai daquele que dá de beber ao seu companheiro! tu, que lhe chegas o teu odre, e o embebedas, para ver a sua nudez,"
+            },
+            {
+                "id": "v2.16",
+                "versicle_number": 16,
+                "text": "Serás farto de ignomínia em lugar de honra: bebe tu também, e sê como um incircunciso: o cálice da mão direita do Senhor se voltará sobre ti, e vômito ignominioso cairá sobre a tua glória."
+            },
+            {
+                "id": "v2.17",
+                "versicle_number": 17,
+                "text": "Porque a violência cometida contra o Líbano te cobrirá, e a destruição dos animais ferozes os assombrará, por causa do sangue dos homens, e da violência para com a terra, a cidade, e todos os seus moradores."
+            },
+            {
+                "id": "v2.18",
+                "versicle_number": 18,
+                "text": "Que aproveitará a imagem de escultura, que esculpiu o seu artífice? a imagem de fundição, que ensina a mentira, para que o artífice confie na obra, fazendo ídolos mudos?"
+            },
+            {
+                "id": "v2.19",
+                "versicle_number": 19,
+                "text": "Ai daquele que diz ao pau: Acorda! e à pedra muda: Desperta! Pode isto ensinar? Eis que está coberto de ouro e de prata, mas no meio dele não há espírito algum."
+            },
+            {
+                "id": "v2.20",
+                "versicle_number": 20,
+                "text": "Mas o Senhor está no seu santo templo: cale-se diante dele toda a terra."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 2.3 Hb 10.37"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 2.4 Rm 1.17; Gl 3.11; Hb 10.38-39"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 2.14 Is 11.9"
+            }
+        ]
+    }
+}

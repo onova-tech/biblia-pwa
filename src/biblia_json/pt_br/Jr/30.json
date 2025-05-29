@@ -1,0 +1,139 @@
+{
+    "book": {
+        "id": "Jr",
+        "book_number": 24,
+        "new_testament": false,
+        "num_chapters": 52,
+        "book_name": "JEREMIAS",
+        "book_full_name": "JEREMIAS"
+    },
+    "chapter": {
+        "chapter_number": 30,
+        "chapter_reference": "",
+        "chapter_title": "Deus promete trazer do cativeiro o seu povo",
+        "versicles": [
+            {
+                "id": "v30.1",
+                "versicle_number": 1,
+                "text": "A PALAVRA que do Senhor veio a Jeremias, dizendo:"
+            },
+            {
+                "id": "v30.2",
+                "versicle_number": 2,
+                "text": "Assim fala o Senhor, Deus de Israel, dizendo: Escreve num livro todas as palavras que te tenho dito:"
+            },
+            {
+                "id": "v30.3",
+                "versicle_number": 3,
+                "text": "Porque eis que dias vêm, diz o Senhor, em que farei tornar o cativeiro do meu povo Israel e Judá, diz o Senhor; e torná-los-ei a trazer à terra que dei a seus pais, e a possuirão."
+            },
+            {
+                "id": "v30.4",
+                "versicle_number": 4,
+                "text": "E estas são as palavras que disse o Senhor, acerca de Israel e de Judá."
+            },
+            {
+                "id": "v30.5",
+                "versicle_number": 5,
+                "text": "Porque assim diz o Senhor: Ouvimos uma voz de tremor, de temor mas não de paz."
+            },
+            {
+                "id": "v30.6",
+                "versicle_number": 6,
+                "text": "Perguntai, pois, e vede, se um homem tem dores de parto. Porque pois vejo a cada homem com as mãos sobre os lombos como a que está dando à luz? e porque se têm tornado macilentos todos os rostos?"
+            },
+            {
+                "id": "v30.7",
+                "versicle_number": 7,
+                "text": "Ah! porque aquele dia é tão grande, que, não houve outro semelhante! e é tempo de angústia para Jacó: ele porém será livrado dela."
+            },
+            {
+                "id": "v30.8",
+                "versicle_number": 8,
+                "text": "Porque será naquele dia, diz o Senhor dos Exércitos, que eu quebrarei o seu jugo de sobre o teu pescoço, e quebrarei as tuas ataduras; e nunca mais se servirão dele os estranhos;"
+            },
+            {
+                "id": "v30.9",
+                "versicle_number": 9,
+                "text": "Mas servirão ao Senhor, seu Deus, como também a Davi, seu rei, que lhes levantarei."
+            },
+            {
+                "id": "v30.10",
+                "versicle_number": 10,
+                "text": "Não temas pois tu, servo meu Jacó, diz o Senhor, nem te espantes, ó Israel; porque eis que te livrarei das terras de longe, e a tua descendência da terra do seu cativeiro; e Jacó tornará, e descansará, e ficará em sossego, e não haverá quem o atemorize."
+            },
+            {
+                "id": "v30.11",
+                "versicle_number": 11,
+                "text": "Porque eu sou contigo, diz o Senhor, para te salvar; porquanto darei fim a todas as nações entre as quais te espalhei; a ti, porém, não darei fim, mas castigar-te-ei com medida, e de todo não te terei por inocente."
+            },
+            {
+                "id": "v30.12",
+                "versicle_number": 12,
+                "text": "Porque assim diz o Senhor: Teu quebrantamento é mortal; a tua chaga é dolorosa."
+            },
+            {
+                "id": "v30.13",
+                "versicle_number": 13,
+                "text": "Não há quem defenda a tua causa, para que possas ser ligado; não tens remédios que possam curar."
+            },
+            {
+                "id": "v30.14",
+                "versicle_number": 14,
+                "text": "Todos os teus amantes se esqueceram de ti, e não perguntam por ti; porque te feri com ferida de inimigo, e com castigo de cruel, pela grandeza de tua maldade e multidão de teus pecados."
+            },
+            {
+                "id": "v30.15",
+                "versicle_number": 15,
+                "text": "Por que gritas em razão de teu quebrantamento? tua dor é mortal. Pela grandeza de tua maldade, e multidão de teus pecados, eu fiz estas cousas."
+            },
+            {
+                "id": "v30.16",
+                "versicle_number": 16,
+                "text": "Mas também todos os que te devoram serão devorados; e todos os teus adversários irão, todos eles para o cativeiro; e os que te roubam serão roubados, e a todos os que te despojam entregarei ao saque."
+            },
+            {
+                "id": "v30.17",
+                "versicle_number": 17,
+                "text": "Porque te restaurarei a saúde, e te sararei as tuas chagas, diz o Senhor; pois te chamam a enjeitada, dizendo: É Sião, por que ninguém já pergunta."
+            },
+            {
+                "id": "v30.18",
+                "versicle_number": 18,
+                "text": "Assim diz o Senhor: Eis que acabarei o cativeiro das tendas de Jacó, e apiedar-me-ei das suas moradas; e a cidade será reedificada sobre o seu montão, e o palácio permanecerá como habitualmente."
+            },
+            {
+                "id": "v30.19",
+                "versicle_number": 19,
+                "text": "E sairá deles o louvor e a voz de júbilo: e multiplicá-los-ei, e não serão diminuídos, e glorificá-los-ei, e não serão acanhados."
+            },
+            {
+                "id": "v30.20",
+                "versicle_number": 20,
+                "text": "E seus filhos serão como na antiguidade, e a sua congregação será confirmada perante o meu rosto; e punirei todos os seus opressores."
+            },
+            {
+                "id": "v30.21",
+                "versicle_number": 21,
+                "text": "E o seu príncipe será deles; e o seu governador sairá do meio deles, e o farei aproximar, e ele se chegará a mim; porque quem é aquele que se tem empenhado em se chegar a mim? diz o Senhor."
+            },
+            {
+                "id": "v30.22",
+                "versicle_number": 22,
+                "text": "E ser-me-eis por povo, e eu vos serei por Deus."
+            },
+            {
+                "id": "v30.23",
+                "versicle_number": 23,
+                "text": "Eis que a tormenta do Senhor, a sua indignação, saiu, uma tormenta varredora: cairá cruelmente sobre a cabeça dos ímpios."
+            },
+            {
+                "id": "v30.24",
+                "versicle_number": 24,
+                "text": "Não voltará atrás o furor da ira do Senhor, até que tenha executado, e até que tenha cumprido os desígnios do seu coração: no fim dos dias entendereis isto."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

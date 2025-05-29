@@ -1,0 +1,44 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 15,
+        "chapter_reference": "",
+        "chapter_title": "O verdadeiro cidadão dos céus",
+        "versicles": [
+            {
+                "id": "v15.1",
+                "versicle_number": 1,
+                "text": "SENHOR, quem habitará no teu tabernáculo? quem morará no teu santo monte?"
+            },
+            {
+                "id": "v15.2",
+                "versicle_number": 2,
+                "text": "Aquele que anda em sinceridade, e pratica a justiça, e fala verazmente, segundo o seu coração;"
+            },
+            {
+                "id": "v15.3",
+                "versicle_number": 3,
+                "text": "Aquele que não difama com a sua língua, nem faz mal ao seu próximo, nem aceita nenhuma afronta contra o seu próximo;"
+            },
+            {
+                "id": "v15.4",
+                "versicle_number": 4,
+                "text": "Aquele a cujos olhos o réprobo é desprezado; mas honra os que temem ao Senhor; aquele que, mesmo que jure com dano seu, não muda."
+            },
+            {
+                "id": "v15.5",
+                "versicle_number": 5,
+                "text": "Aquele que não empresta o seu dinheiro com usura, nem recebe peitas contra o inocente; quem faz isto nunca será abalado."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

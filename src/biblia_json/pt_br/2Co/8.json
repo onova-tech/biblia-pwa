@@ -1,0 +1,152 @@
+{
+    "book": {
+        "id": "2Co",
+        "book_number": 47,
+        "new_testament": true,
+        "num_chapters": 13,
+        "book_name": "CORÍNTIOS",
+        "book_full_name": "SEGUNDA EPÍSTOLA DO APÓSTOLO PAULO AOS CORÍNTIOS"
+    },
+    "chapter": {
+        "chapter_number": 8,
+        "chapter_reference": "",
+        "chapter_title": "A coleta para os cristãos pobres da Judeia",
+        "versicles": [
+            {
+                "id": "v8.1",
+                "versicle_number": 1,
+                "text": "TAMBÉM, irmãos, vos fazemos conhecer a graça de Deus dada às igrejas da Macedônia;"
+            },
+            {
+                "id": "v8.2",
+                "versicle_number": 2,
+                "text": "Como em muita prova de tribulação houve abundância do seu gozo, e como a sua profunda pobreza abundou em riquezas da sua generosidade."
+            },
+            {
+                "id": "v8.3",
+                "versicle_number": 3,
+                "text": "Porque, segundo o seu poder (o que eu mesmo testifico), e ainda acima do seu poder, deram voluntariamente."
+            },
+            {
+                "id": "v8.4",
+                "versicle_number": 4,
+                "text": "Pedindo-nos com muitos rogos a graça e a comunicação deste serviço, que se fazia para com os santos.{note:1}"
+            },
+            {
+                "id": "v8.5",
+                "versicle_number": 5,
+                "text": "E não somente fizeram como nós esperávamos, mas a si mesmos se deram primeiramente ao Senhor, e depois a nós, pela vontade de Deus."
+            },
+            {
+                "id": "v8.6",
+                "versicle_number": 6,
+                "text": "De maneira que exortamos a Tito que, assim como antes tinha começado, assim também acabe esta graça entre vós."
+            },
+            {
+                "id": "v8.7",
+                "versicle_number": 7,
+                "text": "Portanto, assim como em tudo abundais em fé, e em palavra, e em ciência, e em toda a diligência, e em a vossa caridade para conosco, assim também abundeis nesta graça."
+            },
+            {
+                "id": "v8.8",
+                "versicle_number": 8,
+                "text": "Não digo isto como quem manda, mas para provar, pela diligência dos outros, a sinceridade da vossa caridade."
+            },
+            {
+                "id": "v8.9",
+                "versicle_number": 9,
+                "text": "Porque já sabeis a graça de nosso Senhor Jesus Cristo, que, sendo rico, por amor de vós se fez pobre; para que pela sua pobreza enriquecêsseis."
+            },
+            {
+                "id": "v8.10",
+                "versicle_number": 10,
+                "text": "E nisto dou o meu parecer; pois isto vos convém a vós, que desde o ano passado começastes; e não foi só praticar, mas também querer."
+            },
+            {
+                "id": "v8.11",
+                "versicle_number": 11,
+                "text": "Agora, porém, completai também o já começado, para que, assim como houve a prontidão de vontade, haja também o cumprimento, segundo o que tendes."
+            },
+            {
+                "id": "v8.12",
+                "versicle_number": 12,
+                "text": "Porque, se há prontidão de vontade, será aceita segundo o que qualquer tem, e não segundo o que não tem."
+            },
+            {
+                "id": "v8.13",
+                "versicle_number": 13,
+                "text": "Mas, não digo isto para que os outros tenham alívio, e vós opressão,"
+            },
+            {
+                "id": "v8.14",
+                "versicle_number": 14,
+                "text": "Mas para igualdade; neste tempo presente, a vossa abundância supra a falta dos outros, para que também a sua abundância supra a vossa falta, e haja igualdade;"
+            },
+            {
+                "id": "v8.15",
+                "versicle_number": 15,
+                "text": "Como está escrito: O que muito colheu não teve de mais; e o que pouco, não teve de menos.{note:2}"
+            },
+            {
+                "id": "v8.16",
+                "versicle_number": 16,
+                "text": "Mas, graças a Deus, que pôs a mesma solicitude por vós no coração de Tito;"
+            },
+            {
+                "id": "v8.17",
+                "versicle_number": 17,
+                "text": "Pois aceitou a exortação, e muito diligente partiu voluntariamente para vós."
+            },
+            {
+                "id": "v8.18",
+                "versicle_number": 18,
+                "text": "E com ele enviamos aquele irmão cujo louvor no evangelho está espalhado em todas as igrejas."
+            },
+            {
+                "id": "v8.19",
+                "versicle_number": 19,
+                "text": "E não só isto, mas foi também escolhido pelas igrejas para companheiro da nossa viagem, nesta graça que por nós é ministrada para glória do mesmo Senhor, e prontidão do vosso ânimo;"
+            },
+            {
+                "id": "v8.20",
+                "versicle_number": 20,
+                "text": "Evitando isto, que alguém nos vitupere por esta abundância, que por nós é ministrada;"
+            },
+            {
+                "id": "v8.21",
+                "versicle_number": 21,
+                "text": "Pois zelamos o que é honesto,{note:3} não só diante do Senhor, mas também diante dos homens."
+            },
+            {
+                "id": "v8.22",
+                "versicle_number": 22,
+                "text": "Com eles enviamos também outro nosso irmão, o qual muitas vezes, e em muitas coisas, já experimentamos ser diligente, e agora muito mais diligente ainda pela muita confiança que em vós tem."
+            },
+            {
+                "id": "v8.23",
+                "versicle_number": 23,
+                "text": "Quanto a Tito, é meu companheiro, e cooperador para convosco: quanto a nossos irmãos, são embaixadores das igrejas e glória de Cristo."
+            },
+            {
+                "id": "v8.24",
+                "versicle_number": 24,
+                "text": "Portanto mostrai para com eles, perante a face das igrejas, a prova da vossa caridade, e da nossa glória acerca de vós."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 8.1-4 Rm 15.26"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 8.15 Êx 16.18"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 8.21 Pv 3.4"
+            }
+        ]
+    }
+}

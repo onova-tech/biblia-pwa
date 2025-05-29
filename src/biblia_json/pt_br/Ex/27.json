@@ -1,0 +1,135 @@
+{
+    "book": {
+        "id": "Ex",
+        "book_number": 2,
+        "new_testament": false,
+        "num_chapters": 40,
+        "book_name": "ÊXODO",
+        "book_full_name": "O SEGUNDO LIVRO DE MOISÉS ÊXODO"
+    },
+    "chapter": {
+        "chapter_number": 27,
+        "chapter_reference": "",
+        "chapter_title": "O altar dos holocaustos",
+        "versicles": [
+            {
+                "id": "v27.1",
+                "versicle_number": 1,
+                "text": "FARÁS também o altar de madeira de cetim: cinco côvados será o comprimento, e cinco côvados a largura (será quadrado o altar), e três côvados a sua altura."
+            },
+            {
+                "id": "v27.2",
+                "versicle_number": 2,
+                "text": "E farás as suas pontas nos seus quatro cantos: as suas pontas serão do mesmo, e o cobrirás de cobre."
+            },
+            {
+                "id": "v27.3",
+                "versicle_number": 3,
+                "text": "Far-lhe-ás também as suas caldeirinhas, para recolher a sua cinza, e as suas pás, e as suas bacias, e os seus garfos, e os seus braseiros: todos os seus vasos farás de cobre."
+            },
+            {
+                "id": "v27.4",
+                "versicle_number": 4,
+                "text": "Far-lhe-ás também um crivo de cobre em forma de rede, e farás a esta rede quatro argolas de metal aos seus quatro cantos,"
+            },
+            {
+                "id": "v27.5",
+                "versicle_number": 5,
+                "text": "E as porás dentro do cerco do altar para baixo, de maneira que a rede chegue até ao meio do altar."
+            },
+            {
+                "id": "v27.6",
+                "versicle_number": 6,
+                "text": "Farás também varais para o altar, varais de madeira de cetim, e os cobrirás de cobre."
+            },
+            {
+                "id": "v27.7",
+                "versicle_number": 7,
+                "text": "E os varais se meterão nas argolas, de maneira que os varais estejam de ambos os lados do altar, quando for levado."
+            },
+            {
+                "id": "v27.8",
+                "versicle_number": 8,
+                "text": "Oco de tábuas o farás; como se te mostrou no monte, assim o farão."
+            },
+            {
+                "id": "v27.9",
+                "versicle_number": 9,
+                "text": "Farás também o pátio do tabernáculo; ao lado do meio-dia para o sul, o pátio terá cortinas de linho fino torcido; o comprimento de cada lado será de cem côvados."
+            },
+            {
+                "id": "v27.10",
+                "versicle_number": 10,
+                "text": "Também as suas vinte colunas e as suas vinte bases serão de cobre: os colchetes das colunas e as suas faixas serão de prata."
+            },
+            {
+                "id": "v27.11",
+                "versicle_number": 11,
+                "text": "Assim também do lado do norte as cortinas na longura serão de cem côvados de comprimento: e as suas vinte colunas e as suas vinte bases serão de cobre; os colchetes das colunas e as suas faixas serão de prata."
+            },
+            {
+                "id": "v27.12",
+                "versicle_number": 12,
+                "text": "E na largura do pátio do lado do ocidente haverá cortinas de cinquenta côvados: as suas colunas dez, e as suas bases dez."
+            },
+            {
+                "id": "v27.13",
+                "versicle_number": 13,
+                "text": "Semelhantemente a largura do pátio do lado oriental para o levante será de cinquenta côvados."
+            },
+            {
+                "id": "v27.14",
+                "versicle_number": 14,
+                "text": "De maneira que haja quinze côvados de cortinas de um lado: suas colunas três, e as suas bases três."
+            },
+            {
+                "id": "v27.15",
+                "versicle_number": 15,
+                "text": "E quinze côvados de cortinas do outro lado: as suas colunas três, e as suas bases três."
+            },
+            {
+                "id": "v27.16",
+                "versicle_number": 16,
+                "text": "E à porta do pátio haverá uma coberta de vinte côvados, de azul, e púrpura, e carmesim, e de linho fino torcido, de obra de bordador: as suas colunas quatro, e as suas bases quatro."
+            },
+            {
+                "id": "v27.17",
+                "versicle_number": 17,
+                "text": "Todas as colunas do pátio ao redor serão cingidas de faixas de prata; os seus colchetes serão de prata, mas as suas bases de cobre."
+            },
+            {
+                "id": "v27.18",
+                "versicle_number": 18,
+                "text": "O comprimento do pátio será de cem côvados, e a largura de cada banda de cinquenta, e a altura de cinco côvados, de linho fino torcido: mas as suas bases serão de cobre."
+            },
+            {
+                "id": "v27.19",
+                "versicle_number": 19,
+                "text": "No tocante a todos os vasos do tabernáculo em todo o seu serviço, até todos os seus pregos, e todos os pregos do pátio, serão de cobre."
+            },
+            {
+                "id": "v27.20",
+                "versicle_number": 20,
+                "text": "Tu pois ordenarás aos filhos de Israel que te tragam azeite puro de oliveiras, batido para o candeeiro; para fazer arder as lâmpadas continuamente."
+            },
+            {
+                "id": "v27.21",
+                "versicle_number": 21,
+                "text": "Na tenda da congregação fora do véu, que está diante do testemunho, Aarão e seus filhos as porão em ordem, desde a tarde até pela manhã, perante o Senhor: um estatuto perpétuo será este pelas suas gerações, aos filhos de Israel."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v27.9",
+                "text": "O pátio do tabernáculo"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v27.20",
+                "text": "O azeite puro"
+            }
+        ],
+        "notes": []
+    }
+}

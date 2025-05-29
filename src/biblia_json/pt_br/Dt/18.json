@@ -1,0 +1,153 @@
+{
+    "book": {
+        "id": "Dt",
+        "book_number": 5,
+        "new_testament": false,
+        "num_chapters": 34,
+        "book_name": "DEUTERONÔMIO",
+        "book_full_name": "O QUINTO LIVRO DE MOISÉS DEUTERONÔMIO"
+    },
+    "chapter": {
+        "chapter_number": 18,
+        "chapter_reference": "",
+        "chapter_title": "A herança e os direitos dos sacerdotes e dos levitas",
+        "versicles": [
+            {
+                "id": "v18.1",
+                "versicle_number": 1,
+                "text": "OS sacerdotes levitas, toda a tribo de Levi, não terão parte nem herança em Israel: das ofertas, queimadas do Senhor e da sua herança comerão."
+            },
+            {
+                "id": "v18.2",
+                "versicle_number": 2,
+                "text": "Pelo que não terá herança{note:1} no meio de seus irmãos: o Senhor é a sua herança, como lhe tem dito."
+            },
+            {
+                "id": "v18.3",
+                "versicle_number": 3,
+                "text": "Este pois será o direito dos sacerdotes, a receber do povo, dos que sacrificarem sacrifício, seja boi ou gado miúdo: que dará ao sacerdote a espádua, e as queixadas, e o bucho."
+            },
+            {
+                "id": "v18.4",
+                "versicle_number": 4,
+                "text": "Dar-lhe-ás as primícias do teu grão, do teu mosto e do teu azeite, e as primícias da tosquia das tuas ovelhas."
+            },
+            {
+                "id": "v18.5",
+                "versicle_number": 5,
+                "text": "Porque o Senhor teu Deus o escolheu de todas as tuas tribos, para que assista a servir no nome do Senhor, ele e seus filhos, todos os dias."
+            },
+            {
+                "id": "v18.6",
+                "versicle_number": 6,
+                "text": "E, quando vier um levita de alguma das tuas portas, de todo o Israel, onde habitar, e vier com todo o desejo da sua alma ao lugar que o Senhor escolheu."
+            },
+            {
+                "id": "v18.7",
+                "versicle_number": 7,
+                "text": "E servir no nome do Senhor seu Deus, como também todos os seus irmãos, os levitas, que assistem ali perante o Senhor;"
+            },
+            {
+                "id": "v18.8",
+                "versicle_number": 8,
+                "text": "Igual porção comerão, além das vendas do seu patrimônio."
+            },
+            {
+                "id": "v18.9",
+                "versicle_number": 9,
+                "text": "Quando entrares na terra que o Senhor teu Deus te der, não aprenderás a fazer conforme as abominações daquelas nações,"
+            },
+            {
+                "id": "v18.10",
+                "versicle_number": 10,
+                "text": "Entre ti se não achará quem faça passar pelo fogo o seu filho ou a sua filha, nem adivinhador, nem prognosticador, nem agoureiro, nem feiticeiro;"
+            },
+            {
+                "id": "v18.11",
+                "versicle_number": 11,
+                "text": "Nem encantador de encantamentos, nem quem consulte um espírito adivinhante, nem mágico, nem quem consulte os mortos:"
+            },
+            {
+                "id": "v18.12",
+                "versicle_number": 12,
+                "text": "Pois todo aquele que faz tal cousa é abominação ao Senhor; e por estas abominações o Senhor teu Deus as lança fora de diante dele."
+            },
+            {
+                "id": "v18.13",
+                "versicle_number": 13,
+                "text": "Perfeito serás,{note:2} como o Senhor teu Deus."
+            },
+            {
+                "id": "v18.14",
+                "versicle_number": 14,
+                "text": "Porque estas nações, que hás de possuir, ouvem os prognosticadores e os adivinhadores: porém a ti o Senhor teu Deus não permitiu tal cousa."
+            },
+            {
+                "id": "v18.15",
+                "versicle_number": 15,
+                "text": "O Senhor teu Deus te despertará{note:3} um profeta do meio de ti, de teus irmãos, como eu; a ele ouvireis;"
+            },
+            {
+                "id": "v18.16",
+                "versicle_number": 16,
+                "text": "Conforme a tudo o que pediste ao Senhor teu Deus em Horebe, no dia da congregação, dizendo: Não ouvirei mais a voz do Senhor meu Deus, nem mais verei este grande fogo, para que não morra."
+            },
+            {
+                "id": "v18.17",
+                "versicle_number": 17,
+                "text": "Então o Senhor me disse: Bem falaram naquilo que disseram."
+            },
+            {
+                "id": "v18.18",
+                "versicle_number": 18,
+                "text": "Eis lhes suscitarei um profeta do meio de seus irmãos, como tu, e porei as minhas palavras na sua boca, e ele lhes falará tudo o que eu lhe ordenar."
+            },
+            {
+                "id": "v18.19",
+                "versicle_number": 19,
+                "text": "E será que qualquer que não ouvir as minhas palavras, que ele falar em meu nome, eu o requererei dele."
+            },
+            {
+                "id": "v18.20",
+                "versicle_number": 20,
+                "text": "Porém o profeta que presumir soberbamente de falar alguma palavra em meu nome, que eu lhe não tenho mandado falar, ou o que falar em nome de outros deuses, o tal profeta morrerá."
+            },
+            {
+                "id": "v18.21",
+                "versicle_number": 21,
+                "text": "E, se disseres no teu coração: Como conheceremos a palavra que o Senhor não falou?"
+            },
+            {
+                "id": "v18.22",
+                "versicle_number": 22,
+                "text": "Quando o tal profeta falar em nome do Senhor, e tal palavra se não cumprir, nem suceder assim, esta é palavra que o Senhor não falou: com soberba a falou o tal profeta: não tenhas temor dele."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v18.9",
+                "text": "As abominações das nações são proibidas"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v18.15",
+                "text": "A promessa dum grande profeta"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 18.2 Nm 18.20"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 18.13 Mt 5.48"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 18.15 At 3.22-23; 7.37"
+            }
+        ]
+    }
+}

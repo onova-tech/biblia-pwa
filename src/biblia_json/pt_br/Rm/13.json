@@ -1,0 +1,104 @@
+{
+    "book": {
+        "id": "Rm",
+        "book_number": 45,
+        "new_testament": true,
+        "num_chapters": 16,
+        "book_name": "ROMANOS",
+        "book_full_name": "EPÍSTOLA DO APÓSTOLO PAULO AOS ROMANOS"
+    },
+    "chapter": {
+        "chapter_number": 13,
+        "chapter_reference": "",
+        "chapter_title": "Submissão à autoridade",
+        "versicles": [
+            {
+                "id": "v13.1",
+                "versicle_number": 1,
+                "text": "TODA a alma esteja sujeita às potestades superiores; porque não há potestade que não venha de Deus; e as potestades que há foram ordenadas por Deus."
+            },
+            {
+                "id": "v13.2",
+                "versicle_number": 2,
+                "text": "Por isso quem resiste à potestade resiste à ordenação de Deus; e os que resistem trarão sobre si mesmos a condenação."
+            },
+            {
+                "id": "v13.3",
+                "versicle_number": 3,
+                "text": "Porque os magistrados não são terror para as boas obras, mas para as más. Queres tu, pois, não temer a potestade? Faze o bem, e terás louvor dela."
+            },
+            {
+                "id": "v13.4",
+                "versicle_number": 4,
+                "text": "Porque ela é ministro de Deus para teu bem. Mas, se fizeres o mal, teme, pois não traz debalde a espada; porque é ministro de Deus, e vingador para castigar o que faz o mal."
+            },
+            {
+                "id": "v13.5",
+                "versicle_number": 5,
+                "text": "Portanto é necessário que lhe estejais sujeitos, não somente pelo castigo, mas também pela consciência."
+            },
+            {
+                "id": "v13.6",
+                "versicle_number": 6,
+                "text": "Por esta razão também pagais tributos: porque são ministros de Deus, atendendo sempre a isto mesmo."
+            },
+            {
+                "id": "v13.7",
+                "versicle_number": 7,
+                "text": "Portanto dai a cada um o que deveis: a quem tributo, tributo: a quem imposto, imposto: a quem temor, temor: a quem honra, honra.{note:1}"
+            },
+            {
+                "id": "v13.8",
+                "versicle_number": 8,
+                "text": "A ninguém devais coisa alguma, a não ser o amor com que vos ameis uns aos outros: porque quem ama aos outros cumpriu a lei."
+            },
+            {
+                "id": "v13.9",
+                "versicle_number": 9,
+                "text": "Com efeito: Não adulterarás:{note:2} Não matarás:{note:3} Não furtarás:{note:4} Não darás falso testemunho: Não cobiçarás:{note:5} e se há algum outro mandamento, tudo nesta palavra se resume: Amarás ao teu próximo como a ti mesmo.{note:6}"
+            },
+            {
+                "id": "v13.10",
+                "versicle_number": 10,
+                "text": "O amor não faz mal ao próximo. De sorte que o cumprimento da lei é o amor."
+            },
+            {
+                "id": "v13.11",
+                "versicle_number": 11,
+                "text": "E isto digo, conhecendo o tempo, que é já hora de despertarmos do sono; porque a nossa salvação está agora mais perto de nós do que quando aceitamos a fé."
+            },
+            {
+                "id": "v13.12",
+                "versicle_number": 12,
+                "text": "A noite é passada, e o dia é chegado. Rejeitemos pois as obras das trevas, e vistamo-nos das armas da luz."
+            },
+            {
+                "id": "v13.13",
+                "versicle_number": 13,
+                "text": "Andemos honestamente, como de dia: não em glutonarias, nem em bebedeiras, nem em desonestidades, nem em dissoluções, nem em contendas e inveja."
+            },
+            {
+                "id": "v13.14",
+                "versicle_number": 14,
+                "text": "Mas revesti-vos do Senhor Jesus Cristo, e não tenhais cuidado da carne em suas concupiscências."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v13.8",
+                "text": "O amor ao próximo, a vigilância, a pureza"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 13.6-7 Mt 22.21; Mc 12.17; Lc 20.25"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 13.9 Êx 20.14; Dt 5.18 {note:6} 13.9 Lv 19.18 {note:5} 13.9 Êx 20.17; Dt 5.21 {note:4} 13.9 Êx 20.15; Dt 5.19 {note:3} 13.9 Êx 20.13; Dt 5.17"
+            }
+        ]
+    }
+}

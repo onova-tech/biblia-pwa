@@ -1,0 +1,141 @@
+{
+    "book": {
+        "id": "Jr",
+        "book_number": 24,
+        "new_testament": false,
+        "num_chapters": 52,
+        "book_name": "JEREMIAS",
+        "book_full_name": "JEREMIAS"
+    },
+    "chapter": {
+        "chapter_number": 15,
+        "chapter_reference": "",
+        "chapter_title": "",
+        "versicles": [
+            {
+                "id": "v15.1",
+                "versicle_number": 1,
+                "text": "DISSE-ME, porém, o Senhor: Ainda que Moisés{note:1} e Samuel{note:2} se pusessem diante de mim, não seria a minha alma com este povo: lança-os de diante da minha face, e saiam."
+            },
+            {
+                "id": "v15.2",
+                "versicle_number": 2,
+                "text": "E será que, quando te disserem: Para onde iremos? dir-lhes-ás: Assim diz o Senhor: Os que para a morte, para a morte; e os que para a espada,{note:3} para a espada; e os que para a fome, para a fome; e os que para o cativeiro, para o cativeiro."
+            },
+            {
+                "id": "v15.3",
+                "versicle_number": 3,
+                "text": "Porque os visitarei{note:4} com quatro gêneros de males, diz o Senhor: com espada para matar, e com cães, para os arrastarem, e com as aves dos céus, e os animais da terra, para os devorarem e destruírem."
+            },
+            {
+                "id": "v15.4",
+                "versicle_number": 4,
+                "text": "Entregá-los-ei ao desterro em todos os reinos da terra; por causa de Manassés,{note:5} filho de Ezequias, rei de Judá, por tudo quanto fez em Jerusalém."
+            },
+            {
+                "id": "v15.5",
+                "versicle_number": 5,
+                "text": "Porque quem se compadeceria de ti, ó Jerusalém? ou quem se entristeceria por ti? ou quem se desviaria a perguntar pela tua paz?"
+            },
+            {
+                "id": "v15.6",
+                "versicle_number": 6,
+                "text": "Tu me deixaste, diz o Senhor, voltaste para trás; por isso estenderei a minha mão contra ti, e te destruirei; estou cansado de me arrepender."
+            },
+            {
+                "id": "v15.7",
+                "versicle_number": 7,
+                "text": "E padejá-los-ei com a pá nas portas da terra: desfilhei, destruí o meu povo; não voltaram dos seus caminhos."
+            },
+            {
+                "id": "v15.8",
+                "versicle_number": 8,
+                "text": "As suas viúvas mais se multiplicaram do que as areias dos mares; trouxe ao meio-dia um destruidor sobre a mãe dos mancebos; fiz que caísse de repente sobre ela, e enchesse a cidade de terrores."
+            },
+            {
+                "id": "v15.9",
+                "versicle_number": 9,
+                "text": "A que dava à luz sete se enfraqueceu; expirou a sua alma; pôs-se o seu sol sendo ainda de dia; ela confundiu-se, e envergonhou-se: e os que ficarem dela eu os entregarei à espada, diante dos seus inimigos, diz o Senhor."
+            },
+            {
+                "id": "v15.10",
+                "versicle_number": 10,
+                "text": "Ai de mim, minha mãe! porque me deste à luz homem de rixa e homem de contenda para toda a terra? nunca lhes emprestei com usura, nem eles me emprestaram a mim com usura, e todavia cada um deles me amaldiçoa."
+            },
+            {
+                "id": "v15.11",
+                "versicle_number": 11,
+                "text": "Disse o Senhor: Decerto que te fortalecerei para bem, e, no tempo da calamidade e no tempo da angústia, farei que o inimigo te dirija súplicas."
+            },
+            {
+                "id": "v15.12",
+                "versicle_number": 12,
+                "text": "Pode alguém quebrar o ferro, o ferro do norte, ou o aço?"
+            },
+            {
+                "id": "v15.13",
+                "versicle_number": 13,
+                "text": "A tua fazenda e os teus tesouros entregarei sem preço ao saque; e isso por todos os teus pecados, mesmo em todos os teus limites."
+            },
+            {
+                "id": "v15.14",
+                "versicle_number": 14,
+                "text": "E levar-te-ei com os teus inimigos para a terra que não conheces; porque o fogo se acendeu em minha ira, e sobre vós arderá."
+            },
+            {
+                "id": "v15.15",
+                "versicle_number": 15,
+                "text": "Tu, ó Senhor, o sabes: lembra-te de mim, e visita-me, e vinga-me dos meus perseguidores: não me arrebates, por tua longanimidade: sabe que por amor de ti tenho sofrido afronta."
+            },
+            {
+                "id": "v15.16",
+                "versicle_number": 16,
+                "text": "Achando-se as tuas palavras, logo as comi, e a tua palavra foi para mim o gozo e alegria do meu coração; porque pelo teu nome me chamo, ó Senhor, Deus dos Exércitos."
+            },
+            {
+                "id": "v15.17",
+                "versicle_number": 17,
+                "text": "Nunca me assentei no congresso dos zombadores, nem me regozijei; por causa da tua mão me assentei solitário: pois me encheste de indignação."
+            },
+            {
+                "id": "v15.18",
+                "versicle_number": 18,
+                "text": "Por que dura a minha dor continuamente, e a minha ferida me dói, não admite cura? Serias tu para mim como ilusório ribeiro e como águas inconstantes?"
+            },
+            {
+                "id": "v15.19",
+                "versicle_number": 19,
+                "text": "Portanto assim diz o Senhor: Se tu voltares, então te trarei, e estarás diante da minha face; e se apartares o precioso do vil, serás como a minha boca; tornem-se eles para ti, mas não voltes tu para eles."
+            },
+            {
+                "id": "v15.20",
+                "versicle_number": 20,
+                "text": "E eu te porei contra este povo como forte muro de bronze; e pelejarão contra ti, mas não prevalecerão contra ti: porque eu sou contigo para te guardar, para te livrar deles, diz o Senhor."
+            },
+            {
+                "id": "v15.21",
+                "versicle_number": 21,
+                "text": "E arrebatar-te-ei da mão dos malignos, e livrar-te-ei das mãos dos fortes."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 15.1 Êx 32.11-14; Nm 14.13-19 {note:2} 15.1 1Sm 7.5-9"
+            },
+            {
+                "id": "n2",
+                "text": "{note:3} 15.2 Ap 13.10"
+            },
+            {
+                "id": "n3",
+                "text": "{note:4} 15.3 Ap 6.8"
+            },
+            {
+                "id": "n4",
+                "text": "{note:5} 15.4 2Rs 21.1-16; 2Cr 33.1-9"
+            }
+        ]
+    }
+}

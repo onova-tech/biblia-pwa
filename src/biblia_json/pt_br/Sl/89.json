@@ -1,0 +1,304 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 89,
+        "chapter_reference": "",
+        "chapter_title": "Traz-se à memória o pacto de Deus com Davi, a fim de que Deus livre o seu povo dos males presentes",
+        "versicles": [
+            {
+                "id": "v89.1",
+                "versicle_number": 1,
+                "text": "AS benignidades do Senhor cantarei perpetuamente: com a minha boca manifestarei a tua fidelidade de geração em geração."
+            },
+            {
+                "id": "v89.2",
+                "versicle_number": 2,
+                "text": "Pois disse eu: A tua benignidade será edificada para sempre: tu confirmarás a tua fidelidade até nos céus, dizendo:"
+            },
+            {
+                "id": "v89.3",
+                "versicle_number": 3,
+                "text": "Fiz um concerto com o meu escolhido; jurei ao meu servo Davi:"
+            },
+            {
+                "id": "v89.4",
+                "versicle_number": 4,
+                "text": "A tua descendência estabelecerei para sempre, e edificarei o teu trono de geração em geração.{note:2} (Selá.)"
+            },
+            {
+                "id": "v89.5",
+                "versicle_number": 5,
+                "text": "E os céus louvarão as tuas maravilhas, ó Senhor, e a tua fidelidade também na assembleia dos santos."
+            },
+            {
+                "id": "v89.6",
+                "versicle_number": 6,
+                "text": "Pois quem no céu se pode igualar ao Senhor? Quem é semelhante ao Senhor entre os filhos dos poderosos?"
+            },
+            {
+                "id": "v89.7",
+                "versicle_number": 7,
+                "text": "Deus deve ser em extremo tremendo na assembleia dos santos, e grandemente reverenciado por todos os que o cercam."
+            },
+            {
+                "id": "v89.8",
+                "versicle_number": 8,
+                "text": "Ó Senhor, Deus dos Exércitos, quem é forte como tu, Senhor, com a tua fidelidade ao redor de ti?!"
+            },
+            {
+                "id": "v89.9",
+                "versicle_number": 9,
+                "text": "Tu dominas o ímpeto do mar: quando as suas ondas se levantam, tu as fazes aquietar."
+            },
+            {
+                "id": "v89.10",
+                "versicle_number": 10,
+                "text": "Tu quebrantaste a Raabe como se fora ferida de morte; espalhaste os teus inimigos com o teu braço poderoso."
+            },
+            {
+                "id": "v89.11",
+                "versicle_number": 11,
+                "text": "Teus são os céus, e tua é a terra; o mundo e a sua plenitude tu os fundaste."
+            },
+            {
+                "id": "v89.12",
+                "versicle_number": 12,
+                "text": "O norte e o sul tu os criaste; o Tabor e o Hermom regozijam-se em teu nome."
+            },
+            {
+                "id": "v89.13",
+                "versicle_number": 13,
+                "text": "Tu tens um braço poderoso; forte é a tua mão, e elevada a tua destra."
+            },
+            {
+                "id": "v89.14",
+                "versicle_number": 14,
+                "text": "Justiça e juízo são a base do teu trono; misericórdia e verdade vão adiante do teu rosto."
+            },
+            {
+                "id": "v89.15",
+                "versicle_number": 15,
+                "text": "Bem-aventurado o povo que conhece o som festivo: andará, ó Senhor, na luz da tua face."
+            },
+            {
+                "id": "v89.16",
+                "versicle_number": 16,
+                "text": "Em teu nome se alegrará todo o dia, e na tua justiça se exaltará."
+            },
+            {
+                "id": "v89.17",
+                "versicle_number": 17,
+                "text": "Pois tu és a glória da sua força; e pelo teu favor será exaltado o nosso {note:j}poder."
+            },
+            {
+                "id": "v89.18",
+                "versicle_number": 18,
+                "text": "Porque o Senhor é a nossa defesa, e o Santo de Israel o nosso Rei."
+            },
+            {
+                "id": "v89.19",
+                "versicle_number": 19,
+                "text": "Então em visão falaste do teu santo, e disseste: Socorri um que é esforçado: exaltei a um eleito do povo."
+            },
+            {
+                "id": "v89.20",
+                "versicle_number": 20,
+                "text": "Achei a Davi,{note:3} meu servo; com o meu santo óleo o ungi:"
+            },
+            {
+                "id": "v89.21",
+                "versicle_number": 21,
+                "text": "Com ele a minha mão ficará firme, e o meu braço o fortalecerá."
+            },
+            {
+                "id": "v89.22",
+                "versicle_number": 22,
+                "text": "O inimigo não o importunará, nem o filho da perversidade o afligirá."
+            },
+            {
+                "id": "v89.23",
+                "versicle_number": 23,
+                "text": "E eu derribarei os seus inimigos perante a sua face, e ferirei os que o aborrecem."
+            },
+            {
+                "id": "v89.24",
+                "versicle_number": 24,
+                "text": "E a minha fidelidade e a minha benignidade estarão com ele; e em meu nome será exaltado o seu poder."
+            },
+            {
+                "id": "v89.25",
+                "versicle_number": 25,
+                "text": "E porei a sua mão no mar, e a sua direita nos rios."
+            },
+            {
+                "id": "v89.26",
+                "versicle_number": 26,
+                "text": "Ele me invocará, dizendo: Tu és meu pai, meu Deus, e a rocha da minha salvação."
+            },
+            {
+                "id": "v89.27",
+                "versicle_number": 27,
+                "text": "Também por isso lhe darei o lugar de primogênito;{note:4} fá-lo-ei mais elevado do que os reis da terra."
+            },
+            {
+                "id": "v89.28",
+                "versicle_number": 28,
+                "text": "A minha benignidade lhe guardarei para sempre, e o meu concerto lhe será firme."
+            },
+            {
+                "id": "v89.29",
+                "versicle_number": 29,
+                "text": "E conservarei para sempre a sua descendência, e o seu trono como os dias do céu."
+            },
+            {
+                "id": "v89.30",
+                "versicle_number": 30,
+                "text": "Se os seus filhos deixarem a minha lei, e não andarem nos meus juízos,"
+            },
+            {
+                "id": "v89.31",
+                "versicle_number": 31,
+                "text": "Se profanarem os meus preceitos, e não guardarem os meus mandamentos,"
+            },
+            {
+                "id": "v89.32",
+                "versicle_number": 32,
+                "text": "Então visitarei com vara a sua transgressão, e a sua iniquidade com açoites."
+            },
+            {
+                "id": "v89.33",
+                "versicle_number": 33,
+                "text": "Mas não retirarei totalmente dele a minha benignidade, nem faltarei à minha fidelidade."
+            },
+            {
+                "id": "v89.34",
+                "versicle_number": 34,
+                "text": "Não quebrarei o meu concerto, não alterarei o que saiu dos meus lábios."
+            },
+            {
+                "id": "v89.35",
+                "versicle_number": 35,
+                "text": "Uma vez jurei por minha santidade que não mentirei a Davi."
+            },
+            {
+                "id": "v89.36",
+                "versicle_number": 36,
+                "text": "A sua descendência durará para sempre, e o seu trono será como o sol perante mim;"
+            },
+            {
+                "id": "v89.37",
+                "versicle_number": 37,
+                "text": "Será estabelecido para sempre como a lua: e a testemunha no céu é fiel. (Selá.)"
+            },
+            {
+                "id": "v89.38",
+                "versicle_number": 38,
+                "text": "Mas tu rejeitaste e aborreceste: tu te indignaste contra o teu ungido."
+            },
+            {
+                "id": "v89.39",
+                "versicle_number": 39,
+                "text": "Abominaste o concerto do teu servo: profanaste a sua coroa, lançando-a por terra."
+            },
+            {
+                "id": "v89.40",
+                "versicle_number": 40,
+                "text": "Derribaste todos os seus muros; arruinaste as suas fortificações."
+            },
+            {
+                "id": "v89.41",
+                "versicle_number": 41,
+                "text": "Todos os que passam pelo caminho o despojam; tornou-se o opróbrio dos seus vizinhos."
+            },
+            {
+                "id": "v89.42",
+                "versicle_number": 42,
+                "text": "Exaltaste a destra dos seus adversários; fizeste com que todos os seus inimigos se regozijassem."
+            },
+            {
+                "id": "v89.43",
+                "versicle_number": 43,
+                "text": "Também embotaste o fio da sua espada, e não o sustentaste na peleja."
+            },
+            {
+                "id": "v89.44",
+                "versicle_number": 44,
+                "text": "Fizeste cessar o seu esplendor, e deitaste por terra o seu trono."
+            },
+            {
+                "id": "v89.45",
+                "versicle_number": 45,
+                "text": "Abreviaste os dias da sua mocidade; cobriste-o de vergonha. (Selá.)"
+            },
+            {
+                "id": "v89.46",
+                "versicle_number": 46,
+                "text": "Até quando, Senhor? Esconder-te-ás para sempre? arderá a tua ira como fogo?"
+            },
+            {
+                "id": "v89.47",
+                "versicle_number": 47,
+                "text": "Lembra-te de quão breves são os meus dias; por que criarias debalde todos os filhos dos homens?"
+            },
+            {
+                "id": "v89.48",
+                "versicle_number": 48,
+                "text": "Que homem há, que viva, e não veja a morte? ou que livre a sua alma do poder do {note:k}mundo invisível? (Selá.)"
+            },
+            {
+                "id": "v89.49",
+                "versicle_number": 49,
+                "text": "Senhor, onde estão as tuas antigas benignidades, que juraste a Davi pela tua verdade?"
+            },
+            {
+                "id": "v89.50",
+                "versicle_number": 50,
+                "text": "Lembra-te, Senhor, do opróbrio dos teus servos; e de como trago no meu peito o escárnio de todos os povos poderosos:"
+            },
+            {
+                "id": "v89.51",
+                "versicle_number": 51,
+                "text": "Com o qual, Senhor, os teus inimigos têm difamado, com o qual têm difamado as pisadas do teu ungido."
+            },
+            {
+                "id": "v89.52",
+                "versicle_number": 52,
+                "text": "Bendito seja o Senhor para sempre. Amém, e Amém."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 89, título 1Rs 4.31"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 89.3-4 2Sm 7.12-16; 1Cr 17.11-14; Sl 132.11; At 2.30"
+            },
+            {
+                "id": "n3",
+                "text": "{note:j} 89.17 Heb. chifre"
+            },
+            {
+                "id": "n4",
+                "text": "{note:3} 89.20 1Sm 13.14; 16.12; At 13.22"
+            },
+            {
+                "id": "n5",
+                "text": "{note:4} 89.27 Ap 1.5"
+            },
+            {
+                "id": "n6",
+                "text": "{note:k} 89.48 Heb. Sheol"
+            }
+        ]
+    }
+}

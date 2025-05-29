@@ -1,0 +1,107 @@
+{
+    "book": {
+        "id": "Mq",
+        "book_number": 33,
+        "new_testament": false,
+        "num_chapters": 7,
+        "book_name": "MIQUEIAS",
+        "book_full_name": "MIQUEIAS"
+    },
+    "chapter": {
+        "chapter_number": 5,
+        "chapter_reference": "",
+        "chapter_title": "Predição do nascimento do Messias e da instituição do seu reino",
+        "versicles": [
+            {
+                "id": "v5.1",
+                "versicle_number": 1,
+                "text": "AGORA ajunta-te em esquadrões, ó filha de esquadrões; pôr-se-á cerco contra nós: ferirão com a vara no queixo ao juiz de Israel."
+            },
+            {
+                "id": "v5.2",
+                "versicle_number": 2,
+                "text": "E tu, Belém Efrata,{note:1} posto que pequena entre milhares de Judá, de ti me sairá o que será Senhor em Israel, e cujas saídas são desde os tempos antigos, desde os dias da eternidade."
+            },
+            {
+                "id": "v5.3",
+                "versicle_number": 3,
+                "text": "Portanto os entregará até ao tempo em que a que está de parto tiver dado à luz: então o resto de seus irmãos voltará com os filhos de Israel."
+            },
+            {
+                "id": "v5.4",
+                "versicle_number": 4,
+                "text": "E ele permanecerá, e apascentará o povo na força do Senhor, na excelência do nome do Senhor seu Deus: e eles permanecerão, porque agora será ele engrandecido até aos fins da terra."
+            },
+            {
+                "id": "v5.5",
+                "versicle_number": 5,
+                "text": "E este será a nossa paz: quando a Assíria vier à nossa terra, e quando passar sobre os nossos palácios, levantaremos contra ela sete pastores e oito príncipes dentre os homens."
+            },
+            {
+                "id": "v5.6",
+                "versicle_number": 6,
+                "text": "Esses consumirão a terra da Assíria à espada, e a terra de Ninrode{note:2} nas suas entradas. Assim nos livrará da Assíria, quando vier à nossa terra, e quando calcar os nossos termos."
+            },
+            {
+                "id": "v5.7",
+                "versicle_number": 7,
+                "text": "E estará o resto de Jacó no meio de muitos povos, como orvalho do Senhor, como chuvisco sobre a erva, que não espera pelo homem, nem aguarda filhos de homens."
+            },
+            {
+                "id": "v5.8",
+                "versicle_number": 8,
+                "text": "E o resto de Jacó estará entre as nações, no meio de muitos povos, como um leão entre os animais do bosque, como um leãozinho entre os rebanhos de ovelhas, o qual quando passar as pisará e despedaçará, sem que haja quem as livre."
+            },
+            {
+                "id": "v5.9",
+                "versicle_number": 9,
+                "text": "A tua mão se exaltará sobre os teus adversários; e todos os teus inimigos serão exterminados."
+            },
+            {
+                "id": "v5.10",
+                "versicle_number": 10,
+                "text": "E sucederá naquele dia, diz o Senhor, que eu exterminarei no meio de ti os teus cavalos, e destruirei os teus carros;"
+            },
+            {
+                "id": "v5.11",
+                "versicle_number": 11,
+                "text": "E destruirei as cidades da tua terra, e derribarei todas as tuas fortalezas;"
+            },
+            {
+                "id": "v5.12",
+                "versicle_number": 12,
+                "text": "E tirarei as feitiçarias da tua mão: e não terás agoureiros;"
+            },
+            {
+                "id": "v5.13",
+                "versicle_number": 13,
+                "text": "E arrancarei do meio de ti as tuas imagens de escultura e {note:d}as tuas estátuas; e tu não te inclinarás mais diante da obra das tuas mãos."
+            },
+            {
+                "id": "v5.14",
+                "versicle_number": 14,
+                "text": "E arrancarei os teus bosques do meio de ti; e destruirei as tuas cidades."
+            },
+            {
+                "id": "v5.15",
+                "versicle_number": 15,
+                "text": "E com ira e com furor exercerei vingança sobre as nações que não ouvem."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 5.2 Mt 2.6; Jo 7.42"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 5.6 Gn 10.8-11"
+            },
+            {
+                "id": "n3",
+                "text": "{note:d} 5.13 ou os teus pilares ou obeliscos"
+            }
+        ]
+    }
+}

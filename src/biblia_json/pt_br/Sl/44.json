@@ -1,0 +1,166 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 44,
+        "chapter_reference": "",
+        "chapter_title": "O povo de Deus recorda os favores antigos, e roga o livramento dos males presentes",
+        "versicles": [
+            {
+                "id": "v44.1",
+                "versicle_number": 1,
+                "text": "Ó DEUS, nós ouvimos com os nossos ouvidos, e nossos pais nos têm contado os feitos que realizaste em seus dias, nos tempos da antiguidade."
+            },
+            {
+                "id": "v44.2",
+                "versicle_number": 2,
+                "text": "Como expeliste as nações com a tua mão e os plantaste a eles: como afligiste os povos, e a eles os alargaste."
+            },
+            {
+                "id": "v44.3",
+                "versicle_number": 3,
+                "text": "Pois não conquistaram a terra pela sua espada, nem o seu braço os salvou, mas a tua destra e o teu braço, e a luz da tua face, porquanto te agradaste deles."
+            },
+            {
+                "id": "v44.4",
+                "versicle_number": 4,
+                "text": "Tu és o meu Rei, ó Deus: ordena {note:f}salvações para Jacó."
+            },
+            {
+                "id": "v44.5",
+                "versicle_number": 5,
+                "text": "Por ti venceremos os nossos inimigos: pelo teu nome pisaremos os que se levantam contra nós."
+            },
+            {
+                "id": "v44.6",
+                "versicle_number": 6,
+                "text": "Pois eu não confiarei no meu arco, nem a minha espada me salvará."
+            },
+            {
+                "id": "v44.7",
+                "versicle_number": 7,
+                "text": "Mas tu nos salvaste dos nossos inimigos, e confundiste os que nos aborreciam."
+            },
+            {
+                "id": "v44.8",
+                "versicle_number": 8,
+                "text": "Em Deus nos gloriamos todo o dia, e louvamos o teu nome eternamente. (Selá.)"
+            },
+            {
+                "id": "v44.9",
+                "versicle_number": 9,
+                "text": "Mas agora tu nos rejeitaste e nos confundiste, e não sais com os nossos exércitos."
+            },
+            {
+                "id": "v44.10",
+                "versicle_number": 10,
+                "text": "Tu nos fazes retirar do inimigo, e aqueles que nos odeiam nos tomam como saque."
+            },
+            {
+                "id": "v44.11",
+                "versicle_number": 11,
+                "text": "Tu nos entregaste como ovelhas para comer, e nos espalhaste entre as nações."
+            },
+            {
+                "id": "v44.12",
+                "versicle_number": 12,
+                "text": "Tu vendes por nada o teu povo, e não aumentas a tua riqueza com o seu preço."
+            },
+            {
+                "id": "v44.13",
+                "versicle_number": 13,
+                "text": "Tu nos fazes o opróbrio dos nossos vizinhos, o escárnio e a zombaria daqueles que estão à roda de nós."
+            },
+            {
+                "id": "v44.14",
+                "versicle_number": 14,
+                "text": "Tu nos pões por provérbio entre as nações, por movimento de cabeça entre os povos."
+            },
+            {
+                "id": "v44.15",
+                "versicle_number": 15,
+                "text": "A minha {note:g}confusão está constantemente diante de mim, e a vergonha do meu rosto me cobre."
+            },
+            {
+                "id": "v44.16",
+                "versicle_number": 16,
+                "text": "À voz daquele que afronta e blasfema, por causa do inimigo e do que se vinga."
+            },
+            {
+                "id": "v44.17",
+                "versicle_number": 17,
+                "text": "Tudo isto nos sobreveio: todavia não nos esquecemos de ti, nem nos houvemos falsamente contra o teu concerto."
+            },
+            {
+                "id": "v44.18",
+                "versicle_number": 18,
+                "text": "O nosso coração não voltou atrás, nem os nossos passos se desviaram das tuas veredas;"
+            },
+            {
+                "id": "v44.19",
+                "versicle_number": 19,
+                "text": "Ainda que nos quebrantaste num lugar de {note:h}dragões, e nos cobriste com a sombra da morte."
+            },
+            {
+                "id": "v44.20",
+                "versicle_number": 20,
+                "text": "Se nós esquecemos o nome do nosso Deus, e estendemos as nossas mãos para um deus estranho,"
+            },
+            {
+                "id": "v44.21",
+                "versicle_number": 21,
+                "text": "Porventura não conhecerá Deus isso? pois ele sabe os segredos do coração."
+            },
+            {
+                "id": "v44.22",
+                "versicle_number": 22,
+                "text": "Sim, por amor de ti,{note:1} somos mortos todo dia: somos reputados como ovelhas para o matadouro."
+            },
+            {
+                "id": "v44.23",
+                "versicle_number": 23,
+                "text": "Desperta! por que dormes, Senhor? acorda! não nos rejeites para sempre."
+            },
+            {
+                "id": "v44.24",
+                "versicle_number": 24,
+                "text": "Por que escondes a tua face, e te esqueces da nossa miséria e da nossa opressão?"
+            },
+            {
+                "id": "v44.25",
+                "versicle_number": 25,
+                "text": "Pois a nossa alma está abatida até ao pó; o nosso corpo curvado até ao chão."
+            },
+            {
+                "id": "v44.26",
+                "versicle_number": 26,
+                "text": "Levanta-te em nosso auxílio, e resgata-nos por amor das tuas misericórdias."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:f} 44.4 ou vitórias"
+            },
+            {
+                "id": "n2",
+                "text": "{note:g} 44.15 ou desonra"
+            },
+            {
+                "id": "n3",
+                "text": "{note:h} 44.19 ou chacais"
+            },
+            {
+                "id": "n4",
+                "text": "{note:1} 44.22 Rm 8.36"
+            }
+        ]
+    }
+}

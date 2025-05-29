@@ -1,0 +1,174 @@
+{
+    "book": {
+        "id": "Ef",
+        "book_number": 49,
+        "new_testament": true,
+        "num_chapters": 6,
+        "book_name": "EFÉSIOS",
+        "book_full_name": "EPÍSTOLA DO APÓSTOLO PAULO AOS EFÉSIOS"
+    },
+    "chapter": {
+        "chapter_number": 6,
+        "chapter_reference": "",
+        "chapter_title": "A armadura de Deus",
+        "versicles": [
+            {
+                "id": "v6.1",
+                "versicle_number": 1,
+                "text": "VÓS, filhos, sede obedientes a vossos pais no Senhor, porque isto é justo."
+            },
+            {
+                "id": "v6.2",
+                "versicle_number": 2,
+                "text": "Honra a teu pai e a tua mãe que é o primeiro mandamento com promessa;"
+            },
+            {
+                "id": "v6.3",
+                "versicle_number": 3,
+                "text": "Para que te vá bem, e vivas muito tempo sobre a terra.{note:1}"
+            },
+            {
+                "id": "v6.4",
+                "versicle_number": 4,
+                "text": "E vós, pais, não provoqueis a ira a vossos filhos, mas criai-os na doutrina e admoestação do Senhor."
+            },
+            {
+                "id": "v6.5",
+                "versicle_number": 5,
+                "text": "Vós, servos, obedecei a vossos senhores segundo a carne, com temor e tremor, na sinceridade de vosso coração, como a Cristo;"
+            },
+            {
+                "id": "v6.6",
+                "versicle_number": 6,
+                "text": "Não servindo à vista, como para agradar aos homens, mas como servos de Cristo, fazendo de coração a vontade de Deus;"
+            },
+            {
+                "id": "v6.7",
+                "versicle_number": 7,
+                "text": "Servindo de boa vontade como ao Senhor, e não como aos homens."
+            },
+            {
+                "id": "v6.8",
+                "versicle_number": 8,
+                "text": "Sabendo que cada um receberá do Senhor todo o bem que fizer, seja servo, seja livre."
+            },
+            {
+                "id": "v6.9",
+                "versicle_number": 9,
+                "text": "E vós senhores, fazei o mesmo para com eles, deixando as ameaças, sabendo também que o Senhor deles e vosso está no céu, e que para com ele não há acepção de pessoas.{note:2}{note:3}"
+            },
+            {
+                "id": "v6.10",
+                "versicle_number": 10,
+                "text": "No demais, irmãos meus, fortalecei-vos no Senhor e na força do seu poder."
+            },
+            {
+                "id": "v6.11",
+                "versicle_number": 11,
+                "text": "Revesti-vos de toda a armadura de Deus, para que possais estar firmes contra as astutas ciladas do diabo."
+            },
+            {
+                "id": "v6.12",
+                "versicle_number": 12,
+                "text": "Porque não temos que lutar contra a carne e o sangue, mas sim contra os principados, contra as potestades, contra os príncipes das trevas deste século, contra as hostes espirituais da maldade, nos lugares celestiais."
+            },
+            {
+                "id": "v6.13",
+                "versicle_number": 13,
+                "text": "Portanto tomai toda a armadura de Deus, para que possais resistir no dia mau, e, havendo feito tudo, ficar firmes."
+            },
+            {
+                "id": "v6.14",
+                "versicle_number": 14,
+                "text": "Estai pois firmes, tendo cingidos os vossos lombos com a verdade,{note:4} e vestida a couraça da justiça;{note:5}"
+            },
+            {
+                "id": "v6.15",
+                "versicle_number": 15,
+                "text": "E calçados os pés{note:6} na preparação do Evangelho da paz;"
+            },
+            {
+                "id": "v6.16",
+                "versicle_number": 16,
+                "text": "Tomando sobretudo o escudo da fé, com o qual podereis apagar todos os dardos inflamados do maligno."
+            },
+            {
+                "id": "v6.17",
+                "versicle_number": 17,
+                "text": "Tomai também o capacete da salvação,{note:7} e a espada do Espírito, que é a palavra de Deus;"
+            },
+            {
+                "id": "v6.18",
+                "versicle_number": 18,
+                "text": "Orando em todo o tempo com toda a oração e súplica no Espírito, e vigiando nisto com toda a perseverança e súplica por todos os santos,"
+            },
+            {
+                "id": "v6.19",
+                "versicle_number": 19,
+                "text": "E por mim; para que me seja dada, no abrir da minha boca, a palavra com confiança, para fazer notório o mistério do evangelho,"
+            },
+            {
+                "id": "v6.20",
+                "versicle_number": 20,
+                "text": "Pelo qual sou embaixador {note:d}em cadeias; para que possa falar dele livremente, como me convém falar."
+            },
+            {
+                "id": "v6.21",
+                "versicle_number": 21,
+                "text": "Ora, para que vós também possais saber dos meus negócios, e o que eu faço, Tíquico, irmão amado, e fiel ministro do Senhor, vos informará de tudo."
+            },
+            {
+                "id": "v6.22",
+                "versicle_number": 22,
+                "text": "O qual vos enviei para o mesmo fim, para que saibais do nosso estado, e ele console os vossos corações.{note:8}"
+            },
+            {
+                "id": "v6.23",
+                "versicle_number": 23,
+                "text": "Paz seja com os irmãos, e caridade com fé da parte de Deus Pai e da do Senhor Jesus Cristo."
+            },
+            {
+                "id": "v6.24",
+                "versicle_number": 24,
+                "text": "A graça seja com todos os que amam a nosso Senhor Jesus Cristo em sinceridade. Amém."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v6.21",
+                "text": "Tíquico, o portador desta epístola. Saudações finais"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 6.2-3 Êx 20.12; Dt 5.16"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 6.9 Dt 10.17; Cl 4.1 {note:3} 5.21—6.9 Cl 3.18—4.1"
+            },
+            {
+                "id": "n3",
+                "text": "{note:4} 6.14 Is 11.5 {note:5} 6.14 Is 59.17"
+            },
+            {
+                "id": "n4",
+                "text": "{note:6} 6.15 Is 52.7"
+            },
+            {
+                "id": "n5",
+                "text": "{note:7} 6.17 Is 59.17"
+            },
+            {
+                "id": "n6",
+                "text": "{note:d} 6.20 Gr. numa cadeia"
+            },
+            {
+                "id": "n7",
+                "text": "{note:8} 6.21-22 At 20.4; Cl 4.7,8; 2Tm 4.12"
+            }
+        ]
+    }
+}

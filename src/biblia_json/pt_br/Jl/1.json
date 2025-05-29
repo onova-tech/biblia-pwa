@@ -1,0 +1,128 @@
+{
+    "book": {
+        "id": "Jl",
+        "book_number": 29,
+        "new_testament": false,
+        "num_chapters": 3,
+        "book_name": "JOEL",
+        "book_full_name": "JOEL"
+    },
+    "chapter": {
+        "chapter_number": 1,
+        "chapter_reference": "",
+        "chapter_title": "A terrível carestia causada pela locusta e pela seca",
+        "versicles": [
+            {
+                "id": "v1.1",
+                "versicle_number": 1,
+                "text": "PALAVRA do Senhor, que foi dirigida a Joel, filho de Petuel."
+            },
+            {
+                "id": "v1.2",
+                "versicle_number": 2,
+                "text": "Ouvi isto, vós, anciãos, e escutai, todos os moradores da terra: Aconteceu isto em vossos dias? ou também nos dias de vossos pais?"
+            },
+            {
+                "id": "v1.3",
+                "versicle_number": 3,
+                "text": "Fazei sobre isto uma narração a vossos filhos, e vossos filhos a seus filhos, e os filhos destes à outra geração."
+            },
+            {
+                "id": "v1.4",
+                "versicle_number": 4,
+                "text": "O que ficou da lagarta, o comeu o gafanhoto, e o que ficou do gafanhoto o comeu a locusta, e o que ficou da locusta o comeu o pulgão."
+            },
+            {
+                "id": "v1.5",
+                "versicle_number": 5,
+                "text": "Despertai ébrios, e chorai; gemei, todos os que bebeis vinho, por causa do mosto, porque tirado é da vossa boca."
+            },
+            {
+                "id": "v1.6",
+                "versicle_number": 6,
+                "text": "Porque uma nação subiu sobre a minha terra, poderosa e sem número: os seus dentes são dentes de leão,{note:1} e têm queixadas de um leão velho."
+            },
+            {
+                "id": "v1.7",
+                "versicle_number": 7,
+                "text": "Fez da minha vide uma assolação, e tirou a casca da minha figueira: despiu-a toda, e a lançou por terra; os seus sarmentos se embranqueceram."
+            },
+            {
+                "id": "v1.8",
+                "versicle_number": 8,
+                "text": "Lamenta como a virgem que está cingida de saco, pelo marido da sua mocidade."
+            },
+            {
+                "id": "v1.9",
+                "versicle_number": 9,
+                "text": "Foi cortada a oferta de manjar, e a libação da casa do Senhor: os sacerdotes, servos do Senhor, estão entristecidos."
+            },
+            {
+                "id": "v1.10",
+                "versicle_number": 10,
+                "text": "O campo está assolado, e a terra triste; porque o trigo está destruído, o mosto se secou, o óleo falta."
+            },
+            {
+                "id": "v1.11",
+                "versicle_number": 11,
+                "text": "Os lavradores se envergonham, os vinhateiros gemem, sobre o trigo e sobre a cevada; porque a colheita do campo pereceu."
+            },
+            {
+                "id": "v1.12",
+                "versicle_number": 12,
+                "text": "A vide se secou, a figueira se murchou; a romeira também, e a palmeira e a macieira; todas as árvores do campo se secaram, e a alegria se secou entre os filhos dos homens."
+            },
+            {
+                "id": "v1.13",
+                "versicle_number": 13,
+                "text": "Cingi-vos e lamentai-vos, sacerdotes; gemei, ministros do altar; entrai e passai, vestidos de sacos, durante a noite, ministros do meu Deus; porque a oferta de manjares, e a libação, cortadas foram da casa de vosso Deus."
+            },
+            {
+                "id": "v1.14",
+                "versicle_number": 14,
+                "text": "Santificai um jejum, apregoai um dia de proibição, congregai os anciãos, e todos os moradores desta terra, na casa do Senhor vosso Deus, e clamai ao Senhor."
+            },
+            {
+                "id": "v1.15",
+                "versicle_number": 15,
+                "text": "Ah! aquele dia! porque o dia do Senhor está perto,{note:2} e virá como uma assolação do Todo-poderoso."
+            },
+            {
+                "id": "v1.16",
+                "versicle_number": 16,
+                "text": "Porventura o mantimento não está cortado de diante de nossos olhos? a alegria e o regozijo da casa de nosso Deus?"
+            },
+            {
+                "id": "v1.17",
+                "versicle_number": 17,
+                "text": "A semente apodreceu debaixo dos seus torrões, os celeiros foram assolados, os armazéns derribados, porque se secou o trigo."
+            },
+            {
+                "id": "v1.18",
+                "versicle_number": 18,
+                "text": "Como geme o gado! as manadas de vacas estão confusas, porque não têm pasto: também os rebanhos de ovelhas são destruídos."
+            },
+            {
+                "id": "v1.19",
+                "versicle_number": 19,
+                "text": "A ti, ó Senhor clamo, porque o fogo consumiu os pastos do deserto, e a chama abrasou todas as árvores do campo."
+            },
+            {
+                "id": "v1.20",
+                "versicle_number": 20,
+                "text": "Também todos os animais do campo bramam a ti; porque os rios se secaram, e o fogo consumiu os pastos do deserto."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 1.6 Ap 9.8"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 1.15 Is 13.6"
+            }
+        ]
+    }
+}

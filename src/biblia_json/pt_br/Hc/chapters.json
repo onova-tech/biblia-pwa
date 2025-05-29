@@ -1,0 +1,27 @@
+{
+    "book": {
+        "id": "Hc",
+        "book_number": 35,
+        "new_testament": false,
+        "num_chapters": 3,
+        "book_name": "HABACUQUE",
+        "book_full_name": "HABACUQUE"
+    },
+    "chapters": [
+        {
+            "chapter_number": 1,
+            "chapter_reference": "",
+            "chapter_title": "A iniquidade de Judá: este será castigado pelos caldeus: a intercessão do profeta"
+        },
+        {
+            "chapter_number": 2,
+            "chapter_reference": "",
+            "chapter_title": "Os caldeus serão castigados a seu turno"
+        },
+        {
+            "chapter_number": 3,
+            "chapter_reference": "",
+            "chapter_title": "A oração de Habacuque"
+        }
+    ]
+}

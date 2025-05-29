@@ -1,0 +1,82 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 112,
+        "chapter_reference": "",
+        "chapter_title": "A felicidade daquele que teme a Deus",
+        "versicles": [
+            {
+                "id": "v112.1",
+                "versicle_number": 1,
+                "text": "{note:z}LOUVAI ao Senhor. Bem-aventurado o homem que teme ao Senhor, que em seus mandamentos tem grande prazer."
+            },
+            {
+                "id": "v112.2",
+                "versicle_number": 2,
+                "text": "A sua descendência será poderosa na terra: a geração dos justos será abençoada."
+            },
+            {
+                "id": "v112.3",
+                "versicle_number": 3,
+                "text": "Fazenda e riquezas haverá na sua casa, e a sua justiça permanece para sempre."
+            },
+            {
+                "id": "v112.4",
+                "versicle_number": 4,
+                "text": "Aos justos nasce luz nas trevas: ele é piedoso, misericordioso e justo."
+            },
+            {
+                "id": "v112.5",
+                "versicle_number": 5,
+                "text": "Bem irá ao homem que se compadece, e empresta: {note:a}disporá as suas cousas com juízo."
+            },
+            {
+                "id": "v112.6",
+                "versicle_number": 6,
+                "text": "Na verdade que nunca será abalado: o justo ficará em memória eterna."
+            },
+            {
+                "id": "v112.7",
+                "versicle_number": 7,
+                "text": "Não temerá maus rumores: o seu coração está firme, confiando no Senhor."
+            },
+            {
+                "id": "v112.8",
+                "versicle_number": 8,
+                "text": "O seu coração, bem firmado, não temerá, até que ele veja cumprido o seu desejo sobre os seus inimigos."
+            },
+            {
+                "id": "v112.9",
+                "versicle_number": 9,
+                "text": "É liberal,{note:1} dá aos necessitados: a sua justiça permanece para sempre, e a sua força se exaltará em glória."
+            },
+            {
+                "id": "v112.10",
+                "versicle_number": 10,
+                "text": "O ímpio verá isto, e se enraivecerá; rangerá os dentes, e se consumirá; o desejo dos ímpios perecerá."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:z} 112.1 Heb. Aleluia"
+            },
+            {
+                "id": "n2",
+                "text": "{note:a} 112.5 ou defenderá a sua causa em juízo"
+            },
+            {
+                "id": "n3",
+                "text": "{note:1} 112.9 2Co 9.9"
+            }
+        ]
+    }
+}

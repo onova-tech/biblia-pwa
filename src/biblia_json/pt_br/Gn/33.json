@@ -1,0 +1,134 @@
+{
+    "book": {
+        "id": "Gn",
+        "book_number": 1,
+        "new_testament": false,
+        "num_chapters": 50,
+        "book_name": "GÊNESIS",
+        "book_full_name": "O PRIMEIRO LIVRO DE MOISÉS GÊNESIS"
+    },
+    "chapter": {
+        "chapter_number": 33,
+        "chapter_reference": "",
+        "chapter_title": "O encontro de Esaú e Jacó",
+        "versicles": [
+            {
+                "id": "v33.1",
+                "versicle_number": 1,
+                "text": "E LEVANTOU Jacó os seus olhos e olhou, e eis que vinha Esaú, e quatrocentos homens com ele. Então repartiu os filhos entre Leia e Raquel, e as duas servas."
+            },
+            {
+                "id": "v33.2",
+                "versicle_number": 2,
+                "text": "E pôs as servas e seus filhos na frente, e a Leia e a seus filhos atrás; porém a Raquel e José os derradeiros."
+            },
+            {
+                "id": "v33.3",
+                "versicle_number": 3,
+                "text": "E ele mesmo passou adiante deles, e inclinou-se à terra sete vezes, até que chegou a seu irmão."
+            },
+            {
+                "id": "v33.4",
+                "versicle_number": 4,
+                "text": "Então Esaú correu-lhe ao encontro, e abraçou-o, e lançou-se sobre o seu pescoço, e beijou-o; e choraram."
+            },
+            {
+                "id": "v33.5",
+                "versicle_number": 5,
+                "text": "Depois levantou os seus olhos, e viu as mulheres, e os meninos, e disse: Quem são estes contigo? E ele disse: Os filhos que Deus graciosamente tem dado a teu servo."
+            },
+            {
+                "id": "v33.6",
+                "versicle_number": 6,
+                "text": "Então chegaram as servas; elas, e os seus filhos, e inclinaram-se."
+            },
+            {
+                "id": "v33.7",
+                "versicle_number": 7,
+                "text": "E chegou também Leia com seus filhos, e inclinaram-se; e depois chegou José e Raquel, e inclinaram-se."
+            },
+            {
+                "id": "v33.8",
+                "versicle_number": 8,
+                "text": "E disse Esaú: De que te serve todo este bando que tenho encontrado? E ele disse: Para achar graça aos olhos de meu senhor."
+            },
+            {
+                "id": "v33.9",
+                "versicle_number": 9,
+                "text": "Mas Esaú disse: Eu tenho bastante, meu irmão; seja para ti o que tens."
+            },
+            {
+                "id": "v33.10",
+                "versicle_number": 10,
+                "text": "Então disse Jacó: Não, se agora tenho achado graça em teus olhos, peço-te que tomes o meu presente da minha mão porquanto tenho visto o teu rosto, como se tivesse visto o rosto de Deus, e tomaste contentamento em mim."
+            },
+            {
+                "id": "v33.11",
+                "versicle_number": 11,
+                "text": "Toma, peço-te, a minha bênção, que te foi trazida; porque Deus graciosamente ma tem dado; e porque tenho de tudo. E instou com ele, até que a tomou."
+            },
+            {
+                "id": "v33.12",
+                "versicle_number": 12,
+                "text": "E disse: Caminhemos, e andemos, e eu partirei adiante de ti."
+            },
+            {
+                "id": "v33.13",
+                "versicle_number": 13,
+                "text": "Porém ele lhe disse: Meu senhor sabe que estes filhos são tenros, e que tenho comigo ovelhas e vacas de leite; se as afadigarem somente um dia, todo o rebanho morrerá."
+            },
+            {
+                "id": "v33.14",
+                "versicle_number": 14,
+                "text": "Ora passe o meu senhor diante da face de seu servo; e eu irei como guia pouco a pouco, conforme ao passo do gado que está diante da minha face, e conforme ao passo dos meninos, até que chegue a meu senhor em Seir."
+            },
+            {
+                "id": "v33.15",
+                "versicle_number": 15,
+                "text": "E Esaú disse: Deixarei logo contigo desta gente, que está comigo. E ele disse: Para que é isso? Basta que eu ache graça aos olhos de meu senhor."
+            },
+            {
+                "id": "v33.16",
+                "versicle_number": 16,
+                "text": "Assim tornou Esaú aquele dia pelo seu caminho a Seir."
+            },
+            {
+                "id": "v33.17",
+                "versicle_number": 17,
+                "text": "Jacó, porém, partiu para Sucote e edificou para si {note:q}uma casa; e fez cabanas para o seu gado: por isso chamou o nome daquele lugar {note:r}Sucote."
+            },
+            {
+                "id": "v33.18",
+                "versicle_number": 18,
+                "text": "E chegou Jacó salvo à cidade de Siquém, que está na terra de Canaã, quando vinha de Padã-Arã; e fez o seu assento diante da cidade."
+            },
+            {
+                "id": "v33.19",
+                "versicle_number": 19,
+                "text": "E comprou uma parte do campo{note:1} em que estendera a sua tenda, da mão dos filhos de Hemor, pai de Siquém, por cem peças de dinheiro."
+            },
+            {
+                "id": "v33.20",
+                "versicle_number": 20,
+                "text": "E levantou ali um altar, e chamou-o Deus, o Deus de Israel."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v33.18",
+                "text": "Jacó chega a Siquém e levanta um altar"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:q} 33.17 ou cabanas {note:r} 33.17 que significa em paz"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 33.19 Js 24.32; Jo 4.5"
+            }
+        ]
+    }
+}

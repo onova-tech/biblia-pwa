@@ -1,0 +1,268 @@
+{
+    "book": {
+        "id": "Mt",
+        "book_number": 40,
+        "new_testament": true,
+        "num_chapters": 28,
+        "book_name": "MATEUS",
+        "book_full_name": "O SANTO EVANGELHO SEGUNDO MATEUS"
+    },
+    "chapter": {
+        "chapter_number": 9,
+        "chapter_reference": "Marcos 2.3-12; Lucas 5.18-36",
+        "chapter_title": "O paralítico de Capernaum",
+        "versicles": [
+            {
+                "id": "v9.1",
+                "versicle_number": 1,
+                "text": "E, ENTRANDO no barco, passou para a outra banda, e chegou à sua cidade. E eis que lhe trouxeram um paralítico deitado numa cama."
+            },
+            {
+                "id": "v9.2",
+                "versicle_number": 2,
+                "text": "E Jesus, vendo a fé deles, disse ao paralítico: Filho, tem bom ânimo; perdoados te são os teus pecados."
+            },
+            {
+                "id": "v9.3",
+                "versicle_number": 3,
+                "text": "E eis que alguns dos escribas diziam entre si: Ele blasfema."
+            },
+            {
+                "id": "v9.4",
+                "versicle_number": 4,
+                "text": "Mas Jesus, conhecendo os seus pensamentos, disse: Por que pensais mal em vossos corações?"
+            },
+            {
+                "id": "v9.5",
+                "versicle_number": 5,
+                "text": "Pois qual é mais fácil? dizer: Perdoados te são os teus pecados: ou dizer: Levanta-te e anda?"
+            },
+            {
+                "id": "v9.6",
+                "versicle_number": 6,
+                "text": "Ora, para que saibais que o Filho do homem tem na terra autoridade para perdoar pecados (disse então ao paralítico): Levanta-te; toma a tua cama, e vai para tua casa."
+            },
+            {
+                "id": "v9.7",
+                "versicle_number": 7,
+                "text": "E, levantando-se, foi para sua casa."
+            },
+            {
+                "id": "v9.8",
+                "versicle_number": 8,
+                "text": "E a multidão, vendo isto, maravilhou-se, e glorificou a Deus, que dera tal poder aos homens."
+            },
+            {
+                "id": "v9.9",
+                "versicle_number": 9,
+                "text": "E Jesus, passando adiante dali, viu assentado na alfândega um homem, chamado Mateus, e disse-lhe: Segue-me. E ele, levantando-se, o seguiu."
+            },
+            {
+                "id": "v9.10",
+                "versicle_number": 10,
+                "text": "E aconteceu que, estando ele em casa sentado à mesa, chegaram muitos publicanos e pecadores, e sentaram-se juntamente com Jesus e seus discípulos."
+            },
+            {
+                "id": "v9.11",
+                "versicle_number": 11,
+                "text": "E os fariseus, vendo isto, disseram aos seus discípulos: Por que come o vosso Mestre com os publicanos e pecadores?{note:1}"
+            },
+            {
+                "id": "v9.12",
+                "versicle_number": 12,
+                "text": "Jesus, porém, ouvindo, disse-lhes: Não necessitam de médico os sãos, mas sim os doentes."
+            },
+            {
+                "id": "v9.13",
+                "versicle_number": 13,
+                "text": "Ide, porém, e aprendei{note:2} o que significa: Misericórdia quero, e não sacrifício.{note:3} Porque eu não vim a chamar os justos, mas os pecadores, ao arrependimento."
+            },
+            {
+                "id": "v9.14",
+                "versicle_number": 14,
+                "text": "Então chegaram ao pé dele os discípulos de João, dizendo: Por que jejuamos nós e os fariseus muitas vezes, e os teus discípulos não jejuam?"
+            },
+            {
+                "id": "v9.15",
+                "versicle_number": 15,
+                "text": "E disse-lhes Jesus: Podem porventura andar tristes {note:l}os filhos das bodas, enquanto o esposo está com eles? Dias, porém, virão em que lhes será tirado o esposo e então jejuarão."
+            },
+            {
+                "id": "v9.16",
+                "versicle_number": 16,
+                "text": "Ninguém deita remendo de pano novo em vestido velho, porque semelhante remendo rompe o vestido, e faz-se maior a rotura."
+            },
+            {
+                "id": "v9.17",
+                "versicle_number": 17,
+                "text": "Nem se deita vinho novo em odres velhos; aliás rompem-se os odres, e entorna-se o vinho, e os odres estragam-se; mas deita-se vinho novo em odres novos, e assim ambos se conservam."
+            },
+            {
+                "id": "v9.18",
+                "versicle_number": 18,
+                "text": "Dizendo-lhes ele estas coisas, eis que chegou um {note:m}chefe, e o adorou, dizendo: Minha filha faleceu agora mesmo; mas vem, impõe-lhe a tua mão, e ela viverá."
+            },
+            {
+                "id": "v9.19",
+                "versicle_number": 19,
+                "text": "E Jesus, levantando-se, seguiu-o ele e os seus discípulos."
+            },
+            {
+                "id": "v9.20",
+                "versicle_number": 20,
+                "text": "E eis que uma mulher que havia já doze anos padecia de um fluxo de sangue, chegando por detrás dele, tocou a orla do seu vestido;"
+            },
+            {
+                "id": "v9.21",
+                "versicle_number": 21,
+                "text": "Porque dizia consigo: Se eu tão somente tocar o seu vestido, ficarei sã."
+            },
+            {
+                "id": "v9.22",
+                "versicle_number": 22,
+                "text": "E Jesus, voltando-se, e vendo-a, disse: Tem ânimo, filha, a tua fé te salvou. E imediatamente a mulher ficou sã."
+            },
+            {
+                "id": "v9.23",
+                "versicle_number": 23,
+                "text": "E Jesus, chegando à casa daquele chefe, e vendo os instrumentistas, e o povo em alvoroço,"
+            },
+            {
+                "id": "v9.24",
+                "versicle_number": 24,
+                "text": "Disse-lhes: Retirai-vos, que a menina não está morta, mas dorme. E riram-se dele."
+            },
+            {
+                "id": "v9.25",
+                "versicle_number": 25,
+                "text": "E, logo que o povo foi posto fora, entrou Jesus, e pegou-lhe na mão, e a menina levantou-se."
+            },
+            {
+                "id": "v9.26",
+                "versicle_number": 26,
+                "text": "E espalhou-se aquela notícia por todo aquele país."
+            },
+            {
+                "id": "v9.27",
+                "versicle_number": 27,
+                "text": "E, partindo Jesus dali, seguiram-no dois cegos, clamando, e dizendo: Tem compaixão de nós, filho de Davi."
+            },
+            {
+                "id": "v9.28",
+                "versicle_number": 28,
+                "text": "E, quando chegou à casa, os cegos se aproximaram dele; e Jesus disse-lhes: Credes vós que eu possa fazer isto? Disseram-lhe eles: Sim, Senhor."
+            },
+            {
+                "id": "v9.29",
+                "versicle_number": 29,
+                "text": "Tocou então os olhos deles, dizendo: Seja-vos feito segundo a vossa fé."
+            },
+            {
+                "id": "v9.30",
+                "versicle_number": 30,
+                "text": "E os olhos se lhes abriram. E Jesus ameaçou-os, dizendo: Olhai que ninguém o saiba."
+            },
+            {
+                "id": "v9.31",
+                "versicle_number": 31,
+                "text": "Mas, tendo ele saído, divulgaram a sua fama por toda aquela terra."
+            },
+            {
+                "id": "v9.32",
+                "versicle_number": 32,
+                "text": "E, havendo-se eles retirado, trouxeram-lhe um homem mudo e endemoninhado."
+            },
+            {
+                "id": "v9.33",
+                "versicle_number": 33,
+                "text": "E, expulso o demônio, falou o mudo; e a multidão se maravilhou, dizendo: Nunca tal se viu em Israel."
+            },
+            {
+                "id": "v9.34",
+                "versicle_number": 34,
+                "text": "Mas os fariseus diziam: Ele expulsa os demônios pelo príncipe dos demônios.{note:4}"
+            },
+            {
+                "id": "v9.35",
+                "versicle_number": 35,
+                "text": "E percorria{note:5} Jesus todas as cidades e aldeias, ensinando nas sinagogas deles, e pregando o evangelho do reino, e curando todas as enfermidades e moléstias entre o povo."
+            },
+            {
+                "id": "v9.36",
+                "versicle_number": 36,
+                "text": "E, vendo a multidão, teve grande compaixão deles, porque andavam desgarrados e errantes, como ovelhas que não têm pastor.{note:6}"
+            },
+            {
+                "id": "v9.37",
+                "versicle_number": 37,
+                "text": "Então disse aos seus discípulos: A seara é realmente grande, mas poucos os ceifeiros."
+            },
+            {
+                "id": "v9.38",
+                "versicle_number": 38,
+                "text": "Rogai pois ao Senhor da seara que mande ceifeiros para a sua seara.{note:7}"
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "",
+                "text": "A vocação de Mateus"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "",
+                "text": "O jejum"
+            },
+            {
+                "id": "s3",
+                "next_versicle_id": "",
+                "text": "A cura da mulher que tinha um fluxo de sangue"
+            },
+            {
+                "id": "s4",
+                "next_versicle_id": "v9.27",
+                "text": "A cura de dois cegos e um mudo"
+            },
+            {
+                "id": "s5",
+                "next_versicle_id": "v9.35",
+                "text": "A seara e os ceifeiros"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 9.10-11 Lc 15.1-2"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 9.13 Mt 12.7 {note:3} 9.13 Os 6.6"
+            },
+            {
+                "id": "n3",
+                "text": "{note:l} 9.15 Gr. os filhos da câmara nupcial"
+            },
+            {
+                "id": "n4",
+                "text": "{note:m} 9.18 ou governador"
+            },
+            {
+                "id": "n5",
+                "text": "{note:4} 9.32-34 Mt 10.25; 12.22-24; Mc 3.22; Lc 11.14-15"
+            },
+            {
+                "id": "n6",
+                "text": "{note:5} 9.35 Mt 4.23; Mc 1.39; Lc 4.44"
+            },
+            {
+                "id": "n7",
+                "text": "{note:6} 9.36 1Rs 22.17; 2Cr 18.16; Mc 6.34"
+            },
+            {
+                "id": "n8",
+                "text": "{note:7} 9.37-38 Lc 10.2"
+            }
+        ]
+    }
+}

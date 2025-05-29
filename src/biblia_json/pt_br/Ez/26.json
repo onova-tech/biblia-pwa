@@ -1,0 +1,137 @@
+{
+    "book": {
+        "id": "Ez",
+        "book_number": 26,
+        "new_testament": false,
+        "num_chapters": 48,
+        "book_name": "EZEQUIEL",
+        "book_full_name": "EZEQUIEL"
+    },
+    "chapter": {
+        "chapter_number": 26,
+        "chapter_reference": "",
+        "chapter_title": "Profecia contra Tiro",
+        "versicles": [
+            {
+                "id": "v26.1",
+                "versicle_number": 1,
+                "text": "E SUCEDEU no undécimo ano, ao primeiro do mês, que veio a mim a palavra do Senhor, dizendo:"
+            },
+            {
+                "id": "v26.2",
+                "versicle_number": 2,
+                "text": "Filho do homem, visto como Tiro disse no tocante a Jerusalém: Ah! ah! está quebrada a porta dos povos; virou-se para mim; eu me encherei, agora que ela está assolada:"
+            },
+            {
+                "id": "v26.3",
+                "versicle_number": 3,
+                "text": "Portanto assim diz o Senhor JEOVÁ: Eis que eu estou contra ti, ó Tiro, e farei subir contra ti muitas nações, como se o mar fizesse subir as suas ondas;"
+            },
+            {
+                "id": "v26.4",
+                "versicle_number": 4,
+                "text": "Elas destruirão os muros de Tiro, e derribarão as suas torres; e eu varrerei o seu pó, e dela farei uma penha descalvada."
+            },
+            {
+                "id": "v26.5",
+                "versicle_number": 5,
+                "text": "No meio do mar virá a ser um enxugadouro das redes; porque eu o anunciei, diz o Senhor JEOVÁ; e ela servirá de despojo para as nações."
+            },
+            {
+                "id": "v26.6",
+                "versicle_number": 6,
+                "text": "E suas filhas, que estão no campo, serão mortas, à espada; e saberão que eu sou o Senhor."
+            },
+            {
+                "id": "v26.7",
+                "versicle_number": 7,
+                "text": "Porque assim diz o Senhor JEOVÁ: Eis que eu trarei contra Tiro a Nabucodonosor, rei de Babilônia, desde o norte, o rei dos reis, com cavalos, e com carros, e com cavaleiros, e companhias, e muito povo."
+            },
+            {
+                "id": "v26.8",
+                "versicle_number": 8,
+                "text": "As tuas filhas no campo ele as matará à espada, e fará um baluarte contra ti, e fundará uma tranqueira contra ti, e levantará rodelas contra ti,"
+            },
+            {
+                "id": "v26.9",
+                "versicle_number": 9,
+                "text": "E porá trabucos em frente de ti contra os teus muros, e derribará as tuas torres com os seus machados."
+            },
+            {
+                "id": "v26.10",
+                "versicle_number": 10,
+                "text": "Pela multidão de seus cavalos te cobrirá de pó: os teus muros tremerão com o estrondo dos cavaleiros, e das rodas, e dos carros, quando ele entrar pelas tuas portas, como pelas entradas de uma cidade em que se fez brecha."
+            },
+            {
+                "id": "v26.11",
+                "versicle_number": 11,
+                "text": "Com as unhas dos seus cavalos pisará todas as tuas ruas: ao teu povo matará à espada, e as colunas da tua fortaleza cairão por terra."
+            },
+            {
+                "id": "v26.12",
+                "versicle_number": 12,
+                "text": "E roubarão as tuas riquezas, e saquearão as tuas mercadorias, e derribarão os teus muros, e arrasarão as tuas casas preciosas; e as tuas pedras, e as tuas madeiras, e o teu pó lançarão no meio das águas."
+            },
+            {
+                "id": "v26.13",
+                "versicle_number": 13,
+                "text": "E farei cessar o arruído das tuas cantigas,{note:1} e o som das tuas harpas não se ouvirá mais."
+            },
+            {
+                "id": "v26.14",
+                "versicle_number": 14,
+                "text": "E farei de ti uma penha descalvada; virás a ser um enxugadouro das redes, nunca mais serás edificada; porque eu, o Senhor, o falei, diz o Senhor JEOVÁ."
+            },
+            {
+                "id": "v26.15",
+                "versicle_number": 15,
+                "text": "Assim diz o Senhor JEOVÁ a Tiro: Não tremerão as ilhas com o estrondo da tua queda, quando gemerem os traspassados, quando se fizer uma espantosa matança no meio de ti?"
+            },
+            {
+                "id": "v26.16",
+                "versicle_number": 16,
+                "text": "E todos os príncipes do mar{note:2} descerão dos seus tronos, e tirarão de si os seus mantos, e despirão os seus vestidos bordados: de tremores se vestirão, sobre a terra se assentarão e estremecerão a cada momento; e por tua causa pasmarão."
+            },
+            {
+                "id": "v26.17",
+                "versicle_number": 17,
+                "text": "E levantarão uma lamentação sobre ti, e te dirão: Como pereceste, ó bem-povoada e afamada cidade, que foste forte no mar; tu e os teus moradores, que atemorizaram a todos os teus visitantes!"
+            },
+            {
+                "id": "v26.18",
+                "versicle_number": 18,
+                "text": "Agora estremecerão as ilhas no dia da tua queda; as ilhas, que estão no mar, turbar-se-ão com tua saída."
+            },
+            {
+                "id": "v26.19",
+                "versicle_number": 19,
+                "text": "Porque assim diz o Senhor JEOVÁ: Quando eu te tiver feito uma cidade assolada, como as cidades que se não habitam, quando fizer sobre ti um abismo, e as muitas águas te cobrirem,"
+            },
+            {
+                "id": "v26.20",
+                "versicle_number": 20,
+                "text": "Então te farei descer com os que descem à cova, ao povo antigo, e te deitarei nas mais baixas partes da terra, em lugares desertos antigos, com os que descem à cova, para que não sejas habitada; e estabelecerei a glória na terra dos viventes."
+            },
+            {
+                "id": "v26.21",
+                "versicle_number": 21,
+                "text": "Farei de ti um grande espanto, e não serás mais; quando te buscarem, nunca mais serás achada{note:3} para sempre, diz o Senhor JEOVÁ."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 26.13 Ap 18.22"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 26.16 Ap 18.9-10"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 26.21 Ap 18.21"
+            }
+        ]
+    }
+}

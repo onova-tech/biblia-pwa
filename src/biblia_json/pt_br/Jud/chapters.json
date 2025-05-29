@@ -1,0 +1,17 @@
+{
+    "book": {
+        "id": "Jud",
+        "book_number": 65,
+        "new_testament": true,
+        "num_chapters": 1,
+        "book_name": "JUDAS",
+        "book_full_name": "EPÍSTOLA UNIVERSAL DO APÓSTOLO JUDAS"
+    },
+    "chapters": [
+        {
+            "chapter_number": 1,
+            "chapter_reference": "",
+            "chapter_title": "Prefácio e saudação"
+        }
+    ]
+}

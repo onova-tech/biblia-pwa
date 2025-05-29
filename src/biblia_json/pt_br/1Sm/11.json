@@ -1,0 +1,94 @@
+{
+    "book": {
+        "id": "1Sm",
+        "book_number": 9,
+        "new_testament": false,
+        "num_chapters": 31,
+        "book_name": "SAMUEL",
+        "book_full_name": "O PRIMEIRO LIVRO DE SAMUEL"
+    },
+    "chapter": {
+        "chapter_number": 11,
+        "chapter_reference": "",
+        "chapter_title": "Saul vence os amonitas",
+        "versicles": [
+            {
+                "id": "v11.1",
+                "versicle_number": 1,
+                "text": "ENTÃO subiu Naás, amonita, e sitiou a Jabes-Gileade: e disseram todos os homens de Jabes a Naás: Faze aliança conosco, e te serviremos."
+            },
+            {
+                "id": "v11.2",
+                "versicle_number": 2,
+                "text": "Porém Naás, amonita, lhes disse: Com esta condição farei aliança convosco: que a todos vos arranque o olho direito, e assim ponha esta afronta sobre todo o Israel."
+            },
+            {
+                "id": "v11.3",
+                "versicle_number": 3,
+                "text": "Então os anciãos de Jabes lhe disseram: Deixa-nos por sete dias, para que enviemos mensageiros por todos os termos de Israel, e, não havendo ninguém que nos livre, então sairemos a ti."
+            },
+            {
+                "id": "v11.4",
+                "versicle_number": 4,
+                "text": "E, vindo os mensageiros a Gibeá de Saul, falaram estas palavras aos ouvidos do povo. Então todo o povo levantou a sua voz, e chorou."
+            },
+            {
+                "id": "v11.5",
+                "versicle_number": 5,
+                "text": "E eis que Saul vinha do campo, atrás dos bois; e disse Saul: Que tem o povo, que chora? E contaram-lhe as palavras dos homens de Jabes."
+            },
+            {
+                "id": "v11.6",
+                "versicle_number": 6,
+                "text": "Então o espírito de Deus se apoderou de Saul, ouvindo estas palavras: e acendeu-se em grande maneira a sua ira."
+            },
+            {
+                "id": "v11.7",
+                "versicle_number": 7,
+                "text": "E tomou um par de bois, e cortou-os em pedaços, e os enviou a todos os termos de Israel pelas mãos dos mensageiros, dizendo: Qualquer que não sair atrás de Saul e atrás de Samuel, assim se fará aos seus bois. Então caiu o temor do Senhor sobre o povo, e saíram como um só homem."
+            },
+            {
+                "id": "v11.8",
+                "versicle_number": 8,
+                "text": "E contou-os em Bezeque: e houve dos filhos de Israel trezentos mil, e dos homens de Judá trinta mil."
+            },
+            {
+                "id": "v11.9",
+                "versicle_number": 9,
+                "text": "Então disseram aos mensageiros que vieram: Assim direis aos homens de Jabes-Gileade: Amanhã em aquecendo o sol, vos virá livramento. Vindo pois os mensageiros, e anunciando-o aos homens de Jabes, se alegraram."
+            },
+            {
+                "id": "v11.10",
+                "versicle_number": 10,
+                "text": "E os homens de Jabes disseram: Amanhã sairemos a vós; então nos fareis conforme a tudo o que parece bem aos vossos olhos."
+            },
+            {
+                "id": "v11.11",
+                "versicle_number": 11,
+                "text": "E sucedeu que ao outro dia Saul pôs o povo em três companhias, e vieram ao meio do arraial pela vela da manhã, e feriram a Amom, até que o dia aqueceu: e sucedeu que os restantes se espalharam, que não ficaram dois deles juntos."
+            },
+            {
+                "id": "v11.12",
+                "versicle_number": 12,
+                "text": "Então disse o povo a Samuel: Quem é aquele que dizia que Saul não reinaria sobre nós? Dai cá aqueles homens, e os mataremos."
+            },
+            {
+                "id": "v11.13",
+                "versicle_number": 13,
+                "text": "Porém Saul disse: Hoje não morrerá nenhum, pois hoje tem obrado o Senhor um livramento em Israel."
+            },
+            {
+                "id": "v11.14",
+                "versicle_number": 14,
+                "text": "E disse Samuel ao povo: Vinde, vamos nós a Gilgal e renovemos ali o reino."
+            },
+            {
+                "id": "v11.15",
+                "versicle_number": 15,
+                "text": "E todo o povo partiu para Gilgal, e levantaram ali rei a Saul perante o Senhor em Gilgal, e ofereceram ali ofertas pacíficas perante o Senhor: e Saul se alegrou muito ali com todos os homens de Israel."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

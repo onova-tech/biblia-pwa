@@ -1,0 +1,68 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 129,
+        "chapter_reference": "",
+        "chapter_title": "A igreja é perseguida, mas não destruída",
+        "versicles": [
+            {
+                "id": "v129.1",
+                "versicle_number": 1,
+                "text": "MUITAS vezes me angustiaram desde a minha mocidade, diga agora Israel."
+            },
+            {
+                "id": "v129.2",
+                "versicle_number": 2,
+                "text": "Muitas vezes me angustiaram desde a minha mocidade; todavia não prevaleceram contra mim."
+            },
+            {
+                "id": "v129.3",
+                "versicle_number": 3,
+                "text": "Os lavradores araram sobre as minhas costas: compridos fizeram os seus sulcos."
+            },
+            {
+                "id": "v129.4",
+                "versicle_number": 4,
+                "text": "O Senhor é justo: cortou as cordas dos ímpios."
+            },
+            {
+                "id": "v129.5",
+                "versicle_number": 5,
+                "text": "Sejam confundidos, e tornem atrás todos os que aborrecem a Sião."
+            },
+            {
+                "id": "v129.6",
+                "versicle_number": 6,
+                "text": "Sejam como a erva dos telhados, que se seca antes que {note:u}a arranquem."
+            },
+            {
+                "id": "v129.7",
+                "versicle_number": 7,
+                "text": "Com o qual o segador não enche a sua mão, nem o que ata os feixes enche o seu braço."
+            },
+            {
+                "id": "v129.8",
+                "versicle_number": 8,
+                "text": "Nem tão pouco os que passam dizem: A bênção do Senhor seja sobre vós; nós vos abençoamos em nome do Senhor."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:t} 129, título ou Cântico gradual"
+            },
+            {
+                "id": "n2",
+                "text": "{note:u} 129.6 ou cresça"
+            }
+        ]
+    }
+}

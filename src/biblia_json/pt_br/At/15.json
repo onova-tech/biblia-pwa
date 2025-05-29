@@ -1,0 +1,260 @@
+{
+    "book": {
+        "id": "At",
+        "book_number": 44,
+        "new_testament": true,
+        "num_chapters": 28,
+        "book_name": "ATOS DOS APÓSTOLOS",
+        "book_full_name": "ATOS DOS APÓSTOLOS"
+    },
+    "chapter": {
+        "chapter_number": 15,
+        "chapter_reference": "",
+        "chapter_title": "A questão acerca do rito mosaico; a assembleia de Jerusalém, e sua decisão",
+        "versicles": [
+            {
+                "id": "v15.1",
+                "versicle_number": 1,
+                "text": "ENTÃO alguns que tinham descido da Judeia ensinavam assim os irmãos: Se vos não circuncidardes,{note:1} conforme o uso de Moisés, não podeis salvar-vos."
+            },
+            {
+                "id": "v15.2",
+                "versicle_number": 2,
+                "text": "Tendo tido Paulo e Barnabé não pequena discussão e contenda contra eles, resolveu-se que Paulo e Barnabé, e alguns dentre eles, subissem a Jerusalém aos apóstolos e aos anciãos sobre aquela questão."
+            },
+            {
+                "id": "v15.3",
+                "versicle_number": 3,
+                "text": "E eles, sendo acompanhados pela igreja, passavam pela Fenícia e por Samaria, contando a conversão dos gentios: e davam grande alegria a todos os irmãos."
+            },
+            {
+                "id": "v15.4",
+                "versicle_number": 4,
+                "text": "E quando chegaram a Jerusalém, foram recebidos pela igreja e pelos apóstolos e anciãos, e lhes anunciaram quão grandes coisas Deus tinha feito com eles."
+            },
+            {
+                "id": "v15.5",
+                "versicle_number": 5,
+                "text": "Alguns, porém, da seita dos fariseus, que tinham crido, se levantaram, dizendo que era mister circuncidá-los e mandar-lhes que guardassem a lei de Moisés."
+            },
+            {
+                "id": "v15.6",
+                "versicle_number": 6,
+                "text": "Congregaram-se pois os apóstolos e os anciãos para considerar este assunto."
+            },
+            {
+                "id": "v15.7",
+                "versicle_number": 7,
+                "text": "E, havendo grande contenda, levantou-se Pedro e disse-lhes: Varões irmãos, bem sabeis que já há muito tempo Deus me elegeu dentre vós, para que os gentios{note:2} ouvissem da minha boca a palavra do evangelho, e cressem."
+            },
+            {
+                "id": "v15.8",
+                "versicle_number": 8,
+                "text": "E Deus, que conhece os corações lhes deu testemunho, dando-lhes o Espírito Santo,{note:3} assim como também a nós;{note:4}"
+            },
+            {
+                "id": "v15.9",
+                "versicle_number": 9,
+                "text": "E não fez diferença alguma entre eles e nós, purificando os seus corações pela fé."
+            },
+            {
+                "id": "v15.10",
+                "versicle_number": 10,
+                "text": "Agora, pois, por que tentais a Deus, pondo sobre a cerviz dos discípulos um jugo que nem nossos pais nem nós podemos suportar?"
+            },
+            {
+                "id": "v15.11",
+                "versicle_number": 11,
+                "text": "Mas cremos que seremos salvos pela graça do Senhor Jesus Cristo, como eles também."
+            },
+            {
+                "id": "v15.12",
+                "versicle_number": 12,
+                "text": "Então toda a multidão se calou, e escutava a Barnabé e a Paulo, que contavam quão grandes sinais e prodígios Deus havia feito por meio deles entre os gentios."
+            },
+            {
+                "id": "v15.13",
+                "versicle_number": 13,
+                "text": "E, havendo-se eles calado, tomou Tiago a palavra, dizendo: Varões irmãos, ouvi-me."
+            },
+            {
+                "id": "v15.14",
+                "versicle_number": 14,
+                "text": "Simão relatou como primeiramente Deus visitou os gentios, para tomar deles um povo para o seu nome."
+            },
+            {
+                "id": "v15.15",
+                "versicle_number": 15,
+                "text": "E com isto concordam as palavras dos profetas; como está escrito:"
+            },
+            {
+                "id": "v15.16",
+                "versicle_number": 16,
+                "text": "Depois disto voltarei, e reedificarei o tabernáculo de Davi, que está caído, levantá-lo-ei das suas ruínas e tornarei a edificá-lo."
+            },
+            {
+                "id": "v15.17",
+                "versicle_number": 17,
+                "text": "Para que o resto dos homens busque ao Senhor, e todos os gentios, sobre os quais o meu nome é invocado, diz o Senhor, que faz todas estas coisas,"
+            },
+            {
+                "id": "v15.18",
+                "versicle_number": 18,
+                "text": "Que são conhecidas desde toda a eternidade.{note:5}"
+            },
+            {
+                "id": "v15.19",
+                "versicle_number": 19,
+                "text": "Pelo que julgo que não se deve perturbar aqueles, dentre os gentios, que se convertem a Deus,"
+            },
+            {
+                "id": "v15.20",
+                "versicle_number": 20,
+                "text": "Mas escrever-lhes que se abstenham das contaminações dos ídolos,{note:6} da prostituição,{note:7} do que é sufocado e do sangue.{note:8}"
+            },
+            {
+                "id": "v15.21",
+                "versicle_number": 21,
+                "text": "Porque Moisés, desde os tempos antigos, tem em cada cidade quem o pregue, e cada sábado é lido nas sinagogas."
+            },
+            {
+                "id": "v15.22",
+                "versicle_number": 22,
+                "text": "Então pareceu bem aos apóstolos e aos anciãos, com toda a igreja, eleger varões dentre eles e enviá-los com Paulo e Barnabé a Antioquia, a saber: Judas, chamado Barsabás, e Silas, varões distintos entre os irmãos."
+            },
+            {
+                "id": "v15.23",
+                "versicle_number": 23,
+                "text": "E por intermédio deles escreveram o seguinte: Os apóstolos, e os anciãos e os irmãos, aos irmãos dentre os gentios que estão em Antioquia, e Síria e Cilícia, saúde."
+            },
+            {
+                "id": "v15.24",
+                "versicle_number": 24,
+                "text": "Porquanto ouvimos que alguns que saíram dentre nós vos perturbaram com palavras, e transtornaram as vossas almas, não lhes tendo nós dado mandamento."
+            },
+            {
+                "id": "v15.25",
+                "versicle_number": 25,
+                "text": "Pareceu-nos bem, reunidos concordemente, eleger alguns varões, e enviá-los com os nossos amados Barnabé e Paulo."
+            },
+            {
+                "id": "v15.26",
+                "versicle_number": 26,
+                "text": "Homens que já expuseram as suas vidas pelo nome de nosso Senhor Jesus Cristo."
+            },
+            {
+                "id": "v15.27",
+                "versicle_number": 27,
+                "text": "Enviamos portanto Judas e Silas os quais de boca vos anunciarão também o mesmo."
+            },
+            {
+                "id": "v15.28",
+                "versicle_number": 28,
+                "text": "Na verdade pareceu bem ao Espírito Santo, e a nós, não vos impor mais encargo algum, senão estas coisas necessárias:"
+            },
+            {
+                "id": "v15.29",
+                "versicle_number": 29,
+                "text": "Que vos abstenhais das coisas sacrificadas aos ídolos, e do sangue, e da carne sufocada, e da fornicação: das quais coisas fazeis bem se vos guardardes. Bem vos vá."
+            },
+            {
+                "id": "v15.30",
+                "versicle_number": 30,
+                "text": "Tendo-se eles então despedido, partiram para Antioquia, e, ajuntando a multidão, entregaram a carta."
+            },
+            {
+                "id": "v15.31",
+                "versicle_number": 31,
+                "text": "E, quando a leram, alegraram-se pela exortação."
+            },
+            {
+                "id": "v15.32",
+                "versicle_number": 32,
+                "text": "Depois Judas e Silas, que também eram profetas, exortaram e confirmaram os irmãos com muitas palavras."
+            },
+            {
+                "id": "v15.33",
+                "versicle_number": 33,
+                "text": "E, detendo-se ali algum tempo, os irmãos os deixaram voltar em paz para os apóstolos;"
+            },
+            {
+                "id": "v15.34",
+                "versicle_number": 34,
+                "text": "Mas pareceu bem a Silas ficar ali."
+            },
+            {
+                "id": "v15.35",
+                "versicle_number": 35,
+                "text": "E Paulo e Barnabé ficaram em Antioquia, ensinando e pregando, com muitos outros, a palavra do Senhor."
+            },
+            {
+                "id": "v15.36",
+                "versicle_number": 36,
+                "text": "E alguns dias depois disse Paulo a Barnabé: Tornemos a visitar nossos irmãos por todas as cidades em que já anunciamos a palavra do Senhor, para ver como estão."
+            },
+            {
+                "id": "v15.37",
+                "versicle_number": 37,
+                "text": "E Barnabé aconselhava que tomassem consigo a João, chamado Marcos."
+            },
+            {
+                "id": "v15.38",
+                "versicle_number": 38,
+                "text": "Mas a Paulo parecia razoável que não tomassem consigo aquele que desde Panfília se tinha apartado{note:9} deles e não os acompanhou naquela obra."
+            },
+            {
+                "id": "v15.39",
+                "versicle_number": 39,
+                "text": "E tal contenda houve entre eles, que se apartaram um do outro. Barnabé, levando consigo a Marcos, navegou para Chipre."
+            },
+            {
+                "id": "v15.40",
+                "versicle_number": 40,
+                "text": "E Paulo, tendo escolhido a Silas, partiu, encomendado pelos irmãos à graça de Deus."
+            },
+            {
+                "id": "v15.41",
+                "versicle_number": 41,
+                "text": "E passou pela Síria e Cilícia, confirmando as igrejas."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v15.36",
+                "text": "Separação entre Paulo e Barnabé"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v15.40",
+                "text": "Paulo empreende uma segunda viagem missionária na companhia de Silas e Timóteo"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 15.1 Lv 12.3"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 15.7 At 10.1-43"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 15.8 At 10.44 {note:4} 15.8 At 2.4"
+            },
+            {
+                "id": "n4",
+                "text": "{note:5} 15.16-18 Am 9.11-12"
+            },
+            {
+                "id": "n5",
+                "text": "{note:6} 15.20 Êx 34.15-17 {note:8} 15.20 Lv 17.10-16 {note:7} 15.20 Lv 18.6-23"
+            },
+            {
+                "id": "n6",
+                "text": "{note:9} 15.38 At 13.13"
+            }
+        ]
+    }
+}

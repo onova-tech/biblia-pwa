@@ -1,0 +1,239 @@
+{
+    "book": {
+        "id": "Nm",
+        "book_number": 4,
+        "new_testament": false,
+        "num_chapters": 36,
+        "book_name": "NÚMEROS",
+        "book_full_name": "O QUARTO LIVRO DE MOISÉS NÚMEROS"
+    },
+    "chapter": {
+        "chapter_number": 15,
+        "chapter_reference": "",
+        "chapter_title": "A repetição de diversas leis",
+        "versicles": [
+            {
+                "id": "v15.1",
+                "versicle_number": 1,
+                "text": "DEPOIS falou o Senhor a Moisés, dizendo:"
+            },
+            {
+                "id": "v15.2",
+                "versicle_number": 2,
+                "text": "Fala aos filhos de Israel e dize-lhes: Quando entrardes na terra das vossas habitações, que eu vos hei de dar;"
+            },
+            {
+                "id": "v15.3",
+                "versicle_number": 3,
+                "text": "E ao Senhor fizerdes oferta queimada, holocausto, ou sacrifício, para lhe cumprir um voto, ou em oferta voluntária, ou nas vossas solenidades, para ao Senhor fazer um cheiro suave de ovelhas ou vacas;"
+            },
+            {
+                "id": "v15.4",
+                "versicle_number": 4,
+                "text": "Então aquele que oferecer a sua oferta ao Senhor, por oferta de manjares oferecerá uma décima de flor de farinha misturada com a quarta parte dum him de azeite."
+            },
+            {
+                "id": "v15.5",
+                "versicle_number": 5,
+                "text": "E de vinho para libação preparareis a quarta parte de um him, para holocausto ou para sacrifício por cada cordeiro:"
+            },
+            {
+                "id": "v15.6",
+                "versicle_number": 6,
+                "text": "E por cada carneiro prepararás uma oferta de manjares de duas décimas de flor de farinha, misturada com a terça parte dum him de azeite."
+            },
+            {
+                "id": "v15.7",
+                "versicle_number": 7,
+                "text": "E de vinho para a libação oferecerás a terça parte de um him ao Senhor, em cheiro suave."
+            },
+            {
+                "id": "v15.8",
+                "versicle_number": 8,
+                "text": "E, quando preparares novilho para holocausto ou sacrifício, para cumprir um voto, ou um sacrifício pacífico ao Senhor,"
+            },
+            {
+                "id": "v15.9",
+                "versicle_number": 9,
+                "text": "Com o novilho oferecerás uma oferta de manjares de três décimas de flor de farinha, misturada com a metade dum him de azeite,"
+            },
+            {
+                "id": "v15.10",
+                "versicle_number": 10,
+                "text": "E de vinho para a libação oferecerás a metade de um him, oferta queimada em cheiro suave ao Senhor."
+            },
+            {
+                "id": "v15.11",
+                "versicle_number": 11,
+                "text": "Assim se fará com cada boi, ou com cada carneiro, ou com o gado miúdo dos cordeiros ou das cabras."
+            },
+            {
+                "id": "v15.12",
+                "versicle_number": 12,
+                "text": "Segundo o número que oferecerdes, assim o fareis com cada um, segundo o número deles."
+            },
+            {
+                "id": "v15.13",
+                "versicle_number": 13,
+                "text": "Todo o natural assim fará estas cousas, oferecendo oferta queimada em cheiro suave ao Senhor."
+            },
+            {
+                "id": "v15.14",
+                "versicle_number": 14,
+                "text": "Quando também peregrinar convosco algum estrangeiro, ou que estiver no meio de vós nas vossas gerações, e ele oferecer uma oferta queimada de cheiro suave ao Senhor, como vós fizerdes assim fará ele."
+            },
+            {
+                "id": "v15.15",
+                "versicle_number": 15,
+                "text": "Um mesmo estatuto haja para vós, ó congregação, e para o estrangeiro que entre vós peregrina, por estatuto perpétuo nas vossas gerações; como vós, assim será o peregrino perante o Senhor."
+            },
+            {
+                "id": "v15.16",
+                "versicle_number": 16,
+                "text": "Uma mesma lei e um mesmo direito{note:1} haverá para vós e para o estrangeiro que peregrina convosco."
+            },
+            {
+                "id": "v15.17",
+                "versicle_number": 17,
+                "text": "Falou mais o Senhor a Moisés, dizendo:"
+            },
+            {
+                "id": "v15.18",
+                "versicle_number": 18,
+                "text": "Fala aos filhos de Israel, e dize-lhes: Quando entrardes na terra em que vos hei de meter,"
+            },
+            {
+                "id": "v15.19",
+                "versicle_number": 19,
+                "text": "Acontecerá que, quando comerdes do pão da terra, então oferecereis ao Senhor oferta alçada."
+            },
+            {
+                "id": "v15.20",
+                "versicle_number": 20,
+                "text": "Das primícias da vossa massa oferecereis um bolo em oferta alçada: como a oferta da eira, assim o oferecereis."
+            },
+            {
+                "id": "v15.21",
+                "versicle_number": 21,
+                "text": "Das primícias das vossas massas dareis ao Senhor oferta alçada nas vossas gerações."
+            },
+            {
+                "id": "v15.22",
+                "versicle_number": 22,
+                "text": "E, quando vierdes a errar, e não fizerdes todos estes mandamentos, que o Senhor falou a Moisés,"
+            },
+            {
+                "id": "v15.23",
+                "versicle_number": 23,
+                "text": "Tudo quanto o Senhor vos tem mandado por mão de Moisés, desde o dia que o Senhor ordenou, e dali em diante, nas vossas gerações;"
+            },
+            {
+                "id": "v15.24",
+                "versicle_number": 24,
+                "text": "Será que, quando se fizer alguma cousa por erro, e for encoberto aos olhos da congregação, toda a congregação oferecerá um novilho para holocausto em cheiro suave ao Senhor; com a sua oferta de manjares e libação conforme ao estatuto, e um bode para expiação do pecado."
+            },
+            {
+                "id": "v15.25",
+                "versicle_number": 25,
+                "text": "E o sacerdote fará propiciação por toda a congregação dos filhos de Israel, e lhes será perdoado; porquanto foi erro, e trouxeram a sua oferta, oferta queimada ao Senhor, e a sua expiação do pecado perante o Senhor, por causa do seu erro."
+            },
+            {
+                "id": "v15.26",
+                "versicle_number": 26,
+                "text": "Será pois perdoado a toda a congregação dos filhos de Israel, e mais ao estrangeiro que peregrina no meio deles, porquanto por erro sobreveio a todo o povo."
+            },
+            {
+                "id": "v15.27",
+                "versicle_number": 27,
+                "text": "E, se alguma alma pecar por erro, para expiação do pecado oferecerá uma cabra dum ano."
+            },
+            {
+                "id": "v15.28",
+                "versicle_number": 28,
+                "text": "E o sacerdote fará expiação pela alma pecante, quando pecar por erro, perante o Senhor, fazendo expiação por ela, e lhe será perdoado.{note:2}"
+            },
+            {
+                "id": "v15.29",
+                "versicle_number": 29,
+                "text": "Para o natural dos filhos de Israel, e para o estrangeiro que no meio deles peregrina, uma mesma lei vos será, para aquele que isso fizer por erro."
+            },
+            {
+                "id": "v15.30",
+                "versicle_number": 30,
+                "text": "Mas a alma que fizer alguma cousa à mão levantada, quer seja dos naturais quer dos estrangeiros, injúria ao Senhor: e tal alma será extirpada do meio do seu povo,"
+            },
+            {
+                "id": "v15.31",
+                "versicle_number": 31,
+                "text": "Pois desprezou a palavra do Senhor, e anulou o seu mandamento: totalmente será extirpada aquela alma, a sua iniquidade será sobre ela."
+            },
+            {
+                "id": "v15.32",
+                "versicle_number": 32,
+                "text": "Estando pois os filhos de Israel no deserto, acharam um homem apanhando lenha no dia de sábado."
+            },
+            {
+                "id": "v15.33",
+                "versicle_number": 33,
+                "text": "E os que o acharam apanhando lenha o trouxeram a Moisés e a Aarão, e a toda a congregação."
+            },
+            {
+                "id": "v15.34",
+                "versicle_number": 34,
+                "text": "E o puseram em guarda; porquanto ainda não estava declarado o que se lhe devia fazer."
+            },
+            {
+                "id": "v15.35",
+                "versicle_number": 35,
+                "text": "Disse pois o Senhor a Moisés: Certamente morrerá o tal homem; toda a congregação com pedras o apedrejará para fora do arraial."
+            },
+            {
+                "id": "v15.36",
+                "versicle_number": 36,
+                "text": "Então toda a congregação o tirou para fora do arraial, e com pedras o apedrejaram, e morreu, como o Senhor ordenara a Moisés."
+            },
+            {
+                "id": "v15.37",
+                "versicle_number": 37,
+                "text": "E falou o Senhor a Moisés, dizendo:"
+            },
+            {
+                "id": "v15.38",
+                "versicle_number": 38,
+                "text": "Fala aos filhos de Israel, e dize-lhes que nas bordas dos seus vestidos façam franjas, pelas suas gerações: e nas franjas das bordas porão um cordão de azul."
+            },
+            {
+                "id": "v15.39",
+                "versicle_number": 39,
+                "text": "E nas franjas vos estará, para que o vejais, e vos lembreis de todos os mandamentos do Senhor, e os façais: e não seguireis após o vosso coração, nem após os vossos olhos, após os quais andais adulterando."
+            },
+            {
+                "id": "v15.40",
+                "versicle_number": 40,
+                "text": "Para que vos lembreis de todos os meus mandamentos, e os façais, e santos sejais a vosso Deus."
+            },
+            {
+                "id": "v15.41",
+                "versicle_number": 41,
+                "text": "Eu sou o Senhor vosso Deus, que vos tirei da terra do Egito, para vos ser por Deus: eu sou o Senhor vosso Deus."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v15.37",
+                "text": "A lei acerca das bordas dos vestidos"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 15.16 Lv 24.22"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 15.27-28 Lv 4.27-31"
+            }
+        ]
+    }
+}

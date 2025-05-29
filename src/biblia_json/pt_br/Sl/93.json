@@ -1,0 +1,44 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 93,
+        "chapter_reference": "",
+        "chapter_title": "O poder e a majestade do reino de Deus",
+        "versicles": [
+            {
+                "id": "v93.1",
+                "versicle_number": 1,
+                "text": "O SENHOR reina; está vestido de majestade: o Senhor se revestiu e cingiu de fortaleza: o mundo também está firmado, e não poderá vacilar."
+            },
+            {
+                "id": "v93.2",
+                "versicle_number": 2,
+                "text": "O teu trono está firme desde então: tu és desde a eternidade."
+            },
+            {
+                "id": "v93.3",
+                "versicle_number": 3,
+                "text": "Os rios levantam, ó Deus, os rios levantam o seu ruído, os rios levantam as suas ondas."
+            },
+            {
+                "id": "v93.4",
+                "versicle_number": 4,
+                "text": "Mas o Senhor nas alturas é mais poderoso do que o ruído das grandes águas e do que as grandes ondas do mar."
+            },
+            {
+                "id": "v93.5",
+                "versicle_number": 5,
+                "text": "Mui fiéis são os teus testemunhos: a santidade convém à tua casa, Senhor, para sempre."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "book": {
+        "id": "Am",
+        "book_number": 30,
+        "new_testament": false,
+        "num_chapters": 9,
+        "book_name": "AMÓS",
+        "book_full_name": "AMÓS"
+    },
+    "chapters": [
+        {
+            "chapter_number": 1,
+            "chapter_reference": "",
+            "chapter_title": "Ameaças contra diversas nações e contra Judá"
+        },
+        {
+            "chapter_number": 2,
+            "chapter_reference": "",
+            "chapter_title": ""
+        },
+        {
+            "chapter_number": 3,
+            "chapter_reference": "",
+            "chapter_title": "Os vícios e maldades de Israel: o anúncio de castigo"
+        },
+        {
+            "chapter_number": 4,
+            "chapter_reference": "",
+            "chapter_title": ""
+        },
+        {
+            "chapter_number": 5,
+            "chapter_reference": "",
+            "chapter_title": "Predição da ruína de Israel"
+        },
+        {
+            "chapter_number": 6,
+            "chapter_reference": "",
+            "chapter_title": "A corrução de Israel. Ameaças"
+        },
+        {
+            "chapter_number": 7,
+            "chapter_reference": "",
+            "chapter_title": "A visão da locusta, do fogo e do prumo"
+        },
+        {
+            "chapter_number": 8,
+            "chapter_reference": "",
+            "chapter_title": "A visão dum cesto de frutos. Ameaças contra Israel"
+        },
+        {
+            "chapter_number": 9,
+            "chapter_reference": "",
+            "chapter_title": "Visão da ruína do altar: promessa de restauração"
+        }
+    ]
+}

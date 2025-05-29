@@ -1,0 +1,184 @@
+{
+    "book": {
+        "id": "Gn",
+        "book_number": 1,
+        "new_testament": false,
+        "num_chapters": 50,
+        "book_name": "GÊNESIS",
+        "book_full_name": "O PRIMEIRO LIVRO DE MOISÉS GÊNESIS"
+    },
+    "chapter": {
+        "chapter_number": 10,
+        "chapter_reference": "",
+        "chapter_title": "Os descendentes de Noé",
+        "versicles": [
+            {
+                "id": "v10.1",
+                "versicle_number": 1,
+                "text": "ESTAS pois são as gerações dos filhos de Noé: Sem, Cão, e Jafé; e nasceram-lhes filhos depois do dilúvio."
+            },
+            {
+                "id": "v10.2",
+                "versicle_number": 2,
+                "text": "Os filhos de Jafé, são: Gomer e Magogue, e Madai, e Javã, e Tubal, e Meseque, e Tiras."
+            },
+            {
+                "id": "v10.3",
+                "versicle_number": 3,
+                "text": "E os filhos de Gomer, são: Asquenaz, e Rifate, e Togarma."
+            },
+            {
+                "id": "v10.4",
+                "versicle_number": 4,
+                "text": "E os filhos de Javã, são: Elisá e Tarsis, Quitim, e Dodanim."
+            },
+            {
+                "id": "v10.5",
+                "versicle_number": 5,
+                "text": "Por estes foram repartidas as ilhas das nações nas suas terras, cada qual segundo a sua língua, segundo as suas famílias, entre as suas nações."
+            },
+            {
+                "id": "v10.6",
+                "versicle_number": 6,
+                "text": "E os filhos de Cão, são: Cuse, e Mizraim, e Pute, e Canaã."
+            },
+            {
+                "id": "v10.7",
+                "versicle_number": 7,
+                "text": "E os filhos de Cuse, são: Sebá, e Havilá, e Sabtá, e Raamá, Sabtecá: e os filhos de Raamá são: Seba e Dedã."
+            },
+            {
+                "id": "v10.8",
+                "versicle_number": 8,
+                "text": "E Cuse gerou a Ninrode; este começou a ser poderoso na terra."
+            },
+            {
+                "id": "v10.9",
+                "versicle_number": 9,
+                "text": "E este foi poderoso caçador diante da face do Senhor; pelo que se diz: Como Ninrode, poderoso caçador diante do Senhor."
+            },
+            {
+                "id": "v10.10",
+                "versicle_number": 10,
+                "text": "E o princípio do seu reino foi Babel, e Ereque, e Acade, e Calne, na terra de Sinear."
+            },
+            {
+                "id": "v10.11",
+                "versicle_number": 11,
+                "text": "Desta mesma terra saiu à Assíria e edificou a Nínive, e Reobote-Ir e Calá,"
+            },
+            {
+                "id": "v10.12",
+                "versicle_number": 12,
+                "text": "E Résen, entre Nínive e Calá (esta é a grande cidade)."
+            },
+            {
+                "id": "v10.13",
+                "versicle_number": 13,
+                "text": "E Mizraim gerou a Ludim, e a Anamim, e a Leabim, e a Naftuim,"
+            },
+            {
+                "id": "v10.14",
+                "versicle_number": 14,
+                "text": "E a Patrusim e a Caslusim, (donde saíram os Filisteus) e a Caftorim."
+            },
+            {
+                "id": "v10.15",
+                "versicle_number": 15,
+                "text": "E Canaã gerou a Sidom, seu primogênito, e a Hete,"
+            },
+            {
+                "id": "v10.16",
+                "versicle_number": 16,
+                "text": "E ao jebuseu, e amorreu, e girgaseu,"
+            },
+            {
+                "id": "v10.17",
+                "versicle_number": 17,
+                "text": "E ao heveu, e ao arqueu, e ao sineu,"
+            },
+            {
+                "id": "v10.18",
+                "versicle_number": 18,
+                "text": "E ao arvadeu, e ao zemareu, e ao hamateu, e depois se espalharam as famílias dos cananeus."
+            },
+            {
+                "id": "v10.19",
+                "versicle_number": 19,
+                "text": "E foi o termo dos cananeus desde Sidom, indo para Gerar, até Gaza; indo para Sodoma, e Gomorra, e Adama, e Zeboim, até Lasa."
+            },
+            {
+                "id": "v10.20",
+                "versicle_number": 20,
+                "text": "Estes são os filhos de Cão segundo as suas famílias, segundo as suas línguas, em suas terras, em suas nações."
+            },
+            {
+                "id": "v10.21",
+                "versicle_number": 21,
+                "text": "E a Sem nasceram filhos, e ele é o pai de todos os filhos de Éber, o irmão mais velho de Jafé."
+            },
+            {
+                "id": "v10.22",
+                "versicle_number": 22,
+                "text": "os filhos de Sem são: Elão e Assur, e Arpachade, e Lude, e Arã."
+            },
+            {
+                "id": "v10.23",
+                "versicle_number": 23,
+                "text": "E os filhos de Arã são: Uz, e Hul, e Géter, e Mas."
+            },
+            {
+                "id": "v10.24",
+                "versicle_number": 24,
+                "text": "E Arpachade gerou a Selá; e Selá gerou a Éber."
+            },
+            {
+                "id": "v10.25",
+                "versicle_number": 25,
+                "text": "E a Éber nasceram dois filhos: o nome dum foi {note:d}Pelegue, porquanto em seus dias se repartiu a terra, e o nome do seu irmão foi Joctã."
+            },
+            {
+                "id": "v10.26",
+                "versicle_number": 26,
+                "text": "E Joctã gerou a Almodade, e a Selefe, e a Hazarmavete, e a Jerá;"
+            },
+            {
+                "id": "v10.27",
+                "versicle_number": 27,
+                "text": "E a Hadorão, e a Uzal, e a Diclá;"
+            },
+            {
+                "id": "v10.28",
+                "versicle_number": 28,
+                "text": "E a Obal, e Abimael, e a Seba;"
+            },
+            {
+                "id": "v10.29",
+                "versicle_number": 29,
+                "text": "E a Ofir, e a Havilá e a Jobabe; todos estes foram filhos de Joctã."
+            },
+            {
+                "id": "v10.30",
+                "versicle_number": 30,
+                "text": "E foi a sua habitação desde Messa, indo para Sefar, montanha do Oriente."
+            },
+            {
+                "id": "v10.31",
+                "versicle_number": 31,
+                "text": "Estes são os filhos de Sem segundo as suas famílias, segundo as suas línguas, nas suas terras, segundo as suas nações."
+            },
+            {
+                "id": "v10.32",
+                "versicle_number": 32,
+                "text": "Estas são as famílias dos filhos de Noé segundo as suas gerações, nas suas nações; e destes foram divididas as nações na terra depois do dilúvio."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:d} 10.25 que significa divisão"
+            }
+        ]
+    }
+}

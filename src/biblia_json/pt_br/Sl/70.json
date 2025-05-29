@@ -1,0 +1,44 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 70,
+        "chapter_reference": "",
+        "chapter_title": "Na sua aflição Davi suplica a Deus que se apresse em livrá-lo",
+        "versicles": [
+            {
+                "id": "v70.1",
+                "versicle_number": 1,
+                "text": "APRESSA-TE, ó Deus, em me livrar; Senhor, apressa-te em ajudar-me."
+            },
+            {
+                "id": "v70.2",
+                "versicle_number": 2,
+                "text": "Fiquem envergonhados e confundidos os que procuram a minha alma; tornem atrás e confundam-se os que me desejam mal."
+            },
+            {
+                "id": "v70.3",
+                "versicle_number": 3,
+                "text": "Voltem as costas cobertos de vergonha os que dizem: Ah! Ah!"
+            },
+            {
+                "id": "v70.4",
+                "versicle_number": 4,
+                "text": "Folguem e alegrem-se em ti todos os que te buscam; e aqueles que amam a tua salvação digam continuamente: Engrandecido seja Deus."
+            },
+            {
+                "id": "v70.5",
+                "versicle_number": 5,
+                "text": "Eu porém estou aflito e necessitado: apressa-te por mim, ó Deus; tu és o meu auxílio e o meu libertador: Senhor, não te detenhas."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

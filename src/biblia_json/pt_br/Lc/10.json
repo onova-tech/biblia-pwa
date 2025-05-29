@@ -1,0 +1,293 @@
+{
+    "book": {
+        "id": "Lc",
+        "book_number": 42,
+        "new_testament": true,
+        "num_chapters": 24,
+        "book_name": "LUCAS",
+        "book_full_name": "O SANTO EVANGELHO SEGUNDO LUCAS"
+    },
+    "chapter": {
+        "chapter_number": 10,
+        "chapter_reference": "",
+        "chapter_title": "A missão dos setenta discípulos",
+        "versicles": [
+            {
+                "id": "v10.1",
+                "versicle_number": 1,
+                "text": "E DEPOIS disto designou o Senhor ainda outros setenta, e mandou-os adiante da sua face, de dois em dois, a todas as cidades e lugares aonde ele havia de ir."
+            },
+            {
+                "id": "v10.2",
+                "versicle_number": 2,
+                "text": "E dizia-lhes: Grande é, em verdade, a seara, mas os obreiros são poucos; rogai pois ao Senhor da seara que envie obreiros para a sua seara.{note:1}"
+            },
+            {
+                "id": "v10.3",
+                "versicle_number": 3,
+                "text": "Ide; eis que vos mando como cordeiros ao meio de lobos."
+            },
+            {
+                "id": "v10.4",
+                "versicle_number": 4,
+                "text": "E não leveis bolsa, nem alforje, nem alparcas; e a ninguém saudeis pelo caminho."
+            },
+            {
+                "id": "v10.5",
+                "versicle_number": 5,
+                "text": "E, em qualquer casa onde entrardes, dizei primeiro: Paz seja nesta casa."
+            },
+            {
+                "id": "v10.6",
+                "versicle_number": 6,
+                "text": "E, se ali houver algum filho de paz, repousará sobre {note:j}ele a vossa paz; e, se não, voltará para vós."
+            },
+            {
+                "id": "v10.7",
+                "versicle_number": 7,
+                "text": "E ficai na mesma casa, comendo e bebendo do que eles tiverem, pois digno é o obreiro de seu salário.{note:2} Não andeis de casa em casa."
+            },
+            {
+                "id": "v10.8",
+                "versicle_number": 8,
+                "text": "E, em qualquer cidade em que entrardes, e vos receberem, comei do que vos puserem diante."
+            },
+            {
+                "id": "v10.9",
+                "versicle_number": 9,
+                "text": "E curai os enfermos que nela houver, e dizei-lhes: É chegado a vós o reino de Deus."
+            },
+            {
+                "id": "v10.10",
+                "versicle_number": 10,
+                "text": "Mas em qualquer cidade, em que entrardes e vos não receberem, saindo por suas ruas, dizei:"
+            },
+            {
+                "id": "v10.11",
+                "versicle_number": 11,
+                "text": "Até o pó, que da vossa cidade se nos pegou, sacudimos sobre vós.{note:3} Sabei, contudo, isto, que já o reino de Deus é chegado a vós."
+            },
+            {
+                "id": "v10.12",
+                "versicle_number": 12,
+                "text": "E digo-vos que mais tolerância haverá naquele dia para Sodoma{note:4} do que para aquela cidade.{note:5}"
+            },
+            {
+                "id": "v10.13",
+                "versicle_number": 13,
+                "text": "Ai de ti, Corazim, ai de ti Betsaida! que, se em Tiro e em Sidom se fizessem as maravilhas que em vós foram feitas, já há muito, assentadas em saco e cinza, se teriam arrependido."
+            },
+            {
+                "id": "v10.14",
+                "versicle_number": 14,
+                "text": "Portanto, para Tiro e Sidom haverá menos rigor no juízo, do que para vós.{note:6}"
+            },
+            {
+                "id": "v10.15",
+                "versicle_number": 15,
+                "text": "E tu, Capernaum, serás levantada até ao céu?{note:7} até ao inferno serás abatida."
+            },
+            {
+                "id": "v10.16",
+                "versicle_number": 16,
+                "text": "Quem vos ouve a vós, a mim me ouve;{note:8} e, quem vos rejeita a vós, a mim me rejeita; e, quem a mim me rejeita, rejeita aquele que me enviou."
+            },
+            {
+                "id": "v10.17",
+                "versicle_number": 17,
+                "text": "E voltaram os setenta com alegria, dizendo: Senhor, pelo teu nome, até os demônios se nos sujeitam."
+            },
+            {
+                "id": "v10.18",
+                "versicle_number": 18,
+                "text": "E disse-lhes: Eu via Satanás, como raio, cair do céu."
+            },
+            {
+                "id": "v10.19",
+                "versicle_number": 19,
+                "text": "Eis que vos dou poder para pisar serpentes e escorpiões,{note:9} e toda a força do inimigo, e nada vos fará dano algum."
+            },
+            {
+                "id": "v10.20",
+                "versicle_number": 20,
+                "text": "Mas não vos alegreis por que se vos sujeitem os espíritos; alegrai-vos antes por estarem os vossos nomes escritos nos céus."
+            },
+            {
+                "id": "v10.21",
+                "versicle_number": 21,
+                "text": "Naquela mesma hora se alegrou Jesus no Espírito Santo, e disse: Graças te dou, ó Pai, Senhor do céu e da terra, que escondeste estas coisas aos sábios e inteligentes, e as revelaste às criancinhas; assim é, ó Pai, porque assim te aprouve."
+            },
+            {
+                "id": "v10.22",
+                "versicle_number": 22,
+                "text": "Tudo por meu Pai me foi entregue;{note:10} e ninguém conhece quem é o Filho{note:11} senão o Pai, nem quem é o Pai senão o Filho, e aquele a quem o Filho o quiser revelar."
+            },
+            {
+                "id": "v10.23",
+                "versicle_number": 23,
+                "text": "E, voltando-se para os discípulos, disse-lhes em particular: Bem-aventurados os olhos que veem o que vós vedes;"
+            },
+            {
+                "id": "v10.24",
+                "versicle_number": 24,
+                "text": "Pois vos digo que muitos profetas e reis desejaram ver o que vós vedes, e não o viram; e ouvir o que ouvis, e não o ouviram."
+            },
+            {
+                "id": "v10.25",
+                "versicle_number": 25,
+                "text": "E eis que se levantou um certo doutor da lei, tentando-o, e dizendo: Mestre, que farei para herdar a vida eterna?"
+            },
+            {
+                "id": "v10.26",
+                "versicle_number": 26,
+                "text": "E ele lhe disse: Que está escrito na lei? Como lês?"
+            },
+            {
+                "id": "v10.27",
+                "versicle_number": 27,
+                "text": "E, respondendo ele, disse: Amarás ao Senhor teu Deus de todo o teu coração, e de toda a tua alma, e de todas as tuas forças, e de todo o teu entendimento, e ao teu próximo como a ti mesmo.{note:12}"
+            },
+            {
+                "id": "v10.28",
+                "versicle_number": 28,
+                "text": "E disse-lhe: Respondeste bem; faze isso, e viverás.{note:13}{note:14}"
+            },
+            {
+                "id": "v10.29",
+                "versicle_number": 29,
+                "text": "Ele, porém, querendo justificar-se a si mesmo, disse a Jesus: E quem é o meu próximo?"
+            },
+            {
+                "id": "v10.30",
+                "versicle_number": 30,
+                "text": "E, respondendo Jesus, disse: Descia um homem de Jerusalém para Jericó, e caiu nas mãos dos salteadores, os quais o despojaram, e, espancando-o, se retiraram, deixando-o meio morto."
+            },
+            {
+                "id": "v10.31",
+                "versicle_number": 31,
+                "text": "E ocasionalmente descia pelo mesmo caminho certo sacerdote; e, vendo-o, passou de largo."
+            },
+            {
+                "id": "v10.32",
+                "versicle_number": 32,
+                "text": "E d'igual modo também um levita, chegando àquele lugar, e vendo-o, passou de largo."
+            },
+            {
+                "id": "v10.33",
+                "versicle_number": 33,
+                "text": "Mas um samaritano, que ia de viagem, chegou ao pé dele, e, vendo-o, moveu-se de íntima compaixão;"
+            },
+            {
+                "id": "v10.34",
+                "versicle_number": 34,
+                "text": "E, aproximando-se, atou-lhe as feridas, deitando-lhes azeite e vinho; e, pondo-o sobre a sua cavalgadura, levou-o para uma estalagem, e cuidou dele;"
+            },
+            {
+                "id": "v10.35",
+                "versicle_number": 35,
+                "text": "E, partindo ao outro dia, tirou dois dinheiros, e deu-os ao hospedeiro, e disse-lhe: Cuida dele; e tudo o que de mais gastares eu to pagarei quando voltar."
+            },
+            {
+                "id": "v10.36",
+                "versicle_number": 36,
+                "text": "Qual, pois, destes três te parece que foi o próximo daquele que caiu nas mãos dos salteadores?"
+            },
+            {
+                "id": "v10.37",
+                "versicle_number": 37,
+                "text": "E ele disse: O que usou de misericórdia para com ele. Disse, pois, Jesus: Vai, e faze da mesma maneira."
+            },
+            {
+                "id": "v10.38",
+                "versicle_number": 38,
+                "text": "E aconteceu que, indo eles de caminho, entrou numa aldeia; e certa mulher, por nome Marta, o recebeu em sua casa;"
+            },
+            {
+                "id": "v10.39",
+                "versicle_number": 39,
+                "text": "E tinha esta uma irmã chamada Maria, a qual, assentando-se também aos pés de Jesus, ouvia a sua palavra.{note:15}"
+            },
+            {
+                "id": "v10.40",
+                "versicle_number": 40,
+                "text": "Marta, porém, andava distraída em muitos serviços, e, aproximando-se, disse: Senhor, não se te dá de que minha irmã me deixe servir só? Dize-lhe pois que me ajude."
+            },
+            {
+                "id": "v10.41",
+                "versicle_number": 41,
+                "text": "E, respondendo Jesus, disse-lhe: Marta, Marta, estás ansiosa e afadigada com muitas coisas."
+            },
+            {
+                "id": "v10.42",
+                "versicle_number": 42,
+                "text": "Mas uma só é necessária; e Maria escolheu a boa parte, a qual não lhe será tirada."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v10.25",
+                "text": "A parábola do bom samaritano"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v10.38",
+                "text": "Marta e Maria"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 10.2 Mt 9.37-38"
+            },
+            {
+                "id": "n2",
+                "text": "{note:j} 10.6 ou ela"
+            },
+            {
+                "id": "n3",
+                "text": "{note:2} 10.7 1Co 9.14; 1Tm 5.18"
+            },
+            {
+                "id": "n4",
+                "text": "{note:3} 10.11 At 13.51"
+            },
+            {
+                "id": "n5",
+                "text": "{note:4} 10.12 Gn 19.24-28; Mt 11.24 {note:5} 10.1-12 Mt 10.5-15; Mc 6.7-13; Lc 9.1-6"
+            },
+            {
+                "id": "n6",
+                "text": "{note:6} 10.13-14 Is 23.1-18; Ez 26.1—28.26; Jl 3.4-8; Am 1.9-10; Zc 9.2-4"
+            },
+            {
+                "id": "n7",
+                "text": "{note:7} 10.15 Is 14.13-15"
+            },
+            {
+                "id": "n8",
+                "text": "{note:8} 10.16 Mt 10.40; Mc 9.37; Lc 9.48; Jo 13.20"
+            },
+            {
+                "id": "n9",
+                "text": "{note:9} 10.19 Sl 91.13"
+            },
+            {
+                "id": "n10",
+                "text": "{note:10} 10.22 Jo 3.35 {note:11} 10.22 Jo 10.15"
+            },
+            {
+                "id": "n11",
+                "text": "{note:12} 10.27 Dt 6.5; Lv 19.18"
+            },
+            {
+                "id": "n12",
+                "text": "{note:13} 10.28 Lv 18.5 {note:14} 10.25-28 Mt 22.35-40; Mc 12.28-34"
+            },
+            {
+                "id": "n13",
+                "text": "{note:15} 10.38-39 Jo 11.1"
+            }
+        ]
+    }
+}

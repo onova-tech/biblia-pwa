@@ -1,0 +1,147 @@
+{
+    "book": {
+        "id": "Gn",
+        "book_number": 1,
+        "new_testament": false,
+        "num_chapters": 50,
+        "book_name": "GÊNESIS",
+        "book_full_name": "O PRIMEIRO LIVRO DE MOISÉS GÊNESIS"
+    },
+    "chapter": {
+        "chapter_number": 39,
+        "chapter_reference": "",
+        "chapter_title": "José em casa de Potifar",
+        "versicles": [
+            {
+                "id": "v39.1",
+                "versicle_number": 1,
+                "text": "E JOSÉ foi levado ao Egito, e Potifar, {note:d}eunuco de Faraó, capitão da guarda, varão egípcio, comprou-o da mão dos ismaelitas que o tinham levado lá."
+            },
+            {
+                "id": "v39.2",
+                "versicle_number": 2,
+                "text": "E o Senhor estava com José,{note:1} e foi varão próspero; e estava na casa de seu senhor egípcio."
+            },
+            {
+                "id": "v39.3",
+                "versicle_number": 3,
+                "text": "Vendo pois o seu senhor que o Senhor estava com ele, e que tudo o que ele fazia o Senhor prosperava em sua mão,"
+            },
+            {
+                "id": "v39.4",
+                "versicle_number": 4,
+                "text": "José achou graça em seus olhos, e servia-o; e ele o pôs sobre a sua casa, e entregou na sua mão tudo o que tinha."
+            },
+            {
+                "id": "v39.5",
+                "versicle_number": 5,
+                "text": "E aconteceu que, desde que o pusera sobre a sua casa, e sobre tudo o que tinha, o Senhor abençoou a casa do egípcio por amor de José; e a bênção do Senhor foi sobre tudo o que tinha, na casa e no campo."
+            },
+            {
+                "id": "v39.6",
+                "versicle_number": 6,
+                "text": "E deixou tudo o que tinha na mão de José, de maneira que de nada sabia do que estava com ele, a não ser do pão que comia. E José era formoso de parecer, e formoso à vista."
+            },
+            {
+                "id": "v39.7",
+                "versicle_number": 7,
+                "text": "E aconteceu depois destas cousas que a mulher de seu senhor pôs os seus olhos em José, e disse: Deita-te comigo."
+            },
+            {
+                "id": "v39.8",
+                "versicle_number": 8,
+                "text": "Porém ele recusou, e disse à mulher do seu senhor: Eis que o meu senhor não sabe do que há em casa comigo, e entregou em minha mão tudo o que tem;"
+            },
+            {
+                "id": "v39.9",
+                "versicle_number": 9,
+                "text": "Ninguém há maior do que eu nesta casa, e nenhuma cousa me vedou, senão a ti, porquanto tu és sua mulher; como pois faria eu este tamanho mal, e pecaria contra Deus?"
+            },
+            {
+                "id": "v39.10",
+                "versicle_number": 10,
+                "text": "E aconteceu que, falando ela cada dia a José, e não lhe dando ele ouvidos para deitar-se com ela, e estar com ela,"
+            },
+            {
+                "id": "v39.11",
+                "versicle_number": 11,
+                "text": "Sucedeu num certo dia que veio à casa para fazer o seu serviço; e nenhum dos da casa estava ali;"
+            },
+            {
+                "id": "v39.12",
+                "versicle_number": 12,
+                "text": "E ela lhe pegou pelo seu vestido, dizendo: Deita-te comigo. E ele deixou o seu vestido na mão dela, e fugiu, e saiu para fora."
+            },
+            {
+                "id": "v39.13",
+                "versicle_number": 13,
+                "text": "E aconteceu que, vendo ela que deixara o seu vestido em sua mão, e fugira para fora,"
+            },
+            {
+                "id": "v39.14",
+                "versicle_number": 14,
+                "text": "Chamou aos homens de sua casa, e falou-lhes, dizendo: Vede, trouxe-nos o varão hebreu, para escarnecer de nós; entrou até mim para deitar-se comigo, e eu gritei com grande voz,"
+            },
+            {
+                "id": "v39.15",
+                "versicle_number": 15,
+                "text": "E aconteceu que, ouvindo ele que eu levantava a minha voz e gritava, deixou o seu vestido comigo, e fugiu, e saiu para fora."
+            },
+            {
+                "id": "v39.16",
+                "versicle_number": 16,
+                "text": "E ela pôs o seu vestido perto de si, até que o seu senhor veio à sua casa."
+            },
+            {
+                "id": "v39.17",
+                "versicle_number": 17,
+                "text": "Então falou-lhe conforme as mesmas palavras, dizendo: Veio a mim o servo hebreu, que nos trouxeste para escarnecer de mim;"
+            },
+            {
+                "id": "v39.18",
+                "versicle_number": 18,
+                "text": "E aconteceu que, levantando eu a minha voz e gritando, ele deixou o seu vestido comigo, e fugiu para fora."
+            },
+            {
+                "id": "v39.19",
+                "versicle_number": 19,
+                "text": "E aconteceu que, ouvindo o seu senhor as palavras de sua mulher, que lhe falava, dizendo: Conforme a estas mesmas palavras me fez teu servo, a sua ira se acendeu."
+            },
+            {
+                "id": "v39.20",
+                "versicle_number": 20,
+                "text": "E o senhor de José o tomou, e o entregou na casa do cárcere, no lugar onde os presos do rei estavam presos; assim esteve ali na casa do cárcere."
+            },
+            {
+                "id": "v39.21",
+                "versicle_number": 21,
+                "text": "O Senhor, porém, estava com José,{note:2} e estendeu sobre ele a sua benignidade, e deu-lhe graça aos olhos do carcereiro-mor."
+            },
+            {
+                "id": "v39.22",
+                "versicle_number": 22,
+                "text": "E o carcereiro-mor entregou na mão de José todos os presos que estavam na casa do cárcere, e ele fazia tudo o que se fazia ali."
+            },
+            {
+                "id": "v39.23",
+                "versicle_number": 23,
+                "text": "E o carcereiro-mor não teve cuidado de nenhuma cousa que estava na mão dele; porquanto o Senhor estava com ele, e tudo o que ele fazia o Senhor prosperava."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:d} 39.1 ou oficial"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 39.2 At 7.9"
+            },
+            {
+                "id": "n3",
+                "text": "{note:2} 39.21 At 7.9"
+            }
+        ]
+    }
+}

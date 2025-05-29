@@ -1,0 +1,89 @@
+{
+    "book": {
+        "id": "Nm",
+        "book_number": 4,
+        "new_testament": false,
+        "num_chapters": 36,
+        "book_name": "NÚMEROS",
+        "book_full_name": "O QUARTO LIVRO DE MOISÉS NÚMEROS"
+    },
+    "chapter": {
+        "chapter_number": 36,
+        "chapter_reference": "",
+        "chapter_title": "Os casamentos das herdeiras",
+        "versicles": [
+            {
+                "id": "v36.1",
+                "versicle_number": 1,
+                "text": "E CHEGARAM os cabeças dos pais da geração dos filhos de Gileade, filho de Maquir, filho de Manassés, das famílias dos filhos de José, e falaram diante de Moisés, e diante dos maiorais, cabeças dos pais dos filhos de Israel."
+            },
+            {
+                "id": "v36.2",
+                "versicle_number": 2,
+                "text": "E disseram: O Senhor mandou dar esta terra a meu senhor{note:1} por sorte, em herança aos filhos de Israel: e a meu senhor foi ordenado pelo Senhor, que a herança do nosso irmão Selofade se desse a suas filhas."
+            },
+            {
+                "id": "v36.3",
+                "versicle_number": 3,
+                "text": "E, casando-se elas com algum dos filhos das outras tribos dos filhos de Israel, então a sua herança seria diminuída da herança de nossos pais, e acrescentada à herança da tribo de quem forem: assim se tiraria da sorte da nossa herança."
+            },
+            {
+                "id": "v36.4",
+                "versicle_number": 4,
+                "text": "Vindo também o ano do jubileu dos filhos de Israel, a sua herança se acrescentaria à herança da tribo daqueles com que se casarem: assim a sua herança será tirada da herança da tribo de nossos pais."
+            },
+            {
+                "id": "v36.5",
+                "versicle_number": 5,
+                "text": "Então Moisés deu ordem aos filhos de Israel, segundo o mandado do Senhor, dizendo: A tribo dos filhos de José fala bem."
+            },
+            {
+                "id": "v36.6",
+                "versicle_number": 6,
+                "text": "Esta é a palavra que o Senhor mandou acerca das filhas de Selofade, dizendo: Sejam por mulheres a quem bem parecer aos seus olhos, contanto que se casem na família da tribo de seu pai."
+            },
+            {
+                "id": "v36.7",
+                "versicle_number": 7,
+                "text": "Assim a herança dos filhos de Israel não passará de tribo em tribo: pois os filhos de Israel se chegarão cada um à herança da tribo de seus pais."
+            },
+            {
+                "id": "v36.8",
+                "versicle_number": 8,
+                "text": "E qualquer filha que herdar alguma herança das tribos dos filhos de Israel se casará com alguém da geração da tribo de seu pai: para que os filhos de Israel possuam cada um a herança de seus pais."
+            },
+            {
+                "id": "v36.9",
+                "versicle_number": 9,
+                "text": "Assim a herança não passará duma tribo a outra: pois as tribos dos filhos de Israel se chegarão cada uma à sua herança."
+            },
+            {
+                "id": "v36.10",
+                "versicle_number": 10,
+                "text": "Como o Senhor ordenara a Moisés, assim fizeram as filhas de Selofade."
+            },
+            {
+                "id": "v36.11",
+                "versicle_number": 11,
+                "text": "Pois Macla, Tirzá, e Hogla, e Milca e Noa, filhas de Selofade, se casaram com os filhos de seus tios."
+            },
+            {
+                "id": "v36.12",
+                "versicle_number": 12,
+                "text": "Das famílias dos de Manassés filho de José, elas foram mulheres: assim a sua herança ficou à tribo da família de seu pai."
+            },
+            {
+                "id": "v36.13",
+                "versicle_number": 13,
+                "text": "Estes são os mandamentos e os juízos que mandou o Senhor pela mão de Moisés aos filhos de Israel nas campinas dos moabitas, junto ao Jordão de Jericó."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 36.2 Nm 27.7"
+            }
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "book": {
+        "id": "Zc",
+        "book_number": 38,
+        "new_testament": false,
+        "num_chapters": 14,
+        "book_name": "ZACARIAS",
+        "book_full_name": "ZACARIAS"
+    },
+    "chapter": {
+        "chapter_number": 13,
+        "chapter_reference": "",
+        "chapter_title": "O Pastor ferido: o juízo final: a exaltação da Igreja",
+        "versicles": [
+            {
+                "id": "v13.1",
+                "versicle_number": 1,
+                "text": "NAQUELE dia haverá uma fonte aberta para a casa de Davi, e para os habitantes de Jerusalém, contra o pecado, e contra a impureza."
+            },
+            {
+                "id": "v13.2",
+                "versicle_number": 2,
+                "text": "E acontecerá, naquele dia, diz o Senhor dos Exércitos, que tirarei da terra os nomes dos ídolos, e deles não haverá mais memória; e também farei sair da terra os profetas e o espírito da impureza."
+            },
+            {
+                "id": "v13.3",
+                "versicle_number": 3,
+                "text": "E será que, quando alguém ainda profetizar, seu pai e sua mãe, que o geraram, lhe dirão: Não viverás, porque mentirosamente falaste em nome do Senhor; e seu pai e sua mãe, que o geraram, o traspassarão quando profetizar."
+            },
+            {
+                "id": "v13.4",
+                "versicle_number": 4,
+                "text": "E acontecerá naquele dia que os profetas se envergonharão, cada um da sua visão, quando profetizarem; nem mais se vestirão de manto de pelos, para mentirem."
+            },
+            {
+                "id": "v13.5",
+                "versicle_number": 5,
+                "text": "Mas dirão: Não sou profeta, sou lavrador da terra; porque tenho sido servo desde a minha mocidade."
+            },
+            {
+                "id": "v13.6",
+                "versicle_number": 6,
+                "text": "E se alguém lhe disser: Que feridas são essas nas tuas mãos? Dirá ele: São as feridas com que fui ferido em casa dos meus amigos."
+            },
+            {
+                "id": "v13.7",
+                "versicle_number": 7,
+                "text": "Ó espada, ergue-te contra o meu Pastor e contra o varão que é o meu companheiro, diz o Senhor dos Exércitos: fere o Pastor, e espalhar-se-ão{note:1} as ovelhas; mas volverei a minha mão para os pequenos."
+            },
+            {
+                "id": "v13.8",
+                "versicle_number": 8,
+                "text": "E acontecerá em toda a terra, diz o Senhor, que as duas partes dela serão extirpadas, e expirarão; mas a terceira parte restará nela."
+            },
+            {
+                "id": "v13.9",
+                "versicle_number": 9,
+                "text": "E farei passar esta terceira parte pelo fogo, e a purificarei, como se purifica a prata, e a provarei, como se prova o ouro: ela invocará o meu nome, e eu a ouvirei; direi: É meu povo, e ela dirá: O Senhor é meu Deus."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 13.7 Mt 26.31; Mc 14.27"
+            }
+        ]
+    }
+}

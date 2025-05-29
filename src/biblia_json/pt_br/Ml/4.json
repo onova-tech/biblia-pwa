@@ -1,0 +1,58 @@
+{
+    "book": {
+        "id": "Ml",
+        "book_number": 39,
+        "new_testament": false,
+        "num_chapters": 4,
+        "book_name": "MALAQUIAS",
+        "book_full_name": "MALAQUIAS"
+    },
+    "chapter": {
+        "chapter_number": 4,
+        "chapter_reference": "",
+        "chapter_title": "",
+        "versicles": [
+            {
+                "id": "v4.1",
+                "versicle_number": 1,
+                "text": "PORQUE eis que aquele dia vem ardendo como forno: todos os soberbos, e todos os que cometem impiedade, serão como palha; e o dia que está para vir os abrasará, diz o Senhor dos Exércitos, de sorte que lhes não deixará nem raiz nem ramo."
+            },
+            {
+                "id": "v4.2",
+                "versicle_number": 2,
+                "text": "Mas para vós, que temeis o meu nome nascerá o sol da justiça, e salvação trará debaixo das suas asas; e saireis, e {note:d}crescereis como os bezerros do cevadouro."
+            },
+            {
+                "id": "v4.3",
+                "versicle_number": 3,
+                "text": "E pisareis os ímpios, porque se farão cinza debaixo das plantas de vossos pés naquele dia que farei, diz o Senhor dos Exércitos."
+            },
+            {
+                "id": "v4.4",
+                "versicle_number": 4,
+                "text": "Lembrai-vos da lei de Moisés, meu servo, a qual lhe mandei em Horebe para todo o Israel, e que são os estatutos e juízos."
+            },
+            {
+                "id": "v4.5",
+                "versicle_number": 5,
+                "text": "Eis que eu vos envio o profeta Elias,{note:1} antes que venha o dia grande e terrível do Senhor;"
+            },
+            {
+                "id": "v4.6",
+                "versicle_number": 6,
+                "text": "E converterá o coração dos pais aos filhos, e o coração dos filhos a seus pais; para que eu não venha, e fira a terra com maldição."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:d} 4.2 ou saltareis"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 4.5 Mt 11.14; 17.10-13; Mc 9.11-13; Lc 1.17; Jo 1.21"
+            }
+        ]
+    }
+}

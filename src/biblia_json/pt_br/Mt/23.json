@@ -1,0 +1,251 @@
+{
+    "book": {
+        "id": "Mt",
+        "book_number": 40,
+        "new_testament": true,
+        "num_chapters": 28,
+        "book_name": "MATEUS",
+        "book_full_name": "O SANTO EVANGELHO SEGUNDO MATEUS"
+    },
+    "chapter": {
+        "chapter_number": 23,
+        "chapter_reference": "",
+        "chapter_title": "Jesus censura os escribas e os fariseus",
+        "versicles": [
+            {
+                "id": "v23.1",
+                "versicle_number": 1,
+                "text": "ENTÃO falou Jesus à multidão, e aos seus discípulos,"
+            },
+            {
+                "id": "v23.2",
+                "versicle_number": 2,
+                "text": "Dizendo: Na cadeira de Moisés, estão assentados os escribas e fariseus."
+            },
+            {
+                "id": "v23.3",
+                "versicle_number": 3,
+                "text": "Observai, pois, e praticai tudo o que vos disserem; mas não procedais em conformidade com as suas obras, porque dizem e não praticam;"
+            },
+            {
+                "id": "v23.4",
+                "versicle_number": 4,
+                "text": "Pois atam fardos pesados e difíceis de suportar, e os põem aos ombros dos homens; eles, porém, nem com o dedo querem movê-los;"
+            },
+            {
+                "id": "v23.5",
+                "versicle_number": 5,
+                "text": "E fazem todas as obras{note:1} a fim de serem vistos pelos homens; pois trazem largos filactérios,{note:2} e alargam as franjas{note:3} dos seus vestidos,"
+            },
+            {
+                "id": "v23.6",
+                "versicle_number": 6,
+                "text": "E amam os primeiros lugares nas ceias e as primeiras cadeiras nas sinagogas,"
+            },
+            {
+                "id": "v23.7",
+                "versicle_number": 7,
+                "text": "E as saudações, nas praças, e o serem chamados pelos homens — Rabi, Rabi."
+            },
+            {
+                "id": "v23.8",
+                "versicle_number": 8,
+                "text": "Vós, porém, não queirais ser chamados Rabi, porque um só é o vosso Mestre a saber, o Cristo, e todos vós sois irmãos."
+            },
+            {
+                "id": "v23.9",
+                "versicle_number": 9,
+                "text": "E a ninguém na terra chameis vosso pai, porque um só é o vosso Pai, o qual está nos céus."
+            },
+            {
+                "id": "v23.10",
+                "versicle_number": 10,
+                "text": "Nem vos chameis mestres, porque um só é o vosso Mestre, que é o Cristo."
+            },
+            {
+                "id": "v23.11",
+                "versicle_number": 11,
+                "text": "Porém o maior{note:4} dentre vós será vosso servo."
+            },
+            {
+                "id": "v23.12",
+                "versicle_number": 12,
+                "text": "E o que a si mesmo se exaltar{note:5} será humilhado; e o que a si mesmo se humilhar será exaltado."
+            },
+            {
+                "id": "v23.13",
+                "versicle_number": 13,
+                "text": "Mas ai de vós, escribas e fariseus, hipócritas! pois que fechais aos homens o reino dos céus; e nem vós entrais nem deixais entrar aos que estão entrando."
+            },
+            {
+                "id": "v23.14",
+                "versicle_number": 14,
+                "text": "Ai de vós, escribas e fariseus, hipócritas! pois que devorais as casas das viúvas, sob pretexto de prolongadas orações; por isso sofrereis mais rigoroso juízo."
+            },
+            {
+                "id": "v23.15",
+                "versicle_number": 15,
+                "text": "Ai de vós, escribas e fariseus, hipócritas! pois que percorreis o mar e a terra para fazer um prosélito; e, depois de o terdes feito, o fazeis filho do inferno duas vezes mais do que vós."
+            },
+            {
+                "id": "v23.16",
+                "versicle_number": 16,
+                "text": "Ai de vós, condutores cegos! pois que dizeis: Qualquer que jurar pelo templo, isso nada é; mas o que jurar pelo ouro do templo, esse é devedor."
+            },
+            {
+                "id": "v23.17",
+                "versicle_number": 17,
+                "text": "Insensatos e cegos! Pois qual é maior: o ouro, ou o templo, que santifica o ouro?"
+            },
+            {
+                "id": "v23.18",
+                "versicle_number": 18,
+                "text": "E aquele que jurar pelo altar isso nada é; mas aquele que jurar pela oferta que está sobre o altar, esse é devedor."
+            },
+            {
+                "id": "v23.19",
+                "versicle_number": 19,
+                "text": "Insensatos e cegos! Pois qual é maior: a oferta, ou o altar, que santifica a oferta?"
+            },
+            {
+                "id": "v23.20",
+                "versicle_number": 20,
+                "text": "Portanto, o que jurar pelo altar jura por ele e por tudo o que sobre ele está:"
+            },
+            {
+                "id": "v23.21",
+                "versicle_number": 21,
+                "text": "E o que jurar pelo templo jura por ele e por aquele que nele habita;"
+            },
+            {
+                "id": "v23.22",
+                "versicle_number": 22,
+                "text": "E o que jurar pelo céu jura pelo trono de Deus{note:6} e por aquele que está assentado nele."
+            },
+            {
+                "id": "v23.23",
+                "versicle_number": 23,
+                "text": "Ai de vós, escribas e fariseus, hipócritas! pois que dizimais{note:7} a hortelã, o endro e o cominho, e desprezais o mais importante da lei, o juízo, a misericórdia e a fé; deveis, porém, fazer estas coisas, e não omitir aquelas."
+            },
+            {
+                "id": "v23.24",
+                "versicle_number": 24,
+                "text": "Condutores cegos! que coais um mosquito e engolis um camelo."
+            },
+            {
+                "id": "v23.25",
+                "versicle_number": 25,
+                "text": "Ai de vós, escribas e fariseus, hipócritas! pois que limpais o exterior do copo e do prato, mas o interior está cheio de rapina e de iniquidade."
+            },
+            {
+                "id": "v23.26",
+                "versicle_number": 26,
+                "text": "Fariseu cego! limpa primeiro o interior do copo e do prato, para que também o exterior fique limpo."
+            },
+            {
+                "id": "v23.27",
+                "versicle_number": 27,
+                "text": "Ai de vós, escribas e fariseus, hipócritas! pois que sois semelhantes aos sepulcros caiados,{note:8} que por fora realmente parecem formosos, mas interiormente estão cheios de ossos de mortos e de toda a imundícia."
+            },
+            {
+                "id": "v23.28",
+                "versicle_number": 28,
+                "text": "Assim também vós exteriormente pareceis justos aos homens, mas interiormente estais cheios de hipocrisia e de iniquidade."
+            },
+            {
+                "id": "v23.29",
+                "versicle_number": 29,
+                "text": "Ai de vós, escribas e fariseus, hipócritas! pois que edificais os sepulcros dos profetas e adornais os monumentos dos justos."
+            },
+            {
+                "id": "v23.30",
+                "versicle_number": 30,
+                "text": "E dizeis: Se existíssemos no tempo de nossos pais, nunca nos associaríamos com eles para derramar o sangue dos profetas."
+            },
+            {
+                "id": "v23.31",
+                "versicle_number": 31,
+                "text": "Assim, vós mesmos testificais que sois filhos dos que mataram os profetas."
+            },
+            {
+                "id": "v23.32",
+                "versicle_number": 32,
+                "text": "Enchei vós pois a medida de vossos pais."
+            },
+            {
+                "id": "v23.33",
+                "versicle_number": 33,
+                "text": "Serpentes, raça de víboras!{note:9} como escapareis da condenação do inferno?"
+            },
+            {
+                "id": "v23.34",
+                "versicle_number": 34,
+                "text": "Portanto, eis que eu vos envio profetas, sábios e escribas; e a uns deles matareis e crucificareis; e a outros deles açoitareis nas vossas sinagogas e os perseguireis de cidade em cidade;"
+            },
+            {
+                "id": "v23.35",
+                "versicle_number": 35,
+                "text": "Para que sobre vós caia todo o sangue justo, que foi derramado sobre a terra, desde o sangue de Abel,{note:10} o justo, até ao sangue de Zacarias,{note:11} filho de Baraquias, que matastes entre o santuário e o altar."
+            },
+            {
+                "id": "v23.36",
+                "versicle_number": 36,
+                "text": "Em verdade vos digo que todas estas coisas hão de vir sobre esta geração."
+            },
+            {
+                "id": "v23.37",
+                "versicle_number": 37,
+                "text": "Jerusalém, Jerusalém, que matas os profetas, e apedrejas os que te são enviados! quantas vezes quis eu ajuntar os teus filhos, como a galinha ajunta os seus pintos debaixo das asas, e tu não quiseste!"
+            },
+            {
+                "id": "v23.38",
+                "versicle_number": 38,
+                "text": "Eis que a vossa casa vai ficar-vos deserta;"
+            },
+            {
+                "id": "v23.39",
+                "versicle_number": 39,
+                "text": "Porque eu vos digo que desde agora me não vereis mais, até que digais: Bendito o que vem em nome do Senhor.{note:12}"
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 23.5 Mt 6.1 {note:3} 23.5 Nm 15.38 {note:2} 23.5 Dt 6.8"
+            },
+            {
+                "id": "n2",
+                "text": "{note:4} 23.11 Mt 20.26-27; Mc 9.35; 10.43-44; Lc 22.26"
+            },
+            {
+                "id": "n3",
+                "text": "{note:5} 23.12 Lc 14.11; 18.14"
+            },
+            {
+                "id": "n4",
+                "text": "{note:6} 23.22 Is 66.1; Mt 5.34"
+            },
+            {
+                "id": "n5",
+                "text": "{note:7} 23.23 Lv 27.30"
+            },
+            {
+                "id": "n6",
+                "text": "{note:8} 23.27 At 23.3"
+            },
+            {
+                "id": "n7",
+                "text": "{note:9} 23.33 Mt 3.7; Lc 3.7"
+            },
+            {
+                "id": "n8",
+                "text": "{note:10} 23.35 Gn 4.8 {note:11} 23.35 2Cr 24.20-21"
+            },
+            {
+                "id": "n9",
+                "text": "{note:12} 23.39 Sl 118.26"
+            }
+        ]
+    }
+}

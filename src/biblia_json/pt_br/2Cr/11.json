@@ -1,0 +1,145 @@
+{
+    "book": {
+        "id": "2Cr",
+        "book_number": 14,
+        "new_testament": false,
+        "num_chapters": 36,
+        "book_name": "CRÔNICAS",
+        "book_full_name": "O SEGUNDO LIVRO DAS CRÔNICAS"
+    },
+    "chapter": {
+        "chapter_number": 11,
+        "chapter_reference": "",
+        "chapter_title": "Deus proíbe fazer guerra contra as dez tribos",
+        "versicles": [
+            {
+                "id": "v11.1",
+                "versicle_number": 1,
+                "text": "VINDO pois Roboão a Jerusalém, ajuntou da casa de Judá e Benjamim cento e oitenta mil escolhidos, destros na guerra para pelejarem contra Israel, e para restituírem o reino a Roboão."
+            },
+            {
+                "id": "v11.2",
+                "versicle_number": 2,
+                "text": "Porém a palavra do Senhor veio a Semaías, homem de Deus, dizendo:"
+            },
+            {
+                "id": "v11.3",
+                "versicle_number": 3,
+                "text": "Fala a Roboão, filho de Salomão, rei de Judá, e a todo o Israel, em Judá e Benjamim, dizendo:"
+            },
+            {
+                "id": "v11.4",
+                "versicle_number": 4,
+                "text": "Assim diz o Senhor: não subireis, nem pelejareis contra os vossos irmãos, tornai cada um à sua casa; porque de mim proveio isto. E ouviram as palavras do Senhor, e desistiram de ir contra Jeroboão."
+            },
+            {
+                "id": "v11.5",
+                "versicle_number": 5,
+                "text": "E Roboão habitou em Jerusalém: e edificou cidades para fortalezas, em Judá."
+            },
+            {
+                "id": "v11.6",
+                "versicle_number": 6,
+                "text": "Edificou pois a Belém, e a Etã, e a Técoa,"
+            },
+            {
+                "id": "v11.7",
+                "versicle_number": 7,
+                "text": "E a Bete-Zur, e a Socó, e a Adulão,"
+            },
+            {
+                "id": "v11.8",
+                "versicle_number": 8,
+                "text": "E a Gate, e a Maresa, e a Zife,"
+            },
+            {
+                "id": "v11.9",
+                "versicle_number": 9,
+                "text": "E a Adoraim, e a Laquis, e a Azeca,"
+            },
+            {
+                "id": "v11.10",
+                "versicle_number": 10,
+                "text": "E a Zorá, e a Aijalom, e a Hebrom, que estavam em Judá e em Benjamim; cidades fortes."
+            },
+            {
+                "id": "v11.11",
+                "versicle_number": 11,
+                "text": "E fortificou estas fortalezas e pôs nelas maiorais, e armazéns de víveres, e de azeite, e de vinho."
+            },
+            {
+                "id": "v11.12",
+                "versicle_number": 12,
+                "text": "E pôs em cada cidade paveses e lanças; fortificou-as em grande maneira: e Judá e Benjamim pertenceram-lhe."
+            },
+            {
+                "id": "v11.13",
+                "versicle_number": 13,
+                "text": "Também os sacerdotes, e os levitas, que havia em todo o Israel, se ajuntaram a ele de todos os seus termos."
+            },
+            {
+                "id": "v11.14",
+                "versicle_number": 14,
+                "text": "Porque os levitas deixaram os seus arrabaldes, e a sua possessão, e vieram a Judá e a Jerusalém (porque Jeroboão e seus filhos os lançaram fora, para que não ministrassem ao Senhor."
+            },
+            {
+                "id": "v11.15",
+                "versicle_number": 15,
+                "text": "E ele constituiu para si sacerdotes,{note:1} para os altos, e para os demônios, e para os bezerros, que fizera)."
+            },
+            {
+                "id": "v11.16",
+                "versicle_number": 16,
+                "text": "Depois desses também de todas as tribos de Israel, os que deram o seu coração a buscarem ao Senhor Deus de Israel, vieram a Jerusalém, para oferecerem sacrifícios ao Senhor Deus de seus pais."
+            },
+            {
+                "id": "v11.17",
+                "versicle_number": 17,
+                "text": "Assim fortaleceram o reino de Judá e corroboraram a Roboão, filho de Salomão, por três anos: porque três anos andaram no caminho de Davi e Salomão."
+            },
+            {
+                "id": "v11.18",
+                "versicle_number": 18,
+                "text": "E Roboão tomou para si, por mulher, a Maalate, filha de Jerimote, filho de Davi; e Abiail, filha de Eliabe, filho de Jessé."
+            },
+            {
+                "id": "v11.19",
+                "versicle_number": 19,
+                "text": "A qual lhe deu filhos, a Jeús, e a Samarias, e a Zaão."
+            },
+            {
+                "id": "v11.20",
+                "versicle_number": 20,
+                "text": "E depois dela tomou a Maaca, filha de Absalão: esta lhe deu a Abias, e a Atai, e a Ziza, e a Selomite."
+            },
+            {
+                "id": "v11.21",
+                "versicle_number": 21,
+                "text": "E amava Roboão mais a Maaca, filha de Absalão, do que a todas as suas outras mulheres e concubinas; porque ele tinha tomado dezoito mulheres, e sessenta concubinas; e gerou vinte e oito filhos, e sessenta filhas."
+            },
+            {
+                "id": "v11.22",
+                "versicle_number": 22,
+                "text": "E Roboão pôs por cabeça a Abias, filho de Maaca, para ser maioral entre os seus irmãos; porque o queria fazer rei."
+            },
+            {
+                "id": "v11.23",
+                "versicle_number": 23,
+                "text": "E usou de prudência, e de todos os seus filhos alguns espalhou por todas as terras de Judá e Benjamim, por todas as cidades fortes; e deu-lhes víveres em abundância: e lhes procurou uma multidão de mulheres."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v11.13",
+                "text": "Todos os que temem a Deus vêm a Jerusalém"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 11.15 1Rs 12.31"
+            }
+        ]
+    }
+}

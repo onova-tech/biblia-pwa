@@ -1,0 +1,250 @@
+{
+    "book": {
+        "id": "At",
+        "book_number": 44,
+        "new_testament": true,
+        "num_chapters": 28,
+        "book_name": "ATOS DOS APÓSTOLOS",
+        "book_full_name": "ATOS DOS APÓSTOLOS"
+    },
+    "chapter": {
+        "chapter_number": 9,
+        "chapter_reference": "Atos 22.1-16; 26.9-18",
+        "chapter_title": "A conversão de Saulo no caminho de Damasco",
+        "versicles": [
+            {
+                "id": "v9.1",
+                "versicle_number": 1,
+                "text": "E SAULO, respirando ainda ameaças, e mortes contra os discípulos do Senhor, dirigiu-se ao sumo sacerdote,"
+            },
+            {
+                "id": "v9.2",
+                "versicle_number": 2,
+                "text": "E pediu-lhe cartas para Damasco para as sinagogas, a fim de que, se encontrasse alguns daquela seita, quer homens quer mulheres, os conduzisse presos a Jerusalém."
+            },
+            {
+                "id": "v9.3",
+                "versicle_number": 3,
+                "text": "E, indo no caminho, aconteceu que, chegando perto de Damasco, subitamente o cercou um resplendor de luz do céu."
+            },
+            {
+                "id": "v9.4",
+                "versicle_number": 4,
+                "text": "E, caindo em terra, ouviu uma voz que lhe dizia: Saulo, Saulo, por que me persegues?"
+            },
+            {
+                "id": "v9.5",
+                "versicle_number": 5,
+                "text": "E ele disse: Quem és, Senhor? E disse o Senhor: Eu sou Jesus, a quem tu persegues. Duro é para ti recalcitrar contra os aguilhões."
+            },
+            {
+                "id": "v9.6",
+                "versicle_number": 6,
+                "text": "E ele, tremendo e atônito, disse: Senhor, que queres que faça? E disse-lhe o Senhor: Levanta-te, e entra na cidade, e lá te será dito o que te convém fazer."
+            },
+            {
+                "id": "v9.7",
+                "versicle_number": 7,
+                "text": "E os varões, que iam com ele, pararam espantados, ouvindo a voz, mas não vendo ninguém."
+            },
+            {
+                "id": "v9.8",
+                "versicle_number": 8,
+                "text": "E Saulo levantou-se da terra, e, abrindo os olhos, não via a ninguém. E, guiando-o pela mão, o conduziram a Damasco."
+            },
+            {
+                "id": "v9.9",
+                "versicle_number": 9,
+                "text": "E esteve três dias sem ver, e não comeu nem bebeu."
+            },
+            {
+                "id": "v9.10",
+                "versicle_number": 10,
+                "text": "E havia em Damasco um certo discípulo chamado Ananias; e disse-lhe o Senhor em visão: Ananias! E ele respondeu: Eis-me aqui, Senhor."
+            },
+            {
+                "id": "v9.11",
+                "versicle_number": 11,
+                "text": "E disse-lhe o Senhor: Levanta-te, e vai à rua chamada Direita, e pergunta em casa de Judas por um homem de Tarso chamado Saulo; pois eis que ele está orando;"
+            },
+            {
+                "id": "v9.12",
+                "versicle_number": 12,
+                "text": "E numa visão ele viu que entrava um homem chamado Ananias, e punha sobre ele a mão, para que tornasse a ver."
+            },
+            {
+                "id": "v9.13",
+                "versicle_number": 13,
+                "text": "E respondeu Ananias: Senhor, a muitos ouvi acerca deste homem, quantos males tem feito aos teus santos em Jerusalém;"
+            },
+            {
+                "id": "v9.14",
+                "versicle_number": 14,
+                "text": "E aqui tem poder dos principais dos sacerdotes para prender a todos os que invocam o teu nome."
+            },
+            {
+                "id": "v9.15",
+                "versicle_number": 15,
+                "text": "Disse-lhe, porém, o Senhor: Vai, porque este é para mim um vaso escolhido, para levar o meu nome diante dos gentios, e dos reis e dos filhos d'Israel."
+            },
+            {
+                "id": "v9.16",
+                "versicle_number": 16,
+                "text": "E eu lhe mostrarei quanto deve padecer pelo meu nome."
+            },
+            {
+                "id": "v9.17",
+                "versicle_number": 17,
+                "text": "E Ananias foi, e entrou na casa, e, impondo-lhe as mãos, disse: Irmão Saulo, o Senhor Jesus, que te apareceu no caminho por onde vinhas, me enviou, para que tornes a ver e sejas cheio do Espírito Santo."
+            },
+            {
+                "id": "v9.18",
+                "versicle_number": 18,
+                "text": "E logo lhe caíram dos olhos como que umas escamas, e recuperou a vista; e, levantando-se, foi batizado."
+            },
+            {
+                "id": "v9.19",
+                "versicle_number": 19,
+                "text": "E, tendo comido, ficou confortado. E esteve Saulo alguns dias com os discípulos que estavam em Damasco."
+            },
+            {
+                "id": "v9.20",
+                "versicle_number": 20,
+                "text": "E logo nas sinagogas pregava a Jesus, que este era o Filho de Deus."
+            },
+            {
+                "id": "v9.21",
+                "versicle_number": 21,
+                "text": "E todos os que o ouviam estavam atônitos, e diziam: Não é este o que em Jerusalém perseguia os que invocavam este nome, e para isso veio aqui, para os levar presos aos principais dos sacerdotes?"
+            },
+            {
+                "id": "v9.22",
+                "versicle_number": 22,
+                "text": "Saulo, porém, se esforçava muito mais, e confundia os judeus que habitavam em Damasco, provando que aquele era o Cristo."
+            },
+            {
+                "id": "v9.23",
+                "versicle_number": 23,
+                "text": "E, tendo passado muitos dias, os judeus tomaram conselho entre si para o matar."
+            },
+            {
+                "id": "v9.24",
+                "versicle_number": 24,
+                "text": "Mas as suas ciladas vieram ao conhecimento de Saulo: e como eles guardavam as portas, tanto de dia como de noite, para poderem tirar-lhe a vida,"
+            },
+            {
+                "id": "v9.25",
+                "versicle_number": 25,
+                "text": "Tomando-o de noite os discípulos, o desceram, dentro dum cesto, pelo muro."
+            },
+            {
+                "id": "v9.26",
+                "versicle_number": 26,
+                "text": "E, quando Saulo chegou a Jerusalém, procurava ajuntar-se aos discípulos, mas todos o temiam, não crendo que fosse discípulo."
+            },
+            {
+                "id": "v9.27",
+                "versicle_number": 27,
+                "text": "Então Barnabé, tomando-o consigo o trouxe aos apóstolos, e lhes contou como no caminho ele vira ao Senhor e lhe falara, e como em Damasco falara ousadamente no nome de Jesus."
+            },
+            {
+                "id": "v9.28",
+                "versicle_number": 28,
+                "text": "E andava com eles em Jerusalém, entrando e saindo."
+            },
+            {
+                "id": "v9.29",
+                "versicle_number": 29,
+                "text": "E falava ousadamente no nome de Jesus. Falava e disputava também contra os gregos, mas eles procuravam matá-lo."
+            },
+            {
+                "id": "v9.30",
+                "versicle_number": 30,
+                "text": "Sabendo-o, porém, os irmãos, o acompanharam até Cesareia, e o enviaram a Tarso."
+            },
+            {
+                "id": "v9.31",
+                "versicle_number": 31,
+                "text": "Assim, pois, as igrejas em toda a Judeia, e Galileia e Samaria tinham paz, e eram edificadas; e se multiplicavam, andando no temor do Senhor e consolação do Espírito Santo."
+            },
+            {
+                "id": "v9.32",
+                "versicle_number": 32,
+                "text": "E aconteceu que, passando Pedro por toda a parte, veio também aos santos que habitavam em Lida."
+            },
+            {
+                "id": "v9.33",
+                "versicle_number": 33,
+                "text": "E achou ali certo homem, chamado Eneias, jazendo numa cama havia oito anos, o qual era paralítico."
+            },
+            {
+                "id": "v9.34",
+                "versicle_number": 34,
+                "text": "E disse-lhe Pedro: Eneias, Jesus Cristo te dá saúde; levanta-te e faze a tua cama. E logo se levantou."
+            },
+            {
+                "id": "v9.35",
+                "versicle_number": 35,
+                "text": "E viram-no todos os que habitavam em Lida e Sarona, os quais se converteram ao Senhor."
+            },
+            {
+                "id": "v9.36",
+                "versicle_number": 36,
+                "text": "E havia em Jope uma discípula chamada Tabita, que traduzido se diz {note:f}Dorcas. Esta estava cheia de boas obras e esmolas que fazia."
+            },
+            {
+                "id": "v9.37",
+                "versicle_number": 37,
+                "text": "E aconteceu naqueles dias que, enfermando ela, morreu; e, tendo-a lavado, a depositaram num quarto alto."
+            },
+            {
+                "id": "v9.38",
+                "versicle_number": 38,
+                "text": "E, como Lida era perto de Jope, ouvindo os discípulos que Pedro estava ali, lhe mandaram dois varões, rogando-lhe que não se demorasse em vir ter com eles."
+            },
+            {
+                "id": "v9.39",
+                "versicle_number": 39,
+                "text": "E, levantando-se Pedro, foi com eles; e quando chegou o levaram ao quarto alto, e todas as viúvas o rodearam, chorando e mostrando as túnicas e vestidos que Dorcas fizera quando estava com elas."
+            },
+            {
+                "id": "v9.40",
+                "versicle_number": 40,
+                "text": "Mas Pedro, fazendo-as sair a todas, pôs-se de joelhos e orou: e, voltando-se para o corpo, disse: Tabita, levanta-te. E ela abriu os olhos, e, vendo a Pedro, assentou-se."
+            },
+            {
+                "id": "v9.41",
+                "versicle_number": 41,
+                "text": "E ele, dando-lhe a mão, a levantou, e, chamando os santos e as viúvas, apresentou-lha viva."
+            },
+            {
+                "id": "v9.42",
+                "versicle_number": 42,
+                "text": "E foi isto notório por toda a Jope, e muitos creram no Senhor."
+            },
+            {
+                "id": "v9.43",
+                "versicle_number": 43,
+                "text": "E ficou muitos dias em Jope, com um certo Simão curtidor."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v9.19",
+                "text": "O perseguidor é perseguido"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v9.32",
+                "text": "Cura de Eneias; ressurreição de Tabita"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:f} 9.36 que é gazela"
+            }
+        ]
+    }
+}

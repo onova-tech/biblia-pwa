@@ -1,0 +1,153 @@
+{
+    "book": {
+        "id": "Rm",
+        "book_number": 45,
+        "new_testament": true,
+        "num_chapters": 16,
+        "book_name": "ROMANOS",
+        "book_full_name": "EPÍSTOLA DO APÓSTOLO PAULO AOS ROMANOS"
+    },
+    "chapter": {
+        "chapter_number": 7,
+        "chapter_reference": "",
+        "chapter_title": "Estando mortos à lei, sirvamos a Deus em novidade de espírito. A lei opera em nós a morte. Luta da carne com o espírito",
+        "versicles": [
+            {
+                "id": "v7.1",
+                "versicle_number": 1,
+                "text": "NÃO sabeis vós, irmãos (pois que falo aos que sabem a lei), que a lei tem domínio sobre o homem por todo o tempo que vive?"
+            },
+            {
+                "id": "v7.2",
+                "versicle_number": 2,
+                "text": "Porque a mulher que está sujeita ao marido, enquanto ele viver, está-lhe ligada pela lei; mas, morto o marido, está livre da lei do marido."
+            },
+            {
+                "id": "v7.3",
+                "versicle_number": 3,
+                "text": "De sorte que, vivendo o marido, será chamada adúltera, se for doutro marido; mas, morto o marido, livre está da lei, e assim não será adúltera, se for doutro marido."
+            },
+            {
+                "id": "v7.4",
+                "versicle_number": 4,
+                "text": "Assim, meus irmãos, também vós estais mortos para a lei pelo corpo de Cristo, para que sejais doutro, daquele que ressuscitou de entre os mortos, a fim de que demos fruto para Deus."
+            },
+            {
+                "id": "v7.5",
+                "versicle_number": 5,
+                "text": "Porque, quando estávamos na carne, as paixões dos pecados, que são pela lei, obravam em nossos membros para darem fruto para a morte."
+            },
+            {
+                "id": "v7.6",
+                "versicle_number": 6,
+                "text": "Mas agora estamos livres da lei, pois morremos para aquilo em que estávamos retidos; para que sirvamos em novidade de espírito, e não na velhice da letra."
+            },
+            {
+                "id": "v7.7",
+                "versicle_number": 7,
+                "text": "Que diremos pois? É a lei pecado? De modo nenhum: mas eu não conheci o pecado senão pela lei; porque eu não conheceria a concupiscência, se a lei não dissesse: Não cobiçarás.{note:1}"
+            },
+            {
+                "id": "v7.8",
+                "versicle_number": 8,
+                "text": "Mas o pecado, tomando ocasião pelo mandamento, obrou em mim toda a concupiscência: porquanto sem a lei estava morto o pecado."
+            },
+            {
+                "id": "v7.9",
+                "versicle_number": 9,
+                "text": "E eu, nalgum tempo, vivia sem lei, mas, vindo o mandamento, reviveu o pecado, e eu morri;"
+            },
+            {
+                "id": "v7.10",
+                "versicle_number": 10,
+                "text": "E o mandamento que era para vida, achei eu que me era para morte."
+            },
+            {
+                "id": "v7.11",
+                "versicle_number": 11,
+                "text": "Porque o pecado, tomando ocasião pelo mandamento, me enganou, e por ele me matou."
+            },
+            {
+                "id": "v7.12",
+                "versicle_number": 12,
+                "text": "E assim a lei é santa, e o mandamento santo, justo e bom."
+            },
+            {
+                "id": "v7.13",
+                "versicle_number": 13,
+                "text": "Logo tornou-se-me o bom em morte? De modo nenhum; mas o pecado, para que se mostrasse pecado, operou em mim a morte pelo bem; a fim de que pelo mandamento o pecado se fizesse excessivamente maligno."
+            },
+            {
+                "id": "v7.14",
+                "versicle_number": 14,
+                "text": "Porque bem sabemos que a lei é espiritual; mas eu sou carnal, vendido sob o pecado."
+            },
+            {
+                "id": "v7.15",
+                "versicle_number": 15,
+                "text": "Porque o que faço não o aprovo, pois o que quero isso não faço, mas o que aborreço isso faço."
+            },
+            {
+                "id": "v7.16",
+                "versicle_number": 16,
+                "text": "E, se faço o que não quero, consinto com a lei, que é boa."
+            },
+            {
+                "id": "v7.17",
+                "versicle_number": 17,
+                "text": "De maneira que agora já não sou eu que faço isto, mas o pecado que habita em mim."
+            },
+            {
+                "id": "v7.18",
+                "versicle_number": 18,
+                "text": "Porque eu sei que em mim, isto é, na minha carne, não habita bem algum: e com efeito o querer está em mim, mas não consigo realizar o bem."
+            },
+            {
+                "id": "v7.19",
+                "versicle_number": 19,
+                "text": "Porque não faço o bem que quero, mas o mal que não quero esse faço."
+            },
+            {
+                "id": "v7.20",
+                "versicle_number": 20,
+                "text": "Ora, se eu faço o que não quero, já o não faço eu, mas o pecado que habita em mim."
+            },
+            {
+                "id": "v7.21",
+                "versicle_number": 21,
+                "text": "Acho então esta lei em mim: que, quando quero fazer o bem, o mal está comigo."
+            },
+            {
+                "id": "v7.22",
+                "versicle_number": 22,
+                "text": "Porque, segundo o homem interior, tenho prazer na lei de Deus."
+            },
+            {
+                "id": "v7.23",
+                "versicle_number": 23,
+                "text": "Mas vejo nos meus membros outra lei que batalha contra a lei do meu entendimento, e me prende debaixo da lei do pecado que está nos meus membros."
+            },
+            {
+                "id": "v7.24",
+                "versicle_number": 24,
+                "text": "Miserável homem que eu sou! quem me livrará do corpo desta morte?"
+            },
+            {
+                "id": "v7.25",
+                "versicle_number": 25,
+                "text": "Dou graças a Deus por Jesus Cristo nosso Senhor. Assim que eu mesmo com o entendimento sirvo à lei de Deus, mas com a carne à lei do pecado.{note:2}"
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 7.7 Êx 20.17; Dt 5.21"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 7.7-25 Gl 5.16-26"
+            }
+        ]
+    }
+}

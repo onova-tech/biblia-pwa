@@ -1,0 +1,228 @@
+{
+    "book": {
+        "id": "Mt",
+        "book_number": 40,
+        "new_testament": true,
+        "num_chapters": 28,
+        "book_name": "MATEUS",
+        "book_full_name": "O SANTO EVANGELHO SEGUNDO MATEUS"
+    },
+    "chapter": {
+        "chapter_number": 6,
+        "chapter_reference": "",
+        "chapter_title": "Continuação do sermão da montanha. Esmolas, Oração, Jejum",
+        "versicles": [
+            {
+                "id": "v6.1",
+                "versicle_number": 1,
+                "text": "GUARDAI-VOS de fazer a vossa esmola diante dos homens, para serdes vistos por eles:{note:1} aliás não tereis galardão junto de vosso Pai, que está nos céus."
+            },
+            {
+                "id": "v6.2",
+                "versicle_number": 2,
+                "text": "Quando pois deres esmola, não faças tocar trombeta diante de ti, como fazem os hipócritas nas sinagogas e nas ruas, para serem glorificados pelos homens. Em verdade vos digo que já receberam o seu galardão."
+            },
+            {
+                "id": "v6.3",
+                "versicle_number": 3,
+                "text": "Mas, quando tu deres esmola, não saiba a tua mão esquerda o que faz a tua direita;"
+            },
+            {
+                "id": "v6.4",
+                "versicle_number": 4,
+                "text": "Para que a tua esmola seja dada ocultamente: e teu Pai, que vê em segredo, te recompensará publicamente."
+            },
+            {
+                "id": "v6.5",
+                "versicle_number": 5,
+                "text": "E, quando orares, não sejas como os hipócritas; pois se comprazem em orar em pé{note:2} nas sinagogas, e às esquinas das ruas para serem vistos pelos homens. Em verdade vos digo que já receberam o seu galardão."
+            },
+            {
+                "id": "v6.6",
+                "versicle_number": 6,
+                "text": "Mas tu, quando orares, entra no teu aposento,{note:3} e, fechando a tua porta, ora a teu Pai que está em oculto; e teu Pai, que vê secretamente, te recompensará."
+            },
+            {
+                "id": "v6.7",
+                "versicle_number": 7,
+                "text": "E, orando, não useis de vãs repetições, como os gentios, que pensam que por muito falarem serão ouvidos."
+            },
+            {
+                "id": "v6.8",
+                "versicle_number": 8,
+                "text": "Não vos assemelheis pois a eles; porque vosso Pai sabe o que vos é necessário, antes de vós lho pedirdes."
+            },
+            {
+                "id": "v6.9",
+                "versicle_number": 9,
+                "text": "Portanto, vós orareis assim: Pai nosso, que estás nos céus, santificado seja o teu nome;"
+            },
+            {
+                "id": "v6.10",
+                "versicle_number": 10,
+                "text": "Venha o teu reino, seja feita a tua vontade, assim na terra como no céu;"
+            },
+            {
+                "id": "v6.11",
+                "versicle_number": 11,
+                "text": "O pão nosso de cada dia nos dá hoje;"
+            },
+            {
+                "id": "v6.12",
+                "versicle_number": 12,
+                "text": "E perdoa-nos as nossas dívidas, assim como nós perdoamos aos nossos devedores;"
+            },
+            {
+                "id": "v6.13",
+                "versicle_number": 13,
+                "text": "E não nos induzas à tentação; mas livra-nos do mal; porque teu é o reino,{note:4} e o poder, e a glória, para sempre. Amém."
+            },
+            {
+                "id": "v6.14",
+                "versicle_number": 14,
+                "text": "Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós;"
+            },
+            {
+                "id": "v6.15",
+                "versicle_number": 15,
+                "text": "Se, porém, não perdoardes aos homens as suas ofensas, também vosso Pai vos não perdoará as vossas ofensas.{note:5}"
+            },
+            {
+                "id": "v6.16",
+                "versicle_number": 16,
+                "text": "E, quando jejuardes, não vos mostreis contristados como os hipócritas; porque desfiguram os seus rostos, para que aos homens pareça que jejuam. Em verdade vos digo que já receberam o seu galardão."
+            },
+            {
+                "id": "v6.17",
+                "versicle_number": 17,
+                "text": "Porém tu, quando jejuares, unge a tua cabeça, e lava o teu rosto."
+            },
+            {
+                "id": "v6.18",
+                "versicle_number": 18,
+                "text": "Para não pareceres aos homens que jejuas, mas a teu Pai, que está em oculto; e teu Pai, que vê em oculto, te recompensará."
+            },
+            {
+                "id": "v6.19",
+                "versicle_number": 19,
+                "text": "Não ajunteis{note:6} tesouros na terra, onde a traça e a ferrugem tudo consomem, e onde os ladrões minam e roubam;"
+            },
+            {
+                "id": "v6.20",
+                "versicle_number": 20,
+                "text": "Mas ajuntai tesouros no céu, onde nem a traça nem a ferrugem consomem, e onde os ladrões não minam nem roubam."
+            },
+            {
+                "id": "v6.21",
+                "versicle_number": 21,
+                "text": "Porque onde estiver o vosso tesouro, aí estará também o vosso coração."
+            },
+            {
+                "id": "v6.22",
+                "versicle_number": 22,
+                "text": "A candeia do corpo são os olhos; de sorte que, se os teus olhos forem bons, todo o teu corpo terá luz;"
+            },
+            {
+                "id": "v6.23",
+                "versicle_number": 23,
+                "text": "Se, porém, os teus olhos forem maus, o teu corpo será tenebroso. Se, portanto a luz que em ti há são trevas, quão grandes serão tais trevas!"
+            },
+            {
+                "id": "v6.24",
+                "versicle_number": 24,
+                "text": "Ninguém pode servir a dois senhores; porque ou há de odiar um e amar o outro, ou se dedicará a um e desprezará o outro. Não podeis servir a Deus e a {note:j}Mamom."
+            },
+            {
+                "id": "v6.25",
+                "versicle_number": 25,
+                "text": "Por isso vos digo: Não andeis cuidadosos quanto à vossa vida, pelo que haveis de comer ou pelo que haveis de beber; nem, quanto ao vosso corpo, pelo que haveis de vestir. Não é a vida mais do que o mantimento, e o corpo mais do que o vestido?"
+            },
+            {
+                "id": "v6.26",
+                "versicle_number": 26,
+                "text": "Olhai para as aves do céu, que nem semeiam, nem segam, nem ajuntam em celeiros; e vosso Pai celestial as alimenta. Não tendes vós muito mais valor do que elas?"
+            },
+            {
+                "id": "v6.27",
+                "versicle_number": 27,
+                "text": "E qual de vós poderá, com todos os seus cuidados, acrescentar um côvado à sua estatura?"
+            },
+            {
+                "id": "v6.28",
+                "versicle_number": 28,
+                "text": "E, quanto ao vestido, porque andais solícitos? Olhai para os lírios do campo, como eles crescem: não trabalham nem fiam;"
+            },
+            {
+                "id": "v6.29",
+                "versicle_number": 29,
+                "text": "E eu vos digo que nem mesmo Salomão,{note:7} em toda a sua glória, se vestiu como qualquer deles."
+            },
+            {
+                "id": "v6.30",
+                "versicle_number": 30,
+                "text": "Pois, se Deus assim veste a erva do campo, que hoje existe e amanhã é lançada no forno, não vos vestirá muito mais a vós, homens de pouca fé?"
+            },
+            {
+                "id": "v6.31",
+                "versicle_number": 31,
+                "text": "Não andeis pois inquietos, dizendo: Que comeremos, ou que beberemos, ou com que nos vestiremos?"
+            },
+            {
+                "id": "v6.32",
+                "versicle_number": 32,
+                "text": "(Porque todas estas coisas os gentios procuram.) De certo vosso Pai celestial bem sabe que necessitais de todas estas coisas;"
+            },
+            {
+                "id": "v6.33",
+                "versicle_number": 33,
+                "text": "Mas buscai primeiro o reino de Deus, e a sua justiça, e todas estas coisas vos serão acrescentadas."
+            },
+            {
+                "id": "v6.34",
+                "versicle_number": 34,
+                "text": "Não vos inquieteis pois pelo dia d'amanhã, porque o dia d'amanhã cuidará de si mesmo. Basta a cada dia o seu mal."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v6.19",
+                "text": "O tesouro no céu. O olho puro. Os dois senhores. A ansiosa solicitude pela nossa vida"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 6.1 Mt 23.5"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 6.5 Lc 18.10-14"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 6.6 Is 26.20"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 6.13 1Cr 29.11"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 6.14-15 Mc 11.25-26"
+            },
+            {
+                "id": "n6",
+                "text": "{note:6} 6.19 Tg 5.2-3"
+            },
+            {
+                "id": "n7",
+                "text": "{note:j} 6.24 ou as riquezas"
+            },
+            {
+                "id": "n8",
+                "text": "{note:7} 6.29 1Rs 10.4-7; 2Cr 9.3-6"
+            }
+        ]
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "book": {
+        "id": "Rt",
+        "book_number": 8,
+        "new_testament": false,
+        "num_chapters": 4,
+        "book_name": "RUTE",
+        "book_full_name": "O LIVRO DE RUTE"
+    },
+    "chapter": {
+        "chapter_number": 1,
+        "chapter_reference": "",
+        "chapter_title": "Noemi e suas noras Orfa e Rute",
+        "versicles": [
+            {
+                "id": "v1.1",
+                "versicle_number": 1,
+                "text": "E SUCEDEU que, nos dias em que os juízes julgavam, houve uma fome na terra: pelo que um homem de Belém de Judá saiu a peregrinar nos campos de Moabe, ele e sua mulher, e seus dois filhos:"
+            },
+            {
+                "id": "v1.2",
+                "versicle_number": 2,
+                "text": "E era o nome deste homem Elimeleque, e o nome de sua mulher {note:a}Noemi, e os nomes de seus dois filhos Malom e Quiliom, efrateus, de Belém de Judá: e vieram aos campos de Moabe, e ficaram ali."
+            },
+            {
+                "id": "v1.3",
+                "versicle_number": 3,
+                "text": "E morreu Elimeleque, marido de Noemi; e ficou ela com os seus dois filhos."
+            },
+            {
+                "id": "v1.4",
+                "versicle_number": 4,
+                "text": "Os quais tomaram para si mulheres moabitas; e era o nome duma Orfa, e o nome da outra Rute; e ficaram ali quase dez anos."
+            },
+            {
+                "id": "v1.5",
+                "versicle_number": 5,
+                "text": "E morreram também ambos, Malom e Quiliom, ficando assim esta mulher desamparada dos seus dois filhos e de seu marido."
+            },
+            {
+                "id": "v1.6",
+                "versicle_number": 6,
+                "text": "Então se levantou ela com as suas noras, e voltou dos campos de Moabe: porquanto na terra de Moabe ouviu que o Senhor tinha visitado o seu povo, dando-lhe pão."
+            },
+            {
+                "id": "v1.7",
+                "versicle_number": 7,
+                "text": "Pelo que saiu do lugar onde estivera, e as suas duas noras com ela. E, indo elas caminhando, para voltarem para a terra de Judá,"
+            },
+            {
+                "id": "v1.8",
+                "versicle_number": 8,
+                "text": "Disse Noemi às suas duas noras: Ide, voltai cada uma à casa de sua mãe; e o Senhor use convosco de benevolência, como vós usastes com os defuntos e comigo."
+            },
+            {
+                "id": "v1.9",
+                "versicle_number": 9,
+                "text": "O Senhor vos dê que acheis descanso cada uma em casa de seu marido. E, beijando-as ela, levantaram a sua voz e choraram."
+            },
+            {
+                "id": "v1.10",
+                "versicle_number": 10,
+                "text": "E disseram-lhe: Certamente voltaremos contigo ao teu povo."
+            },
+            {
+                "id": "v1.11",
+                "versicle_number": 11,
+                "text": "Porém Noemi disse: Tornai, minhas filhas, por que iríeis comigo? Tenho eu ainda no meu ventre mais filhos, para que vos fossem por maridos?"
+            },
+            {
+                "id": "v1.12",
+                "versicle_number": 12,
+                "text": "Tornai, filhas minhas, ide-vos embora, que já mui velha sou para ter marido: ainda quando eu dissesse: Tenho esperança, ou ainda que esta noite tivesse marido e ainda tivesse filhos,"
+            },
+            {
+                "id": "v1.13",
+                "versicle_number": 13,
+                "text": "Esperá-los-íeis até que viessem a ser grandes? deter-vos-íeis por eles, sem tomardes marido? Não, filhas minhas, que mais amargo me é a mim do que a vós mesmas; porquanto a mão do Senhor se descarregou contra mim."
+            },
+            {
+                "id": "v1.14",
+                "versicle_number": 14,
+                "text": "Então levantaram a sua voz, e tornaram a chorar: e Orfa beijou a sua sogra, porém Rute se apegou a ela."
+            },
+            {
+                "id": "v1.15",
+                "versicle_number": 15,
+                "text": "Pelo que disse: Eis que voltou tua cunhada ao seu povo e aos seus deuses: volta tu também após a tua cunhada."
+            },
+            {
+                "id": "v1.16",
+                "versicle_number": 16,
+                "text": "Disse porém Rute: Não me instes para que te deixe, e me afaste de ao pé de ti: porque aonde quer que tu fores irei eu, e onde quer que pousares à noite ali pousarei eu; o teu povo é o meu povo, o teu Deus é o meu Deus;"
+            },
+            {
+                "id": "v1.17",
+                "versicle_number": 17,
+                "text": "Onde quer que morreres morrerei eu, e ali serei sepultada: me faça assim o Senhor, e outro tanto, se outra cousa que não seja a morte me separar de ti."
+            },
+            {
+                "id": "v1.18",
+                "versicle_number": 18,
+                "text": "Vendo ela, pois, que de todo estava resolvida para ir com ela, deixou de lhe falar nisso."
+            },
+            {
+                "id": "v1.19",
+                "versicle_number": 19,
+                "text": "Assim pois foram-se ambas, até que chegaram a Belém: e sucedeu que, entrando elas em Belém, toda a cidade se comoveu por causa delas, e diziam: Não é esta Noemi?"
+            },
+            {
+                "id": "v1.20",
+                "versicle_number": 20,
+                "text": "Porém ela lhes dizia: Não me chameis {note:b}Noemi; chamai-me {note:c}Mara; porque grande amargura me tem dado o Todo-poderoso."
+            },
+            {
+                "id": "v1.21",
+                "versicle_number": 21,
+                "text": "Cheia parti, porém vazia o Senhor me fez tornar: por que pois me chamareis Noemi? pois o Senhor testifica contra mim, e o Todo-poderoso me tem afligido tanto."
+            },
+            {
+                "id": "v1.22",
+                "versicle_number": 22,
+                "text": "Assim Noemi voltou, e com ela Rute a moabita, sua nora, que voltava dos campos de Moabe: e chegaram a Belém no princípio da sega das cevadas."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:a} 1.2 ou Naomi, que é agradável"
+            },
+            {
+                "id": "n2",
+                "text": "{note:b} 1.20 que significa agradável {note:c} 1.20 que significa amargosa"
+            }
+        ]
+    }
+}

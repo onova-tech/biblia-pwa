@@ -1,0 +1,109 @@
+{
+    "book": {
+        "id": "Jr",
+        "book_number": 24,
+        "new_testament": false,
+        "num_chapters": 52,
+        "book_name": "JEREMIAS",
+        "book_full_name": "JEREMIAS"
+    },
+    "chapter": {
+        "chapter_number": 39,
+        "chapter_reference": "",
+        "chapter_title": "Nabucodonosor toma Jerusalém e livra Jeremias",
+        "versicles": [
+            {
+                "id": "v39.1",
+                "versicle_number": 1,
+                "text": "NO ano nono de Zedequias, rei de Judá, no mês décimo, veio Nabucodonosor, rei de Babilônia, e todo o seu exército, contra Jerusalém, e a cercaram."
+            },
+            {
+                "id": "v39.2",
+                "versicle_number": 2,
+                "text": "No ano undécimo de Zedequias, no quarto mês, aos nove do mês, se fez a brecha na cidade."
+            },
+            {
+                "id": "v39.3",
+                "versicle_number": 3,
+                "text": "E entraram todos os príncipes do rei de Babilônia, e pararam na porta do meio, os quais eram Nergal-Sarezer, Sangar-Nebo, Sarcequim, Rabsaris, Nergal-Sarezer, Rabe-Mague, e todos os outros príncipes do rei de Babilônia."
+            },
+            {
+                "id": "v39.4",
+                "versicle_number": 4,
+                "text": "E sucedeu que, vendo-os Zedequias, rei de Judá e todos os homens de guerra, fugiram então, e saíram de noite da cidade, pelo caminho do jardim do rei, pela porta dentre os dois muros; e saiu pelo caminho da campina."
+            },
+            {
+                "id": "v39.5",
+                "versicle_number": 5,
+                "text": "Mas o exército dos caldeus os perseguiu; e alcançaram a Zedequias nas campinas de Jericó, e o prenderam, e o fizeram ir a Nabucodonosor, rei de Babilônia, a Ribla, na terra de Hamate, e ali o sentenciou."
+            },
+            {
+                "id": "v39.6",
+                "versicle_number": 6,
+                "text": "E o rei de Babilônia matou os filhos de Zedequias em Ribla, à sua vista: também matou o rei de Babilônia a todos os nobres de Judá."
+            },
+            {
+                "id": "v39.7",
+                "versicle_number": 7,
+                "text": "E arrancou os olhos a Zedequias, e o atou com duas cadeias de bronze, para levá-lo a Babilônia."
+            },
+            {
+                "id": "v39.8",
+                "versicle_number": 8,
+                "text": "E os caldeus queimaram a fogo a casa do rei e as casas do povo, e derribaram os muros de Jerusalém."
+            },
+            {
+                "id": "v39.9",
+                "versicle_number": 9,
+                "text": "E o resto do povo, que ficara na cidade, e os rebeldes que se tinham passado para ele, e o resto do povo que ficou, levou Nebuzaradão, capitão da guarda, para Babilônia."
+            },
+            {
+                "id": "v39.10",
+                "versicle_number": 10,
+                "text": "Mas os pobres de entre o povo, que não tinham nada, deixou Nebuzaradão, capitão da guarda, na terra de Judá; e deu-lhes vinhas e campos naquele dia."
+            },
+            {
+                "id": "v39.11",
+                "versicle_number": 11,
+                "text": "Mas Nabucodonosor, rei de Babilônia, havia ordenado acerca de Jeremias, a Nebuzaradão, capitão dos da guarda, dizendo:"
+            },
+            {
+                "id": "v39.12",
+                "versicle_number": 12,
+                "text": "Toma-o, e põe sobre ele os teus olhos e não lhe faças nenhum mal; antes, como ele te disser, assim procederás para com ele."
+            },
+            {
+                "id": "v39.13",
+                "versicle_number": 13,
+                "text": "Deste modo Nebuzaradão, capitão dos da guarda, mandou, e Nebus-Hasbã, Rabsaris, Nergal-Sarezer, Rabe-Mague, e todos os príncipes do rei de Babilônia."
+            },
+            {
+                "id": "v39.14",
+                "versicle_number": 14,
+                "text": "Mandaram retirar Jeremias do átrio da guarda, e o entregaram a Gedalias, filho de Aicão, filho de Safã, para que o levasse a sua casa; e ele ficou entre o povo."
+            },
+            {
+                "id": "v39.15",
+                "versicle_number": 15,
+                "text": "Ora, tinha vindo a Jeremias a palavra do Senhor, estando ele ainda encerrado no átrio da guarda, dizendo:"
+            },
+            {
+                "id": "v39.16",
+                "versicle_number": 16,
+                "text": "Vai, e fala a Ebede-Meleque, o etíope, dizendo: Assim diz o Senhor dos Exércitos, Deus de Israel: Eis que eu trarei as minhas palavras sobre esta cidade para mal e não para bem: e se cumprirão diante de ti naquele dia."
+            },
+            {
+                "id": "v39.17",
+                "versicle_number": 17,
+                "text": "A ti, porém, eu livrarei naquele dia, diz o Senhor, e não serás entregue na mão dos homens perante cuja face tu temes."
+            },
+            {
+                "id": "v39.18",
+                "versicle_number": 18,
+                "text": "Porque certamente te salvarei, e não cairás à espada: mas a tua alma terás por despojo, porquanto confiaste em mim, diz o Senhor."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

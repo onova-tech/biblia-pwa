@@ -1,0 +1,210 @@
+{
+    "book": {
+        "id": "2Cr",
+        "book_number": 14,
+        "new_testament": false,
+        "num_chapters": 36,
+        "book_name": "CRÔNICAS",
+        "book_full_name": "O SEGUNDO LIVRO DAS CRÔNICAS"
+    },
+    "chapter": {
+        "chapter_number": 29,
+        "chapter_reference": "",
+        "chapter_title": "Ezequias manda purificar o templo",
+        "versicles": [
+            {
+                "id": "v29.1",
+                "versicle_number": 1,
+                "text": "TINHA Ezequias vinte e cinco anos de idade, quando começou a reinar e reinou vinte e nove anos em Jerusalém: e era o nome de sua mãe Abia, filha de Zacarias."
+            },
+            {
+                "id": "v29.2",
+                "versicle_number": 2,
+                "text": "E fez o que era reto aos olhos do Senhor, conforme a tudo quanto fizera Davi seu pai."
+            },
+            {
+                "id": "v29.3",
+                "versicle_number": 3,
+                "text": "Ele, no ano primeiro do seu reinado, no mês primeiro, abriu as portas da casa do Senhor, e as reparou."
+            },
+            {
+                "id": "v29.4",
+                "versicle_number": 4,
+                "text": "E trouxe os sacerdotes, e os levitas, e os ajuntou na praça oriental,"
+            },
+            {
+                "id": "v29.5",
+                "versicle_number": 5,
+                "text": "E lhes disse: Ouvi-me, ó levitas, santificai-vos agora, e santificai a casa do Senhor, Deus de vossos pais, e tirai do santuário a imundícia."
+            },
+            {
+                "id": "v29.6",
+                "versicle_number": 6,
+                "text": "Porque nossos pais transgrediram, e fizeram o que era mal aos olhos do Senhor nosso Deus, e o deixaram; e desviaram os seus rostos do tabernáculo do Senhor, e lhe voltaram as costas."
+            },
+            {
+                "id": "v29.7",
+                "versicle_number": 7,
+                "text": "Também fecharam as portas do alpendre, e apagaram as lâmpadas, e não queimaram incenso nem ofereceram holocaustos no santuário ao Deus de Israel."
+            },
+            {
+                "id": "v29.8",
+                "versicle_number": 8,
+                "text": "Pelo que veio grande ira do Senhor sobre Judá e Jerusalém, e os entregou à perturbação, à assolação, e ao assobio, como vós o estais vendo com os vossos olhos."
+            },
+            {
+                "id": "v29.9",
+                "versicle_number": 9,
+                "text": "Porque eis que nossos pais caíram à espada, e nossos filhos, e nossas filhas, e nossas mulheres estiveram por isso em cativeiro."
+            },
+            {
+                "id": "v29.10",
+                "versicle_number": 10,
+                "text": "Agora me tem vindo ao coração, que façamos um concerto com o Senhor, Deus de Israel; para que se desvie de nós o ardor na sua ira."
+            },
+            {
+                "id": "v29.11",
+                "versicle_number": 11,
+                "text": "Agora, filhos meus, não sejais negligentes; pois o Senhor vos tem escolhido para estardes diante dele para o servirdes, e para serdes seus ministros e queimardes incenso."
+            },
+            {
+                "id": "v29.12",
+                "versicle_number": 12,
+                "text": "Então se levantaram os levitas, Maate, filho de Amasai, e Joel, filho de Azarias, dos filhos dos coatitas; e dos filhos de Merari, Quis, filho de Abdi, e Azarias, filho de Jealelel; e dos gersonitas, Joá, filho de Zima, e Édem, filho de Joá;"
+            },
+            {
+                "id": "v29.13",
+                "versicle_number": 13,
+                "text": "E dentre os filhos de Elisafã, Sinri e Jeiel; dentre os filhos de Asafe, Zacarias e Matanias;"
+            },
+            {
+                "id": "v29.14",
+                "versicle_number": 14,
+                "text": "E dentre os filhos de Hemã, Jeiel e Simei; e dentre os filhos de Jedutum, Semaías e Uziel."
+            },
+            {
+                "id": "v29.15",
+                "versicle_number": 15,
+                "text": "E ajuntaram seus irmãos, e santificaram-se e vieram conforme ao mandado do rei, pelas palavras do Senhor, para purificarem a casa do Senhor."
+            },
+            {
+                "id": "v29.16",
+                "versicle_number": 16,
+                "text": "E os sacerdotes entraram dentro da casa do Senhor, para a purificar, e tiraram para fora, ao pátio da casa do Senhor, toda a imundícia que acharam no templo do Senhor: e os levitas a tomaram, para a levarem para fora, ao ribeiro de Cedrom."
+            },
+            {
+                "id": "v29.17",
+                "versicle_number": 17,
+                "text": "Começaram pois a santificar ao primeiro do mês primeiro: e ao oitavo dia do mês vieram ao alpendre do Senhor e santificaram a casa do Senhor em oito dias: e no dia décimo sexto do primeiro mês acabaram."
+            },
+            {
+                "id": "v29.18",
+                "versicle_number": 18,
+                "text": "Então entraram para dentro, ao rei Ezequias, e disseram: Já purificamos toda a casa do Senhor, como também o altar do holocausto com todos os seus vasos, e a mesa da proposição com todos os seus vasos."
+            },
+            {
+                "id": "v29.19",
+                "versicle_number": 19,
+                "text": "Também todos os vasos que o rei Acaz no seu reinado lançou fora, na sua transgressão, já preparamos e santificamos: e eis que estão diante do altar do Senhor."
+            },
+            {
+                "id": "v29.20",
+                "versicle_number": 20,
+                "text": "Então o rei Ezequias se levantou de madrugada, e ajuntou os maiorais da cidade, e subiu à casa do Senhor."
+            },
+            {
+                "id": "v29.21",
+                "versicle_number": 21,
+                "text": "E trouxeram sete novilhos e sete carneiros, e sete cordeiros, e sete bodes, para sacrifício expiatório, pelo reino e pelo santuário, e por Judá, e disse aos filhos de Aarão, os sacerdotes, que os oferecessem sobre o altar do Senhor."
+            },
+            {
+                "id": "v29.22",
+                "versicle_number": 22,
+                "text": "E eles mataram os bois, e os sacerdotes tomaram o sangue e o espargiram sobre o altar; também mataram os carneiros, e espargiram o sangue sobre o altar: semelhantemente mataram os cordeiros, e espargiram o sangue sobre o altar."
+            },
+            {
+                "id": "v29.23",
+                "versicle_number": 23,
+                "text": "Então trouxeram os bodes para sacrifício pelo pecado, perante o rei e a congregação, e lhes impuseram as suas mãos."
+            },
+            {
+                "id": "v29.24",
+                "versicle_number": 24,
+                "text": "E os sacerdotes os mataram, e com o seu sangue fizeram expiação do pecado sobre o altar, para reconciliar a todo o Israel; porque o rei tinha ordenado que se fizesse aquele holocausto e sacrifício pelo pecado, por todo o Israel."
+            },
+            {
+                "id": "v29.25",
+                "versicle_number": 25,
+                "text": "E pôs os levitas na casa do Senhor com címbalos, com alaúdes, e com harpas, conforme ao mandado de Davi e de Gade, o vidente do rei, e do profeta Natã: porque este mandado veio do Senhor, por mão de seus profetas."
+            },
+            {
+                "id": "v29.26",
+                "versicle_number": 26,
+                "text": "Estavam pois os levitas em pé com os instrumentos de Davi, e os sacerdotes com as trombetas."
+            },
+            {
+                "id": "v29.27",
+                "versicle_number": 27,
+                "text": "E deu ordem Ezequias que oferecessem o holocausto sobre o altar, e ao tempo em que começou o holocausto, começou também o canto do Senhor, com as trombetas e com os instrumentos de Davi, rei de Israel."
+            },
+            {
+                "id": "v29.28",
+                "versicle_number": 28,
+                "text": "E toda a congregação se prostrou, quando cantavam o canto, e as trombetas tocavam; tudo isto até o holocausto se acabar."
+            },
+            {
+                "id": "v29.29",
+                "versicle_number": 29,
+                "text": "E acabando de o oferecer, o rei e todos quantos com ele se acharam se prostraram e adoraram."
+            },
+            {
+                "id": "v29.30",
+                "versicle_number": 30,
+                "text": "Então disse o rei Ezequias, e os maiorais, aos levitas que louvassem ao Senhor com as palavras de Davi, e de Asafe, o vidente. E o louvaram com alegria e se inclinaram e adoraram."
+            },
+            {
+                "id": "v29.31",
+                "versicle_number": 31,
+                "text": "E respondeu Ezequias, e disse: Agora vos consagrastes a vós mesmos ao Senhor; chegai-vos e trazei sacrifícios e ofertas de louvor à casa do Senhor. E a congregação trouxe sacrifícios e ofertas de louvor, e todo o que tinha essa vontade do coração, trouxe holocaustos."
+            },
+            {
+                "id": "v29.32",
+                "versicle_number": 32,
+                "text": "E o número dos holocaustos, que a congregação trouxe, foi de setenta bois, cem carneiros, duzentos cordeiros: tudo isto em holocausto para o Senhor."
+            },
+            {
+                "id": "v29.33",
+                "versicle_number": 33,
+                "text": "Houve, também de cousas consagradas, seiscentos bois e três mil ovelhas."
+            },
+            {
+                "id": "v29.34",
+                "versicle_number": 34,
+                "text": "Eram porém os sacerdotes mui poucos, e não podiam esfolar a todos os holocaustos; pelo que seus irmãos os levitas os ajudaram, até a obra se acabar, e até que os outros sacerdotes se santificaram; porque os levitas foram mais retos de coração, para se santificarem, do que os sacerdotes."
+            },
+            {
+                "id": "v29.35",
+                "versicle_number": 35,
+                "text": "E houve também holocaustos em abundância, com a gordura das ofertas pacíficas, e com as ofertas de licor para os holocaustos. Assim se estabeleceu o ministério da casa do Senhor."
+            },
+            {
+                "id": "v29.36",
+                "versicle_number": 36,
+                "text": "E Ezequias, e todo o povo se alegraram, de que Deus tinha preparado o povo; porque apressuradamente se fez esta obra."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v29.12",
+                "text": "Os levitas purificam o templo"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v29.20",
+                "text": "Ezequias restabelece o culto de Deus"
+            }
+        ],
+        "notes": []
+    }
+}

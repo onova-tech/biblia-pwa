@@ -1,0 +1,169 @@
+{
+    "book": {
+        "id": "Dt",
+        "book_number": 5,
+        "new_testament": false,
+        "num_chapters": 34,
+        "book_name": "DEUTERONÔMIO",
+        "book_full_name": "O QUINTO LIVRO DE MOISÉS DEUTERONÔMIO"
+    },
+    "chapter": {
+        "chapter_number": 6,
+        "chapter_reference": "",
+        "chapter_title": "O fim da lei é a obediência",
+        "versicles": [
+            {
+                "id": "v6.1",
+                "versicle_number": 1,
+                "text": "ESTES, pois, são os mandamentos, os estatutos e os juízos que mandou o Senhor vosso Deus para se vos ensinar, para que os fizésseis na terra a que passais a possuir;"
+            },
+            {
+                "id": "v6.2",
+                "versicle_number": 2,
+                "text": "Para que temas ao Senhor teu Deus, e guardes todos os seus estatutos e mandamentos, que eu te ordeno, tu, e teu filho, e o filho de teu filho, todos os dias da tua vida, e que teus dias sejam prolongados."
+            },
+            {
+                "id": "v6.3",
+                "versicle_number": 3,
+                "text": "Ouve pois, ó Israel, e atenta que os guardes, para que bem te suceda, e muito te multipliques, como te disse o Senhor Deus de teus pais, na terra que mana leite e mel."
+            },
+            {
+                "id": "v6.4",
+                "versicle_number": 4,
+                "text": "Ouve, Israel,{note:1} o Senhor nosso Deus é o único Senhor."
+            },
+            {
+                "id": "v6.5",
+                "versicle_number": 5,
+                "text": "Amarás pois o Senhor teu Deus{note:2} de todo o teu coração, e de toda a tua alma, e de todo o teu poder."
+            },
+            {
+                "id": "v6.6",
+                "versicle_number": 6,
+                "text": "E estas palavras, que hoje te ordeno, estarão no teu coração;"
+            },
+            {
+                "id": "v6.7",
+                "versicle_number": 7,
+                "text": "E as intimarás a teus filhos, e delas falarás assentado em tua casa, e andando pelo caminho, e deitando-te e levantando-te."
+            },
+            {
+                "id": "v6.8",
+                "versicle_number": 8,
+                "text": "Também as atarás por sinal na tua mão e te serão por testeiras entre os teus olhos."
+            },
+            {
+                "id": "v6.9",
+                "versicle_number": 9,
+                "text": "E as escreverás nos umbrais de tua casa, e nas tuas portas.{note:3}"
+            },
+            {
+                "id": "v6.10",
+                "versicle_number": 10,
+                "text": "Havendo-te pois o Senhor teu Deus introduzido na terra que jurou a teus pais, Abraão,{note:4} Isaque{note:5} e Jacó,{note:6} te daria, grandes e boas cidades que tu não edificaste."
+            },
+            {
+                "id": "v6.11",
+                "versicle_number": 11,
+                "text": "E casas cheias de todo o bem, que tu não encheste, e poços cavados, que tu não cavaste, vinhas e olivais, que tu não plantaste, e comeres, e te fartares,"
+            },
+            {
+                "id": "v6.12",
+                "versicle_number": 12,
+                "text": "Guarda-te, e que te não esqueças do Senhor, que te tirou da terra do Egito da casa da servidão."
+            },
+            {
+                "id": "v6.13",
+                "versicle_number": 13,
+                "text": "O Senhor teu Deus temerás,{note:7} e a ele servirás, e pelo seu nome jurarás."
+            },
+            {
+                "id": "v6.14",
+                "versicle_number": 14,
+                "text": "Não seguireis outros deuses, os deuses dos povos que houver à roda de vós;"
+            },
+            {
+                "id": "v6.15",
+                "versicle_number": 15,
+                "text": "Porque o Senhor vosso Deus é um Deus zeloso no meio de ti, para que a ira do Senhor teu Deus se não acenda contra ti, e te destrua de sobre a face da terra."
+            },
+            {
+                "id": "v6.16",
+                "versicle_number": 16,
+                "text": "Não tentareis o Senhor vosso Deus,{note:8} como o tentaste em Massá."
+            },
+            {
+                "id": "v6.17",
+                "versicle_number": 17,
+                "text": "Diligentemente guardareis os mandamentos do Senhor vosso Deus; como também os seus testemunhos, e seus estatutos, que te tem mandado."
+            },
+            {
+                "id": "v6.18",
+                "versicle_number": 18,
+                "text": "E farás o que é reto e bom aos olhos do Senhor: para que bem te suceda, e entres, e possuas a boa terra, sobre a qual o Senhor jurou a teus pais."
+            },
+            {
+                "id": "v6.19",
+                "versicle_number": 19,
+                "text": "Para que lance fora a todos os teus inimigos de diante de ti, como o Senhor tem dito."
+            },
+            {
+                "id": "v6.20",
+                "versicle_number": 20,
+                "text": "Quando teu filho te perguntar pelo tempo adiante, dizendo: Quais são os testemunhos, e estatutos e juízos que o Senhor nosso Deus vos ordenou?"
+            },
+            {
+                "id": "v6.21",
+                "versicle_number": 21,
+                "text": "Então dirás a teu filho: Éramos servos de Faraó no Egito, porém o Senhor nos tirou com mão forte do Egito;"
+            },
+            {
+                "id": "v6.22",
+                "versicle_number": 22,
+                "text": "E o Senhor fez sinais grandes, e penosas maravilhas no Egito, a Faraó e a toda a sua casa, aos nossos olhos;"
+            },
+            {
+                "id": "v6.23",
+                "versicle_number": 23,
+                "text": "E dali nos tirou, para nos levar, e nos dar a terra que jurara a nossos pais."
+            },
+            {
+                "id": "v6.24",
+                "versicle_number": 24,
+                "text": "E o Senhor nos ordenou que fizéssemos todos estes estatutos, para temer ao Senhor nosso Deus, para o nosso perpétuo bem, para nos guardar em vida, como no dia de hoje."
+            },
+            {
+                "id": "v6.25",
+                "versicle_number": 25,
+                "text": "E será para nós justiça quando tivermos cuidado de fazer todos estes mandamentos perante o Senhor nosso Deus, como nos tem ordenado."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 6.4 Mc 12.29"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 6.5 Mt 22.37; Mc 12.30; Lc 10.27"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 6.6-9 Dt 11.18-20"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 6.10 Gn 12.7 {note:6} 6.10 Gn 28.13  {note:5} 6.10 Gn 26.3"
+            },
+            {
+                "id": "n5",
+                "text": "{note:7} 6.13 Mt 4.10; Lc 4.8"
+            },
+            {
+                "id": "n6",
+                "text": "{note:8} 6.16 Êx 17.7; Mt 4.7; Lc 4.12"
+            }
+        ]
+    }
+}

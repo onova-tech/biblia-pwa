@@ -1,0 +1,152 @@
+{
+    "book": {
+        "id": "Ex",
+        "book_number": 2,
+        "new_testament": false,
+        "num_chapters": 40,
+        "book_name": "ÊXODO",
+        "book_full_name": "O SEGUNDO LIVRO DE MOISÉS ÊXODO"
+    },
+    "chapter": {
+        "chapter_number": 13,
+        "chapter_reference": "",
+        "chapter_title": "Os primogênitos são santificados a Deus",
+        "versicles": [
+            {
+                "id": "v13.1",
+                "versicle_number": 1,
+                "text": "ENTÃO falou o Senhor a Moisés, dizendo:"
+            },
+            {
+                "id": "v13.2",
+                "versicle_number": 2,
+                "text": "Santifica-me{note:1} todo o primogênito, o que abrir toda a madre entre os filhos de Israel, de homens e de animais; porque meu é."
+            },
+            {
+                "id": "v13.3",
+                "versicle_number": 3,
+                "text": "E Moisés disse ao povo: Lembrai-vos deste mesmo dia, em que saístes do Egito, da casa da servidão; pois com mão forte o Senhor vos tirou daqui: portanto não comereis pão levedado."
+            },
+            {
+                "id": "v13.4",
+                "versicle_number": 4,
+                "text": "Hoje, no mês de abibe, vós saís."
+            },
+            {
+                "id": "v13.5",
+                "versicle_number": 5,
+                "text": "E acontecerá que, quando o Senhor te houver metido na terra dos cananeus, e dos heteus, e dos amorreus, e dos heveus, e dos jebuseus, a qual jurou a teus pais que ta daria, terra que mana leite e mel, guardarás este culto neste mês."
+            },
+            {
+                "id": "v13.6",
+                "versicle_number": 6,
+                "text": "Sete dias comerás pães asmos; e ao sétimo dia haverá festa ao Senhor."
+            },
+            {
+                "id": "v13.7",
+                "versicle_number": 7,
+                "text": "Sete dias se comerão pães asmos, e o levedado não se verá contigo, nem ainda fermento será visto em todos os teus termos."
+            },
+            {
+                "id": "v13.8",
+                "versicle_number": 8,
+                "text": "E naquele mesmo dia farás saber a teu filho, dizendo: Isto é pelo que o Senhor me tem feito, quando eu saí do Egito."
+            },
+            {
+                "id": "v13.9",
+                "versicle_number": 9,
+                "text": "E te será por sinal sobre tua mão, e por lembrança entre teus olhos; para que a lei do Senhor esteja em tua boca: porquanto com mão forte o Senhor te tirou do Egito."
+            },
+            {
+                "id": "v13.10",
+                "versicle_number": 10,
+                "text": "Portanto tu guardarás este estatuto a seu tempo, de ano em ano."
+            },
+            {
+                "id": "v13.11",
+                "versicle_number": 11,
+                "text": "Também acontecerá que, quando o Senhor te houver metido na terra dos cananeus, como jurou a ti e a teus pais, quando te houver dado,"
+            },
+            {
+                "id": "v13.12",
+                "versicle_number": 12,
+                "text": "Apartarás{note:2} para o Senhor tudo o que abrir a madre, e tudo o que abrir a madre do fruto dos animais que tiveres; os machos serão do Senhor."
+            },
+            {
+                "id": "v13.13",
+                "versicle_number": 13,
+                "text": "Porém tudo o que abrir a madre da jumenta, resgatarás com {note:r}cordeiro; e se o não resgatares, cortar-lhe-ás a cabeça: mas todo o primogênito do homem entre teus filhos resgatarás."
+            },
+            {
+                "id": "v13.14",
+                "versicle_number": 14,
+                "text": "Se acontecer que teu filho no tempo futuro te pergunte, dizendo: Que é isto? dir-lhe-ás: O Senhor nos tirou com mão forte do Egito, da casa da servidão."
+            },
+            {
+                "id": "v13.15",
+                "versicle_number": 15,
+                "text": "Porque sucedeu que, endurecendo-se Faraó, para não nos deixar ir, o Senhor matou todos os primogênitos na terra do Egito, desde o primogênito do homem até ao primogênito dos animais: por isso eu sacrifico ao Senhor os machos de tudo o que abre a madre; porém a todo o primogênito de meus filhos eu resgato."
+            },
+            {
+                "id": "v13.16",
+                "versicle_number": 16,
+                "text": "E será por sinal sobre tua mão, e por frontais entre os teus olhos; porque o Senhor nos tirou do Egito com mão forte."
+            },
+            {
+                "id": "v13.17",
+                "versicle_number": 17,
+                "text": "E aconteceu que, quando Faraó deixou ir o povo, Deus não os levou pelo caminho da terra dos filisteus, que estava mais perto; porque Deus disse: Para que porventura o povo não se arrependa, vendo a guerra, e tornem ao Egito."
+            },
+            {
+                "id": "v13.18",
+                "versicle_number": 18,
+                "text": "Mas Deus fez rodear o povo pelo caminho do deserto perto do Mar Vermelho: e subiram os filhos de Israel da terra do Egito armados."
+            },
+            {
+                "id": "v13.19",
+                "versicle_number": 19,
+                "text": "E tomou Moisés os ossos de José{note:3} consigo, porquanto havia este estreitamente ajuramentado aos filhos de Israel, dizendo: Certamente Deus vos visitará; fazei pois subir daqui os meus ossos convosco."
+            },
+            {
+                "id": "v13.20",
+                "versicle_number": 20,
+                "text": "Assim partiram de Sucote, e acamparam em Etã, à entrada do deserto."
+            },
+            {
+                "id": "v13.21",
+                "versicle_number": 21,
+                "text": "E o Senhor ia adiante deles, de dia numa coluna de nuvem, para os guiar pelo caminho, e de noite numa coluna de fogo, para os alumiar, para que caminhassem de dia e de noite."
+            },
+            {
+                "id": "v13.22",
+                "versicle_number": 22,
+                "text": "Nunca tirou de diante da face do povo a coluna de nuvem, de dia, nem a coluna de fogo, de noite."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v13.17",
+                "text": "Deus guia o povo pelo caminho"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 13.2 Lc 2.23"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 13.12 Lc 2.23"
+            },
+            {
+                "id": "n3",
+                "text": "{note:r} 13.13 ou cabrito"
+            },
+            {
+                "id": "n4",
+                "text": "{note:3} 13.19 Gn 50.25; Js 24.32"
+            }
+        ]
+    }
+}

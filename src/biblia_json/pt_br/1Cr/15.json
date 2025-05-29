@@ -1,0 +1,177 @@
+{
+    "book": {
+        "id": "1Cr",
+        "book_number": 13,
+        "new_testament": false,
+        "num_chapters": 29,
+        "book_name": "CRÔNICAS",
+        "book_full_name": "O PRIMEIRO LIVRO DAS CRÔNICAS"
+    },
+    "chapter": {
+        "chapter_number": 15,
+        "chapter_reference": "",
+        "chapter_title": "A arca é levada da casa de Obede-Edom para Jerusalém",
+        "versicles": [
+            {
+                "id": "v15.1",
+                "versicle_number": 1,
+                "text": "FEZ também casa para si na cidade de Davi: e preparou um lugar para a arca de Deus, e armou-lhe uma tenda."
+            },
+            {
+                "id": "v15.2",
+                "versicle_number": 2,
+                "text": "Então disse Davi: Ninguém pode levar a arca de Deus, senão os levitas;{note:1} porque o Senhor os elegeu, para levar a arca de Deus, e para o servirem eternamente."
+            },
+            {
+                "id": "v15.3",
+                "versicle_number": 3,
+                "text": "E Davi ajuntou a todo o Israel em Jerusalém, para fazerem subir a arca do Senhor ao seu lugar, que lhe tinha preparado."
+            },
+            {
+                "id": "v15.4",
+                "versicle_number": 4,
+                "text": "E Davi ajuntou os filhos de Aarão e os levitas."
+            },
+            {
+                "id": "v15.5",
+                "versicle_number": 5,
+                "text": "Dos filhos de Coate: Uriel, o príncipe, e de seus irmãos cento e vinte."
+            },
+            {
+                "id": "v15.6",
+                "versicle_number": 6,
+                "text": "Dos filhos de Merari: Asaías, o príncipe, e de seus irmãos duzentos e vinte."
+            },
+            {
+                "id": "v15.7",
+                "versicle_number": 7,
+                "text": "Dos filhos de Gérson: Joel, o príncipe, e de seus irmãos cento e trinta."
+            },
+            {
+                "id": "v15.8",
+                "versicle_number": 8,
+                "text": "Dos filhos de Elisafã: Semaías, o príncipe, e de seus irmãos duzentos."
+            },
+            {
+                "id": "v15.9",
+                "versicle_number": 9,
+                "text": "Dos filhos de Hebrom: Eliel, o príncipe, e de seus irmãos oitenta."
+            },
+            {
+                "id": "v15.10",
+                "versicle_number": 10,
+                "text": "Dos filhos de Uziel: Aminadabe, o príncipe, e de seus irmãos cento e doze."
+            },
+            {
+                "id": "v15.11",
+                "versicle_number": 11,
+                "text": "E chamou Davi os sacerdotes Zadoque e Abiatar, e os levitas, Uriel, Asaías, Joel, Semaías, Eliel, e Aminadabe;"
+            },
+            {
+                "id": "v15.12",
+                "versicle_number": 12,
+                "text": "E disse-lhes: Vós sois os chefes dos pais entre os levitas: santificai-vos, vós e vossos irmãos, para que façais subir a arca do Senhor, Deus de Israel, ao lugar que lhe tenho preparado."
+            },
+            {
+                "id": "v15.13",
+                "versicle_number": 13,
+                "text": "Pois que, porquanto primeiro vós assim o não fizestes, o Senhor fez rotura em nós, porque o não buscamos segundo a ordenança."
+            },
+            {
+                "id": "v15.14",
+                "versicle_number": 14,
+                "text": "Santificaram-se pois os sacerdotes e levitas, para fazerem subir a arca do Senhor Deus de Israel."
+            },
+            {
+                "id": "v15.15",
+                "versicle_number": 15,
+                "text": "E os filhos dos levitas trouxeram a arca de Deus aos ombros, como Moisés tinha ordenado, conforme a palavra do Senhor, com as varas{note:2} que tinham sobre si."
+            },
+            {
+                "id": "v15.16",
+                "versicle_number": 16,
+                "text": "E disse Davi aos príncipes dos levitas que constituíssem a seus irmãos, os cantores, com instrumentos músicos, com alaúdes, harpas e címbalos, para que se fizessem ouvir, levantando a voz com alegria."
+            },
+            {
+                "id": "v15.17",
+                "versicle_number": 17,
+                "text": "Ordenaram pois os levitas a Hemã, filho de Joel; e dos seus irmãos, a Asafe, filho de Berequias, e dos filhos de Merari, seus irmãos a Etã, filho de Cusaías."
+            },
+            {
+                "id": "v15.18",
+                "versicle_number": 18,
+                "text": "E com eles a seus irmãos da segunda ordem: a Zacarias, Bene, e Jaaziel, e Semiramote, e Jeiel, e Uni, Eliabe, e Benaia, e Maaseias e Matitias, e Elifeleú, e Micneias e Obede-Edom, e Jeiel, os porteiros."
+            },
+            {
+                "id": "v15.19",
+                "versicle_number": 19,
+                "text": "E os cantores, Hemã, Asafe e Etã, se faziam ouvir com címbalos de metal;"
+            },
+            {
+                "id": "v15.20",
+                "versicle_number": 20,
+                "text": "E Zacarias, e Aziel, e Semiramote, e Jeiel, e Uni, e Eliabe, e Maaseias, e Benaia, com alaúdes, sobre Alamote:"
+            },
+            {
+                "id": "v15.21",
+                "versicle_number": 21,
+                "text": "E Matitias e Elifeleú, e Micneias, e Obede-Edom, e Jeiel, e Azazias, com harpas, sobre Seminite, para esforçar o tom."
+            },
+            {
+                "id": "v15.22",
+                "versicle_number": 22,
+                "text": "E Quenanias, príncipe dos levitas, tinha cargo de {note:f}entoar o canto; ensinava-os a {note:g}entoá-lo, porque era entendido."
+            },
+            {
+                "id": "v15.23",
+                "versicle_number": 23,
+                "text": "E Berequias e Elcana eram porteiros da arca."
+            },
+            {
+                "id": "v15.24",
+                "versicle_number": 24,
+                "text": "E Sebanias, e Josafá, e Netaneel, e Amasai, e Zacarias, e Benaia, e Eliézer, os sacerdotes, tocavam as trombetas perante a arca de Deus: e Obede-Edom e Jeías eram porteiros da arca."
+            },
+            {
+                "id": "v15.25",
+                "versicle_number": 25,
+                "text": "Sucedeu pois que Davi e os anciãos de Israel, e os capitães dos milhares, foram para fazer subir a arca do concerto do Senhor, da casa de Obede-Edom, com alegria."
+            },
+            {
+                "id": "v15.26",
+                "versicle_number": 26,
+                "text": "E sucedeu que, ajudando Deus os levitas que levavam a arca do concerto do Senhor, sacrificaram sete novilhos e sete carneiros."
+            },
+            {
+                "id": "v15.27",
+                "versicle_number": 27,
+                "text": "E Davi ia vestido de um roupão de linho fino, como também todos os levitas que levavam a arca, e os cantores, e Quenanias, chefe dos que levavam a arca e dos cantores; também Davi levava sobre si um éfode de linho."
+            },
+            {
+                "id": "v15.28",
+                "versicle_number": 28,
+                "text": "E todo o Israel fez subir a arca do concerto do Senhor, com júbilo, e com sonido de buzinas, e com trombetas, e com címbalos, fazendo sonido com alaúdes e com harpas."
+            },
+            {
+                "id": "v15.29",
+                "versicle_number": 29,
+                "text": "E sucedeu que chegando a arca do concerto do Senhor à cidade de Davi, Mical, a filha de Saul, olhou duma janela, e, vendo a Davi dançar e tocar, o desprezou no seu coração."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 15.2 Dt 10.8"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 15.15 Êx 25.14"
+            },
+            {
+                "id": "n3",
+                "text": "{note:f} 15.22 ou levar a arca {note:g} 15.22 ou levar a arca"
+            }
+        ]
+    }
+}

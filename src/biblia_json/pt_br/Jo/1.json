@@ -1,0 +1,306 @@
+{
+    "book": {
+        "id": "Jo",
+        "book_number": 43,
+        "new_testament": true,
+        "num_chapters": 21,
+        "book_name": "JOÃO",
+        "book_full_name": "O SANTO EVANGELHO SEGUNDO JOÃO"
+    },
+    "chapter": {
+        "chapter_number": 1,
+        "chapter_reference": "Mateus 3.1-12 e refs.",
+        "chapter_title": "O Verbo se fez carne",
+        "versicles": [
+            {
+                "id": "v1.1",
+                "versicle_number": 1,
+                "text": "NO PRINCÍPIO era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus."
+            },
+            {
+                "id": "v1.2",
+                "versicle_number": 2,
+                "text": "Ele estava no princípio com Deus."
+            },
+            {
+                "id": "v1.3",
+                "versicle_number": 3,
+                "text": "Todas as coisas foram feitas por ele, e sem ele nada do que foi feito se fez."
+            },
+            {
+                "id": "v1.4",
+                "versicle_number": 4,
+                "text": "Nele estava a vida, e a vida era a luz dos homens;"
+            },
+            {
+                "id": "v1.5",
+                "versicle_number": 5,
+                "text": "E a luz resplandece nas trevas, e as trevas não a compreenderam."
+            },
+            {
+                "id": "v1.6",
+                "versicle_number": 6,
+                "text": "Houve um homem enviado de Deus, cujo nome era João.{note:1}"
+            },
+            {
+                "id": "v1.7",
+                "versicle_number": 7,
+                "text": "Este veio para testemunho para que testificasse da luz; para que todos cressem por ele."
+            },
+            {
+                "id": "v1.8",
+                "versicle_number": 8,
+                "text": "Não era ele a luz; mas para que testificasse da luz,"
+            },
+            {
+                "id": "v1.9",
+                "versicle_number": 9,
+                "text": "Ali estava a luz verdadeira, que alumia a todo o homem que vem ao mundo,"
+            },
+            {
+                "id": "v1.10",
+                "versicle_number": 10,
+                "text": "Estava no mundo, e o mundo foi feito por ele, e o mundo não o conheceu."
+            },
+            {
+                "id": "v1.11",
+                "versicle_number": 11,
+                "text": "Veio para o que era seu, e os seus não o receberam."
+            },
+            {
+                "id": "v1.12",
+                "versicle_number": 12,
+                "text": "Mas, a todos quantos o receberam, deu-lhes o poder de serem feitos filhos de Deus; aos que creem no seu nome;"
+            },
+            {
+                "id": "v1.13",
+                "versicle_number": 13,
+                "text": "Os quais não nasceram do sangue, nem da vontade da carne, nem da vontade do varão, mas de Deus."
+            },
+            {
+                "id": "v1.14",
+                "versicle_number": 14,
+                "text": "E o Verbo se fez carne, e habitou entre nós, e vimos a sua glória, como a glória do unigênito do Pai, cheio de graça e de verdade."
+            },
+            {
+                "id": "v1.15",
+                "versicle_number": 15,
+                "text": "João testificou dele; e clamou, dizendo: Este era aquele de quem eu dizia: O que vem depois de mim é antes de mim, porque foi primeiro do que eu."
+            },
+            {
+                "id": "v1.16",
+                "versicle_number": 16,
+                "text": "E todos nós recebemos também da sua plenitude, e graça por graça."
+            },
+            {
+                "id": "v1.17",
+                "versicle_number": 17,
+                "text": "Porque a lei foi dada por Moisés; a graça e a verdade vieram por Jesus Cristo."
+            },
+            {
+                "id": "v1.18",
+                "versicle_number": 18,
+                "text": "Deus nunca foi visto por alguém. O Filho unigênito, que está no seio do Pai, este o fez conhecer."
+            },
+            {
+                "id": "v1.19",
+                "versicle_number": 19,
+                "text": "E este é o testemunho de João, quando os judeus mandaram de Jerusalém sacerdotes e levitas para que lhe perguntassem: quem és tu?"
+            },
+            {
+                "id": "v1.20",
+                "versicle_number": 20,
+                "text": "E confessou, e não negou; confessou: Eu não sou o Cristo."
+            },
+            {
+                "id": "v1.21",
+                "versicle_number": 21,
+                "text": "E perguntaram-lhe: Então quê? És tu Elias?{note:2} E disse: Não sou. És tu profeta?{note:3} E respondeu: Não."
+            },
+            {
+                "id": "v1.22",
+                "versicle_number": 22,
+                "text": "Disseram-lhe pois: quem és? para que demos resposta àqueles que nos enviaram; que dizes de ti mesmo?"
+            },
+            {
+                "id": "v1.23",
+                "versicle_number": 23,
+                "text": "Disse: Eu sou a voz do que clama no deserto: Endireitai o caminho do Senhor,{note:4} como disse o profeta Isaías."
+            },
+            {
+                "id": "v1.24",
+                "versicle_number": 24,
+                "text": "E os que tinham sido enviados eram dos fariseus;"
+            },
+            {
+                "id": "v1.25",
+                "versicle_number": 25,
+                "text": "E perguntaram-lhe, e disseram-lhe: Por que batizas pois, se tu não és o Cristo, nem Elias, nem o profeta?"
+            },
+            {
+                "id": "v1.26",
+                "versicle_number": 26,
+                "text": "João respondeu-lhes, dizendo: Eu batizo com água; mas no meio de vós está um a quem vós não conheceis."
+            },
+            {
+                "id": "v1.27",
+                "versicle_number": 27,
+                "text": "Este é aquele que vem após mim, que foi antes de mim, do qual eu não sou digno de desatar a correia da alparca,"
+            },
+            {
+                "id": "v1.28",
+                "versicle_number": 28,
+                "text": "Estas coisas aconteceram em {note:a}Betânia, da outra banda do Jordão, onde João estava batizando."
+            },
+            {
+                "id": "v1.29",
+                "versicle_number": 29,
+                "text": "No dia seguinte João viu a Jesus, que vinha para ele, e disse: Eis o Cordeiro de Deus, que tira o pecado do mundo."
+            },
+            {
+                "id": "v1.30",
+                "versicle_number": 30,
+                "text": "Este é aquele do qual eu disse: Após mim vem um varão que foi antes de mim; porque já era primeiro do que eu."
+            },
+            {
+                "id": "v1.31",
+                "versicle_number": 31,
+                "text": "E eu não o conhecia; mas, para que ele fosse manifestado a Israel, vim eu, por isso, batizando com água."
+            },
+            {
+                "id": "v1.32",
+                "versicle_number": 32,
+                "text": "E João testificou, dizendo: Eu vi o Espírito descer do céu como uma pomba, e repousar sobre ele."
+            },
+            {
+                "id": "v1.33",
+                "versicle_number": 33,
+                "text": "E eu não o conhecia, mas o que me mandou a batizar com água, esse me disse: Sobre aquele que vires descer o Espírito, e sobre ele repousar, esse é o que batiza com o Espírito Santo."
+            },
+            {
+                "id": "v1.34",
+                "versicle_number": 34,
+                "text": "E eu vi, e tenho testificado que este é o Filho de Deus."
+            },
+            {
+                "id": "v1.35",
+                "versicle_number": 35,
+                "text": "No dia seguinte João estava outra vez ali, e dois dos seus discípulos;"
+            },
+            {
+                "id": "v1.36",
+                "versicle_number": 36,
+                "text": "E, vendo passar a Jesus, disse: Eis aqui o Cordeiro de Deus."
+            },
+            {
+                "id": "v1.37",
+                "versicle_number": 37,
+                "text": "E os dois discípulos ouviram-no dizer isto, e seguiram a Jesus."
+            },
+            {
+                "id": "v1.38",
+                "versicle_number": 38,
+                "text": "E Jesus, voltando-se e vendo que eles o seguiam, disse-lhes: Que buscais? E eles disseram: Rabi, (que, traduzido, quer dizer Mestre) onde moras?"
+            },
+            {
+                "id": "v1.39",
+                "versicle_number": 39,
+                "text": "Ele lhes disse: Vinde, e vede. Foram, e viram onde morava, e ficaram com ele aquele dia: e era já quase a hora décima."
+            },
+            {
+                "id": "v1.40",
+                "versicle_number": 40,
+                "text": "Era André, irmão de Simão Pedro, um dos dois que ouviram aquilo de João, e o haviam seguido."
+            },
+            {
+                "id": "v1.41",
+                "versicle_number": 41,
+                "text": "Este achou primeiro a seu irmão Simão, e disse-lhe: Achamos o Messias (que, traduzido, é o Cristo)."
+            },
+            {
+                "id": "v1.42",
+                "versicle_number": 42,
+                "text": "E levou-o a Jesus. E, olhando Jesus para ele, disse: Tu és Simão, filho de Jonas; tu serás chamado Cefas (que quer dizer Pedro)."
+            },
+            {
+                "id": "v1.43",
+                "versicle_number": 43,
+                "text": "No dia seguinte quis Jesus ir à Galileia, e achou a Filipe, e disse-lhe: Segue-me."
+            },
+            {
+                "id": "v1.44",
+                "versicle_number": 44,
+                "text": "E Filipe era de Betsaida, cidade de André e de Pedro."
+            },
+            {
+                "id": "v1.45",
+                "versicle_number": 45,
+                "text": "Filipe achou Natanael, e disse-lhe: Havemos achado aquele de quem Moisés escreveu na lei, e os profetas: Jesus de Nazaré, filho de José."
+            },
+            {
+                "id": "v1.46",
+                "versicle_number": 46,
+                "text": "Disse-lhe Natanael: Pode vir alguma coisa boa de Nazaré? Disse-lhe Filipe: Vem, e vê."
+            },
+            {
+                "id": "v1.47",
+                "versicle_number": 47,
+                "text": "Jesus viu Natanael vir ter com ele, e disse dele: Eis aqui um verdadeiro israelita, em quem não há dolo."
+            },
+            {
+                "id": "v1.48",
+                "versicle_number": 48,
+                "text": "Disse-lhe Natanael: Donde me conheces tu? Jesus respondeu, e disse-lhe: Antes que Filipe te chamasse, te vi eu estando tu debaixo da figueira."
+            },
+            {
+                "id": "v1.49",
+                "versicle_number": 49,
+                "text": "Natanael respondeu, e disse-lhe: Rabi, tu és o Filho de Deus, tu és o Rei d'Israel."
+            },
+            {
+                "id": "v1.50",
+                "versicle_number": 50,
+                "text": "Jesus respondeu, e disse-lhe: Porque te disse: Vi-te debaixo da figueira, crês? coisas maiores do que estas verás."
+            },
+            {
+                "id": "v1.51",
+                "versicle_number": 51,
+                "text": "E disse-lhe: Na verdade, na verdade vos digo que daqui em diante vereis o céu aberto, e os anjos de Deus{note:5} subirem e descerem sobre o Filho do homem."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "",
+                "text": "O testemunho de João Batista"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v1.35",
+                "text": "Os primeiros apóstolos de Jesus"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 1.6 Mt 3.1; Mc 1.4; Lc 3.1-2"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 1.21 Ml 4.5 {note:3} 1.21 Dt 18.15-18"
+            },
+            {
+                "id": "n3",
+                "text": "{note:4} 1.23 Is 40.3"
+            },
+            {
+                "id": "n4",
+                "text": "{note:a} 1.28 ou Bethabara"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 1.51 Gn 28.12"
+            }
+        ]
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "book": {
+        "id": "1Sm",
+        "book_number": 9,
+        "new_testament": false,
+        "num_chapters": 31,
+        "book_name": "SAMUEL",
+        "book_full_name": "O PRIMEIRO LIVRO DE SAMUEL"
+    },
+    "chapter": {
+        "chapter_number": 28,
+        "chapter_reference": "",
+        "chapter_title": "Saul consulta uma pitonisa de Endor",
+        "versicles": [
+            {
+                "id": "v28.1",
+                "versicle_number": 1,
+                "text": "E SUCEDEU naqueles dias que, juntando os filisteus os seus exércitos para a peleja, para fazer guerra contra Israel, disse Áquis a Davi: Sabe de certo que comigo sairás ao arraial, tu e os teus homens."
+            },
+            {
+                "id": "v28.2",
+                "versicle_number": 2,
+                "text": "Então disse Davi a Áquis: Assim saberás tu o que fará o teu servo. E disse Áquis a Davi: Por isso te terei por guarda da minha cabeça para sempre."
+            },
+            {
+                "id": "v28.3",
+                "versicle_number": 3,
+                "text": "E já Samuel era morto,{note:1} e todo o Israel o tinha chorado, e o tinha sepultado em Ramá, que era a sua cidade; e Saul tinha desterrado os adivinhos{note:2} e os encantadores."
+            },
+            {
+                "id": "v28.4",
+                "versicle_number": 4,
+                "text": "E ajuntaram-se os filisteus, e vieram, e acamparam-se em Suném: e ajuntou Saul a todo o Israel, e se acamparam em Gilboa."
+            },
+            {
+                "id": "v28.5",
+                "versicle_number": 5,
+                "text": "E, vendo Saul o arraial dos filisteus, temeu, e estremeceu muito o seu coração."
+            },
+            {
+                "id": "v28.6",
+                "versicle_number": 6,
+                "text": "E perguntou Saul ao Senhor, porém o Senhor lhe não respondeu, nem por sonhos, nem por Urim,{note:3} nem por profetas."
+            },
+            {
+                "id": "v28.7",
+                "versicle_number": 7,
+                "text": "Então disse Saul aos seus criados: Buscai-me uma mulher que tenha o espírito de feiticeira, para que vá a ela e a consulte. E os seus criados lhe disseram: Eis que em Endor há uma mulher que tem o espírito de adivinhar."
+            },
+            {
+                "id": "v28.8",
+                "versicle_number": 8,
+                "text": "E Saul se disfarçou e vestiu outros vestidos, e foi ele e com ele dois homens, e de noite vieram à mulher; e disse: Peço-te que me adivinhes pelo espírito de feiticeira, e me faças subir a quem eu te disser."
+            },
+            {
+                "id": "v28.9",
+                "versicle_number": 9,
+                "text": "Então a mulher lhe disse: Eis aqui tu sabes o que Saul fez, como tem destruído da terra os adivinhos e os encantadores: por que, pois, me armas um laço à minha vida, para me fazer matar?"
+            },
+            {
+                "id": "v28.10",
+                "versicle_number": 10,
+                "text": "Então Saul lhe jurou pelo Senhor, dizendo: Vive o Senhor, que nenhum mal te sobrevirá por isso."
+            },
+            {
+                "id": "v28.11",
+                "versicle_number": 11,
+                "text": "A mulher então lhe disse: A quem te farei subir? E disse ele: Faze-me subir a Samuel."
+            },
+            {
+                "id": "v28.12",
+                "versicle_number": 12,
+                "text": "Vendo pois a mulher a Samuel, gritou em alta voz; e a mulher falou a Saul, dizendo: Por que me tens enganado? pois tu mesmo és Saul."
+            },
+            {
+                "id": "v28.13",
+                "versicle_number": 13,
+                "text": "E o rei lhe disse: Não temas: porém que é o que vês? Então a mulher disse a Saul: Vejo deuses que sobem da terra."
+            },
+            {
+                "id": "v28.14",
+                "versicle_number": 14,
+                "text": "E lhe disse: Como é a sua figura? E disse ela: Vem subindo um homem ancião, e está envolto numa capa. Entendendo Saul que era Samuel, inclinou-se com o rosto em terra, e se prostrou."
+            },
+            {
+                "id": "v28.15",
+                "versicle_number": 15,
+                "text": "Samuel disse a Saul: Por que me desinquietaste, fazendo-me subir? Então disse Saul: Mui angustiado estou, porque os filisteus guerreiam contra mim, e Deus se tem desviado de mim, e não me responde mais, nem pelo ministério dos profetas, nem por sonhos; por isso te chamei a ti, para que me faças saber o que hei de fazer."
+            },
+            {
+                "id": "v28.16",
+                "versicle_number": 16,
+                "text": "Então disse Samuel: Por que pois a mim me perguntas, visto que o Senhor te tem desamparado, e se tem feito teu inimigo?"
+            },
+            {
+                "id": "v28.17",
+                "versicle_number": 17,
+                "text": "Porque o Senhor tem feito para contigo como pela minha boca te disse, e tem rasgado{note:4} o reino da tua mão, e o tem dado ao teu companheiro Davi."
+            },
+            {
+                "id": "v28.18",
+                "versicle_number": 18,
+                "text": "Como tu não deste ouvidos{note:5} à voz do Senhor, e não executaste o fervor da sua ira contra Amaleque, por isso o Senhor te fez hoje isto."
+            },
+            {
+                "id": "v28.19",
+                "versicle_number": 19,
+                "text": "E o Senhor entregará também a Israel contigo na mão dos filisteus, e amanhã tu e teus filhos estareis comigo; e o arraial de Israel o Senhor entregará na mão dos filisteus."
+            },
+            {
+                "id": "v28.20",
+                "versicle_number": 20,
+                "text": "E imediatamente Saul caiu estendido por terra, e grandemente temeu por causa daquelas palavras de Samuel: e não houve força nele; porque não tinha comido pão todo aquele dia e toda aquela noite."
+            },
+            {
+                "id": "v28.21",
+                "versicle_number": 21,
+                "text": "Então veio a mulher a Saul, e vendo que estava tão perturbado, disse-lhe: Eis que deu ouvidos a tua criada à tua voz, e pus a minha vida na minha mão, e ouvi as palavras que disseste."
+            },
+            {
+                "id": "v28.22",
+                "versicle_number": 22,
+                "text": "Agora pois ouve também tu as palavras da tua serva, e porei um bocado de pão diante de ti, e come, para que tenhas forças para te pores a caminho."
+            },
+            {
+                "id": "v28.23",
+                "versicle_number": 23,
+                "text": "Porém ele o recusou, e disse: Não comerei. Porém os seus criados e a mulher o constrangeram; e deu ouvidos à sua voz: e levantou-se do chão, e se assentou sobre uma cama."
+            },
+            {
+                "id": "v28.24",
+                "versicle_number": 24,
+                "text": "E tinha a mulher em casa uma bezerra cevada, e se apressou, e a degolou, e tomou farinha, e a amassou, e a cozeu em bolos asmos."
+            },
+            {
+                "id": "v28.25",
+                "versicle_number": 25,
+                "text": "E os trouxe diante de Saul e de seus criados, e comeram: depois levantaram-se e se foram naquela mesma noite."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 28.3 1Sm 25.1 {note:2} 28.3 Lv 20.27; Dt 18.10-11"
+            },
+            {
+                "id": "n2",
+                "text": "{note:3} 28.6 Nm 27.21"
+            },
+            {
+                "id": "n3",
+                "text": "{note:4} 28.17 1Sm 15.28"
+            },
+            {
+                "id": "n4",
+                "text": "{note:5} 28.18 1Sm 15.3-9"
+            }
+        ]
+    }
+}

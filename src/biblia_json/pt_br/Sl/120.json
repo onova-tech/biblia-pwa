@@ -1,0 +1,59 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 120,
+        "chapter_reference": "",
+        "chapter_title": "O salmista ora para que seja livre do mentiroso e caluniador",
+        "versicles": [
+            {
+                "id": "v120.1",
+                "versicle_number": 1,
+                "text": "NA minha angústia clamei ao Senhor, e ele me ouviu."
+            },
+            {
+                "id": "v120.2",
+                "versicle_number": 2,
+                "text": "Senhor, livra a minha alma dos lábios mentirosos e da língua enganadora."
+            },
+            {
+                "id": "v120.3",
+                "versicle_number": 3,
+                "text": "Que te dará, ou que te acrescentará a língua enganadora?"
+            },
+            {
+                "id": "v120.4",
+                "versicle_number": 4,
+                "text": "Frechas agudas do valente, com brasas vivas de zimbro."
+            },
+            {
+                "id": "v120.5",
+                "versicle_number": 5,
+                "text": "Ai de mim, que peregrino em Meseque, e habito nas tendas de Quedar."
+            },
+            {
+                "id": "v120.6",
+                "versicle_number": 6,
+                "text": "A minha alma bastante tempo habitou com os que detestam a paz."
+            },
+            {
+                "id": "v120.7",
+                "versicle_number": 7,
+                "text": "Pacífico sou, mas em eu falando já eles estão em guerra."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:i} 120, título ou Cântico gradual"
+            }
+        ]
+    }
+}

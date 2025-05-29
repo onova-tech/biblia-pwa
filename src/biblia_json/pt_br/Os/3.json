@@ -1,0 +1,49 @@
+{
+    "book": {
+        "id": "Os",
+        "book_number": 28,
+        "new_testament": false,
+        "num_chapters": 14,
+        "book_name": "OSEIAS",
+        "book_full_name": "OSEIAS"
+    },
+    "chapter": {
+        "chapter_number": 3,
+        "chapter_reference": "",
+        "chapter_title": "",
+        "versicles": [
+            {
+                "id": "v3.1",
+                "versicle_number": 1,
+                "text": "E O SENHOR me disse: Vai outra vez, ama uma mulher, amada de seu amigo, e adúltera, como o Senhor ama os filhos de Israel, embora eles olhem para outros deuses, e amem os bolos de uvas."
+            },
+            {
+                "id": "v3.2",
+                "versicle_number": 2,
+                "text": "E a comprei para mim por quinze peças de prata, e um ômer de cevada e meio ômer de cevada;"
+            },
+            {
+                "id": "v3.3",
+                "versicle_number": 3,
+                "text": "E lhe disse: Tu ficarás comigo muitos dias; não te prostituirás, nem serás de outro homem; assim quero eu ser também para ti."
+            },
+            {
+                "id": "v3.4",
+                "versicle_number": 4,
+                "text": "Porque os filhos de Israel ficarão por muitos dias sem rei, e sem príncipe, e sem sacrifício, e sem estátua, e sem éfode ou {note:a}terafim."
+            },
+            {
+                "id": "v3.5",
+                "versicle_number": 5,
+                "text": "Depois tornarão os filhos de Israel, e buscarão ao Senhor seu Deus, e a Davi, seu rei; e temerão ao Senhor, e à sua bondade, no fim dos dias."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:a} 3.4 que significa ídolos do lar"
+            }
+        ]
+    }
+}

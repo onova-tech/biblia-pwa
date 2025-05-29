@@ -1,0 +1,140 @@
+{
+    "book": {
+        "id": "Jr",
+        "book_number": 24,
+        "new_testament": false,
+        "num_chapters": 52,
+        "book_name": "JEREMIAS",
+        "book_full_name": "JEREMIAS"
+    },
+    "chapter": {
+        "chapter_number": 11,
+        "chapter_reference": "",
+        "chapter_title": "O pacto é violado",
+        "versicles": [
+            {
+                "id": "v11.1",
+                "versicle_number": 1,
+                "text": "A PALAVRA que veio a Jeremias, da parte do Senhor, dizendo:"
+            },
+            {
+                "id": "v11.2",
+                "versicle_number": 2,
+                "text": "Ouvi as palavras deste concerto, e falai aos homens de Judá, e aos habitantes de Jerusalém."
+            },
+            {
+                "id": "v11.3",
+                "versicle_number": 3,
+                "text": "Dize-lhes pois: Assim diz o Senhor, o Deus de Israel: Maldito o homem que não escutar as palavras deste concerto."
+            },
+            {
+                "id": "v11.4",
+                "versicle_number": 4,
+                "text": "Que ordenei a vossos pais no dia em que os tirei da terra do Egito, da fornalha de ferro, dizendo: Dai ouvidos à minha voz, e fazei conforme a tudo que vos mando; e vós me sereis a mim por povo, e eu vos serei a vós por Deus:"
+            },
+            {
+                "id": "v11.5",
+                "versicle_number": 5,
+                "text": "Para que confirme o juramento que fiz a vossos pais de dar-lhes uma terra que manasse leite e mel, como se vê neste dia. Então eu respondi, e disse: Amém, ó Senhor."
+            },
+            {
+                "id": "v11.6",
+                "versicle_number": 6,
+                "text": "E disse-me o Senhor: Apregoa todas estas palavras nas cidades de Judá, e nas ruas de Jerusalém, dizendo: Ouvi as palavras deste concerto, e cumpri-as."
+            },
+            {
+                "id": "v11.7",
+                "versicle_number": 7,
+                "text": "Porque deveras protestei a vossos pais no dia em que os tirei da terra do Egito, até ao dia de hoje, madrugando, e protestando, e dizendo: Dai ouvidos à minha voz."
+            },
+            {
+                "id": "v11.8",
+                "versicle_number": 8,
+                "text": "Mas não ouviram, nem inclinaram os seus ouvidos, antes andaram cada um conforme o propósito do seu coração malvado: pelo que trouxe sobre eles todas as palavras deste concerto que lhes mandei que cumprissem, mas não cumpriram."
+            },
+            {
+                "id": "v11.9",
+                "versicle_number": 9,
+                "text": "Disse-me mais o Senhor: Uma conjuração se achou entre os homens de Judá, entre os habitantes de Jerusalém."
+            },
+            {
+                "id": "v11.10",
+                "versicle_number": 10,
+                "text": "Tornaram às maldades de seus primeiros pais que não quiseram ouvir as minhas palavras; e eles andaram após deuses estranhos para os servir: a casa de Israel e a casa de Judá quebrantaram o meu concerto, que tinha feito com seus pais."
+            },
+            {
+                "id": "v11.11",
+                "versicle_number": 11,
+                "text": "Portanto assim diz o Senhor: Eis que trarei mal sobre eles, de que não poderão escapar, e clamarão a mim e eu não os ouvirei."
+            },
+            {
+                "id": "v11.12",
+                "versicle_number": 12,
+                "text": "Então irão as cidades de Judá e os habitantes de Jerusalém e clamarão aos deuses a que eles queimaram incenso; eles porém de nenhuma sorte os livrarão no tempo do seu mal."
+            },
+            {
+                "id": "v11.13",
+                "versicle_number": 13,
+                "text": "Porque, segundo o número das tuas cidades, foram os teus deuses, ó Judá! e, segundo o número das ruas de Jerusalém, levantaste altares à impudência, altares para queimares incenso a Baal."
+            },
+            {
+                "id": "v11.14",
+                "versicle_number": 14,
+                "text": "Tu, pois, não ores por este povo, nem levantes por eles clamor nem oração; porque não os ouvirei no tempo em que eles clamarem a mim, por causa do seu mal."
+            },
+            {
+                "id": "v11.15",
+                "versicle_number": 15,
+                "text": "Que tem o meu amado que fazer na minha casa, visto como muitos nela cometem grande abominação e as carnes santas se desviaram de ti? quando tu fazes mal, então andas saltando de prazer."
+            },
+            {
+                "id": "v11.16",
+                "versicle_number": 16,
+                "text": "Denominou-te o Senhor oliveira verde, formosa por seus deliciosos frutos; mas agora, à voz dum grande tumulto, acendeu fogo ao redor dela e se quebraram os seus ramos."
+            },
+            {
+                "id": "v11.17",
+                "versicle_number": 17,
+                "text": "Porque o Senhor dos Exércitos, que te plantou, pronunciou contra ti o mal, pela maldade da casa de Israel e da casa de Judá, que para si mesmos fizeram, pois me provocaram à ira, queimando incenso a Baal."
+            },
+            {
+                "id": "v11.18",
+                "versicle_number": 18,
+                "text": "E o Senhor mo fez saber, e eu o soube: então me fizeste ver as suas ações."
+            },
+            {
+                "id": "v11.19",
+                "versicle_number": 19,
+                "text": "E eu era como um manso cordeiro, que levam à matança; porque não sabia que imaginavam projetos contra mim, dizendo: Destruamos a árvore com o seu fruto, e cortemo-lo da terra dos viventes, e não haja mais memória do seu nome."
+            },
+            {
+                "id": "v11.20",
+                "versicle_number": 20,
+                "text": "Mas, ó Senhor dos Exércitos, justo Juiz, que provas os rins e o coração, veja eu a tua vingança sobre eles; pois a ti descobri a minha causa."
+            },
+            {
+                "id": "v11.21",
+                "versicle_number": 21,
+                "text": "Portanto assim diz o Senhor acerca dos homens de Anatote, que procuram a tua morte, dizendo: Não profetizes no nome do Senhor, para que não morras às nossas mãos."
+            },
+            {
+                "id": "v11.22",
+                "versicle_number": 22,
+                "text": "Sim, assim diz o Senhor dos Exércitos: Eis que eu os punirei: os mancebos morrerão à espada, os seus filhos e as suas filhas morrerão de fome."
+            },
+            {
+                "id": "v11.23",
+                "versicle_number": 23,
+                "text": "E não haverá deles um resto, porque farei vir o mal sobre os homens de Anatote, no ano da sua visitação."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v11.18",
+                "text": "Conspiração contra Jeremias"
+            }
+        ],
+        "notes": []
+    }
+}

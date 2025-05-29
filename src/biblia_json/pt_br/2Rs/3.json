@@ -1,0 +1,159 @@
+{
+    "book": {
+        "id": "2Rs",
+        "book_number": 12,
+        "new_testament": false,
+        "num_chapters": 25,
+        "book_name": "REIS",
+        "book_full_name": "O SEGUNDO LIVRO DOS REIS"
+    },
+    "chapter": {
+        "chapter_number": 3,
+        "chapter_reference": "",
+        "chapter_title": "Eliseu salva três reis e os seus exércitos",
+        "versicles": [
+            {
+                "id": "v3.1",
+                "versicle_number": 1,
+                "text": "E JORÃO, filho de Acabe, começou a reinar sobre Israel, em Samaria, no décimo oitavo ano de Josafá, rei de Judá: e reinou doze anos."
+            },
+            {
+                "id": "v3.2",
+                "versicle_number": 2,
+                "text": "E fez o que era mau aos olhos do Senhor; porém não como seu pai, nem como sua mãe; porque tirou a {note:a}estátua de Baal, que seu pai fizera."
+            },
+            {
+                "id": "v3.3",
+                "versicle_number": 3,
+                "text": "Contudo aderiu aos pecados de Jeroboão, filho de Nebate, que fizera pecar a Israel; não se apartou deles."
+            },
+            {
+                "id": "v3.4",
+                "versicle_number": 4,
+                "text": "Então Mesa, rei dos moabitas, era contratador de gado, e pagava ao rei de Israel cem mil cordeiros, e cem mil carneiros com a sua lã."
+            },
+            {
+                "id": "v3.5",
+                "versicle_number": 5,
+                "text": "Sucedeu porém que, morrendo Acabe, se revoltou o rei dos moabitas contra o rei de Israel."
+            },
+            {
+                "id": "v3.6",
+                "versicle_number": 6,
+                "text": "Por isso Jorão ao mesmo tempo saiu de Samaria, e fez revista de todo o Israel."
+            },
+            {
+                "id": "v3.7",
+                "versicle_number": 7,
+                "text": "E foi, e enviou a Josafá, rei de Judá, dizendo: O rei dos moabitas se revoltou contra mim; irás tu comigo à guerra contra os moabitas? E disse ele: Subirei; e eu serei como tu, o meu povo como o teu povo, e os meus cavalos como os teus cavalos."
+            },
+            {
+                "id": "v3.8",
+                "versicle_number": 8,
+                "text": "E ele disse: Por que caminho subiremos? Então disse ele: Pelo caminho do deserto de Edom."
+            },
+            {
+                "id": "v3.9",
+                "versicle_number": 9,
+                "text": "E partiu o rei de Israel, e o rei de Judá e o rei de Edom; e andaram rodeando com uma marcha de sete dias, e o exército e o gado que os seguia não tinham água."
+            },
+            {
+                "id": "v3.10",
+                "versicle_number": 10,
+                "text": "Então disse o rei de Israel: Ah! que o Senhor chamou a estes três reis, para os entregar nas mãos dos moabitas."
+            },
+            {
+                "id": "v3.11",
+                "versicle_number": 11,
+                "text": "E disse Josafá: Não há aqui algum profeta do Senhor, para que consultemos ao Senhor por ele? Então respondeu um dos servos do rei de Israel, e disse: Aqui está Eliseu, filho de Safate, que deitava água sobre as mãos de Elias."
+            },
+            {
+                "id": "v3.12",
+                "versicle_number": 12,
+                "text": "E disse Josafá: Está com ele a palavra do Senhor. Então o rei de Israel, e Josafá e o rei de Edom desceram a ele."
+            },
+            {
+                "id": "v3.13",
+                "versicle_number": 13,
+                "text": "Mas Eliseu disse ao rei de Israel: Que tenho eu contigo? Vai aos profetas de teu pai e aos profetas de tua mãe. Porém o rei de Israel lhe disse: Não, porque o Senhor chamou a estes três reis para os entregar nas mãos dos moabitas."
+            },
+            {
+                "id": "v3.14",
+                "versicle_number": 14,
+                "text": "E disse Eliseu: Vive o Senhor dos Exércitos, em cuja presença estou, que se eu não respeitasse a presença de Josafá, rei de Judá, não olharia para ti nem te veria."
+            },
+            {
+                "id": "v3.15",
+                "versicle_number": 15,
+                "text": "Ora, pois, trazei-me um tangedor. E sucedeu que, tangendo o tangedor, veio sobre ele a mão do Senhor."
+            },
+            {
+                "id": "v3.16",
+                "versicle_number": 16,
+                "text": "E disse: Assim diz o Senhor: Fazei neste vale muitas covas;"
+            },
+            {
+                "id": "v3.17",
+                "versicle_number": 17,
+                "text": "Porque assim diz o Senhor: Não vereis vento, e não vereis chuva: todavia este vale se encherá de tanta água, que bebereis vós, e o vosso gado e os vossos animais."
+            },
+            {
+                "id": "v3.18",
+                "versicle_number": 18,
+                "text": "E ainda isto é pouco aos olhos do Senhor: também entregará ele os moabitas nas vossas mãos."
+            },
+            {
+                "id": "v3.19",
+                "versicle_number": 19,
+                "text": "E ferireis a todas as cidades fortes, e a todas as cidades escolhidas, e todas as boas árvores cortareis, e tapareis todas as fontes de água, e danificareis com pedras todos os bons campos."
+            },
+            {
+                "id": "v3.20",
+                "versicle_number": 20,
+                "text": "E sucedeu que pela manhã, oferecendo-se a oferta de manjares, eis que vinham as águas pelo caminho de Edom: e a terra se encheu de água."
+            },
+            {
+                "id": "v3.21",
+                "versicle_number": 21,
+                "text": "Ouvindo pois todos os moabitas que os reis tinham subido para pelejarem contra eles, convocaram a todos os que cingiam cinto e daí para cima, e puseram-se às fronteiras."
+            },
+            {
+                "id": "v3.22",
+                "versicle_number": 22,
+                "text": "E, levantando-se de madrugada, e saindo o sol sobre as águas, viram os moabitas defronte deles as águas vermelhas como sangue."
+            },
+            {
+                "id": "v3.23",
+                "versicle_number": 23,
+                "text": "E disseram: Isto é sangue; certamente que os reis se destruíram à espada e se mataram um ao outro! Agora pois à presa, moabitas!"
+            },
+            {
+                "id": "v3.24",
+                "versicle_number": 24,
+                "text": "Porém, chegando eles ao arraial de Israel, os israelitas se levantaram, e feriram os moabitas, os quais fugiram diante deles: e ainda os feriram nas suas terras, ferindo ali também os moabitas."
+            },
+            {
+                "id": "v3.25",
+                "versicle_number": 25,
+                "text": "E arrasaram as cidades, e cada um lançou a sua pedra em todos os bons campos, e os entulharam, e taparam todas as fontes de águas, e cortaram todas as boas árvores, até que só em Quir-Haresete deixaram ficar as pedras, mas os fundeiros a cercaram e a feriram."
+            },
+            {
+                "id": "v3.26",
+                "versicle_number": 26,
+                "text": "Mas, vendo o rei dos moabitas que a peleja prevalecia contra ele, tomou consigo setecentos homens que arrancavam espada, para romperem contra o rei de Edom, porém não puderam."
+            },
+            {
+                "id": "v3.27",
+                "versicle_number": 27,
+                "text": "Então tomou a seu filho primogênito, que havia de reinar em seu lugar, e o ofereceu em holocausto sobre o muro; pelo que houve grande indignação em Israel: por isso retiraram-se dele, e voltaram para a sua terra."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:a} 3.2 ou pilar ou obelisco"
+            }
+        ]
+    }
+}

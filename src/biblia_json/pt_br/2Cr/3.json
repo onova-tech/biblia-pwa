@@ -1,0 +1,131 @@
+{
+    "book": {
+        "id": "2Cr",
+        "book_number": 14,
+        "new_testament": false,
+        "num_chapters": 36,
+        "book_name": "CRÔNICAS",
+        "book_full_name": "O SEGUNDO LIVRO DAS CRÔNICAS"
+    },
+    "chapter": {
+        "chapter_number": 3,
+        "chapter_reference": "",
+        "chapter_title": "A construção do templo começa",
+        "versicles": [
+            {
+                "id": "v3.1",
+                "versicle_number": 1,
+                "text": "E COMEÇOU Salomão a edificar a casa do Senhor em Jerusalém, no monte de Moriá, onde o Senhor se tinha mostrado a Davi seu pai, no lugar que Davi tinha preparado na eira de Ornã, jebuseu,"
+            },
+            {
+                "id": "v3.2",
+                "versicle_number": 2,
+                "text": "E começou a edificar no segundo mês, no dia segundo, no ano quarto do seu reinado."
+            },
+            {
+                "id": "v3.3",
+                "versicle_number": 3,
+                "text": "E estes foram os fundamentos que Salomão pôs para edificar a casa de Deus: O comprimento em côvados, segundo a medida primeira, de sessenta côvados, e a largura de vinte côvados."
+            },
+            {
+                "id": "v3.4",
+                "versicle_number": 4,
+                "text": "E o alpendre, que estava na frente, de comprimento, segundo a largura da casa, era de vinte côvados, e a altura de cento e vinte, o que dentro cobriu com ouro puro."
+            },
+            {
+                "id": "v3.5",
+                "versicle_number": 5,
+                "text": "E a casa grande forrou com madeira de faia; e então a cobriu com ouro fino; e fez sobre ela palmas e cadeias."
+            },
+            {
+                "id": "v3.6",
+                "versicle_number": 6,
+                "text": "Também a casa adornou de pedras preciosas para ornamento: e o ouro era ouro de Parvaim."
+            },
+            {
+                "id": "v3.7",
+                "versicle_number": 7,
+                "text": "Também na casa cobriu as traves, os umbrais, e as suas paredes, e as suas portas, com ouro: e lavrou querubins nas paredes."
+            },
+            {
+                "id": "v3.8",
+                "versicle_number": 8,
+                "text": "Fez mais a {note:f}casa da santidade das santidades,{note:1} cujo comprimento, segundo a largura da casa, era de vinte côvados, e a sua largura de vinte côvados: e cobriu-a de ouro fino, do peso de seiscentos talentos."
+            },
+            {
+                "id": "v3.9",
+                "versicle_number": 9,
+                "text": "O peso dos pregos era de cinquenta siclos de ouro: e cobriu de ouro os cenáculos."
+            },
+            {
+                "id": "v3.10",
+                "versicle_number": 10,
+                "text": "Também fez na casa da santidade das santidades dois querubins {note:g}na forma de andantes, e cobriu-os de ouro."
+            },
+            {
+                "id": "v3.11",
+                "versicle_number": 11,
+                "text": "E, quanto às asas dos querubins, o seu comprimento era de vinte côvados; a asa dum deles de cinco côvados, e tocava na parede da casa; e a outra asa de cinco côvados, e tocava na asa do outro querubim."
+            },
+            {
+                "id": "v3.12",
+                "versicle_number": 12,
+                "text": "Também a asa do outro querubim era de cinco côvados, e tocava na parede da casa: era também a outra asa de cinco côvados, e estava pegada à asa do outro querubim."
+            },
+            {
+                "id": "v3.13",
+                "versicle_number": 13,
+                "text": "E as asas destes querubins se estendiam vinte côvados: e estavam postos em pé, e os seus rostos virados para a casa.{note:2}"
+            },
+            {
+                "id": "v3.14",
+                "versicle_number": 14,
+                "text": "Também fez o véu{note:3} de azul, e púrpura, e carmesim, e linho fino: e pôs sobre ele querubins."
+            },
+            {
+                "id": "v3.15",
+                "versicle_number": 15,
+                "text": "Fez também diante da casa duas colunas de trinta e cinco côvados de altura; e o capitel, que estava sobre cada uma, era de cinco côvados."
+            },
+            {
+                "id": "v3.16",
+                "versicle_number": 16,
+                "text": "Também fez as cadeias, como no oráculo, e as pôs sobre as cabeças das colunas: fez também cem romãs, as quais pôs entre as cadeias."
+            },
+            {
+                "id": "v3.17",
+                "versicle_number": 17,
+                "text": "E levantou as colunas diante do templo, uma à direita, e outra à esquerda; e chamou o nome da que estava à direita {note:h}Jaquim, e o nome da que estava à esquerda Boaz."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v3.10",
+                "text": "Os dois querubins"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:f} 3.8 ou Casa Santíssima {note:1} 3.8 Êx 26.33-34"
+            },
+            {
+                "id": "n2",
+                "text": "{note:g} 3.10 ou de obra de imagem"
+            },
+            {
+                "id": "n3",
+                "text": "{note:2} 3.10-13 Êx 25.18-20"
+            },
+            {
+                "id": "n4",
+                "text": "{note:3} 3.14 Êx 26.31"
+            },
+            {
+                "id": "n5",
+                "text": "{note:h} 3.17 Heb. ele estabelecerá"
+            }
+        ]
+    }
+}

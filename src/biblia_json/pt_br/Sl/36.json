@@ -1,0 +1,84 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 36,
+        "chapter_reference": "",
+        "chapter_title": "A malícia dos ímpios. Nosso refúgio está em Deus, que salva os retos",
+        "versicles": [
+            {
+                "id": "v36.1",
+                "versicle_number": 1,
+                "text": "A PREVARICAÇÃO do ímpio diz no íntimo do seu coração: Não há temor de Deus{note:1} perante os seus olhos."
+            },
+            {
+                "id": "v36.2",
+                "versicle_number": 2,
+                "text": "Porque em seus olhos se lisonjeia, até que a sua iniquidade se mostre detestável."
+            },
+            {
+                "id": "v36.3",
+                "versicle_number": 3,
+                "text": "As palavras da sua boca são malícia e engano: deixou de entender e de fazer o bem."
+            },
+            {
+                "id": "v36.4",
+                "versicle_number": 4,
+                "text": "Maquina o mal na sua cama; põe-se em caminho que não é bom: não aborrece o mal."
+            },
+            {
+                "id": "v36.5",
+                "versicle_number": 5,
+                "text": "A tua misericórdia, Senhor, está nos céus, e a tua fidelidade chega até às mais excelsas nuvens."
+            },
+            {
+                "id": "v36.6",
+                "versicle_number": 6,
+                "text": "A tua justiça é como as grandes montanhas; os teus juízos são um grande abismo; Senhor, tu conservas os homens e os animais."
+            },
+            {
+                "id": "v36.7",
+                "versicle_number": 7,
+                "text": "Quão preciosa, é, ó Deus, a tua benignidade, e por isso os filhos dos homens se abrigam à sombra das tuas asas."
+            },
+            {
+                "id": "v36.8",
+                "versicle_number": 8,
+                "text": "Eles se fartarão da gordura da tua casa, e os farás beber da corrente das tuas delícias;"
+            },
+            {
+                "id": "v36.9",
+                "versicle_number": 9,
+                "text": "Porque em ti está o manancial da vida; na tua luz veremos a luz."
+            },
+            {
+                "id": "v36.10",
+                "versicle_number": 10,
+                "text": "Estende a tua benignidade sobre os que te conhecem, e a tua justiça sobre os retos de coração."
+            },
+            {
+                "id": "v36.11",
+                "versicle_number": 11,
+                "text": "Não venha sobre mim o pé dos soberbos, e não me mova a mão dos ímpios."
+            },
+            {
+                "id": "v36.12",
+                "versicle_number": 12,
+                "text": "Ali caem os obreiros da iniquidade; cairão, e não se poderão levantar."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 36.1 Rm 3.18"
+            }
+        ]
+    }
+}

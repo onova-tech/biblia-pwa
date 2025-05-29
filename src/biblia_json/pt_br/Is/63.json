@@ -1,0 +1,137 @@
+{
+    "book": {
+        "id": "Is",
+        "book_number": 23,
+        "new_testament": false,
+        "num_chapters": 66,
+        "book_name": "ISAÍAS",
+        "book_full_name": "ISAÍAS"
+    },
+    "chapter": {
+        "chapter_number": 63,
+        "chapter_reference": "",
+        "chapter_title": "Deus salva e vinga o seu povo",
+        "versicles": [
+            {
+                "id": "v63.1",
+                "versicle_number": 1,
+                "text": "QUEM é este, que vem de Edom, com vestidos {note:z}tintos de Bozra? este, que é glorioso em sua vestidura, que marcha com a sua grande força? Eu, que falo em justiça, poderoso para salvar."
+            },
+            {
+                "id": "v63.2",
+                "versicle_number": 2,
+                "text": "Por que está vermelha a tua vestidura? e os teus vestidos como os daquele que pisa no lagar?"
+            },
+            {
+                "id": "v63.3",
+                "versicle_number": 3,
+                "text": "Eu sozinho pisei{note:1} no lagar, e dos povos ninguém houve comigo; e os pisei na minha ira, e os esmaguei no meu furor; e o seu sangue salpicou os meus vestidos, e manchei toda a minha vestidura."
+            },
+            {
+                "id": "v63.4",
+                "versicle_number": 4,
+                "text": "Porque o dia da vingança estava no meu coração; e o ano dos meus redimidos é chegado."
+            },
+            {
+                "id": "v63.5",
+                "versicle_number": 5,
+                "text": "E olhei, e não havia quem me ajudasse; e espantei-me de não haver quem me sustivesse; pelo que o meu braço me trouxe a salvação, e o meu furor me susteve."
+            },
+            {
+                "id": "v63.6",
+                "versicle_number": 6,
+                "text": "E pisei os povos na minha ira, e os embriaguei no meu furor; {note:a}e a sua força derribei por terra.{note:2}"
+            },
+            {
+                "id": "v63.7",
+                "versicle_number": 7,
+                "text": "As benignidades do Senhor mencionarei, e os muitos louvores do Senhor, consoante tudo o que o Senhor nos concedeu; e a grande bondade para com a casa de Israel, que usou com eles segundo as suas misericórdias, e segundo a multidão das suas benignidades."
+            },
+            {
+                "id": "v63.8",
+                "versicle_number": 8,
+                "text": "Porque dizia: Certamente eles são meu povo, filhos que não mentirão: assim ele foi seu Salvador."
+            },
+            {
+                "id": "v63.9",
+                "versicle_number": 9,
+                "text": "Em toda a angústia deles foi ele angustiado, e o anjo da sua face os salvou; pelo seu amor, e pela sua compaixão ele os remiu; e os tomou, e os conduziu todos os dias da antiguidade."
+            },
+            {
+                "id": "v63.10",
+                "versicle_number": 10,
+                "text": "Mas eles foram rebeldes, e contristaram o seu Espírito Santo; pelo que se lhes tornou em inimigo, e ele mesmo pelejou contra eles."
+            },
+            {
+                "id": "v63.11",
+                "versicle_number": 11,
+                "text": "Todavia se lembrou dos dias da antiguidade, de Moisés, e do seu povo, dizendo: Onde está aquele que os fez subir do mar com os pastores do seu rebanho? onde está o que pôs no meio deles o seu Espírito Santo?"
+            },
+            {
+                "id": "v63.12",
+                "versicle_number": 12,
+                "text": "Aquele cujo braço glorioso ele fez andar à mão direita de Moisés? que fendeu as águas{note:3} diante deles, para criar um nome eterno?"
+            },
+            {
+                "id": "v63.13",
+                "versicle_number": 13,
+                "text": "Aquele que os guiou pelos abismos, como o cavalo no deserto, de modo que nunca tropeçaram?"
+            },
+            {
+                "id": "v63.14",
+                "versicle_number": 14,
+                "text": "Como ao animal que desce aos vales, o Espírito do Senhor lhes deu descanso: assim guiaste ao teu povo, para criares um nome glorioso."
+            },
+            {
+                "id": "v63.15",
+                "versicle_number": 15,
+                "text": "Atenta desde os céus, e olha desde a tua santa e gloriosa habitação. Onde estão o teu zelo e as tuas obras poderosas? O arruído das tuas entranhas e das tuas misericórdias, detém-se para comigo!"
+            },
+            {
+                "id": "v63.16",
+                "versicle_number": 16,
+                "text": "Mas tu és nosso Pai, ainda que Abraão nos não conhece, e Israel não nos reconhece: Tu, ó Senhor, és nosso Pai; nosso Redentor desde a antiguidade é o teu nome."
+            },
+            {
+                "id": "v63.17",
+                "versicle_number": 17,
+                "text": "Por que, ó Senhor, nos fazes desviar dos teus caminhos? Por que endureces o nosso coração, para que te não temamos? Faz voltar, por amor dos teus servos, as tribos da tua herança."
+            },
+            {
+                "id": "v63.18",
+                "versicle_number": 18,
+                "text": "Só por um pouco de tempo foi possuída pelo teu santo povo: nossos adversários pisaram o teu santuário."
+            },
+            {
+                "id": "v63.19",
+                "versicle_number": 19,
+                "text": "Tornamo-nos como aqueles sobre quem tu nunca dominaste, e como os que nunca se chamaram pelo teu nome."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v63.7",
+                "text": "Ação de graças, confissões e súplicas do povo de Deus"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:z} 63.1 ou escarlates marchando na abundância da sua força?"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 63.3 Ap 14.20; 19.15"
+            },
+            {
+                "id": "n3",
+                "text": "{note:a} 63.6 ou o seu sangue {note:2} 63.1-6 Is 34.1-17; Jr 49.7-22; Ez 25.12-14; Am 1.11-12; Ob 1-14; Ml 1.2-5"
+            },
+            {
+                "id": "n4",
+                "text": "{note:3} 63.12 Êx 14.21"
+            }
+        ]
+    }
+}

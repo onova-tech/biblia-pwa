@@ -1,0 +1,189 @@
+{
+    "book": {
+        "id": "Job",
+        "book_number": 18,
+        "new_testament": false,
+        "num_chapters": 42,
+        "book_name": "JÓ",
+        "book_full_name": "O LIVRO DE JÓ"
+    },
+    "chapter": {
+        "chapter_number": 21,
+        "chapter_reference": "",
+        "chapter_title": "Jó mostra que os ímpios muitas vezes gozam prosperidade nesta vida",
+        "versicles": [
+            {
+                "id": "v21.1",
+                "versicle_number": 1,
+                "text": "RESPONDEU porém Jó, e disse:"
+            },
+            {
+                "id": "v21.2",
+                "versicle_number": 2,
+                "text": "Ouvi atentamente as minhas razões; e isto vos sirva de consolação."
+            },
+            {
+                "id": "v21.3",
+                "versicle_number": 3,
+                "text": "Sofrei-me, e eu falarei; e, havendo eu falado, zombai."
+            },
+            {
+                "id": "v21.4",
+                "versicle_number": 4,
+                "text": "Porventura eu me queixo a algum homem? Mas, ainda que assim fosse, por que se não angustiaria o meu espírito?"
+            },
+            {
+                "id": "v21.5",
+                "versicle_number": 5,
+                "text": "Olhai para mim, e pasmai; e ponde a mão sobre a boca,"
+            },
+            {
+                "id": "v21.6",
+                "versicle_number": 6,
+                "text": "Porque, quando me lembro disto, me perturbo, e a minha carne é sobressaltada de horror."
+            },
+            {
+                "id": "v21.7",
+                "versicle_number": 7,
+                "text": "Por que razão vivem os ímpios, envelhecem, e ainda se esforçam em poder?"
+            },
+            {
+                "id": "v21.8",
+                "versicle_number": 8,
+                "text": "A sua semente se estabelece com eles perante a sua face, e os seus renovos perante os seus olhos."
+            },
+            {
+                "id": "v21.9",
+                "versicle_number": 9,
+                "text": "As suas casas têm paz, sem temor; e a vara de Deus não está sobre eles."
+            },
+            {
+                "id": "v21.10",
+                "versicle_number": 10,
+                "text": "O seu touro gera, e não falha, pare a sua vaca, e não aborta."
+            },
+            {
+                "id": "v21.11",
+                "versicle_number": 11,
+                "text": "Fazem sair as suas crianças, como a um rebanho, e seus filhos andam saltando."
+            },
+            {
+                "id": "v21.12",
+                "versicle_number": 12,
+                "text": "Levantam a voz, ao som do tamboril e da harpa, e alegram-se ao som dos órgãos."
+            },
+            {
+                "id": "v21.13",
+                "versicle_number": 13,
+                "text": "Na prosperidade gastam os seus dias, e num momento descem à sepultura."
+            },
+            {
+                "id": "v21.14",
+                "versicle_number": 14,
+                "text": "E, todavia, dizem a Deus: Retira-te de nós; porque não desejamos ter conhecimento dos teus caminhos."
+            },
+            {
+                "id": "v21.15",
+                "versicle_number": 15,
+                "text": "Quem é o Todo-poderoso, para que nós o sirvamos? E que nos aproveitará que lhe façamos orações?"
+            },
+            {
+                "id": "v21.16",
+                "versicle_number": 16,
+                "text": "Vede porém que o seu bem não está na mão deles; esteja longe de mim o conselho dos ímpios!"
+            },
+            {
+                "id": "v21.17",
+                "versicle_number": 17,
+                "text": "Quantas vezes sucede que se apaga a candeia dos ímpios, e lhes sobrevém a sua destruição? E Deus na sua ira lhes reparte dores!"
+            },
+            {
+                "id": "v21.18",
+                "versicle_number": 18,
+                "text": "Porque são como a palha diante do vento, e como a pragana, que arrebata o redemoinho."
+            },
+            {
+                "id": "v21.19",
+                "versicle_number": 19,
+                "text": "Deus guarda a sua violência para seus filhos, e lhe dá o pago, para que o conheça."
+            },
+            {
+                "id": "v21.20",
+                "versicle_number": 20,
+                "text": "Seus olhos veem a sua ruína, e ele bebe do furor do Todo-poderoso."
+            },
+            {
+                "id": "v21.21",
+                "versicle_number": 21,
+                "text": "Porque, que prazer teria na sua casa depois de si, cortando-se-lhe o número dos seus meses?"
+            },
+            {
+                "id": "v21.22",
+                "versicle_number": 22,
+                "text": "Porventura a Deus se ensinaria ciência, a ele que julga os excelsos?"
+            },
+            {
+                "id": "v21.23",
+                "versicle_number": 23,
+                "text": "Um morre na força da sua plenitude, estando todo quieto e sossegado."
+            },
+            {
+                "id": "v21.24",
+                "versicle_number": 24,
+                "text": "Os seus baldes estão cheios de leite, e os seus ossos estão regados de tutanos."
+            },
+            {
+                "id": "v21.25",
+                "versicle_number": 25,
+                "text": "E outro morre, ao contrário, na amargura do seu coração, não havendo provado do bem."
+            },
+            {
+                "id": "v21.26",
+                "versicle_number": 26,
+                "text": "Juntamente jazem no pó, e os bichos os cobrem."
+            },
+            {
+                "id": "v21.27",
+                "versicle_number": 27,
+                "text": "Eis que conheço bem os vossos pensamentos; e os maus intentos com que injustamente me fazeis violência."
+            },
+            {
+                "id": "v21.28",
+                "versicle_number": 28,
+                "text": "Porque direis: Onde está a casa do príncipe e onde a tenda em que morava o ímpio?"
+            },
+            {
+                "id": "v21.29",
+                "versicle_number": 29,
+                "text": "Porventura o não perguntastes aos que passam pelo caminho, e não conheceis os seus sinais?"
+            },
+            {
+                "id": "v21.30",
+                "versicle_number": 30,
+                "text": "Que o mau é preservado para o dia da destruição, e arrebatado no dia do furor?"
+            },
+            {
+                "id": "v21.31",
+                "versicle_number": 31,
+                "text": "Quem acusará diante dele o seu caminho, e quem lhe dará o pago do que faz?"
+            },
+            {
+                "id": "v21.32",
+                "versicle_number": 32,
+                "text": "Finalmente é levado à sepultura, e vigia no túmulo."
+            },
+            {
+                "id": "v21.33",
+                "versicle_number": 33,
+                "text": "Os torrões do vale lhe são doces, e ele arrasta após si a todos os homens; e antes dele havia inumeráveis."
+            },
+            {
+                "id": "v21.34",
+                "versicle_number": 34,
+                "text": "Como pois me consolais em vão? Pois nas vossas respostas só há falsidade."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

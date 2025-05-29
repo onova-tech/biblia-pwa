@@ -1,0 +1,138 @@
+{
+    "book": {
+        "id": "1Co",
+        "book_number": 46,
+        "new_testament": true,
+        "num_chapters": 16,
+        "book_name": "CORÍNTIOS",
+        "book_full_name": "PRIMEIRA EPÍSTOLA DO APÓSTOLO PAULO AOS CORÍNTIOS"
+    },
+    "chapter": {
+        "chapter_number": 6,
+        "chapter_reference": "",
+        "chapter_title": "Paulo censura o litígio entre os irmãos",
+        "versicles": [
+            {
+                "id": "v6.1",
+                "versicle_number": 1,
+                "text": "OUSA algum de vós, tendo algum negócio contra outro, ir a juízo perante os injustos, e não perante os santos?"
+            },
+            {
+                "id": "v6.2",
+                "versicle_number": 2,
+                "text": "Não sabeis vós que os santos hão de julgar o mundo? Ora, se o mundo deve ser julgado por vós, sois porventura indignos de julgar as coisas mínimas?"
+            },
+            {
+                "id": "v6.3",
+                "versicle_number": 3,
+                "text": "Não sabeis vós que havemos de julgar os anjos? Quanto mais as coisas pertencentes a esta vida?"
+            },
+            {
+                "id": "v6.4",
+                "versicle_number": 4,
+                "text": "Então, se tiverdes negócios em juízo, pertencentes a esta vida, pondes na cadeira aos que são de menos estima na igreja?"
+            },
+            {
+                "id": "v6.5",
+                "versicle_number": 5,
+                "text": "Para vos envergonhar o digo: Não há pois entre vós sábios, nem mesmo um, que possa julgar entre seus irmãos?"
+            },
+            {
+                "id": "v6.6",
+                "versicle_number": 6,
+                "text": "Mas o irmão vai a juízo com o irmão, e isto perante infiéis."
+            },
+            {
+                "id": "v6.7",
+                "versicle_number": 7,
+                "text": "Na verdade é já realmente uma falta entre vós, terdes demandas uns contra os outros. Por que não sofreis antes a injustiça? Por que não sofreis antes o dano?"
+            },
+            {
+                "id": "v6.8",
+                "versicle_number": 8,
+                "text": "Mas vós mesmos fazeis a injustiça e fazeis o dano: e isto aos irmãos."
+            },
+            {
+                "id": "v6.9",
+                "versicle_number": 9,
+                "text": "Não sabeis que os injustos não hão de herdar o reino de Deus?"
+            },
+            {
+                "id": "v6.10",
+                "versicle_number": 10,
+                "text": "Não erreis: nem os devassos, nem os idólatras, nem os adúlteros, nem os efeminados, nem os sodomitas, nem os ladrões, nem os avarentos, nem os bêbedos, nem os maldizentes, nem os roubadores herdarão o reino de Deus."
+            },
+            {
+                "id": "v6.11",
+                "versicle_number": 11,
+                "text": "E é o que alguns têm sido, mas haveis sido lavados, mas haveis sido santificados, mas haveis sido justificados em nome do Senhor Jesus, e pelo Espírito do nosso Deus."
+            },
+            {
+                "id": "v6.12",
+                "versicle_number": 12,
+                "text": "Todas as coisas me são lícitas,{note:1} mas nem todas as coisas convêm: todas as coisas me são lícitas; mas eu não me deixarei dominar por nenhuma."
+            },
+            {
+                "id": "v6.13",
+                "versicle_number": 13,
+                "text": "Os manjares são para o ventre e o ventre para os manjares; Deus porém, aniquilará, tanto um como os outros. Mas o corpo não é para a prostituição, senão para o Senhor, e o Senhor para o corpo."
+            },
+            {
+                "id": "v6.14",
+                "versicle_number": 14,
+                "text": "Ora Deus, que também ressuscitou o Senhor, nos ressuscitará a nós pelo seu poder."
+            },
+            {
+                "id": "v6.15",
+                "versicle_number": 15,
+                "text": "Não sabeis vós que os vossos corpos são membros de Cristo? Tomarei pois os membros de Cristo, e fá-los-ei membros de uma meretriz? Não, por certo."
+            },
+            {
+                "id": "v6.16",
+                "versicle_number": 16,
+                "text": "Ou não sabeis que o que se ajunta com a meretriz, faz-se um corpo com ela? Porque serão, disse, dois numa só carne.{note:2}"
+            },
+            {
+                "id": "v6.17",
+                "versicle_number": 17,
+                "text": "Mas o que se ajunta com o Senhor é um mesmo espírito."
+            },
+            {
+                "id": "v6.18",
+                "versicle_number": 18,
+                "text": "Fugi da prostituição. Todo o pecado que o homem comete é fora do corpo; mas o que se prostitui peca contra o seu próprio corpo."
+            },
+            {
+                "id": "v6.19",
+                "versicle_number": 19,
+                "text": "Ou não sabeis que o nosso corpo é o templo do Espírito Santo,{note:3} que habita em vós, proveniente de Deus, e que não sois de vós mesmos?"
+            },
+            {
+                "id": "v6.20",
+                "versicle_number": 20,
+                "text": "Porque fostes comprados por bom preço; glorificai pois a Deus no vosso corpo, e no vosso espírito, os quais pertencem a Deus."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v6.12",
+                "text": "Os nossos corpos são membros de Cristo"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 6.12 1Co 10.23"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 6.16 Gn 2.24"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 6.19 1Co 3.16; 2Co 6.16"
+            }
+        ]
+    }
+}

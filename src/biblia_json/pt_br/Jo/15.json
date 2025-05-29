@@ -1,0 +1,167 @@
+{
+    "book": {
+        "id": "Jo",
+        "book_number": 43,
+        "new_testament": true,
+        "num_chapters": 21,
+        "book_name": "JOÃO",
+        "book_full_name": "O SANTO EVANGELHO SEGUNDO JOÃO"
+    },
+    "chapter": {
+        "chapter_number": 15,
+        "chapter_reference": "",
+        "chapter_title": "Continuação das últimas instruções aos discípulos. União íntima entre Jesus e os crentes",
+        "versicles": [
+            {
+                "id": "v15.1",
+                "versicle_number": 1,
+                "text": "EU SOU a videira verdadeira, e meu Pai é o lavrador."
+            },
+            {
+                "id": "v15.2",
+                "versicle_number": 2,
+                "text": "Toda a vara em mim, que não dá fruto, a tira; e limpa toda aquela que dá fruto, para que dê mais fruto."
+            },
+            {
+                "id": "v15.3",
+                "versicle_number": 3,
+                "text": "Vós já estais limpos, pela palavra que vos tenho falado."
+            },
+            {
+                "id": "v15.4",
+                "versicle_number": 4,
+                "text": "Estai em mim, e eu em vós: como a vara de si mesma não pode dar fruto, se não estiver na videira, assim também vós, se não estiverdes em mim."
+            },
+            {
+                "id": "v15.5",
+                "versicle_number": 5,
+                "text": "Eu sou a videira, vós as varas: quem está em mim, e eu nele, esse dá muito fruto; porque sem mim nada podeis fazer."
+            },
+            {
+                "id": "v15.6",
+                "versicle_number": 6,
+                "text": "Se alguém não estiver em mim, será lançado fora, como a vara, e secará; e os colhem e lançam no fogo, e ardem."
+            },
+            {
+                "id": "v15.7",
+                "versicle_number": 7,
+                "text": "Se vós estiverdes em mim, e as minhas palavras estiverem em vós, pedireis tudo o que quiserdes, e vos será feito."
+            },
+            {
+                "id": "v15.8",
+                "versicle_number": 8,
+                "text": "Nisto é glorificado meu Pai, que deis muito fruto; e assim sereis meus discípulos."
+            },
+            {
+                "id": "v15.9",
+                "versicle_number": 9,
+                "text": "Como o Pai me amou, também eu vos amei a vós; permanecei no meu amor."
+            },
+            {
+                "id": "v15.10",
+                "versicle_number": 10,
+                "text": "Se guardardes os meus mandamentos, permanecereis no meu amor; do mesmo modo que eu tenho guardado os mandamentos de meu Pai, e permaneço no seu amor."
+            },
+            {
+                "id": "v15.11",
+                "versicle_number": 11,
+                "text": "Tenho-vos dito isto, para que o meu gozo permaneça em vós, e o vosso gozo seja completo."
+            },
+            {
+                "id": "v15.12",
+                "versicle_number": 12,
+                "text": "O meu mandamento é este: Que vos ameis uns aos outros,{note:1} assim como eu vos amei."
+            },
+            {
+                "id": "v15.13",
+                "versicle_number": 13,
+                "text": "Ninguém tem maior amor do que este: de dar alguém a sua vida pelos seus amigos."
+            },
+            {
+                "id": "v15.14",
+                "versicle_number": 14,
+                "text": "Vós sereis meus amigos, se fizerdes o que eu vos mando."
+            },
+            {
+                "id": "v15.15",
+                "versicle_number": 15,
+                "text": "Já vos não chamarei servos, porque o servo não sabe o que faz o seu senhor, mas tenho-vos chamado amigos, porque tudo quanto ouvi de meu Pai vos tenho feito conhecer."
+            },
+            {
+                "id": "v15.16",
+                "versicle_number": 16,
+                "text": "Não me escolhestes vós a mim, mas eu vos escolhi a vós, e vos nomeei, para que vades e deis fruto, e o vosso fruto permaneça; a fim de que tudo quanto em meu nome pedirdes ao Pai ele vo-lo conceda."
+            },
+            {
+                "id": "v15.17",
+                "versicle_number": 17,
+                "text": "Isto vos mando: que vos ameis uns aos outros."
+            },
+            {
+                "id": "v15.18",
+                "versicle_number": 18,
+                "text": "Se o mundo vos aborrece, sabei que, primeiro do que a vós, me aborreceu a mim."
+            },
+            {
+                "id": "v15.19",
+                "versicle_number": 19,
+                "text": "Se vós fôsseis do mundo, o mundo amaria o que era seu, mas, porque não sois do mundo, antes eu vos escolhi do mundo, por isso é que o mundo vos aborrece."
+            },
+            {
+                "id": "v15.20",
+                "versicle_number": 20,
+                "text": "Lembrai-vos da palavra que vos disse: Não é o servo{note:2} maior do que o seu senhor. Se a mim me perseguiram, também vos perseguirão a vós; se guardarem a minha palavra, também guardarão a vossa."
+            },
+            {
+                "id": "v15.21",
+                "versicle_number": 21,
+                "text": "Mas tudo isto vos farão por causa do meu nome; porque não conhecem aquele que me enviou."
+            },
+            {
+                "id": "v15.22",
+                "versicle_number": 22,
+                "text": "Se eu não viera, nem lhes houvera falado, não teriam pecado, mas agora não têm desculpa do seu pecado."
+            },
+            {
+                "id": "v15.23",
+                "versicle_number": 23,
+                "text": "Aquele que me aborrece, aborrece também a meu Pai."
+            },
+            {
+                "id": "v15.24",
+                "versicle_number": 24,
+                "text": "Se eu entre eles não fizesse tais obras, quais nenhum outro têm feito, não teriam pecado; mas agora, viram-nas e me aborreceram a mim e a meu Pai."
+            },
+            {
+                "id": "v15.25",
+                "versicle_number": 25,
+                "text": "Mas é para que se cumpra a palavra que está escrita na sua lei: Aborreceram-me sem causa.{note:3}"
+            },
+            {
+                "id": "v15.26",
+                "versicle_number": 26,
+                "text": "Mas, quando vier o Consolador, que eu da parte do Pai vos hei de enviar, aquele Espírito de verdade, que procede do Pai, ele testificará de mim."
+            },
+            {
+                "id": "v15.27",
+                "versicle_number": 27,
+                "text": "E vós também testificareis, pois estivestes comigo desde o princípio."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 15.12 Jo 13.34; 15.17; 1Jo 3.23; 2Jo 5"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 15.20 Mt 10.24; Lc 6.40; Jo 13.16"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 15.25 Sl 35.19; 69.4"
+            }
+        ]
+    }
+}

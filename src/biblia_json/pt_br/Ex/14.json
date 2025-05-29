@@ -1,0 +1,190 @@
+{
+    "book": {
+        "id": "Ex",
+        "book_number": 2,
+        "new_testament": false,
+        "num_chapters": 40,
+        "book_name": "ÊXODO",
+        "book_full_name": "O SEGUNDO LIVRO DE MOISÉS ÊXODO"
+    },
+    "chapter": {
+        "chapter_number": 14,
+        "chapter_reference": "",
+        "chapter_title": "Deus anuncia a ruína dos egípcios",
+        "versicles": [
+            {
+                "id": "v14.1",
+                "versicle_number": 1,
+                "text": "ENTÃO falou o Senhor a Moisés, dizendo:"
+            },
+            {
+                "id": "v14.2",
+                "versicle_number": 2,
+                "text": "Fala aos filhos de Israel que voltem, e que acampem diante de Pi-Hairote, entre Migdol e o mar, diante de Baal-Zefom: em frente dele assentareis o campo junto ao mar."
+            },
+            {
+                "id": "v14.3",
+                "versicle_number": 3,
+                "text": "Então Faraó dirá dos filhos de Israel: Estão embaraçados na terra, o deserto os encerrou."
+            },
+            {
+                "id": "v14.4",
+                "versicle_number": 4,
+                "text": "E eu endurecerei o coração de Faraó, para que os persiga, e serei glorificado em Faraó em todo o seu exército, e saberão os egípcios que eu sou o Senhor. E eles fizeram assim."
+            },
+            {
+                "id": "v14.5",
+                "versicle_number": 5,
+                "text": "Sendo pois anunciado ao rei do Egito que o povo fugia, mudou-se o coração de Faraó e dos seus servos contra o povo, e disseram: Por que fizemos isso havendo deixado ir a Israel, para que nos não sirva?"
+            },
+            {
+                "id": "v14.6",
+                "versicle_number": 6,
+                "text": "E aprontou o seu carro, e tomou consigo o seu povo;"
+            },
+            {
+                "id": "v14.7",
+                "versicle_number": 7,
+                "text": "E tomou seiscentos carros escolhidos, e todos os carros do Egito, e os capitães sobre eles todos."
+            },
+            {
+                "id": "v14.8",
+                "versicle_number": 8,
+                "text": "Porque o Senhor endureceu o coração de Faraó, rei do Egito, para que perseguisse aos filhos de Israel; porém os filhos de Israel saíram com alta mão."
+            },
+            {
+                "id": "v14.9",
+                "versicle_number": 9,
+                "text": "E os egípcios perseguiram-nos, todos os cavalos e carros de Faraó, e os seus cavaleiros, e o seu exército, e alcançaram-nos acampados junto ao mar, perto de Pi-Hairote, diante de Baal-Zefom."
+            },
+            {
+                "id": "v14.10",
+                "versicle_number": 10,
+                "text": "E, chegando Faraó, os filhos de Israel levantaram seus olhos, e eis que os egípcios vinham atrás deles, e temeram muito; então os filhos de Israel clamaram ao Senhor."
+            },
+            {
+                "id": "v14.11",
+                "versicle_number": 11,
+                "text": "E disseram a Moisés: Não havia sepulcros no Egito, para nos tirares de lá, para que morramos neste deserto? Por que nos fizeste isto, que nos tens tirado do Egito?"
+            },
+            {
+                "id": "v14.12",
+                "versicle_number": 12,
+                "text": "Não é esta a palavra que te temos falado no Egito, dizendo: Deixa-nos, que sirvamos aos egípcios? pois que melhor nos fora servir aos egípcios, do que morrermos no deserto."
+            },
+            {
+                "id": "v14.13",
+                "versicle_number": 13,
+                "text": "Moisés, porém, disse ao povo: Não temais; estai quietos e vede o livramento do Senhor, que hoje vos fará; porque aos egípcios, que hoje vistes, nunca mais vereis para sempre:"
+            },
+            {
+                "id": "v14.14",
+                "versicle_number": 14,
+                "text": "O Senhor pelejará por vós e vos calareis."
+            },
+            {
+                "id": "v14.15",
+                "versicle_number": 15,
+                "text": "Então disse o Senhor a Moisés: Por que clamas a mim? dize aos filhos de Israel que marchem."
+            },
+            {
+                "id": "v14.16",
+                "versicle_number": 16,
+                "text": "E tu, levanta a tua vara, e estende a tua mão sobre o mar, e fende-o, para que os filhos de Israel passem pelo meio do mar em seco."
+            },
+            {
+                "id": "v14.17",
+                "versicle_number": 17,
+                "text": "E eis que endurecerei o coração dos egípcios, para que entrem nele atrás deles; e eu serei glorificado em Faraó, e em todo o seu exército, nos seus carros e nos cavaleiros,"
+            },
+            {
+                "id": "v14.18",
+                "versicle_number": 18,
+                "text": "E os egípcios saberão que eu sou o Senhor, quando for glorificado em Faraó, nos seus carros e nos seus cavaleiros."
+            },
+            {
+                "id": "v14.19",
+                "versicle_number": 19,
+                "text": "E o anjo de Deus, que ia diante do exército de Israel, se retirou, e ia atrás deles: também a coluna de nuvem se retirou de diante deles, e se pôs atrás deles."
+            },
+            {
+                "id": "v14.20",
+                "versicle_number": 20,
+                "text": "E ia entre o campo dos egípcios e o campo de Israel: e a nuvem era escuridade para aqueles, e para estes esclarecia a noite: de maneira que em toda a noite não chegou um ao outro."
+            },
+            {
+                "id": "v14.21",
+                "versicle_number": 21,
+                "text": "Então Moisés estendeu a sua mão sobre o mar, e o Senhor fez retirar o mar por um forte vento oriental toda aquela noite; e o mar tornou-se em seco, e as águas foram partidas."
+            },
+            {
+                "id": "v14.22",
+                "versicle_number": 22,
+                "text": "E os filhos de Israel entraram pelo meio{note:1} do mar em seco: e as águas foram-lhes como muro à sua direita e à sua esquerda."
+            },
+            {
+                "id": "v14.23",
+                "versicle_number": 23,
+                "text": "E os egípcios seguiram-nos e entraram atrás deles todos os cavalos de Faraó, os seus carros e os seus cavaleiros, até ao meio do mar."
+            },
+            {
+                "id": "v14.24",
+                "versicle_number": 24,
+                "text": "E aconteceu que, na vigília daquela manhã, o Senhor, na coluna de fogo e da nuvem, viu o campo dos egípcios: e alvoroçou o campo dos egípcios,"
+            },
+            {
+                "id": "v14.25",
+                "versicle_number": 25,
+                "text": "E tirou-lhes as rodas dos seus carros, e fê-los andar dificultosamente. Então disseram os egípcios: Fujamos da face de Israel, porque o Senhor por eles peleja contra os egípcios."
+            },
+            {
+                "id": "v14.26",
+                "versicle_number": 26,
+                "text": "E disse o Senhor a Moisés: Estende a tua mão sobre o mar, para que as águas tornem sobre os egípcios, sobre os seus carros e sobre os seus cavaleiros."
+            },
+            {
+                "id": "v14.27",
+                "versicle_number": 27,
+                "text": "Então Moisés estendeu a sua mão sobre o mar e o mar retomou a sua força ao amanhecer, e os egípcios fugiram ao seu encontro: e o Senhor derribou os egípcios no meio do mar,"
+            },
+            {
+                "id": "v14.28",
+                "versicle_number": 28,
+                "text": "Porque as águas, tornando, cobriram os carros e os cavaleiros de todo o exército de Faraó, que os haviam seguido no mar: nem ainda um deles ficou."
+            },
+            {
+                "id": "v14.29",
+                "versicle_number": 29,
+                "text": "Mas os filhos de Israel foram pelo meio do mar seco: e as águas foram-lhes como muro à sua mão direita e à sua esquerda."
+            },
+            {
+                "id": "v14.30",
+                "versicle_number": 30,
+                "text": "Assim o Senhor salvou Israel naquele dia da mão dos egípcios: e Israel viu os egípcios mortos na praia do mar."
+            },
+            {
+                "id": "v14.31",
+                "versicle_number": 31,
+                "text": "E viu Israel a grande mão que o Senhor mostrara aos egípcios; e temeu o povo ao Senhor, e creram no Senhor e em Moisés, seu servo."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v14.15",
+                "text": "A passagem pelo meio do mar"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v14.27",
+                "text": "Os egípcios perecem no mar"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 14.22 Hb 11.29"
+            }
+        ]
+    }
+}

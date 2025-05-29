@@ -1,0 +1,163 @@
+{
+    "book": {
+        "id": "2Sm",
+        "book_number": 10,
+        "new_testament": false,
+        "num_chapters": 24,
+        "book_name": "SAMUEL",
+        "book_full_name": "O SEGUNDO LIVRO DE SAMUEL"
+    },
+    "chapter": {
+        "chapter_number": 5,
+        "chapter_reference": "",
+        "chapter_title": "Davi é constituído rei de todo o Israel",
+        "versicles": [
+            {
+                "id": "v5.1",
+                "versicle_number": 1,
+                "text": "ENTÃO todas as tribos de Israel vieram a Davi, a Hebrom, e falaram, dizendo: Eis-nos aqui, teus ossos e tua carne somos."
+            },
+            {
+                "id": "v5.2",
+                "versicle_number": 2,
+                "text": "E também dantes, sendo Saul ainda rei sobre nós, eras tu o que saías e entravas com Israel; e também o Senhor te disse: tu apascentarás o meu povo de Israel e tu serás chefe sobre Israel."
+            },
+            {
+                "id": "v5.3",
+                "versicle_number": 3,
+                "text": "Assim pois todos os anciãos de Israel vieram ao rei, a Hebrom; e o rei Davi fez com eles aliança em Hebrom, perante o Senhor: e ungiram a Davi rei sobre Israel."
+            },
+            {
+                "id": "v5.4",
+                "versicle_number": 4,
+                "text": "Da idade de trinta anos era Davi quando começou a reinar: quarenta anos reinou.{note:1}"
+            },
+            {
+                "id": "v5.5",
+                "versicle_number": 5,
+                "text": "Em Hebrom reinou{note:2} sobre Judá sete anos e seis meses, e em Jerusalém reinou trinta e três anos sobre todo o Israel e Judá."
+            },
+            {
+                "id": "v5.6",
+                "versicle_number": 6,
+                "text": "E partiu o rei com os seus homens a Jerusalém, contra os jebuseus{note:3} que habitavam naquela terra e que falaram a Davi, dizendo: Não entrarás aqui, a menos que lances fora os cegos e os coxos; querendo dizer: Não entrará Davi aqui."
+            },
+            {
+                "id": "v5.7",
+                "versicle_number": 7,
+                "text": "Porém Davi tomou a fortaleza de Sião: esta é a cidade de Davi."
+            },
+            {
+                "id": "v5.8",
+                "versicle_number": 8,
+                "text": "Porque Davi disse naquele dia: Qualquer que ferir aos jebuseus, e chegar ao canal, e aos coxos e aos cegos, que a alma de Davi aborrece, será cabeça e capitão. Por isso se diz: Nem cego nem coxo entrará nesta casa."
+            },
+            {
+                "id": "v5.9",
+                "versicle_number": 9,
+                "text": "Assim habitou Davi na fortaleza, e lhe chamou a cidade de Davi: e Davi foi edificando em redor, desde Milo até dentro."
+            },
+            {
+                "id": "v5.10",
+                "versicle_number": 10,
+                "text": "E Davi se ia cada vez mais aumentando e crescendo, porque o Senhor Deus dos exércitos era com ele."
+            },
+            {
+                "id": "v5.11",
+                "versicle_number": 11,
+                "text": "E Hirão, rei de Tiro, enviou mensageiros a Davi, e madeira de cedro, e carpinteiros, e pedreiros, que edificaram a Davi uma casa."
+            },
+            {
+                "id": "v5.12",
+                "versicle_number": 12,
+                "text": "E entendeu Davi que o Senhor o confirmava rei sobre Israel, e que exaltara o seu reino por amor do seu povo."
+            },
+            {
+                "id": "v5.13",
+                "versicle_number": 13,
+                "text": "E tomou Davi mais concubinas e mulheres de Jerusalém depois que viera de Hebrom: e nasceram a Davi mais filhos e filhas."
+            },
+            {
+                "id": "v5.14",
+                "versicle_number": 14,
+                "text": "E estes são os nomes dos que lhe nasceram em Jerusalém: Sâmua, e Sobabe, e Natã, e Salomão."
+            },
+            {
+                "id": "v5.15",
+                "versicle_number": 15,
+                "text": "E Ibar, e Elisua, e Nefegue, e Jafia,"
+            },
+            {
+                "id": "v5.16",
+                "versicle_number": 16,
+                "text": "E Elisama, e Eliada, e Elifelete."
+            },
+            {
+                "id": "v5.17",
+                "versicle_number": 17,
+                "text": "Ouvindo pois os filisteus que haviam ungido a Davi rei sobre Israel, todos os filisteus subiram em busca de Davi: o que ouvindo Davi, desceu à fortaleza."
+            },
+            {
+                "id": "v5.18",
+                "versicle_number": 18,
+                "text": "E os filisteus vieram, e se estenderam pelo vale de Refaim."
+            },
+            {
+                "id": "v5.19",
+                "versicle_number": 19,
+                "text": "E Davi consultou ao Senhor, dizendo: Subirei contra os filisteus? entregar-mos-ás nas minhas mãos? E disse o Senhor a Davi: Sobe, porque certamente entregarei os filisteus nas tuas mãos."
+            },
+            {
+                "id": "v5.20",
+                "versicle_number": 20,
+                "text": "Então veio Davi a Baal-Perazim; e feriu-os ali Davi, e disse: Rompeu o Senhor a meus inimigos diante de mim, como quem rompe águas. Por isso chamou o nome daquele lugar Baal-Perazim."
+            },
+            {
+                "id": "v5.21",
+                "versicle_number": 21,
+                "text": "E deixaram ali os seus ídolos; e Davi e os seus homens os tomaram."
+            },
+            {
+                "id": "v5.22",
+                "versicle_number": 22,
+                "text": "E os filisteus tornaram a subir, e se estenderam pelo vale de Refaim."
+            },
+            {
+                "id": "v5.23",
+                "versicle_number": 23,
+                "text": "E Davi consultou ao Senhor, o qual disse: Não subirás: mas rodeia por detrás deles, e virás a eles por defronte das amoreiras."
+            },
+            {
+                "id": "v5.24",
+                "versicle_number": 24,
+                "text": "E há de ser que, ouvindo tu um estrondo de marcha pelas copas das amoreiras, então te apressarás: porque o Senhor saiu então diante de ti, a ferir o arraial dos filisteus."
+            },
+            {
+                "id": "v5.25",
+                "versicle_number": 25,
+                "text": "E fez Davi assim como o Senhor lhe tinha ordenado: e feriu os filisteus desde Gibeá, até chegar a Gezer."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v5.13",
+                "text": "Os filhos de Davi que nasceram em Jerusalém"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 5.4 1Rs 2.11; 1Cr 29.27"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 5.5 1Cr 3.4; 29.27"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 5.6 Js 15.63; Jz 1.21"
+            }
+        ]
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 45,
+        "chapter_reference": "",
+        "chapter_title": "Descrição profética da união entre Cristo e a sua igreja",
+        "versicles": [
+            {
+                "id": "v45.1",
+                "versicle_number": 1,
+                "text": "O MEU coração ferve com palavras boas; falo do que tenho feito no tocante ao Rei: a minha língua é a pena de um destro escritor."
+            },
+            {
+                "id": "v45.2",
+                "versicle_number": 2,
+                "text": "Tu és mais formoso do que os filhos dos homens, a graça se derramou em teus lábios; por isso Deus te abençoou para sempre."
+            },
+            {
+                "id": "v45.3",
+                "versicle_number": 3,
+                "text": "Cinge a tua espada à coxa, ó Valente, com a tua glória e a tua majestade."
+            },
+            {
+                "id": "v45.4",
+                "versicle_number": 4,
+                "text": "E {note:i}neste teu esplendor cavalga prosperamente, pela causa da verdade, da mansidão e da justiça; e a tua destra te ensinará cousas terríveis."
+            },
+            {
+                "id": "v45.5",
+                "versicle_number": 5,
+                "text": "As tuas frechas são agudas {note:j}no coração dos inimigos do Rei, e por elas os povos caíram debaixo de ti."
+            },
+            {
+                "id": "v45.6",
+                "versicle_number": 6,
+                "text": "O teu trono, ó Deus, é eterno e perpétuo; o cetro do teu reino é um cetro de equidade."
+            },
+            {
+                "id": "v45.7",
+                "versicle_number": 7,
+                "text": "Tu amas a justiça e aborreces a impiedade; por isso Deus, o teu Deus te ungiu com óleo de alegria, mais do que a teus companheiros.{note:1}"
+            },
+            {
+                "id": "v45.8",
+                "versicle_number": 8,
+                "text": "Todos os teus vestidos cheiram a mirra, a aloés e a cássia, desde os palácios de marfim de onde te alegram."
+            },
+            {
+                "id": "v45.9",
+                "versicle_number": 9,
+                "text": "As filhas dos reis estavam entre as tuas ilustres donzelas; à tua direita estava a rainha ornada de finíssimo ouro de Ofir."
+            },
+            {
+                "id": "v45.10",
+                "versicle_number": 10,
+                "text": "Ouve filha, e olha, e inclina teus ouvidos; esquece-te do teu povo e da casa de teu pai."
+            },
+            {
+                "id": "v45.11",
+                "versicle_number": 11,
+                "text": "Então o rei se afeiçoará à tua formosura, pois ele é teu Senhor; adora-o."
+            },
+            {
+                "id": "v45.12",
+                "versicle_number": 12,
+                "text": "E a filha de Tiro estará ali com presentes; os ricos do povo suplicarão o teu favor."
+            },
+            {
+                "id": "v45.13",
+                "versicle_number": 13,
+                "text": "A filha do rei é toda ilustre no seu palácio; as suas vestes são de ouro tecido."
+            },
+            {
+                "id": "v45.14",
+                "versicle_number": 14,
+                "text": "Levá-la-ão ao rei com vestidos bordados; as virgens que a acompanham a trarão a ti."
+            },
+            {
+                "id": "v45.15",
+                "versicle_number": 15,
+                "text": "Com alegria e regozijo serão trazidas: elas entrarão no palácio do rei."
+            },
+            {
+                "id": "v45.16",
+                "versicle_number": 16,
+                "text": "Em lugar de teus pais será a teus filhos que farás príncipes sobre toda a terra."
+            },
+            {
+                "id": "v45.17",
+                "versicle_number": 17,
+                "text": "Farei lembrado o teu nome de geração em geração; pelo que os povos te louvarão eternamente."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:i} 45.4 ou em tua majestade cavalga"
+            },
+            {
+                "id": "n2",
+                "text": "{note:j} 45.5 ou os povos caíram debaixo de ti; elas estão no coração"
+            },
+            {
+                "id": "n3",
+                "text": "{note:1} 45.6-7 Hb 1.8-9"
+            }
+        ]
+    }
+}

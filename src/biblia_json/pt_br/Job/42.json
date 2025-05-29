@@ -1,0 +1,120 @@
+{
+    "book": {
+        "id": "Job",
+        "book_number": 18,
+        "new_testament": false,
+        "num_chapters": 42,
+        "book_name": "JÓ",
+        "book_full_name": "O LIVRO DE JÓ"
+    },
+    "chapter": {
+        "chapter_number": 42,
+        "chapter_reference": "",
+        "chapter_title": "Jó humilha-se perante Deus e dá-lhe glória",
+        "versicles": [
+            {
+                "id": "v42.1",
+                "versicle_number": 1,
+                "text": "ENTÃO respondeu Jó ao Senhor, e disse:"
+            },
+            {
+                "id": "v42.2",
+                "versicle_number": 2,
+                "text": "Bem sei eu que tudo podes, e nenhum dos teus pensamentos pode ser impedido."
+            },
+            {
+                "id": "v42.3",
+                "versicle_number": 3,
+                "text": "Quem é aquele, dizes tu, que sem conhecimento encobre o conselho? Por isso falei do que não entendia; cousas que para mim eram maravilhosíssimas, e que eu não compreendia."
+            },
+            {
+                "id": "v42.4",
+                "versicle_number": 4,
+                "text": "Escuta-me, pois, e eu falarei; eu te perguntarei, e tu ensina-me."
+            },
+            {
+                "id": "v42.5",
+                "versicle_number": 5,
+                "text": "Com o ouvir dos meus ouvidos ouvi, mas agora te veem os meus olhos."
+            },
+            {
+                "id": "v42.6",
+                "versicle_number": 6,
+                "text": "Por isso me abomino e me arrependo no pó e na cinza."
+            },
+            {
+                "id": "v42.7",
+                "versicle_number": 7,
+                "text": "Sucedeu pois que, acabando o Senhor de dizer a Jó aquelas palavras, o Senhor disse a Elifaz, o temanita: A minha ira se acendeu contra ti, e contra os teus dois amigos; porque não dissestes de mim o que era reto, como o meu servo Jó."
+            },
+            {
+                "id": "v42.8",
+                "versicle_number": 8,
+                "text": "Tomai pois sete bezerros e sete carneiros, e ide ao meu servo Jó, e oferecei holocaustos por vós, e o meu servo Jó orará por vós; porque deveras a ele aceitarei, para que eu vos não trate conforme a vossa loucura; porque vós não falastes de mim o que era reto como o meu servo Jó."
+            },
+            {
+                "id": "v42.9",
+                "versicle_number": 9,
+                "text": "Então foram Elifaz, o temanita e Bildade, o suíta, e Sofar, o naamatita, e fizeram como o Senhor lhes dissera; e o Senhor aceitou a face de Jó."
+            },
+            {
+                "id": "v42.10",
+                "versicle_number": 10,
+                "text": "E o Senhor virou o cativeiro de Jó,{note:1} quando orava pelos seus amigos; e o Senhor acrescentou a Jó outro tanto em dobro a tudo quanto dantes possuía."
+            },
+            {
+                "id": "v42.11",
+                "versicle_number": 11,
+                "text": "Então vieram a ele todos os seus irmãos e todas as suas irmãs e todos quantos dantes o conheceram, e comeram com ele pão em sua casa, e se condoeram dele, e o consolaram de todo o mal que o Senhor lhe havia enviado; e cada um deles lhe deu uma peça de dinheiro, e cada um um pendente de ouro."
+            },
+            {
+                "id": "v42.12",
+                "versicle_number": 12,
+                "text": "E assim abençoou o Senhor o último estado de Jó, mais do que o primeiro; porque teve catorze mil ovelhas, e seis mil camelos, e mil juntas de bois, e mil jumentas."
+            },
+            {
+                "id": "v42.13",
+                "versicle_number": 13,
+                "text": "Também teve sete filhos e três filhas."
+            },
+            {
+                "id": "v42.14",
+                "versicle_number": 14,
+                "text": "E chamou o nome da primeira Jemima, e o nome da outra Cássia, e o nome da terceira Quéren-Hapuque."
+            },
+            {
+                "id": "v42.15",
+                "versicle_number": 15,
+                "text": "E em toda a terra não se acharam mulheres tão formosas como as filhas de Jó; e seu pai lhes deu herança entre seus irmãos."
+            },
+            {
+                "id": "v42.16",
+                "versicle_number": 16,
+                "text": "E depois disto viveu Jó cento e quarenta anos; e viu a seus filhos, e aos filhos de seus filhos, até à quarta geração."
+            },
+            {
+                "id": "v42.17",
+                "versicle_number": 17,
+                "text": "Então morreu Jó, velho e farto de dias."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v42.7",
+                "text": "Deus manda os amigos de Jó ir ter com ele e oferecer sacrifícios"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v42.10",
+                "text": "Deus confere a Jó o dobro da prosperidade que antes tinha"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 42.10 Jó 1.1-3"
+            }
+        ]
+    }
+}

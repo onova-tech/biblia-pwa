@@ -1,0 +1,122 @@
+{
+    "book": {
+        "id": "2Sm",
+        "book_number": 10,
+        "new_testament": false,
+        "num_chapters": 24,
+        "book_name": "SAMUEL",
+        "book_full_name": "O SEGUNDO LIVRO DE SAMUEL"
+    },
+    "chapter": {
+        "chapter_number": 8,
+        "chapter_reference": "",
+        "chapter_title": "As vitórias de Davi sobre várias nações",
+        "versicles": [
+            {
+                "id": "v8.1",
+                "versicle_number": 1,
+                "text": "E SUCEDEU depois disto que Davi feriu os filisteus, e os sujeitou: e Davi tomou a {note:e}Mete-Gamá das mãos dos filisteus."
+            },
+            {
+                "id": "v8.2",
+                "versicle_number": 2,
+                "text": "Também feriu os moabitas, e os mediu com cordel, fazendo-os deitar por terra, e os mediu com dois cordéis para os matar, e com um cordel inteiro para os deixar em vida: ficaram assim os moabitas por servos de Davi, trazendo presentes."
+            },
+            {
+                "id": "v8.3",
+                "versicle_number": 3,
+                "text": "Feriu também Davi a Hadadezer, filho de Recobe, rei de Zobá, indo ele a virar a sua mão para o rio Eufrates."
+            },
+            {
+                "id": "v8.4",
+                "versicle_number": 4,
+                "text": "E tomou-lhe Davi mil e seiscentos cavaleiros e vinte mil homens de pé: e Davi jarretou a todos os cavalos dos carros, e reservou deles cem carros."
+            },
+            {
+                "id": "v8.5",
+                "versicle_number": 5,
+                "text": "E vieram os siros de Damasco a socorrer a Hadadezer, rei de Zobá: porém Davi feriu dos siros vinte e dois mil homens."
+            },
+            {
+                "id": "v8.6",
+                "versicle_number": 6,
+                "text": "E Davi pôs guarnições em Síria de Damasco, e os siros ficaram por servos de Davi, trazendo presentes: e o Senhor guardou a Davi por onde quer que ia."
+            },
+            {
+                "id": "v8.7",
+                "versicle_number": 7,
+                "text": "E Davi tomou os escudos de ouro que havia com os servos de Hadadezer, e os trouxe a Jerusalém."
+            },
+            {
+                "id": "v8.8",
+                "versicle_number": 8,
+                "text": "Tomou mais o rei Davi uma quantidade mui grande de bronze de Betá e de Berotai cidades de Hadadezer."
+            },
+            {
+                "id": "v8.9",
+                "versicle_number": 9,
+                "text": "Ouvindo então Toí, rei de Hamate, que Davi ferira a todo o exército de Hadadezer."
+            },
+            {
+                "id": "v8.10",
+                "versicle_number": 10,
+                "text": "Mandou Toí seu filho Jorão ao rei Davi, para lhe perguntar como estava, e para lhe dar os parabéns por haver pelejado contra Hadadezer, e por o haver ferido (porque Hadadezer de contínuo fazia guerra a Toí); e na sua mão trazia vasos de prata, e vasos de ouro, e vasos de bronze."
+            },
+            {
+                "id": "v8.11",
+                "versicle_number": 11,
+                "text": "Os quais também o rei Davi consagrou ao Senhor, juntamente com a prata e ouro que já havia consagrado de todas as nações que sujeitara."
+            },
+            {
+                "id": "v8.12",
+                "versicle_number": 12,
+                "text": "De Síria, e de Moabe, e dos filhos de Amom, e dos filisteus, e de Amaleque, e dos despojos de Hadadezer filho de Recobe rei de Zobá."
+            },
+            {
+                "id": "v8.13",
+                "versicle_number": 13,
+                "text": "Também Davi ganhou nome, voltando ele de ferir os siros no vale do Sal,{note:1} a saber, a dezoito mil."
+            },
+            {
+                "id": "v8.14",
+                "versicle_number": 14,
+                "text": "E pôs guarnições em Edom, em todo o Edom pôs guarnições, e todos os edomeus ficaram por servos de Davi: e o Senhor ajudava a Davi por onde quer que ia."
+            },
+            {
+                "id": "v8.15",
+                "versicle_number": 15,
+                "text": "Reinou pois Davi sobre todo o Israel: e Davi julgava e fazia justiça a todo o seu povo."
+            },
+            {
+                "id": "v8.16",
+                "versicle_number": 16,
+                "text": "E Joabe, filho de Zeruia, era sobre o exército; e Josafá, filho de Ailude, era cronista."
+            },
+            {
+                "id": "v8.17",
+                "versicle_number": 17,
+                "text": "E Zadoque, filho de Aitube, e Aimeleque, filho de Abiatar, eram sacerdotes, e Seraías escrivão."
+            },
+            {
+                "id": "v8.18",
+                "versicle_number": 18,
+                "text": "Também Benaia filho de Joiada, estava com os quereteus e peleteus: porém os filhos de Davi eram {note:f}príncipes."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:e} 8.1 que é o freio da cidade-mãe"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 8.13 Sl 60, título"
+            },
+            {
+                "id": "n3",
+                "text": "{note:f} 8.18 ou sacerdotes"
+            }
+        ]
+    }
+}

@@ -1,0 +1,219 @@
+{
+    "book": {
+        "id": "1Cr",
+        "book_number": 13,
+        "new_testament": false,
+        "num_chapters": 29,
+        "book_name": "CRÔNICAS",
+        "book_full_name": "O PRIMEIRO LIVRO DAS CRÔNICAS"
+    },
+    "chapter": {
+        "chapter_number": 8,
+        "chapter_reference": "",
+        "chapter_title": "Descendentes de Benjamim e de Saul",
+        "versicles": [
+            {
+                "id": "v8.1",
+                "versicle_number": 1,
+                "text": "E BENJAMIM gerou a Bela, seu primogênito, a Asbel o segundo, e a Aará o terceiro."
+            },
+            {
+                "id": "v8.2",
+                "versicle_number": 2,
+                "text": "A Noá o quarto, e a Rafa o quinto,"
+            },
+            {
+                "id": "v8.3",
+                "versicle_number": 3,
+                "text": "E Bela teve estes filhos: Adar, e Gera, e Abiúde."
+            },
+            {
+                "id": "v8.4",
+                "versicle_number": 4,
+                "text": "E Abisua, e Naamã, e Aoá,"
+            },
+            {
+                "id": "v8.5",
+                "versicle_number": 5,
+                "text": "E Gera, e Sefufã, e Hurão."
+            },
+            {
+                "id": "v8.6",
+                "versicle_number": 6,
+                "text": "E estes foram os filhos de Eude: estes foram chefes dos pais dos moradores de Geba, e os transportaram a Manaate;"
+            },
+            {
+                "id": "v8.7",
+                "versicle_number": 7,
+                "text": "E Naamã, e Aías, e Gera; a estes transportou, e gerou a Uzá e a Aiude."
+            },
+            {
+                "id": "v8.8",
+                "versicle_number": 8,
+                "text": "E Saaraim (depois de os enviar), na terra de Moabe, gerou, filhos de Husim e Baara, suas mulheres."
+            },
+            {
+                "id": "v8.9",
+                "versicle_number": 9,
+                "text": "E de Hodes, sua mulher, gerou a Jobabe, e a Zíbia, e a Messa, e a Malcã,"
+            },
+            {
+                "id": "v8.10",
+                "versicle_number": 10,
+                "text": "E a Jeús, e a Saquias, e a Mirma: estes foram seus filhos, chefes dos pais."
+            },
+            {
+                "id": "v8.11",
+                "versicle_number": 11,
+                "text": "E de Husim gerou a Abitude e a Elpaal."
+            },
+            {
+                "id": "v8.12",
+                "versicle_number": 12,
+                "text": "E foram os filhos de Elpaal: Éber, e Misã, e Sêmer: este edificou a Ono e a Lode e os lugares da sua jurisdição."
+            },
+            {
+                "id": "v8.13",
+                "versicle_number": 13,
+                "text": "E Beria e Sema foram cabeças dos pais dos moradores de Aijalom; estes afugentaram os moradores de Gate."
+            },
+            {
+                "id": "v8.14",
+                "versicle_number": 14,
+                "text": "E Aío, e Sasaque, e Jerimote,"
+            },
+            {
+                "id": "v8.15",
+                "versicle_number": 15,
+                "text": "E Zebadias, e Arade, e Eder,"
+            },
+            {
+                "id": "v8.16",
+                "versicle_number": 16,
+                "text": "E Micael, e Ispá, e Joá, foram filhos de Beria:"
+            },
+            {
+                "id": "v8.17",
+                "versicle_number": 17,
+                "text": "E Zebadias, e Mesulão, e Hizqui, e Héber,"
+            },
+            {
+                "id": "v8.18",
+                "versicle_number": 18,
+                "text": "E Ismerai, e Izlias, e Jobabe, filhos de Elpaal:"
+            },
+            {
+                "id": "v8.19",
+                "versicle_number": 19,
+                "text": "E Jaquim, e Zicri, e Zabdi,"
+            },
+            {
+                "id": "v8.20",
+                "versicle_number": 20,
+                "text": "E Elienai, e Ziletai, e Eliel,"
+            },
+            {
+                "id": "v8.21",
+                "versicle_number": 21,
+                "text": "E Adaías e Beraías, e Sinrate, filhos de Simei:"
+            },
+            {
+                "id": "v8.22",
+                "versicle_number": 22,
+                "text": "E Ispã, e Éber, e Eliel."
+            },
+            {
+                "id": "v8.23",
+                "versicle_number": 23,
+                "text": "E Abdom, e Zicri, e Hanã,"
+            },
+            {
+                "id": "v8.24",
+                "versicle_number": 24,
+                "text": "E Hananias, e Elão, e Antotija,"
+            },
+            {
+                "id": "v8.25",
+                "versicle_number": 25,
+                "text": "E Ifdias, e Penuel, filhos de Sasaque:"
+            },
+            {
+                "id": "v8.26",
+                "versicle_number": 26,
+                "text": "E Sanserai, e Searias, e Atalias,"
+            },
+            {
+                "id": "v8.27",
+                "versicle_number": 27,
+                "text": "E Jaaresias, e Elias, e Zicri, filhos de Jeroão."
+            },
+            {
+                "id": "v8.28",
+                "versicle_number": 28,
+                "text": "Estes foram chefes dos pais, segundo as suas gerações, e estes habitaram em Jerusalém."
+            },
+            {
+                "id": "v8.29",
+                "versicle_number": 29,
+                "text": "E em Gibeom habitou o pai de Gibeom: e era o nome de sua mulher Maaca;"
+            },
+            {
+                "id": "v8.30",
+                "versicle_number": 30,
+                "text": "E seu filho primogênito Abdom; depois Zur, e Quis, e Baal, e Nadabe,"
+            },
+            {
+                "id": "v8.31",
+                "versicle_number": 31,
+                "text": "E Gedor, e Aío e Zequer."
+            },
+            {
+                "id": "v8.32",
+                "versicle_number": 32,
+                "text": "E Miclote gerou a Simeia: e também estes, defronte de seus irmãos, habitaram em Jerusalém com seus irmãos."
+            },
+            {
+                "id": "v8.33",
+                "versicle_number": 33,
+                "text": "E Ner gerou a Quis, e Quis gerou a Saul; e Saul gerou a Jônatas, e a Malquisua, e a Abinadabe, e a Esbaal."
+            },
+            {
+                "id": "v8.34",
+                "versicle_number": 34,
+                "text": "E filho de Jônatas foi Meribaal: e Meribaal gerou a Mica."
+            },
+            {
+                "id": "v8.35",
+                "versicle_number": 35,
+                "text": "E os filhos de Mica foram: Pitom, e Meleque, e Tarea, e Acaz."
+            },
+            {
+                "id": "v8.36",
+                "versicle_number": 36,
+                "text": "E Acaz gerou a Joada, e Joada gerou a Aelemete, e a Azmavete, e a Zinri; e Zinri gerou a Mosa,"
+            },
+            {
+                "id": "v8.37",
+                "versicle_number": 37,
+                "text": "E Mosa gerou a Bina, cujo filho foi Rafa, cujo filho foi Elasa, cujo filho foi Asel."
+            },
+            {
+                "id": "v8.38",
+                "versicle_number": 38,
+                "text": "E teve Asel seis filhos, e estes foram os seus nomes: Azricão, e Bocru, e Ismael, e Searias, e Obadias, e Hanã: todos estes foram filhos de Asel."
+            },
+            {
+                "id": "v8.39",
+                "versicle_number": 39,
+                "text": "E os filhos de Eseque, seu irmão: Ulão, seu primogênito, Jeús o segundo, e Elifelete o terceiro."
+            },
+            {
+                "id": "v8.40",
+                "versicle_number": 40,
+                "text": "E foram os filhos de Ulão varões heróis, valentes, e frecheiros destros; e tiveram muitos filhos, e filhos de filhos, cento e cinquenta: todos estes foram dos filhos de Benjamim."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

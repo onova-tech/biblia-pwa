@@ -1,0 +1,47 @@
+{
+    "book": {
+        "id": "Mq",
+        "book_number": 33,
+        "new_testament": false,
+        "num_chapters": 7,
+        "book_name": "MIQUEIAS",
+        "book_full_name": "MIQUEIAS"
+    },
+    "chapters": [
+        {
+            "chapter_number": 1,
+            "chapter_reference": "",
+            "chapter_title": "Ameaças contra Israel e Judá por causa de sua injustiça e rebelião"
+        },
+        {
+            "chapter_number": 2,
+            "chapter_reference": "",
+            "chapter_title": ""
+        },
+        {
+            "chapter_number": 3,
+            "chapter_reference": "",
+            "chapter_title": "Ameaças contra os chefes e os falsos profetas"
+        },
+        {
+            "chapter_number": 4,
+            "chapter_reference": "",
+            "chapter_title": "O anúncio da vocação dos gentios"
+        },
+        {
+            "chapter_number": 5,
+            "chapter_reference": "",
+            "chapter_title": "Predição do nascimento do Messias e da instituição do seu reino"
+        },
+        {
+            "chapter_number": 6,
+            "chapter_reference": "",
+            "chapter_title": "A contenda do Senhor com o seu povo. As maldades de Israel: Deus não terá compaixão"
+        },
+        {
+            "chapter_number": 7,
+            "chapter_reference": "",
+            "chapter_title": ""
+        }
+    ]
+}

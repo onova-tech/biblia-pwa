@@ -1,0 +1,223 @@
+{
+    "book": {
+        "id": "Nm",
+        "book_number": 4,
+        "new_testament": false,
+        "num_chapters": 36,
+        "book_name": "NÚMEROS",
+        "book_full_name": "O QUARTO LIVRO DE MOISÉS NÚMEROS"
+    },
+    "chapter": {
+        "chapter_number": 21,
+        "chapter_reference": "",
+        "chapter_title": "Os israelitas destroem os cananeus",
+        "versicles": [
+            {
+                "id": "v21.1",
+                "versicle_number": 1,
+                "text": "OUVINDO o cananeu, o rei de Harade,{note:1} que habitava para a banda do sul, que Israel vinha pelo caminho dos espias, pelejou contra Israel, e dele levou alguns deles por prisioneiros."
+            },
+            {
+                "id": "v21.2",
+                "versicle_number": 2,
+                "text": "Então Israel fez um voto ao Senhor, dizendo: Se totalmente entregares este povo na minha mão, destruirei totalmente as suas cidades."
+            },
+            {
+                "id": "v21.3",
+                "versicle_number": 3,
+                "text": "O Senhor pois ouviu a voz de Israel, e entregou os cananeus, que foram destruídos totalmente, eles e as suas cidades: e o nome daquele lugar chamou Hormá."
+            },
+            {
+                "id": "v21.4",
+                "versicle_number": 4,
+                "text": "Então partiram do monte de Hor, pelo caminho do Mar Vermelho, a rodear a terra de Edom:{note:2} porém a alma do povo angustiou-se neste caminho."
+            },
+            {
+                "id": "v21.5",
+                "versicle_number": 5,
+                "text": "E o povo falou contra Deus e contra Moisés: Por que nos fizestes subir do Egito, para que morrêssemos neste deserto? pois aqui nem pão nem água há; e a nossa alma tem fastio deste pão tão vil."
+            },
+            {
+                "id": "v21.6",
+                "versicle_number": 6,
+                "text": "Então o Senhor mandou entre o povo serpentes ardentes, que morderam o povo; e morreu muito povo de Israel."
+            },
+            {
+                "id": "v21.7",
+                "versicle_number": 7,
+                "text": "Pelo que o povo veio a Moisés, e disse: Havemos pecado, porquanto temos falado contra o Senhor e contra ti; ora ao Senhor que tire de nós estas serpentes. Então Moisés orou pelo povo."
+            },
+            {
+                "id": "v21.8",
+                "versicle_number": 8,
+                "text": "E disse o Senhor a Moisés: Faze uma serpente ardente, e põe-na sobre uma haste: e será que viverá todo o mordido que olhar para ela."
+            },
+            {
+                "id": "v21.9",
+                "versicle_number": 9,
+                "text": "E Moisés fez uma serpente de metal,{note:3} e pô-la sobre uma haste; e era que, mordendo alguma serpente a alguém, olhava para a serpente de metal, e ficava vivo."
+            },
+            {
+                "id": "v21.10",
+                "versicle_number": 10,
+                "text": "Então os filhos de Israel partiram, e alojaram-se em Obote."
+            },
+            {
+                "id": "v21.11",
+                "versicle_number": 11,
+                "text": "Depois partiram de Obote, e alojaram-se nos outeiros de Abarim, no deserto que está defronte de Moabe, ao nascente do sol."
+            },
+            {
+                "id": "v21.12",
+                "versicle_number": 12,
+                "text": "Dali partiram, e alojaram-se junto ao ribeiro de Zerede."
+            },
+            {
+                "id": "v21.13",
+                "versicle_number": 13,
+                "text": "E dali partiram, e alojaram-se desta banda de Arnom, que está no deserto e sai dos termos dos amorreus: porque Arnom é o termo de Moabe, entre Moabe e os amorreus."
+            },
+            {
+                "id": "v21.14",
+                "versicle_number": 14,
+                "text": "Pelo que se diz no livro das guerras do Senhor: Contra Vaebe em Sufá, e contra os ribeiros de Arnom,"
+            },
+            {
+                "id": "v21.15",
+                "versicle_number": 15,
+                "text": "E contra a corrente dos ribeiros, que se volve para a situação de Ar, e se encosta aos termos de Moabe."
+            },
+            {
+                "id": "v21.16",
+                "versicle_number": 16,
+                "text": "E dali partiram para Beer; este é o poço do qual o Senhor disse a Moisés: Ajunta o povo, e lhe darei água."
+            },
+            {
+                "id": "v21.17",
+                "versicle_number": 17,
+                "text": "(Então Israel cantou este cântico: Sobe, poço, e vós cantai dele:"
+            },
+            {
+                "id": "v21.18",
+                "versicle_number": 18,
+                "text": "Tu poço, que cavaram os príncipes, que escavaram os nobres do povo, e o legislador com os seus bordões.) E do deserto partiram para Matana;"
+            },
+            {
+                "id": "v21.19",
+                "versicle_number": 19,
+                "text": "E de Matana para Naaliel, e de Naaliel para Bamote;"
+            },
+            {
+                "id": "v21.20",
+                "versicle_number": 20,
+                "text": "E de Bamote ao vale que está no campo de Moabe, no cume de Pisga, e à vista do deserto."
+            },
+            {
+                "id": "v21.21",
+                "versicle_number": 21,
+                "text": "Então Israel mandou mensageiros a Seom, rei dos amorreus, dizendo:"
+            },
+            {
+                "id": "v21.22",
+                "versicle_number": 22,
+                "text": "Deixa-me passar pela tua terra; não nos desviaremos pelos campos nem pelas vinhas, as águas dos poços não beberemos: iremos pela estrada real até que passemos os teus termos."
+            },
+            {
+                "id": "v21.23",
+                "versicle_number": 23,
+                "text": "Porém Seom não deixou passar a Israel pelos seus termos; antes Seom congregou todo o seu povo, e saiu ao encontro de Israel ao deserto, e veio a Jaaz, e pelejou contra Israel."
+            },
+            {
+                "id": "v21.24",
+                "versicle_number": 24,
+                "text": "Mas Israel o feriu ao fio da espada, e tomou a sua terra em possessão, desde Arnom até Jaboque, até aos filhos de Amom: porquanto o termo dos filhos de Amom era firme."
+            },
+            {
+                "id": "v21.25",
+                "versicle_number": 25,
+                "text": "Assim Israel tomou todas estas cidades: e Israel habitou em todas as cidades dos amorreus, em Hesbom e em todas as suas aldeias."
+            },
+            {
+                "id": "v21.26",
+                "versicle_number": 26,
+                "text": "Porque Hesbom era cidade de Seom, rei dos amorreus, que tinha pelejado contra o precedente rei dos moabitas, e tinha tomado da sua mão toda a sua terra até Arnom."
+            },
+            {
+                "id": "v21.27",
+                "versicle_number": 27,
+                "text": "Pelo que dizem os que falam em provérbios: Vinde a Hesbom; edifique-se e fortifique-se a cidade de Seom."
+            },
+            {
+                "id": "v21.28",
+                "versicle_number": 28,
+                "text": "Porque fogo saiu de Hesbom, e uma chama da cidade de Seom; e consumiu a Ar dos moabitas, e os senhores dos altos de Arnom."
+            },
+            {
+                "id": "v21.29",
+                "versicle_number": 29,
+                "text": "Ai de ti Moabe! perdido és, povo de Camós! Entregou seus filhos, que iam fugindo, e suas filhas, como cativas a Seom, rei dos amorreus."
+            },
+            {
+                "id": "v21.30",
+                "versicle_number": 30,
+                "text": "E nós os derribamos: Hesbom perdida é até Dibom, e os assolamos até Nofá, que se estende até Medeba."
+            },
+            {
+                "id": "v21.31",
+                "versicle_number": 31,
+                "text": "Assim Israel habitou na terra dos amorreus."
+            },
+            {
+                "id": "v21.32",
+                "versicle_number": 32,
+                "text": "Depois mandou Moisés espiar a Jaezer, e tomaram as suas aldeias, e daquela possessão lançaram os amorreus que estavam ali."
+            },
+            {
+                "id": "v21.33",
+                "versicle_number": 33,
+                "text": "Então viraram-se e subiram o caminho de Basã: e Ogue, rei de Basã, saiu contra eles, e todo o seu povo, à peleja em Edrei."
+            },
+            {
+                "id": "v21.34",
+                "versicle_number": 34,
+                "text": "E disse o Senhor a Moisés: Não o temas, porque eu to tenho dado na tua mão, a ele, e a todo o seu povo, e à sua terra, e far-lhe-ás como fizeste a Seom, rei dos amorreus, que habitava em Hesbom."
+            },
+            {
+                "id": "v21.35",
+                "versicle_number": 35,
+                "text": "E de tal maneira o feriram, a ele e a seus filhos e a todo o seu povo, que nenhum deles escapou: e tomaram a sua terra em possessão."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v21.4",
+                "text": "As serpentes ardentes e a serpente de metal"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v21.10",
+                "text": "Jornadas dos israelitas"
+            },
+            {
+                "id": "s3",
+                "next_versicle_id": "v21.20",
+                "text": "Os israelitas ferem os reis de Moabe e de Basã"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 21.1 Nm 33.40"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 21.4 Dt 2.1"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 21.9 Jo 3.14"
+            }
+        ]
+    }
+}

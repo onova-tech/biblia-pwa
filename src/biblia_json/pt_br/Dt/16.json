@@ -1,0 +1,156 @@
+{
+    "book": {
+        "id": "Dt",
+        "book_number": 5,
+        "new_testament": false,
+        "num_chapters": 34,
+        "book_name": "DEUTERONÔMIO",
+        "book_full_name": "O QUINTO LIVRO DE MOISÉS DEUTERONÔMIO"
+    },
+    "chapter": {
+        "chapter_number": 16,
+        "chapter_reference": "",
+        "chapter_title": "As três festas da páscoa, de pentecostes e dos tabernáculos",
+        "versicles": [
+            {
+                "id": "v16.1",
+                "versicle_number": 1,
+                "text": "GUARDA o mês de Abibe, e celebra a páscoa ao Senhor teu Deus: porque no mês de Abibe o Senhor teu Deus te tirou do Egito, de noite."
+            },
+            {
+                "id": "v16.2",
+                "versicle_number": 2,
+                "text": "Então sacrificarás a páscoa ao Senhor teu Deus, ovelhas e vacas, no lugar que o Senhor escolher para ali fazer habitar o seu nome."
+            },
+            {
+                "id": "v16.3",
+                "versicle_number": 3,
+                "text": "Nela não comerás levedado: sete dias nela comerás pães asmos, pão de aflição (porquanto apressadamente saíste da terra do Egito), para que te lembres do dia da tua saída da terra do Egito, todos os dias da tua vida."
+            },
+            {
+                "id": "v16.4",
+                "versicle_number": 4,
+                "text": "Levedado não aparecerá contigo por sete dias em todos os teus termos: também da carne que matares à tarde, no primeiro dia, nada ficará até à manhã."
+            },
+            {
+                "id": "v16.5",
+                "versicle_number": 5,
+                "text": "Não poderás sacrificar a páscoa em nenhuma das tuas portas que te dá o Senhor teu Deus."
+            },
+            {
+                "id": "v16.6",
+                "versicle_number": 6,
+                "text": "Senão no lugar que escolher o Senhor teu Deus, para fazer habitar o seu nome, ali sacrificarás a páscoa à tarde, ao pôr do sol, ao tempo determinado da tua saída do Egito."
+            },
+            {
+                "id": "v16.7",
+                "versicle_number": 7,
+                "text": "Então a cozerás, e comerás no lugar que escolher o Senhor teu Deus; depois sairás pela manhã, e irás às tuas tendas."
+            },
+            {
+                "id": "v16.8",
+                "versicle_number": 8,
+                "text": "Seis dias comerás pães asmos e no sétimo dia é solenidade ao Senhor teu Deus; nenhuma obra farás.{note:1}"
+            },
+            {
+                "id": "v16.9",
+                "versicle_number": 9,
+                "text": "Sete semanas contarás; desde que a foice começar na seara começarás a contar as sete semanas."
+            },
+            {
+                "id": "v16.10",
+                "versicle_number": 10,
+                "text": "Depois celebrarás a festa das semanas ao Senhor teu Deus; o que deres será tributo voluntário da tua mão, segundo o Senhor teu Deus te tiver abençoado."
+            },
+            {
+                "id": "v16.11",
+                "versicle_number": 11,
+                "text": "E te alegrarás perante o Senhor teu Deus, tu, e teu filho, e tua filha, e o teu servo, e a tua serva, e o levita que está dentro das tuas portas, e o estrangeiro, e o órfão, e a viúva, que estão no meio de ti, no lugar que escolher o Senhor teu Deus para ali fazer habitar o seu nome."
+            },
+            {
+                "id": "v16.12",
+                "versicle_number": 12,
+                "text": "E lembrar-te-ás de que foste servo no Egito: e guardarás estes estatutos, e os farás.{note:2}"
+            },
+            {
+                "id": "v16.13",
+                "versicle_number": 13,
+                "text": "A festa dos tabernáculos guardarás sete dias, quando colheres da tua eira e do teu lagar."
+            },
+            {
+                "id": "v16.14",
+                "versicle_number": 14,
+                "text": "E na tua festa te alegrarás, tu, e teu filho, e tua filha, e o teu servo, e a tua serva, e o levita, e o estrangeiro, e o órfão, e a viúva, que estão das tuas portas para dentro."
+            },
+            {
+                "id": "v16.15",
+                "versicle_number": 15,
+                "text": "Sete dias celebrarás a festa ao Senhor teu Deus, no lugar que o Senhor escolher: porque o Senhor teu Deus te há de abençoar em toda a tua colheita, e em toda a obra das tuas mãos; pelo que te alegrarás certamente.{note:3}"
+            },
+            {
+                "id": "v16.16",
+                "versicle_number": 16,
+                "text": "Três vezes no ano todo o varão entre ti aparecerá perante o Senhor teu Deus, no lugar que escolher na festa dos pães asmos, e na festa das semanas, e na festa dos tabernáculos; porém não aparecerá vazio perante o Senhor:"
+            },
+            {
+                "id": "v16.17",
+                "versicle_number": 17,
+                "text": "Cada qual, conforme ao dom da sua mão, conforme à bênção que o Senhor teu Deus te tiver dado."
+            },
+            {
+                "id": "v16.18",
+                "versicle_number": 18,
+                "text": "Juízes e oficiais porás em todas as tuas portas que o Senhor teu Deus te der entre as tuas tribos, para que julguem o povo com juízo de justiça."
+            },
+            {
+                "id": "v16.19",
+                "versicle_number": 19,
+                "text": "Não torcerás o juízo, não farás acepção de pessoas, nem tomarás peitas; porquanto a peita cega os olhos dos sábios, e perverte as palavras dos justos."
+            },
+            {
+                "id": "v16.20",
+                "versicle_number": 20,
+                "text": "A justiça, a justiça seguirás; para que vivas, e possuas em herança a terra que te dará o Senhor teu Deus.{note:4}"
+            },
+            {
+                "id": "v16.21",
+                "versicle_number": 21,
+                "text": "Não plantarás nenhum bosque de árvores junto ao altar do Senhor teu Deus que fizeres para ti."
+            },
+            {
+                "id": "v16.22",
+                "versicle_number": 22,
+                "text": "Nem levantarás{note:5} {note:g}estátua, a qual o Senhor teu Deus aborrece."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v16.18",
+                "text": "Deveres dos juízes"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 16.1-8 Êx 12.1-20; 23.15; 34.18; Nm 28.16-25"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 16.9-12 Nm 28.26-31"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 16.13-15 Nm 29.12-38"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 16.19-20 Êx 23.6-8; Lv 19.15-16"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 16.22 Lv 26.1 {note:g} 16.22 ou pilar ou obelisco"
+            }
+        ]
+    }
+}

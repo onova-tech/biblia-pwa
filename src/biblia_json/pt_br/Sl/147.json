@@ -1,0 +1,132 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 147,
+        "chapter_reference": "",
+        "chapter_title": "Exortação a louvar ao Senhor pela sua beneficência",
+        "versicles": [
+            {
+                "id": "v147.1",
+                "versicle_number": 1,
+                "text": "{note:h}LOUVAI ao Senhor, porque é bom cantar louvores ao nosso Deus; isto é agradável; decoroso é o louvor."
+            },
+            {
+                "id": "v147.2",
+                "versicle_number": 2,
+                "text": "O Senhor edifica Jerusalém; congrega os dispersos de Israel;"
+            },
+            {
+                "id": "v147.3",
+                "versicle_number": 3,
+                "text": "Sara os quebrantados de coração, e liga-lhes as feridas;"
+            },
+            {
+                "id": "v147.4",
+                "versicle_number": 4,
+                "text": "Conta o número das estrelas, chamando-as a todas pelos seus nomes."
+            },
+            {
+                "id": "v147.5",
+                "versicle_number": 5,
+                "text": "Grande é o nosso Senhor, e de grande poder; o seu entendimento é infinito."
+            },
+            {
+                "id": "v147.6",
+                "versicle_number": 6,
+                "text": "O Senhor eleva os humildes, e abate os ímpios até à terra."
+            },
+            {
+                "id": "v147.7",
+                "versicle_number": 7,
+                "text": "Cantai ao Senhor em ação de graças; cantai louvores ao nosso Deus sobre a harpa."
+            },
+            {
+                "id": "v147.8",
+                "versicle_number": 8,
+                "text": "Ele é que cobre o céu de nuvens, que prepara a chuva para a terra, e que faz produzir erva sobre os montes;"
+            },
+            {
+                "id": "v147.9",
+                "versicle_number": 9,
+                "text": "Que dá aos animais o seu sustento, e aos filhos dos corvos, quando clamam."
+            },
+            {
+                "id": "v147.10",
+                "versicle_number": 10,
+                "text": "Não se deleita na força do cavalo, nem se compraz {note:i}na agilidade do varão."
+            },
+            {
+                "id": "v147.11",
+                "versicle_number": 11,
+                "text": "O Senhor agrada-se dos que o temem e dos que esperam na sua misericórdia."
+            },
+            {
+                "id": "v147.12",
+                "versicle_number": 12,
+                "text": "Louva, ó Jerusalém, ao Senhor; louva, ó Sião, ao teu Deus."
+            },
+            {
+                "id": "v147.13",
+                "versicle_number": 13,
+                "text": "Porque ele fortaleceu os ferrolhos das tuas portas; abençoa aos teus filhos dentro de ti."
+            },
+            {
+                "id": "v147.14",
+                "versicle_number": 14,
+                "text": "Ele é quem pacifica os teus termos, e da flor da farinha te farta;"
+            },
+            {
+                "id": "v147.15",
+                "versicle_number": 15,
+                "text": "Quem envia o seu mandamento à terra; a sua palavra corre velozmente;"
+            },
+            {
+                "id": "v147.16",
+                "versicle_number": 16,
+                "text": "Quem dá a neve como lã, esparge a geada como cinza;"
+            },
+            {
+                "id": "v147.17",
+                "versicle_number": 17,
+                "text": "Quem lança o seu gelo em pedaços; quem pode resistir ao seu frio?"
+            },
+            {
+                "id": "v147.18",
+                "versicle_number": 18,
+                "text": "Manda a sua palavra, e os faz derreter; faz soprar o vento, e correm as águas."
+            },
+            {
+                "id": "v147.19",
+                "versicle_number": 19,
+                "text": "Mostra a sua palavra a Jacó, os seus estatutos e os seus juízos a Israel."
+            },
+            {
+                "id": "v147.20",
+                "versicle_number": 20,
+                "text": "Não fez assim a nenhuma outra nação; e, quanto aos seus juízos, não os conhecem. {note:j}Louvai ao Senhor."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:h} 147.1 Heb. Aleluia"
+            },
+            {
+                "id": "n2",
+                "text": "{note:i} 147.10 Heb. nas pernas"
+            },
+            {
+                "id": "n3",
+                "text": "{note:j} 147.20 Heb. Aleluia"
+            }
+        ]
+    }
+}

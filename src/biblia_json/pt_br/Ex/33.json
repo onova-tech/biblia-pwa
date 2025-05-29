@@ -1,0 +1,158 @@
+{
+    "book": {
+        "id": "Ex",
+        "book_number": 2,
+        "new_testament": false,
+        "num_chapters": 40,
+        "book_name": "ÊXODO",
+        "book_full_name": "O SEGUNDO LIVRO DE MOISÉS ÊXODO"
+    },
+    "chapter": {
+        "chapter_number": 33,
+        "chapter_reference": "",
+        "chapter_title": "Deus não irá no meio do povo mas enviará um anjo",
+        "versicles": [
+            {
+                "id": "v33.1",
+                "versicle_number": 1,
+                "text": "DISSE mais o Senhor a Moisés: Vai, sobe daqui, tu e o povo que fizeste subir da terra do Egito, à terra que jurei a Abraão,{note:1} a Isaque,{note:2} e a Jacó,{note:3} dizendo: À tua semente a darei."
+            },
+            {
+                "id": "v33.2",
+                "versicle_number": 2,
+                "text": "E enviarei um anjo diante de ti, (e lançarei fora os cananeus, e os amorreus, e os heteus, e os ferezeus, e os heveus, e os jebuseus),"
+            },
+            {
+                "id": "v33.3",
+                "versicle_number": 3,
+                "text": "A uma terra que mana leite e mel: porque eu não subirei no meio de ti, porquanto és povo obstinado, para que te não consuma eu no caminho."
+            },
+            {
+                "id": "v33.4",
+                "versicle_number": 4,
+                "text": "E ouvindo o povo esta má notícia, entristeceram-se, e nenhum deles pôs sobre si os seus atavios."
+            },
+            {
+                "id": "v33.5",
+                "versicle_number": 5,
+                "text": "Porquanto o Senhor tinha dito a Moisés: Dize aos filhos de Israel: Povo obstinado és; se um momento subir no meio de ti, te consumirei: porém agora tira de ti os teus atavios, para que eu saiba o que te hei de fazer."
+            },
+            {
+                "id": "v33.6",
+                "versicle_number": 6,
+                "text": "Então os filhos de Israel se despojaram dos seus atavios, ao pé do monte de Horebe."
+            },
+            {
+                "id": "v33.7",
+                "versicle_number": 7,
+                "text": "E tomou Moisés a tenda, e a estendeu para si fora do arraial, desviada longe do arraial, e chamou-lhe a tenda da congregação: e aconteceu que todo aquele que buscava o Senhor saiu à tenda da congregação, que estava fora do arraial."
+            },
+            {
+                "id": "v33.8",
+                "versicle_number": 8,
+                "text": "E aconteceu que, saindo Moisés à tenda, todo o povo se levantava, e cada um ficou em pé à porta da sua tenda: e olhavam para Moisés pelas costas, até ele entrar na tenda."
+            },
+            {
+                "id": "v33.9",
+                "versicle_number": 9,
+                "text": "E aconteceu que, entrando Moisés na tenda, descia a coluna de nuvem, e punha-se à porta da tenda: e o Senhor falava com Moisés."
+            },
+            {
+                "id": "v33.10",
+                "versicle_number": 10,
+                "text": "E, vendo todo o povo a coluna de nuvem que estava à porta da tenda, todo o povo se levantou, e inclinaram-se cada um à porta da sua tenda."
+            },
+            {
+                "id": "v33.11",
+                "versicle_number": 11,
+                "text": "E falava o Senhor a Moisés cara a cara, como qualquer fala com o seu amigo: depois tornou ao arraial: mas o seu servidor Josué, filho de Num, mancebo, nunca se apartava do meio da tenda."
+            },
+            {
+                "id": "v33.12",
+                "versicle_number": 12,
+                "text": "E Moisés disse ao Senhor: Eis que tu me dizes: Faze subir a este povo, porém não me fazes saber a quem hás de enviar comigo: e tu disseste: Conheço-te por teu nome, também achaste graça aos meus olhos."
+            },
+            {
+                "id": "v33.13",
+                "versicle_number": 13,
+                "text": "Agora pois, se tenho achado graça aos teus olhos, rogo-te que agora me faças saber o teu caminho, e conhecer-te-ei, para que ache graça aos teus olhos: e atenta que esta nação é o teu povo."
+            },
+            {
+                "id": "v33.14",
+                "versicle_number": 14,
+                "text": "Disse pois: Irá a minha presença contigo para te fazer descansar."
+            },
+            {
+                "id": "v33.15",
+                "versicle_number": 15,
+                "text": "Então disse-lhe: Se a tua presença não for conosco, não nos faças subir daqui."
+            },
+            {
+                "id": "v33.16",
+                "versicle_number": 16,
+                "text": "Como pois se saberá agora que tenho achado graça aos teus olhos, eu e o teu povo? acaso não é por andares tu conosco e separados seremos, eu e o teu povo, de todo o povo que há sobre a face da terra?"
+            },
+            {
+                "id": "v33.17",
+                "versicle_number": 17,
+                "text": "Então disse o Senhor a Moisés: Farei também isto, que tens dito; porquanto achaste graça aos meus olhos; e te conheço por nome."
+            },
+            {
+                "id": "v33.18",
+                "versicle_number": 18,
+                "text": "Então ele disse: Rogo-te que me mostres a tua glória."
+            },
+            {
+                "id": "v33.19",
+                "versicle_number": 19,
+                "text": "Porém ele disse: Eu farei passar toda a minha bondade por diante de ti, e apregoarei o nome do Senhor diante de ti: e terei misericórdia{note:4} de quem eu tiver misericórdia, e me compadecerei de quem me compadecer."
+            },
+            {
+                "id": "v33.20",
+                "versicle_number": 20,
+                "text": "E disse mais: Não poderás ver a minha face, porquanto homem nenhum verá a minha face, e viverá."
+            },
+            {
+                "id": "v33.21",
+                "versicle_number": 21,
+                "text": "Disse mais o Senhor: Eis aqui um lugar junto a mim; ali te porás sobre a {note:r}penha."
+            },
+            {
+                "id": "v33.22",
+                "versicle_number": 22,
+                "text": "E acontecerá que, quando a minha glória passar, te porei numa fenda da penha, e te cobrirei com a minha mão, até que eu haja passado."
+            },
+            {
+                "id": "v33.23",
+                "versicle_number": 23,
+                "text": "E, havendo eu tirado a minha mão, me verás pelas costas: mas a minha face não se verá."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v33.12",
+                "text": "Moisés roga a Deus a sua presença"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v33.18",
+                "text": "Moisés roga a Deus lhe mostre a sua glória"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 33.1 Gn 12.7 {note:3} 33.1 Gn 28.13 {note:2} 33.1 Gn 26.3"
+            },
+            {
+                "id": "n2",
+                "text": "{note:4} 33.19 Rm 9.15"
+            },
+            {
+                "id": "n3",
+                "text": "{note:r} 33.21 ou rocha"
+            }
+        ]
+    }
+}

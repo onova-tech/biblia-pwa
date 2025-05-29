@@ -1,0 +1,193 @@
+{
+    "book": {
+        "id": "Nm",
+        "book_number": 4,
+        "new_testament": false,
+        "num_chapters": 36,
+        "book_name": "NÚMEROS",
+        "book_full_name": "O QUARTO LIVRO DE MOISÉS NÚMEROS"
+    },
+    "chapter": {
+        "chapter_number": 28,
+        "chapter_reference": "",
+        "chapter_title": "O holocausto perpétuo",
+        "versicles": [
+            {
+                "id": "v28.1",
+                "versicle_number": 1,
+                "text": "FALOU mais o Senhor a Moisés, dizendo:"
+            },
+            {
+                "id": "v28.2",
+                "versicle_number": 2,
+                "text": "Dá ordem aos filhos de Israel, e dize-lhes: Da minha oferta, do meu manjar para as minhas ofertas queimadas, do meu cheiro suave, tereis cuidado, para mas oferecer a seu tempo determinado."
+            },
+            {
+                "id": "v28.3",
+                "versicle_number": 3,
+                "text": "E dir-lhes-ás: Esta é a oferta queimada que oferecereis ao Senhor: dois cordeiros dum ano, sem mancha, cada dia, em contínuo holocausto."
+            },
+            {
+                "id": "v28.4",
+                "versicle_number": 4,
+                "text": "Um cordeiro sacrificarás pela manhã, e o outro cordeiro sacrificarás de tarde:"
+            },
+            {
+                "id": "v28.5",
+                "versicle_number": 5,
+                "text": "E a décima parte dum efa de flor de farinha em oferta de manjares, misturada com a quarta parte dum him de azeite moído."
+            },
+            {
+                "id": "v28.6",
+                "versicle_number": 6,
+                "text": "Este é o holocausto contínuo, instituído no monte Sinai, em cheiro suave, oferta queimada ao Senhor."
+            },
+            {
+                "id": "v28.7",
+                "versicle_number": 7,
+                "text": "E a sua libação será a quarta parte dum him para um cordeiro: no santuário oferecerás a libação de bebida forte ao Senhor."
+            },
+            {
+                "id": "v28.8",
+                "versicle_number": 8,
+                "text": "E o outro cordeiro sacrificarás de tarde: como a oferta de manjares da manhã, e como a sua libação, o aparelharás em oferta queimada de cheiro suave ao Senhor."
+            },
+            {
+                "id": "v28.9",
+                "versicle_number": 9,
+                "text": "Porém no dia de sábado dois cordeiros dum ano, sem mancha, e duas décimas de flor de farinha misturada com azeite, em oferta de manjares, com a sua libação,"
+            },
+            {
+                "id": "v28.10",
+                "versicle_number": 10,
+                "text": "Holocausto é do sábado em cada sábado, além do holocausto contínuo, e a sua libação.{note:1}"
+            },
+            {
+                "id": "v28.11",
+                "versicle_number": 11,
+                "text": "E nos princípios dos vossos meses oferecereis, em holocausto ao Senhor, dois bezerros e um carneiro, sete cordeiros dum ano, sem mancha;"
+            },
+            {
+                "id": "v28.12",
+                "versicle_number": 12,
+                "text": "E três décimas de flor de farinha misturada com azeite, em oferta de manjares, para um bezerro; e duas décimas de flor de farinha misturada com azeite, em oferta de manjares, para um carneiro."
+            },
+            {
+                "id": "v28.13",
+                "versicle_number": 13,
+                "text": "E uma décima de flor de farinha misturada com azeite, em oferta de manjares, para um cordeiro: holocausto é de cheiro suave, oferta queimada ao Senhor."
+            },
+            {
+                "id": "v28.14",
+                "versicle_number": 14,
+                "text": "E as suas libações serão a metade dum him de vinho para um bezerro, e a terça parte dum him para um carneiro, e a quarta parte dum him para um cordeiro: este é o holocausto da lua nova de cada mês, segundo os meses do ano."
+            },
+            {
+                "id": "v28.15",
+                "versicle_number": 15,
+                "text": "Também um bode para expiação do pecado ao Senhor, além do holocausto contínuo, com a sua libação se oferecerá."
+            },
+            {
+                "id": "v28.16",
+                "versicle_number": 16,
+                "text": "Porém no mês primeiro, aos catorze dias do mês é a páscoa do Senhor."
+            },
+            {
+                "id": "v28.17",
+                "versicle_number": 17,
+                "text": "E aos quinze dias do mesmo mês haverá festa: sete dias se comerão pães asmos."
+            },
+            {
+                "id": "v28.18",
+                "versicle_number": 18,
+                "text": "No primeiro dia haverá santa convocação: nenhuma obra servil fareis:"
+            },
+            {
+                "id": "v28.19",
+                "versicle_number": 19,
+                "text": "Mas oferecereis oferta queimada em holocausto ao Senhor, dois bezerros e um carneiro, e sete cordeiros dum ano; ser-vos-ão eles sem mancha."
+            },
+            {
+                "id": "v28.20",
+                "versicle_number": 20,
+                "text": "E a sua oferta de manjares será de flor de farinha misturada com azeite: oferecereis três décimas para um bezerro, e duas décimas para um carneiro."
+            },
+            {
+                "id": "v28.21",
+                "versicle_number": 21,
+                "text": "Para cada cordeiro oferecereis uma décima, para cada um dos sete cordeiros;"
+            },
+            {
+                "id": "v28.22",
+                "versicle_number": 22,
+                "text": "E um bode para expiação do pecado, para fazer expiação por vós."
+            },
+            {
+                "id": "v28.23",
+                "versicle_number": 23,
+                "text": "Estas cousas oferecereis, além do holocausto da manhã que é o holocausto contínuo."
+            },
+            {
+                "id": "v28.24",
+                "versicle_number": 24,
+                "text": "Segundo este modo, cada dia oferecereis, por sete dias, o manjar da oferta queimada em cheiro suave ao Senhor: além do holocausto contínuo se oferecerá isto com a sua libação."
+            },
+            {
+                "id": "v28.25",
+                "versicle_number": 25,
+                "text": "E no sétimo dia tereis santa convocação: nenhuma obra servil fareis.{note:2}"
+            },
+            {
+                "id": "v28.26",
+                "versicle_number": 26,
+                "text": "Semelhantemente, tereis santa convocação no dia das primícias, quando oferecerdes oferta nova de manjares ao Senhor, segundo as vossas semanas; nenhuma obra servil fareis."
+            },
+            {
+                "id": "v28.27",
+                "versicle_number": 27,
+                "text": "Então oferecereis ao Senhor por holocausto, em cheiro suave, dois bezerros, um carneiro e sete cordeiros dum ano;"
+            },
+            {
+                "id": "v28.28",
+                "versicle_number": 28,
+                "text": "E a sua oferta de manjares de flor de farinha misturada com azeite; três décimas para um bezerro, duas décimas para um carneiro;"
+            },
+            {
+                "id": "v28.29",
+                "versicle_number": 29,
+                "text": "Para cada cordeiro uma décima, para cada um dos sete cordeiros;"
+            },
+            {
+                "id": "v28.30",
+                "versicle_number": 30,
+                "text": "Um bode para fazer expiação por vós."
+            },
+            {
+                "id": "v28.31",
+                "versicle_number": 31,
+                "text": "Além do holocausto contínuo, e a sua oferta de manjares, os oferecereis (ser-vos-ão eles sem mancha) com as suas libações.{note:3}"
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v28.9",
+                "text": "As ofertas nos sábados, nas luas novas, na páscoa e no dia das primícias"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 28.9-10 Mt 12.5"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 28.16-25 Êx 12.1-20; 23.15; 34.18; Lv 23.5-8; Dt 16.1-8"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 28.26-31 Êx 23.16; 34.22; Lv 23.15-21; Dt 16.9-12"
+            }
+        ]
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "book": {
+        "id": "1Rs",
+        "book_number": 11,
+        "new_testament": false,
+        "num_chapters": 22,
+        "book_name": "REIS",
+        "book_full_name": "O PRIMEIRO LIVRO DOS REIS"
+    },
+    "chapter": {
+        "chapter_number": 17,
+        "chapter_reference": "",
+        "chapter_title": "Elias prediz contra Acabe, e é sustentado pelos corvos",
+        "versicles": [
+            {
+                "id": "v17.1",
+                "versicle_number": 1,
+                "text": "ENTÃO Elias,{note:1} o tesbita, dos moradores de Gileade, disse a Acabe: Vive o Senhor, Deus de Israel, perante cuja face estou, que nestes anos nem orvalho nem chuva haverá senão segundo a minha palavra."
+            },
+            {
+                "id": "v17.2",
+                "versicle_number": 2,
+                "text": "Depois veio a ele a palavra do Senhor, dizendo:"
+            },
+            {
+                "id": "v17.3",
+                "versicle_number": 3,
+                "text": "Vai-te daqui, e vira-te para o oriente, e esconde-te junto ao ribeiro de Carite, que está diante do Jordão."
+            },
+            {
+                "id": "v17.4",
+                "versicle_number": 4,
+                "text": "E há de ser que beberás do ribeiro: e eu tenho ordenado aos corvos que ali te sustentem."
+            },
+            {
+                "id": "v17.5",
+                "versicle_number": 5,
+                "text": "Foi pois, e fez conforme à palavra do Senhor: porque foi, e habitou junto ao ribeiro de Carite, que está diante do Jordão."
+            },
+            {
+                "id": "v17.6",
+                "versicle_number": 6,
+                "text": "E os corvos lhe traziam pão e carne pela manhã; como também pão e carne à noite: e bebia do ribeiro."
+            },
+            {
+                "id": "v17.7",
+                "versicle_number": 7,
+                "text": "E sucedeu que, passados dias, o ribeiro se secou; porque não tinha havido chuva na terra."
+            },
+            {
+                "id": "v17.8",
+                "versicle_number": 8,
+                "text": "Então veio a ele a palavra do Senhor, dizendo:"
+            },
+            {
+                "id": "v17.9",
+                "versicle_number": 9,
+                "text": "Levanta-te, e vai a Sarepta, que é de Sidom, e habita ali, eis que eu ordenei ali a uma mulher viúva{note:2} que te sustente."
+            },
+            {
+                "id": "v17.10",
+                "versicle_number": 10,
+                "text": "Então ele se levantou, e se foi a Sarepta; e, chegando à porta da cidade, eis que estava ali uma mulher viúva apanhando lenha; e ele a chamou, e lhe disse: Traze-me, peço-te, num vaso um pouco de água que beba."
+            },
+            {
+                "id": "v17.11",
+                "versicle_number": 11,
+                "text": "E, indo ela a buscá-la, ele a chamou e lhe disse: Traze-me agora também um bocado de pão na tua mão."
+            },
+            {
+                "id": "v17.12",
+                "versicle_number": 12,
+                "text": "Porém ela disse: Vive o Senhor teu Deus, que nem um bolo tenho, senão somente um punhado de farinha numa panela, e um pouco de azeite numa botija; e vês aqui, apanhei dois cavacos, e vou prepará-lo para mim e para o meu filho, para que o comamos, e morramos."
+            },
+            {
+                "id": "v17.13",
+                "versicle_number": 13,
+                "text": "E Elias lhe disse: Não temas; vai, faze conforme à tua palavra: porém faze disso primeiro para mim um bolo pequeno e traze-mo para fora; depois farás para ti e para teu filho."
+            },
+            {
+                "id": "v17.14",
+                "versicle_number": 14,
+                "text": "Porque assim diz o Senhor Deus de Israel: A farinha da panela não se acabará, e o azeite da botija não faltará, até ao dia em que o Senhor dê chuva sobre a terra."
+            },
+            {
+                "id": "v17.15",
+                "versicle_number": 15,
+                "text": "E foi ela, e fez conforme à palavra de Elias: e assim comeu ela, e ele, e a sua casa muitos dias."
+            },
+            {
+                "id": "v17.16",
+                "versicle_number": 16,
+                "text": "Da panela a farinha se não acabou, e da botija o azeite não faltou: Conforme à palavra do Senhor, que falara pelo ministério de Elias."
+            },
+            {
+                "id": "v17.17",
+                "versicle_number": 17,
+                "text": "E depois destas cousas sucedeu que, adoeceu o filho desta mulher, da dona da casa: e a sua doença se agravou muito, até que nele nenhum fôlego ficou."
+            },
+            {
+                "id": "v17.18",
+                "versicle_number": 18,
+                "text": "Então ela disse a Elias: Que tenho eu contigo, homem de Deus? Vieste tu a mim para trazeres à memória a minha iniquidade, e matares a meu filho?"
+            },
+            {
+                "id": "v17.19",
+                "versicle_number": 19,
+                "text": "E ele lhe disse: Dá-me o teu filho. E ele o tomou do seu regaço, e o levou para cima, ao quarto, onde ele mesmo habitava, e o deitou em sua cama,"
+            },
+            {
+                "id": "v17.20",
+                "versicle_number": 20,
+                "text": "E clamou ao Senhor e disse: Ó Senhor meu Deus, também até a esta viúva, com quem eu moro, afligiste, matando-lhe seu filho?"
+            },
+            {
+                "id": "v17.21",
+                "versicle_number": 21,
+                "text": "Então se mediu sobre o menino três vezes, e clamou ao Senhor, e disse: Ó Senhor meu Deus, rogo-te que torne a alma deste menino a entrar nele."
+            },
+            {
+                "id": "v17.22",
+                "versicle_number": 22,
+                "text": "E o Senhor ouviu a voz de Elias; e a alma do menino tornou a entrar nele, e reviveu."
+            },
+            {
+                "id": "v17.23",
+                "versicle_number": 23,
+                "text": "E Elias tomou o menino, e o trouxe do quarto à casa, e o deu a sua mãe; e disse Elias: Vês aí, teu filho vive."
+            },
+            {
+                "id": "v17.24",
+                "versicle_number": 24,
+                "text": "Então a mulher disse a Elias: Nisto conheço agora que tu és homem de Deus, e que a palavra do Senhor na tua boca é verdade."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v17.8",
+                "text": "A viúva de Sarepta"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 17.1 Tg 5.17"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 17.9 Lc 4.25-26"
+            }
+        ]
+    }
+}

@@ -1,0 +1,246 @@
+{
+    "book": {
+        "id": "Ex",
+        "book_number": 2,
+        "new_testament": false,
+        "num_chapters": 40,
+        "book_name": "ÊXODO",
+        "book_full_name": "O SEGUNDO LIVRO DE MOISÉS ÊXODO"
+    },
+    "chapter": {
+        "chapter_number": 34,
+        "chapter_reference": "",
+        "chapter_title": "As novas tábuas dos dez mandamentos",
+        "versicles": [
+            {
+                "id": "v34.1",
+                "versicle_number": 1,
+                "text": "ENTÃO disse o Senhor a Moisés: Lavra-te duas tábuas de pedra, como as primeiras; e eu escreverei nas tábuas as mesmas palavras que estavam nas primeiras tábuas, que tu quebraste."
+            },
+            {
+                "id": "v34.2",
+                "versicle_number": 2,
+                "text": "E prepara-te para amanhã, para que subas pela manhã ao monte de Sinai, e ali põe-te diante de mim no cume do monte."
+            },
+            {
+                "id": "v34.3",
+                "versicle_number": 3,
+                "text": "E ninguém suba contigo, e também ninguém apareça em todo o monte; nem ovelhas nem bois se apascentem defronte do monte."
+            },
+            {
+                "id": "v34.4",
+                "versicle_number": 4,
+                "text": "Então ele lavrou duas tábuas de pedra, como as primeiras; e levantou-se Moisés pela manhã de madrugada, e subiu ao monte de Sinai, como o Senhor lhe tinha ordenado: e tomou as duas tábuas de pedra na sua mão."
+            },
+            {
+                "id": "v34.5",
+                "versicle_number": 5,
+                "text": "E o Senhor desceu numa nuvem, e se pôs ali junto a ele: e ele apregoou o nome do Senhor."
+            },
+            {
+                "id": "v34.6",
+                "versicle_number": 6,
+                "text": "Passando pois o Senhor perante a sua face, clamou: Jeová, o Senhor, Deus misericordioso e piedoso, tardio em iras{note:1} e grande em beneficência e verdade;"
+            },
+            {
+                "id": "v34.7",
+                "versicle_number": 7,
+                "text": "Que guarda a beneficência{note:2} em milhares; que perdoa a iniquidade, e a transgressão, e o pecado; que ao culpado não tem por inocente; que visita a iniquidade dos pais sobre os filhos e sobre os filhos dos filhos até à terceira e quarta geração."
+            },
+            {
+                "id": "v34.8",
+                "versicle_number": 8,
+                "text": "E Moisés apressou-se, e inclinou a cabeça à terra, encurvou-se,"
+            },
+            {
+                "id": "v34.9",
+                "versicle_number": 9,
+                "text": "E disse: Senhor, se agora tenho achado graça aos teus olhos, vá agora o Senhor no meio de nós; porque este é povo obstinado; porém perdoa a nossa iniquidade e o nosso pecado, e toma-nos pela tua herança."
+            },
+            {
+                "id": "v34.10",
+                "versicle_number": 10,
+                "text": "Então disse: Eis que eu faço um concerto; farei diante de todo o teu povo maravilhas que nunca foram feitas em toda a terra, nem entre gente alguma: de maneira que todo este povo, em cujo meio tu estás, veja a obra do Senhor; porque cousa terrível é o que faço contigo."
+            },
+            {
+                "id": "v34.11",
+                "versicle_number": 11,
+                "text": "Guarda o que eu te ordeno hoje: eis que eu lançarei fora diante de ti os amorreus, e os cananeus, e os heteus, e os ferezeus, e os heveus e os jebuseus."
+            },
+            {
+                "id": "v34.12",
+                "versicle_number": 12,
+                "text": "Guarda-te que não faças concerto com os moradores da terra aonde hás de entrar; para que não seja por laço no meio de ti."
+            },
+            {
+                "id": "v34.13",
+                "versicle_number": 13,
+                "text": "Mas os seus altares transtornareis, e as suas estátuas quebrareis, e os seus bosques cortareis."
+            },
+            {
+                "id": "v34.14",
+                "versicle_number": 14,
+                "text": "Porque te não inclinarás diante doutro deus: pois o nome do Senhor é Zeloso: Deus zeloso é ele;"
+            },
+            {
+                "id": "v34.15",
+                "versicle_number": 15,
+                "text": "Para que não faças concerto com os moradores da terra, e não se prostituam após os seus deuses, nem sacrifiquem aos seus deuses, e tu, convidado deles, comas dos seus sacrifícios,"
+            },
+            {
+                "id": "v34.16",
+                "versicle_number": 16,
+                "text": "E tomes mulheres das suas filhas para os teus filhos, e suas filhas, prostituindo-se após os seus deuses, façam que também teus filhos se prostituam após os seus deuses."
+            },
+            {
+                "id": "v34.17",
+                "versicle_number": 17,
+                "text": "Não farás para ti{note:3} deuses de fundição."
+            },
+            {
+                "id": "v34.18",
+                "versicle_number": 18,
+                "text": "A festa dos pães asmos{note:4} guardarás; sete dias comerás pães asmos, como te tenho ordenado, ao tempo apontado do mês de abibe: porque no mês de abibe saíste do Egito."
+            },
+            {
+                "id": "v34.19",
+                "versicle_number": 19,
+                "text": "Tudo o que abre a madre meu é; até todo o teu gado, que seja macho, abrindo a madre de vacas e de ovelhas;"
+            },
+            {
+                "id": "v34.20",
+                "versicle_number": 20,
+                "text": "O burro porém, que abrir a madre, resgatarás com {note:s}cordeiro: mas, se o não resgatares, cortar-lhe-ás a cabeça: todo o primogênito de teus filhos resgatarás. E ninguém aparecerá vazio diante de mim.{note:5}"
+            },
+            {
+                "id": "v34.21",
+                "versicle_number": 21,
+                "text": "Seis dias trabalharás,{note:6} mas ao sétimo dia descansarás: na aradura e na sega descansarás."
+            },
+            {
+                "id": "v34.22",
+                "versicle_number": 22,
+                "text": "Também guardarás a festa das semanas, que é a festa das primícias da sega do trigo, e a festa da colheita no fim do ano."
+            },
+            {
+                "id": "v34.23",
+                "versicle_number": 23,
+                "text": "Três vezes no ano todo o macho entre ti aparecerá perante o Senhor, JEOVÁ, Deus de Israel;"
+            },
+            {
+                "id": "v34.24",
+                "versicle_number": 24,
+                "text": "Porque eu lançarei fora as nações de diante de ti, e alargarei o teu termo: ninguém cobiçará a tua terra, quando subires para aparecer três vezes no ano diante do Senhor teu Deus."
+            },
+            {
+                "id": "v34.25",
+                "versicle_number": 25,
+                "text": "Não sacrificarás o sangue do meu sacrifício com pão levedado, nem o sacrifício{note:7} da festa da páscoa ficará da noite para a manhã."
+            },
+            {
+                "id": "v34.26",
+                "versicle_number": 26,
+                "text": "As primícias dos primeiros frutos{note:8} da tua terra trarás à casa do Senhor teu Deus: não cozerás o cabrito{note:9} no leite de sua mãe."
+            },
+            {
+                "id": "v34.27",
+                "versicle_number": 27,
+                "text": "Disse mais o Senhor a Moisés: Escreve estas palavras: porque conforme ao teor destas palavras tenho feito concerto contigo e com Israel."
+            },
+            {
+                "id": "v34.28",
+                "versicle_number": 28,
+                "text": "E esteve ali com o Senhor quarenta dias e quarenta noites: não comeu pão, nem bebeu água, e escreveu nas tábuas as palavras do concerto, {note:t}os dez mandamentos."
+            },
+            {
+                "id": "v34.29",
+                "versicle_number": 29,
+                "text": "E aconteceu que, descendo Moisés do monte Sinai (e Moisés trazia as duas tábuas do testemunho em sua mão, quando desceu do monte), Moisés não sabia que a pele do seu rosto resplandecia, depois que falara com ele."
+            },
+            {
+                "id": "v34.30",
+                "versicle_number": 30,
+                "text": "Olhando pois Aarão e todos os filhos de Israel para Moisés, eis que a pele do seu rosto resplandecia; pelo que temeram de chegar-se a ele."
+            },
+            {
+                "id": "v34.31",
+                "versicle_number": 31,
+                "text": "Então Moisés os chamou, e Aarão e todos os príncipes da congregação tornaram a ele: e Moisés lhes falou."
+            },
+            {
+                "id": "v34.32",
+                "versicle_number": 32,
+                "text": "Depois chegaram também todos os filhos de Israel: e ele lhes ordenou tudo o que o Senhor falara com ele no monte Sinai."
+            },
+            {
+                "id": "v34.33",
+                "versicle_number": 33,
+                "text": "Assim acabou Moisés de falar com eles, e tinha posto um véu sobre o seu rosto."
+            },
+            {
+                "id": "v34.34",
+                "versicle_number": 34,
+                "text": "Porém, entrando Moisés perante o Senhor, para falar com ele, tirava o véu até que saía: e, saindo, falava com os filhos de Israel o que lhe era ordenado."
+            },
+            {
+                "id": "v34.35",
+                "versicle_number": 35,
+                "text": "Assim pois viam os filhos de Israel o rosto de Moisés, e que resplandecia a pele do rosto de Moisés: e tornou Moisés a pôr o véu sobre o seu rosto, até que entrava para falar com ele.{note:10}"
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v34.10",
+                "text": "Deus faz um pacto"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v34.29",
+                "text": "O rosto de Moisés resplandece"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 34.6 Nm 14.18"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 34.7 Êx 20.5-6; Dt 5.9-10; 7.9"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 34.17 Êx 20.4; Lv 19.4; Dt 5.8; 27.15"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 34.18 Êx 12.14-20; Nm 28.15-16"
+            },
+            {
+                "id": "n5",
+                "text": "{note:s} 34.20 ou cabrito {note:5} 34.19-20 Êx 13.2,11-15"
+            },
+            {
+                "id": "n6",
+                "text": "{note:6} 34.21 Êx 20.8-11; 31.15; 35.2; Dt 5.12-15"
+            },
+            {
+                "id": "n7",
+                "text": "{note:7} 34.25 Êx 12.10"
+            },
+            {
+                "id": "n8",
+                "text": "{note:8} 34.26 Dt 26.2 {note:9} 34.26 Dt 14.21"
+            },
+            {
+                "id": "n9",
+                "text": "{note:t} 34.28 Heb. as dez palavras"
+            },
+            {
+                "id": "n10",
+                "text": "{note:10} 34.29-35 2Co 3.7-16"
+            }
+        ]
+    }
+}

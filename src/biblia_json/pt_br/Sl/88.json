@@ -1,0 +1,109 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 88,
+        "chapter_reference": "",
+        "chapter_title": "O salmista queixa-se das suas grandes desgraças, e suplica a Deus que o livre",
+        "versicles": [
+            {
+                "id": "v88.1",
+                "versicle_number": 1,
+                "text": "SENHOR Deus da minha salvação, diante de ti tenho clamado de dia e de noite."
+            },
+            {
+                "id": "v88.2",
+                "versicle_number": 2,
+                "text": "Chegue a minha oração perante a tua face, inclina os teus ouvidos ao meu clamor;"
+            },
+            {
+                "id": "v88.3",
+                "versicle_number": 3,
+                "text": "Porque a minha alma está cheia de angústias, e a minha vida se aproxima da sepultura."
+            },
+            {
+                "id": "v88.4",
+                "versicle_number": 4,
+                "text": "Já estou contado com os que descem à cova: estou como homem sem forças,"
+            },
+            {
+                "id": "v88.5",
+                "versicle_number": 5,
+                "text": "Posto entre os mortos; como os feridos de morte que jazem na sepultura, dos quais te não lembras mais, antes os exclui a tua mão."
+            },
+            {
+                "id": "v88.6",
+                "versicle_number": 6,
+                "text": "Puseste-me no mais profundo do abismo; em trevas e nas profundezas."
+            },
+            {
+                "id": "v88.7",
+                "versicle_number": 7,
+                "text": "Sobre mim pesa a tua cólera: tu me abateste com todas as tuas ondas. (Selá.)"
+            },
+            {
+                "id": "v88.8",
+                "versicle_number": 8,
+                "text": "Alongaste de mim os meus conhecidos, fizeste-me em extremo abominável para eles: estou fechado, e não posso sair."
+            },
+            {
+                "id": "v88.9",
+                "versicle_number": 9,
+                "text": "A minha vista desmaia por causa da aflição. Senhor, tenho clamado a ti todo o dia, tenho estendido para ti as minhas mãos."
+            },
+            {
+                "id": "v88.10",
+                "versicle_number": 10,
+                "text": "Mostrarás tu maravilhas aos mortos, ou os mortos se levantarão e te louvarão? (Selá.)"
+            },
+            {
+                "id": "v88.11",
+                "versicle_number": 11,
+                "text": "Será anunciada a tua benignidade na sepultura, ou a tua fidelidade na perdição?"
+            },
+            {
+                "id": "v88.12",
+                "versicle_number": 12,
+                "text": "Saber-se-ão as tuas maravilhas nas trevas, e a tua justiça na terra do esquecimento?"
+            },
+            {
+                "id": "v88.13",
+                "versicle_number": 13,
+                "text": "Eu, porém, Senhor, clamo a ti, e de madrugada te envio a minha oração."
+            },
+            {
+                "id": "v88.14",
+                "versicle_number": 14,
+                "text": "Senhor, por que rejeitas a minha alma? por que escondes de mim a tua face?"
+            },
+            {
+                "id": "v88.15",
+                "versicle_number": 15,
+                "text": "Estou aflito, e prestes a morrer desde a minha mocidade: quando sofro os teus terrores, fico perturbado."
+            },
+            {
+                "id": "v88.16",
+                "versicle_number": 16,
+                "text": "A tua ardente indignação sobre mim vai passando: os teus terrores fazem-me perecer."
+            },
+            {
+                "id": "v88.17",
+                "versicle_number": 17,
+                "text": "Como águas me rodeiam todo o dia; cercam-me todos juntos."
+            },
+            {
+                "id": "v88.18",
+                "versicle_number": 18,
+                "text": "Afastaste para longe de mim amigos e companheiros; os meus íntimos amigos agora são trevas."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

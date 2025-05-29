@@ -1,0 +1,147 @@
+{
+    "book": {
+        "id": "Dt",
+        "book_number": 5,
+        "new_testament": false,
+        "num_chapters": 34,
+        "book_name": "DEUTERONÔMIO",
+        "book_full_name": "O QUINTO LIVRO DE MOISÉS DEUTERONÔMIO"
+    },
+    "chapter": {
+        "chapter_number": 19,
+        "chapter_reference": "",
+        "chapter_title": "A quem pertencem os privilégios das cidades de refúgio",
+        "versicles": [
+            {
+                "id": "v19.1",
+                "versicle_number": 1,
+                "text": "QUANDO o Senhor teu Deus desarraigar as nações, cuja terra te dará o Senhor teu Deus, e tu as possuíres, e morares nas suas cidades e nas suas casas;"
+            },
+            {
+                "id": "v19.2",
+                "versicle_number": 2,
+                "text": "Três cidades separarás{note:1} no meio da tua terra, que te dará o Senhor teu Deus para a possuíres."
+            },
+            {
+                "id": "v19.3",
+                "versicle_number": 3,
+                "text": "Preparar-te-ás o caminho; e os termos da tua terra, que te fará possuir o Senhor teu Deus, partirás em três: e isto será para que todo o homicida se acolha ali."
+            },
+            {
+                "id": "v19.4",
+                "versicle_number": 4,
+                "text": "E este é o caso tocante ao homicida, que se acolher ali, para que viva: aquele que por erro ferir o seu próximo, a quem não aborrecia dantes:"
+            },
+            {
+                "id": "v19.5",
+                "versicle_number": 5,
+                "text": "Como aquele que entrar com o seu próximo no bosque, para cortar lenha; e, pondo força na sua mão com o machado para cortar a árvore, o ferro saltar do cabo e ferir o seu próximo, e morrer, o tal se acolherá a uma destas cidades, e viverá:"
+            },
+            {
+                "id": "v19.6",
+                "versicle_number": 6,
+                "text": "Para que o vingador do sangue não vá após o homicida, quando se esquentar o seu coração, e o alcançar, por ser comprido o caminho, e lhe tire a vida; porque não é culpado de morte, pois o não aborrecia dantes."
+            },
+            {
+                "id": "v19.7",
+                "versicle_number": 7,
+                "text": "Portanto te dou ordem, dizendo: Três cidades separarás."
+            },
+            {
+                "id": "v19.8",
+                "versicle_number": 8,
+                "text": "E, se o Senhor teu Deus dilatar os teus termos, como jurou a teus pais, e te der toda a terra que disse daria a teus pais."
+            },
+            {
+                "id": "v19.9",
+                "versicle_number": 9,
+                "text": "(Quando guardares todos estes mandamentos, que hoje te ordeno, para fazê-los, amando ao Senhor teu Deus, e andando nos seus caminhos todos os dias); então acrescentarás outras três cidades além destas três;"
+            },
+            {
+                "id": "v19.10",
+                "versicle_number": 10,
+                "text": "Para que o sangue inocente se não derrame no meio da tua terra, que o Senhor teu Deus te dá por herança, e haja sangue sobre ti."
+            },
+            {
+                "id": "v19.11",
+                "versicle_number": 11,
+                "text": "Mas, havendo alguém que aborrece a seu próximo, e lhe arma ciladas, e se levanta contra ele, e o fere na vida, de modo que morra, e se acolhe a alguma destas cidades,"
+            },
+            {
+                "id": "v19.12",
+                "versicle_number": 12,
+                "text": "Então os anciãos da sua cidade mandarão, e dali o tirarão, e o entregarão na mão do vingador do sangue, para que morra."
+            },
+            {
+                "id": "v19.13",
+                "versicle_number": 13,
+                "text": "O teu olho o não poupará; antes tirarás o sangue inocente de Israel, para que bem te suceda."
+            },
+            {
+                "id": "v19.14",
+                "versicle_number": 14,
+                "text": "Não mudes{note:2} o marco do teu próximo, que colocaram os antigos na tua herança, que possuíres na terra, que te dá o Senhor teu Deus para a possuíres."
+            },
+            {
+                "id": "v19.15",
+                "versicle_number": 15,
+                "text": "Uma só testemunha contra ninguém se levantará por qualquer iniquidade, ou por qualquer pecado, seja qual for o pecado que pecasse: pela boca de duas testemunhas, ou pela boca de três testemunhas,{note:3} se estabelecerá o negócio."
+            },
+            {
+                "id": "v19.16",
+                "versicle_number": 16,
+                "text": "Quando se levantar testemunha falsa contra alguém, para testificar contra ele acerca de transgressão."
+            },
+            {
+                "id": "v19.17",
+                "versicle_number": 17,
+                "text": "Então aqueles dois homens, que tiverem a demanda, se apresentarão perante o Senhor, diante dos sacerdotes e dos juízes que houver naqueles dias:"
+            },
+            {
+                "id": "v19.18",
+                "versicle_number": 18,
+                "text": "E os juízes bem inquirirão; e eis que, sendo a testemunha falsa testemunha, que testificou falsidade contra seu irmão,"
+            },
+            {
+                "id": "v19.19",
+                "versicle_number": 19,
+                "text": "Far-lhe-eis como cuidou fazer a seu irmão: e assim tirarás o mal do meio de ti."
+            },
+            {
+                "id": "v19.20",
+                "versicle_number": 20,
+                "text": "Para que os que ficarem o ouçam e temam, e nunca mais tornem a fazer tal mal no meio de ti."
+            },
+            {
+                "id": "v19.21",
+                "versicle_number": 21,
+                "text": "O teu olho não poupará: vida por vida, olho por olho,{note:4} dente por dente, mão por mão, pé por pé."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v19.14",
+                "text": "Acerca dos limites e das testemunhas"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 19.2 Dt 4.41-43; Js 20.1-7"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 19.14 Dt 27.17"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 19.15 Nm 35.30; Dt 17.6; Mt 18.16; 2Co 13.1; 1Tm 5.19; Hb 10.28"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 19.21 Êx 21.23-25; Lv 24.19-20; Mt 5.38"
+            }
+        ]
+    }
+}

@@ -1,0 +1,225 @@
+{
+    "book": {
+        "id": "Gn",
+        "book_number": 1,
+        "new_testament": false,
+        "num_chapters": 50,
+        "book_name": "GÊNESIS",
+        "book_full_name": "O PRIMEIRO LIVRO DE MOISÉS GÊNESIS"
+    },
+    "chapter": {
+        "chapter_number": 21,
+        "chapter_reference": "",
+        "chapter_title": "O nascimento de Isaque",
+        "versicles": [
+            {
+                "id": "v21.1",
+                "versicle_number": 1,
+                "text": "E O SENHOR visitou a Sara, como tinha dito; e fez o Senhor a Sara como tinha falado."
+            },
+            {
+                "id": "v21.2",
+                "versicle_number": 2,
+                "text": "E concebeu{note:1} Sara, e deu a Abraão um filho na sua velhice, ao tempo determinado, que Deus lhe tinha dito."
+            },
+            {
+                "id": "v21.3",
+                "versicle_number": 3,
+                "text": "E chamou Abraão o nome de seu filho que lhe nascera, que Sara lhe dera, Isaque."
+            },
+            {
+                "id": "v21.4",
+                "versicle_number": 4,
+                "text": "E Abraão circuncidou o seu filho Isaque,{note:2} quando era da idade de oito dias, como Deus lhe tinha ordenado."
+            },
+            {
+                "id": "v21.5",
+                "versicle_number": 5,
+                "text": "E era Abraão da idade de cem anos, quando lhe nasceu Isaque seu filho."
+            },
+            {
+                "id": "v21.6",
+                "versicle_number": 6,
+                "text": "E disse Sara: Deus me tem feito riso; todo aquele que o ouvir, se rirá comigo."
+            },
+            {
+                "id": "v21.7",
+                "versicle_number": 7,
+                "text": "Disse mais: Quem diria a Abraão, que Sara daria de mamar a filhos? porque lhe dei um filho na sua velhice."
+            },
+            {
+                "id": "v21.8",
+                "versicle_number": 8,
+                "text": "E cresceu o menino, e foi desmamado; então Abraão fez um grande banquete no dia em que Isaque foi desmamado."
+            },
+            {
+                "id": "v21.9",
+                "versicle_number": 9,
+                "text": "E viu Sara que o filho de Hagar a egípcia, que esta tinha dado a Abraão, zombava."
+            },
+            {
+                "id": "v21.10",
+                "versicle_number": 10,
+                "text": "E disse a Abraão: Deita fora{note:3} esta serva e o seu filho; porque o filho desta serva não herdará com meu filho, com Isaque."
+            },
+            {
+                "id": "v21.11",
+                "versicle_number": 11,
+                "text": "E pareceu esta palavra mui má aos olhos de Abraão, por causa de seu filho."
+            },
+            {
+                "id": "v21.12",
+                "versicle_number": 12,
+                "text": "Porém Deus disse a Abraão: Não te pareça mal aos teus olhos acerca do moço, e acerca da tua serva; em tudo o que Sara te diz, ouve a sua voz; porque em Isaque será chamada a tua semente.{note:4}"
+            },
+            {
+                "id": "v21.13",
+                "versicle_number": 13,
+                "text": "Mas também do filho desta serva farei uma nação, porquanto é tua semente."
+            },
+            {
+                "id": "v21.14",
+                "versicle_number": 14,
+                "text": "Então se levantou Abraão pela manhã de madrugada, e tomou pão, e um odre de água, e os deu a Hagar, pondo-os sobre o seu ombro; também lhe deu o menino, e despediu-a; e ela foi-se, andando errante no deserto de Berseba."
+            },
+            {
+                "id": "v21.15",
+                "versicle_number": 15,
+                "text": "E consumida a água do odre, lançou o menino debaixo de uma das árvores."
+            },
+            {
+                "id": "v21.16",
+                "versicle_number": 16,
+                "text": "E foi-se, e assentou-se em frente, afastando-se a distância de um tiro de arco; porque dizia: Que não veja eu morrer o menino. E assentou-se em frente, e levantou a sua voz, e chorou."
+            },
+            {
+                "id": "v21.17",
+                "versicle_number": 17,
+                "text": "E ouviu Deus a voz do menino, e bradou o anjo de Deus a Hagar desde os céus, e disse-lhe: Que tens, Hagar? não temas, porque Deus ouviu a voz do rapaz desde o lugar onde está."
+            },
+            {
+                "id": "v21.18",
+                "versicle_number": 18,
+                "text": "Ergue-te, levanta o moço, e pega-lhe pela mão, porque dele farei uma grande nação."
+            },
+            {
+                "id": "v21.19",
+                "versicle_number": 19,
+                "text": "E abriu-lhe Deus os olhos, e viu um poço d’água, e foi-se, e encheu o odre de água, e deu de beber ao moço."
+            },
+            {
+                "id": "v21.20",
+                "versicle_number": 20,
+                "text": "E era Deus com o moço, que cresceu; e habitou no deserto, e foi frecheiro."
+            },
+            {
+                "id": "v21.21",
+                "versicle_number": 21,
+                "text": "E habitou no deserto de Parã; e sua mãe tomou-lhe mulher da terra do Egito."
+            },
+            {
+                "id": "v21.22",
+                "versicle_number": 22,
+                "text": "E aconteceu naquele mesmo tempo que Abimeleque,{note:5} com Ficol, {note:s}príncipe do seu exército, falou com Abraão, dizendo: Deus é contigo em tudo o que fazes;"
+            },
+            {
+                "id": "v21.23",
+                "versicle_number": 23,
+                "text": "Agora pois, jura-me aqui por Deus que me não mentirás a mim, nem a meu filho, nem a meu neto; segundo a beneficência que te fiz, me farás a mim, e à terra onde peregrinaste."
+            },
+            {
+                "id": "v21.24",
+                "versicle_number": 24,
+                "text": "E disse Abraão: Eu jurarei."
+            },
+            {
+                "id": "v21.25",
+                "versicle_number": 25,
+                "text": "Abraão, porém, repreendeu a Abimeleque por causa de um poço de água, que os servos de Abimeleque haviam tomado por força."
+            },
+            {
+                "id": "v21.26",
+                "versicle_number": 26,
+                "text": "Então disse Abimeleque: Eu não sei quem fez isto; e também tu mo não fizeste saber, nem eu o ouvi senão hoje."
+            },
+            {
+                "id": "v21.27",
+                "versicle_number": 27,
+                "text": "E tomou Abraão ovelhas e vacas, e deu-as a Abimeleque; e fizeram ambos concerto."
+            },
+            {
+                "id": "v21.28",
+                "versicle_number": 28,
+                "text": "Pôs Abraão, porém, à parte sete cordeiras do rebanho."
+            },
+            {
+                "id": "v21.29",
+                "versicle_number": 29,
+                "text": "E Abimeleque disse a Abraão: Para que estão aqui estas sete cordeiras, que puseste à parte?"
+            },
+            {
+                "id": "v21.30",
+                "versicle_number": 30,
+                "text": "E disse: Tomarás estas sete cordeiras de minha mão, para que sejam em testemunho que eu cavei este poço."
+            },
+            {
+                "id": "v21.31",
+                "versicle_number": 31,
+                "text": "Por isso se chamou aquele lugar {note:t}Berseba, porquanto ambos juraram ali."
+            },
+            {
+                "id": "v21.32",
+                "versicle_number": 32,
+                "text": "Assim fizeram concerto em Berseba. Depois se levantou Abimeleque e Ficol, príncipe do seu exército, e tornaram para a terra dos filisteus."
+            },
+            {
+                "id": "v21.33",
+                "versicle_number": 33,
+                "text": "E plantou um bosque em Berseba, e invocou lá o nome do Senhor, Deus eterno."
+            },
+            {
+                "id": "v21.34",
+                "versicle_number": 34,
+                "text": "E peregrinou Abraão na terra dos filisteus muitos dias."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v21.14",
+                "text": "O despedimento de Hagar e Ismael"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v21.22",
+                "text": "Abimeleque faz um pacto com Abraão"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 21.2 Hb 11.11"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 21.4 Gn 17.12; At 7.8"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 21.10 Gl 4.29-30"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 21.12 Rm 9.7; Hb 11.18"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 21.22 Gn 26.26 {note:s} 21.22 ou capitão-mor"
+            },
+            {
+                "id": "n6",
+                "text": "{note:t} 21.31 Heb. Beer-Seba, que significa poço do juramento"
+            }
+        ]
+    }
+}

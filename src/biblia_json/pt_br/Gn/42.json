@@ -1,0 +1,228 @@
+{
+    "book": {
+        "id": "Gn",
+        "book_number": 1,
+        "new_testament": false,
+        "num_chapters": 50,
+        "book_name": "GÊNESIS",
+        "book_full_name": "O PRIMEIRO LIVRO DE MOISÉS GÊNESIS"
+    },
+    "chapter": {
+        "chapter_number": 42,
+        "chapter_reference": "",
+        "chapter_title": "Os irmãos de José descem ao Egito",
+        "versicles": [
+            {
+                "id": "v42.1",
+                "versicle_number": 1,
+                "text": "VENDO então Jacó que havia mantimento no Egito, disse Jacó a seus filhos: Por que estais olhando uns para os outros?"
+            },
+            {
+                "id": "v42.2",
+                "versicle_number": 2,
+                "text": "Disse mais: Eis que tenho ouvido que há mantimento{note:1} no Egito; descei até lá, e comprai-nos trigo, para que vivamos e não morramos."
+            },
+            {
+                "id": "v42.3",
+                "versicle_number": 3,
+                "text": "Então desceram os dez irmãos de José, para comprarem trigo do Egito."
+            },
+            {
+                "id": "v42.4",
+                "versicle_number": 4,
+                "text": "A Benjamim, porém, irmão de José, não enviou Jacó com os seus irmãos, porque dizia: Para que lhe não suceda porventura algum desastre."
+            },
+            {
+                "id": "v42.5",
+                "versicle_number": 5,
+                "text": "Assim vieram os filhos de Israel para comprar, entre os que vinham lá; porque havia fome na terra de Canaã."
+            },
+            {
+                "id": "v42.6",
+                "versicle_number": 6,
+                "text": "José, pois, era o governador daquela terra; ele vendia a todo o povo da terra; e os irmãos de José vieram, e inclinaram-se ante ele com a face na terra."
+            },
+            {
+                "id": "v42.7",
+                "versicle_number": 7,
+                "text": "E José, vendo os seus irmãos, conheceu-os; porém mostrou-se estranho para com eles, e falou com eles asperamente, e disse-lhes: Donde vindes? E eles disseram: Da terra de Canaã, para comprarmos mantimento."
+            },
+            {
+                "id": "v42.8",
+                "versicle_number": 8,
+                "text": "José, pois, conheceu os seus irmãos; mas eles não o conheceram."
+            },
+            {
+                "id": "v42.9",
+                "versicle_number": 9,
+                "text": "Então José lembrou-se dos sonhos,{note:2} que havia sonhado deles, e disse-lhes: Vós sois espias, e viestes para ver a nudez da terra."
+            },
+            {
+                "id": "v42.10",
+                "versicle_number": 10,
+                "text": "E eles lhe disseram: Não, senhor meu; mas teus servos vieram a comprar mantimento."
+            },
+            {
+                "id": "v42.11",
+                "versicle_number": 11,
+                "text": "Todos nós somos filhos de um varão; somos homens de retidão; os teus servos não são espias."
+            },
+            {
+                "id": "v42.12",
+                "versicle_number": 12,
+                "text": "E ele lhes disse: Não; antes viestes para ver a nudez da terra."
+            },
+            {
+                "id": "v42.13",
+                "versicle_number": 13,
+                "text": "E eles disseram: Nós, teus servos, somos doze irmãos, filhos de um varão da terra de Canaã; e eis que o mais novo está com nosso pai hoje; mas um já não existe."
+            },
+            {
+                "id": "v42.14",
+                "versicle_number": 14,
+                "text": "Então lhes disse José: Isso é o que vos tenho dito, dizendo que sois espias;"
+            },
+            {
+                "id": "v42.15",
+                "versicle_number": 15,
+                "text": "Nisto sereis provados: Pela vida de Faraó, não saireis daqui senão quando vosso irmão mais novo vier aqui."
+            },
+            {
+                "id": "v42.16",
+                "versicle_number": 16,
+                "text": "Enviai um dentre vós, que traga vosso irmão, mas vós ficareis presos, e vossas palavras serão provadas, se há verdade convosco; e se não, pela vida de Faraó, vós sois espias."
+            },
+            {
+                "id": "v42.17",
+                "versicle_number": 17,
+                "text": "E pô-los juntos em guarda três dias."
+            },
+            {
+                "id": "v42.18",
+                "versicle_number": 18,
+                "text": "E ao terceiro dia disse-lhes José: Fazei isso, e vivereis; porque eu temo a Deus."
+            },
+            {
+                "id": "v42.19",
+                "versicle_number": 19,
+                "text": "Se sois homens de retidão, que fique um de vossos irmãos preso na casa de vossa prisão; e vós ide, levai trigo para a fome de vossa casa."
+            },
+            {
+                "id": "v42.20",
+                "versicle_number": 20,
+                "text": "E trazei-me o vosso irmão mais novo, e serão verificadas vossas palavras, e não morrereis. E eles assim fizeram."
+            },
+            {
+                "id": "v42.21",
+                "versicle_number": 21,
+                "text": "Então disseram uns aos outros: Na verdade, somos culpados acerca de nosso irmão, pois vimos a angústia de sua alma, quando nos rogava; nós porém não ouvimos; por isso vem sobre nós esta angústia."
+            },
+            {
+                "id": "v42.22",
+                "versicle_number": 22,
+                "text": "E Rúben respondeu-lhes dizendo: Não vo-lo dizia eu,{note:3} dizendo: Não pequeis contra o moço? Mas não ouvistes; e vedes aqui, o seu sangue também é requerido."
+            },
+            {
+                "id": "v42.23",
+                "versicle_number": 23,
+                "text": "E eles não sabiam que José os entendia, porque havia intérprete entre eles."
+            },
+            {
+                "id": "v42.24",
+                "versicle_number": 24,
+                "text": "E retirou-se deles, e chorou. Depois tornou a eles, falou-lhes, e tomou a Simeão dentre eles, e amarrou-o perante os seus olhos."
+            },
+            {
+                "id": "v42.25",
+                "versicle_number": 25,
+                "text": "E ordenou José que enchessem os seus sacos de trigo, e que lhes restituíssem o seu dinheiro a cada um no seu saco, e lhes dessem comida para o caminho; e fizeram-lhes assim."
+            },
+            {
+                "id": "v42.26",
+                "versicle_number": 26,
+                "text": "E carregaram o seu trigo sobre os seus jumentos, e partiram dali."
+            },
+            {
+                "id": "v42.27",
+                "versicle_number": 27,
+                "text": "E, abrindo um deles o seu saco, para dar pasto ao seu jumento na venda, viu o seu dinheiro; porque eis que estava na boca do seu saco."
+            },
+            {
+                "id": "v42.28",
+                "versicle_number": 28,
+                "text": "E disse a seus irmãos: Devolveram o meu dinheiro, e ei-lo mesmo aqui no meu saco. Então lhes desfaleceu o coração, e pasmavam, dizendo um ao outro: Que é isto que Deus nos tem feito?"
+            },
+            {
+                "id": "v42.29",
+                "versicle_number": 29,
+                "text": "E vieram para Jacó, seu pai, na terra de Canaã; e contaram-lhe tudo o que lhes aconteceu, dizendo:"
+            },
+            {
+                "id": "v42.30",
+                "versicle_number": 30,
+                "text": "O varão, o senhor da terra, falou conosco asperamente, e tratou-nos como espias da terra;"
+            },
+            {
+                "id": "v42.31",
+                "versicle_number": 31,
+                "text": "Mas dissemos-lhe: Somos homens de retidão; não somos espias;"
+            },
+            {
+                "id": "v42.32",
+                "versicle_number": 32,
+                "text": "Somos doze irmãos, filhos de nosso pai; um não é mais, e o mais novo está hoje com nosso pai na terra de Canaã."
+            },
+            {
+                "id": "v42.33",
+                "versicle_number": 33,
+                "text": "E aquele varão, o senhor da terra, nos disse: Nisto conhecerei que vós sois homens de retidão: Deixai comigo um de vossos irmãos, e tomai para a fome de vossas casas, e parti,"
+            },
+            {
+                "id": "v42.34",
+                "versicle_number": 34,
+                "text": "E trazei-me vosso irmão mais novo; assim saberei que não sois espias, mas homens de retidão; então vos darei o vosso irmão e negociareis na terra."
+            },
+            {
+                "id": "v42.35",
+                "versicle_number": 35,
+                "text": "E aconteceu que, despejando eles os seus sacos, eis que cada um tinha a trouxinha com seu dinheiro no seu saco; e viram as trouxinhas com seu dinheiro, eles e seu pai, e temeram."
+            },
+            {
+                "id": "v42.36",
+                "versicle_number": 36,
+                "text": "Então Jacó, seu pai, disse-lhes: Tendes-me desfilhado; José já não existe, e Simeão não está aqui; agora levareis a Benjamim. Todas estas cousas vieram sobre mim."
+            },
+            {
+                "id": "v42.37",
+                "versicle_number": 37,
+                "text": "Mas Rúben falou a seu pai, dizendo: Mata os meus dois filhos, se to não tornar a trazer; dá-mo em minha mão, e to tornarei a trazer."
+            },
+            {
+                "id": "v42.38",
+                "versicle_number": 38,
+                "text": "Ele porém disse: Não descerá meu filho convosco; porquanto o seu irmão é morto, e só ele ficou. Se lhe sucede algum desastre no caminho por onde fordes, fareis descer minhas cãs com tristeza à sepultura."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v42.25",
+                "text": "Os irmãos de José voltam do Egito"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 42.2 At 7.12"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 42.9 Gn 37.5-10"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 42.22 Gn 37.21-22"
+            }
+        ]
+    }
+}

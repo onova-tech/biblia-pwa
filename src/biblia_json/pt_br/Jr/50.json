@@ -1,0 +1,266 @@
+{
+    "book": {
+        "id": "Jr",
+        "book_number": 24,
+        "new_testament": false,
+        "num_chapters": 52,
+        "book_name": "JEREMIAS",
+        "book_full_name": "JEREMIAS"
+    },
+    "chapter": {
+        "chapter_number": 50,
+        "chapter_reference": "",
+        "chapter_title": "Profecia contra Babilônia",
+        "versicles": [
+            {
+                "id": "v50.1",
+                "versicle_number": 1,
+                "text": "A PALAVRA que falou o Senhor contra Babilônia, contra a terra dos caldeus, por Jeremias, o profeta."
+            },
+            {
+                "id": "v50.2",
+                "versicle_number": 2,
+                "text": "Anunciai entre as nações; e fazei ouvir, e arvorai um estandarte, fazei ouvir, não encubrais; dizei: Tomada é Babilônia, confundido está Bel, atropelado está Merodaque, confundidos estão os seus ídolos, e caídos estão os seus deuses."
+            },
+            {
+                "id": "v50.3",
+                "versicle_number": 3,
+                "text": "Porque subiu contra ele uma nação do norte, que fará da sua terra uma solidão, e não haverá quem habite nela: desde os homens até os animais fugiram, e se foram."
+            },
+            {
+                "id": "v50.4",
+                "versicle_number": 4,
+                "text": "Naqueles dias, e naquele tempo diz o Senhor, os filhos de Israel virão, eles e os filhos de Judá juntamente; andando e chorando virão, e buscarão ao Senhor seu Deus."
+            },
+            {
+                "id": "v50.5",
+                "versicle_number": 5,
+                "text": "Pelo caminho de Sião perguntarão, para ali dirigirão os seus rostos: virão, e se ajuntarão ao Senhor num concerto eterno que nunca será esquecido."
+            },
+            {
+                "id": "v50.6",
+                "versicle_number": 6,
+                "text": "Ovelhas perdidas foram o meu povo, os seus pastores as fizeram errar, para os montes as deixaram desviar; de monte em outeiro andaram, esqueceram-se do lugar de seu repouso."
+            },
+            {
+                "id": "v50.7",
+                "versicle_number": 7,
+                "text": "Todos os que as achavam as devoraram; e os seus adversários diziam: Culpa nenhuma teremos: porque pecaram contra o Senhor, e a morada da justiça; sim, o Senhor, a Esperança de seus pais."
+            },
+            {
+                "id": "v50.8",
+                "versicle_number": 8,
+                "text": "Fugi do meio de Babilônia,{note:1} e saí da terra dos caldeus; e sede como os carneiros diante do rebanho."
+            },
+            {
+                "id": "v50.9",
+                "versicle_number": 9,
+                "text": "Porque eis que eu suscitarei e farei subir contra Babilônia uma congregação de grandes nações da terra do norte, e se prepararão contra ela; dali será tomada: as suas frechas serão como de valente herói; nenhuma tornará sem efeito."
+            },
+            {
+                "id": "v50.10",
+                "versicle_number": 10,
+                "text": "E a Caldeia servirá de presa: todos os que a saquearem ficarão fartos, diz o Senhor;"
+            },
+            {
+                "id": "v50.11",
+                "versicle_number": 11,
+                "text": "Porquanto vos alegrastes, saltastes de prazer, ó saqueadores da minha herança, e vos inchastes como bezerra gorda, e rinchastes como cavalos vigorosos."
+            },
+            {
+                "id": "v50.12",
+                "versicle_number": 12,
+                "text": "Será mui confundida vossa mãe, ficará envergonhada a que vos deu à luz: eis que ela será a última das nações, um deserto, uma terra seca e uma solidão."
+            },
+            {
+                "id": "v50.13",
+                "versicle_number": 13,
+                "text": "Por causa do furor do Senhor não será habitada, antes se tornará em total assolação: qualquer que passar por Babilônia se espantará, e assobiará vendo todas as suas pragas."
+            },
+            {
+                "id": "v50.14",
+                "versicle_number": 14,
+                "text": "Preparai-vos para cercar Babilônia, todos os que armais arcos: atirai-lhe, não poupeis as frechas, porque pecou contra o Senhor."
+            },
+            {
+                "id": "v50.15",
+                "versicle_number": 15,
+                "text": "Gritai contra ela rodeando-a; ela já se submeteu; caíram seus fundamentos, estão derribados os seus muros; porque esta é a vingança do Senhor: vingai-vos dela; como ela fez, fazei-lhe a ela."
+            },
+            {
+                "id": "v50.16",
+                "versicle_number": 16,
+                "text": "Arrancai de Babilônia o que semeia, e o que leva a foice no tempo da sega: por causa da espada aflitiva, virar-se-á cada um para o seu povo, e fugirá cada um para a sua terra."
+            },
+            {
+                "id": "v50.17",
+                "versicle_number": 17,
+                "text": "Cordeiro desgarrado é Israel: os leões o afugentaram: o primeiro a devorá-lo foi o rei da Assíria; e por último, Nabucodonosor, rei de Babilônia, lhe quebrou os ossos."
+            },
+            {
+                "id": "v50.18",
+                "versicle_number": 18,
+                "text": "Portanto, assim diz o Senhor dos Exércitos, Deus de Israel: Eis que visitarei o rei de Babilônia, e a sua terra, como visitei o rei da Assíria."
+            },
+            {
+                "id": "v50.19",
+                "versicle_number": 19,
+                "text": "E farei tornar Israel para a sua morada, e pastará no Carmelo e em Basã; e fartar-se-á a sua alma no monte de Efraim e em Gileade."
+            },
+            {
+                "id": "v50.20",
+                "versicle_number": 20,
+                "text": "Naqueles dias, e naquele tempo, diz o Senhor, buscar-se-á a maldade de Israel, e não será achada; e os pecados de Judá, mas não se acharão; porque perdoarei aos que eu deixar de resto."
+            },
+            {
+                "id": "v50.21",
+                "versicle_number": 21,
+                "text": "Sobe contra a terra de Merataim, sobe contra ela, e contra os moradores de Pécode; assola e inteiramente destrói tudo após eles, diz o Senhor, e faze conforme tudo o que te mandei."
+            },
+            {
+                "id": "v50.22",
+                "versicle_number": 22,
+                "text": "Estrondo de batalha há na terra, e de grande destruição."
+            },
+            {
+                "id": "v50.23",
+                "versicle_number": 23,
+                "text": "Como foi cortado e quebrado o martelo de toda a terra! como se tornou Babilônia em espanto entre as nações!"
+            },
+            {
+                "id": "v50.24",
+                "versicle_number": 24,
+                "text": "Laços te armei, e também foste presa, ó Babilônia, e tu não o soubeste: foste achada, e também apanhada; porque contra o Senhor te entremeteste."
+            },
+            {
+                "id": "v50.25",
+                "versicle_number": 25,
+                "text": "O Senhor abriu o seu tesouro, e tirou os instrumentos da sua indignação; porque o Senhor, o Senhor dos Exércitos, tem uma obra a realizar na terra dos caldeus."
+            },
+            {
+                "id": "v50.26",
+                "versicle_number": 26,
+                "text": "Vinde contra ela dos confins da terra, abri os seus celeiros, trilhai-a como a paveias, e destruí-a de todo: nada lhe fique de resto."
+            },
+            {
+                "id": "v50.27",
+                "versicle_number": 27,
+                "text": "Matai à espada a todos os seus novilhos, desçam ao degoladouro: ai deles! porque veio o seu dia, o tempo da sua visitação."
+            },
+            {
+                "id": "v50.28",
+                "versicle_number": 28,
+                "text": "Tal é a voz dos que fugiram e escaparam da terra de Babilônia para anunciarem em Sião a vingança do Senhor nosso Deus, a vingança do seu templo."
+            },
+            {
+                "id": "v50.29",
+                "versicle_number": 29,
+                "text": "Convocai contra Babilônia os frecheiros, todos os que armam arcos: acampai-vos contra ela em redor, ninguém escape dela; pagai-lhe conforme a sua obra,{note:2} conforme tudo o que fez, fazei-lhe; porque se houve arrogantemente contra o Senhor, contra o Santo de Israel."
+            },
+            {
+                "id": "v50.30",
+                "versicle_number": 30,
+                "text": "Portanto, cairão os seus mancebos nas suas ruas; e todos os seus homens de guerra serão desarraigados naquele dia, diz o Senhor."
+            },
+            {
+                "id": "v50.31",
+                "versicle_number": 31,
+                "text": "Eis que eu sou contra ti, ó soberbo, diz o Senhor Deus dos Exércitos, porque veio o teu dia, o tempo em que te hei de visitar."
+            },
+            {
+                "id": "v50.32",
+                "versicle_number": 32,
+                "text": "Então tropeçará o soberbo, e cairá, e ninguém haverá que o levante; e porei fogo às suas cidades, o qual consumirá todos os seus contornos."
+            },
+            {
+                "id": "v50.33",
+                "versicle_number": 33,
+                "text": "Assim diz o Senhor dos Exércitos: Os filhos de Israel e os filhos de Judá foram oprimidos juntamente; e todos os que os levaram cativos os retiveram não os quiseram soltar."
+            },
+            {
+                "id": "v50.34",
+                "versicle_number": 34,
+                "text": "Mas o seu Redentor é forte, o Senhor dos Exércitos é o seu nome; certamente pleiteará a causa deles, para dar descanso à terra, e inquietar os moradores de Babilônia."
+            },
+            {
+                "id": "v50.35",
+                "versicle_number": 35,
+                "text": "A espada virá sobre os caldeus, diz o Senhor, e sobre os moradores de Babilônia, e sobre os seus príncipes, sobre os seus sábios."
+            },
+            {
+                "id": "v50.36",
+                "versicle_number": 36,
+                "text": "A espada, virá sobre os mentirosos, e ficarão insensatos: a espada virá sobre os seus valentes, e desmaiarão."
+            },
+            {
+                "id": "v50.37",
+                "versicle_number": 37,
+                "text": "A espada virá sobre os seus cavalos, e sobre os seus carros, e sobre todo o povo misto, que está no meio dela; e eles serão como mulheres: a espada virá sobre os seus tesouros, e serão saqueados."
+            },
+            {
+                "id": "v50.38",
+                "versicle_number": 38,
+                "text": "Cairá a seca sobre as suas águas, e secarão; porque é uma terra de imagens de escultura, e eles pelos seus ídolos andam enfurecidos."
+            },
+            {
+                "id": "v50.39",
+                "versicle_number": 39,
+                "text": "Por isso habitarão{note:3} nela as feras do deserto, com os animais bravos das ilhas: também habitarão nela as avestruzes; e nunca mais será povoada, nem será habitada de geração em geração."
+            },
+            {
+                "id": "v50.40",
+                "versicle_number": 40,
+                "text": "Como quando Deus transtornou a Sodoma e a Gomorra,{note:4} e aos seus vizinhos, diz o Senhor; assim ninguém habitará ali, nem morará nela filho de homem."
+            },
+            {
+                "id": "v50.41",
+                "versicle_number": 41,
+                "text": "Eis que um povo vem do norte, e uma grande nação, e reis poderosos se levantarão dos lados mais remotos da terra."
+            },
+            {
+                "id": "v50.42",
+                "versicle_number": 42,
+                "text": "Arco e lança tomarão; eles são cruéis, e não conhecem a compaixão; a sua voz bramará como o mar e sobre cavalos cavalgarão, como um homem, apercebido para a batalha, contra ti, ó filha de Babilônia."
+            },
+            {
+                "id": "v50.43",
+                "versicle_number": 43,
+                "text": "O rei de Babilônia ouviu a fama deles, e desfaleceram as suas mãos: angústia se apoderou dele, dores, como da que está de parto."
+            },
+            {
+                "id": "v50.44",
+                "versicle_number": 44,
+                "text": "Eis que um como leão subirá da enchente do Jordão, contra a morada forte, mas num momento o farei correr dali; e ao escolhido porei contra ela: porque quem é semelhante a mim? e quem me citaria a mim? e quem é o pastor que subsistiria perante mim?"
+            },
+            {
+                "id": "v50.45",
+                "versicle_number": 45,
+                "text": "Portanto ouvi o conselho que o Senhor decretou contra Babilônia, e os seus desígnios que intentou contra a terra dos caldeus: Certamente os mais pequenos do rebanho os arrastarão: certamente será assolada a morada deles."
+            },
+            {
+                "id": "v50.46",
+                "versicle_number": 46,
+                "text": "Ao estrondo da tomada de Babilônia estremeceu a terra; e o grito se ouviu entre as nações."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 50.8 Ap 18.4"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 50.29 Ap 18.6"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 50.39 Ap 19.12"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 50.40 Gn 19.24-25"
+            }
+        ]
+    }
+}

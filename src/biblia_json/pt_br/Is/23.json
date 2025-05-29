@@ -1,0 +1,118 @@
+{
+    "book": {
+        "id": "Is",
+        "book_number": 23,
+        "new_testament": false,
+        "num_chapters": 66,
+        "book_name": "ISAÍAS",
+        "book_full_name": "ISAÍAS"
+    },
+    "chapter": {
+        "chapter_number": 23,
+        "chapter_reference": "",
+        "chapter_title": "A ruína e restauração de Tiro",
+        "versicles": [
+            {
+                "id": "v23.1",
+                "versicle_number": 1,
+                "text": "{note:d}PESO de Tiro. Uivai, navios de Tarsis, porque está assolada, a ponto de não haver nela casa nenhuma, e de ninguém mais entrar nela: desde a terra de Quitim lhes foi isto revelado."
+            },
+            {
+                "id": "v23.2",
+                "versicle_number": 2,
+                "text": "Calai-vos, moradores da ilha, vós a quem encheram os mercadores de Sidom, navegando pelo mar."
+            },
+            {
+                "id": "v23.3",
+                "versicle_number": 3,
+                "text": "E a sua provisão era a semente de Sicor, que vinha com as muitas águas, a ceifa do Nilo, e ela era a feira das nações."
+            },
+            {
+                "id": "v23.4",
+                "versicle_number": 4,
+                "text": "Envergonha-te, ó Sidom, porque o mar, a fortaleza do mar, fala, dizendo: Eu não tive dores de parto, nem dei à luz, nem ainda criei mancebos, nem eduquei donzelas."
+            },
+            {
+                "id": "v23.5",
+                "versicle_number": 5,
+                "text": "Como com as novas do Egito, assim haverá dores quando se ouvirem as de Tiro."
+            },
+            {
+                "id": "v23.6",
+                "versicle_number": 6,
+                "text": "Passai a Tarsis: uivai, moradores da ilha."
+            },
+            {
+                "id": "v23.7",
+                "versicle_number": 7,
+                "text": "É esta a vossa cidade que andava pulando de alegria? cuja antiguidade vem de dias remotos? pois levá-la-ão os seus próprios pés para longe andarem a peregrinar."
+            },
+            {
+                "id": "v23.8",
+                "versicle_number": 8,
+                "text": "Quem formou este desígnio contra Tiro, a cidade coroada, cujos mercadores são príncipes e cujos negociantes são os mais nobres da terra?"
+            },
+            {
+                "id": "v23.9",
+                "versicle_number": 9,
+                "text": "O Senhor dos Exércitos formou este desígnio para denegrir a soberba de todo o ornamento, e envilecer os mais nobres da terra."
+            },
+            {
+                "id": "v23.10",
+                "versicle_number": 10,
+                "text": "Passa como o Nilo pela tua terra, ó filha de Tarsis; já não há cinto ao redor de ti."
+            },
+            {
+                "id": "v23.11",
+                "versicle_number": 11,
+                "text": "Ele estendeu a sua mão sobre o mar, e turbou os reinos: o Senhor deu mandado contra Canaã, para que se destruíssem as suas fortalezas."
+            },
+            {
+                "id": "v23.12",
+                "versicle_number": 12,
+                "text": "E disse: Nunca mais pularás de alegria, ó oprimida donzela, filha de Sidom: levanta-te, passa a Quitim, e mesmo ali não terás descanso."
+            },
+            {
+                "id": "v23.13",
+                "versicle_number": 13,
+                "text": "Vede a terra dos caldeus, ainda este povo não era povo; a Assíria a fundou para os que moravam no deserto: levantaram as suas fortalezas, e edificaram os seus paços; mas já está arruinada de todo."
+            },
+            {
+                "id": "v23.14",
+                "versicle_number": 14,
+                "text": "Uivai, navios de Tarsis, porque é destruída a vossa força."
+            },
+            {
+                "id": "v23.15",
+                "versicle_number": 15,
+                "text": "E sucederá naquele dia que Tiro será posta em esquecimento por setenta anos, conforme os dias dum rei: mas no fim de setenta anos Tiro será como a canção duma prostituta."
+            },
+            {
+                "id": "v23.16",
+                "versicle_number": 16,
+                "text": "Toma a harpa, rodeia a cidade, ó prostituta entregue ao esquecimento: toca bem, canta e repete a ária, para que haja memória de ti."
+            },
+            {
+                "id": "v23.17",
+                "versicle_number": 17,
+                "text": "Porque será no fim de setenta anos que o Senhor visitará a Tiro, e ela tornará à sua ganância de prostituta, e terá comércio com todos os reinos que há sobre a face da terra."
+            },
+            {
+                "id": "v23.18",
+                "versicle_number": 18,
+                "text": "E será consagrado ao Senhor o seu comércio e a sua ganância de prostituta; não se entesourará, nem se fechará; mas o seu comércio será para os que habitam perante o Senhor, para que comam suficientemente, e tenham vestido durável.{note:1}"
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:d} 23.1 ou Sentença"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 23.1-18 Ez 26.1—29.19; Jl 3.4-8; Am 1.9-10; Zc 9.3-4; Mt 11.21-22; Lc 10.13-14"
+            }
+        ]
+    }
+}

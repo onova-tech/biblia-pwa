@@ -1,0 +1,103 @@
+{
+    "book": {
+        "id": "Jr",
+        "book_number": 24,
+        "new_testament": false,
+        "num_chapters": 52,
+        "book_name": "JEREMIAS",
+        "book_full_name": "JEREMIAS"
+    },
+    "chapter": {
+        "chapter_number": 19,
+        "chapter_reference": "",
+        "chapter_title": "A botija quebrada. A ruína de Jerusalém",
+        "versicles": [
+            {
+                "id": "v19.1",
+                "versicle_number": 1,
+                "text": "ASSIM diz o Senhor: Vai, e compra uma botija de oleiro, e leva contigo os anciãos do povo e os anciãos dos sacerdotes."
+            },
+            {
+                "id": "v19.2",
+                "versicle_number": 2,
+                "text": "E sai ao vale do filho de Hinom,{note:1} que está à entrada da porta do sol, e apregoa ali as palavras que eu te disser."
+            },
+            {
+                "id": "v19.3",
+                "versicle_number": 3,
+                "text": "E dize: Ouvi a palavra do Senhor, ó reis de Judá, e moradores de Jerusalém: assim diz o Senhor dos Exércitos, o Deus de Israel: Eis que trarei tão grande mal sobre este lugar, que quem quer que dele ouvir retinir-lhe-ão as orelhas:"
+            },
+            {
+                "id": "v19.4",
+                "versicle_number": 4,
+                "text": "Porquanto me deixaram, e profanaram este lugar, e nele queimaram incenso a outros deuses, que nunca conheceram, nem eles nem seus pais, nem os reis de Judá; e encheram este lugar de sangue de inocentes."
+            },
+            {
+                "id": "v19.5",
+                "versicle_number": 5,
+                "text": "Porque edificaram os altos de Baal, para queimarem seus filhos{note:2} no fogo em holocausto a Baal; o que nunca lhes ordenei, nem falei, nem subiu ao meu coração."
+            },
+            {
+                "id": "v19.6",
+                "versicle_number": 6,
+                "text": "Por isso eis que dias vêm, diz o Senhor, em que este lugar não se chamará mais Tofete, nem o vale do filho de Hinom, mas o vale da matança."
+            },
+            {
+                "id": "v19.7",
+                "versicle_number": 7,
+                "text": "Porque dissiparei o conselho de Judá e de Jerusalém neste lugar, e os farei cair à espada diante de seus inimigos, e pela mão dos que buscam a vida deles; e darei os seus cadáveres por pasto às aves dos céus e aos animais da terra."
+            },
+            {
+                "id": "v19.8",
+                "versicle_number": 8,
+                "text": "E porei esta cidade em espanto e por assobio: todo aquele que passar por ela se espantará e assobiará, por causa de todas as suas pragas."
+            },
+            {
+                "id": "v19.9",
+                "versicle_number": 9,
+                "text": "E lhes farei comer a carne de seus filhos, e a carne de suas filhas e comerá cada um a carne do seu próximo, no cerco e no aperto em que os apertarão os seus inimigos, e os que buscam a vida deles."
+            },
+            {
+                "id": "v19.10",
+                "versicle_number": 10,
+                "text": "Então quebrarás a botija à vista dos homens que foram contigo."
+            },
+            {
+                "id": "v19.11",
+                "versicle_number": 11,
+                "text": "E dir-lhes-ás: Assim diz o Senhor dos Exércitos: Deste modo quebrarei eu a este povo, e a esta cidade, como se quebra o vaso do oleiro, que não pode mais refazer-se, e os enterrarão em Tofete, porque não haverá outro lugar para os enterrar."
+            },
+            {
+                "id": "v19.12",
+                "versicle_number": 12,
+                "text": "Assim farei a este lugar, diz o Senhor, e aos seus moradores; sim, para pôr a esta cidade como a Tofete."
+            },
+            {
+                "id": "v19.13",
+                "versicle_number": 13,
+                "text": "E as casas de Jerusalém, e as casas dos reis de Judá, serão imundas como o lugar de Tofete: como também todas as casas, sobre cujos terraços queimaram incenso a todo o exército dos céus, e ofereceram libações a deuses estranhos."
+            },
+            {
+                "id": "v19.14",
+                "versicle_number": 14,
+                "text": "Vindo pois Jeremias de Tofete, onde o tinha enviado o Senhor a profetizar, se pôs em pé no átrio da casa do Senhor, e disse a todo o povo:"
+            },
+            {
+                "id": "v19.15",
+                "versicle_number": 15,
+                "text": "Assim diz o Senhor dos Exércitos, o Deus de Israel: Eis que trarei sobre esta cidade, e sobre todas as suas cidades, todo o mal que pronunciei contra ela, porquanto endureceram a sua cerviz, para não ouvirem as minhas palavras."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 19.2 2Rs 23.10; Jr 7.30-32; 32.34-35"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 19.5 Lv 18.21"
+            }
+        ]
+    }
+}

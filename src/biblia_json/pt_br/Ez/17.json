@@ -1,0 +1,148 @@
+{
+    "book": {
+        "id": "Ez",
+        "book_number": 26,
+        "new_testament": false,
+        "num_chapters": 48,
+        "book_name": "EZEQUIEL",
+        "book_full_name": "EZEQUIEL"
+    },
+    "chapter": {
+        "chapter_number": 17,
+        "chapter_reference": "",
+        "chapter_title": "A parábola das duas águias e da videira",
+        "versicles": [
+            {
+                "id": "v17.1",
+                "versicle_number": 1,
+                "text": "E VEIO a mim a palavra do Senhor, dizendo:"
+            },
+            {
+                "id": "v17.2",
+                "versicle_number": 2,
+                "text": "Filho do homem, propõe uma parábola, e usa duma comparação para com a casa de Israel."
+            },
+            {
+                "id": "v17.3",
+                "versicle_number": 3,
+                "text": "E dize: Assim diz o Senhor JEOVÁ: Uma grande águia, de grandes asas, de farta plumagem, cheia de penas de várias cores, veio ao Líbano e levou o mais alto ramo dum cedro."
+            },
+            {
+                "id": "v17.4",
+                "versicle_number": 4,
+                "text": "E arrancou a ponta mais alta dos seus ramos, e a trouxe a uma terra de {note:r}mercancia, na cidade de mercadores a pôs."
+            },
+            {
+                "id": "v17.5",
+                "versicle_number": 5,
+                "text": "Tomou da semente da terra, e a lançou num campo de semente: tomando-a, a pôs junto às grandes águas com grande prudência."
+            },
+            {
+                "id": "v17.6",
+                "versicle_number": 6,
+                "text": "E brotou, e tornou-se numa videira mui larga, de pouca altura, virando-se para ela os seus ramos, porque as suas raízes estavam debaixo dela; e tornou-se numa videira, e produzia sarmentos, e lançava renovos."
+            },
+            {
+                "id": "v17.7",
+                "versicle_number": 7,
+                "text": "E houve mais uma grande águia, de grandes asas, e cheia de penas; e eis que esta videira lançou para ela as suas raízes, e estendeu para ela os seus ramos, desde as auréolas do seu plantio, para que a regasse."
+            },
+            {
+                "id": "v17.8",
+                "versicle_number": 8,
+                "text": "Numa boa terra, à borda de muitas águas, estava ela plantada, para produzir ramos, e para dar fruto, para que fosse videira excelente."
+            },
+            {
+                "id": "v17.9",
+                "versicle_number": 9,
+                "text": "Dize: Assim diz o Senhor JEOVÁ: Ela prosperará? não lhe arrancará ele as suas raízes, e não cortará o seu fruto, para que se seque? em todas as folhas de seus renovos se secará; e, não com braço grande, nem com muita gente, será arrancada pelas suas raízes."
+            },
+            {
+                "id": "v17.10",
+                "versicle_number": 10,
+                "text": "Mas, estando plantada, prosperará? porventura, tocando-lhe vento oriental, de todo não se secará? desde as auréolas do seu plantio se secará."
+            },
+            {
+                "id": "v17.11",
+                "versicle_number": 11,
+                "text": "Então veio a mim a palavra do Senhor, dizendo:"
+            },
+            {
+                "id": "v17.12",
+                "versicle_number": 12,
+                "text": "Dize agora à casa rebelde: Não sabeis o que significam estas cousas? dize: Eis que veio o rei de Babilônia a Jerusalém, e tomou o seu rei e os seus príncipes, e os levou consigo para Babilônia;"
+            },
+            {
+                "id": "v17.13",
+                "versicle_number": 13,
+                "text": "E tomou um da semente real, e fez concerto com ele, e o trouxe sob juramento; e tomou os poderosos da terra;"
+            },
+            {
+                "id": "v17.14",
+                "versicle_number": 14,
+                "text": "Para que o reino ficasse humilhado, e não se levantasse: para que, guardando o seu concerto, pudesse subsistir."
+            },
+            {
+                "id": "v17.15",
+                "versicle_number": 15,
+                "text": "Mas rebelou-se contra ele, enviando os seus mensageiros ao Egito, para que lhe mandassem cavalos e muita gente: prosperará ou escapará aquele que faz tais cousas? ou quebrantará o concerto, e escapará?{note:1}"
+            },
+            {
+                "id": "v17.16",
+                "versicle_number": 16,
+                "text": "Como eu vivo, diz o Senhor JEOVÁ, no lugar em que habita o rei que o fez reinar, cujo juramento desprezou, e cujo concerto quebrantou, sim, com ele no meio de Babilônia certamente morrerá."
+            },
+            {
+                "id": "v17.17",
+                "versicle_number": 17,
+                "text": "E Faraó, nem com grande exército, nem com uma companhia numerosa, fará cousa alguma com ele em guerra, levantando tranqueiras e edificando baluartes, para destruir muitas vidas."
+            },
+            {
+                "id": "v17.18",
+                "versicle_number": 18,
+                "text": "Pois que desprezou o juramento, quebrantando o concerto, e deu a sua mão; havendo feito todas estas cousas, não escapará."
+            },
+            {
+                "id": "v17.19",
+                "versicle_number": 19,
+                "text": "Portanto, assim diz o Senhor JEOVÁ: Vivo eu, que o meu juramento, que desprezou, e o meu concerto, que quebrantou, isto farei recair sobre a sua cabeça."
+            },
+            {
+                "id": "v17.20",
+                "versicle_number": 20,
+                "text": "E estenderei sobre ele a minha rede, e ficará preso no meu laço; e o levarei a Babilônia, e ali entrarei em juízo com ele pela rebeldia com que se rebelou contra mim."
+            },
+            {
+                "id": "v17.21",
+                "versicle_number": 21,
+                "text": "E todos os seus fugitivos, com todas as suas tropas, cairão à espada, e os que restarem serão espalhados em todas as direções; e sabereis que eu, o Senhor, o disse."
+            },
+            {
+                "id": "v17.22",
+                "versicle_number": 22,
+                "text": "Assim diz o Senhor JEOVÁ: Também eu tomarei o topo do cedro, e o plantarei; do principal dos seus renovos cortarei o mais tenro, e o plantarei sobre um monte alto e sublime."
+            },
+            {
+                "id": "v17.23",
+                "versicle_number": 23,
+                "text": "No monte alto de Israel o plantarei, e produzirá ramos, e dará fruto, e se fará um cedro excelente; e habitarão debaixo dele todas as aves de toda a sorte de asas, e à sombra dos seus ramos habitarão."
+            },
+            {
+                "id": "v17.24",
+                "versicle_number": 24,
+                "text": "Assim saberão todas as árvores do campo que eu, o Senhor, abati a árvore alta, elevei a árvore baixa, sequei a árvore verde, e fiz reverdecer a árvore seca: eu, o Senhor, o disse, e o farei."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:r} 17.4 ou Canaã"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 17.12-15 2Rs 24.15-20; 2Cr 36.10-13"
+            }
+        ]
+    }
+}

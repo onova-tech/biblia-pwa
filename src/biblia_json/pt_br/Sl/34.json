@@ -1,0 +1,146 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 34,
+        "chapter_reference": "",
+        "chapter_title": "Davi louva a Deus, que respondeu às suas súplicas, e exorta a confiar nele",
+        "versicles": [
+            {
+                "id": "v34.1",
+                "versicle_number": 1,
+                "text": "LOUVAREI ao Senhor em todo o tempo: o seu louvor estará continuamente na minha boca."
+            },
+            {
+                "id": "v34.2",
+                "versicle_number": 2,
+                "text": "A minha alma se gloriará no Senhor: os mansos o ouvirão e se alegrarão."
+            },
+            {
+                "id": "v34.3",
+                "versicle_number": 3,
+                "text": "Engrandecei ao Senhor comigo, e juntos exaltemos o seu nome."
+            },
+            {
+                "id": "v34.4",
+                "versicle_number": 4,
+                "text": "Busquei ao Senhor, e ele me respondeu: livrou-me de todos os meus temores."
+            },
+            {
+                "id": "v34.5",
+                "versicle_number": 5,
+                "text": "Olharam para ele, e foram iluminados; e os seus rostos não ficarão confundidos."
+            },
+            {
+                "id": "v34.6",
+                "versicle_number": 6,
+                "text": "Clamou este pobre, e o Senhor o ouviu, e o salvou de todas as suas angústias."
+            },
+            {
+                "id": "v34.7",
+                "versicle_number": 7,
+                "text": "O anjo do Senhor acampa-se ao redor dos que o temem, e os livra."
+            },
+            {
+                "id": "v34.8",
+                "versicle_number": 8,
+                "text": "Provai,{note:2} e vede que o Senhor é bom; bem-aventurado o homem que nele confia."
+            },
+            {
+                "id": "v34.9",
+                "versicle_number": 9,
+                "text": "Temei ao Senhor, vós, os seus santos, pois não têm falta alguma aqueles que o temem."
+            },
+            {
+                "id": "v34.10",
+                "versicle_number": 10,
+                "text": "Os filhos dos leões necessitam e sofrem fome, mas aqueles que buscam ao Senhor de nada têm falta."
+            },
+            {
+                "id": "v34.11",
+                "versicle_number": 11,
+                "text": "Vinde, meninos, ouvi-me: eu vos ensinarei o temor do Senhor."
+            },
+            {
+                "id": "v34.12",
+                "versicle_number": 12,
+                "text": "Quem é o homem que deseja a vida, que quer largos dias para ver o bem?"
+            },
+            {
+                "id": "v34.13",
+                "versicle_number": 13,
+                "text": "Guarda a tua língua do mal, e os teus lábios de falarem enganosamente."
+            },
+            {
+                "id": "v34.14",
+                "versicle_number": 14,
+                "text": "Aparta-te do mal, e faze o bem: procura a paz e segue-a."
+            },
+            {
+                "id": "v34.15",
+                "versicle_number": 15,
+                "text": "Os olhos do Senhor estão sobre os justos, e os seus ouvidos atentos ao seu clamor."
+            },
+            {
+                "id": "v34.16",
+                "versicle_number": 16,
+                "text": "A face do Senhor está contra os que fazem o mal, para desarraigar da terra a memória deles.{note:3}"
+            },
+            {
+                "id": "v34.17",
+                "versicle_number": 17,
+                "text": "Os justos clamam, e o Senhor os ouve, e os livra de todas as suas angústias."
+            },
+            {
+                "id": "v34.18",
+                "versicle_number": 18,
+                "text": "Perto está o Senhor dos que têm o coração quebrantado, e salva os contritos de espírito."
+            },
+            {
+                "id": "v34.19",
+                "versicle_number": 19,
+                "text": "Muitas são as aflições do justo, mas o Senhor o livra de todas."
+            },
+            {
+                "id": "v34.20",
+                "versicle_number": 20,
+                "text": "Ele lhe guarda todos os seus ossos; nem sequer um deles se quebra.{note:4}"
+            },
+            {
+                "id": "v34.21",
+                "versicle_number": 21,
+                "text": "A malícia matará o ímpio, e os que aborrecem o justo serão punidos."
+            },
+            {
+                "id": "v34.22",
+                "versicle_number": 22,
+                "text": "O Senhor resgata a alma dos seus servos, e nenhum dos que nele confiam será condenado."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 34, título 1Sm 21.13-15"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 34.8 1Pe 2.3"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 34.12-16 1Pe 3.10-12"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 34.20 Êx 12.46; Nm 9.12; Jo 19.36"
+            }
+        ]
+    }
+}

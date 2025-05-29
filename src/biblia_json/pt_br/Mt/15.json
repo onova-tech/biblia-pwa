@@ -1,0 +1,238 @@
+{
+    "book": {
+        "id": "Mt",
+        "book_number": 40,
+        "new_testament": true,
+        "num_chapters": 28,
+        "book_name": "MATEUS",
+        "book_full_name": "O SANTO EVANGELHO SEGUNDO MATEUS"
+    },
+    "chapter": {
+        "chapter_number": 15,
+        "chapter_reference": "Marcos 7.1-23",
+        "chapter_title": "A tradição dos anciãos",
+        "versicles": [
+            {
+                "id": "v15.1",
+                "versicle_number": 1,
+                "text": "ENTÃO chegaram ao pé de Jesus uns escribas e fariseus de Jerusalém, dizendo:"
+            },
+            {
+                "id": "v15.2",
+                "versicle_number": 2,
+                "text": "Por que transgridem os teus discípulos a tradição dos anciãos? pois não lavam as mãos quando comem pão."
+            },
+            {
+                "id": "v15.3",
+                "versicle_number": 3,
+                "text": "Ele, porém, respondendo, disse-lhes: Por que transgredis vós também o mandamento de Deus pela vossa tradição?"
+            },
+            {
+                "id": "v15.4",
+                "versicle_number": 4,
+                "text": "Porque Deus ordenou, dizendo: Honra a teu pai e a tua mãe;{note:1} e: Quem maldisser ao pai ou à mãe,{note:2} morra de morte."
+            },
+            {
+                "id": "v15.5",
+                "versicle_number": 5,
+                "text": "Mas vós dizeis: Qualquer que disser ao pai ou à mãe: É oferta ao Senhor o que poderias aproveitar de mim; esse não precisa honrar nem a seu pai nem a sua mãe,"
+            },
+            {
+                "id": "v15.6",
+                "versicle_number": 6,
+                "text": "E assim invalidastes, pela vossa tradição, o mandamento de Deus."
+            },
+            {
+                "id": "v15.7",
+                "versicle_number": 7,
+                "text": "Hipócritas, bem profetizou Isaías a vosso respeito, dizendo:"
+            },
+            {
+                "id": "v15.8",
+                "versicle_number": 8,
+                "text": "Este povo honra-me com os seus lábios, mas o seu coração está longe de mim."
+            },
+            {
+                "id": "v15.9",
+                "versicle_number": 9,
+                "text": "Mas em vão me adoram, ensinando doutrinas que são preceitos dos homens.{note:3}"
+            },
+            {
+                "id": "v15.10",
+                "versicle_number": 10,
+                "text": "E, chamando a si a multidão, disse-lhes: Ouvi, e entendei:"
+            },
+            {
+                "id": "v15.11",
+                "versicle_number": 11,
+                "text": "O que contamina o homem não é o que entra na boca, mas o que sai da boca isso é o que contamina o homem."
+            },
+            {
+                "id": "v15.12",
+                "versicle_number": 12,
+                "text": "Então, acercando-se dele os seus discípulos, disseram-lhe: Sabes que os fariseus, ouvindo essas palavras, se escandalizaram?"
+            },
+            {
+                "id": "v15.13",
+                "versicle_number": 13,
+                "text": "Ele, porém, respondendo, disse: Toda a planta, que meu Pai celestial não plantou, será arrancada."
+            },
+            {
+                "id": "v15.14",
+                "versicle_number": 14,
+                "text": "Deixai-os: são condutores cegos:{note:4} ora, se um cego guiar outro cego, ambos cairão na cova."
+            },
+            {
+                "id": "v15.15",
+                "versicle_number": 15,
+                "text": "E Pedro, tomando a palavra, disse-lhe: Explica-nos essa parábola."
+            },
+            {
+                "id": "v15.16",
+                "versicle_number": 16,
+                "text": "Jesus, porém, disse: Até vós mesmos estais ainda sem entender?"
+            },
+            {
+                "id": "v15.17",
+                "versicle_number": 17,
+                "text": "Ainda não compreendeis que tudo o que entra pela boca desce para o ventre, e é lançado fora?"
+            },
+            {
+                "id": "v15.18",
+                "versicle_number": 18,
+                "text": "Mas o que sai da boca, procede do coração, e isso contamina o homem."
+            },
+            {
+                "id": "v15.19",
+                "versicle_number": 19,
+                "text": "Porque do coração procedem os maus pensamentos, mortes, adultérios, prostituição, furtos, falsos testemunhos e blasfêmias."
+            },
+            {
+                "id": "v15.20",
+                "versicle_number": 20,
+                "text": "São estas coisas que contaminam o homem; mas comer sem lavar as mãos, isso não contamina o homem."
+            },
+            {
+                "id": "v15.21",
+                "versicle_number": 21,
+                "text": "E, partindo Jesus dali, foi para as partes de Tiro e de Sidom."
+            },
+            {
+                "id": "v15.22",
+                "versicle_number": 22,
+                "text": "E eis que uma mulher cananeia, que saíra daquelas cercanias, clamou, dizendo: Senhor, Filho de Davi, tem misericórdia de mim, que minha filha está miseravelmente endemoninhada."
+            },
+            {
+                "id": "v15.23",
+                "versicle_number": 23,
+                "text": "Mas ele não lhe respondeu palavra. E os seus discípulos, chegando ao pé dele, rogaram-lhe, dizendo: Despede-a, que vem gritando atrás de nós."
+            },
+            {
+                "id": "v15.24",
+                "versicle_number": 24,
+                "text": "E ele, respondendo, disse: Eu não fui enviado senão às ovelhas perdidas da casa d'Israel."
+            },
+            {
+                "id": "v15.25",
+                "versicle_number": 25,
+                "text": "Então chegou ela, e adorou-o, dizendo: Senhor, socorre-me."
+            },
+            {
+                "id": "v15.26",
+                "versicle_number": 26,
+                "text": "Ele, porém respondendo, disse: Não é bom pegar no pão dos filhos e deitá-lo aos cachorrinhos."
+            },
+            {
+                "id": "v15.27",
+                "versicle_number": 27,
+                "text": "E ela disse: Sim, Senhor, mas também os cachorrinhos comem das migalhas que caem da mesa dos seus senhores."
+            },
+            {
+                "id": "v15.28",
+                "versicle_number": 28,
+                "text": "Então respondeu Jesus, e disse-lhe: Ó mulher! grande é a tua fé: seja isso feito para contigo como tu desejas. E desde aquela hora a sua filha ficou sã."
+            },
+            {
+                "id": "v15.29",
+                "versicle_number": 29,
+                "text": "Partindo Jesus dali, chegou ao pé do mar da Galileia, e, subindo a um monte, assentou-se lá."
+            },
+            {
+                "id": "v15.30",
+                "versicle_number": 30,
+                "text": "E veio ter com ele muito povo, que trazia coxos, cegos, mudos, aleijados, e outros muitos: e os puseram aos pés de Jesus, e ele os sarou;"
+            },
+            {
+                "id": "v15.31",
+                "versicle_number": 31,
+                "text": "De tal sorte, que a multidão se maravilhou vendo os mudos a falar, os aleijados sãos, os coxos a andar, e os cegos a ver; e glorificava o Deus d'Israel."
+            },
+            {
+                "id": "v15.32",
+                "versicle_number": 32,
+                "text": "E Jesus, chamando os seus discípulos, disse: Tenho compaixão da multidão, porque já está comigo há três dias, e não tem que comer; e não quero despedi-la em jejum, para que não desfaleça no caminho."
+            },
+            {
+                "id": "v15.33",
+                "versicle_number": 33,
+                "text": "E os seus discípulos disseram-lhe: Donde nos viriam num deserto tantos pães, para saciar tal multidão?"
+            },
+            {
+                "id": "v15.34",
+                "versicle_number": 34,
+                "text": "E Jesus disse-lhes: Quantos pães tendes? E eles disseram: Sete, e uns poucos peixinhos."
+            },
+            {
+                "id": "v15.35",
+                "versicle_number": 35,
+                "text": "Então mandou à multidão que se assentasse no chão."
+            },
+            {
+                "id": "v15.36",
+                "versicle_number": 36,
+                "text": "E, tomando os sete pães e os peixes, e dando graças, partiu-os, e deu-os aos seus discípulos, e os discípulos à multidão."
+            },
+            {
+                "id": "v15.37",
+                "versicle_number": 37,
+                "text": "E todos comeram e se saciaram: e levantaram, do que sobejou, sete cestos cheios de pedaços."
+            },
+            {
+                "id": "v15.38",
+                "versicle_number": 38,
+                "text": "Ora os que tinham comido eram quatro mil homens, além de mulheres e crianças."
+            },
+            {
+                "id": "v15.39",
+                "versicle_number": 39,
+                "text": "E, tendo despedido a multidão, entrou no barco, e dirigiu-se ao território de Magdala."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "",
+                "text": "A mulher cananeia"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "",
+                "text": "A segunda multiplicação dos pães"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 15.4 Êx 20.12 {note:2} 15.4 Êx 21.17; Lv 20.9"
+            },
+            {
+                "id": "n2",
+                "text": "{note:3} 15.8-9 Is 29.13"
+            },
+            {
+                "id": "n3",
+                "text": "{note:4} 15.14 Lc 6.39"
+            }
+        ]
+    }
+}

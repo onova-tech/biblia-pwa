@@ -1,0 +1,192 @@
+{
+    "book": {
+        "id": "Ap",
+        "book_number": 66,
+        "new_testament": true,
+        "num_chapters": 22,
+        "book_name": "APOCALIPSE",
+        "book_full_name": "DO APÓSTOLO JOÃO APOCALIPSE"
+    },
+    "chapter": {
+        "chapter_number": 18,
+        "chapter_reference": "",
+        "chapter_title": "A queda de Babilônia. Lamentações sobre a terra",
+        "versicles": [
+            {
+                "id": "v18.1",
+                "versicle_number": 1,
+                "text": "E DEPOIS destas coisas vi descer do céu outro anjo, que tinha grande poder, e a terra foi iluminada com a sua glória."
+            },
+            {
+                "id": "v18.2",
+                "versicle_number": 2,
+                "text": "E clamou fortemente com grande voz, dizendo: Caiu, caiu{note:1} a grande Babilônia, e se tornou morada de demônios,{note:2} e coito de todo espírito imundo, e coito de toda ave imunda e aborrecível.{note:3}"
+            },
+            {
+                "id": "v18.3",
+                "versicle_number": 3,
+                "text": "Porque todas as nações beberam do vinho da ira da sua prostituição,{note:4} e os reis da terra se prostituíram com ela; e os mercadores da terra se enriqueceram com a abundância de suas delícias."
+            },
+            {
+                "id": "v18.4",
+                "versicle_number": 4,
+                "text": "E ouvi outra voz do céu que dizia: Sai dela,{note:5} povo meu, para que não sejas participante dos seus pecados, e para que não incorras nas suas pragas."
+            },
+            {
+                "id": "v18.5",
+                "versicle_number": 5,
+                "text": "Porque já os seus pecados se acumularam até ao céu,{note:6} e Deus se lembrou das iniquidades dela."
+            },
+            {
+                "id": "v18.6",
+                "versicle_number": 6,
+                "text": "Tornai-lhe a dar como ela vos tem dado, e retribuí-lhe{note:7} em dobro conforme as suas obras: no cálice em que vos deu de beber dai-lhe a ela em dobro."
+            },
+            {
+                "id": "v18.7",
+                "versicle_number": 7,
+                "text": "Quanto ela se glorificou, e em delícias esteve, foi-lhe outro tanto de tormento e pranto; porque diz em seu coração: Estou assentada como rainha, e não sou viúva, e não verei o pranto."
+            },
+            {
+                "id": "v18.8",
+                "versicle_number": 8,
+                "text": "Portanto, num dia virão as suas pragas, a morte, e o pranto, e a fome; e será queimada no fogo; porque é forte o Senhor Deus que a julga.{note:8}"
+            },
+            {
+                "id": "v18.9",
+                "versicle_number": 9,
+                "text": "E os reis da terra, que se prostituíram com ela, e viveram em delícias, a chorarão, e sobre ela prantearão, quando virem o fumo do seu incêndio;"
+            },
+            {
+                "id": "v18.10",
+                "versicle_number": 10,
+                "text": "Estando de longe pelo temor do seu tormento, dizendo: Ai! ai daquela grande Babilônia, aquela forte cidade! pois numa hora veio o seu juízo.{note:9}"
+            },
+            {
+                "id": "v18.11",
+                "versicle_number": 11,
+                "text": "E sobre ela choram e lamentam os mercadores da terra; porque ninguém mais compra as suas mercadorias:"
+            },
+            {
+                "id": "v18.12",
+                "versicle_number": 12,
+                "text": "Mercadorias de ouro, e de prata, e de pedras preciosas, e de pérolas, e de linho fino, e de púrpura, e de seda, e de escarlata; e toda a madeira odorífera, e todo o vaso de marfim, e todo o vaso de madeira preciosíssima, de bronze e de ferro, e de mármore;"
+            },
+            {
+                "id": "v18.13",
+                "versicle_number": 13,
+                "text": "E cinamomo, e amomo, e perfume, e mirra, e incenso, e vinho, e azeite, e flor de farinha, e trigo, e cavalgaduras, e ovelhas; e mercadorias de cavalos, e de carros, e de corpos e de almas de homens."
+            },
+            {
+                "id": "v18.14",
+                "versicle_number": 14,
+                "text": "E o fruto do desejo da tua alma foi-se de ti; e todas as coisas gostosas e excelentes se foram de ti, e não mais as acharás."
+            },
+            {
+                "id": "v18.15",
+                "versicle_number": 15,
+                "text": "Os mercadores destas coisas, que com elas se enriqueceram, estarão de longe, pelo temor do seu tormento, chorando e lamentando,"
+            },
+            {
+                "id": "v18.16",
+                "versicle_number": 16,
+                "text": "E dizendo: Ai, ai daquela grande cidade! que estava vestida de linho fino, de púrpura, de escarlata; e adornada com ouro e pedras preciosas e pérolas! Porque numa hora foram assoladas tantas riquezas."
+            },
+            {
+                "id": "v18.17",
+                "versicle_number": 17,
+                "text": "E todo o piloto, e todo o que navega em naus, e todo o marinheiro, e todos os que negociam no mar se puseram de longe;"
+            },
+            {
+                "id": "v18.18",
+                "versicle_number": 18,
+                "text": "E, vendo o fumo do seu incêndio, clamaram, dizendo: Que cidade é semelhante a esta grande cidade?"
+            },
+            {
+                "id": "v18.19",
+                "versicle_number": 19,
+                "text": "E lançaram pó sobre as suas cabeças, e clamaram, chorando, e lamentando, e dizendo: Ai, ai daquela grande cidade! na qual todos os que tinham naus no mar se enriqueceram em razão da sua opulência; porque numa hora foi assolada.{note:10}"
+            },
+            {
+                "id": "v18.20",
+                "versicle_number": 20,
+                "text": "Alegra-te sobre ela,{note:11} ó céu, e vós, santos apóstolos e profetas; porque já Deus julgou a vossa causa quanto a ela."
+            },
+            {
+                "id": "v18.21",
+                "versicle_number": 21,
+                "text": "E um forte anjo levantou uma pedra como uma grande mó, e lançou-a no mar, dizendo: Com igual ímpeto será lançada Babilônia,{note:12} aquela grande cidade, e não será jamais achada.{note:13}"
+            },
+            {
+                "id": "v18.22",
+                "versicle_number": 22,
+                "text": "E em ti não se ouvirá mais a voz de harpistas,{note:14} e de músicos, e de frauteiros, e de trombeteiros, e nenhum artífice de arte alguma se achará mais em ti; e ruído de mó em ti se não ouvirá mais;"
+            },
+            {
+                "id": "v18.23",
+                "versicle_number": 23,
+                "text": "E luz de candeia não mais luzirá em ti, e voz de esposo e de esposa{note:15} não mais em ti se ouvirá; porque os teus mercadores eram os grandes da terra; porque todas as nações foram enganadas pelas tuas feitiçarias."
+            },
+            {
+                "id": "v18.24",
+                "versicle_number": 24,
+                "text": "E nela se achou o sangue dos profetas,{note:16} e dos santos, e de todos os que foram mortos na terra."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 18.2 Is 21.9 {note:3} 18.2 Is 13.21 {note:2} 18.2 Jr 50.39"
+            },
+            {
+                "id": "n2",
+                "text": "{note:4} 18.3 Jr 51.7"
+            },
+            {
+                "id": "n3",
+                "text": "{note:5} 18.4 Is 48.20; Jr 50.8"
+            },
+            {
+                "id": "n4",
+                "text": "{note:6} 18.5 Jr 51.9"
+            },
+            {
+                "id": "n5",
+                "text": "{note:7} 18.6 Sl 137.8; Jr 50.29"
+            },
+            {
+                "id": "n6",
+                "text": "{note:8} 18.7-8 Is 47.8-9"
+            },
+            {
+                "id": "n7",
+                "text": "{note:9} 18.9-10 Ez 26.16-17"
+            },
+            {
+                "id": "n8",
+                "text": "{note:10} 18.11-19 Ez 27.25-36"
+            },
+            {
+                "id": "n9",
+                "text": "{note:11} 18.20 Jr 51.48"
+            },
+            {
+                "id": "n10",
+                "text": "{note:12} 18.21 Jr 51.63-64 {note:13} 18.21 Ez 26.21"
+            },
+            {
+                "id": "n11",
+                "text": "{note:14} 18.22 Ez 26.12"
+            },
+            {
+                "id": "n12",
+                "text": "{note:15} 18.23 Jr 25.10"
+            },
+            {
+                "id": "n13",
+                "text": "{note:16} 18.24 Jr 51.49"
+            }
+        ]
+    }
+}

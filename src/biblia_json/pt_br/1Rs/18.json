@@ -1,0 +1,264 @@
+{
+    "book": {
+        "id": "1Rs",
+        "book_number": 11,
+        "new_testament": false,
+        "num_chapters": 22,
+        "book_name": "REIS",
+        "book_full_name": "O PRIMEIRO LIVRO DOS REIS"
+    },
+    "chapter": {
+        "chapter_number": 18,
+        "chapter_reference": "",
+        "chapter_title": "Elias apresenta-se diante de Acabe",
+        "versicles": [
+            {
+                "id": "v18.1",
+                "versicle_number": 1,
+                "text": "E SUCEDEU que, depois de muitos dias a palavra do Senhor veio a Elias no terceiro ano, dizendo: Vai, mostra-te a Acabe; porque darei chuva sobre a terra."
+            },
+            {
+                "id": "v18.2",
+                "versicle_number": 2,
+                "text": "E foi Elias mostrar-se a Acabe: e a fome era extrema em Samaria."
+            },
+            {
+                "id": "v18.3",
+                "versicle_number": 3,
+                "text": "E Acabe chamou a Obadias, o mordomo: e Obadias temia muito ao Senhor,"
+            },
+            {
+                "id": "v18.4",
+                "versicle_number": 4,
+                "text": "Porque sucedeu que, destruindo Jezabel os profetas do Senhor, Obadias tomou cem profetas, e de cinquenta em cinquenta os escondeu, numa cova, e os sustentou com pão e água."
+            },
+            {
+                "id": "v18.5",
+                "versicle_number": 5,
+                "text": "E dissera Acabe a Obadias: Vai pela terra a todas as fontes de água, e a todos os rios: pode ser que achemos erva, para que em vida conservemos os cavalos e mulas, e não estejamos privados dos animais."
+            },
+            {
+                "id": "v18.6",
+                "versicle_number": 6,
+                "text": "E repartiram entre si a terra, para passarem por ela: Acabe foi à parte por um caminho, e Obadias também foi à parte por outro caminho."
+            },
+            {
+                "id": "v18.7",
+                "versicle_number": 7,
+                "text": "Estando pois Obadias já em caminho, eis que Elias o encontrou; e, conhecendo-o ele, prostrou-se sobre o seu rosto e disse: És tu o meu senhor Elias?"
+            },
+            {
+                "id": "v18.8",
+                "versicle_number": 8,
+                "text": "E disse-lhe ele: Eu sou: vai, e dize a teu senhor: Eis que aqui está Elias."
+            },
+            {
+                "id": "v18.9",
+                "versicle_number": 9,
+                "text": "Porém ele disse: Em que pequei, para que entregues teu servo na mão de Acabe, para que me mate?"
+            },
+            {
+                "id": "v18.10",
+                "versicle_number": 10,
+                "text": "Vive o Senhor teu Deus, que não houve nação nem reino aonde o meu senhor não mandasse em busca de ti; e dizendo eles: Aqui não está, então ajuramentava os reinos e as nações, se eles te não tinham achado."
+            },
+            {
+                "id": "v18.11",
+                "versicle_number": 11,
+                "text": "E agora dizes tu: Vai, dize a teu senhor: Eis que aqui está Elias."
+            },
+            {
+                "id": "v18.12",
+                "versicle_number": 12,
+                "text": "E poderia ser que, apartando-me eu de ti, o Espírito do Senhor te tomasse, não sei para onde, e, vindo eu a dar as novas a Acabe, e não te achando ele, me mataria: porém eu, teu servo, temo ao Senhor desde a minha mocidade."
+            },
+            {
+                "id": "v18.13",
+                "versicle_number": 13,
+                "text": "Porventura não disseram a meu senhor o que fiz, quando Jezabel matava os profetas do Senhor, como escondi a cem homens dos profetas do Senhor, de cinquenta em cinquenta, numas covas, e os sustentei com pão e água?"
+            },
+            {
+                "id": "v18.14",
+                "versicle_number": 14,
+                "text": "E agora dizes tu: Vai, dize a teu senhor: Eis que aqui está Elias: e me mataria."
+            },
+            {
+                "id": "v18.15",
+                "versicle_number": 15,
+                "text": "E disse Elias: Vive o Senhor dos Exércitos, perante cuja face estou, que deveras hoje me mostrarei a ele."
+            },
+            {
+                "id": "v18.16",
+                "versicle_number": 16,
+                "text": "Então foi Obadias encontrar-se com Acabe, e lho anunciou: e foi Acabe encontrar-se com Elias."
+            },
+            {
+                "id": "v18.17",
+                "versicle_number": 17,
+                "text": "E sucedeu que, vendo Acabe a Elias, disse-lhe Acabe: És tu o perturbador de Israel?"
+            },
+            {
+                "id": "v18.18",
+                "versicle_number": 18,
+                "text": "Então disse ele: Eu não tenho perturbado a Israel, mas tu e a casa de teu pai, porque deixastes os mandamentos do Senhor, e seguistes a Baalim."
+            },
+            {
+                "id": "v18.19",
+                "versicle_number": 19,
+                "text": "Agora pois envia, ajunta a mim todo o Israel no monte Carmelo; como também os quatrocentos e cinquenta profetas de Baal e os quatrocentos profetas de Asera, que comem da mesa de Jezabel."
+            },
+            {
+                "id": "v18.20",
+                "versicle_number": 20,
+                "text": "Então enviou Acabe a todos os filhos de Israel: e ajuntou os profetas no monte Carmelo."
+            },
+            {
+                "id": "v18.21",
+                "versicle_number": 21,
+                "text": "Então Elias se chegou a todo o povo, e disse: Até quando coxeareis entre dois pensamentos? Se o Senhor é Deus, segui-o; e se Baal, segui-o. Porém o povo lhe não respondeu nada."
+            },
+            {
+                "id": "v18.22",
+                "versicle_number": 22,
+                "text": "Então disse Elias ao povo: Eu só fiquei por profeta do Senhor e os profetas de Baal são quatrocentos e cinquenta homens."
+            },
+            {
+                "id": "v18.23",
+                "versicle_number": 23,
+                "text": "Deem-se-nos pois dois bezerros, e eles escolham para si um dos bezerros, e o dividam em pedaços, e o ponham sobre a lenha, porém não lhe metam fogo, e eu prepararei o outro bezerro, e o porei sobre a lenha, e não lhe meterei fogo."
+            },
+            {
+                "id": "v18.24",
+                "versicle_number": 24,
+                "text": "Então invocai o nome do vosso deus, e eu invocarei o nome do Senhor: e há de ser que o deus que responder por fogo esse será Deus. E todo o povo respondeu, e disseram: É boa esta palavra."
+            },
+            {
+                "id": "v18.25",
+                "versicle_number": 25,
+                "text": "E disse Elias aos profetas de Baal: Escolhei para vós um dos bezerros, e preparai-o primeiro, porque sois muitos, e invocai o nome do vosso deus, e não lhe metais fogo."
+            },
+            {
+                "id": "v18.26",
+                "versicle_number": 26,
+                "text": "E tomaram o bezerro que lhes dera, e o prepararam; e invocaram o nome de Baal, desde a manhã até ao meio-dia, dizendo: Ah! Baal, responde-nos! Porém nem havia voz, nem quem respondesse: e saltavam sobre o altar que se tinha feito."
+            },
+            {
+                "id": "v18.27",
+                "versicle_number": 27,
+                "text": "E sucedeu que ao meio-dia Elias zombava deles, e dizia: Clamai em altas vozes, porque ele é um deus; pode ser que esteja falando, ou que tenha alguma cousa que fazer, ou que intente alguma viagem; porventura dorme, e despertará."
+            },
+            {
+                "id": "v18.28",
+                "versicle_number": 28,
+                "text": "E eles clamavam a grandes vozes, e se retalhavam com facas e com lancetas, conforme ao seu costume, até derramarem sangue sobre si."
+            },
+            {
+                "id": "v18.29",
+                "versicle_number": 29,
+                "text": "E sucedeu que, passado o meio-dia, profetizaram eles, até que a oferta de manjares se oferecesse: porém não houve voz, nem resposta, nem atenção alguma,"
+            },
+            {
+                "id": "v18.30",
+                "versicle_number": 30,
+                "text": "Então Elias disse a todo o povo: Chegai-vos a mim. E todo o povo se chegou a ele; e reparou o altar do Senhor, que estava quebrado."
+            },
+            {
+                "id": "v18.31",
+                "versicle_number": 31,
+                "text": "E Elias tomou doze pedras, conforme ao número das tribos dos filhos de Jacó, ao qual veio a palavra do Senhor, dizendo: Israel será o teu nome.{note:1}"
+            },
+            {
+                "id": "v18.32",
+                "versicle_number": 32,
+                "text": "E com aquelas pedras edificou o altar em nome do Senhor: depois fez um rego em redor do altar, segundo a largura de duas medidas de semente."
+            },
+            {
+                "id": "v18.33",
+                "versicle_number": 33,
+                "text": "Então armou a lenha, e dividiu o bezerro em pedaços, e o pôs sobre a lenha,"
+            },
+            {
+                "id": "v18.34",
+                "versicle_number": 34,
+                "text": "E disse: Enchei de água quatro cântaros, e derramai-a sobre o holocausto e sobre a lenha. E disse: Fazei-o segunda vez: e o fizeram segunda vez. Disse ainda: Fazei-o terceira vez: e o fizeram terceira vez:"
+            },
+            {
+                "id": "v18.35",
+                "versicle_number": 35,
+                "text": "De maneira que a água corria ao redor do altar: e ainda até o rego encheu de água."
+            },
+            {
+                "id": "v18.36",
+                "versicle_number": 36,
+                "text": "Sucedeu pois que, oferecendo-se a oferta de manjares, o profeta Elias se chegou, e disse: Ó Senhor, Deus de Abraão, de Isaque e de Israel, manifeste-se hoje que tu és Deus em Israel, e que eu sou teu servo, e que conforme à tua palavra fiz todas estas cousas."
+            },
+            {
+                "id": "v18.37",
+                "versicle_number": 37,
+                "text": "Responde-me, Senhor, responde-me, para que este povo conheça que tu, Senhor, és Deus, e que tu fizeste tornar o seu coração para trás."
+            },
+            {
+                "id": "v18.38",
+                "versicle_number": 38,
+                "text": "Então caiu fogo do Senhor, e consumiu o holocausto, e a lenha, e as pedras, e o pó, e ainda lambeu a água que estava no rego."
+            },
+            {
+                "id": "v18.39",
+                "versicle_number": 39,
+                "text": "O que vendo todo o povo, caíram sobre os seus rostos, e disseram: Só o Senhor é Deus! Só o Senhor é Deus!"
+            },
+            {
+                "id": "v18.40",
+                "versicle_number": 40,
+                "text": "E Elias lhes disse: Lançai mão dos profetas de Baal, que nenhum deles escape. E lançaram mão deles: e Elias os fez descer ao ribeiro de Quisom, e ali os matou."
+            },
+            {
+                "id": "v18.41",
+                "versicle_number": 41,
+                "text": "Então disse Elias a Acabe: Sobe, come e bebe, porque ruído há duma abundante chuva."
+            },
+            {
+                "id": "v18.42",
+                "versicle_number": 42,
+                "text": "E Acabe subiu a comer e a beber: mas Elias subiu ao cume do Carmelo, e se inclinou por terra,{note:2} e meteu o seu rosto entre os seus joelhos."
+            },
+            {
+                "id": "v18.43",
+                "versicle_number": 43,
+                "text": "E disse ao seu moço: sobe agora, e olha para a banda do mar. E subiu, e olhou, e disse: Não há nada. Então disse ele: Torna lá sete vezes."
+            },
+            {
+                "id": "v18.44",
+                "versicle_number": 44,
+                "text": "E sucedeu que, à sétima vez, disse: Eis aqui uma pequena nuvem, como a mão dum homem, subindo do mar. Então disse ele: Sobe, e dize a Acabe: Aparelha o teu carro, e desce, para que a chuva te não apanhe."
+            },
+            {
+                "id": "v18.45",
+                "versicle_number": 45,
+                "text": "E sucedeu que, entretanto, os céus se enegreceram com nuvens e vento, e veio uma grande chuva: e Acabe subiu ao carro, e foi para Jezreel."
+            },
+            {
+                "id": "v18.46",
+                "versicle_number": 46,
+                "text": "E a mão do Senhor estava sobre Elias, o qual cingiu os lombos, e veio correndo perante Acabe, até à entrada de Jezreel."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v18.22",
+                "text": "Elias e os profetas de Baal"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 18.31 Gn 32.28; 35.10"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 18.42 Tg 5.18"
+            }
+        ]
+    }
+}

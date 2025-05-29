@@ -1,0 +1,189 @@
+{
+    "book": {
+        "id": "Ex",
+        "book_number": 2,
+        "new_testament": false,
+        "num_chapters": 40,
+        "book_name": "ÊXODO",
+        "book_full_name": "O SEGUNDO LIVRO DE MOISÉS ÊXODO"
+    },
+    "chapter": {
+        "chapter_number": 6,
+        "chapter_reference": "",
+        "chapter_title": "Deus promete livrar os israelitas",
+        "versicles": [
+            {
+                "id": "v6.1",
+                "versicle_number": 1,
+                "text": "ENTÃO disse o Senhor a Moisés: Agora verás o que hei de fazer a Faraó; porque por uma mão poderosa os deixará ir, sim, por uma mão poderosa os lançará de sua terra."
+            },
+            {
+                "id": "v6.2",
+                "versicle_number": 2,
+                "text": "Falou mais Deus a Moisés, e disse: Eu sou o Senhor."
+            },
+            {
+                "id": "v6.3",
+                "versicle_number": 3,
+                "text": "E eu apareci a Abraão, a Isaque, e a Jacó, como o Deus Todo-poderoso; mas pelo meu nome, o {note:h}Senhor, não lhes fui perfeitamente conhecido.{note:1}"
+            },
+            {
+                "id": "v6.4",
+                "versicle_number": 4,
+                "text": "E também estabeleci o meu concerto com eles, para dar-lhes a terra de Canaã, a terra de suas peregrinações, na qual foram peregrinos."
+            },
+            {
+                "id": "v6.5",
+                "versicle_number": 5,
+                "text": "E também tenho ouvido o gemido dos filhos de Israel, aos quais os egípcios escravizam, e me lembrei do meu concerto."
+            },
+            {
+                "id": "v6.6",
+                "versicle_number": 6,
+                "text": "Portanto dize aos filhos de Israel: Eu sou o Senhor, e vos tirarei de debaixo das cargas dos egípcios, vos livrarei da sua servidão e vos resgatarei com braço estendido e com juízos grandes."
+            },
+            {
+                "id": "v6.7",
+                "versicle_number": 7,
+                "text": "E eu vos tomarei por meu povo, e serei vosso Deus; e sabereis que eu sou o Senhor vosso Deus, que vos tiro de debaixo das cargas dos egípcios;"
+            },
+            {
+                "id": "v6.8",
+                "versicle_number": 8,
+                "text": "E eu vos levarei à terra, acerca da qual levantei minha mão, que a daria a Abraão, a Isaque, e a Jacó, e vo-la darei por herança, eu o Senhor."
+            },
+            {
+                "id": "v6.9",
+                "versicle_number": 9,
+                "text": "Deste modo falou Moisés aos filhos de Israel, mas eles não ouviram a Moisés, por causa da ânsia do espírito e da dura servidão."
+            },
+            {
+                "id": "v6.10",
+                "versicle_number": 10,
+                "text": "Falou mais o Senhor a Moisés, dizendo:"
+            },
+            {
+                "id": "v6.11",
+                "versicle_number": 11,
+                "text": "Entra e fala a Faraó, rei do Egito, que deixe sair os filhos de Israel da sua terra."
+            },
+            {
+                "id": "v6.12",
+                "versicle_number": 12,
+                "text": "Moisés, porém, falou perante o Senhor, dizendo: Eis que os filhos de Israel me não têm ouvido; como pois me ouvirá Faraó? Também eu sou incircunciso dos lábios."
+            },
+            {
+                "id": "v6.13",
+                "versicle_number": 13,
+                "text": "Todavia o Senhor falou a Moisés e a Aarão, e deu-lhes mandamento para os filhos de Israel, e para Faraó, rei do Egito, para que tirassem os filhos de Israel da terra do Egito."
+            },
+            {
+                "id": "v6.14",
+                "versicle_number": 14,
+                "text": "Estas são as cabeças das casas de seus pais: Os filhos de Rúben, o primogênito de Israel: Enoque e Palu, Hezrom e Carmi; estas são as famílias de Rúben."
+            },
+            {
+                "id": "v6.15",
+                "versicle_number": 15,
+                "text": "E os filhos de Simeão: Jemuel, e Jamim, e Oade, e Jaquim, e Zoar, e Saul, filho de uma cananeia; estas são as famílias de Simeão."
+            },
+            {
+                "id": "v6.16",
+                "versicle_number": 16,
+                "text": "E estes são os nomes dos filhos de Levi, segundo as suas gerações: Gérson, e Coate, e Merari; e os anos da vida de Levi foram cento e trinta e sete anos."
+            },
+            {
+                "id": "v6.17",
+                "versicle_number": 17,
+                "text": "Os filhos de Gérson: Libni e Simei, segundo as suas famílias;"
+            },
+            {
+                "id": "v6.18",
+                "versicle_number": 18,
+                "text": "E os filhos de Coate: Anrão, e Izar, e Hebrom, e Uziel: e os anos da vida de Coate foram cento e trinta e três anos."
+            },
+            {
+                "id": "v6.19",
+                "versicle_number": 19,
+                "text": "E os filhos de Merari: Maali e Musi: estas são as famílias de Levi, segundo as suas gerações.{note:2}"
+            },
+            {
+                "id": "v6.20",
+                "versicle_number": 20,
+                "text": "E Anrão tomou por mulher a Joquebede, sua tia, e ela gerou-lhe a Aarão e a Moisés; e os anos da vida de Anrão foram cento e trinta e sete anos."
+            },
+            {
+                "id": "v6.21",
+                "versicle_number": 21,
+                "text": "E os filhos de Izar: Corá, e Nefegue, e Zicri."
+            },
+            {
+                "id": "v6.22",
+                "versicle_number": 22,
+                "text": "E os filhos de Uziel: Misael, e Elzafã e Sitri."
+            },
+            {
+                "id": "v6.23",
+                "versicle_number": 23,
+                "text": "E Aarão tomou por mulher a Eliseba, filha de Aminadabe, irmã de Naassom; e ela gerou-lhe a Nadabe, e Abiú, Eleazar e Itamar."
+            },
+            {
+                "id": "v6.24",
+                "versicle_number": 24,
+                "text": "E os filhos de Corá: Assir, e Elcana, e Abiasafe; estas são as famílias dos Coritas."
+            },
+            {
+                "id": "v6.25",
+                "versicle_number": 25,
+                "text": "E Eleazar, filho de Aarão, tomou para si por mulher uma das filhas de Putiel, e ela gerou-lhe a Fineias; estas são as cabeças dos pais dos levitas, segundo as suas famílias."
+            },
+            {
+                "id": "v6.26",
+                "versicle_number": 26,
+                "text": "Estes são Aarão e Moisés, aos quais o Senhor disse: Tirai os filhos de Israel da terra do Egito, segundo os seus exércitos."
+            },
+            {
+                "id": "v6.27",
+                "versicle_number": 27,
+                "text": "Estes são os que falaram a Faraó, rei do Egito, para que tirasse do Egito os filhos de Israel; estes são Moisés e Aarão."
+            },
+            {
+                "id": "v6.28",
+                "versicle_number": 28,
+                "text": "E aconteceu que, naquele dia, quando o Senhor falou a Moisés na terra do Egito,"
+            },
+            {
+                "id": "v6.29",
+                "versicle_number": 29,
+                "text": "Falou o Senhor a Moisés, dizendo: Eu sou o Senhor: dize a Faraó, rei do Egito, tudo quanto eu te digo a ti."
+            },
+            {
+                "id": "v6.30",
+                "versicle_number": 30,
+                "text": "Então disse Moisés perante o Senhor: Eis que eu sou incircunciso dos lábios; como pois me ouvirá Faraó?"
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v6.14",
+                "text": "Genealogias de Rúben, Simeão e Levi"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v6.28",
+                "text": "Deus anima Moisés a falar outra vez a Faraó"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:h} 6.3 Heb. JEOVÁ {note:1} 6.2-3 Êx 3.13-15"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 6.16-19 1Cr 6.16-19"
+            }
+        ]
+    }
+}

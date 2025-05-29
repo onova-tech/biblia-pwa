@@ -1,0 +1,69 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 64,
+        "chapter_reference": "",
+        "chapter_title": "Davi suplica a Deus que guarde a sua vida, e espera que lho conceda",
+        "versicles": [
+            {
+                "id": "v64.1",
+                "versicle_number": 1,
+                "text": "OUVE, ó Deus, a minha voz na minha oração: livra a minha vida do horror do inimigo."
+            },
+            {
+                "id": "v64.2",
+                "versicle_number": 2,
+                "text": "Esconde-me do secreto conselho dos maus, e do tumulto dos que praticam a iniquidade."
+            },
+            {
+                "id": "v64.3",
+                "versicle_number": 3,
+                "text": "Os quais afiaram as suas línguas como espadas; e armaram por suas frechas palavras amargas,"
+            },
+            {
+                "id": "v64.4",
+                "versicle_number": 4,
+                "text": "Para de lugares ocultos atirarem sobre o que é reto; disparam sobre ele repentinamente, e não temem."
+            },
+            {
+                "id": "v64.5",
+                "versicle_number": 5,
+                "text": "Firmam-se em mau intento; falam de armar laços secretamente, e dizem: Quem os verá?"
+            },
+            {
+                "id": "v64.6",
+                "versicle_number": 6,
+                "text": "Fazem indagações maliciosas, inquirem tudo o que se pode inquirir; até o íntimo de cada um, e o profundo coração."
+            },
+            {
+                "id": "v64.7",
+                "versicle_number": 7,
+                "text": "Mas Deus disparará sobre eles uma seta, e de repente ficarão feridos."
+            },
+            {
+                "id": "v64.8",
+                "versicle_number": 8,
+                "text": "Assim eles farão com que as suas línguas se voltem contra si mesmos; todos aqueles que os virem, fugirão."
+            },
+            {
+                "id": "v64.9",
+                "versicle_number": 9,
+                "text": "E todos os homens temerão, e anunciarão a obra de Deus; e considerarão prudentemente os seus feitos."
+            },
+            {
+                "id": "v64.10",
+                "versicle_number": 10,
+                "text": "O justo se alegrará no Senhor, e confiará nele, e todos os retos de coração se regozijarão."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

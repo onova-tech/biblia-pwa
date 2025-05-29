@@ -1,0 +1,206 @@
+{
+    "book": {
+        "id": "Jr",
+        "book_number": 24,
+        "new_testament": false,
+        "num_chapters": 52,
+        "book_name": "JEREMIAS",
+        "book_full_name": "JEREMIAS"
+    },
+    "chapter": {
+        "chapter_number": 7,
+        "chapter_reference": "",
+        "chapter_title": "Promessas e ameaças proferidas à porta do templo",
+        "versicles": [
+            {
+                "id": "v7.1",
+                "versicle_number": 1,
+                "text": "A PALAVRA que foi dita a Jeremias pelo Senhor, dizendo:"
+            },
+            {
+                "id": "v7.2",
+                "versicle_number": 2,
+                "text": "Põe-te à porta da casa do Senhor, e proclama ali esta palavra, e dize: Ouvi a palavra do Senhor, todos de Judá, os que entrais por estas portas, para adorardes ao Senhor."
+            },
+            {
+                "id": "v7.3",
+                "versicle_number": 3,
+                "text": "Assim diz o Senhor dos Exércitos, o Deus de Israel: Melhorai os vossos caminhos e as vossas obras, e vos farei habitar neste lugar."
+            },
+            {
+                "id": "v7.4",
+                "versicle_number": 4,
+                "text": "Não vos fieis em palavras falsas, dizendo: Templo do Senhor, templo do Senhor, templo do Senhor é este."
+            },
+            {
+                "id": "v7.5",
+                "versicle_number": 5,
+                "text": "Mas, se deveras melhorardes os vossos caminhos e as vossas obras, se deveras fizerdes juízo entre um homem e entre o seu companheiro,"
+            },
+            {
+                "id": "v7.6",
+                "versicle_number": 6,
+                "text": "Se não oprimirdes o estrangeiro, e o órfão, e a viúva, nem derramardes sangue inocente neste lugar, nem andardes após outros deuses para vosso próprio mal,"
+            },
+            {
+                "id": "v7.7",
+                "versicle_number": 7,
+                "text": "Eu vos farei habitar neste lugar, na terra que dei a vossos pais, de século em século."
+            },
+            {
+                "id": "v7.8",
+                "versicle_number": 8,
+                "text": "Eis que vós confiais em palavras falsas, que para nada são proveitosas."
+            },
+            {
+                "id": "v7.9",
+                "versicle_number": 9,
+                "text": "Furtareis vós, e matareis, e cometereis adultério, e jurareis falsamente, e queimareis incenso a Baal, e andareis após outros deuses que não conhecestes,"
+            },
+            {
+                "id": "v7.10",
+                "versicle_number": 10,
+                "text": "E então vireis, e vos poreis diante de mim nesta casa, que se chama pelo meu nome, e direis: Somos livres, podemos fazer todas estas abominações?"
+            },
+            {
+                "id": "v7.11",
+                "versicle_number": 11,
+                "text": "É pois esta casa, que se chama pelo meu nome, uma caverna de salteadores{note:1} aos vossos olhos? eis que eu, eu mesmo, vi isto, diz o Senhor."
+            },
+            {
+                "id": "v7.12",
+                "versicle_number": 12,
+                "text": "Mas ide agora ao meu lugar, que estava em Silo, onde, ao princípio, fiz habitar o meu nome, e vede o que lhe fiz, por causa da maldade do meu povo Israel."
+            },
+            {
+                "id": "v7.13",
+                "versicle_number": 13,
+                "text": "Agora, pois, porquanto fazeis todas estas obras, diz o Senhor, e eu vos falei, madrugando, e falando, e não ouvistes, chamei-vos, e não respondestes,"
+            },
+            {
+                "id": "v7.14",
+                "versicle_number": 14,
+                "text": "Farei também a esta casa, que se chama pelo meu nome, na qual confiais, e a este lugar, que vos dei a vós e a vossos pais, como fiz a Silo.{note:2}"
+            },
+            {
+                "id": "v7.15",
+                "versicle_number": 15,
+                "text": "E vos arrojarei da minha presença, como arrojei a todos os vossos irmãos, a toda a geração de Efraim."
+            },
+            {
+                "id": "v7.16",
+                "versicle_number": 16,
+                "text": "Tu pois não ores por este povo, nem levantes por ele clamor ou oração, nem me importunes, porque eu não te ouvirei."
+            },
+            {
+                "id": "v7.17",
+                "versicle_number": 17,
+                "text": "Não vês tu o que andam fazendo nas cidades de Judá, e nas ruas de Jerusalém?"
+            },
+            {
+                "id": "v7.18",
+                "versicle_number": 18,
+                "text": "Os filhos apanham a lenha, e os pais acendem o fogo, e as mulheres amassam a farinha, para fazerem bolos à rainha dos céus, e oferecem libações a outros deuses, para me provocarem à ira."
+            },
+            {
+                "id": "v7.19",
+                "versicle_number": 19,
+                "text": "Acaso é a mim que eles provocam à ira, diz o Senhor, e não antes a si mesmos, para confusão dos seus rostos?"
+            },
+            {
+                "id": "v7.20",
+                "versicle_number": 20,
+                "text": "Portanto assim diz o Senhor JEOVÁ: Eis que a minha ira e o meu furor se derramarão sobre este lugar, sobre os homens e sobre os animais, e sobre as árvores do campo, e sobre os frutos da terra; e acender-se-á, e não se apagará."
+            },
+            {
+                "id": "v7.21",
+                "versicle_number": 21,
+                "text": "Assim diz o Senhor dos Exércitos, o Deus de Israel: Ajuntai os vossos holocaustos aos vossos sacrifícios, e comei carne."
+            },
+            {
+                "id": "v7.22",
+                "versicle_number": 22,
+                "text": "Porque nunca falei a vossos pais, no dia em que vos tirei da terra do Egito, nem lhes ordenei cousa alguma acerca de holocaustos ou sacrifícios."
+            },
+            {
+                "id": "v7.23",
+                "versicle_number": 23,
+                "text": "Mas isto lhes ordenei, dizendo: Dai ouvidos à minha voz, e eu serei o vosso Deus, e vós sereis o meu povo; e andai em todo o caminho que eu vos mandar, para que vos vá bem."
+            },
+            {
+                "id": "v7.24",
+                "versicle_number": 24,
+                "text": "Mas não ouviram, nem inclinaram os seus ouvidos, mas andaram nos seus próprios conselhos, no propósito do seu coração malvado; e andaram para trás, e não para diante."
+            },
+            {
+                "id": "v7.25",
+                "versicle_number": 25,
+                "text": "Desde o dia em que vossos pais saíram da terra do Egito, até hoje enviei-vos todos os meus servos, os profetas, todos os dias madrugando e enviando-os;"
+            },
+            {
+                "id": "v7.26",
+                "versicle_number": 26,
+                "text": "Mas não me deram ouvidos, nem inclinaram os seus ouvidos, mas endureceram a sua cerviz, e fizeram pior do que seus pais."
+            },
+            {
+                "id": "v7.27",
+                "versicle_number": 27,
+                "text": "Dir-lhes-ás pois todas estas palavras, mas não te darão ouvidos; chamá-los-ás, mas não te responderão."
+            },
+            {
+                "id": "v7.28",
+                "versicle_number": 28,
+                "text": "E lhes dirás: Uma gente é esta que não dá ouvidos à voz do Senhor seu Deus e não aceita a correção: já pereceu a verdade, e se arrancou da sua boca."
+            },
+            {
+                "id": "v7.29",
+                "versicle_number": 29,
+                "text": "Corta o cabelo da tua cabeça e lança-o fora, e levanta o teu pranto sobre as alturas; porque já o Senhor rejeitou e desamparou a geração do seu furor;"
+            },
+            {
+                "id": "v7.30",
+                "versicle_number": 30,
+                "text": "Porque os filhos de Judá fizeram o que parece mal aos meus olhos, diz o Senhor: puseram as suas abominações na casa que se chama pelo meu nome, para a contaminarem."
+            },
+            {
+                "id": "v7.31",
+                "versicle_number": 31,
+                "text": "E edificaram os altos de Tofete,{note:3} que está no vale do filho de Hinom, para queimarem no fogo a seus filhos{note:4} e a suas filhas; o que nunca ordenei, nem me subiu ao coração."
+            },
+            {
+                "id": "v7.32",
+                "versicle_number": 32,
+                "text": "Portanto eis que vêm dias, diz o Senhor, em que nunca se chamará mais Tofete, nem vale do filho de Hinom, mas o vale da matança; e enterrarão em Tofete, por não haver mais lugar."
+            },
+            {
+                "id": "v7.33",
+                "versicle_number": 33,
+                "text": "E os cadáveres deste povo servirão de pasto às aves dos céus e aos animais da terra; e ninguém os espantará."
+            },
+            {
+                "id": "v7.34",
+                "versicle_number": 34,
+                "text": "E farei cessar{note:5} nas cidades de Judá, e nas ruas de Jerusalém, a voz de folguedo, e a voz de alegria, a voz de esposo e a voz de esposa; porque a terra se tornará em desolação."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 7.11 Mt 21.13; Mc 11.17; Lc 19.46"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 7.12-14 Js 18.1; Sl 78.60; Jr 26.6"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 7.31 2Rs 23.10; Jr 32.34-35 {note:4} 7.31 Lv 18.21"
+            },
+            {
+                "id": "n4",
+                "text": "{note:5} 7.34 Jr 16.9; 25.10; Ap 18.23"
+            }
+        ]
+    }
+}

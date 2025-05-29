@@ -1,0 +1,137 @@
+{
+    "book": {
+        "id": "2Pe",
+        "book_number": 61,
+        "new_testament": true,
+        "num_chapters": 3,
+        "book_name": "PEDRO",
+        "book_full_name": "SEGUNDA EPÍSTOLA UNIVERSAL DO APÓSTOLO PEDRO"
+    },
+    "chapter": {
+        "chapter_number": 1,
+        "chapter_reference": "",
+        "chapter_title": "Prefácio e saudação",
+        "versicles": [
+            {
+                "id": "v1.1",
+                "versicle_number": 1,
+                "text": "SIMÃO Pedro, servo e apóstolo de Jesus Cristo, aos que conosco alcançaram fé igualmente preciosa pela justiça do nosso Deus e Salvador Jesus Cristo:"
+            },
+            {
+                "id": "v1.2",
+                "versicle_number": 2,
+                "text": "Graça e paz vos sejam multiplicadas, pelo conhecimento de Deus, e de Jesus nosso Senhor;"
+            },
+            {
+                "id": "v1.3",
+                "versicle_number": 3,
+                "text": "Visto como o seu divino poder nos deu tudo o que diz respeito à vida e piedade, pelo conhecimento daquele que nos chamou por sua glória e virtude;"
+            },
+            {
+                "id": "v1.4",
+                "versicle_number": 4,
+                "text": "Pelas quais ele nos tem dado grandíssimas e preciosas promessas, para que por elas fiqueis participantes da natureza divina, havendo escapado da corrupção, que pela concupiscência há no mundo."
+            },
+            {
+                "id": "v1.5",
+                "versicle_number": 5,
+                "text": "E vós também, pondo nisto mesmo toda a diligência, acrescentai à vossa fé a virtude, e à virtude a ciência,"
+            },
+            {
+                "id": "v1.6",
+                "versicle_number": 6,
+                "text": "E à ciência temperança, e à temperança paciência, e à paciência piedade,"
+            },
+            {
+                "id": "v1.7",
+                "versicle_number": 7,
+                "text": "E à piedade {note:a}amor fraternal; e ao amor fraternal {note:b}caridade."
+            },
+            {
+                "id": "v1.8",
+                "versicle_number": 8,
+                "text": "Porque, se em vós houver e abundarem estas coisas, não vos deixarão ociosos nem estéreis no conhecimento de nosso Senhor Jesus Cristo."
+            },
+            {
+                "id": "v1.9",
+                "versicle_number": 9,
+                "text": "Pois aquele em quem não há estas coisas é cego, nada vendo ao longe, havendo-se esquecido da purificação dos seus antigos pecados."
+            },
+            {
+                "id": "v1.10",
+                "versicle_number": 10,
+                "text": "Portanto, irmãos, procurai fazer cada vez mais firme a vossa vocação e eleição; porque, fazendo isto, nunca jamais tropeçareis."
+            },
+            {
+                "id": "v1.11",
+                "versicle_number": 11,
+                "text": "Porque assim vos será amplamente concedida a entrada no reino eterno de nosso Senhor e Salvador Jesus Cristo."
+            },
+            {
+                "id": "v1.12",
+                "versicle_number": 12,
+                "text": "Pelo que não deixarei de exortar-vos sempre acerca destas coisas, ainda que bem as saibais, e estejais confirmados na presente verdade."
+            },
+            {
+                "id": "v1.13",
+                "versicle_number": 13,
+                "text": "E tenho por justo, enquanto estiver neste tabernáculo, despertar-vos com admoestações."
+            },
+            {
+                "id": "v1.14",
+                "versicle_number": 14,
+                "text": "Sabendo que brevemente hei de deixar este meu tabernáculo, como também nosso Senhor Jesus Cristo já mo tem revelado."
+            },
+            {
+                "id": "v1.15",
+                "versicle_number": 15,
+                "text": "Mas também eu procurarei em toda a ocasião que depois da minha {note:c}morte tenhais lembrança destas coisas."
+            },
+            {
+                "id": "v1.16",
+                "versicle_number": 16,
+                "text": "Porque não vos fizemos saber a virtude e a vinda de nosso Senhor Jesus Cristo, seguindo fábulas artificialmente compostas: mas nós mesmos vimos a sua majestade."
+            },
+            {
+                "id": "v1.17",
+                "versicle_number": 17,
+                "text": "Porquanto ele recebeu de Deus Pai honra e glória, quando da magnífica glória lhe foi dirigida a seguinte voz: Este é o meu Filho amado, em quem me tenho comprazido."
+            },
+            {
+                "id": "v1.18",
+                "versicle_number": 18,
+                "text": "E ouvimos esta voz dirigida do céu, estando nós com ele no monte santo;{note:1}"
+            },
+            {
+                "id": "v1.19",
+                "versicle_number": 19,
+                "text": "E temos, mui firme, a palavra dos profetas, à qual bem fazeis, em estar atentos, como a uma luz que alumia em lugar escuro, até que o dia esclareça, e a estrela da alva apareça em vossos corações."
+            },
+            {
+                "id": "v1.20",
+                "versicle_number": 20,
+                "text": "Sabendo primeiramente isto: que nenhuma profecia da Escritura é de particular interpretação."
+            },
+            {
+                "id": "v1.21",
+                "versicle_number": 21,
+                "text": "Porque a profecia nunca foi produzida por vontade de homem algum, mas os homens santos de Deus falaram inspirados pelo Espírito Santo."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:a} 1.7 ou fraternidade, e à fraternidade, {note:b} 1.7 ou amor"
+            },
+            {
+                "id": "n2",
+                "text": "{note:c} 1.15 ou partida"
+            },
+            {
+                "id": "n3",
+                "text": "{note:1} 1.17-18 Mt 17.1-5; Mc 9.2-8; Lc 9.28-35"
+            }
+        ]
+    }
+}

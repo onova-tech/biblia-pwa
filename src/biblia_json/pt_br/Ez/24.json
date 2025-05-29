@@ -1,0 +1,165 @@
+{
+    "book": {
+        "id": "Ez",
+        "book_number": 26,
+        "new_testament": false,
+        "num_chapters": 48,
+        "book_name": "EZEQUIEL",
+        "book_full_name": "EZEQUIEL"
+    },
+    "chapter": {
+        "chapter_number": 24,
+        "chapter_reference": "",
+        "chapter_title": "A parábola da panela",
+        "versicles": [
+            {
+                "id": "v24.1",
+                "versicle_number": 1,
+                "text": "E VEIO a mim a palavra do Senhor, no nono ano, no décimo mês, aos dez do mês, dizendo:"
+            },
+            {
+                "id": "v24.2",
+                "versicle_number": 2,
+                "text": "Filho do homem, escreve o nome deste dia, deste mesmo dia; porque o rei de Babilônia se aproxima{note:1} de Jerusalém neste mesmo dia."
+            },
+            {
+                "id": "v24.3",
+                "versicle_number": 3,
+                "text": "E usa de uma comparação para com a casa rebelde, e dize-lhe: Assim diz o Senhor JEOVÁ: Põe a panela ao lume, põe-na, e deita-lhe água dentro,"
+            },
+            {
+                "id": "v24.4",
+                "versicle_number": 4,
+                "text": "Ajunta nela bons pedaços, todos os bons pedaços, as pernas e as espáduas, enche-a de ossos escolhidos."
+            },
+            {
+                "id": "v24.5",
+                "versicle_number": 5,
+                "text": "Pega no melhor do rebanho, e queima também os ossos debaixo dela; fá-la ferver bem, e cozam-se dentro dela os seus ossos."
+            },
+            {
+                "id": "v24.6",
+                "versicle_number": 6,
+                "text": "Portanto, assim diz o Senhor JEOVÁ: Ai da cidade sanguinária, da panela que escuma, e cuja escuma não saiu dela! tira dela pedaço a pedaço, não caia sorte sobre ela;"
+            },
+            {
+                "id": "v24.7",
+                "versicle_number": 7,
+                "text": "Porque o seu sangue está no meio dela, sobre uma penha descalvada o pôs: não o derramou sobre a terra, para o cobrir com pó."
+            },
+            {
+                "id": "v24.8",
+                "versicle_number": 8,
+                "text": "Para fazer subir a indignação, para tomar vingança, eu pus o seu sangue numa penha descalvada, para que não seja coberto."
+            },
+            {
+                "id": "v24.9",
+                "versicle_number": 9,
+                "text": "Portanto, assim diz o Senhor JEOVÁ: Ai da cidade sanguinária! também eu farei uma grande fogueira."
+            },
+            {
+                "id": "v24.10",
+                "versicle_number": 10,
+                "text": "Amontoa muita lenha, acende o fogo, consome a carne, e tempera-a com especiarias, e ardam os ossos."
+            },
+            {
+                "id": "v24.11",
+                "versicle_number": 11,
+                "text": "Então a porás vazia sobre as suas brasas, para que ela aqueça, e se queime a sua ferrugem, e se funda a sua imundícia no meio dela, e se consuma a sua escuma."
+            },
+            {
+                "id": "v24.12",
+                "versicle_number": 12,
+                "text": "De vaidades se cansou; e não saiu dela a sua muita escuma; ao fogo irá a sua escuma."
+            },
+            {
+                "id": "v24.13",
+                "versicle_number": 13,
+                "text": "Na tua imundícia está a infâmia, pois te purifiquei, e tu não te purificaste; nunca mais serás purificada da tua imundícia, enquanto eu não fizer descansar sobre ti a minha indignação."
+            },
+            {
+                "id": "v24.14",
+                "versicle_number": 14,
+                "text": "Eu, o Senhor disse: Será assim, e o farei: não tornarei atrás, e não pouparei, nem me arrependerei; conforme os teus caminhos, e conforme os teus feitos, te julgarão, diz o Senhor JEOVÁ."
+            },
+            {
+                "id": "v24.15",
+                "versicle_number": 15,
+                "text": "E veio a mim a palavra do Senhor, dizendo:"
+            },
+            {
+                "id": "v24.16",
+                "versicle_number": 16,
+                "text": "Filho do homem, eis que tirarei de ti o desejo dos teus olhos dum golpe, mas não lamentarás, nem chorarás, nem te correrão as lágrimas."
+            },
+            {
+                "id": "v24.17",
+                "versicle_number": 17,
+                "text": "Refreia o teu gemido; não tomarás luto por mortos; ata o teu turbante, e mete nos pés os teus sapatos; e não te rebuçarás e o pão dos homens não comerás."
+            },
+            {
+                "id": "v24.18",
+                "versicle_number": 18,
+                "text": "E falei ao povo pela manhã, e à tarde morreu minha mulher: e fiz pela manhã como se me deu ordem."
+            },
+            {
+                "id": "v24.19",
+                "versicle_number": 19,
+                "text": "E o povo me disse: Não nos farás saber o que significam estas cousas que estás fazendo?"
+            },
+            {
+                "id": "v24.20",
+                "versicle_number": 20,
+                "text": "E eu lhes disse: Veio a mim a palavra do Senhor, dizendo:"
+            },
+            {
+                "id": "v24.21",
+                "versicle_number": 21,
+                "text": "Dize à casa de Israel: Assim diz o Senhor JEOVÁ: Eis que eu profanarei o meu santuário, a glória da vossa fortaleza, o desejo dos vossos olhos, e o regalo das vossas almas; e vossos filhos e vossas filhas, que deixastes, cairão à espada."
+            },
+            {
+                "id": "v24.22",
+                "versicle_number": 22,
+                "text": "E fareis como eu fiz: não vos rebuçareis, e não comereis o pão dos homens."
+            },
+            {
+                "id": "v24.23",
+                "versicle_number": 23,
+                "text": "E tereis nas cabeças os vossos turbantes, e os vossos sapatos nos pés; não lamentareis, nem chorareis, mas definhar-vos-eis nas vossas maldades, e gemereis uns com os outros."
+            },
+            {
+                "id": "v24.24",
+                "versicle_number": 24,
+                "text": "Assim vos servirá Ezequiel de sinal; conforme tudo quanto fez fareis: e quando isto suceder, então sabereis que eu sou o Senhor JEOVÁ."
+            },
+            {
+                "id": "v24.25",
+                "versicle_number": 25,
+                "text": "E quanto a ti, filho do homem, não sucederá que, no dia que eu lhes tirar a sua fortaleza, o gozo do seu ornamento, o desejo dos seus olhos, e a saudade das suas almas, seus filhos e suas filhas,"
+            },
+            {
+                "id": "v24.26",
+                "versicle_number": 26,
+                "text": "Nesse dia virá ter contigo algum que escapar, para to fazer ouvir com os ouvidos?"
+            },
+            {
+                "id": "v24.27",
+                "versicle_number": 27,
+                "text": "Nesse dia abrir-se-á a tua boca para com aquele que escapar, e falarás, e por mais tempo não ficarás mudo: assim virás a ser para eles um sinal maravilhoso, e saberão que eu sou o Senhor."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v24.15",
+                "text": "Predição da ruína de Jerusalém"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 24.2 2Rs 25.1; Jr 52.4"
+            }
+        ]
+    }
+}

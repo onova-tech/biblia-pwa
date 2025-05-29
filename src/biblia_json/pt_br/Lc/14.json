@@ -1,0 +1,231 @@
+{
+    "book": {
+        "id": "Lc",
+        "book_number": 42,
+        "new_testament": true,
+        "num_chapters": 24,
+        "book_name": "LUCAS",
+        "book_full_name": "O SANTO EVANGELHO SEGUNDO LUCAS"
+    },
+    "chapter": {
+        "chapter_number": 14,
+        "chapter_reference": "Mateus 22.1-14 e refs.",
+        "chapter_title": "Cura dum hidrópico",
+        "versicles": [
+            {
+                "id": "v14.1",
+                "versicle_number": 1,
+                "text": "ACONTECEU num sábado que, entrando ele em casa de um dos principais dos fariseus para comer pão, eles o estavam observando."
+            },
+            {
+                "id": "v14.2",
+                "versicle_number": 2,
+                "text": "E eis que estava ali diante dele um certo homem hidrópico."
+            },
+            {
+                "id": "v14.3",
+                "versicle_number": 3,
+                "text": "E Jesus, tomando a palavra, falou aos doutores da lei, e aos fariseus, dizendo: É lícito curar no sábado?"
+            },
+            {
+                "id": "v14.4",
+                "versicle_number": 4,
+                "text": "Eles, porém, calaram-se. E tomando-o, o curou e despediu."
+            },
+            {
+                "id": "v14.5",
+                "versicle_number": 5,
+                "text": "E disse-lhes: Qual será de vós o que, caindo-lhe num poço, em dia de sábado, o jumento ou o boi, o não tire logo?{note:1}"
+            },
+            {
+                "id": "v14.6",
+                "versicle_number": 6,
+                "text": "E nada lhe podiam replicar sobre isto."
+            },
+            {
+                "id": "v14.7",
+                "versicle_number": 7,
+                "text": "E disse aos convidados uma parábola, reparando como escolhiam os primeiros assentos, dizendo-lhes:"
+            },
+            {
+                "id": "v14.8",
+                "versicle_number": 8,
+                "text": "Quando por alguém fores convidado às bodas, não te assentes no primeiro lugar, não aconteça que esteja convidado outro mais digno do que tu;"
+            },
+            {
+                "id": "v14.9",
+                "versicle_number": 9,
+                "text": "E, vindo o que te convidou a ti e a ele, te diga: Dá o lugar a este; e então, com vergonha, tenhas de tomar o derradeiro lugar."
+            },
+            {
+                "id": "v14.10",
+                "versicle_number": 10,
+                "text": "Mas, quando fores convidado, vai, e assenta-te no derradeiro lugar, para que, quando vier o que te convidou, te diga: Amigo, sobe mais para cima. Então terás honra diante dos que estiverem contigo à mesa.{note:2}"
+            },
+            {
+                "id": "v14.11",
+                "versicle_number": 11,
+                "text": "Porquanto qualquer que a si mesmo se exaltar será humilhado,{note:3} e aquele que a si mesmo se humilhar será exaltado."
+            },
+            {
+                "id": "v14.12",
+                "versicle_number": 12,
+                "text": "E dizia também ao que o tinha convidado: Quando deres um jantar, ou uma ceia, não chames os teus amigos, nem os teus irmãos, nem os teus parentes nem vizinhos ricos, para que não suceda que também eles te tornem a convidar, e te seja isso recompensado."
+            },
+            {
+                "id": "v14.13",
+                "versicle_number": 13,
+                "text": "Mas, quando fizeres convite, chama os pobres, aleijados, mancos e cegos,"
+            },
+            {
+                "id": "v14.14",
+                "versicle_number": 14,
+                "text": "E serás bem-aventurado; porque eles não têm com que to recompensar; mas recompensado te será na ressurreição dos justos."
+            },
+            {
+                "id": "v14.15",
+                "versicle_number": 15,
+                "text": "E, ouvindo isto um dos que estavam com ele à mesa, disse-lhe: Bem-aventurado o que comer pão no reino de Deus."
+            },
+            {
+                "id": "v14.16",
+                "versicle_number": 16,
+                "text": "Porém ele lhe disse: Um certo homem fez uma grande ceia, e convidou a muitos."
+            },
+            {
+                "id": "v14.17",
+                "versicle_number": 17,
+                "text": "E à hora da ceia mandou o seu servo dizer aos convidados: Vinde, que já tudo está preparado."
+            },
+            {
+                "id": "v14.18",
+                "versicle_number": 18,
+                "text": "E todos à uma começaram a escusar-se. Disse-lhe o primeiro: Comprei um campo, e importa ir vê-lo; rogo-te que me hajas por escusado."
+            },
+            {
+                "id": "v14.19",
+                "versicle_number": 19,
+                "text": "E outro disse: Comprei cinco juntas de bois, e vou experimentá-los; rogo-te que me hajas por escusado."
+            },
+            {
+                "id": "v14.20",
+                "versicle_number": 20,
+                "text": "E outro disse: Casei, e portanto não posso ir."
+            },
+            {
+                "id": "v14.21",
+                "versicle_number": 21,
+                "text": "E, voltando aquele servo, anunciou estas coisas ao seu senhor. Então o pai de família, indignado, disse ao seu servo: Sai depressa pelas ruas e bairros da cidade, e traze aqui os pobres, e aleijados, e mancos e cegos."
+            },
+            {
+                "id": "v14.22",
+                "versicle_number": 22,
+                "text": "E disse o servo: Senhor, feito está como mandaste; e ainda há lugar."
+            },
+            {
+                "id": "v14.23",
+                "versicle_number": 23,
+                "text": "E disse o senhor ao servo: Sai pelos caminhos e valados e força-os a entrar, para que a minha casa se encha."
+            },
+            {
+                "id": "v14.24",
+                "versicle_number": 24,
+                "text": "Porque eu vos digo que nenhum daqueles varões que foram convidados provará a minha ceia."
+            },
+            {
+                "id": "v14.25",
+                "versicle_number": 25,
+                "text": "Ora ia com ele uma grande multidão; e, voltando-se, disse-lhe:"
+            },
+            {
+                "id": "v14.26",
+                "versicle_number": 26,
+                "text": "Se alguém vier a mim, e não aborrecer a seu pai, e mãe,{note:4} e mulher, e filhos, e irmãos, e irmãs, e ainda também a sua própria vida, não pode ser meu discípulo."
+            },
+            {
+                "id": "v14.27",
+                "versicle_number": 27,
+                "text": "E qualquer que não levar a sua cruz,{note:5} e não vier após mim, não pode ser meu discípulo."
+            },
+            {
+                "id": "v14.28",
+                "versicle_number": 28,
+                "text": "Pois qual de vós querendo edificar uma torre, não se assenta primeiro a fazer as contas dos gastos, para ver se tem com que a acabar?"
+            },
+            {
+                "id": "v14.29",
+                "versicle_number": 29,
+                "text": "Para que não aconteça que, depois de haver posto os alicerces, e não a podendo acabar, todos os que a virem comecem a escarnecer dele,"
+            },
+            {
+                "id": "v14.30",
+                "versicle_number": 30,
+                "text": "Dizendo: Este homem começou a edificar e não pôde acabar."
+            },
+            {
+                "id": "v14.31",
+                "versicle_number": 31,
+                "text": "Ou qual é o rei que, indo à guerra a pelejar contra outro rei, não se assenta primeiro a tomar conselho sobre se com dez mil pode sair ao encontro do que vem contra ele com vinte mil?"
+            },
+            {
+                "id": "v14.32",
+                "versicle_number": 32,
+                "text": "Doutra maneira, estando o outro ainda longe, manda embaixadores, e pede condições de paz."
+            },
+            {
+                "id": "v14.33",
+                "versicle_number": 33,
+                "text": "Assim, pois, qualquer de vós, que não renuncia a tudo quanto tem, não pode ser meu discípulo."
+            },
+            {
+                "id": "v14.34",
+                "versicle_number": 34,
+                "text": "Bom é o sal; mas, se o sal degenerar, com que se adubará?"
+            },
+            {
+                "id": "v14.35",
+                "versicle_number": 35,
+                "text": "Nem presta para a terra, nem para o monturo; lançam-no fora. Quem tem ouvidos para ouvir, ouça."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v14.7",
+                "text": "Parábola dos primeiros assentos e dos convidados"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "",
+                "text": "Parábola da grande ceia"
+            },
+            {
+                "id": "s3",
+                "next_versicle_id": "v14.25",
+                "text": "Parábola acerca da providência"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 14.5 Mt 12.11"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 14.8-10 Pv 25.6-7"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 14.11 Mt 23.12; Lc 18.14"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 14.26 Mt 10.37"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 14.27 Mt 10.38; 16.24; Mc 8.34; Lc 9.23"
+            }
+        ]
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "book": {
+        "id": "Cl",
+        "book_number": 51,
+        "new_testament": true,
+        "num_chapters": 4,
+        "book_name": "COLOSSENSES",
+        "book_full_name": "EPÍSTOLA DO APÓSTOLO PAULO AOS COLOSSENSES"
+    },
+    "chapter": {
+        "chapter_number": 4,
+        "chapter_reference": "",
+        "chapter_title": "Exortação à oração e à sabedoria",
+        "versicles": [
+            {
+                "id": "v4.1",
+                "versicle_number": 1,
+                "text": "VÓS, senhores, fazei o que for de justiça e equidade a vossos servos, sabendo que também tendes um Senhor nos céus.{note:1}"
+            },
+            {
+                "id": "v4.2",
+                "versicle_number": 2,
+                "text": "Perseverai em oração, velando nela com ação de graças;"
+            },
+            {
+                "id": "v4.3",
+                "versicle_number": 3,
+                "text": "Orando também juntamente por nós, para que Deus nos abra a porta da palavra, a fim de falarmos do mistério de Cristo, pelo qual estou também preso;"
+            },
+            {
+                "id": "v4.4",
+                "versicle_number": 4,
+                "text": "Para que o manifeste, como me convém falar."
+            },
+            {
+                "id": "v4.5",
+                "versicle_number": 5,
+                "text": "Andai com sabedoria para com os que estão de fora, remindo o tempo.{note:2}"
+            },
+            {
+                "id": "v4.6",
+                "versicle_number": 6,
+                "text": "A vossa palavra seja sempre agradável, temperada com sal, para que saibais como vos convém responder a cada um."
+            },
+            {
+                "id": "v4.7",
+                "versicle_number": 7,
+                "text": "Tíquico, irmão amado e fiel ministro, e conservo no Senhor, vos fará saber o meu estado;"
+            },
+            {
+                "id": "v4.8",
+                "versicle_number": 8,
+                "text": "O qual vos enviei para o mesmo fim, para que saiba do vosso estado e console os vossos corações;{note:3}"
+            },
+            {
+                "id": "v4.9",
+                "versicle_number": 9,
+                "text": "Juntamente com Onésimo,{note:4} amado e fiel irmão, que é dos vossos; eles vos farão saber tudo o que por aqui se passa."
+            },
+            {
+                "id": "v4.10",
+                "versicle_number": 10,
+                "text": "Aristarco,{note:5} que está preso comigo, vos saúda, e Marcos,{note:6} o sobrinho de Barnabé, acerca do qual já recebestes mandamentos; se ele for ter convosco, recebei-o;"
+            },
+            {
+                "id": "v4.11",
+                "versicle_number": 11,
+                "text": "E Jesus, chamado Justo: os quais são da circuncisão; são estes unicamente os meus cooperadores no reino de Deus; e para mim têm sido consolação."
+            },
+            {
+                "id": "v4.12",
+                "versicle_number": 12,
+                "text": "Saúda-vos Epafras,{note:7} que é dos vossos, servo de Cristo, combatendo sempre por vós em orações, para que vos conserveis firmes, perfeitos e {note:g}consumados em toda a vontade de Deus."
+            },
+            {
+                "id": "v4.13",
+                "versicle_number": 13,
+                "text": "Pois eu lhe dou testemunho de que tem grande zelo por vós, e pelos que estão em Laodiceia, e pelos que estão em Hierápolis."
+            },
+            {
+                "id": "v4.14",
+                "versicle_number": 14,
+                "text": "Saúda-vos Lucas,{note:8} o médico amado, e Demas.{note:9}"
+            },
+            {
+                "id": "v4.15",
+                "versicle_number": 15,
+                "text": "Saudai aos irmãos que estão em Laodiceia, e a Ninfa e à igreja que está em sua casa."
+            },
+            {
+                "id": "v4.16",
+                "versicle_number": 16,
+                "text": "E, quando esta epístola tiver sido lida entre vós, fazei que também o seja na igreja dos laodicenses, e a que veio de Laodiceia lede-a vós também."
+            },
+            {
+                "id": "v4.17",
+                "versicle_number": 17,
+                "text": "E dizei a Arquipo:{note:10} Atenta para o ministério que recebeste no Senhor: para que o cumpras."
+            },
+            {
+                "id": "v4.18",
+                "versicle_number": 18,
+                "text": "Saudação de minha mão, de Paulo. Lembrai-vos das minhas prisões. A graça seja convosco. Amém."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v4.7",
+                "text": "Tíquico e Onésimo são enviados aos colossenses; saudações finais"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 3.18—4.1 Ef 5.21—6.9"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 4.5 Ef 5.16"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 4.7-8 At 20.4; Ef 6.21-22; 2Tm 4.12"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 4.9 Fm 10-12"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 4.10 At 19.29; 27.2; Fm 24 {note:6} 4.10 At 12.12,25; 13.13; 15.37-39"
+            },
+            {
+                "id": "n6",
+                "text": "{note:7} 4.12 Cl 1.7; Fm 23 {note:g} 4.12 ou completos"
+            },
+            {
+                "id": "n7",
+                "text": "{note:8} 4.14 2Tm 4.11; Fm 24 {note:9} 4.14 2Tm 4.10; Fm 24"
+            },
+            {
+                "id": "n8",
+                "text": "{note:10} 4.17 Fm 2"
+            }
+        ]
+    }
+}

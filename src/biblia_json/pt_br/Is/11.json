@@ -1,0 +1,128 @@
+{
+    "book": {
+        "id": "Is",
+        "book_number": 23,
+        "new_testament": false,
+        "num_chapters": 66,
+        "book_name": "ISAÍAS",
+        "book_full_name": "ISAÍAS"
+    },
+    "chapter": {
+        "chapter_number": 11,
+        "chapter_reference": "",
+        "chapter_title": "O reino do Messias é pacífico e próspero",
+        "versicles": [
+            {
+                "id": "v11.1",
+                "versicle_number": 1,
+                "text": "PORQUE brotará um rebento{note:1} do tronco de Jessé, e das suas raízes{note:2} um renovo frutificará."
+            },
+            {
+                "id": "v11.2",
+                "versicle_number": 2,
+                "text": "E repousará sobre ele o espírito do Senhor, o espírito de sabedoria e de inteligência, o espírito de conselho e de fortaleza, o espírito de conhecimento e de temor do Senhor."
+            },
+            {
+                "id": "v11.3",
+                "versicle_number": 3,
+                "text": "E deleitar-se-á no temor do Senhor: e não julgará segundo a vista dos seus olhos, nem repreenderá segundo o ouvir dos seus ouvidos;"
+            },
+            {
+                "id": "v11.4",
+                "versicle_number": 4,
+                "text": "Mas julgará com justiça os pobres, e repreenderá com equidade os mansos da terra; e ferirá a terra com a vara de sua boca, e com o sopro dos seus lábios matará{note:3} o ímpio."
+            },
+            {
+                "id": "v11.5",
+                "versicle_number": 5,
+                "text": "E a justiça{note:4} será o cinto dos seus lombos, e a verdade o cinto dos seus rins."
+            },
+            {
+                "id": "v11.6",
+                "versicle_number": 6,
+                "text": "E morará o lobo com o cordeiro, e o leopardo com o cabrito se deitará, e o bezerro, e o filho de leão e a nédia ovelha viverão juntos, e um menino pequeno os guiará."
+            },
+            {
+                "id": "v11.7",
+                "versicle_number": 7,
+                "text": "A vaca e a ursa pastarão juntas, e seus filhos juntos se deitarão; e o leão comerá palha como o boi."
+            },
+            {
+                "id": "v11.8",
+                "versicle_number": 8,
+                "text": "E brincará a criança de peito sobre a toca do áspide, e o já desmamado meterá a sua mão na cova do basilisco."
+            },
+            {
+                "id": "v11.9",
+                "versicle_number": 9,
+                "text": "Não se fará mal nem dano algum em todo o monte da minha santidade, porque a terra se encherá{note:5} do conhecimento do Senhor, como as águas cobrem o mar.{note:6}"
+            },
+            {
+                "id": "v11.10",
+                "versicle_number": 10,
+                "text": "E acontecerá naquele dia que as nações perguntarão pela raiz de Jessé,{note:7} posta por pendão dos povos, e o lugar do seu repouso será glorioso."
+            },
+            {
+                "id": "v11.11",
+                "versicle_number": 11,
+                "text": "Porque há de acontecer naquele dia que o Senhor tornará a estender a sua mão para adquirir outra vez os resíduos do seu povo, que restarem da Assíria, e do Egito, e de Patros, e da Etiópia, e de Elão, e de Sinear, e de Hamate, e das ilhas do mar."
+            },
+            {
+                "id": "v11.12",
+                "versicle_number": 12,
+                "text": "E levantará um pendão entre as nações, e ajuntará os desterrados de Israel, e os dispersos de Judá congregará desde os quatro confins da terra."
+            },
+            {
+                "id": "v11.13",
+                "versicle_number": 13,
+                "text": "E desterrar-se-á a inveja de Efraim, e os adversários de Judá serão desarraigados: Efraim não invejará a Judá e Judá não oprimirá a Efraim."
+            },
+            {
+                "id": "v11.14",
+                "versicle_number": 14,
+                "text": "Antes voarão sobre os ombros dos filisteus ao ocidente; juntos despojarão os filhos do oriente: em Edom e Moabe porão as suas mãos, e os filhos de Amom lhes obedecerão."
+            },
+            {
+                "id": "v11.15",
+                "versicle_number": 15,
+                "text": "E o Senhor {note:n}destruirá totalmente o braço de mar do Egito, e moverá a sua mão contra o rio com a força do seu vento, e, ferindo-o, dividi-lo-á em sete correntes, que qualquer atravessará com sapatos."
+            },
+            {
+                "id": "v11.16",
+                "versicle_number": 16,
+                "text": "E haverá caminho plano para os resíduos do seu povo, que restarem da Assíria, como sucedeu a Israel no dia em que subiu da terra do Egito.{note:8}"
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 11.1 Mt 2.23 {note:2} 11.1 Ap 5.5; 22.16"
+            },
+            {
+                "id": "n2",
+                "text": "{note:3} 11.4 2Ts 2.8"
+            },
+            {
+                "id": "n3",
+                "text": "{note:4} 11.5 Ef 6.14"
+            },
+            {
+                "id": "n4",
+                "text": "{note:5} 11.9 Hc 2.14 {note:6} 11.6-9 Is 65.25"
+            },
+            {
+                "id": "n5",
+                "text": "{note:7} 11.10 Rm 15.12"
+            },
+            {
+                "id": "n6",
+                "text": "{note:n} 11.15 ou secará"
+            },
+            {
+                "id": "n7",
+                "text": "{note:8} 11.15-16 Ap 16.12"
+            }
+        ]
+    }
+}

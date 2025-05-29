@@ -1,0 +1,124 @@
+{
+    "book": {
+        "id": "Job",
+        "book_number": 18,
+        "new_testament": false,
+        "num_chapters": 42,
+        "book_name": "JÓ",
+        "book_full_name": "O LIVRO DE JÓ"
+    },
+    "chapter": {
+        "chapter_number": 11,
+        "chapter_reference": "",
+        "chapter_title": "Sofar repreende Jó, mostra a sabedoria de Deus e exorta ao arrependimento",
+        "versicles": [
+            {
+                "id": "v11.1",
+                "versicle_number": 1,
+                "text": "ENTÃO respondeu Sofar, o naamatita, e disse:"
+            },
+            {
+                "id": "v11.2",
+                "versicle_number": 2,
+                "text": "Porventura não se dará resposta à multidão de palavras? E o homem falador será justificado?"
+            },
+            {
+                "id": "v11.3",
+                "versicle_number": 3,
+                "text": "Às tuas mentiras se hão de calar os homens? E zombarás tu sem que ninguém te envergonhe?"
+            },
+            {
+                "id": "v11.4",
+                "versicle_number": 4,
+                "text": "Pois tu disseste: A minha doutrina é pura, limpo sou aos teus olhos."
+            },
+            {
+                "id": "v11.5",
+                "versicle_number": 5,
+                "text": "Mas, na verdade, oxalá que Deus falasse e abrisse os seus lábios contra ti,"
+            },
+            {
+                "id": "v11.6",
+                "versicle_number": 6,
+                "text": "E te fizesse saber os segredos da sabedoria, que é multíplice em eficácia; pelo que sabe que Deus exige de ti menos do que merece a tua iniquidade."
+            },
+            {
+                "id": "v11.7",
+                "versicle_number": 7,
+                "text": "Porventura alcançarás os caminhos de Deus ou chegarás à perfeição do Todo-poderoso?"
+            },
+            {
+                "id": "v11.8",
+                "versicle_number": 8,
+                "text": "Como as alturas dos céus é a sua sabedoria; que poderás tu fazer? Mais profunda é ela do que o {note:c}inferno, que poderás tu saber?"
+            },
+            {
+                "id": "v11.9",
+                "versicle_number": 9,
+                "text": "Mais comprida é a sua medida do que a terra; e mais larga do que o mar."
+            },
+            {
+                "id": "v11.10",
+                "versicle_number": 10,
+                "text": "Se ele destruir, e encerrar, ou juntar, quem o impedirá?"
+            },
+            {
+                "id": "v11.11",
+                "versicle_number": 11,
+                "text": "Porque ele conhece os homens vãos, e vê o vício; e não o terá em consideração?"
+            },
+            {
+                "id": "v11.12",
+                "versicle_number": 12,
+                "text": "Mas o homem vão é falto de entendimento; sim, o homem nasce como a cria do jumento montês."
+            },
+            {
+                "id": "v11.13",
+                "versicle_number": 13,
+                "text": "Se tu preparaste o teu coração, estende as tuas mãos para ele;"
+            },
+            {
+                "id": "v11.14",
+                "versicle_number": 14,
+                "text": "Se há iniquidade na tua mão, lança-a para longe de ti, e não deixes habitar a injustiça nas tuas tendas,"
+            },
+            {
+                "id": "v11.15",
+                "versicle_number": 15,
+                "text": "Porque então o teu rosto levantarás sem mácula; e estarás firme, e não temerás."
+            },
+            {
+                "id": "v11.16",
+                "versicle_number": 16,
+                "text": "Porque te esquecerás dos trabalhos, e te lembrarás deles como das águas que já passaram."
+            },
+            {
+                "id": "v11.17",
+                "versicle_number": 17,
+                "text": "E a tua vida mais clara se levantará do que o meio-dia; ainda que haja trevas, será como a manhã."
+            },
+            {
+                "id": "v11.18",
+                "versicle_number": 18,
+                "text": "E terás confiança, porque haverá esperança; olharás em volta, e repousarás seguro."
+            },
+            {
+                "id": "v11.19",
+                "versicle_number": 19,
+                "text": "E deitar-te-ás, e ninguém te espantará; muitos acariciarão o teu rosto."
+            },
+            {
+                "id": "v11.20",
+                "versicle_number": 20,
+                "text": "Mas os olhos dos ímpios desfalecerão, e perecerá o seu refúgio; e a sua esperança será o expirar da alma."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:c} 11.8 Heb. Sheol"
+            }
+        ]
+    }
+}

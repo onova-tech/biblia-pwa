@@ -1,0 +1,282 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 18,
+        "chapter_reference": "",
+        "chapter_title": "Cântico de louvor a Deus pelas suas muitas bênçãos",
+        "versicles": [
+            {
+                "id": "v18.1",
+                "versicle_number": 1,
+                "text": "EU te amarei do coração, ó Senhor, fortaleza minha."
+            },
+            {
+                "id": "v18.2",
+                "versicle_number": 2,
+                "text": "O Senhor é o meu rochedo, e o meu lugar forte, e o meu libertador; o meu Deus, a minha fortaleza, em quem confio; o meu escudo, {note:h}a força da minha salvação, e o meu alto refúgio."
+            },
+            {
+                "id": "v18.3",
+                "versicle_number": 3,
+                "text": "Invocarei o nome do Senhor, que é digno de louvor, e ficarei livre dos meus inimigos."
+            },
+            {
+                "id": "v18.4",
+                "versicle_number": 4,
+                "text": "Cordéis de morte me cercaram, e torrentes de impiedade me assombraram."
+            },
+            {
+                "id": "v18.5",
+                "versicle_number": 5,
+                "text": "Cordas do inferno me cingiram, laços de morte me surpreenderam."
+            },
+            {
+                "id": "v18.6",
+                "versicle_number": 6,
+                "text": "Na angústia invoquei ao Senhor, e clamei ao meu Deus: desde o seu templo ouviu a minha voz, aos seus ouvidos chegou o meu clamor perante a sua face."
+            },
+            {
+                "id": "v18.7",
+                "versicle_number": 7,
+                "text": "Então a terra se abalou e tremeu; e os fundamentos dos montes também se moveram e se abalaram, porquanto se indignou."
+            },
+            {
+                "id": "v18.8",
+                "versicle_number": 8,
+                "text": "Do seu nariz subiu fumo, e da sua boca saiu fogo que consumia; carvões se acenderam dele."
+            },
+            {
+                "id": "v18.9",
+                "versicle_number": 9,
+                "text": "Abaixou os céus, e desceu, e a escuridão estava debaixo de seus pés."
+            },
+            {
+                "id": "v18.10",
+                "versicle_number": 10,
+                "text": "E montou num querubim, e voou; sim, voou sobre as asas do vento."
+            },
+            {
+                "id": "v18.11",
+                "versicle_number": 11,
+                "text": "Fez das trevas o seu lugar oculto; o pavilhão que o cercava era a escuridão das águas e as nuvens dos céus."
+            },
+            {
+                "id": "v18.12",
+                "versicle_number": 12,
+                "text": "Ao resplendor da sua presença as nuvens se espalharam, e a saraiva e as brasas de fogo."
+            },
+            {
+                "id": "v18.13",
+                "versicle_number": 13,
+                "text": "E o Senhor trovejou nos céus, o Altíssimo levantou a sua voz; e havia saraiva e brasas de fogo."
+            },
+            {
+                "id": "v18.14",
+                "versicle_number": 14,
+                "text": "Despediu as suas setas, e os espalhou: multiplicou raios, e os perturbou."
+            },
+            {
+                "id": "v18.15",
+                "versicle_number": 15,
+                "text": "Então foram vistas as profundezas das águas, e foram descobertos os fundamentos do mundo; pela tua repreensão, Senhor, ao soprar das tuas narinas."
+            },
+            {
+                "id": "v18.16",
+                "versicle_number": 16,
+                "text": "Enviou desde o alto, e me tomou: tirou-me das muitas águas."
+            },
+            {
+                "id": "v18.17",
+                "versicle_number": 17,
+                "text": "Livrou-me do meu inimigo forte e dos que me aborreciam, pois eram mais poderosos do que eu."
+            },
+            {
+                "id": "v18.18",
+                "versicle_number": 18,
+                "text": "Surpreenderam-me no dia da minha calamidade; mas o Senhor foi o meu amparo."
+            },
+            {
+                "id": "v18.19",
+                "versicle_number": 19,
+                "text": "Trouxe-me para um lugar espaçoso; livrou-me, porque tinha prazer em mim."
+            },
+            {
+                "id": "v18.20",
+                "versicle_number": 20,
+                "text": "Recompensou-me o Senhor conforme a minha justiça, retribuiu-me conforme a pureza das minhas mãos."
+            },
+            {
+                "id": "v18.21",
+                "versicle_number": 21,
+                "text": "Porque guardei os caminhos do Senhor, e não me apartei impiamente do meu Deus."
+            },
+            {
+                "id": "v18.22",
+                "versicle_number": 22,
+                "text": "Porque todos os seus juízos estavam diante de mim, e não rejeitei os seus estatutos."
+            },
+            {
+                "id": "v18.23",
+                "versicle_number": 23,
+                "text": "Também fui sincero perante ele, e me guardei da minha iniquidade."
+            },
+            {
+                "id": "v18.24",
+                "versicle_number": 24,
+                "text": "Pelo que me retribuiu o Senhor conforme a minha justiça, conforme a pureza de minhas mãos perante os seus olhos."
+            },
+            {
+                "id": "v18.25",
+                "versicle_number": 25,
+                "text": "Com o benigno te mostrarás benigno; e com o homem sincero te mostrarás sincero;"
+            },
+            {
+                "id": "v18.26",
+                "versicle_number": 26,
+                "text": "Com o puro te mostrarás puro; e com o perverso te mostrarás indomável."
+            },
+            {
+                "id": "v18.27",
+                "versicle_number": 27,
+                "text": "Porque tu livrarás o povo aflito e abaterás os olhos altivos."
+            },
+            {
+                "id": "v18.28",
+                "versicle_number": 28,
+                "text": "Porque tu acenderás a minha candeia; o Senhor meu Deus alumiará as minhas trevas."
+            },
+            {
+                "id": "v18.29",
+                "versicle_number": 29,
+                "text": "Porque contigo entrei pelo meio dum esquadrão, com o meu Deus saltei uma muralha."
+            },
+            {
+                "id": "v18.30",
+                "versicle_number": 30,
+                "text": "O caminho de Deus é perfeito; a palavra do Senhor é provada: é um escudo para todos os que nele confiam."
+            },
+            {
+                "id": "v18.31",
+                "versicle_number": 31,
+                "text": "Porque, quem é Deus senão o Senhor? e quem é rochedo senão o nosso Deus?"
+            },
+            {
+                "id": "v18.32",
+                "versicle_number": 32,
+                "text": "Deus é o que me cinge de força e aperfeiçoa o meu caminho."
+            },
+            {
+                "id": "v18.33",
+                "versicle_number": 33,
+                "text": "Faz os meus pés como os das cervas,{note:1} e põe-me nas minhas alturas."
+            },
+            {
+                "id": "v18.34",
+                "versicle_number": 34,
+                "text": "Adestra as minhas mãos para o combate, de sorte que os meus braços quebraram um arco de cobre."
+            },
+            {
+                "id": "v18.35",
+                "versicle_number": 35,
+                "text": "Também me deste o escudo da tua salvação: a tua mão direita me susteve, e a tua mansidão me engrandeceu."
+            },
+            {
+                "id": "v18.36",
+                "versicle_number": 36,
+                "text": "Alargaste os meus passos, e os meus artelhos não vacilaram."
+            },
+            {
+                "id": "v18.37",
+                "versicle_number": 37,
+                "text": "Persegui os meus inimigos, e os alcancei: não voltei senão depois de os ter consumido."
+            },
+            {
+                "id": "v18.38",
+                "versicle_number": 38,
+                "text": "Atravessei-os, de sorte que não se puderam levantar: caíram debaixo dos meus pés."
+            },
+            {
+                "id": "v18.39",
+                "versicle_number": 39,
+                "text": "Pois me cingiste de força para a peleja: fizeste abater debaixo de mim aqueles que contra mim se levantaram."
+            },
+            {
+                "id": "v18.40",
+                "versicle_number": 40,
+                "text": "Deste-me também o pescoço dos meus inimigos, para que eu pudesse destruir os que me aborrecem."
+            },
+            {
+                "id": "v18.41",
+                "versicle_number": 41,
+                "text": "Clamaram, mas não houve quem os livrasse: até ao Senhor, mas ele não lhes respondeu."
+            },
+            {
+                "id": "v18.42",
+                "versicle_number": 42,
+                "text": "Então os esmiucei como o pó diante do vento; deitei-os fora como a lama das ruas."
+            },
+            {
+                "id": "v18.43",
+                "versicle_number": 43,
+                "text": "Livraste-me das contendas do povo, e me fizeste cabeça das nações; um povo que não conheci me servirá."
+            },
+            {
+                "id": "v18.44",
+                "versicle_number": 44,
+                "text": "Em ouvindo a minha voz, me obedecerão: os estranhos se submeterão a mim."
+            },
+            {
+                "id": "v18.45",
+                "versicle_number": 45,
+                "text": "Os estranhos decairão e terão medo nas suas fortificações."
+            },
+            {
+                "id": "v18.46",
+                "versicle_number": 46,
+                "text": "O Senhor vive: e bendito seja o meu rochedo, e exaltado seja o Deus da minha salvação."
+            },
+            {
+                "id": "v18.47",
+                "versicle_number": 47,
+                "text": "É Deus que me vinga inteiramente, e sujeita os povos debaixo de mim;"
+            },
+            {
+                "id": "v18.48",
+                "versicle_number": 48,
+                "text": "O que me livra de meus inimigos; — sim, tu me exaltas sobre os que se levantam contra mim, tu me livras do homem violento."
+            },
+            {
+                "id": "v18.49",
+                "versicle_number": 49,
+                "text": "Pelo que, ó Senhor, te louvarei{note:2} entre as nações, e cantarei louvores ao teu nome."
+            },
+            {
+                "id": "v18.50",
+                "versicle_number": 50,
+                "text": "É ele que engrandece as vitórias do seu rei, e usa de benignidade com o seu ungido, com Davi, e com a sua posteridade para sempre."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:h} 18.2 Heb. o chifre"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 18.33 Hc 3.19"
+            },
+            {
+                "id": "n3",
+                "text": "{note:2} 18.49 Rm 15.9"
+            }
+        ]
+    }
+}

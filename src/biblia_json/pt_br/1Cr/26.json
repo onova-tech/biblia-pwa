@@ -1,0 +1,195 @@
+{
+    "book": {
+        "id": "1Cr",
+        "book_number": 13,
+        "new_testament": false,
+        "num_chapters": 29,
+        "book_name": "CRÔNICAS",
+        "book_full_name": "O PRIMEIRO LIVRO DAS CRÔNICAS"
+    },
+    "chapter": {
+        "chapter_number": 26,
+        "chapter_reference": "",
+        "chapter_title": "Funções dos porteiros",
+        "versicles": [
+            {
+                "id": "v26.1",
+                "versicle_number": 1,
+                "text": "QUANTO às divisões dos porteiros, dos coraítas foi Meselemias, filho de Coré, dos filhos de Asafe."
+            },
+            {
+                "id": "v26.2",
+                "versicle_number": 2,
+                "text": "E foram os filhos de Meselemias: Zacarias o primogênito, Jediael o segundo, Zebedias o terceiro, Jatniel o quarto."
+            },
+            {
+                "id": "v26.3",
+                "versicle_number": 3,
+                "text": "Elão o quinto, Joanã o sexto, Elioenai o sétimo."
+            },
+            {
+                "id": "v26.4",
+                "versicle_number": 4,
+                "text": "E os filhos de Obede-Edom foram: Semaías o primogênito, Jozabade o segundo, Joá o terceiro, e Sacar o quarto, e Natanael o quinto,"
+            },
+            {
+                "id": "v26.5",
+                "versicle_number": 5,
+                "text": "Amiel o sexto, Issacar o sétimo, Peuletai o oitavo: porque Deus o tinha abençoado.{note:1}"
+            },
+            {
+                "id": "v26.6",
+                "versicle_number": 6,
+                "text": "Também a seu filho Semaías nasceram filhos, que dominaram sobre a casa de seu pai; porque foram varões valentes."
+            },
+            {
+                "id": "v26.7",
+                "versicle_number": 7,
+                "text": "Os filhos de Semaías: Otni, e Rafael, e Obede, e Elzabade, com seus irmãos, homens valentes, Eliú e Semaquias."
+            },
+            {
+                "id": "v26.8",
+                "versicle_number": 8,
+                "text": "Todos estes foram dos filhos de Obede-Edom; eles e seus filhos, e seus irmãos, homens valentes de força para o ministério: por todos sessenta e dois, de Obede-Edom."
+            },
+            {
+                "id": "v26.9",
+                "versicle_number": 9,
+                "text": "E os filhos e os irmãos de Meselemias, homens valentes, foram dezoito."
+            },
+            {
+                "id": "v26.10",
+                "versicle_number": 10,
+                "text": "E de Hosa, dentre os filhos de Merari, foram seus filhos: Sinri o chefe (ainda que não era o primogênito, contudo seu pai o constituiu chefe),"
+            },
+            {
+                "id": "v26.11",
+                "versicle_number": 11,
+                "text": "Hilquias o segundo, Tebalias o terceiro, Zacarias o quarto: todos os filhos e irmãos de Hosa foram treze."
+            },
+            {
+                "id": "v26.12",
+                "versicle_number": 12,
+                "text": "Destes se fizeram as turmas dos porteiros, entre os chefes dos homens da guarda, igualmente com os seus irmãos, para ministrarem na casa do Senhor."
+            },
+            {
+                "id": "v26.13",
+                "versicle_number": 13,
+                "text": "E lançaram sortes, assim os pequenos como os grandes, segundo as casas de seus pais, para cada porta."
+            },
+            {
+                "id": "v26.14",
+                "versicle_number": 14,
+                "text": "E caiu a sorte do oriente a Selemias: e lançou-se a sorte por seu filho Zacarias, conselheiro entendido, e saiu-lhe a sorte do norte."
+            },
+            {
+                "id": "v26.15",
+                "versicle_number": 15,
+                "text": "E a Obede-Edom a do sul: e a seus filhos a casa das tesourarias."
+            },
+            {
+                "id": "v26.16",
+                "versicle_number": 16,
+                "text": "A Supim e Hosa a do ocidente, com a porta Salequete, junto ao caminho da subida: uma guarda defronte doutra guarda."
+            },
+            {
+                "id": "v26.17",
+                "versicle_number": 17,
+                "text": "Ao oriente estavam seis levitas; ao norte quatro por dia, ao sul quatro por dia, porém às tesourarias de dois em dois."
+            },
+            {
+                "id": "v26.18",
+                "versicle_number": 18,
+                "text": "Em Parbar ao ocidente, quatro junto ao caminho, dois junto a Parbar."
+            },
+            {
+                "id": "v26.19",
+                "versicle_number": 19,
+                "text": "Estas são as turmas dos porteiros dentre os filhos dos coraítas, e dentre os filhos de Merari."
+            },
+            {
+                "id": "v26.20",
+                "versicle_number": 20,
+                "text": "E quanto aos levitas: Aías tinha cargo dos tesouros da casa de Deus e dos tesouros das cousas sagradas."
+            },
+            {
+                "id": "v26.21",
+                "versicle_number": 21,
+                "text": "Quanto aos filhos de Ladã, filhos de Ladã gersonita: de Ladã gersonita foi chefe dos pais Jeieli."
+            },
+            {
+                "id": "v26.22",
+                "versicle_number": 22,
+                "text": "Os filhos de Jeieli: Zetão e Joel, seu irmão; estes tinham cargo dos tesouros da casa do Senhor."
+            },
+            {
+                "id": "v26.23",
+                "versicle_number": 23,
+                "text": "Para os anramitas, para os isaritas, para os hebronitas, para os ozielitas;"
+            },
+            {
+                "id": "v26.24",
+                "versicle_number": 24,
+                "text": "E Sebuel, filho de Gérson, o filho de Moisés era maioral dos tesouros."
+            },
+            {
+                "id": "v26.25",
+                "versicle_number": 25,
+                "text": "E seus irmãos foram, da banda de Eliézer, Reabias seu filho, e Isaías seu filho, e Jorão seu filho, e Zicri seu filho, e Selomite seu filho."
+            },
+            {
+                "id": "v26.26",
+                "versicle_number": 26,
+                "text": "Este Selomite e seus irmãos tinham cargo de todos os tesouros das cousas sagradas que o rei Davi e os chefes dos pais, capitães de milhares, e de centenas, e capitães do exército tinham consagrado;"
+            },
+            {
+                "id": "v26.27",
+                "versicle_number": 27,
+                "text": "Dos despojos das guerras as consagraram, para repararem a casa do Senhor."
+            },
+            {
+                "id": "v26.28",
+                "versicle_number": 28,
+                "text": "Como também tudo quanto tinha consagrado Samuel o vidente, e Saul filho de Quis, e Abner filho de Ner, e Joabe filho de Zeruia: tudo quanto qualquer tinha consagrado estava debaixo da mão de Selomite e seus irmãos."
+            },
+            {
+                "id": "v26.29",
+                "versicle_number": 29,
+                "text": "Dos isaritas, Quenanias e seus filhos foram postos sobre Israel para a obra de fora, por oficiais e por juízes."
+            },
+            {
+                "id": "v26.30",
+                "versicle_number": 30,
+                "text": "Dos hebronitas foram Hesabias e seus irmãos, homens valentes, mil e setecentos, que tinham cargo dos ofícios em Israel, de aquém do Jordão para o ocidente, em toda a obra do Senhor, e para o serviço do rei."
+            },
+            {
+                "id": "v26.31",
+                "versicle_number": 31,
+                "text": "Dos hebronitas era Jerias o chefe dos hebronitas, de suas gerações entre os pais: no ano quarenta do reino de Davi se buscaram e acharam entre eles varões valentes em Jaezer de Gileade."
+            },
+            {
+                "id": "v26.32",
+                "versicle_number": 32,
+                "text": "E seus irmãos, homens valentes, dois mil e setecentos, chefes dos pais: e o rei Davi os constituiu sobre os rubenitas e os gaditas, e a meia tribo dos manassitas, para todos os negócios de Deus, e para todos os negócios do rei."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v26.20",
+                "text": "Os guardas dos tesouros"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v26.29",
+                "text": "Os oficiais e os juízes"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 26.5 2Sm 6.11; 1Cr 13.14"
+            }
+        ]
+    }
+}

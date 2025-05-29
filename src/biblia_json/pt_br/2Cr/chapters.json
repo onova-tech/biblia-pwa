@@ -1,0 +1,192 @@
+{
+    "book": {
+        "id": "2Cr",
+        "book_number": 14,
+        "new_testament": false,
+        "num_chapters": 36,
+        "book_name": "2º CRÔNICAS",
+        "book_full_name": "O SEGUNDO LIVRO DAS CRÔNICAS"
+    },
+    "chapters": [
+        {
+            "chapter_number": 10,
+            "chapter_reference": "",
+            "chapter_title": "A revolta de dez tribos de Israel"
+        },
+        {
+            "chapter_number": 11,
+            "chapter_reference": "",
+            "chapter_title": "Deus proíbe fazer guerra contra as dez tribos"
+        },
+        {
+            "chapter_number": 12,
+            "chapter_reference": "",
+            "chapter_title": "Deus castiga Roboão por causa da idolatria"
+        },
+        {
+            "chapter_number": 13,
+            "chapter_reference": "",
+            "chapter_title": "Abias reina e peleja contra Jeroboão"
+        },
+        {
+            "chapter_number": 14,
+            "chapter_reference": "",
+            "chapter_title": "Asa reina, e vence a Zerá o etíope"
+        },
+        {
+            "chapter_number": 15,
+            "chapter_reference": "",
+            "chapter_title": "Asa abole a idolatria e renova o pacto do Senhor"
+        },
+        {
+            "chapter_number": 16,
+            "chapter_reference": "",
+            "chapter_title": "Asa e o rei da Síria pelejam contra Baasa"
+        },
+        {
+            "chapter_number": 17,
+            "chapter_reference": "",
+            "chapter_title": "Josafá e o seu cuidado em instruir o povo"
+        },
+        {
+            "chapter_number": 18,
+            "chapter_reference": "",
+            "chapter_title": "Aliança entre Josafá e Acabe"
+        },
+        {
+            "chapter_number": 19,
+            "chapter_reference": "",
+            "chapter_title": "O profeta Jeú repreende a Josafá"
+        },
+        {
+            "chapter_number": 1,
+            "chapter_reference": "",
+            "chapter_title": "Salomão oferece sacrifícios"
+        },
+        {
+            "chapter_number": 20,
+            "chapter_reference": "",
+            "chapter_title": "Deus concede a Josafá vitória sobre os seus inimigos"
+        },
+        {
+            "chapter_number": 21,
+            "chapter_reference": "",
+            "chapter_title": "A morte de Josafá e a impiedade de Jorão"
+        },
+        {
+            "chapter_number": 22,
+            "chapter_reference": "",
+            "chapter_title": "Acazias reina e é morto por Jeú"
+        },
+        {
+            "chapter_number": 23,
+            "chapter_reference": "",
+            "chapter_title": "Joiada, o sacerdote, unge a Joás, como rei de Judá"
+        },
+        {
+            "chapter_number": 24,
+            "chapter_reference": "",
+            "chapter_title": "Joás dá ordens para consertar o templo"
+        },
+        {
+            "chapter_number": 25,
+            "chapter_reference": "",
+            "chapter_title": "Amazias vence os edomitas"
+        },
+        {
+            "chapter_number": 26,
+            "chapter_reference": "",
+            "chapter_title": "Uzias reina e prospera"
+        },
+        {
+            "chapter_number": 27,
+            "chapter_reference": "",
+            "chapter_title": "Jotão reina bem e vence os amonitas"
+        },
+        {
+            "chapter_number": 28,
+            "chapter_reference": "",
+            "chapter_title": "Acaz é ímpio e os siros afligem-no"
+        },
+        {
+            "chapter_number": 29,
+            "chapter_reference": "",
+            "chapter_title": "Ezequias manda purificar o templo"
+        },
+        {
+            "chapter_number": 2,
+            "chapter_reference": "",
+            "chapter_title": "Salomão pede a Hirão, rei de Tiro, que o ajude na construção do templo"
+        },
+        {
+            "chapter_number": 30,
+            "chapter_reference": "",
+            "chapter_title": "Ezequias convida todo o povo a vir a Jerusalém para celebrar a páscoa"
+        },
+        {
+            "chapter_number": 31,
+            "chapter_reference": "",
+            "chapter_title": "Ezequias regula as turmas dos sacerdotes e levitas"
+        },
+        {
+            "chapter_number": 32,
+            "chapter_reference": "",
+            "chapter_title": "Senaqueribe invade Judá, e Deus destrói o seu exército"
+        },
+        {
+            "chapter_number": 33,
+            "chapter_reference": "",
+            "chapter_title": "A idolatria de Manassés"
+        },
+        {
+            "chapter_number": 34,
+            "chapter_reference": "",
+            "chapter_title": "Josias abole a idolatria"
+        },
+        {
+            "chapter_number": 35,
+            "chapter_reference": "",
+            "chapter_title": "A celebração da páscoa em Jerusalém"
+        },
+        {
+            "chapter_number": 36,
+            "chapter_reference": "",
+            "chapter_title": "Joacaz é levado cativo para o Egito"
+        },
+        {
+            "chapter_number": 3,
+            "chapter_reference": "",
+            "chapter_title": "A construção do templo começa"
+        },
+        {
+            "chapter_number": 4,
+            "chapter_reference": "",
+            "chapter_title": "O altar e o mar de bronze"
+        },
+        {
+            "chapter_number": 5,
+            "chapter_reference": "",
+            "chapter_title": "A arca é levada para o santuário do templo"
+        },
+        {
+            "chapter_number": 6,
+            "chapter_reference": "",
+            "chapter_title": "Salomão abençoa o povo e dá graças ao Deus de Israel"
+        },
+        {
+            "chapter_number": 7,
+            "chapter_reference": "",
+            "chapter_title": "O fogo e a glória de Deus são os sinais da sua aprovação"
+        },
+        {
+            "chapter_number": 8,
+            "chapter_reference": "",
+            "chapter_title": "Salomão edifica cidades"
+        },
+        {
+            "chapter_number": 9,
+            "chapter_reference": "",
+            "chapter_title": "A rainha de Sabá vem ver a Salomão"
+        }
+    ]
+}

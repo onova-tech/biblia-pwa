@@ -1,0 +1,79 @@
+{
+    "book": {
+        "id": "Jn",
+        "book_number": 32,
+        "new_testament": false,
+        "num_chapters": 4,
+        "book_name": "JONAS",
+        "book_full_name": "JONAS"
+    },
+    "chapter": {
+        "chapter_number": 4,
+        "chapter_reference": "",
+        "chapter_title": "O descontentamento de Jonas e a resposta do Senhor",
+        "versicles": [
+            {
+                "id": "v4.1",
+                "versicle_number": 1,
+                "text": "MAS desgostou-se Jonas extremamente disso, e ficou todo ressentido."
+            },
+            {
+                "id": "v4.2",
+                "versicle_number": 2,
+                "text": "E orou ao Senhor, e disse: Ah! Senhor! não foi isso o que eu disse, estando ainda na minha terra? por isso me preveni, fugindo para Tarsis, pois sabia que és Deus piedoso,{note:1} e misericordioso, longânimo e grande em benignidade, e que te arrependes do mal."
+            },
+            {
+                "id": "v4.3",
+                "versicle_number": 3,
+                "text": "Peço-te, pois, ó Senhor, tira-me a minha vida, porque melhor me é morrer do que viver."
+            },
+            {
+                "id": "v4.4",
+                "versicle_number": 4,
+                "text": "E disse o Senhor: É razoável esse teu ressentimento?"
+            },
+            {
+                "id": "v4.5",
+                "versicle_number": 5,
+                "text": "Então Jonas saiu da cidade, e assentou-se ao oriente da cidade: e ali fez uma cabana, e se assentou debaixo dela, à sombra, até ver o que aconteceria à cidade."
+            },
+            {
+                "id": "v4.6",
+                "versicle_number": 6,
+                "text": "E fez o Senhor Deus nascer uma aboboreira, que subiu por cima de Jonas, para que fizesse sombra sobre a sua cabeça, a fim de o livrar do seu enfado: e Jonas se alegrou em extremo por causa da aboboreira."
+            },
+            {
+                "id": "v4.7",
+                "versicle_number": 7,
+                "text": "Mas Deus enviou um bicho, no dia seguinte ao subir da alva, o qual feriu a aboboreira, e esta se secou."
+            },
+            {
+                "id": "v4.8",
+                "versicle_number": 8,
+                "text": "E aconteceu que, aparecendo o sol, Deus mandou um vento calmoso, oriental, e o sol feriu a cabeça de Jonas; e ele desmaiou, e desejou com toda a sua alma morrer, dizendo: Melhor me é morrer do que viver."
+            },
+            {
+                "id": "v4.9",
+                "versicle_number": 9,
+                "text": "Então disse Deus a Jonas: É acaso razoável que assim te enfades por causa da aboboreira? E ele disse: É justo que me enfade a ponto de desejar a morte."
+            },
+            {
+                "id": "v4.10",
+                "versicle_number": 10,
+                "text": "E disse o Senhor: Tiveste compaixão da aboboreira, na qual não trabalhaste, nem a fizeste crescer; que numa noite nasceu, e numa noite pereceu;"
+            },
+            {
+                "id": "v4.11",
+                "versicle_number": 11,
+                "text": "E não hei de eu ter compaixão da grande cidade de Nínive em que estão mais de cento e vinte mil homens, que não sabem discernir entre a sua mão direita e a sua mão esquerda, e também muitos animais?"
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 4.2 Êx 34.6"
+            }
+        ]
+    }
+}

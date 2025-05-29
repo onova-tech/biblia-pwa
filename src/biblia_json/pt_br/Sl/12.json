@@ -1,0 +1,64 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 12,
+        "chapter_reference": "",
+        "chapter_title": "A falsidade do homem e a veracidade de Deus",
+        "versicles": [
+            {
+                "id": "v12.1",
+                "versicle_number": 1,
+                "text": "SALVA-NOS, Senhor, porque faltam os homens benignos; porque são poucos os fiéis entre os filhos dos homens."
+            },
+            {
+                "id": "v12.2",
+                "versicle_number": 2,
+                "text": "Cada um fala com falsidade ao seu próximo: falam com lábios lisonjeiros e coração dobrado."
+            },
+            {
+                "id": "v12.3",
+                "versicle_number": 3,
+                "text": "O Senhor cortará todos os lábios lisonjeiros e a língua que fala soberbamente."
+            },
+            {
+                "id": "v12.4",
+                "versicle_number": 4,
+                "text": "Pois dizem: com a nossa língua prevaleceremos: os beiços são nossos: quem é o Senhor sobre nós?"
+            },
+            {
+                "id": "v12.5",
+                "versicle_number": 5,
+                "text": "Por causa da opressão dos pobres, e do gemido dos necessitados, me levantarei agora, diz o Senhor; {note:c}porei em salvo aquele para quem eles assopram."
+            },
+            {
+                "id": "v12.6",
+                "versicle_number": 6,
+                "text": "As palavras do Senhor são palavras puras, como prata refinada em forno de barro, purificada sete vezes."
+            },
+            {
+                "id": "v12.7",
+                "versicle_number": 7,
+                "text": "Tu os guardarás, Senhor; desta geração os livrarás para sempre."
+            },
+            {
+                "id": "v12.8",
+                "versicle_number": 8,
+                "text": "Os ímpios circulam por toda a parte, quando os mais vis dos filhos dos homens são exaltados."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:c} 12.5 ou darei a salvação ao que suspira por ela"
+            }
+        ]
+    }
+}

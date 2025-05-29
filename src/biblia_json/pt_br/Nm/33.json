@@ -1,0 +1,314 @@
+{
+    "book": {
+        "id": "Nm",
+        "book_number": 4,
+        "new_testament": false,
+        "num_chapters": 36,
+        "book_name": "NÚMEROS",
+        "book_full_name": "O QUARTO LIVRO DE MOISÉS NÚMEROS"
+    },
+    "chapter": {
+        "chapter_number": 33,
+        "chapter_reference": "",
+        "chapter_title": "As jornadas desde o Egito até Moabe",
+        "versicles": [
+            {
+                "id": "v33.1",
+                "versicle_number": 1,
+                "text": "ESTAS são as jornadas dos filhos de Israel, que saíram da terra do Egito, segundo os seus exércitos, pela mão de Moisés e Aarão."
+            },
+            {
+                "id": "v33.2",
+                "versicle_number": 2,
+                "text": "E escreveu Moisés as suas saídas, segundo as suas jornadas, conforme ao mandado do Senhor: e estas são as suas jornadas segundo as suas saídas."
+            },
+            {
+                "id": "v33.3",
+                "versicle_number": 3,
+                "text": "Partiram pois de Ramessés no mês primeiro, no dia quinze do primeiro mês: no seguinte dia da páscoa saíram os filhos de Israel por alta mão aos olhos de todos os egípcios,"
+            },
+            {
+                "id": "v33.4",
+                "versicle_number": 4,
+                "text": "Enterrando os egípcios os que o Senhor tinha ferido entre eles, a todo o primogênito, e havendo o Senhor executado os seus juízos nos seus deuses."
+            },
+            {
+                "id": "v33.5",
+                "versicle_number": 5,
+                "text": "Partidos pois os filhos de Israel de Ramessés, acamparam-se em Sucote."
+            },
+            {
+                "id": "v33.6",
+                "versicle_number": 6,
+                "text": "E partiram de Sucote, e acamparam-se em Etã, que está no fim do deserto."
+            },
+            {
+                "id": "v33.7",
+                "versicle_number": 7,
+                "text": "E partiram de Etã, e voltaram a Pi-Hairote que está defronte de Baal-Zefom, e acamparam-se diante de Migdol."
+            },
+            {
+                "id": "v33.8",
+                "versicle_number": 8,
+                "text": "E partiram de Hairote, e passaram pelo meio do mar ao deserto, e andaram caminho de três dias no deserto de Etã, e acamparam-se em Mara."
+            },
+            {
+                "id": "v33.9",
+                "versicle_number": 9,
+                "text": "E partiram de Mara, e vieram a Elim, e em Elim havia doze fontes de águas, e setenta palmeiras, e acamparam-se ali."
+            },
+            {
+                "id": "v33.10",
+                "versicle_number": 10,
+                "text": "E partiram de Elim, e acamparam-se junto ao Mar Vermelho."
+            },
+            {
+                "id": "v33.11",
+                "versicle_number": 11,
+                "text": "E partiram do Mar Vermelho, e acamparam-se no deserto de Sim."
+            },
+            {
+                "id": "v33.12",
+                "versicle_number": 12,
+                "text": "E partiram do deserto de Sim, e acamparam-se em Dofcá."
+            },
+            {
+                "id": "v33.13",
+                "versicle_number": 13,
+                "text": "E partiram de Dofcá, e acamparam-se em Alus."
+            },
+            {
+                "id": "v33.14",
+                "versicle_number": 14,
+                "text": "E partiram de Alus, e acamparam-se em Rafidim; porém não havia ali água, para que o povo bebesse."
+            },
+            {
+                "id": "v33.15",
+                "versicle_number": 15,
+                "text": "Partiram pois de Rafidim, e acamparam-se no deserto de Sinai."
+            },
+            {
+                "id": "v33.16",
+                "versicle_number": 16,
+                "text": "Partiram do deserto de Sinai, e acamparam-se em Quibrote-Hataavá."
+            },
+            {
+                "id": "v33.17",
+                "versicle_number": 17,
+                "text": "E partiram de Quibrote-Hataavá, e acamparam-se em Hazerote."
+            },
+            {
+                "id": "v33.18",
+                "versicle_number": 18,
+                "text": "E partiram de Hazerote, e acamparam-se em Ritma."
+            },
+            {
+                "id": "v33.19",
+                "versicle_number": 19,
+                "text": "E partiram de Ritma, e acamparam-se em Rimom-Perez."
+            },
+            {
+                "id": "v33.20",
+                "versicle_number": 20,
+                "text": "E partiram de Rimom-Perez, e acamparam-se em Libna."
+            },
+            {
+                "id": "v33.21",
+                "versicle_number": 21,
+                "text": "E partiram de Libna, e acamparam-se em Rissa."
+            },
+            {
+                "id": "v33.22",
+                "versicle_number": 22,
+                "text": "E partiram de Rissa, e acamparam-se em Queelata."
+            },
+            {
+                "id": "v33.23",
+                "versicle_number": 23,
+                "text": "E partiram de Queelata, e acamparam-se no monte de Safer."
+            },
+            {
+                "id": "v33.24",
+                "versicle_number": 24,
+                "text": "E partiram do monte de Safer, e acamparam-se em Harada."
+            },
+            {
+                "id": "v33.25",
+                "versicle_number": 25,
+                "text": "E partiram de Harada, e acamparam-se em Maguelote."
+            },
+            {
+                "id": "v33.26",
+                "versicle_number": 26,
+                "text": "E partiram de Maguelote, e acamparam-se em Tacate."
+            },
+            {
+                "id": "v33.27",
+                "versicle_number": 27,
+                "text": "E partiram de Tacate, e acamparam-se em Tara."
+            },
+            {
+                "id": "v33.28",
+                "versicle_number": 28,
+                "text": "E partiram de Tara, e acamparam-se em Mitca."
+            },
+            {
+                "id": "v33.29",
+                "versicle_number": 29,
+                "text": "E partiram de Mitca, e acamparam-se em Hasmona."
+            },
+            {
+                "id": "v33.30",
+                "versicle_number": 30,
+                "text": "E partiram de Hasmona, e acamparam-se em Moserote."
+            },
+            {
+                "id": "v33.31",
+                "versicle_number": 31,
+                "text": "E partiram de Moserote, e acamparam-se em Bene-Jaacã."
+            },
+            {
+                "id": "v33.32",
+                "versicle_number": 32,
+                "text": "E partiram de Bene-Jaacã, e acamparam-se em Hor-Hagidgade."
+            },
+            {
+                "id": "v33.33",
+                "versicle_number": 33,
+                "text": "E partiram de Hor-Hagidgade, e acamparam-se em Jotbata."
+            },
+            {
+                "id": "v33.34",
+                "versicle_number": 34,
+                "text": "E partiram de Jotbata, e acamparam-se em Abrona."
+            },
+            {
+                "id": "v33.35",
+                "versicle_number": 35,
+                "text": "E partiram de Abrona, e acamparam-se em Esiom-Geber."
+            },
+            {
+                "id": "v33.36",
+                "versicle_number": 36,
+                "text": "E partiram de Esiom-Geber, e acamparam-se no deserto de Zim, que é Cades."
+            },
+            {
+                "id": "v33.37",
+                "versicle_number": 37,
+                "text": "E partiram de Cades, e acamparam-se no monte de Hor, no fim da terra de Edom."
+            },
+            {
+                "id": "v33.38",
+                "versicle_number": 38,
+                "text": "Então Aarão, o sacerdote, subiu ao monte de Hor, conforme ao mandado do Senhor; e morreu ali{note:1} no quinto mês do ano quadragésimo da saída dos filhos de Israel da terra do Egito, no primeiro dia do mês."
+            },
+            {
+                "id": "v33.39",
+                "versicle_number": 39,
+                "text": "E era Aarão da idade de cento e vinte três anos, quando morreu no monte de Hor."
+            },
+            {
+                "id": "v33.40",
+                "versicle_number": 40,
+                "text": "E ouviu o cananeu, rei de Harade,{note:2} que habitava o sul na terra de Canaã, que chegavam os filhos de Israel."
+            },
+            {
+                "id": "v33.41",
+                "versicle_number": 41,
+                "text": "E partiram de Hor, e acamparam-se em Zalmona."
+            },
+            {
+                "id": "v33.42",
+                "versicle_number": 42,
+                "text": "E partiram de Zalmona, e acamparam-se em Punom."
+            },
+            {
+                "id": "v33.43",
+                "versicle_number": 43,
+                "text": "E partiram de Punom, e acamparam-se em Obote."
+            },
+            {
+                "id": "v33.44",
+                "versicle_number": 44,
+                "text": "E partiram de Obote, e acamparam-se nos outeirinhos de Abarim, no termo de Moabe."
+            },
+            {
+                "id": "v33.45",
+                "versicle_number": 45,
+                "text": "E partiram dos outeirinhos de Abarim, e acamparam-se em Dibom-Gade."
+            },
+            {
+                "id": "v33.46",
+                "versicle_number": 46,
+                "text": "E partiram de Dibom-Gade, e acamparam-se em Almom-Diblataim."
+            },
+            {
+                "id": "v33.47",
+                "versicle_number": 47,
+                "text": "E partiram de Almom-Diblataim, e acamparam-se nos montes de Abarim defronte de Nebo."
+            },
+            {
+                "id": "v33.48",
+                "versicle_number": 48,
+                "text": "E partiram dos montes de Abarim, e acamparam-se nas campinas dos moabitas, junto ao Jordão de Jericó."
+            },
+            {
+                "id": "v33.49",
+                "versicle_number": 49,
+                "text": "E acamparam-se junto ao Jordão, desde Bete-Jesimote até Abel-Sitim, nas campinas dos moabitas."
+            },
+            {
+                "id": "v33.50",
+                "versicle_number": 50,
+                "text": "E falou o Senhor a Moisés, nas campinas dos moabitas, junto ao Jordão de Jericó, dizendo:"
+            },
+            {
+                "id": "v33.51",
+                "versicle_number": 51,
+                "text": "Fala aos filhos de Israel, e dize-lhes: Quando houverdes passado o Jordão para a terra de Canaã,"
+            },
+            {
+                "id": "v33.52",
+                "versicle_number": 52,
+                "text": "Lançareis fora todos os moradores da terra diante de vós, e destruireis todas as suas figuras: também destruireis todas as suas imagens de fundição, e desfareis todos os seus altos;"
+            },
+            {
+                "id": "v33.53",
+                "versicle_number": 53,
+                "text": "E tomareis a terra em possessão, e nela habitareis: porquanto vos tenho dado esta terra, para possuí-la."
+            },
+            {
+                "id": "v33.54",
+                "versicle_number": 54,
+                "text": "E por sortes herdareis a terra segundo as vossas famílias; aos muitos a herança multiplicareis, e aos poucos a herança diminuireis: onde a sorte sair a alguém, ali a terá: segundo as tribos de vossos pais tomareis as heranças."
+            },
+            {
+                "id": "v33.55",
+                "versicle_number": 55,
+                "text": "Mas se não lançardes fora os moradores da terra de diante de vós, então os que deixardes ficar deles vos serão por espinhos nos vossos olhos, e por aguilhões nas vossas ilhargas, e apertar-vos-ão na terra em que habitardes."
+            },
+            {
+                "id": "v33.56",
+                "versicle_number": 56,
+                "text": "E será que farei a vós como pensei fazer-lhes a eles."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v33.50",
+                "text": "Deus manda lançar fora os moradores de Canaã"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 33.38 Dt 10.6"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 33.40 Nm 21.1"
+            }
+        ]
+    }
+}

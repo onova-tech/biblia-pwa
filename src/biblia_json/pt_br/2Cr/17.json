@@ -1,0 +1,114 @@
+{
+    "book": {
+        "id": "2Cr",
+        "book_number": 14,
+        "new_testament": false,
+        "num_chapters": 36,
+        "book_name": "CRÔNICAS",
+        "book_full_name": "O SEGUNDO LIVRO DAS CRÔNICAS"
+    },
+    "chapter": {
+        "chapter_number": 17,
+        "chapter_reference": "",
+        "chapter_title": "Josafá e o seu cuidado em instruir o povo",
+        "versicles": [
+            {
+                "id": "v17.1",
+                "versicle_number": 1,
+                "text": "E JOSAFÁ seu filho reinou em seu lugar: e fortificou-se contra Israel."
+            },
+            {
+                "id": "v17.2",
+                "versicle_number": 2,
+                "text": "E pôs gente de guerra em todas as cidades fortes de Judá e pôs guarnições na terra de Judá, como também nas cidades de Efraim, que Asa seu pai tinha tomado."
+            },
+            {
+                "id": "v17.3",
+                "versicle_number": 3,
+                "text": "E o Senhor foi com Josafá; porque andou nos primeiros caminhos de Davi, seu pai, e não buscou a Baalim."
+            },
+            {
+                "id": "v17.4",
+                "versicle_number": 4,
+                "text": "Antes buscou ao Deus de seu pai, e andou nos seus mandamentos, e não segundo as obras de Israel."
+            },
+            {
+                "id": "v17.5",
+                "versicle_number": 5,
+                "text": "E o Senhor confirmou o reino na sua mão, e todo o Judá deu presentes a Josafá: e teve riquezas e glória em abundância."
+            },
+            {
+                "id": "v17.6",
+                "versicle_number": 6,
+                "text": "E exaltou-se o seu coração nos caminhos do Senhor e ainda de mais tirou os altos e os bosques de Judá."
+            },
+            {
+                "id": "v17.7",
+                "versicle_number": 7,
+                "text": "E no terceiro ano do seu reinado enviou ele os seus príncipes, a Bencail, e a Obadias, e a Zacarias, e a Natanael, e a Micaia, para ensinarem nas cidades de Judá."
+            },
+            {
+                "id": "v17.8",
+                "versicle_number": 8,
+                "text": "E com eles os levitas, Semaías e Netanias, e Zebadias, e Asael, e Semiramote, e Jônatas, e Adonias, e Tobias, e Tobadonias, levitas: e com eles os sacerdotes, Elisama e Jorão."
+            },
+            {
+                "id": "v17.9",
+                "versicle_number": 9,
+                "text": "E ensinaram em Judá e tinham consigo o livro da lei do Senhor: e rodearam todas as cidades de Judá, e ensinaram entre o povo."
+            },
+            {
+                "id": "v17.10",
+                "versicle_number": 10,
+                "text": "E veio o temor do Senhor sobre todos os reinos das terras, que estavam em roda de Judá, e não guerrearam contra Josafá."
+            },
+            {
+                "id": "v17.11",
+                "versicle_number": 11,
+                "text": "E alguns dentre os filisteus traziam presentes a Josafá, com o dinheiro do tributo: também os arábios lhe trouxeram gado miúdo; sete mil e setecentos carneiros e sete mil e setecentos bodes."
+            },
+            {
+                "id": "v17.12",
+                "versicle_number": 12,
+                "text": "Cresceu pois Josafá e se engrandeceu extremamente: e edificou fortalezas e cidades de munições em Judá."
+            },
+            {
+                "id": "v17.13",
+                "versicle_number": 13,
+                "text": "E teve muitas obras nas cidades de Judá, e gente de guerra, varões valentes em Jerusalém."
+            },
+            {
+                "id": "v17.14",
+                "versicle_number": 14,
+                "text": "E este é o número deles segundo as casas de seus pais: Em Judá eram chefes dos milhares: o chefe Adna, e com ele trezentos mil varões valentes;"
+            },
+            {
+                "id": "v17.15",
+                "versicle_number": 15,
+                "text": "E após ele o chefe Joanã, e com ele duzentos e oitenta mil;"
+            },
+            {
+                "id": "v17.16",
+                "versicle_number": 16,
+                "text": "E após ele Amazias, filho de Zicri, que voluntariamente se entregou ao Senhor, e com ele duzentos mil varões valentes."
+            },
+            {
+                "id": "v17.17",
+                "versicle_number": 17,
+                "text": "E de Benjamim, Eliada, varão valente, e com ele duzentos mil, armados de arco e de escudo:"
+            },
+            {
+                "id": "v17.18",
+                "versicle_number": 18,
+                "text": "E após ele Jozabade: e com ele cento e oitenta mil armados para a guerra."
+            },
+            {
+                "id": "v17.19",
+                "versicle_number": 19,
+                "text": "Estes estavam no serviço do rei; afora os que o rei tinha posto nas cidades fortes por todo o Judá."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

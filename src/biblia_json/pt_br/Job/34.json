@@ -1,0 +1,209 @@
+{
+    "book": {
+        "id": "Job",
+        "book_number": 18,
+        "new_testament": false,
+        "num_chapters": 42,
+        "book_name": "JÓ",
+        "book_full_name": "O LIVRO DE JÓ"
+    },
+    "chapter": {
+        "chapter_number": 34,
+        "chapter_reference": "",
+        "chapter_title": "Eliú acusa Jó de falar injustamente de Deus",
+        "versicles": [
+            {
+                "id": "v34.1",
+                "versicle_number": 1,
+                "text": "RESPONDEU mais Eliú, e disse:"
+            },
+            {
+                "id": "v34.2",
+                "versicle_number": 2,
+                "text": "Ouvi, vós, sábios, as minhas razões; e vós, entendidos, inclinai os ouvidos para mim."
+            },
+            {
+                "id": "v34.3",
+                "versicle_number": 3,
+                "text": "Porque o ouvido prova as palavras, como o paladar prova a comida."
+            },
+            {
+                "id": "v34.4",
+                "versicle_number": 4,
+                "text": "O que é direito escolhamos para nós; e conheçamos entre nós o que é bom."
+            },
+            {
+                "id": "v34.5",
+                "versicle_number": 5,
+                "text": "Porque Jó disse: Sou justo, e Deus tirou o meu direito."
+            },
+            {
+                "id": "v34.6",
+                "versicle_number": 6,
+                "text": "Apesar do meu direito, sou considerado mentiroso; a minha ferida é incurável, embora eu esteja sem transgressão."
+            },
+            {
+                "id": "v34.7",
+                "versicle_number": 7,
+                "text": "Que homem há como Jó, que bebe a zombaria como água?"
+            },
+            {
+                "id": "v34.8",
+                "versicle_number": 8,
+                "text": "E caminha em companhia dos que obram a iniquidade, e anda com homens ímpios?"
+            },
+            {
+                "id": "v34.9",
+                "versicle_number": 9,
+                "text": "Porque disse: De nada aproveita ao homem o comprazer-se em Deus."
+            },
+            {
+                "id": "v34.10",
+                "versicle_number": 10,
+                "text": "Pelo que vós, homens de entendimento, escutai-me longe de Deus a impiedade, e do Todo-poderoso a perversidade!"
+            },
+            {
+                "id": "v34.11",
+                "versicle_number": 11,
+                "text": "Porque, segundo a obra{note:1} do homem, ele lhe paga; e faz que cada um ache segundo o seu caminho."
+            },
+            {
+                "id": "v34.12",
+                "versicle_number": 12,
+                "text": "Também, na verdade, Deus não procede impiamente; nem o Todo-poderoso perverte o juízo."
+            },
+            {
+                "id": "v34.13",
+                "versicle_number": 13,
+                "text": "Quem lhe entregou o governo da terra? E quem dispôs a todo o mundo?"
+            },
+            {
+                "id": "v34.14",
+                "versicle_number": 14,
+                "text": "Se ele pusesse o seu coração contra o homem, e recolhesse para si o seu espírito e o seu fôlego,"
+            },
+            {
+                "id": "v34.15",
+                "versicle_number": 15,
+                "text": "Toda a carne juntamente expiraria, e o homem voltaria para o pó."
+            },
+            {
+                "id": "v34.16",
+                "versicle_number": 16,
+                "text": "Se pois há em ti entendimento, ouve isto; inclina os ouvidos à voz do meu discurso."
+            },
+            {
+                "id": "v34.17",
+                "versicle_number": 17,
+                "text": "Porventura o que aborrecesse o direito governaria? E quererás tu condenar aquele que é justo e poderoso?"
+            },
+            {
+                "id": "v34.18",
+                "versicle_number": 18,
+                "text": "Ou dir-se-á a um rei: Oh! Belial? Ou aos príncipes: Oh! ímpios?"
+            },
+            {
+                "id": "v34.19",
+                "versicle_number": 19,
+                "text": "Quanto menos àquele, que não faz acepção das pessoas de príncipes, nem estima o rico mais do que o pobre; porque todos são obra de suas mãos."
+            },
+            {
+                "id": "v34.20",
+                "versicle_number": 20,
+                "text": "Eles num momento morrem; e até à meia-noite os povos são perturbados, e passam, e os poderosos são tomados sem mão."
+            },
+            {
+                "id": "v34.21",
+                "versicle_number": 21,
+                "text": "Porque os seus olhos estão sobre os caminhos de cada um, e ele vê todos os seus passos."
+            },
+            {
+                "id": "v34.22",
+                "versicle_number": 22,
+                "text": "Não há trevas nem sombra de morte, onde se escondam os que obram a iniquidade."
+            },
+            {
+                "id": "v34.23",
+                "versicle_number": 23,
+                "text": "Porque não precisa considerar muito no homem para o fazer ir a juízo diante de Deus."
+            },
+            {
+                "id": "v34.24",
+                "versicle_number": 24,
+                "text": "Quebranta os fortes, sem que se possa inquirir, e põe outros em seu lugar."
+            },
+            {
+                "id": "v34.25",
+                "versicle_number": 25,
+                "text": "Ele conhece pois as suas obras; de noite os transtorna, e ficam moídos."
+            },
+            {
+                "id": "v34.26",
+                "versicle_number": 26,
+                "text": "Ele bate-lhes como ímpios que são à vista de quem os contempla;"
+            },
+            {
+                "id": "v34.27",
+                "versicle_number": 27,
+                "text": "Porquanto se desviaram dele, e não compreenderam nenhum de seus caminhos,"
+            },
+            {
+                "id": "v34.28",
+                "versicle_number": 28,
+                "text": "Para fazer que o clamor do pobre subisse até ele, e que ouvisse o clamor dos aflitos."
+            },
+            {
+                "id": "v34.29",
+                "versicle_number": 29,
+                "text": "Se ele aquietar, quem então inquietará? Se encobrir o rosto, quem então o poderá contemplar, seja para com um povo, seja para com um homem só?"
+            },
+            {
+                "id": "v34.30",
+                "versicle_number": 30,
+                "text": "Para que o homem hipócrita nunca mais reine, e não haja laços no povo."
+            },
+            {
+                "id": "v34.31",
+                "versicle_number": 31,
+                "text": "Na verdade, quem disse a Deus: Sofri, não pecarei mais;"
+            },
+            {
+                "id": "v34.32",
+                "versicle_number": 32,
+                "text": "O que não vejo, ensina-mo tu; se fiz alguma maldade, nunca mais a hei de fazer"
+            },
+            {
+                "id": "v34.33",
+                "versicle_number": 33,
+                "text": "Virá de ti como há de ser a recompensa, para que tu a desprezes? Faze tu pois, e não eu, a escolha; que é logo o que sabes? Fala."
+            },
+            {
+                "id": "v34.34",
+                "versicle_number": 34,
+                "text": "Os homens de entendimento dirão comigo, e o varão sábio que me ouvir:"
+            },
+            {
+                "id": "v34.35",
+                "versicle_number": 35,
+                "text": "Jó falou sem ciência; e às suas palavras falta prudência."
+            },
+            {
+                "id": "v34.36",
+                "versicle_number": 36,
+                "text": "Pai meu! provado seja Jó até ao fim, pelas suas respostas próprias de homens malignos."
+            },
+            {
+                "id": "v34.37",
+                "versicle_number": 37,
+                "text": "Porque ao seu pecado acrescenta a transgressão; entre nós bate as palmas, e multiplica contra Deus as suas razões."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 34.11 Sl 62.12"
+            }
+        ]
+    }
+}

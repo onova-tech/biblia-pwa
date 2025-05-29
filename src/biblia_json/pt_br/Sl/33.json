@@ -1,0 +1,134 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 33,
+        "chapter_reference": "",
+        "chapter_title": "O júbilo do crente na contemplação das obras de Deus",
+        "versicles": [
+            {
+                "id": "v33.1",
+                "versicle_number": 1,
+                "text": "REGOZIJAI-VOS no Senhor, vós, justos, pois aos retos convém o louvor."
+            },
+            {
+                "id": "v33.2",
+                "versicle_number": 2,
+                "text": "Louvai ao Senhor com harpa, cantai a ele com saltério de dez cordas."
+            },
+            {
+                "id": "v33.3",
+                "versicle_number": 3,
+                "text": "Cantai-lhe um cântico novo: tocai bem e com júbilo."
+            },
+            {
+                "id": "v33.4",
+                "versicle_number": 4,
+                "text": "Porque a palavra do Senhor é reta, e todas as suas obras são fiéis."
+            },
+            {
+                "id": "v33.5",
+                "versicle_number": 5,
+                "text": "Ele ama a justiça e o juízo; a terra está cheia da bondade do Senhor."
+            },
+            {
+                "id": "v33.6",
+                "versicle_number": 6,
+                "text": "Pela palavra do Senhor foram feitos os céus, e todo o exército deles pelo espírito da sua boca."
+            },
+            {
+                "id": "v33.7",
+                "versicle_number": 7,
+                "text": "Ele ajunta as águas do mar como num montão; põe os abismos em {note:s}tesouros."
+            },
+            {
+                "id": "v33.8",
+                "versicle_number": 8,
+                "text": "Tema toda a terra ao Senhor; temam-no todos os moradores do mundo."
+            },
+            {
+                "id": "v33.9",
+                "versicle_number": 9,
+                "text": "Porque falou, e tudo se fez; mandou, e logo tudo apareceu."
+            },
+            {
+                "id": "v33.10",
+                "versicle_number": 10,
+                "text": "O Senhor desfaz o conselho das nações, quebranta os intentos dos povos."
+            },
+            {
+                "id": "v33.11",
+                "versicle_number": 11,
+                "text": "O conselho do Senhor permanece para sempre: os intentos de seu coração de geração em geração."
+            },
+            {
+                "id": "v33.12",
+                "versicle_number": 12,
+                "text": "Bem-aventurada é a nação cujo Deus é o Senhor, e o povo que ele escolheu para a sua herança."
+            },
+            {
+                "id": "v33.13",
+                "versicle_number": 13,
+                "text": "O Senhor olha desde os céus e está vendo a todos os filhos dos homens;"
+            },
+            {
+                "id": "v33.14",
+                "versicle_number": 14,
+                "text": "Da sua morada contempla todos os moradores da terra."
+            },
+            {
+                "id": "v33.15",
+                "versicle_number": 15,
+                "text": "Ele é que forma o coração de todos eles, que contempla todas as suas obras."
+            },
+            {
+                "id": "v33.16",
+                "versicle_number": 16,
+                "text": "Não há rei que se salve com a grandeza dum exército, nem o homem valente que se livra pela muita força."
+            },
+            {
+                "id": "v33.17",
+                "versicle_number": 17,
+                "text": "O cavalo é vão para a segurança: não livra ninguém com a sua grande força."
+            },
+            {
+                "id": "v33.18",
+                "versicle_number": 18,
+                "text": "Eis que os olhos do Senhor estão sobre os que o temem, sobre os que esperam na sua misericórdia."
+            },
+            {
+                "id": "v33.19",
+                "versicle_number": 19,
+                "text": "Para livrar as suas almas da morte, e para os conservar vivos na fome."
+            },
+            {
+                "id": "v33.20",
+                "versicle_number": 20,
+                "text": "A nossa alma espera no Senhor: ele é o nosso auxílio e o nosso escudo."
+            },
+            {
+                "id": "v33.21",
+                "versicle_number": 21,
+                "text": "Pois nele se alegra o nosso coração, porquanto temos confiado no seu santo nome."
+            },
+            {
+                "id": "v33.22",
+                "versicle_number": 22,
+                "text": "Seja a tua misericórdia, Senhor, sobre nós, como em ti esperamos."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:s} 33.7 ou armazéns"
+            }
+        ]
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "book": {
+        "id": "Os",
+        "book_number": 28,
+        "new_testament": false,
+        "num_chapters": 14,
+        "book_name": "OSEIAS",
+        "book_full_name": "OSEIAS"
+    },
+    "chapter": {
+        "chapter_number": 8,
+        "chapter_reference": "",
+        "chapter_title": "O castigo está próximo",
+        "versicles": [
+            {
+                "id": "v8.1",
+                "versicle_number": 1,
+                "text": "PÕE a trombeta à tua boca. Ele vem como águia contra a casa do Senhor, porque traspassaram o meu concerto, e se rebelaram contra a minha lei."
+            },
+            {
+                "id": "v8.2",
+                "versicle_number": 2,
+                "text": "E a mim clamarão: Deus meu! nós, Israel, te conhecemos."
+            },
+            {
+                "id": "v8.3",
+                "versicle_number": 3,
+                "text": "Israel rejeitou o bem: o inimigo persegui-lo-á."
+            },
+            {
+                "id": "v8.4",
+                "versicle_number": 4,
+                "text": "Eles fizeram reis, mas não por mim: constituíram príncipes, mas eu não o soube: da sua prata e do seu ouro fizeram ídolos para si, para serem destruídos."
+            },
+            {
+                "id": "v8.5",
+                "versicle_number": 5,
+                "text": "O teu bezerro, ó Samaria, foi rejeitado: a minha ira se acendeu contra eles; até quando serão eles incapazes de alcançar a inocência?"
+            },
+            {
+                "id": "v8.6",
+                "versicle_number": 6,
+                "text": "Porque isso é mesmo de Israel; um artífice o fez, e não é Deus; mas em pedaços será desfeito o bezerro de Samaria."
+            },
+            {
+                "id": "v8.7",
+                "versicle_number": 7,
+                "text": "Porque semearam ventos, e segarão tormentas: não há seara; a erva não dará farinha: se a der, tragá-la-ão os estrangeiros."
+            },
+            {
+                "id": "v8.8",
+                "versicle_number": 8,
+                "text": "Israel foi devorado: agora está entre as nações como um vaso em que ninguém tem prazer."
+            },
+            {
+                "id": "v8.9",
+                "versicle_number": 9,
+                "text": "Porque subiram à Assíria, como um jumento montês, por si só: mercou Efraim amores."
+            },
+            {
+                "id": "v8.10",
+                "versicle_number": 10,
+                "text": "Todavia, ainda que eles merquem entre as nações, eu as congregarei: já começaram a ser diminuídos por causa da carga do rei dos príncipes."
+            },
+            {
+                "id": "v8.11",
+                "versicle_number": 11,
+                "text": "Porquanto Efraim multiplicou os altares para pecar; teve altares para pecar."
+            },
+            {
+                "id": "v8.12",
+                "versicle_number": 12,
+                "text": "Escrevi para eles as grandezas da minha lei; mas isso é para ele como cousa estranha."
+            },
+            {
+                "id": "v8.13",
+                "versicle_number": 13,
+                "text": "Quanto aos sacrifícios dos meus dons, sacrificam carne, e a comem, mas o Senhor não a aceitou: agora se lembrará da sua injustiça, e visitará os seus pecados: eles voltarão para o Egito."
+            },
+            {
+                "id": "v8.14",
+                "versicle_number": 14,
+                "text": "Porque Israel se esqueceu do seu Criador, e edificou palácios, e Judá multiplicou cidades fortes; mas eu enviarei um fogo contra as suas cidades, e ele consumirá os seus palácios."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

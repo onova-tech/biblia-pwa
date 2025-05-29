@@ -1,0 +1,247 @@
+{
+    "book": {
+        "id": "2Rs",
+        "book_number": 12,
+        "new_testament": false,
+        "num_chapters": 25,
+        "book_name": "REIS",
+        "book_full_name": "O SEGUNDO LIVRO DOS REIS"
+    },
+    "chapter": {
+        "chapter_number": 17,
+        "chapter_reference": "",
+        "chapter_title": "Oseias, rei de Israel",
+        "versicles": [
+            {
+                "id": "v17.1",
+                "versicle_number": 1,
+                "text": "NO ano duodécimo de Acaz, rei de Judá, começou a reinar Oseias, filho de Ela, e reinou sobre Israel, em Samaria, nove anos."
+            },
+            {
+                "id": "v17.2",
+                "versicle_number": 2,
+                "text": "E fez o que parecia mal aos olhos do Senhor, contudo não como os reis de Israel que foram antes dele."
+            },
+            {
+                "id": "v17.3",
+                "versicle_number": 3,
+                "text": "Contra ele subiu Salmanasar rei da Assíria: e Oseias ficou sendo servo dele, e dava-lhe presentes."
+            },
+            {
+                "id": "v17.4",
+                "versicle_number": 4,
+                "text": "Porém o rei da Assíria achou em Oseias conspiração; porque enviara mensageiros a Sô, rei do Egito, e não pagava presentes ao rei da Assíria cada ano, como dantes; então o rei da Assíria o encerrou e aprisionou na casa do cárcere."
+            },
+            {
+                "id": "v17.5",
+                "versicle_number": 5,
+                "text": "Porque o rei da Assíria subiu por toda a terra, e veio até Samaria, e a cercou três anos."
+            },
+            {
+                "id": "v17.6",
+                "versicle_number": 6,
+                "text": "No ano nono de Oseias, o rei da Assíria tomou a Samaria, e transportou a Israel para a Assíria; e fê-los habitar em Hala, e em Habor, junto ao rio de Gozã, e nas cidades dos medos."
+            },
+            {
+                "id": "v17.7",
+                "versicle_number": 7,
+                "text": "E sucedeu assim por os filhos de Israel pecarem contra o Senhor seu Deus, que os fizera subir da terra do Egito, de debaixo da mão de Faraó, rei do Egito; e temeram a outros deuses."
+            },
+            {
+                "id": "v17.8",
+                "versicle_number": 8,
+                "text": "E andaram nos estatutos das nações que o Senhor lançara fora de diante dos filhos de Israel, e nos dos reis de Israel que eles fizeram."
+            },
+            {
+                "id": "v17.9",
+                "versicle_number": 9,
+                "text": "E os filhos de Israel fizeram secretamente cousas que não eram retas, contra o Senhor seu Deus; e edificaram altos em todas as suas cidades, desde a torre dos atalaias até à cidade forte."
+            },
+            {
+                "id": "v17.10",
+                "versicle_number": 10,
+                "text": "E levantaram estátuas{note:1} e imagens do bosque, em todos os altos outeiros, e debaixo de todas as árvores verdes."
+            },
+            {
+                "id": "v17.11",
+                "versicle_number": 11,
+                "text": "E queimaram ali incenso em todos os altos, como as nações, que o Senhor transportara de diante deles: e fizeram cousas ruins, para provocarem à ira o Senhor."
+            },
+            {
+                "id": "v17.12",
+                "versicle_number": 12,
+                "text": "E serviram os ídolos, dos quais o Senhor lhes dissera: Não fareis estas cousas."
+            },
+            {
+                "id": "v17.13",
+                "versicle_number": 13,
+                "text": "E o Senhor protestou a Israel e a Judá, pelo ministério de todos os profetas e de todos os videntes, dizendo: Convertei-vos de vossos maus caminhos, e guardai os meus mandamentos e os meus estatutos, conforme toda a lei que ordenei a vossos pais e que eu vos enviei pelo ministério de meus servos, os profetas."
+            },
+            {
+                "id": "v17.14",
+                "versicle_number": 14,
+                "text": "Porém não deram ouvidos; antes endureceram a sua cerviz, como a cerviz de seus pais, que não creram no Senhor seu Deus."
+            },
+            {
+                "id": "v17.15",
+                "versicle_number": 15,
+                "text": "E rejeitaram os seus estatutos, e o seu concerto, que fizera com seus pais, como também os seus testemunhos, com que protestara contra eles: e andaram após a vaidade, e ficaram vãos; como também após as nações, que estavam em roda deles, das quais o Senhor lhes tinha dito que não fizessem como elas."
+            },
+            {
+                "id": "v17.16",
+                "versicle_number": 16,
+                "text": "E deixaram todos os mandamentos do Senhor seu Deus, e fizeram imagens{note:2} de fundição, dois bezerros: e fizeram um ídolo do bosque, e se prostraram perante todo o exército do céu, e serviram a Baal."
+            },
+            {
+                "id": "v17.17",
+                "versicle_number": 17,
+                "text": "Também fizeram passar pelo fogo a seus filhos e suas filhas, e deram-se a adivinhações, e criam em agouros; e venderam-se para fazer o que parecia mal aos olhos do Senhor para o provocarem à ira."
+            },
+            {
+                "id": "v17.18",
+                "versicle_number": 18,
+                "text": "Pelo que o Senhor muito se indignou sobre Israel, e os tirou de diante da sua face: nada mais ficou, senão só a tribo de Judá."
+            },
+            {
+                "id": "v17.19",
+                "versicle_number": 19,
+                "text": "Até Judá não guardou os mandamentos do Senhor seu Deus; antes andaram nos estatutos de Israel, que eles fizeram."
+            },
+            {
+                "id": "v17.20",
+                "versicle_number": 20,
+                "text": "Pelo que o Senhor rejeitou a toda a semente de Israel, e os oprimiu e os deu nas mãos dos despojadores, até que os tirou de diante da sua presença."
+            },
+            {
+                "id": "v17.21",
+                "versicle_number": 21,
+                "text": "Porque rasgou a Israel da casa de Davi, e fizeram rei a Jeroboão, filho de Nebate: e Jeroboão apartou a Israel de seguir o Senhor, e os fez pecar um grande pecado."
+            },
+            {
+                "id": "v17.22",
+                "versicle_number": 22,
+                "text": "Assim andaram os filhos de Israel em todos os pecados que Jeroboão tinha feito: nunca se apartaram deles."
+            },
+            {
+                "id": "v17.23",
+                "versicle_number": 23,
+                "text": "Até que o Senhor tirou a Israel de diante da sua presença, como falara pelo ministério de todos os seus servos, os profetas: assim foi Israel transportado da sua terra à Assíria até ao dia de hoje."
+            },
+            {
+                "id": "v17.24",
+                "versicle_number": 24,
+                "text": "E o rei da Assíria trouxe gente de Babel, e de Cuta, e de Ava, e de Hamate, e Sefarvaim, e a fez habitar nas cidades de Samaria, em lugar dos filhos de Israel: e tomaram a Samaria em herança, e habitaram nas suas cidades."
+            },
+            {
+                "id": "v17.25",
+                "versicle_number": 25,
+                "text": "E sucedeu que, no princípio da sua habitação ali, não temeram ao Senhor: e mandou entre eles o Senhor leões, que mataram a alguns deles."
+            },
+            {
+                "id": "v17.26",
+                "versicle_number": 26,
+                "text": "Pelo que falaram ao rei da Assíria, dizendo: A gente que transportaste, e fizeste habitar nas cidades de Samaria, não sabe o costume do Deus da terra: pelo que mandou leões entre ela, e eis que a matam, porquanto não sabe o culto do Deus da terra."
+            },
+            {
+                "id": "v17.27",
+                "versicle_number": 27,
+                "text": "Então o rei da Assíria mandou dizer: Levai ali um dos sacerdotes que transportastes de lá; e vão-se, e habitem lá: e ele lhes ensine o costume do Deus da terra."
+            },
+            {
+                "id": "v17.28",
+                "versicle_number": 28,
+                "text": "Veio pois um dos sacerdotes que transportaram de Samaria, e habitou em Betel, e lhes ensinou como deviam temer ao Senhor."
+            },
+            {
+                "id": "v17.29",
+                "versicle_number": 29,
+                "text": "Porém cada nação fez os seus deuses, e os puseram nas casas dos altos que os samaritanos fizeram, cada nação nas suas cidades, nas quais habitavam."
+            },
+            {
+                "id": "v17.30",
+                "versicle_number": 30,
+                "text": "E os de Babel fizeram Sucote-Benote: e os de Cuta fizeram Nergal; e os de Hamate fizeram Asima."
+            },
+            {
+                "id": "v17.31",
+                "versicle_number": 31,
+                "text": "E os aveus fizeram Niba e Tartaque: e os sefarvitas queimavam seus filhos no fogo a Adrã-Meleque, e a Anã-Meleque, deuses de Sefarvaim."
+            },
+            {
+                "id": "v17.32",
+                "versicle_number": 32,
+                "text": "Assim temiam ao Senhor: e dos mais baixos se fizeram sacerdotes dos lugares altos, os quais exerciam o ministério nas casas dos lugares altos."
+            },
+            {
+                "id": "v17.33",
+                "versicle_number": 33,
+                "text": "Assim que ao Senhor temiam, e também a seus deuses serviam, segundo o costume das nações dentre as quais tinham sido transportados."
+            },
+            {
+                "id": "v17.34",
+                "versicle_number": 34,
+                "text": "Até ao dia de hoje fazem segundo os primeiros costumes; não temem ao Senhor, nem fazem segundo os seus estatutos, e segundo as suas ordenanças e segundo a lei, e segundo o mandamento que o Senhor ordenou aos filhos de Jacó, a quem deu o nome de Israel.{note:3}"
+            },
+            {
+                "id": "v17.35",
+                "versicle_number": 35,
+                "text": "Contudo o Senhor tinha feito um concerto com eles, e lhes ordenara, dizendo: Não temereis a outros deuses,{note:4} nem vos inclinareis diante deles, nem os servireis nem lhes sacrificareis."
+            },
+            {
+                "id": "v17.36",
+                "versicle_number": 36,
+                "text": "Mas ao Senhor, que vos fez subir da terra do Egito com grande força e com braço estendido, a este temereis, e a ele vos inclinareis, e a ele sacrificareis."
+            },
+            {
+                "id": "v17.37",
+                "versicle_number": 37,
+                "text": "E os estatutos, e as ordenanças, e a lei, e o mandamento, que vos escreveu tereis cuidado de observar todos os dias: e não temereis a outros deuses."
+            },
+            {
+                "id": "v17.38",
+                "versicle_number": 38,
+                "text": "E do concerto que fiz convosco vos não esquecereis: e não temereis a outros deuses."
+            },
+            {
+                "id": "v17.39",
+                "versicle_number": 39,
+                "text": "Mas ao Senhor vosso Deus temereis, e ele vos livrará das mãos de todos os vossos inimigos."
+            },
+            {
+                "id": "v17.40",
+                "versicle_number": 40,
+                "text": "Porém eles não ouviram; antes fizeram segundo o seu primeiro costume."
+            },
+            {
+                "id": "v17.41",
+                "versicle_number": 41,
+                "text": "Assim estas nações temiam ao Senhor e serviam as suas imagens de escultura: também seus filhos, e os filhos de seus filhos, como fizeram seus pais assim fazem eles até ao dia de hoje."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v17.24",
+                "text": "O rei da Assíria leva para Samaria muitos estrangeiros"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 17.10 1Rs 14.23"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 17.16 1Rs 12.28"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 17.34 Gn 32.28; 35.10"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 17.35 Êx 20.5; Dt 5.9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "book": {
+        "id": "Jr",
+        "book_number": 24,
+        "new_testament": false,
+        "num_chapters": 52,
+        "book_name": "JEREMIAS",
+        "book_full_name": "JEREMIAS"
+    },
+    "chapter": {
+        "chapter_number": 14,
+        "chapter_reference": "",
+        "chapter_title": "Jeremias em vão intercede pelo povo",
+        "versicles": [
+            {
+                "id": "v14.1",
+                "versicle_number": 1,
+                "text": "A PALAVRA do Senhor, que veio a Jeremias, a respeito da grande seca."
+            },
+            {
+                "id": "v14.2",
+                "versicle_number": 2,
+                "text": "Anda chorando Judá, e as suas portas estão enfraquecidas: andam de luto até ao chão, e o clamor de Jerusalém vai subindo."
+            },
+            {
+                "id": "v14.3",
+                "versicle_number": 3,
+                "text": "E os seus mais ilustres mandam os seus pequenos buscar água: vêm às cavas, e não acham água; voltam com os seus cântaros vazios: envergonham-se e confundem-se, e cobrem as suas cabeças."
+            },
+            {
+                "id": "v14.4",
+                "versicle_number": 4,
+                "text": "Por causa da terra que se fendeu, pois que não há chuva sobre a terra, os lavradores se envergonham e cobrem as suas cabeças."
+            },
+            {
+                "id": "v14.5",
+                "versicle_number": 5,
+                "text": "Porque até as cervas no campo parem, e abandonam seus filhos, porquanto não há erva."
+            },
+            {
+                "id": "v14.6",
+                "versicle_number": 6,
+                "text": "E os jumentos monteses se põem nos lugares altos, sorvem o vento como os {note:o}dragões; desfalecem os seus olhos, porquanto não há erva."
+            },
+            {
+                "id": "v14.7",
+                "versicle_number": 7,
+                "text": "Posto que as nossas maldades testifiquem contra nós, ó Senhor, opera tu por amor do teu nome; porque as nossas rebeldias se multiplicaram; contra ti pecamos."
+            },
+            {
+                "id": "v14.8",
+                "versicle_number": 8,
+                "text": "Oh! esperança de Israel, Redentor seu no tempo da angústia! porque serias como um estrangeiro na terra? e como o viandante que se retira a passar a noite?"
+            },
+            {
+                "id": "v14.9",
+                "versicle_number": 9,
+                "text": "Porque serias como homem cansado, como valoroso que não pode livrar? Mas tu estás no meio de nós, ó Senhor, e nós somos chamados pelo teu nome: não nos desampares."
+            },
+            {
+                "id": "v14.10",
+                "versicle_number": 10,
+                "text": "Assim diz o Senhor, acerca deste povo: Pois que tanto amaram o afastar-se, e não detiveram os seus pés, por isso o Senhor se não agrada deles, mas agora se lembrará da maldade deles, e visitará os seus pecados."
+            },
+            {
+                "id": "v14.11",
+                "versicle_number": 11,
+                "text": "Disse-me mais o Senhor: Não rogues por este povo para bem."
+            },
+            {
+                "id": "v14.12",
+                "versicle_number": 12,
+                "text": "Quando jejuarem, não ouvirei o seu clamor, e quando oferecerem holocaustos e ofertas de manjares, não me agradarei deles; antes eu os consumirei pela espada, e pela fome e pela peste."
+            },
+            {
+                "id": "v14.13",
+                "versicle_number": 13,
+                "text": "Então disse eu: Ah! Senhor, Senhor, eis que os profetas lhes dizem: Não vereis espada, e não tereis fome; antes vos darei paz verdadeira neste lugar."
+            },
+            {
+                "id": "v14.14",
+                "versicle_number": 14,
+                "text": "E disse-me o Senhor: Os profetas profetizam falsamente em meu nome; nunca os enviei, nem lhes dei ordem, nem lhes falei: visão falsa, e adivinhação, e vaidade, e o engano do seu coração é o que eles vos profetizam."
+            },
+            {
+                "id": "v14.15",
+                "versicle_number": 15,
+                "text": "Portanto assim diz o Senhor acerca dos profetas que profetizam em meu nome, sem que eu os tenha mandado, e dizem: Nem espada, nem fome haverá nesta terra: À espada e à fome serão consumidos esses profetas."
+            },
+            {
+                "id": "v14.16",
+                "versicle_number": 16,
+                "text": "E o povo a quem eles profetizam será lançado nas ruas de Jerusalém, por causa da fome e da espada; e não haverá quem enterre as suas mulheres, e os seus filhos e as suas filhas: assim derramarei sobre eles a sua maldade."
+            },
+            {
+                "id": "v14.17",
+                "versicle_number": 17,
+                "text": "Portanto lhes dirás esta palavra: Os meus olhos derramem lágrimas de noite e de dia, e não cessem porque a virgem, filha do meu povo, está ferida de grande ferida, de chaga mui dolorosa."
+            },
+            {
+                "id": "v14.18",
+                "versicle_number": 18,
+                "text": "Se eu saio ao campo, eis aqui os mortos à espada, e, se entro na cidade, estão ali os debilitados pela fome: e até os profetas e os sacerdotes correram em redor da terra, {note:p}e não sabem nada."
+            },
+            {
+                "id": "v14.19",
+                "versicle_number": 19,
+                "text": "De todo rejeitaste tu a Judá? ou aborrece a tua alma a Sião? porque nos feriste, e não há cura para nós? aguardamos a paz, e não aparece o bem; e o tempo da cura, e eis aqui turbação."
+            },
+            {
+                "id": "v14.20",
+                "versicle_number": 20,
+                "text": "Ah! Senhor! conhecemos a nossa impiedade e a maldade de nossos pais; porque pecamos contra ti."
+            },
+            {
+                "id": "v14.21",
+                "versicle_number": 21,
+                "text": "Não nos rejeites por amor do teu nome; não abatas o trono da tua glória; lembra-te, e não anules o teu concerto conosco."
+            },
+            {
+                "id": "v14.22",
+                "versicle_number": 22,
+                "text": "Haverá, porventura, entre as vaidades dos gentios, alguma que faça chover? ou podem os céus dar chuvas? não és tu somente, ó Senhor nosso Deus? portanto em ti esperaremos, pois tu fazes todas estas cousas."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:o} 14.6 ou chacais"
+            },
+            {
+                "id": "n2",
+                "text": "{note:p} 14.18 ou que não conheciam"
+            }
+        ]
+    }
+}

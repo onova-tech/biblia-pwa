@@ -1,0 +1,120 @@
+{
+    "book": {
+        "id": "1Ts",
+        "book_number": 52,
+        "new_testament": true,
+        "num_chapters": 5,
+        "book_name": "TESSALONICENSES",
+        "book_full_name": "PRIMEIRA EPÍSTOLA DO APÓSTOLO PAULO AOS TESSALONICENSES"
+    },
+    "chapter": {
+        "chapter_number": 4,
+        "chapter_reference": "",
+        "chapter_title": "Exortação à santidade, ao amor fraternal e ao trabalho",
+        "versicles": [
+            {
+                "id": "v4.1",
+                "versicle_number": 1,
+                "text": "FINALMENTE, irmãos, vos rogamos e exortamos no Senhor Jesus, que assim como recebestes de nós, de que maneira convém andar e agradar a Deus, assim andai, para que abundeis cada vez mais."
+            },
+            {
+                "id": "v4.2",
+                "versicle_number": 2,
+                "text": "Porque vós bem sabeis que mandamentos vos temos dado pelo Senhor Jesus."
+            },
+            {
+                "id": "v4.3",
+                "versicle_number": 3,
+                "text": "Porque esta é a vontade de Deus, a vossa santificação: que vos abstenhais da prostituição;"
+            },
+            {
+                "id": "v4.4",
+                "versicle_number": 4,
+                "text": "Que cada um de vós saiba possuir o seu vaso em santificação e honra;"
+            },
+            {
+                "id": "v4.5",
+                "versicle_number": 5,
+                "text": "Não na paixão de concupiscência, como os gentios, que não conhecem a Deus."
+            },
+            {
+                "id": "v4.6",
+                "versicle_number": 6,
+                "text": "Ninguém oprima ou engane a seu irmão em negócio algum, porque o Senhor é vingador de todas estas coisas, como também antes vo-lo dissemos e testificamos."
+            },
+            {
+                "id": "v4.7",
+                "versicle_number": 7,
+                "text": "Porque não nos chamou Deus para a imundícia, mas para a santificação."
+            },
+            {
+                "id": "v4.8",
+                "versicle_number": 8,
+                "text": "Portanto, quem despreza isto não despreza ao homem, mas sim a Deus, que nos deu também o seu Espírito Santo."
+            },
+            {
+                "id": "v4.9",
+                "versicle_number": 9,
+                "text": "Quanto, porém, à caridade fraternal, não necessitais de que vos escreva, visto que vós mesmos estais instruídos por Deus que vos ameis uns aos outros."
+            },
+            {
+                "id": "v4.10",
+                "versicle_number": 10,
+                "text": "Porque também já assim o fazeis para com todos os irmãos que estão por toda a Macedônia. Exortamo-vos, porém, a que ainda nisto abundeis cada vez mais."
+            },
+            {
+                "id": "v4.11",
+                "versicle_number": 11,
+                "text": "E procureis viver quietos, e tratar dos vossos próprios negócios, e trabalhar com vossas próprias mãos, como já vo-lo temos mandado;"
+            },
+            {
+                "id": "v4.12",
+                "versicle_number": 12,
+                "text": "Para que andeis honestamente para com os que estão de fora, e não necessiteis de coisa alguma."
+            },
+            {
+                "id": "v4.13",
+                "versicle_number": 13,
+                "text": "Não quero, porém, irmãos, que sejais ignorantes acerca dos que já dormem, para que não vos entristeçais, como os demais, que não têm esperança."
+            },
+            {
+                "id": "v4.14",
+                "versicle_number": 14,
+                "text": "Porque, se cremos que Jesus morreu e ressuscitou, assim também aos que em Jesus dormem Deus os tornará a trazer com ele."
+            },
+            {
+                "id": "v4.15",
+                "versicle_number": 15,
+                "text": "Dizemo-vos, pois, isto, pela palavra do Senhor: que nós, os que ficarmos vivos para a vinda do Senhor, não precederemos os que dormem."
+            },
+            {
+                "id": "v4.16",
+                "versicle_number": 16,
+                "text": "Porque o mesmo Senhor descerá do céu com alarido e com voz de arcanjo, e com a trombeta de Deus; e os que morreram em Cristo ressuscitarão primeiro."
+            },
+            {
+                "id": "v4.17",
+                "versicle_number": 17,
+                "text": "Depois nós, os que ficarmos vivos, seremos arrebatados juntamente com eles nas nuvens, a encontrar o Senhor nos ares, e assim estaremos sempre com o Senhor."
+            },
+            {
+                "id": "v4.18",
+                "versicle_number": 18,
+                "text": "Portanto, consolai-vos uns aos outros com estas palavras.{note:1}"
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v4.13",
+                "text": "Acerca da ressurreição e vinda de Cristo"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 4.13-18 1Co 15.51-58"
+            }
+        ]
+    }
+}

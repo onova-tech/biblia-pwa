@@ -1,0 +1,153 @@
+{
+    "book": {
+        "id": "Nm",
+        "book_number": 4,
+        "new_testament": false,
+        "num_chapters": 36,
+        "book_name": "NÚMEROS",
+        "book_full_name": "O QUARTO LIVRO DE MOISÉS NÚMEROS"
+    },
+    "chapter": {
+        "chapter_number": 24,
+        "chapter_reference": "",
+        "chapter_title": "",
+        "versicles": [
+            {
+                "id": "v24.1",
+                "versicle_number": 1,
+                "text": "VENDO Balaão que bem parecia aos olhos do Senhor que abençoasse a Israel, não foi esta vez como dantes ao encontro dos encantamentos: mas pôs o seu rosto para o deserto."
+            },
+            {
+                "id": "v24.2",
+                "versicle_number": 2,
+                "text": "E, levantando Balaão os seus olhos, e vendo a Israel que habitava segundo as suas tribos, veio sobre ele o Espírito de Deus."
+            },
+            {
+                "id": "v24.3",
+                "versicle_number": 3,
+                "text": "E alçou a sua parábola, e disse: Fala Balaão, filho de Beor, e fala o homem de olhos abertos;"
+            },
+            {
+                "id": "v24.4",
+                "versicle_number": 4,
+                "text": "Fala aquele que ouviu os ditos de Deus, o que vê a visão do Todo-poderoso, caindo em êxtase e de olhos abertos:"
+            },
+            {
+                "id": "v24.5",
+                "versicle_number": 5,
+                "text": "Que boas são as tuas tendas, ó Jacó! as tuas moradas, ó Israel!"
+            },
+            {
+                "id": "v24.6",
+                "versicle_number": 6,
+                "text": "Como ribeiros se estendem, como jardins ao pé dos rios: como árvores de sândalo o Senhor os plantou, como cedros junto às águas."
+            },
+            {
+                "id": "v24.7",
+                "versicle_number": 7,
+                "text": "De seus baldes manarão águas, e a sua semente estará em muitas águas: e o seu rei se exalçará mais do que Agague, e o seu reino será levantado."
+            },
+            {
+                "id": "v24.8",
+                "versicle_number": 8,
+                "text": "Deus o tirou do Egito; as suas forças são como as do unicórnio: consumirá as gentes, seus inimigos, e quebrará seus ossos, e com as suas setas os atravessará."
+            },
+            {
+                "id": "v24.9",
+                "versicle_number": 9,
+                "text": "Encurvou-se,{note:1} deitou-se como leão, e como leoa: quem o despertará? benditos{note:2} os que te abençoarem, e malditos os que te amaldiçoarem."
+            },
+            {
+                "id": "v24.10",
+                "versicle_number": 10,
+                "text": "Então a ira de Balaque se acendeu contra Balaão, e bateu ele as suas palmas: e Balaque disse a Balaão. Para amaldiçoar os meus inimigos te tenho chamado; porém agora já três vezes os abençoaste inteiramente."
+            },
+            {
+                "id": "v24.11",
+                "versicle_number": 11,
+                "text": "Agora pois foge para o teu lugar: eu tinha dito que te honraria grandemente; mas eis que o Senhor te privou desta honra."
+            },
+            {
+                "id": "v24.12",
+                "versicle_number": 12,
+                "text": "Então Balaão disse a Balaque: Não falei eu também aos teus mensageiros, que me enviaste, dizendo:"
+            },
+            {
+                "id": "v24.13",
+                "versicle_number": 13,
+                "text": "Ainda que Balaque me desse a sua casa cheia de prata e ouro, não posso traspassar o mandado do Senhor, fazendo bem ou mal de meu próprio coração: o que o Senhor falar, isso falarei eu."
+            },
+            {
+                "id": "v24.14",
+                "versicle_number": 14,
+                "text": "Agora pois eis que me vou ao meu povo: vem, avisar-te-ei do que este povo fará ao teu povo nos últimos dias."
+            },
+            {
+                "id": "v24.15",
+                "versicle_number": 15,
+                "text": "Então alçou a sua parábola, e disse: Fala Balaão, filho de Beor, e fala o homem de olhos abertos;"
+            },
+            {
+                "id": "v24.16",
+                "versicle_number": 16,
+                "text": "Fala aquele que ouviu os ditos de Deus, e o que sabe a ciência do Altíssimo: o que viu a visão do Todo-poderoso, caído em êxtase, e de olhos abertos."
+            },
+            {
+                "id": "v24.17",
+                "versicle_number": 17,
+                "text": "Vê-lo-ei, mas não agora; contemplá-lo-ei, mas não de perto: uma estrela procederá de Jacó, e um cetro subirá de Israel, que ferirá os termos dos moabitas, e destruirá todos os filhos de {note:k}Sete."
+            },
+            {
+                "id": "v24.18",
+                "versicle_number": 18,
+                "text": "E Edom será uma possessão, e Seir também será uma possessão hereditária para os seus inimigos: pois Israel fará proezas."
+            },
+            {
+                "id": "v24.19",
+                "versicle_number": 19,
+                "text": "E dominará um de Jacó, e matará os que restam das cidades."
+            },
+            {
+                "id": "v24.20",
+                "versicle_number": 20,
+                "text": "E vendo os amalequitas, alçou a sua parábola, e disse: Amaleque é o primeiro das gentes: porém o seu fim será para perdição."
+            },
+            {
+                "id": "v24.21",
+                "versicle_number": 21,
+                "text": "E vendo os quenitas, alçou a sua parábola, e disse: Firme está a tua habitação, e puseste o teu ninho na penha."
+            },
+            {
+                "id": "v24.22",
+                "versicle_number": 22,
+                "text": "Todavia o quenita será consumido, até que Assur te leve por prisioneiro."
+            },
+            {
+                "id": "v24.23",
+                "versicle_number": 23,
+                "text": "E, alçando ainda a sua parábola, disse: Ai, quem viverá, quando Deus fizer isto?"
+            },
+            {
+                "id": "v24.24",
+                "versicle_number": 24,
+                "text": "E as naus das costas de Quitim afligirão a Assur; também afligirão a Héber; e também ele será para perdição."
+            },
+            {
+                "id": "v24.25",
+                "versicle_number": 25,
+                "text": "Então Balaão levantou-se, e foi-se, e voltou ao seu lugar, e também Balaque se foi pelo seu caminho."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 24.9 Gn 49.9 {note:2} 24.9 Gn 12.3"
+            },
+            {
+                "id": "n2",
+                "text": "{note:k} 24.17 ou do tumulto"
+            }
+        ]
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "book": {
+        "id": "Nm",
+        "book_number": 4,
+        "new_testament": false,
+        "num_chapters": 36,
+        "book_name": "NÚMEROS",
+        "book_full_name": "O QUARTO LIVRO DE MOISÉS NÚMEROS"
+    },
+    "chapter": {
+        "chapter_number": 6,
+        "chapter_reference": "",
+        "chapter_title": "A lei do nazireado",
+        "versicles": [
+            {
+                "id": "v6.1",
+                "versicle_number": 1,
+                "text": "E FALOU o Senhor a Moisés, dizendo:"
+            },
+            {
+                "id": "v6.2",
+                "versicle_number": 2,
+                "text": "Fala aos filhos de Israel, e dize-lhes: Quando um homem ou mulher se tiver separado, fazendo voto de nazireu, para se separar para o Senhor,"
+            },
+            {
+                "id": "v6.3",
+                "versicle_number": 3,
+                "text": "de vinho e de bebida forte se apartará: vinagre de vinho, ou vinagre de bebida forte não beberá; nem beberá alguma beberagem de uvas; nem uvas frescas nem secas comerá."
+            },
+            {
+                "id": "v6.4",
+                "versicle_number": 4,
+                "text": "Todos os dias do seu nazireado não comerá de cousa alguma, que se faz da vinha, desde os caroços até às cascas."
+            },
+            {
+                "id": "v6.5",
+                "versicle_number": 5,
+                "text": "Todos os dias do voto do seu nazireado sobre a sua cabeça não passará navalha: até que se cumpram os dias, que se separou para o Senhor, santo será, deixando crescer as guedelhas do cabelo da sua cabeça."
+            },
+            {
+                "id": "v6.6",
+                "versicle_number": 6,
+                "text": "Todos os dias que se separar para o Senhor não se chegará a corpo dum morto."
+            },
+            {
+                "id": "v6.7",
+                "versicle_number": 7,
+                "text": "Por seu pai, ou por sua mãe, por seu irmão, ou por sua irmã, por eles se não contaminará, quando forem mortos; porquanto o nazireado do seu Deus está sobre a sua cabeça."
+            },
+            {
+                "id": "v6.8",
+                "versicle_number": 8,
+                "text": "Todos os dias do seu nazireado santo será ao Senhor."
+            },
+            {
+                "id": "v6.9",
+                "versicle_number": 9,
+                "text": "E se alguém vier a morrer junto a ele por acaso, subitamente, e contaminar a cabeça do seu nazireado, então no dia da sua purificação rapará a sua cabeça, e ao sétimo dia a rapará."
+            },
+            {
+                "id": "v6.10",
+                "versicle_number": 10,
+                "text": "E ao oitavo dia trará duas rolas, ou dois pombinhos, ao sacerdote, à porta da tenda da congregação:"
+            },
+            {
+                "id": "v6.11",
+                "versicle_number": 11,
+                "text": "E o sacerdote oferecerá um para expiação do pecado, e o outro para holocausto; e fará propiciação por esse que pecou no corpo morto: assim naquele mesmo dia santificará a sua cabeça."
+            },
+            {
+                "id": "v6.12",
+                "versicle_number": 12,
+                "text": "Então separará os dias do seu nazireado ao Senhor, e para expiação da culpa trará um cordeiro dum ano: e os dias antecedentes serão perdidos, porquanto o seu nazireado foi contaminado."
+            },
+            {
+                "id": "v6.13",
+                "versicle_number": 13,
+                "text": "E esta é a lei do nazireu: no dia em que se cumprirem os dias do seu nazireado, trá-lo-ão à porta da tenda da congregação:"
+            },
+            {
+                "id": "v6.14",
+                "versicle_number": 14,
+                "text": "E ele oferecerá a sua oferta ao Senhor, um cordeiro sem mancha dum ano em holocausto, e uma cordeira sem mancha de um ano para expiação da culpa, e um carneiro sem mancha por oferta pacífica;"
+            },
+            {
+                "id": "v6.15",
+                "versicle_number": 15,
+                "text": "E um cesto de bolos asmos, bolos de flor de farinha com azeite, amassados, e coscorões asmos untados com azeite, como também a sua oferta de manjares, e as suas libações."
+            },
+            {
+                "id": "v6.16",
+                "versicle_number": 16,
+                "text": "E o sacerdote os trará perante o Senhor, e sacrificará a sua expiação do pecado, e o seu holocausto:"
+            },
+            {
+                "id": "v6.17",
+                "versicle_number": 17,
+                "text": "Também sacrificará o carneiro em sacrifício pacífico ao Senhor, com o cesto dos bolos asmos: e o sacerdote oferecerá a sua oferta de manjares, e a sua libação."
+            },
+            {
+                "id": "v6.18",
+                "versicle_number": 18,
+                "text": "Então o nazireu à porta da tenda da congregação rapará a cabeça do seu nazireado, e tomará o cabelo da cabeça do seu nazireado, e o porá sobre o fogo que está debaixo do sacrifício pacífico."
+            },
+            {
+                "id": "v6.19",
+                "versicle_number": 19,
+                "text": "Depois o sacerdote tomará a espádua cozida do carneiro, e um bolo asmo do cesto, e um coscorão asmo, e os porá nas mãos do nazireu, depois de haver rapado a cabeça do seu nazireado."
+            },
+            {
+                "id": "v6.20",
+                "versicle_number": 20,
+                "text": "E o sacerdote os moverá em oferta de movimento perante o Senhor; isto é santo para o sacerdote, juntamente com o peito da oferta de movimento, e com a espádua da oferta alçada; e depois o nazireu pode beber vinho.{note:1}"
+            },
+            {
+                "id": "v6.21",
+                "versicle_number": 21,
+                "text": "Esta é a lei do nazireu, que fizer voto da sua oferta ao Senhor pelo seu nazireado, além do que alcançar a sua mão: segundo o seu voto, que fizer, assim fará conforme à lei do seu nazireado."
+            },
+            {
+                "id": "v6.22",
+                "versicle_number": 22,
+                "text": "E falou o Senhor a Moisés, dizendo:"
+            },
+            {
+                "id": "v6.23",
+                "versicle_number": 23,
+                "text": "Fala a Aarão, e a seus filhos, dizendo: Assim abençoareis os filhos de Israel, dizendo-lhes:"
+            },
+            {
+                "id": "v6.24",
+                "versicle_number": 24,
+                "text": "O Senhor te abençoe e te guarde:"
+            },
+            {
+                "id": "v6.25",
+                "versicle_number": 25,
+                "text": "O Senhor faça resplandecer o seu rosto sobre ti, e tenha misericórdia de ti."
+            },
+            {
+                "id": "v6.26",
+                "versicle_number": 26,
+                "text": "O Senhor sobre ti levante o seu rosto, e te dê a paz."
+            },
+            {
+                "id": "v6.27",
+                "versicle_number": 27,
+                "text": "Assim porão o meu nome sobre os filhos de Israel, e eu os abençoarei."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v6.22",
+                "text": "O modo de abençoar os filhos de Israel"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 6.13-20 At 21.24"
+            }
+        ]
+    }
+}

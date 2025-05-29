@@ -1,0 +1,143 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 55,
+        "chapter_reference": "",
+        "chapter_title": "Davi queixa-se da malícia dos seus inimigos; persevera em oração, e lança a sua carga sobre o Senhor",
+        "versicles": [
+            {
+                "id": "v55.1",
+                "versicle_number": 1,
+                "text": "INCLINA, ó Deus, os teus ouvidos à minha oração, e não te escondas da minha súplica."
+            },
+            {
+                "id": "v55.2",
+                "versicle_number": 2,
+                "text": "Atende-me, e ouve-me: lamento-me e rujo."
+            },
+            {
+                "id": "v55.3",
+                "versicle_number": 3,
+                "text": "Por causa do clamor do inimigo e da opressão do ímpio: pois lançam sobre mim iniquidade, e com furor me aborrecem."
+            },
+            {
+                "id": "v55.4",
+                "versicle_number": 4,
+                "text": "O meu coração está dorido dentro de mim, e terrores de morte sobre mim caíram."
+            },
+            {
+                "id": "v55.5",
+                "versicle_number": 5,
+                "text": "Temor e tremor me sobrevêm; e o horror me cobriu."
+            },
+            {
+                "id": "v55.6",
+                "versicle_number": 6,
+                "text": "Pelo que disse: Ah! quem me dera asas como de pomba! voaria, e estaria em descanso."
+            },
+            {
+                "id": "v55.7",
+                "versicle_number": 7,
+                "text": "Eis que fugiria para longe, e pernoitaria no deserto. (Selá.)"
+            },
+            {
+                "id": "v55.8",
+                "versicle_number": 8,
+                "text": "Apressar-me-ia a escapar da fúria do vento e da tempestade."
+            },
+            {
+                "id": "v55.9",
+                "versicle_number": 9,
+                "text": "{note:o}Despedaça, Senhor, e divide as suas línguas, pois tenho visto violência e contenda na cidade."
+            },
+            {
+                "id": "v55.10",
+                "versicle_number": 10,
+                "text": "De dia e de noite andam ao redor dela, sobre os seus muros; iniquidade e malícia estão no meio dela."
+            },
+            {
+                "id": "v55.11",
+                "versicle_number": 11,
+                "text": "Maldade há lá dentro: astúcia e engano não se apartam das suas ruas."
+            },
+            {
+                "id": "v55.12",
+                "versicle_number": 12,
+                "text": "Pois não era um inimigo que me afrontava: então eu o teria suportado; nem era o que me aborrecia que se engrandecia contra mim, porque dele me teria escondido."
+            },
+            {
+                "id": "v55.13",
+                "versicle_number": 13,
+                "text": "Mas eras tu, homem meu igual, meu guia e meu íntimo amigo."
+            },
+            {
+                "id": "v55.14",
+                "versicle_number": 14,
+                "text": "Praticávamos juntos suavemente, e íamos com a multidão à casa de Deus."
+            },
+            {
+                "id": "v55.15",
+                "versicle_number": 15,
+                "text": "A morte os assalte, e vivos {note:p}os engula a terra; porque há maldade nas suas habitações e no seu próprio interior."
+            },
+            {
+                "id": "v55.16",
+                "versicle_number": 16,
+                "text": "Mas eu invocarei a Deus, e o Senhor me salvará."
+            },
+            {
+                "id": "v55.17",
+                "versicle_number": 17,
+                "text": "De tarde e de manhã e ao meio-dia orarei; e clamarei, e ele ouvirá a minha voz."
+            },
+            {
+                "id": "v55.18",
+                "versicle_number": 18,
+                "text": "Livrou em paz a minha alma da guerra que me moviam; pois eram muitos contra mim."
+            },
+            {
+                "id": "v55.19",
+                "versicle_number": 19,
+                "text": "Deus ouvirá; e os afligirá Aquele que preside desde a antiguidade (Selá), porque não há neles nenhuma mudança, e tão pouco temem a Deus."
+            },
+            {
+                "id": "v55.20",
+                "versicle_number": 20,
+                "text": "Puseram suas mãos nos que tinham paz com ele: romperam a sua aliança."
+            },
+            {
+                "id": "v55.21",
+                "versicle_number": 21,
+                "text": "A sua boca era mais macia do que a manteiga, mas no seu coração, guerra; as suas palavras eram mais brandas do que o azeite: todavia, eram espadas nuas."
+            },
+            {
+                "id": "v55.22",
+                "versicle_number": 22,
+                "text": "Lança o teu cuidado sobre o Senhor, e ele te susterá: nunca permitirá que o justo seja abalado."
+            },
+            {
+                "id": "v55.23",
+                "versicle_number": 23,
+                "text": "Mas tu, ó Deus, os farás descer ao poço da perdição; homens de sangue e de fraude não viverão metade dos seus dias; mas eu em ti confiarei."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:o} 55.9 Heb. Devora-os"
+            },
+            {
+                "id": "n2",
+                "text": "{note:p} 55.15 Heb. desçam ao Sheol"
+            }
+        ]
+    }
+}

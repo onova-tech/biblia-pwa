@@ -1,0 +1,180 @@
+{
+    "book": {
+        "id": "1Rs",
+        "book_number": 11,
+        "new_testament": false,
+        "num_chapters": 22,
+        "book_name": "REIS",
+        "book_full_name": "O PRIMEIRO LIVRO DOS REIS"
+    },
+    "chapter": {
+        "chapter_number": 21,
+        "chapter_reference": "",
+        "chapter_title": "Nabote recusa vender a sua vinha a Acabe",
+        "versicles": [
+            {
+                "id": "v21.1",
+                "versicle_number": 1,
+                "text": "E SUCEDEU depois destas cousas, tendo Nabote, o jezreelita, uma vinha que em Jezreel estava junto ao palácio de Acabe, rei de Samaria,"
+            },
+            {
+                "id": "v21.2",
+                "versicle_number": 2,
+                "text": "Que Acabe falou a Nabote, dizendo: Dá-me a tua vinha, para que me sirva de horta, pois está vizinha, ao pé da minha casa; e te darei por ela outra vinha melhor do que ela; ou, se parece bem aos teus olhos, dar-te-ei a sua valia em dinheiro."
+            },
+            {
+                "id": "v21.3",
+                "versicle_number": 3,
+                "text": "Porém Nabote disse a Acabe: Guarde-me o Senhor de que eu te dê a herança de meus pais."
+            },
+            {
+                "id": "v21.4",
+                "versicle_number": 4,
+                "text": "Então Acabe veio desgostoso e indignado à sua casa, por causa da palavra que Nabote, o jezreelita, lhe falara, dizendo: Não te darei a herança de meus pais. E deitou-se na sua cama, e voltou o rosto, e não comeu pão."
+            },
+            {
+                "id": "v21.5",
+                "versicle_number": 5,
+                "text": "Porém, vindo a ele Jezabel, sua mulher, lhe disse: Que há, que está tão desgostoso o teu espírito, e não comes pão?"
+            },
+            {
+                "id": "v21.6",
+                "versicle_number": 6,
+                "text": "E ele lhe disse: Porque falei a Nabote, o jezreelita, e lhe disse: Dá-me a tua vinha por dinheiro; ou, se te apraz, te darei outra vinha em seu lugar. Porém ele disse: Não te darei a minha vinha."
+            },
+            {
+                "id": "v21.7",
+                "versicle_number": 7,
+                "text": "Então Jezabel sua mulher, lhe disse: Governas tu agora no reino de Israel? Levanta-te, come pão, e alegre-se o teu coração: eu te darei a vinha de Nabote, o jezreelita."
+            },
+            {
+                "id": "v21.8",
+                "versicle_number": 8,
+                "text": "Então escreveu cartas em nome de Acabe, e as selou com o seu sinete; e mandou as cartas aos anciãos e aos nobres que havia na sua cidade e habitavam com Nabote."
+            },
+            {
+                "id": "v21.9",
+                "versicle_number": 9,
+                "text": "E escreveu nas cartas, dizendo: Apregoai um jejum, e ponde a Nabote acima do povo."
+            },
+            {
+                "id": "v21.10",
+                "versicle_number": 10,
+                "text": "E ponde defronte dele dois homens, filhos de Belial, que testemunhem contra ele, dizendo: Blasfemaste contra Deus e contra o rei: e trazei-o fora, e apedrejai-o para que morra."
+            },
+            {
+                "id": "v21.11",
+                "versicle_number": 11,
+                "text": "E os homens da sua cidade, os anciãos e os nobres que habitavam na sua cidade, fizeram como Jezabel lhes ordenara, conforme estava escrito nas cartas que lhes mandara."
+            },
+            {
+                "id": "v21.12",
+                "versicle_number": 12,
+                "text": "Apregoaram um jejum e puseram a Nabote acima do povo."
+            },
+            {
+                "id": "v21.13",
+                "versicle_number": 13,
+                "text": "Então vieram dois homens, filhos de Belial, e puseram-se defronte dele; e os homens, filhos de Belial, testemunharam contra ele, contra Nabote, perante o povo, dizendo: Nabote blasfemou contra Deus e contra o rei. E o levaram para fora da cidade e o apedrejaram com pedras, e morreu."
+            },
+            {
+                "id": "v21.14",
+                "versicle_number": 14,
+                "text": "Então enviaram a Jezabel, dizendo: Nabote foi apedrejado, e morreu."
+            },
+            {
+                "id": "v21.15",
+                "versicle_number": 15,
+                "text": "E sucedeu que, ouvindo Jezabel que já fora apedrejado Nabote, e morrera, disse Jezabel a Acabe: Levanta-te, e possui a vinha de Nabote, o jezreelita, a qual ele te recusou dar por dinheiro; porque Nabote não vive, mas é morto."
+            },
+            {
+                "id": "v21.16",
+                "versicle_number": 16,
+                "text": "E sucedeu que, ouvindo Acabe que já Nabote era morto, Acabe se levantou, para descer para a vinha de Nabote, o jezreelita, para a possuir."
+            },
+            {
+                "id": "v21.17",
+                "versicle_number": 17,
+                "text": "Então veio a palavra do Senhor a Elias, o tesbita, dizendo:"
+            },
+            {
+                "id": "v21.18",
+                "versicle_number": 18,
+                "text": "Levanta-te, desce para encontrar-te com Acabe, rei de Israel, que está em Samaria: eis que está na vinha de Nabote, aonde tem descido para a possuir."
+            },
+            {
+                "id": "v21.19",
+                "versicle_number": 19,
+                "text": "E falar-lhe-ás, dizendo: Assim diz o Senhor: Porventura não mataste e tomaste a herança? Falar-lhe-ás mais, dizendo: Assim diz o Senhor: No lugar em que os cães lamberam o sangue de Nabote, os cães lamberão o teu sangue, o teu mesmo."
+            },
+            {
+                "id": "v21.20",
+                "versicle_number": 20,
+                "text": "E disse Acabe a Elias: Já me achaste, inimigo meu? E ele disse: Achei-te; porquanto já te vendeste para fazeres o que é mau aos olhos do Senhor."
+            },
+            {
+                "id": "v21.21",
+                "versicle_number": 21,
+                "text": "Eis que trarei mal sobre ti, e arrancarei a tua posteridade e arrancarei de Acabe a todo o homem, como também o encerrado e o desamparado em Israel;"
+            },
+            {
+                "id": "v21.22",
+                "versicle_number": 22,
+                "text": "E farei a tua casa como a casa de Jeroboão, filho de Nebate, e como a casa de Baasa, filho de Aías: por causa da provocação, com que me provocaste e fizeste pecar a Israel."
+            },
+            {
+                "id": "v21.23",
+                "versicle_number": 23,
+                "text": "E também acerca de Jezabel{note:1} falou o Senhor, dizendo: Os cães comerão a Jezabel junto ao antemuro de Jezreel."
+            },
+            {
+                "id": "v21.24",
+                "versicle_number": 24,
+                "text": "Aquele que de Acabe morrer na cidade, os cães o comerão, e o que morrer no campo, as aves do céu o comerão."
+            },
+            {
+                "id": "v21.25",
+                "versicle_number": 25,
+                "text": "Porém ninguém fora como Acabe, que se vendera para fazer o que era mau aos olhos do Senhor: porque Jezabel, sua mulher, o incitava."
+            },
+            {
+                "id": "v21.26",
+                "versicle_number": 26,
+                "text": "E fez grandes abominações, seguindo os ídolos, conforme a tudo o que fizeram os amorreus, os quais o Senhor lançou fora da sua possessão, de diante dos filhos de Israel."
+            },
+            {
+                "id": "v21.27",
+                "versicle_number": 27,
+                "text": "Sucedeu pois que Acabe, ouvindo estas palavras, rasgou os seus vestidos, e cobriu a sua carne de saco, e jejuou; e jazia em saco, e andava mansamente."
+            },
+            {
+                "id": "v21.28",
+                "versicle_number": 28,
+                "text": "Então veio a palavra do Senhor a Elias tesbita, dizendo:"
+            },
+            {
+                "id": "v21.29",
+                "versicle_number": 29,
+                "text": "Não viste que Acabe se humilha perante mim? Porquanto pois se humilha perante mim, não trarei este mal nos seus dias, mas nos dias de seu filho trarei este mal sobre a sua casa."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v21.8",
+                "text": "Jezabel ordena a morte de Nabote"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v21.17",
+                "text": "Deus manda Elias ameaçar a Acabe"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 21.23 2Rs 9.36"
+            }
+        ]
+    }
+}

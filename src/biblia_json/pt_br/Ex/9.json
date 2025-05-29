@@ -1,0 +1,218 @@
+{
+    "book": {
+        "id": "Ex",
+        "book_number": 2,
+        "new_testament": false,
+        "num_chapters": 40,
+        "book_name": "ÊXODO",
+        "book_full_name": "O SEGUNDO LIVRO DE MOISÉS ÊXODO"
+    },
+    "chapter": {
+        "chapter_number": 9,
+        "chapter_reference": "",
+        "chapter_title": "A praga da peste nos animais",
+        "versicles": [
+            {
+                "id": "v9.1",
+                "versicle_number": 1,
+                "text": "DEPOIS o Senhor disse a Moisés: Entra a Faraó, e dize-lhe: Assim diz o Senhor, o Deus dos hebreus: Deixa ir o meu povo, para que me sirva."
+            },
+            {
+                "id": "v9.2",
+                "versicle_number": 2,
+                "text": "Porque se recusares deixá-los ir, e ainda por força os detiveres,"
+            },
+            {
+                "id": "v9.3",
+                "versicle_number": 3,
+                "text": "Eis que a mão do Senhor será sobre teu gado, que está no campo, sobre os cavalos, sobre os jumentos, sobre os camelos, sobre os bois, e sobre as ovelhas, com pestilência gravíssima."
+            },
+            {
+                "id": "v9.4",
+                "versicle_number": 4,
+                "text": "E o Senhor fará separação entre o gado dos israelitas, e o gado dos egípcios, para que nada morra de tudo o que for dos filhos de Israel."
+            },
+            {
+                "id": "v9.5",
+                "versicle_number": 5,
+                "text": "E o Senhor assinalou certo tempo, dizendo: Amanhã fará o Senhor esta cousa na terra."
+            },
+            {
+                "id": "v9.6",
+                "versicle_number": 6,
+                "text": "E o Senhor fez esta cousa no dia seguinte, e todo o gado dos egípcios morreu; porém do gado dos filhos de Israel não morreu nenhum."
+            },
+            {
+                "id": "v9.7",
+                "versicle_number": 7,
+                "text": "E Faraó enviou a ver, e eis que do gado de Israel não morrera nenhum; porém o coração de Faraó se endureceu, e não deixou ir o povo."
+            },
+            {
+                "id": "v9.8",
+                "versicle_number": 8,
+                "text": "Então disse o Senhor a Moisés e a Aarão: Tomai vossos punhos cheios da cinza do forno, e Moisés a espalhe para o céu diante dos olhos de Faraó;"
+            },
+            {
+                "id": "v9.9",
+                "versicle_number": 9,
+                "text": "E tornar-se-á em pó miúdo sobre toda a terra do Egito, e se tornará em sarna, que arrebente em úlceras nos homens e no gado, por toda a terra do Egito."
+            },
+            {
+                "id": "v9.10",
+                "versicle_number": 10,
+                "text": "E eles tomaram a cinza do forno, e puseram-se diante de Faraó, e Moisés a espalhou para o céu; e tornou-se em sarna,{note:1} que arrebentava em úlceras nos homens e no gado;"
+            },
+            {
+                "id": "v9.11",
+                "versicle_number": 11,
+                "text": "De maneira que os magos não podiam parar diante de Moisés, por causa da sarna; porque havia sarna em os magos, e em todos os egípcios."
+            },
+            {
+                "id": "v9.12",
+                "versicle_number": 12,
+                "text": "Porém o Senhor endureceu o coração de Faraó, e não os ouviu, como o Senhor tinha dito a Moisés."
+            },
+            {
+                "id": "v9.13",
+                "versicle_number": 13,
+                "text": "Então disse o Senhor a Moisés: Levanta-te pela manhã cedo e põe-te diante de Faraó, e dize-lhe: Assim diz o Senhor, o Deus dos hebreus: Deixa ir o meu povo para que me sirva;"
+            },
+            {
+                "id": "v9.14",
+                "versicle_number": 14,
+                "text": "Porque esta vez enviarei todas as minhas pragas sobre o teu coração, e sobre os teus servos, e sobre o teu povo, para que saibas que não há outro como eu em toda a terra."
+            },
+            {
+                "id": "v9.15",
+                "versicle_number": 15,
+                "text": "Porque agora tenho estendido minha mão, para te ferir a ti e ao teu povo com pestilência, e para que sejas destruído da terra;"
+            },
+            {
+                "id": "v9.16",
+                "versicle_number": 16,
+                "text": "Mas deveras para isto te mantive,{note:2} para mostrar o meu poder em ti, e para que o meu nome seja anunciado em toda a terra."
+            },
+            {
+                "id": "v9.17",
+                "versicle_number": 17,
+                "text": "Tu ainda te levantas contra o meu povo, para não os deixar ir?"
+            },
+            {
+                "id": "v9.18",
+                "versicle_number": 18,
+                "text": "Eis que amanhã por este tempo farei chover saraiva mui grave, qual nunca houve no Egito, desde o dia em que foi fundado até agora."
+            },
+            {
+                "id": "v9.19",
+                "versicle_number": 19,
+                "text": "Agora pois envia, recolhe o teu gado e tudo o que tens no campo; todo o homem e animal, que for achado no campo, e não for recolhido à casa, a saraiva cairá sobre eles, e morrerão."
+            },
+            {
+                "id": "v9.20",
+                "versicle_number": 20,
+                "text": "Quem dos servos de Faraó temia a palavra do Senhor, fez fugir os seus servos e o seu gado para as casas;"
+            },
+            {
+                "id": "v9.21",
+                "versicle_number": 21,
+                "text": "Mas aquele que não tinha aplicado a palavra do Senhor ao seu coração, deixou os seus servos e o seu gado no campo."
+            },
+            {
+                "id": "v9.22",
+                "versicle_number": 22,
+                "text": "Então disse o Senhor a Moisés: Estende a tua mão para o céu, e haverá saraiva em toda a terra do Egito, sobre os homens e sobre o gado, e sobre toda a erva do campo na terra do Egito."
+            },
+            {
+                "id": "v9.23",
+                "versicle_number": 23,
+                "text": "E Moisés estendeu a sua vara para o céu, e o Senhor deu trovões e saraiva, e fogo corria pela terra; e o Senhor fez chover saraiva sobre a terra do Egito."
+            },
+            {
+                "id": "v9.24",
+                "versicle_number": 24,
+                "text": "E havia saraiva e fogo{note:3} misturado entre a saraiva, mui grave, qual nunca houve em toda a terra do Egito, desde que veio a ser uma nação."
+            },
+            {
+                "id": "v9.25",
+                "versicle_number": 25,
+                "text": "E a saraiva feriu, em toda a terra do Egito, tudo quanto havia no campo, desde os homens até aos animais; também a saraiva feriu toda a erva do campo, e quebrou todas as árvores do campo."
+            },
+            {
+                "id": "v9.26",
+                "versicle_number": 26,
+                "text": "Somente na terra de Gósen, onde estavam os filhos de Israel, não havia saraiva."
+            },
+            {
+                "id": "v9.27",
+                "versicle_number": 27,
+                "text": "Então Faraó mandou chamar a Moisés e a Aarão, e disse-lhes: Esta vez pequei; o Senhor é justo, mas eu e o meu povo ímpios."
+            },
+            {
+                "id": "v9.28",
+                "versicle_number": 28,
+                "text": "Orai ao Senhor (pois que basta) para que não haja mais trovões de Deus nem saraiva; e eu vos deixarei ir, e não ficareis mais aqui."
+            },
+            {
+                "id": "v9.29",
+                "versicle_number": 29,
+                "text": "Então lhe disse Moisés: Em saindo da cidade estenderei minhas mãos ao Senhor: os trovões cessarão, e não haverá mais saraiva; para que saibas que a terra é do Senhor."
+            },
+            {
+                "id": "v9.30",
+                "versicle_number": 30,
+                "text": "Todavia, quanto a ti e aos teus servos, eu sei que ainda não temereis diante do Senhor Deus."
+            },
+            {
+                "id": "v9.31",
+                "versicle_number": 31,
+                "text": "E o linho e a cevada foram feridos, porque a cevada já estava na espiga, e o linho na cana,"
+            },
+            {
+                "id": "v9.32",
+                "versicle_number": 32,
+                "text": "Mas o trigo e o centeio não foram feridos, porque estavam cobertos."
+            },
+            {
+                "id": "v9.33",
+                "versicle_number": 33,
+                "text": "Saiu pois Moisés de Faraó, da cidade, e estendeu as suas mãos ao Senhor: e cessaram os trovões e a saraiva, e a chuva não caiu mais sobre a terra."
+            },
+            {
+                "id": "v9.34",
+                "versicle_number": 34,
+                "text": "Vendo Faraó que cessou a chuva, e a saraiva, e os trovões, continuou a pecar: e agravou o seu coração, ele e os seus servos."
+            },
+            {
+                "id": "v9.35",
+                "versicle_number": 35,
+                "text": "Assim o coração de Faraó se endureceu, e não deixou ir os filhos de Israel, como o Senhor tinha dito por Moisés."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v9.13",
+                "text": "As ameaças de Deus"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v9.22",
+                "text": "A praga da saraiva"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 9.10 Ap 16.2"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 9.16 Rm 9.17"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 9.24 Ap 8.7; 16.21"
+            }
+        ]
+    }
+}

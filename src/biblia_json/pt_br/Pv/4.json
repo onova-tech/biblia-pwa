@@ -1,0 +1,159 @@
+{
+    "book": {
+        "id": "Pv",
+        "book_number": 20,
+        "new_testament": false,
+        "num_chapters": 31,
+        "book_name": "PROVÉRBIOS",
+        "book_full_name": "DE SALOMÃO PROVÉRBIOS"
+    },
+    "chapter": {
+        "chapter_number": 4,
+        "chapter_reference": "",
+        "chapter_title": "Exortação a adquirir a Sabedoria e a apartar-se do caminho dos ímpios",
+        "versicles": [
+            {
+                "id": "v4.1",
+                "versicle_number": 1,
+                "text": "OUVI, filhos, a correção do pai, e estai atentos para conhecerdes a prudência."
+            },
+            {
+                "id": "v4.2",
+                "versicle_number": 2,
+                "text": "Pois dou-vos boa doutrina: não deixeis a minha lei."
+            },
+            {
+                "id": "v4.3",
+                "versicle_number": 3,
+                "text": "Porque eu era filho de meu pai: tenro, e único em estima diante de minha mãe."
+            },
+            {
+                "id": "v4.4",
+                "versicle_number": 4,
+                "text": "E ele ensinava-me, e dizia-me: Retenha as minhas palavras o teu coração: guarda os meus mandamentos, e vive."
+            },
+            {
+                "id": "v4.5",
+                "versicle_number": 5,
+                "text": "Adquire a sabedoria, adquire a inteligência, e não te esqueças nem te apartes das palavras da minha boca."
+            },
+            {
+                "id": "v4.6",
+                "versicle_number": 6,
+                "text": "Não a desampares, e ela te guardará: ama-a e ela te conservará."
+            },
+            {
+                "id": "v4.7",
+                "versicle_number": 7,
+                "text": "A sabedoria é a cousa principal: adquire pois a sabedoria; sim, com tudo o que possuis adquire o conhecimento."
+            },
+            {
+                "id": "v4.8",
+                "versicle_number": 8,
+                "text": "Exalta-a, e ela te exaltará; e, abraçando-a tu, ela te honrará."
+            },
+            {
+                "id": "v4.9",
+                "versicle_number": 9,
+                "text": "Dará à tua cabeça um diadema de graça, e uma coroa de glória te entregará."
+            },
+            {
+                "id": "v4.10",
+                "versicle_number": 10,
+                "text": "Ouve, filho meu, e aceita as minhas palavras, e se te multiplicarão os anos de vida."
+            },
+            {
+                "id": "v4.11",
+                "versicle_number": 11,
+                "text": "No caminho da sabedoria te ensinei, e pelas carreiras direitas te fiz andar."
+            },
+            {
+                "id": "v4.12",
+                "versicle_number": 12,
+                "text": "Por elas andando, não se embaraçarão os teus passos; e se correres, não tropeçarás."
+            },
+            {
+                "id": "v4.13",
+                "versicle_number": 13,
+                "text": "Pega-te à correção e não a largues: guarda-a, porque ela é a tua vida."
+            },
+            {
+                "id": "v4.14",
+                "versicle_number": 14,
+                "text": "Não entres na vereda dos ímpios, nem andes pelo caminho dos maus."
+            },
+            {
+                "id": "v4.15",
+                "versicle_number": 15,
+                "text": "Evita-o; não passes por ele: desvia-te dele e passa de largo."
+            },
+            {
+                "id": "v4.16",
+                "versicle_number": 16,
+                "text": "Pois não dormem, se não fizerem mal, e foge deles o sono se não fizerem tropeçar alguém."
+            },
+            {
+                "id": "v4.17",
+                "versicle_number": 17,
+                "text": "Porque comem o pão da impiedade, e bebem o vinho das violências."
+            },
+            {
+                "id": "v4.18",
+                "versicle_number": 18,
+                "text": "Mas a vereda dos justos é como a luz da aurora que vai brilhando mais e mais até ser dia perfeito."
+            },
+            {
+                "id": "v4.19",
+                "versicle_number": 19,
+                "text": "O caminho dos ímpios é como a escuridão: nem conhecem aquilo em que tropeçam."
+            },
+            {
+                "id": "v4.20",
+                "versicle_number": 20,
+                "text": "Filho meu, atenta para as minhas palavras: às minhas razões inclina o teu ouvido."
+            },
+            {
+                "id": "v4.21",
+                "versicle_number": 21,
+                "text": "Não as deixes apartar-se dos teus olhos: guarda-as no meio do teu coração."
+            },
+            {
+                "id": "v4.22",
+                "versicle_number": 22,
+                "text": "Porque são vida para os que as acham, e saúde para o seu corpo."
+            },
+            {
+                "id": "v4.23",
+                "versicle_number": 23,
+                "text": "Sobre tudo o que se deve guardar, guarda o teu coração, porque dele procedem as saídas da vida."
+            },
+            {
+                "id": "v4.24",
+                "versicle_number": 24,
+                "text": "Desvia de ti a tortuosidade da boca, e alonga de ti a perversidade dos lábios."
+            },
+            {
+                "id": "v4.25",
+                "versicle_number": 25,
+                "text": "Os teus olhos olhem direitos, e as tuas pálpebras olhem diretamente diante de ti."
+            },
+            {
+                "id": "v4.26",
+                "versicle_number": 26,
+                "text": "Pondera a vereda de teus pés,{note:1} e todos os teus caminhos sejam bem-ordenados!"
+            },
+            {
+                "id": "v4.27",
+                "versicle_number": 27,
+                "text": "Não declines nem para a direita nem para a esquerda: retira o teu pé do mal."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 4.26 Hb 12.13"
+            }
+        ]
+    }
+}

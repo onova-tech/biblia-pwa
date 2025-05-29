@@ -1,0 +1,125 @@
+{
+    "book": {
+        "id": "1Sm",
+        "book_number": 9,
+        "new_testament": false,
+        "num_chapters": 31,
+        "book_name": "SAMUEL",
+        "book_full_name": "O PRIMEIRO LIVRO DE SAMUEL"
+    },
+    "chapter": {
+        "chapter_number": 21,
+        "chapter_reference": "",
+        "chapter_title": "Davi vai ter com o sacerdote Aquimeleque",
+        "versicles": [
+            {
+                "id": "v21.1",
+                "versicle_number": 1,
+                "text": "ENTÃO veio Davi a Nobe,{note:1} ao sacerdote Aquimeleque; e Aquimeleque, tremendo, saiu ao encontro de Davi, e disse-lhe: Por que vens só, e ninguém contigo?"
+            },
+            {
+                "id": "v21.2",
+                "versicle_number": 2,
+                "text": "E disse Davi ao sacerdote Aquimeleque: O rei me encomendou um negócio, e me disse: Ninguém saiba deste negócio, pelo qual eu te enviei, e o qual te ordenei: quanto aos mancebos, apontei-lhes tal e tal lugar."
+            },
+            {
+                "id": "v21.3",
+                "versicle_number": 3,
+                "text": "Agora, pois, que tens à mão? dá-me cinco pães na minha mão, ou o que se achar."
+            },
+            {
+                "id": "v21.4",
+                "versicle_number": 4,
+                "text": "E, respondendo o sacerdote a Davi, disse: Não tenho pão comum à mão; há porém pão sagrado, se ao menos os mancebos se abstiveram das mulheres."
+            },
+            {
+                "id": "v21.5",
+                "versicle_number": 5,
+                "text": "E respondeu Davi ao sacerdote, e lhe disse: Sim, em boa fé, as mulheres se nos vedaram desde ontem: e, anteontem, quando eu saí, os vasos dos mancebos também eram santos: e em alguma maneira é pão comum, quanto mais que hoje se santificará outro nos vasos."
+            },
+            {
+                "id": "v21.6",
+                "versicle_number": 6,
+                "text": "Então o sacerdote lhe deu o pão sagrado,{note:2} porquanto não havia ali outro pão senão os pães da proposição, que se tiraram de diante do Senhor para se pôr ali pão quente no dia em que aquele se tirasse."
+            },
+            {
+                "id": "v21.7",
+                "versicle_number": 7,
+                "text": "Estava, porém, ali naquele dia um dos criados de Saul, detido perante o Senhor, e era seu nome Doegue, idumeu, o mais poderoso dos pastores de Saul."
+            },
+            {
+                "id": "v21.8",
+                "versicle_number": 8,
+                "text": "E disse Davi a Aquimeleque: Não tens aqui à mão lança ou espada alguma? porque não trouxe à mão nem a minha espada nem as minhas armas, porque o negócio do rei era apressado."
+            },
+            {
+                "id": "v21.9",
+                "versicle_number": 9,
+                "text": "E disse o sacerdote: A espada de Golias,{note:3} o filisteu, a quem tu feriste no vale do carvalho, eis que ela aqui está envolta num pano detrás do éfode: se tu a queres tomar, toma-a, porque nenhuma outra há aqui, senão aquela. E disse Davi: Não há outra semelhante; dá-ma."
+            },
+            {
+                "id": "v21.10",
+                "versicle_number": 10,
+                "text": "E Davi levantou-se, e fugiu aquele dia de diante de Saul, e veio a Áquis, rei de Gate."
+            },
+            {
+                "id": "v21.11",
+                "versicle_number": 11,
+                "text": "Porém os criados de Áquis lhe disseram: Não é este Davi, o rei da terra? não se cantava{note:4} deste nas danças, dizendo: Saul feriu os seus milhares, porém Davi os seus dez milhares?"
+            },
+            {
+                "id": "v21.12",
+                "versicle_number": 12,
+                "text": "E Davi considerou estas palavras no seu ânimo, e temeu muito{note:5} diante de Áquis, rei de Gate."
+            },
+            {
+                "id": "v21.13",
+                "versicle_number": 13,
+                "text": "Pelo que se contrafez{note:6} diante dos olhos deles, e fez-se como doido entre as suas mãos, e esgravatava nas portas do portal, e deixava correr a saliva pela barba."
+            },
+            {
+                "id": "v21.14",
+                "versicle_number": 14,
+                "text": "Então disse Áquis aos seus criados: Eis que bem vedes que este homem está louco; porque mo trouxestes a mim?"
+            },
+            {
+                "id": "v21.15",
+                "versicle_number": 15,
+                "text": "Faltam-me a mim doidos, para que trouxésseis a este que fizesse doidices diante de mim? há de este entrar na minha casa?"
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v21.10",
+                "text": "Davi foge para Áquis, rei de Gate"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 21.1 Mt 12.3-4; Mc 2.25-26; Lc 6.3"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 21.6 Lv 24.5-9"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 21.9 1Sm 17.51"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 21.11 1Sm 18.7; 29.5"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 21.12 Sl 56, título"
+            },
+            {
+                "id": "n6",
+                "text": "{note:6} 21.13 Sl 34, título"
+            }
+        ]
+    }
+}

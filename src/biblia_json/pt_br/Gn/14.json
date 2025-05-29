@@ -1,0 +1,159 @@
+{
+    "book": {
+        "id": "Gn",
+        "book_number": 1,
+        "new_testament": false,
+        "num_chapters": 50,
+        "book_name": "GÊNESIS",
+        "book_full_name": "O PRIMEIRO LIVRO DE MOISÉS GÊNESIS"
+    },
+    "chapter": {
+        "chapter_number": 14,
+        "chapter_reference": "",
+        "chapter_title": "Guerra de quatro reis contra cinco",
+        "versicles": [
+            {
+                "id": "v14.1",
+                "versicle_number": 1,
+                "text": "E ACONTECEU nos dias de Anrafel, rei de Sinear, Arioque, rei de Elasar, Quedorlaomer, rei de Elão, e Tidal, rei de {note:f}Goim."
+            },
+            {
+                "id": "v14.2",
+                "versicle_number": 2,
+                "text": "Que estes fizeram guerra a Bera, rei de Sodoma, a Birsa, rei de Gomorra, a Sinabe, rei de Admá e a Semeber, rei de Zeboim e ao rei de Bela (esta é Zoar)."
+            },
+            {
+                "id": "v14.3",
+                "versicle_number": 3,
+                "text": "Todos estes se ajuntaram no vale de Sidim (que é o mar de sal)."
+            },
+            {
+                "id": "v14.4",
+                "versicle_number": 4,
+                "text": "Doze anos haviam servido a Quedorlaomer, mas ao décimo terceiro ano rebelaram-se."
+            },
+            {
+                "id": "v14.5",
+                "versicle_number": 5,
+                "text": "E ao décimo quarto ano veio Quedorlaomer, e os reis que estavam com ele, e feriram aos Refains em Asterotecarnaim, e aos zuzins em Hão, e aos emins em Savé-Quiriataim,"
+            },
+            {
+                "id": "v14.6",
+                "versicle_number": 6,
+                "text": "E aos horeus no seu monte Seir, até à campina de Parã, que está junto ao deserto."
+            },
+            {
+                "id": "v14.7",
+                "versicle_number": 7,
+                "text": "Depois tornaram, e vieram a Emispate (que é Cades), e feriram toda a terra dos amalequitas, e também os amorreus, que habitavam em Hazazontamar."
+            },
+            {
+                "id": "v14.8",
+                "versicle_number": 8,
+                "text": "Então saiu o rei de Sodoma, e o rei de Gomorra, e o rei de Admá, e o rei de Zeboim, e o rei de Bela (esta é Zoar), e ordenaram batalha contra eles no vale de Sidim,"
+            },
+            {
+                "id": "v14.9",
+                "versicle_number": 9,
+                "text": "Contra Quedorlaomer, rei de Elão, e Tidal, rei de Goim, e Anrafel, rei de Sinear, e Arioque, rei de Elasar; quatro reis contra cinco."
+            },
+            {
+                "id": "v14.10",
+                "versicle_number": 10,
+                "text": "E o vale de Sidim estava cheio de poços de betume; e fugiram os reis de Sodoma, e de Gomorra, e caíram ali; e os restantes fugiram para um monte."
+            },
+            {
+                "id": "v14.11",
+                "versicle_number": 11,
+                "text": "E tomaram toda a fazenda de Sodoma, e de Gomorra, e todo o seu mantimento, e foram-se."
+            },
+            {
+                "id": "v14.12",
+                "versicle_number": 12,
+                "text": "Também tomaram a Ló, que habitava em Sodoma, filho do irmão de Abrão e a sua fazenda, e foram-se."
+            },
+            {
+                "id": "v14.13",
+                "versicle_number": 13,
+                "text": "Então veio um que escapara, e o contou a Abrão, o hebreu; ele habitava junto dos carvalhais de Manre, o amorreu, irmão de Escol, e irmão de Aner; eles eram confederados de Abrão."
+            },
+            {
+                "id": "v14.14",
+                "versicle_number": 14,
+                "text": "Ouvindo pois Abrão que o seu irmão estava preso, armou os seus criados, nascidos em sua casa, trezentos e dezoito, e os perseguiu até Dã."
+            },
+            {
+                "id": "v14.15",
+                "versicle_number": 15,
+                "text": "E dividiu-se contra eles de noite, ele e os seus criados, e os feriu, e os perseguiu até Hoba, que fica à esquerda de Damasco."
+            },
+            {
+                "id": "v14.16",
+                "versicle_number": 16,
+                "text": "E tornou a trazer toda a fazenda, e tornou a trazer também a Ló, seu irmão, e a sua fazenda, e também as mulheres e o povo."
+            },
+            {
+                "id": "v14.17",
+                "versicle_number": 17,
+                "text": "E o rei de Sodoma saiu-lhes ao encontro (depois que voltou de ferir a Quedorlaomer e aos reis que estavam com ele) no vale de Savé, que é o vale do rei."
+            },
+            {
+                "id": "v14.18",
+                "versicle_number": 18,
+                "text": "E Melquisedeque,{note:1} rei de Salém, trouxe pão e vinho; e era este sacerdote do Deus Altíssimo."
+            },
+            {
+                "id": "v14.19",
+                "versicle_number": 19,
+                "text": "E abençoou-o, e disse: Bendito seja Abrão do Deus Altíssimo, o Possuidor dos céus e da terra;"
+            },
+            {
+                "id": "v14.20",
+                "versicle_number": 20,
+                "text": "E bendito seja o Deus Altíssimo, que entregou os teus inimigos nas tuas mãos. E deu-lhe o dízimo de tudo."
+            },
+            {
+                "id": "v14.21",
+                "versicle_number": 21,
+                "text": "E o rei de Sodoma disse a Abrão: Dá-me a mim as almas, e a fazenda toma para ti."
+            },
+            {
+                "id": "v14.22",
+                "versicle_number": 22,
+                "text": "Abrão, porém, disse ao rei de Sodoma: Levantei minha mão ao Senhor, o Deus Altíssimo, o Possuidor dos céus e da terra,"
+            },
+            {
+                "id": "v14.23",
+                "versicle_number": 23,
+                "text": "Que desde um fio até à correia, dum sapato, não tomarei cousa alguma de tudo o que é teu; para que não digas: Eu enriqueci a Abrão;"
+            },
+            {
+                "id": "v14.24",
+                "versicle_number": 24,
+                "text": "Salvo tão somente o que os mancebos comeram, e a parte que toca aos varões que comigo foram, Aner, Escol, e Manre; estes que tomem a sua parte."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v14.12",
+                "text": "Ló é levado cativo"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v14.18",
+                "text": "Melquisedeque abençoa Abrão"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:f} 14.1 que significa nações"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 14.18 Hb 7.1-10"
+            }
+        ]
+    }
+}

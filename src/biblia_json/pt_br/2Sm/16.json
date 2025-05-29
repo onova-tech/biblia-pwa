@@ -1,0 +1,149 @@
+{
+    "book": {
+        "id": "2Sm",
+        "book_number": 10,
+        "new_testament": false,
+        "num_chapters": 24,
+        "book_name": "SAMUEL",
+        "book_full_name": "O SEGUNDO LIVRO DE SAMUEL"
+    },
+    "chapter": {
+        "chapter_number": 16,
+        "chapter_reference": "",
+        "chapter_title": "Davi é enganado por Ziba e amaldiçoado por Semei",
+        "versicles": [
+            {
+                "id": "v16.1",
+                "versicle_number": 1,
+                "text": "E PASSANDO Davi um pouco mais adiante do cume, eis que Ziba, o moço de Mefibosete,{note:1} veio encontrar-se com ele, com um par de jumentos albardados, e sobre eles duzentos pães, com cem cachos de passas, e cem de frutas de verão e um odre de vinho."
+            },
+            {
+                "id": "v16.2",
+                "versicle_number": 2,
+                "text": "E disse o rei a Ziba: Que pretendes com isto? E disse Ziba: Os jumentos são para a casa do rei, para se montarem neles; e o pão e as frutas de verão para os moços comerem; e o vinho para beberem os cansados no deserto."
+            },
+            {
+                "id": "v16.3",
+                "versicle_number": 3,
+                "text": "Então disse o rei: Onde está, pois, o filho de teu senhor? E disse Ziba ao rei: Eis que ficou em Jerusalém; porque disse: Hoje me restaurará a casa de Israel o reino de meu pai."
+            },
+            {
+                "id": "v16.4",
+                "versicle_number": 4,
+                "text": "Então disse o rei a Ziba: Eis que teu é tudo quanto tem Mefibosete. E disse Ziba: Eu me inclino que eu ache graça em teus olhos, ó rei meu senhor."
+            },
+            {
+                "id": "v16.5",
+                "versicle_number": 5,
+                "text": "E, chegando o rei Davi a Baurim, eis que dali saiu um homem da linhagem da casa de Saul, cujo nome era Simei, filho de Gera, e, saindo, ia amaldiçoando."
+            },
+            {
+                "id": "v16.6",
+                "versicle_number": 6,
+                "text": "E apedrejava com pedras a Davi, e a todos os servos do rei Davi: ainda que todo o povo e todos os valentes iam à sua direita e à sua esquerda."
+            },
+            {
+                "id": "v16.7",
+                "versicle_number": 7,
+                "text": "E, amaldiçoando-o Simei, assim dizia: Sai, sai, homem de sangue, e homem de Belial:"
+            },
+            {
+                "id": "v16.8",
+                "versicle_number": 8,
+                "text": "O Senhor te deu agora a paga de todo o sangue da casa de Saul, em cujo lugar tens reinado; já deu o Senhor o reino na mão de Absalão teu filho; e eis-te agora na tua desgraça, porque és um homem de sangue."
+            },
+            {
+                "id": "v16.9",
+                "versicle_number": 9,
+                "text": "Então disse Abisai, filho de Zeruia, ao rei: Por que amaldiçoaria este cão morto ao rei meu senhor? Deixa-me passar, e lhe tirarei a cabeça."
+            },
+            {
+                "id": "v16.10",
+                "versicle_number": 10,
+                "text": "Disse porém o rei: Que tenho eu convosco, filhos de Zeruia? Ora deixai-o amaldiçoar; pois o Senhor lhe disse: Amaldiçoa a Davi; quem pois diria: Por que assim fizeste?"
+            },
+            {
+                "id": "v16.11",
+                "versicle_number": 11,
+                "text": "Disse mais Davi a Abisai, e a todos os seus servos: Eis que meu filho, que saiu das minhas entranhas, procura a minha morte: quanto mais ainda este filho de Jemini? Deixai-o, que amaldiçoe; porque o Senhor lho disse."
+            },
+            {
+                "id": "v16.12",
+                "versicle_number": 12,
+                "text": "Porventura o Senhor olhará para a minha miséria: e o Senhor me pagará com bem a sua maldição deste dia."
+            },
+            {
+                "id": "v16.13",
+                "versicle_number": 13,
+                "text": "Prosseguiam pois o seu caminho, Davi e os seus homens: e também Simei ia ao longo do monte, defronte dele, caminhando e amaldiçoando, e atirava pedras contra ele, e levantava poeira."
+            },
+            {
+                "id": "v16.14",
+                "versicle_number": 14,
+                "text": "E o rei e todo o povo que ia com ele chegaram cansados, e refrescaram-se ali."
+            },
+            {
+                "id": "v16.15",
+                "versicle_number": 15,
+                "text": "Absalão pois e todo o povo, os homens de Israel, vieram a Jerusalém: e Aquitófel com ele."
+            },
+            {
+                "id": "v16.16",
+                "versicle_number": 16,
+                "text": "E sucedeu que, chegando Husai, o arquita, amigo de Davi, a Absalão, disse Husai a Absalão: Viva o rei, viva o rei!"
+            },
+            {
+                "id": "v16.17",
+                "versicle_number": 17,
+                "text": "Porém Absalão disse a Husai: É esta a tua beneficência para com o teu amigo? Por que não foste com o teu amigo?"
+            },
+            {
+                "id": "v16.18",
+                "versicle_number": 18,
+                "text": "E disse Husai a Absalão: Não, senão daquele que eleger o Senhor, e todo este povo, e todos os homens de Israel; dele serei e com ele ficarei."
+            },
+            {
+                "id": "v16.19",
+                "versicle_number": 19,
+                "text": "E, demais disto, a quem serviria eu? Porventura não seria diante de seu filho? Como servi diante de teu pai, assim serei diante de ti."
+            },
+            {
+                "id": "v16.20",
+                "versicle_number": 20,
+                "text": "Então disse Absalão a Aquitófel: Dai conselho entre vós sobre o que devemos fazer."
+            },
+            {
+                "id": "v16.21",
+                "versicle_number": 21,
+                "text": "E disse Aquitófel a Absalão: Entra às concubinas de teu pai, que deixou para guardarem a casa; e assim todo o Israel ouvirá que te fizeste aborrecível para com teu pai: e se fortalecerão as mãos de todos os que estão contigo."
+            },
+            {
+                "id": "v16.22",
+                "versicle_number": 22,
+                "text": "Estenderam pois para Absalão uma tenda no terrado: e entrou{note:2} Absalão às concubinas de seu pai perante os olhos de todo o Israel."
+            },
+            {
+                "id": "v16.23",
+                "versicle_number": 23,
+                "text": "E era o conselho de Aquitófel, que aconselhava naqueles dias, como se a palavra de Deus se consultara: tal era todo o conselho de Aquitófel, assim para com Davi como para com Absalão."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v16.15",
+                "text": "Os conselhos que Aquitófel e Husai dão a Absalão"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 16.1 2Sm 9.9-10"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 16.22 2Sm 12.11-12"
+            }
+        ]
+    }
+}

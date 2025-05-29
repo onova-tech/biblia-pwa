@@ -1,0 +1,139 @@
+{
+    "book": {
+        "id": "Gn",
+        "book_number": 1,
+        "new_testament": false,
+        "num_chapters": 50,
+        "book_name": "GÊNESIS",
+        "book_full_name": "O PRIMEIRO LIVRO DE MOISÉS GÊNESIS"
+    },
+    "chapter": {
+        "chapter_number": 40,
+        "chapter_reference": "",
+        "chapter_title": "José na prisão interpreta dois sonhos",
+        "versicles": [
+            {
+                "id": "v40.1",
+                "versicle_number": 1,
+                "text": "E ACONTECEU depois destas cousas que pecaram o copeiro do rei do Egito, e o padeiro, contra o seu senhor, o rei do Egito."
+            },
+            {
+                "id": "v40.2",
+                "versicle_number": 2,
+                "text": "E indignou-se Faraó muito contra os seus dois eunucos, contra o copeiro-mor e contra o padeiro-mor."
+            },
+            {
+                "id": "v40.3",
+                "versicle_number": 3,
+                "text": "E entregou-os à prisão, na casa do capitão da guarda, na casa do cárcere, no lugar onde José estava preso."
+            },
+            {
+                "id": "v40.4",
+                "versicle_number": 4,
+                "text": "E o capitão da guarda pô-los a cargo de José, para que os servisse; e estiveram muitos dias na prisão."
+            },
+            {
+                "id": "v40.5",
+                "versicle_number": 5,
+                "text": "E ambos sonharam um sonho, cada um seu sonho na mesma noite, cada um conforme a interpretação do seu sonho, o copeiro e o padeiro do rei do Egito, que estavam presos na casa do cárcere."
+            },
+            {
+                "id": "v40.6",
+                "versicle_number": 6,
+                "text": "E veio José a eles pela manhã, e olhou para eles, e eis que estavam turbados."
+            },
+            {
+                "id": "v40.7",
+                "versicle_number": 7,
+                "text": "Então perguntou aos eunucos de Faraó, que com ele estavam no cárcere da casa de seu senhor, dizendo: Por que estão hoje tristes os vossos semblantes?"
+            },
+            {
+                "id": "v40.8",
+                "versicle_number": 8,
+                "text": "E eles lhe disseram: Temos sonhado um sonho, e ninguém há que o interprete. E José disse-lhes: Não são de Deus as interpretações? Contai-mo, peço-vos."
+            },
+            {
+                "id": "v40.9",
+                "versicle_number": 9,
+                "text": "Então contou o copeiro-mor o seu sonho a José, e disse-lhe: Eis que em meu sonho havia uma vide diante da minha face,"
+            },
+            {
+                "id": "v40.10",
+                "versicle_number": 10,
+                "text": "E na vide três sarmentos, e estava como brotando; a sua flor saía, os seus cachos amadureciam em uvas;"
+            },
+            {
+                "id": "v40.11",
+                "versicle_number": 11,
+                "text": "E o copo de Faraó estava na minha mão, e eu tomava as uvas, e as espremia no copo de Faraó, e dava o copo na mão de Faraó."
+            },
+            {
+                "id": "v40.12",
+                "versicle_number": 12,
+                "text": "Então disse-lhe José: Está é a sua interpretação: Os três sarmentos são três dias;"
+            },
+            {
+                "id": "v40.13",
+                "versicle_number": 13,
+                "text": "Dentro ainda de três dias Faraó levantará a tua cabeça, e te restaurará ao teu estado, e darás o copo de Faraó na sua mão, conforme o costume antigo, quando eras seu copeiro."
+            },
+            {
+                "id": "v40.14",
+                "versicle_number": 14,
+                "text": "Porém lembra-te de mim, quando te for bem; e rogo-te que uses comigo de compaixão, e que faças menção de mim a Faraó, e faze-me sair desta casa;"
+            },
+            {
+                "id": "v40.15",
+                "versicle_number": 15,
+                "text": "Porque, de fato, fui roubado da terra dos hebreus; e tão pouco aqui nada tenho feito para que me pusessem nesta cova."
+            },
+            {
+                "id": "v40.16",
+                "versicle_number": 16,
+                "text": "Vendo então o padeiro-mor que tinha interpretado bem, disse a José: Eu também sonhava, e eis que três {note:e}cestos brancos estavam sobre a minha cabeça;"
+            },
+            {
+                "id": "v40.17",
+                "versicle_number": 17,
+                "text": "E no cesto mais alto havia de todos os manjares de Faraó, obra de padeiro; e as aves os comiam do cesto de sobre a minha cabeça."
+            },
+            {
+                "id": "v40.18",
+                "versicle_number": 18,
+                "text": "Então respondeu José, e disse: Esta é a sua interpretação: Os três cestos são três dias;"
+            },
+            {
+                "id": "v40.19",
+                "versicle_number": 19,
+                "text": "Dentro ainda de três dias Faraó levantará a tua cabeça sobre ti, e te pendurará num pau, e as aves comerão a tua carne de sobre ti."
+            },
+            {
+                "id": "v40.20",
+                "versicle_number": 20,
+                "text": "E aconteceu ao terceiro dia, o dia do nascimento de Faraó, que fez um banquete a todos os seus servos; e levantou a cabeça do copeiro-mor, e a cabeça do padeiro-mor, no meio dos seus servos."
+            },
+            {
+                "id": "v40.21",
+                "versicle_number": 21,
+                "text": "E fez tornar o copeiro-mor ao seu ofício de copeiro, e este deu o copo na mão de Faraó,"
+            },
+            {
+                "id": "v40.22",
+                "versicle_number": 22,
+                "text": "Mas ao padeiro-mor enforcou, como José havia interpretado."
+            },
+            {
+                "id": "v40.23",
+                "versicle_number": 23,
+                "text": "O copeiro-mor, porém, não se lembrou de José, antes se esqueceu dele."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:e} 40.16 ou cestos de pão branco"
+            }
+        ]
+    }
+}

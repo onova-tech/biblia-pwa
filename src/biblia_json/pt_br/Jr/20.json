@@ -1,0 +1,122 @@
+{
+    "book": {
+        "id": "Jr",
+        "book_number": 24,
+        "new_testament": false,
+        "num_chapters": 52,
+        "book_name": "JEREMIAS",
+        "book_full_name": "JEREMIAS"
+    },
+    "chapter": {
+        "chapter_number": 20,
+        "chapter_reference": "",
+        "chapter_title": "Pasur fere a Jeremias e mete-o no cepo",
+        "versicles": [
+            {
+                "id": "v20.1",
+                "versicle_number": 1,
+                "text": "E PASUR, filho de Imer, o sacerdote, que havia sido nomeado presidente na casa do Senhor, ouviu a Jeremias, que profetizava estas cousas."
+            },
+            {
+                "id": "v20.2",
+                "versicle_number": 2,
+                "text": "E feriu Pasur ao profeta Jeremias, e o meteu no cepo que está na porta superior de Benjamim, a qual está na casa do Senhor."
+            },
+            {
+                "id": "v20.3",
+                "versicle_number": 3,
+                "text": "E sucedeu que no dia seguinte Pasur tirou a Jeremias do cepo. Então disse-lhe Jeremias: O Senhor não chama o teu nome Pasur, mas {note:r}Magor-Missabibe."
+            },
+            {
+                "id": "v20.4",
+                "versicle_number": 4,
+                "text": "Porque assim diz o Senhor: Eis que farei de ti um terror para ti mesmo, e para todos os teus amigos; eles cairão à espada de seus inimigos, e teus olhos o verão; todo o Judá entregarei na mão do rei de Babilônia: ele os levará presos a Babilônia, e feri-los-á à espada."
+            },
+            {
+                "id": "v20.5",
+                "versicle_number": 5,
+                "text": "Também darei toda a fazenda desta cidade, e todo o seu trabalho, e todas as suas cousas preciosas; sim, todos os tesouros dos reis de Judá entregarei na mão de seus inimigos, e saqueá-los-ão, tomá-los-ão e levá-los-ão a Babilônia."
+            },
+            {
+                "id": "v20.6",
+                "versicle_number": 6,
+                "text": "E tu, Pasur, e todos os moradores da tua casa ireis para o cativeiro; e virás a Babilônia, e ali morrerás, e ali serás sepultado, tu, e todos os teus amigos, aos quais profetizaste falsamente."
+            },
+            {
+                "id": "v20.7",
+                "versicle_number": 7,
+                "text": "Iludiste-me, ó Senhor, e iludido fiquei; mais forte foste do que eu, e prevaleceste: sirvo de escárnio todo o dia; cada um deles zomba de mim."
+            },
+            {
+                "id": "v20.8",
+                "versicle_number": 8,
+                "text": "Porque desde que falo, grito; clamo: Violência e destruição; porque se tornou a palavra do Senhor um opróbrio para mim, e um ludíbrio todo o dia."
+            },
+            {
+                "id": "v20.9",
+                "versicle_number": 9,
+                "text": "Então disse eu: Não me lembrarei dele, e não falarei mais no seu nome; mas isso foi no meu coração como fogo ardente, encerrado nos meus ossos; e estou fatigado de sofrer e não posso."
+            },
+            {
+                "id": "v20.10",
+                "versicle_number": 10,
+                "text": "Porque ouvi a murmuração de muitos, e terror de todos os lados: Denunciai-no-lo, e o denunciaremos; todos os que têm paz comigo aguardam o meu manquejar, dizendo: Bem pode ser que se deixe persuadir; então prevaleceremos contra ele e nos vingaremos dele."
+            },
+            {
+                "id": "v20.11",
+                "versicle_number": 11,
+                "text": "Mas o Senhor está comigo como um valente terrível; por isso tropeçarão os meus perseguidores, e não prevalecerão: ficarão mui confundidos; como não se houveram {note:s}prudentemente, terão uma confusão perpétua que nunca se esquecerá."
+            },
+            {
+                "id": "v20.12",
+                "versicle_number": 12,
+                "text": "Tu pois, ó Senhor dos Exércitos, que provas o justo, e vês os rins e o coração: veja eu a tua vingança sobre eles; pois te descobri a minha causa."
+            },
+            {
+                "id": "v20.13",
+                "versicle_number": 13,
+                "text": "Cantai ao Senhor, louvai ao Senhor; pois livrou a alma do necessitado da mão dos malfeitores."
+            },
+            {
+                "id": "v20.14",
+                "versicle_number": 14,
+                "text": "Maldito o dia em que nasci: o dia em que minha mãe me deu à luz não seja bendito."
+            },
+            {
+                "id": "v20.15",
+                "versicle_number": 15,
+                "text": "Maldito o homem que deu as novas a meu pai, dizendo: Nasceu-te um filho; alegrando-o com isso grandemente."
+            },
+            {
+                "id": "v20.16",
+                "versicle_number": 16,
+                "text": "E seja esse homem como as cidades que o Senhor destruiu sem que se arrependesse: e ouça clamor pela manhã, e ao tempo do meio-dia um alarido."
+            },
+            {
+                "id": "v20.17",
+                "versicle_number": 17,
+                "text": "Por que não me matou desde a madre? ou minha mãe não foi minha sepultura? ou não ficou grávida perpetuamente?"
+            },
+            {
+                "id": "v20.18",
+                "versicle_number": 18,
+                "text": "Por que saí da madre, para ver trabalho e tristeza, e para que se consumam os meus dias na confusão?{note:1}"
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:r} 20.3 que é terror de todos os lados"
+            },
+            {
+                "id": "n2",
+                "text": "{note:s} 20.11 ou prosperamente"
+            },
+            {
+                "id": "n3",
+                "text": "{note:1} 20.14-18 Jó 3.1-19"
+            }
+        ]
+    }
+}

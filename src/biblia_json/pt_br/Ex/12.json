@@ -1,0 +1,322 @@
+{
+    "book": {
+        "id": "Ex",
+        "book_number": 2,
+        "new_testament": false,
+        "num_chapters": 40,
+        "book_name": "ÊXODO",
+        "book_full_name": "O SEGUNDO LIVRO DE MOISÉS ÊXODO"
+    },
+    "chapter": {
+        "chapter_number": 12,
+        "chapter_reference": "",
+        "chapter_title": "A instituição da primeira páscoa",
+        "versicles": [
+            {
+                "id": "v12.1",
+                "versicle_number": 1,
+                "text": "E FALOU o Senhor a Moisés e a Aarão na terra do Egito, dizendo:"
+            },
+            {
+                "id": "v12.2",
+                "versicle_number": 2,
+                "text": "Este mesmo mês vos será o princípio dos meses: este vos será o primeiro dos meses do ano."
+            },
+            {
+                "id": "v12.3",
+                "versicle_number": 3,
+                "text": "Falai a toda a congregação de Israel, dizendo: Aos dez deste mês tome cada um para si um cordeiro, segundo as casas dos pais, um cordeiro para cada casa."
+            },
+            {
+                "id": "v12.4",
+                "versicle_number": 4,
+                "text": "Mas se a família for pequena para um cordeiro, então tome um só com seu vizinho perto de sua casa, conforme ao número das almas: conforme ao comer de cada um, fareis a conta para o cordeiro."
+            },
+            {
+                "id": "v12.5",
+                "versicle_number": 5,
+                "text": "O cordeiro, ou cabrito, será sem mácula, um macho de um ano, o qual tomareis das ovelhas ou das cabras,"
+            },
+            {
+                "id": "v12.6",
+                "versicle_number": 6,
+                "text": "E o guardareis até ao décimo quarto dia deste mês, e todo o ajuntamento da congregação de Israel o sacrificará à {note:n}tarde."
+            },
+            {
+                "id": "v12.7",
+                "versicle_number": 7,
+                "text": "E tomarão do sangue, e pô-lo-ão em ambas as ombreiras, e na verga da porta, nas casas em que o comerem."
+            },
+            {
+                "id": "v12.8",
+                "versicle_number": 8,
+                "text": "E naquela noite comerão a carne assada no fogo, com pães asmos; com ervas amargosas a comerão."
+            },
+            {
+                "id": "v12.9",
+                "versicle_number": 9,
+                "text": "Não comereis dele nada cru, nem cozido em água, senão assado ao fogo: a cabeça com os pés e com a fressura."
+            },
+            {
+                "id": "v12.10",
+                "versicle_number": 10,
+                "text": "E nada dele deixareis até amanhã: mas o que dele ficar até amanhã, queimareis no fogo."
+            },
+            {
+                "id": "v12.11",
+                "versicle_number": 11,
+                "text": "Assim pois o comereis: Os vossos lombos cingidos, os vossos sapatos nos pés, e o vosso cajado na mão: e o comereis apressadamente: esta é a páscoa do Senhor."
+            },
+            {
+                "id": "v12.12",
+                "versicle_number": 12,
+                "text": "E eu passarei pela terra do Egito esta noite, e ferirei todo o primogênito na terra do Egito, desde os homens até aos animais; e sobre todos os deuses do Egito farei juízos: Eu sou o Senhor."
+            },
+            {
+                "id": "v12.13",
+                "versicle_number": 13,
+                "text": "E aquele sangue vos será por sinal nas casas em que estiverdes; vendo eu sangue, passarei por cima de vós, e não haverá entre vós praga de mortandade, quando eu ferir a terra do Egito.{note:1}"
+            },
+            {
+                "id": "v12.14",
+                "versicle_number": 14,
+                "text": "E este dia vos será por memória, e celebrá-lo-eis por festa ao Senhor: nas vossas gerações o celebrareis por estatuto perpétuo."
+            },
+            {
+                "id": "v12.15",
+                "versicle_number": 15,
+                "text": "Sete dias comereis pães asmos: ao primeiro dia tirareis o fermento das vossas casas; porque qualquer que comer pão levedado, desde o primeiro até ao sétimo dia, aquela alma será cortada de Israel."
+            },
+            {
+                "id": "v12.16",
+                "versicle_number": 16,
+                "text": "E ao primeiro dia haverá santa convocação: também ao sétimo dia tereis santa convocação: nenhuma obra se fará neles, senão o que cada alma houver de comer; isso somente aprontareis para vós."
+            },
+            {
+                "id": "v12.17",
+                "versicle_number": 17,
+                "text": "Guardai pois a festa dos pães asmos, porque naquele mesmo dia tirei vossos exércitos da terra do Egito: pelo que guardareis este dia nas vossas gerações por estatuto perpétuo."
+            },
+            {
+                "id": "v12.18",
+                "versicle_number": 18,
+                "text": "No primeiro mês, aos catorze dias do mês, à tarde, comereis pães asmos até vinte e um do mês à tarde."
+            },
+            {
+                "id": "v12.19",
+                "versicle_number": 19,
+                "text": "Por sete dias não se ache nenhum fermento nas vossas casas; porque qualquer que comer pão levedado, aquela alma será cortada da congregação de Israel, assim o estrangeiro como o natural da terra."
+            },
+            {
+                "id": "v12.20",
+                "versicle_number": 20,
+                "text": "Nenhuma cousa levedada comereis; em todas as vossas habitações comereis pães asmos.{note:2}"
+            },
+            {
+                "id": "v12.21",
+                "versicle_number": 21,
+                "text": "Chamou pois Moisés a todos os anciãos de Israel, e disse-lhes: Escolhei e tomai vós cordeiros para vossas famílias, e sacrificai a páscoa."
+            },
+            {
+                "id": "v12.22",
+                "versicle_number": 22,
+                "text": "Então tomai um molho de hissopo, e molhai-o no sangue que estiver na bacia, e lançai na verga da porta, e em ambas as ombreiras, do sangue que estiver na bacia; porém nenhum de vós saia da porta da sua casa até à manhã."
+            },
+            {
+                "id": "v12.23",
+                "versicle_number": 23,
+                "text": "Porque o Senhor passará para ferir aos egípcios, porém quando vir o sangue na verga da porta, e em ambas as ombreiras, o Senhor passará aquela porta, e não deixará ao destruidor entrar em vossas casas para vos ferir."
+            },
+            {
+                "id": "v12.24",
+                "versicle_number": 24,
+                "text": "Portanto guardai isto por estatuto para vós e para vossos filhos, para sempre."
+            },
+            {
+                "id": "v12.25",
+                "versicle_number": 25,
+                "text": "E acontecerá que, quando entrardes na terra que o Senhor vos dará, como tem dito, guardareis este culto."
+            },
+            {
+                "id": "v12.26",
+                "versicle_number": 26,
+                "text": "E acontecerá que, quando vossos filhos vos disserem: Que culto é este vosso?"
+            },
+            {
+                "id": "v12.27",
+                "versicle_number": 27,
+                "text": "Então direis: Este é o sacrifício da páscoa ao Senhor,{note:3} que passou as casas dos filhos de Israel no Egito, quando feriu aos egípcios, e livrou as nossas casas. Então o povo inclinou-se, e adorou."
+            },
+            {
+                "id": "v12.28",
+                "versicle_number": 28,
+                "text": "E foram os filhos de Israel, e fizeram isso: como o Senhor ordenara a Moisés e a Aarão, assim fizeram."
+            },
+            {
+                "id": "v12.29",
+                "versicle_number": 29,
+                "text": "E aconteceu, à meia-noite, que o Senhor feriu a todos os primogênitos{note:4} na terra do Egito, desde o primogênito de Faraó, que se sentava em seu trono, até ao primogênito do cativo que estava no cárcere, e todos os primogênitos dos animais."
+            },
+            {
+                "id": "v12.30",
+                "versicle_number": 30,
+                "text": "E Faraó levantou-se de noite, ele e todos os seus servos, e todos os egípcios; e havia grande clamor no Egito, porque não havia casa em que não houvesse um morto."
+            },
+            {
+                "id": "v12.31",
+                "versicle_number": 31,
+                "text": "Então chamou a Moisés e a Aarão de noite, e disse: Levantai-vos, saí do meio do meu povo, tanto vós como os filhos de Israel; e ide, servi ao Senhor, como tendes dito."
+            },
+            {
+                "id": "v12.32",
+                "versicle_number": 32,
+                "text": "Levai também convosco vossas ovelhas e vossas vacas, como tendes dito; e ide, e abençoai-me também a mim."
+            },
+            {
+                "id": "v12.33",
+                "versicle_number": 33,
+                "text": "E os egípcios apertavam ao povo, apressando-se para lançá-los da terra; porque diziam: Todos seremos mortos."
+            },
+            {
+                "id": "v12.34",
+                "versicle_number": 34,
+                "text": "E o povo tomou a sua massa, antes que levedasse, e as suas amassadeiras atadas em seus vestidos, sobre seus ombros."
+            },
+            {
+                "id": "v12.35",
+                "versicle_number": 35,
+                "text": "Fizeram pois os filhos de Israel conforme à palavra de Moisés, e pediram aos egípcios {note:o}vasos de prata, e {note:p}vasos de ouro, e vestidos."
+            },
+            {
+                "id": "v12.36",
+                "versicle_number": 36,
+                "text": "E o Senhor deu graça ao povo em os olhos dos egípcios, e {note:q}emprestavam-lhes e eles despojavam aos egípcios.{note:5}"
+            },
+            {
+                "id": "v12.37",
+                "versicle_number": 37,
+                "text": "Assim partiram os filhos de Israel de Ramessés para Sucote, cousa de seiscentos mil de pé, somente de varões, sem contar os meninos."
+            },
+            {
+                "id": "v12.38",
+                "versicle_number": 38,
+                "text": "E subiu também com eles uma mistura de gente, e ovelhas, e vacas, uma grande multidão de gado."
+            },
+            {
+                "id": "v12.39",
+                "versicle_number": 39,
+                "text": "E cozeram bolos asmos da massa que levaram do Egito porque não se tinha levedado, porquanto foram lançados do Egito; e não se puderam deter, nem prepararam comida."
+            },
+            {
+                "id": "v12.40",
+                "versicle_number": 40,
+                "text": "O tempo que os filhos de Israel habitaram no Egito foi de quatrocentos e trinta anos.{note:6}"
+            },
+            {
+                "id": "v12.41",
+                "versicle_number": 41,
+                "text": "E aconteceu que, passados os quatrocentos e trinta anos, naquele mesmo dia, todos os exércitos do Senhor saíram da terra do Egito."
+            },
+            {
+                "id": "v12.42",
+                "versicle_number": 42,
+                "text": "Esta noite se guardará ao Senhor, porque nela os tirou da terra do Egito: esta é a noite do Senhor, que devem guardar todos os filhos de Israel nas suas gerações."
+            },
+            {
+                "id": "v12.43",
+                "versicle_number": 43,
+                "text": "Disse mais o Senhor a Moisés e a Aarão: Esta é a ordenança da páscoa; nenhum filho do estrangeiro comerá dela."
+            },
+            {
+                "id": "v12.44",
+                "versicle_number": 44,
+                "text": "Porém todo o servo de qualquer, comprado por dinheiro, depois que o houveres circuncidado então comerá dela."
+            },
+            {
+                "id": "v12.45",
+                "versicle_number": 45,
+                "text": "O estrangeiro e o assalariado não comerão dela."
+            },
+            {
+                "id": "v12.46",
+                "versicle_number": 46,
+                "text": "Numa casa se comerá; não levarás daquela carne fora da casa, nem dela quebrareis osso.{note:7}"
+            },
+            {
+                "id": "v12.47",
+                "versicle_number": 47,
+                "text": "Toda a congregação de Israel o fará."
+            },
+            {
+                "id": "v12.48",
+                "versicle_number": 48,
+                "text": "Porém se algum estrangeiro se hospedar contigo, e quiser celebrar a páscoa ao Senhor, seja-lhe circuncidado todo o macho, e então chegará a celebrá-la, e será como o natural da terra; mas nenhum incircunciso comerá dela."
+            },
+            {
+                "id": "v12.49",
+                "versicle_number": 49,
+                "text": "Uma mesma lei haja para o natural, e para o estrangeiro que peregrinar entre vós."
+            },
+            {
+                "id": "v12.50",
+                "versicle_number": 50,
+                "text": "E todos os filhos de Israel o fizeram: como o Senhor ordenara a Moisés e a Aarão, assim fizeram."
+            },
+            {
+                "id": "v12.51",
+                "versicle_number": 51,
+                "text": "E aconteceu naquele mesmo dia que o Senhor tirou os filhos de Israel da terra do Egito, segundo os seus exércitos."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v12.29",
+                "text": "A morte dos primogênitos"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v12.37",
+                "text": "A saída dos israelitas do Egito"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:n} 12.6 Heb. entre as duas tardes"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 12.1-13 Lv 23.5; Nm 9.1-5; 28.16; Dt 16.1-2"
+            },
+            {
+                "id": "n3",
+                "text": "{note:2} 12.14-20 Êx 23.15; 34.18; Lv 23.6-8; Nm 28.17-25; Dt 16.3-8"
+            },
+            {
+                "id": "n4",
+                "text": "{note:3} 12.27 Hb 11.28"
+            },
+            {
+                "id": "n5",
+                "text": "{note:4} 12.29 Êx 4.22-23"
+            },
+            {
+                "id": "n6",
+                "text": "{note:o} 12.35 ou joias {note:p} 12.35 ou joias"
+            },
+            {
+                "id": "n7",
+                "text": "{note:q} 12.36 Heb. davam-lhes o que lhes pediam {note:5} 12.35-36 Êx 3.21-22"
+            },
+            {
+                "id": "n8",
+                "text": "{note:6} 12.40 Gn 15.13; Gl 3.17"
+            },
+            {
+                "id": "n9",
+                "text": "{note:7} 12.46 Nm 9.12; Sl 34.20; Jo 19.36"
+            }
+        ]
+    }
+}

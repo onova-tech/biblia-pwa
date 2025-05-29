@@ -1,0 +1,111 @@
+{
+    "book": {
+        "id": "Ed",
+        "book_number": 15,
+        "new_testament": false,
+        "num_chapters": 10,
+        "book_name": "ESDRAS",
+        "book_full_name": "O LIVRO DE ESDRAS"
+    },
+    "chapter": {
+        "chapter_number": 3,
+        "chapter_reference": "",
+        "chapter_title": "É levantado o altar",
+        "versicles": [
+            {
+                "id": "v3.1",
+                "versicle_number": 1,
+                "text": "CHEGANDO pois o sétimo mês, e estando os filhos de Israel já nas cidades, se ajuntou o povo, como um só homem, em Jerusalém."
+            },
+            {
+                "id": "v3.2",
+                "versicle_number": 2,
+                "text": "E levantou-se Jesua filho de Josadaque, e seus irmãos, os sacerdotes, e Zorobabel, filho de Sealtiel, e seus irmãos, e edificaram o altar{note:1} do Deus de Israel, para oferecerem sobre ele holocaustos, como está escrito na lei de Moisés, o homem de Deus."
+            },
+            {
+                "id": "v3.3",
+                "versicle_number": 3,
+                "text": "E firmaram o altar sobre as suas bases, porque o terror estava sobre eles, por causa dos povos das terras: e ofereceram sobre ele holocaustos ao Senhor, holocaustos de manhã e de tarde."
+            },
+            {
+                "id": "v3.4",
+                "versicle_number": 4,
+                "text": "E celebraram a festa dos tabernáculos{note:2} como está escrito: ofereceram holocaustos de dia em dia, por ordem, conforme ao rito, cada cousa no seu dia."
+            },
+            {
+                "id": "v3.5",
+                "versicle_number": 5,
+                "text": "E depois disto o holocausto contínuo,{note:3} e os das luas novas e de todas as solenidades consagradas ao Senhor; como também de qualquer que oferecia oferta voluntária ao Senhor:"
+            },
+            {
+                "id": "v3.6",
+                "versicle_number": 6,
+                "text": "Desde o primeiro dia do sétimo mês começaram a oferecer holocaustos ao Senhor: porém ainda não estavam postos os fundamentos do templo do Senhor."
+            },
+            {
+                "id": "v3.7",
+                "versicle_number": 7,
+                "text": "Deram pois o dinheiro aos {note:b}cortadores e artífices, como também comida e bebida, e azeite aos sidônios, e aos tírios, para trazerem do Líbano madeira de cedro ao mar, para Jope, segundo a concessão que lhes tinha feito Ciro, rei da Pérsia."
+            },
+            {
+                "id": "v3.8",
+                "versicle_number": 8,
+                "text": "E no segundo ano da sua vinda à casa de Deus em Jerusalém, no segundo mês, começaram Zorobabel, filho de Sealtiel, e Jesua, filho de Josadaque, e os outros seus irmãos, os sacerdotes e os levitas, e todos os que vieram do cativeiro a Jerusalém, e constituíram levitas da idade de vinte anos e daí para cima, para que aviassem a obra da casa do Senhor."
+            },
+            {
+                "id": "v3.9",
+                "versicle_number": 9,
+                "text": "Então se levantou Jesua, seus filhos, e seus irmãos, Cadmiel e seus filhos, os filhos de Judá, como um só homem, para vigiarem os que faziam a obra na casa de Deus, os filhos de Henadade, seus filhos e seus irmãos, os levitas."
+            },
+            {
+                "id": "v3.10",
+                "versicle_number": 10,
+                "text": "Quando pois os edificadores lançaram os alicerces do templo do Senhor, então apresentaram-se os sacerdotes, já revestidos e com trombetas, e os levitas, filhos de Asafe,{note:4} com saltérios, para louvarem ao Senhor, conforme à instituição de Davi, rei de Israel."
+            },
+            {
+                "id": "v3.11",
+                "versicle_number": 11,
+                "text": "E cantavam a revezes, louvando e celebrando ao Senhor; porque é bom; porque a sua benignidade dura para sempre sobre Israel. E todo o povo jubilou com grande júbilo, quando louvaram ao Senhor, pela fundação da casa do Senhor."
+            },
+            {
+                "id": "v3.12",
+                "versicle_number": 12,
+                "text": "Porém muitos dos sacerdotes, e levitas e chefes dos pais, já velhos, que viram a primeira casa, sobre o seu fundamento, vendo perante os seus olhos esta casa, choraram em altas vozes; mas muitos levantaram as vozes com júbilo e com alegria."
+            },
+            {
+                "id": "v3.13",
+                "versicle_number": 13,
+                "text": "De maneira que não discernia o povo as vozes de alegria das vozes do choro do povo; porque o povo jubilava com tão grande júbilo que as vozes se ouviam de mui longe."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v3.8",
+                "text": "São postos alicerces do templo"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 3.2 Êx 27.1"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 3.4 Nm 29.12-38"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 3.5 Nm 28.1—29.11"
+            },
+            {
+                "id": "n4",
+                "text": "{note:b} 3.7 ou pedreiros"
+            },
+            {
+                "id": "n5",
+                "text": "{note:4} 3.10 1Cr 25.1"
+            }
+        ]
+    }
+}

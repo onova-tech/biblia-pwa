@@ -1,0 +1,101 @@
+{
+    "book": {
+        "id": "Is",
+        "book_number": 23,
+        "new_testament": false,
+        "num_chapters": 66,
+        "book_name": "ISAÍAS",
+        "book_full_name": "ISAÍAS"
+    },
+    "chapter": {
+        "chapter_number": 6,
+        "chapter_reference": "",
+        "chapter_title": "Isaías é escolhido e consagrado para profeta",
+        "versicles": [
+            {
+                "id": "v6.1",
+                "versicle_number": 1,
+                "text": "NO ano em que morreu o rei Uzias,{note:1} eu vi ao Senhor assentado sobre um alto e sublime trono; e o seu séquito enchia o templo."
+            },
+            {
+                "id": "v6.2",
+                "versicle_number": 2,
+                "text": "Os serafins estavam acima dele; cada um tinha seis asas: com duas cobriam os seus rostos, e com duas cobriam os seus pés e com duas voavam."
+            },
+            {
+                "id": "v6.3",
+                "versicle_number": 3,
+                "text": "E clamavam uns para os outros, dizendo: Santo, Santo, Santo é o Senhor dos Exércitos: toda a terra está cheia da sua glória.{note:2}"
+            },
+            {
+                "id": "v6.4",
+                "versicle_number": 4,
+                "text": "E os umbrais das portas se moveram com a voz do que clamava, e a casa se encheu de fumo.{note:3}"
+            },
+            {
+                "id": "v6.5",
+                "versicle_number": 5,
+                "text": "Então disse eu: Ai de mim, que vou perecendo! porque eu sou um homem de lábios impuros, e habito no meio de um povo de impuros lábios: e os meus olhos viram o rei, o Senhor dos Exércitos!"
+            },
+            {
+                "id": "v6.6",
+                "versicle_number": 6,
+                "text": "Mas um dos serafins voou para mim trazendo na sua mão uma brasa viva, que tirara do altar com uma tenaz;"
+            },
+            {
+                "id": "v6.7",
+                "versicle_number": 7,
+                "text": "E com ela tocou a minha boca, e disse: Eis que isto tocou os teus lábios; e a tua iniquidade foi tirada, e purificado o teu pecado."
+            },
+            {
+                "id": "v6.8",
+                "versicle_number": 8,
+                "text": "Depois disto ouvi a voz do Senhor, que dizia: A quem enviarei, e quem há de ir por nós? Então disse eu: Eis-me aqui, envia-me a mim."
+            },
+            {
+                "id": "v6.9",
+                "versicle_number": 9,
+                "text": "Então disse ele: Vai, e dize a este povo: Ouvis, de fato, e não entendeis, e vedes, em verdade, mas não percebeis."
+            },
+            {
+                "id": "v6.10",
+                "versicle_number": 10,
+                "text": "Engorda o coração deste povo, e endurece-lhe os ouvidos, e fecha-lhe os olhos; não venha ele a ver com os seus olhos e a ouvir com os seus ouvidos, e a entender com o seu coração, e a converter-se, e a ser sarado.{note:4}"
+            },
+            {
+                "id": "v6.11",
+                "versicle_number": 11,
+                "text": "Então disse eu: Até quando, Senhor? E respondeu: Até que se assolem as cidades, e fiquem sem habitantes, e nas casas não fique morador, e a terra seja assolada de todo."
+            },
+            {
+                "id": "v6.12",
+                "versicle_number": 12,
+                "text": "E o Senhor afaste dela os homens e no meio da terra seja grande o desamparo."
+            },
+            {
+                "id": "v6.13",
+                "versicle_number": 13,
+                "text": "Mas se ainda a décima parte dela ficar, tornará a ser pastada: como o carvalho, e como a azinheira, que, depois de se desfolharem, ainda ficam firmes, assim a santa semente será a firmeza dela."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 6.1 2Rs 15.7; 2Cr 26.23"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 6.2-3 Ap 4.8"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 6.4 Ap 15.8"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 6.9-10 Mt 13.14-15; Mc 4.12; Lc 8.10; Jo 12.40; At 28.26-27"
+            }
+        ]
+    }
+}

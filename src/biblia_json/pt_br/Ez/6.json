@@ -1,0 +1,94 @@
+{
+    "book": {
+        "id": "Ez",
+        "book_number": 26,
+        "new_testament": false,
+        "num_chapters": 48,
+        "book_name": "EZEQUIEL",
+        "book_full_name": "EZEQUIEL"
+    },
+    "chapter": {
+        "chapter_number": 6,
+        "chapter_reference": "",
+        "chapter_title": "Profecia contra os montes de Israel",
+        "versicles": [
+            {
+                "id": "v6.1",
+                "versicle_number": 1,
+                "text": "E VEIO a mim a palavra do Senhor, dizendo:"
+            },
+            {
+                "id": "v6.2",
+                "versicle_number": 2,
+                "text": "Filho do homem, dirige o teu rosto para os montes de Israel; e profetiza contra eles."
+            },
+            {
+                "id": "v6.3",
+                "versicle_number": 3,
+                "text": "E dirás: Montes de Israel, ouvi a palavra do Senhor JEOVÁ: Assim diz o Senhor JEOVÁ aos montes, aos outeiros, aos ribeiros e aos vales: Eis que eu, sim eu, trarei a espada sobre vós, e destruirei os vossos altos."
+            },
+            {
+                "id": "v6.4",
+                "versicle_number": 4,
+                "text": "E serão assolados os vossos altares, e quebradas as vossas imagens do sol, e derribarei os vossos traspassados, diante dos vossos ídolos."
+            },
+            {
+                "id": "v6.5",
+                "versicle_number": 5,
+                "text": "E porei os cadáveres dos filhos de Israel diante dos seus ídolos; e espalharei os vossos ossos em redor dos vossos altares."
+            },
+            {
+                "id": "v6.6",
+                "versicle_number": 6,
+                "text": "Em todos os vossos lugares habitáveis as cidades serão destruídas, e os altos assolados; para que os vossos altares sejam destruídos e assolados, e os vossos ídolos se quebrem e cessem, e as vossas imagens do sol sejam cortadas, e desfeitas as vossas obras."
+            },
+            {
+                "id": "v6.7",
+                "versicle_number": 7,
+                "text": "E os traspassados cairão no meio de vós; para que saibais que eu sou o Senhor."
+            },
+            {
+                "id": "v6.8",
+                "versicle_number": 8,
+                "text": "Mas deixarei um resto, para que haja alguns que escapem da espada entre as nações, quando fordes espalhados pelas terras."
+            },
+            {
+                "id": "v6.9",
+                "versicle_number": 9,
+                "text": "Então se lembrarão de mim os que de vós escaparem entre as nações para onde foram levados em cativeiro; porquanto {note:h}me quebrantei por causa do seu coração corrompido, que se desviou de mim, e por causa dos seus olhos, que se andaram corrompendo após os seus ídolos; e terão nojo de si mesmos, por causa das maldades que fizeram em todas as suas abominações."
+            },
+            {
+                "id": "v6.10",
+                "versicle_number": 10,
+                "text": "E saberão que eu, o Senhor, não disse debalde que lhes faria este mal."
+            },
+            {
+                "id": "v6.11",
+                "versicle_number": 11,
+                "text": "Assim diz o Senhor JEOVÁ: Bate com a mão, e bate com o teu pé, e dize: Ah! por todas as abominações das maldades da casa de Israel! porque cairão à espada, e de fome, e de peste."
+            },
+            {
+                "id": "v6.12",
+                "versicle_number": 12,
+                "text": "O que estiver longe morrerá de peste, e o que está perto cairá à espada; e o que ficar de resto e cercado morrerá de fome; e cumprirei o meu furor contra eles."
+            },
+            {
+                "id": "v6.13",
+                "versicle_number": 13,
+                "text": "Então sabereis que eu sou o Senhor, quando estiverem os seus traspassados no meio dos seus ídolos, em redor dos seus altares, em todo o outeiro alto, em todos os cumes dos montes, e debaixo de toda a árvore verde, e debaixo de todo o carvalho espesso, no lugar onde ofereciam suave perfume a todos os seus ídolos."
+            },
+            {
+                "id": "v6.14",
+                "versicle_number": 14,
+                "text": "E estenderei a minha mão sobre eles, e farei a terra assolada, e mais assolada do que o deserto da banda de Diblá, em todas as suas habitações; e saberão que eu sou o Senhor."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:h} 6.9 ou quebrantei eu o seu coração adúltero"
+            }
+        ]
+    }
+}

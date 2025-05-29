@@ -1,0 +1,84 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 21,
+        "chapter_reference": "",
+        "chapter_title": "Davi louva a Deus pela vitória",
+        "versicles": [
+            {
+                "id": "v21.1",
+                "versicle_number": 1,
+                "text": "O REI se alegra em tua força, Senhor; e na tua salvação grandemente se regozija."
+            },
+            {
+                "id": "v21.2",
+                "versicle_number": 2,
+                "text": "Cumpriste-lhe o desejo do seu coração, e não desatendeste as súplicas dos seus lábios. (Selá.)"
+            },
+            {
+                "id": "v21.3",
+                "versicle_number": 3,
+                "text": "Pois o provês das bênçãos de bondade; pões na sua cabeça uma coroa de ouro fino."
+            },
+            {
+                "id": "v21.4",
+                "versicle_number": 4,
+                "text": "Vida te pediu, e lha deste, mesmo longura de dias para sempre e eternamente."
+            },
+            {
+                "id": "v21.5",
+                "versicle_number": 5,
+                "text": "Grande é a sua glória pela tua salvação; de honra e de majestade o revestiste."
+            },
+            {
+                "id": "v21.6",
+                "versicle_number": 6,
+                "text": "Pois o abençoaste para sempre: tu o enches de gozo com a tua face."
+            },
+            {
+                "id": "v21.7",
+                "versicle_number": 7,
+                "text": "Porque o rei confia no Senhor, e pela misericórdia do Altíssimo nunca vacilará."
+            },
+            {
+                "id": "v21.8",
+                "versicle_number": 8,
+                "text": "A tua mão alcançará todos os teus inimigos, a tua mão direita alcançará aqueles que te aborrecem."
+            },
+            {
+                "id": "v21.9",
+                "versicle_number": 9,
+                "text": "Tu os farás como um forno aceso quando te manifestares; o Senhor os devorará na sua indignação, e o fogo os consumirá."
+            },
+            {
+                "id": "v21.10",
+                "versicle_number": 10,
+                "text": "Seu fruto destruirás da terra, e a sua descendência dentre os filhos dos homens."
+            },
+            {
+                "id": "v21.11",
+                "versicle_number": 11,
+                "text": "Porque intentaram o mal contra ti; maquinaram um ardil, mas não prevalecerão."
+            },
+            {
+                "id": "v21.12",
+                "versicle_number": 12,
+                "text": "Portanto tu lhes farás voltar as costas; e com tuas frechas postas nas cordas lhes apontarás ao rosto."
+            },
+            {
+                "id": "v21.13",
+                "versicle_number": 13,
+                "text": "Exalta-te, Senhor, na tua força; então cantaremos e louvaremos o teu poder."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

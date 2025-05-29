@@ -1,0 +1,164 @@
+{
+    "book": {
+        "id": "Pv",
+        "book_number": 20,
+        "new_testament": false,
+        "num_chapters": 31,
+        "book_name": "PROVÉRBIOS",
+        "book_full_name": "DE SALOMÃO PROVÉRBIOS"
+    },
+    "chapter": {
+        "chapter_number": 17,
+        "chapter_reference": "",
+        "chapter_title": "",
+        "versicles": [
+            {
+                "id": "v17.1",
+                "versicle_number": 1,
+                "text": "MELHOR é um bocado seco e com ele a tranquilidade, do que a casa cheia de vítimas, com contenda."
+            },
+            {
+                "id": "v17.2",
+                "versicle_number": 2,
+                "text": "O servo prudente dominará sobre o filho que procede indignamente; e entre os irmãos repartirá a herança."
+            },
+            {
+                "id": "v17.3",
+                "versicle_number": 3,
+                "text": "O crisol é para a prata, e o forno para o ouro; mas o Senhor prova os corações."
+            },
+            {
+                "id": "v17.4",
+                "versicle_number": 4,
+                "text": "O malfazejo atenta para o lábio, iníquo: o mentiroso inclina os ouvidos para a língua maligna."
+            },
+            {
+                "id": "v17.5",
+                "versicle_number": 5,
+                "text": "O que escarnece do pobre insulta ao que o criou: o que se alegra da calamidade não ficará impune."
+            },
+            {
+                "id": "v17.6",
+                "versicle_number": 6,
+                "text": "Coroa dos velhos são os filhos dos filhos; e a glória dos filhos são seus pais."
+            },
+            {
+                "id": "v17.7",
+                "versicle_number": 7,
+                "text": "Não convém ao tolo a fala excelente: quanto menos ao príncipe o lábio mentiroso!"
+            },
+            {
+                "id": "v17.8",
+                "versicle_number": 8,
+                "text": "Pedra preciosa é o presente aos olhos dos que o recebem; para onde quer que se volte, servirá de proveito."
+            },
+            {
+                "id": "v17.9",
+                "versicle_number": 9,
+                "text": "O que encobre a transgressão busca a amizade, mas o que renova a questão separa os maiores amigos."
+            },
+            {
+                "id": "v17.10",
+                "versicle_number": 10,
+                "text": "Mais profundamente entra a repreensão no prudente, do que cem açoites no tolo."
+            },
+            {
+                "id": "v17.11",
+                "versicle_number": 11,
+                "text": "Na verdade o rebelde não busca senão o mal, mas mensageiro cruel se enviará contra ele."
+            },
+            {
+                "id": "v17.12",
+                "versicle_number": 12,
+                "text": "Encontre-se com o homem a ursa à qual roubaram os filhos; mas não o louco na sua estultícia."
+            },
+            {
+                "id": "v17.13",
+                "versicle_number": 13,
+                "text": "Quanto àquele que torna mal por bem, não se apartará o mal da sua casa."
+            },
+            {
+                "id": "v17.14",
+                "versicle_number": 14,
+                "text": "Como o soltar as águas, é o princípio da contenda; deixa por isso a porfia, antes que sejas envolvido."
+            },
+            {
+                "id": "v17.15",
+                "versicle_number": 15,
+                "text": "O que justifica o ímpio, e o que condena o justo, abomináveis são para o Senhor, tanto um como o outro."
+            },
+            {
+                "id": "v17.16",
+                "versicle_number": 16,
+                "text": "De que serviria o preço na mão do tolo para comprar a sabedoria, visto que não tem entendimento?"
+            },
+            {
+                "id": "v17.17",
+                "versicle_number": 17,
+                "text": "Em todo o tempo ama o amigo; e na angústia nasce o irmão."
+            },
+            {
+                "id": "v17.18",
+                "versicle_number": 18,
+                "text": "O homem falto de entendimento dá a mão, ficando por fiador do seu companheiro."
+            },
+            {
+                "id": "v17.19",
+                "versicle_number": 19,
+                "text": "O que ama a contenda ama a transgressão; o que alça a sua porta busca a ruína."
+            },
+            {
+                "id": "v17.20",
+                "versicle_number": 20,
+                "text": "O perverso de coração nunca achará o bem; e o que tem a língua dobre virá a cair no mal."
+            },
+            {
+                "id": "v17.21",
+                "versicle_number": 21,
+                "text": "O que gera um tolo, para sua tristeza o faz; e o pai do insensato não se alegrará."
+            },
+            {
+                "id": "v17.22",
+                "versicle_number": 22,
+                "text": "O coração alegre serve de bom remédio, mas o espírito abatido virá a secar os ossos."
+            },
+            {
+                "id": "v17.23",
+                "versicle_number": 23,
+                "text": "O ímpio tira o presente do seio, para perverter as veredas da justiça."
+            },
+            {
+                "id": "v17.24",
+                "versicle_number": 24,
+                "text": "No rosto do entendido se vê a sabedoria, mas os olhos do louco estão nas extremidades da terra."
+            },
+            {
+                "id": "v17.25",
+                "versicle_number": 25,
+                "text": "O filho insensato é tristeza para seu pai, e amargura para quem o deu à luz."
+            },
+            {
+                "id": "v17.26",
+                "versicle_number": 26,
+                "text": "Não é bom também punir o justo nem ferirem os príncipes ao que obra justamente."
+            },
+            {
+                "id": "v17.27",
+                "versicle_number": 27,
+                "text": "Retém as suas palavras o que possui o conhecimento, e o homem de entendimento é de {note:m}precioso espírito."
+            },
+            {
+                "id": "v17.28",
+                "versicle_number": 28,
+                "text": "Até o tolo quando se cala será reputado por sábio; e o que cerrar os seus lábios por entendido."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:m} 17.27 ou plácido"
+            }
+        ]
+    }
+}

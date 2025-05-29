@@ -1,0 +1,240 @@
+{
+    "book": {
+        "id": "Jr",
+        "book_number": 24,
+        "new_testament": false,
+        "num_chapters": 52,
+        "book_name": "JEREMIAS",
+        "book_full_name": "JEREMIAS"
+    },
+    "chapter": {
+        "chapter_number": 31,
+        "chapter_reference": "",
+        "chapter_title": "",
+        "versicles": [
+            {
+                "id": "v31.1",
+                "versicle_number": 1,
+                "text": "NAQUELE tempo, diz o Senhor, serei o Deus de todas as gerações de Israel, e elas serão o meu povo."
+            },
+            {
+                "id": "v31.2",
+                "versicle_number": 2,
+                "text": "Assim diz o Senhor: O povo que escapou da espada achou graça no deserto; Israel mesmo, quando eu o fizer descansar."
+            },
+            {
+                "id": "v31.3",
+                "versicle_number": 3,
+                "text": "Há muito que o Senhor me apareceu, dizendo: Pois que com amor eterno te amei, também com amorável benignidade te atraí."
+            },
+            {
+                "id": "v31.4",
+                "versicle_number": 4,
+                "text": "Ainda te edificarei, e serás edificada, ó virgem de Israel! ainda serás adornada com os teus adufes, e sairás com o coro dos que dançam."
+            },
+            {
+                "id": "v31.5",
+                "versicle_number": 5,
+                "text": "Ainda plantarás vinhas nos montes de Samaria: os plantadores plantarão e gozarão dos frutos."
+            },
+            {
+                "id": "v31.6",
+                "versicle_number": 6,
+                "text": "Porque haverá um dia em que gritarão os vigias sobre o monte de Efraim: Levantai-vos, e subamos a Sião, ao Senhor nosso Deus."
+            },
+            {
+                "id": "v31.7",
+                "versicle_number": 7,
+                "text": "Porque assim diz o Senhor: Cantai sobre Jacó com alegria, e exultai por causa do Chefe das gentes; proclamai, cantai louvores, e dizei: Salva, Senhor, o teu povo, o resto de Israel."
+            },
+            {
+                "id": "v31.8",
+                "versicle_number": 8,
+                "text": "Eis que os trarei da terra do norte, e os congregarei das extremidades da terra; e com eles os cegos e aleijados, as mulheres grávidas e as de parto juntamente: em grande congregação voltarão para aqui."
+            },
+            {
+                "id": "v31.9",
+                "versicle_number": 9,
+                "text": "Virão com choro, e com súplicas os levarei; guiá-los-ei aos ribeiros de águas, por caminho direito em que não tropeçarão; porque sou um pai para Israel, e Efraim é o meu primogênito."
+            },
+            {
+                "id": "v31.10",
+                "versicle_number": 10,
+                "text": "Ouvi a palavra do Senhor, ó nações, e anunciai-a nas ilhas de longe, e dizei: Aquele que espalhou a Israel o congregará e o guardará, como o pastor ao seu rebanho."
+            },
+            {
+                "id": "v31.11",
+                "versicle_number": 11,
+                "text": "Porque o Senhor resgatou a Jacó, e o livrou da mão do que era mais forte do que ele."
+            },
+            {
+                "id": "v31.12",
+                "versicle_number": 12,
+                "text": "Assim que virão, e exultarão na altura de Sião, e correrão aos bens do Senhor, ao trigo, e ao mosto, e ao azeite, aos cordeiros e aos bezerros; e a sua alma será como um jardim regado, e nunca mais andarão tristes."
+            },
+            {
+                "id": "v31.13",
+                "versicle_number": 13,
+                "text": "Então a virgem se alegrará na dança, e também os mancebos e os velhos; e tornarei o seu pranto em alegria, e os consolarei, e transformarei em regozijo a sua tristeza."
+            },
+            {
+                "id": "v31.14",
+                "versicle_number": 14,
+                "text": "E saciarei a alma dos sacerdotes de gordura, e o meu povo se fartará dos meus bens, diz o Senhor."
+            },
+            {
+                "id": "v31.15",
+                "versicle_number": 15,
+                "text": "Assim diz o Senhor: Uma voz{note:1} se ouviu em Ramá, lamentação, choro amargo: Raquel{note:2} chora seus filhos, sem admitir consolação por eles, porque já não existem."
+            },
+            {
+                "id": "v31.16",
+                "versicle_number": 16,
+                "text": "Assim diz o Senhor: Reprime a tua voz de choro, e as lágrimas de teus olhos: porque há galardão para o teu trabalho, diz o Senhor, pois eles voltarão da terra do inimigo."
+            },
+            {
+                "id": "v31.17",
+                "versicle_number": 17,
+                "text": "E há esperanças no derradeiro fim para os teus descendentes, diz o Senhor, porque teus filhos voltarão para os seus termos."
+            },
+            {
+                "id": "v31.18",
+                "versicle_number": 18,
+                "text": "Bem ouvi eu que Efraim se queixava, dizendo: Castigaste-me e fui castigado, como novilho ainda não domado: converte-me, e converter-me-ei, porque tu és o Senhor meu Deus."
+            },
+            {
+                "id": "v31.19",
+                "versicle_number": 19,
+                "text": "Na verdade que, depois que me converti, tive arrependimento; e depois que me conheci, bati na minha coxa: fiquei confuso; sim, envergonhei-me, porque suportei o opróbrio da minha mocidade."
+            },
+            {
+                "id": "v31.20",
+                "versicle_number": 20,
+                "text": "Não é Efraim para mim um filho precioso? criança das minhas delícias? porque depois que falo contra ele, ainda me lembro dele solicitamente; por isso se comovem por ele as minhas entranhas: deveras me compadecerei dele, diz o Senhor."
+            },
+            {
+                "id": "v31.21",
+                "versicle_number": 21,
+                "text": "Ergue para ti marcos, levanta para ti pirâmides, aplica o teu coração à vereda, ao caminho em que andaste: regressa, ó virgem de Israel, regressa a estas tuas cidades."
+            },
+            {
+                "id": "v31.22",
+                "versicle_number": 22,
+                "text": "Até quando andarás vagabunda, ó filha rebelde? porque o Senhor criou uma cousa nova na terra: uma mulher cercará um varão."
+            },
+            {
+                "id": "v31.23",
+                "versicle_number": 23,
+                "text": "Assim diz o Senhor dos Exércitos, o Deus de Israel: Ainda dirão esta palavra na terra de Judá, e nas suas cidades, quando eu acabar o seu cativeiro: O Senhor te abençoe, ó morada de justiça, ó monte de santidade!"
+            },
+            {
+                "id": "v31.24",
+                "versicle_number": 24,
+                "text": "E nela habitarão Judá, e todas as suas cidades juntamente; como também os lavradores e os que andam com o rebanho."
+            },
+            {
+                "id": "v31.25",
+                "versicle_number": 25,
+                "text": "Porque satisfiz a alma cansada, e toda a alma entristecida saciei."
+            },
+            {
+                "id": "v31.26",
+                "versicle_number": 26,
+                "text": "Sobre isto despertei, e olhei, e o meu sono foi doce para mim."
+            },
+            {
+                "id": "v31.27",
+                "versicle_number": 27,
+                "text": "Eis que dias vêm, diz o Senhor, em que semearei a casa de Israel, e a casa de Judá, com a semente de homens, e com a semente de animais."
+            },
+            {
+                "id": "v31.28",
+                "versicle_number": 28,
+                "text": "E será que, como velei sobre eles, para arrancar, e para derribar, e para transtornar, e para destruir, e para afligir, assim velarei sobre eles, para edificar e para plantar, diz o Senhor."
+            },
+            {
+                "id": "v31.29",
+                "versicle_number": 29,
+                "text": "Naqueles dias nunca mais dirão: Os pais comeram{note:3} uvas verdes, e os dentes dos filhos se embotaram."
+            },
+            {
+                "id": "v31.30",
+                "versicle_number": 30,
+                "text": "Mas cada um morrerá pela sua iniquidade: de todo o homem que comer as uvas verdes os dentes se embotarão."
+            },
+            {
+                "id": "v31.31",
+                "versicle_number": 31,
+                "text": "Eis que dias vêm, diz o Senhor, em que farei um concerto{note:4} novo com a casa de Israel e com a casa de Judá."
+            },
+            {
+                "id": "v31.32",
+                "versicle_number": 32,
+                "text": "Não conforme o concerto que fiz com seus pais, no dia em que os tomei pela mão, para os tirar da terra do Egito; porquanto eles invalidaram o meu concerto, apesar de eu os haver desposado, diz o Senhor."
+            },
+            {
+                "id": "v31.33",
+                "versicle_number": 33,
+                "text": "Mas este é o concerto{note:5} que farei com a casa de Israel depois daqueles dias, diz o Senhor: Porei a minha lei no seu interior, e a escreverei no seu coração; e eu serei o seu Deus e eles serão o meu povo."
+            },
+            {
+                "id": "v31.34",
+                "versicle_number": 34,
+                "text": "E não ensinará alguém mais a seu próximo nem alguém a seu irmão, dizendo: Conhecei ao Senhor: porque todos me conhecerão, desde o mais pequeno deles até ao maior, diz o Senhor; porque lhes perdoarei a sua maldade, e nunca mais me lembrarei dos seus pecados.{note:6}"
+            },
+            {
+                "id": "v31.35",
+                "versicle_number": 35,
+                "text": "Assim diz o Senhor, que dá o sol para luz do dia, e as ordenanças da lua e das estrelas para luz da noite, que fende o mar, e faz bramir as suas ondas; o Senhor dos Exércitos é o seu nome."
+            },
+            {
+                "id": "v31.36",
+                "versicle_number": 36,
+                "text": "Se se desviarem estas ordenanças de diante de mim, diz o Senhor, deixará também a semente de Israel de ser uma nação diante de mim para sempre."
+            },
+            {
+                "id": "v31.37",
+                "versicle_number": 37,
+                "text": "Assim disse o Senhor: Se puderem ser medidos os céus para cima, e sondados os fundamentos da terra para baixo, também eu rejeitarei toda a semente de Israel, por tudo quanto fizeram, diz o Senhor."
+            },
+            {
+                "id": "v31.38",
+                "versicle_number": 38,
+                "text": "Eis que dias vêm, diz o Senhor, em que esta cidade será reedificada para o Senhor, desde a torre de Hananeel até à porta da esquina."
+            },
+            {
+                "id": "v31.39",
+                "versicle_number": 39,
+                "text": "E a linha de medir estender-se-á para diante, até ao outeiro de Garebe, e virar-se-á para Goá."
+            },
+            {
+                "id": "v31.40",
+                "versicle_number": 40,
+                "text": "E todo o vale dos cadáveres e da cinza e todos os campos até ao ribeiro de Cedrom, até à esquina da porta dos cavalos para o oriente, serão consagrados ao Senhor; não se arrancarão nem se derribarão mais eternamente."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 31.15 Mt 2.18 {note:2} 31.15 Gn 35.16-19"
+            },
+            {
+                "id": "n2",
+                "text": "{note:3} 31.29 Ez 18.2"
+            },
+            {
+                "id": "n3",
+                "text": "{note:4} 31.31 Mt 26.28; Mc 14.24; Lc 22.20; 1Co 11.25; 2Co 3.6"
+            },
+            {
+                "id": "n4",
+                "text": "{note:5} 31.33 Hb 10.16-17"
+            },
+            {
+                "id": "n5",
+                "text": "{note:6} 31.31-34 Hb 8.8-12"
+            }
+        ]
+    }
+}

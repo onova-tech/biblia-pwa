@@ -1,0 +1,126 @@
+{
+    "book": {
+        "id": "Hb",
+        "book_number": 58,
+        "new_testament": true,
+        "num_chapters": 13,
+        "book_name": "HEBREUS",
+        "book_full_name": "EPÍSTOLA AOS HEBREUS"
+    },
+    "chapter": {
+        "chapter_number": 2,
+        "chapter_reference": "",
+        "chapter_title": "Cristo, como Filho do homem, é superior aos anjos, e é o sumo sacerdote idôneo e compassivo",
+        "versicles": [
+            {
+                "id": "v2.1",
+                "versicle_number": 1,
+                "text": "PORTANTO convém-nos atentar com mais diligência para as coisas que já temos ouvido, para que em tempo algum nos desviemos delas."
+            },
+            {
+                "id": "v2.2",
+                "versicle_number": 2,
+                "text": "Porque, se a palavra falada pelos anjos permaneceu firme, e toda a transgressão e desobediência recebeu a justa retribuição,"
+            },
+            {
+                "id": "v2.3",
+                "versicle_number": 3,
+                "text": "Como escaparemos nós, se não atentarmos para uma tão grande salvação, a qual, começando a ser anunciada pelo Senhor, foi-nos depois confirmada pelos que a ouviram;"
+            },
+            {
+                "id": "v2.4",
+                "versicle_number": 4,
+                "text": "Testificando também Deus com eles, por sinais, e milagres, e várias maravilhas e {note:a}dons do Espírito Santo, distribuídos por sua vontade?"
+            },
+            {
+                "id": "v2.5",
+                "versicle_number": 5,
+                "text": "Porque não foi aos anjos que sujeitou o mundo futuro, de que falamos."
+            },
+            {
+                "id": "v2.6",
+                "versicle_number": 6,
+                "text": "Mas em certo lugar testificou alguém, dizendo: Que é o homem, para que dele te lembres? ou o filho do homem, para que o visites?"
+            },
+            {
+                "id": "v2.7",
+                "versicle_number": 7,
+                "text": "Tu o fizeste um pouco menor do que os anjos, de glória e de honra o coroaste, e o constituíste sobre as obras de tuas mãos:"
+            },
+            {
+                "id": "v2.8",
+                "versicle_number": 8,
+                "text": "Todas as coisas lhe sujeitaste debaixo dos pés.{note:1} Ora, visto que lhe sujeitou todas as coisas, nada deixou que lhe não esteja sujeito. Mas agora ainda não vemos que todas as coisas lhe estejam sujeitas;"
+            },
+            {
+                "id": "v2.9",
+                "versicle_number": 9,
+                "text": "Vemos, porém, coroado de glória e de honra aquele Jesus que fora feito um pouco menor do que os anjos, por causa da paixão da morte, para que, pela graça de Deus, provasse a morte por todos."
+            },
+            {
+                "id": "v2.10",
+                "versicle_number": 10,
+                "text": "Porque convinha que aquele, para quem são todas as coisas, e mediante quem tudo existe, trazendo muitos filhos à glória, consagrasse pelas aflições o príncipe da salvação deles."
+            },
+            {
+                "id": "v2.11",
+                "versicle_number": 11,
+                "text": "Porque, assim o que santifica, como os que são santificados, são todos de um; por cuja causa não se envergonha de lhes chamar irmãos."
+            },
+            {
+                "id": "v2.12",
+                "versicle_number": 12,
+                "text": "Dizendo: Anunciarei o teu nome a meus irmãos, cantar-te-ei louvores no meio da congregação.{note:2}"
+            },
+            {
+                "id": "v2.13",
+                "versicle_number": 13,
+                "text": "E outra vez: Porei nele a minha confiança.{note:3} E outra vez: Eis-me aqui a mim, e aos filhos que Deus me deu.{note:4}"
+            },
+            {
+                "id": "v2.14",
+                "versicle_number": 14,
+                "text": "E, visto como os filhos participam da carne e do sangue, também ele participou das mesmas coisas, para que pela morte aniquilasse o que tinha o império da morte, isto é, o diabo;"
+            },
+            {
+                "id": "v2.15",
+                "versicle_number": 15,
+                "text": "E livrasse todos os que, com medo da morte, estavam por toda a vida sujeitos à servidão."
+            },
+            {
+                "id": "v2.16",
+                "versicle_number": 16,
+                "text": "Porque, na verdade, ele não tomou os anjos, mas tomou a descendência de Abraão."
+            },
+            {
+                "id": "v2.17",
+                "versicle_number": 17,
+                "text": "Pelo que convinha que em tudo fosse semelhante aos irmãos, para ser misericordioso e fiel sumo sacerdote naquilo que é de Deus, para expiar os pecados do povo."
+            },
+            {
+                "id": "v2.18",
+                "versicle_number": 18,
+                "text": "Porque naquilo que ele mesmo, sendo tentado, padeceu, pode socorrer aos que são tentados."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:a} 2.4 ou distribuições"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 2.6-8 Sl 8.4-6"
+            },
+            {
+                "id": "n3",
+                "text": "{note:2} 2.12 Sl 22.22"
+            },
+            {
+                "id": "n4",
+                "text": "{note:3} 2.13 Is 8.17 {note:4} 2.13 Is 8.18"
+            }
+        ]
+    }
+}

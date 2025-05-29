@@ -1,0 +1,121 @@
+{
+    "book": {
+        "id": "2Ts",
+        "book_number": 53,
+        "new_testament": true,
+        "num_chapters": 3,
+        "book_name": "TESSALONICENSES",
+        "book_full_name": "SEGUNDA EPÍSTOLA DO APÓSTOLO PAULO AOS TESSALONICENSES"
+    },
+    "chapter": {
+        "chapter_number": 2,
+        "chapter_reference": "",
+        "chapter_title": "A vinda de Cristo será precedida de manifestações do Anticristo",
+        "versicles": [
+            {
+                "id": "v2.1",
+                "versicle_number": 1,
+                "text": "ORA, irmãos, rogamo-vos, pela vinda{note:1} de nosso Senhor Jesus Cristo, e pela nossa reunião com ele,"
+            },
+            {
+                "id": "v2.2",
+                "versicle_number": 2,
+                "text": "Que não vos movais facilmente do vosso entendimento, nem vos perturbeis, quer por espírito, quer por palavra, quer por epístola, como de nós, como se o dia de Cristo estivesse já perto."
+            },
+            {
+                "id": "v2.3",
+                "versicle_number": 3,
+                "text": "Ninguém de maneira alguma vos engane; porque não será assim sem que antes venha a apostasia, e se manifeste o homem do pecado, o filho da perdição;"
+            },
+            {
+                "id": "v2.4",
+                "versicle_number": 4,
+                "text": "O qual se opõe, e se levanta contra tudo o que se chama Deus, ou se adora; de sorte que se assentará, como Deus, no templo de Deus, querendo parecer Deus,{note:2}"
+            },
+            {
+                "id": "v2.5",
+                "versicle_number": 5,
+                "text": "Não vos lembrais de que estas coisas vos dizia quando ainda estava convosco?"
+            },
+            {
+                "id": "v2.6",
+                "versicle_number": 6,
+                "text": "E agora vós sabeis o que o detém, para que a seu próprio tempo seja manifestado."
+            },
+            {
+                "id": "v2.7",
+                "versicle_number": 7,
+                "text": "Porque já o mistério da injustiça opera: somente há um que agora resiste até que do meio seja tirado;"
+            },
+            {
+                "id": "v2.8",
+                "versicle_number": 8,
+                "text": "E então será revelado o iníquo, a quem o Senhor desfará pelo assopro da sua boca,{note:3} e aniquilará pelo esplendor da sua vinda;"
+            },
+            {
+                "id": "v2.9",
+                "versicle_number": 9,
+                "text": "A esse cuja vinda é segundo a eficácia de Satanás, com todo o poder, e sinais e prodígios de mentira,"
+            },
+            {
+                "id": "v2.10",
+                "versicle_number": 10,
+                "text": "E com todo o engano da injustiça para os que perecem, porque não receberam o amor da verdade para se salvarem.{note:4}"
+            },
+            {
+                "id": "v2.11",
+                "versicle_number": 11,
+                "text": "E por isso Deus lhes enviará a operação do erro, para que creiam a mentira;"
+            },
+            {
+                "id": "v2.12",
+                "versicle_number": 12,
+                "text": "Para que sejam julgados todos os que não creram a verdade, antes tiveram prazer na iniquidade."
+            },
+            {
+                "id": "v2.13",
+                "versicle_number": 13,
+                "text": "Mas devemos sempre dar graças a Deus por vós, irmãos amados do Senhor, por vos ter Deus elegido desde o princípio para a salvação, em santificação do Espírito, e fé da verdade;"
+            },
+            {
+                "id": "v2.14",
+                "versicle_number": 14,
+                "text": "Para o que pelo nosso evangelho vos chamou, para alcançardes a glória de nosso Senhor Jesus Cristo."
+            },
+            {
+                "id": "v2.15",
+                "versicle_number": 15,
+                "text": "Então, irmãos, estai firmes e retende as tradições que vos foram ensinadas, seja por palavra, seja por epístola nossa."
+            },
+            {
+                "id": "v2.16",
+                "versicle_number": 16,
+                "text": "E o próprio nosso Senhor Jesus Cristo nosso Deus e Pai, que nos amou, e em graça nos deu uma eterna consolação e boa esperança,"
+            },
+            {
+                "id": "v2.17",
+                "versicle_number": 17,
+                "text": "Console os vossos corações, e vos conforte em toda a boa palavra e obra."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 2.1 1Ts 4.15-17"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 2.3-4 Dn 11.36"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 2.8 Is 11.4"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 2.9-10 Mt 24.24"
+            }
+        ]
+    }
+}

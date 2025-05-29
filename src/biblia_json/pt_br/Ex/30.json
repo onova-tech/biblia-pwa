@@ -1,0 +1,235 @@
+{
+    "book": {
+        "id": "Ex",
+        "book_number": 2,
+        "new_testament": false,
+        "num_chapters": 40,
+        "book_name": "ÊXODO",
+        "book_full_name": "O SEGUNDO LIVRO DE MOISÉS ÊXODO"
+    },
+    "chapter": {
+        "chapter_number": 30,
+        "chapter_reference": "",
+        "chapter_title": "O altar do incenso",
+        "versicles": [
+            {
+                "id": "v30.1",
+                "versicle_number": 1,
+                "text": "E FARÁS um altar para queimar o incenso: de madeira de cetim o farás."
+            },
+            {
+                "id": "v30.2",
+                "versicle_number": 2,
+                "text": "O seu comprimento será dum côvado, e a sua largura dum côvado; será quadrado, e de dois côvados a sua altura; dele mesmo serão as suas pontas."
+            },
+            {
+                "id": "v30.3",
+                "versicle_number": 3,
+                "text": "E com ouro puro o forrarás, o seu teto e as suas paredes ao redor, e as suas pontas; e lhe farás uma coroa de ouro ao redor."
+            },
+            {
+                "id": "v30.4",
+                "versicle_number": 4,
+                "text": "Também lhe farás duas argolas de ouro debaixo da sua coroa; aos dois lados as farás, de ambas as bandas: e serão para lugares dos varais, com que será levado."
+            },
+            {
+                "id": "v30.5",
+                "versicle_number": 5,
+                "text": "E os varais farás de madeira de cetim, e os forrarás com ouro."
+            },
+            {
+                "id": "v30.6",
+                "versicle_number": 6,
+                "text": "E o porás diante do véu que está diante da arca do testemunho, diante do propiciatório, que está sobre o testemunho, onde me ajuntarei contigo."
+            },
+            {
+                "id": "v30.7",
+                "versicle_number": 7,
+                "text": "E Aarão sobre ele queimará o incenso das especiarias; cada manhã, quando põe em ordem as lâmpadas, o queimará."
+            },
+            {
+                "id": "v30.8",
+                "versicle_number": 8,
+                "text": "E, acendendo Aarão as lâmpadas à tarde, o queimará: este será incenso contínuo perante o Senhor pelas vossas gerações."
+            },
+            {
+                "id": "v30.9",
+                "versicle_number": 9,
+                "text": "Não oferecereis sobre ele incenso estranho, nem holocausto, nem oferta: nem tão pouco derramareis sobre ele libações."
+            },
+            {
+                "id": "v30.10",
+                "versicle_number": 10,
+                "text": "E uma vez no ano Aarão fará expiação sobre as pontas do altar com o sangue do sacrifício das expiações: uma vez no ano fará expiação sobre ele pelas vossas gerações: santíssimo é ao Senhor."
+            },
+            {
+                "id": "v30.11",
+                "versicle_number": 11,
+                "text": "Falou mais o Senhor a Moisés, dizendo:"
+            },
+            {
+                "id": "v30.12",
+                "versicle_number": 12,
+                "text": "Quando tomares a soma dos filhos de Israel, conforme à sua conta, cada um deles dará ao Senhor o resgate da sua alma, quando os contares; para que não haja entre eles praga alguma, quando os contares."
+            },
+            {
+                "id": "v30.13",
+                "versicle_number": 13,
+                "text": "Isto dará todo aquele que passar ao arrolamento: A metade dum siclo,{note:1} segundo o siclo do santuário (este siclo é de vinte óbolos): a metade dum siclo é a oferta ao Senhor."
+            },
+            {
+                "id": "v30.14",
+                "versicle_number": 14,
+                "text": "Qualquer que entrar no arrolamento, de vinte anos e acima, dará a oferta ao Senhor."
+            },
+            {
+                "id": "v30.15",
+                "versicle_number": 15,
+                "text": "O rico não aumentará, e o pobre não diminuirá da metade do siclo, quando derem a oferta ao Senhor, para fazer expiação por vossas almas."
+            },
+            {
+                "id": "v30.16",
+                "versicle_number": 16,
+                "text": "E tomarás o dinheiro das expiações dos filhos de Israel, e o darás ao serviço da tenda da congregação; e será para memória aos filhos de Israel diante do Senhor, para fazer expiação por vossas almas."
+            },
+            {
+                "id": "v30.17",
+                "versicle_number": 17,
+                "text": "E falou o Senhor a Moisés, dizendo:"
+            },
+            {
+                "id": "v30.18",
+                "versicle_number": 18,
+                "text": "Farás também uma pia de cobre com a sua base de cobre, para lavar; e a porás entre a tenda da congregação e o altar, e deitarás água nela."
+            },
+            {
+                "id": "v30.19",
+                "versicle_number": 19,
+                "text": "E Aarão e seus filhos nela lavarão as suas mãos e os seus pés."
+            },
+            {
+                "id": "v30.20",
+                "versicle_number": 20,
+                "text": "Quando entrarem na tenda da congregação, lavar-se-ão com água, para que não morram, ou quando se chegarem ao altar para ministrar, para acender a oferta queimada ao Senhor."
+            },
+            {
+                "id": "v30.21",
+                "versicle_number": 21,
+                "text": "Lavarão pois as suas mãos e os seus pés, para que não morram: e isto lhes será por estatuto perpétuo a ele e à sua semente nas suas gerações."
+            },
+            {
+                "id": "v30.22",
+                "versicle_number": 22,
+                "text": "Falou mais o Senhor a Moisés, dizendo:"
+            },
+            {
+                "id": "v30.23",
+                "versicle_number": 23,
+                "text": "Tu pois toma para ti das principais especiarias, da mais pura mirra quinhentos siclos, e de canela aromática a metade, a saber duzentos e cinquenta siclos e de cálamo aromático duzentos e cinquenta siclos,"
+            },
+            {
+                "id": "v30.24",
+                "versicle_number": 24,
+                "text": "E de cássia quinhentos siclos, segundo o siclo do santuário, e de azeite de oliveiras um him."
+            },
+            {
+                "id": "v30.25",
+                "versicle_number": 25,
+                "text": "E disto farás o azeite da santa unção, o perfume composto segundo a obra do perfumista: este será o azeite da santa unção."
+            },
+            {
+                "id": "v30.26",
+                "versicle_number": 26,
+                "text": "E com ele ungirás a tenda da congregação, e a arca do testemunho,"
+            },
+            {
+                "id": "v30.27",
+                "versicle_number": 27,
+                "text": "E a mesa com todos os seus vasos, e o castiçal com os seus vasos, e o altar do incenso,"
+            },
+            {
+                "id": "v30.28",
+                "versicle_number": 28,
+                "text": "E o altar do holocausto com todos os seus vasos, e a pia com a sua base."
+            },
+            {
+                "id": "v30.29",
+                "versicle_number": 29,
+                "text": "Assim santificarás estas cousas, para que sejam santíssimas: tudo o que tocar nelas será santo."
+            },
+            {
+                "id": "v30.30",
+                "versicle_number": 30,
+                "text": "Também ungirás a Aarão e seus filhos, e os santificarás para me administrarem o sacerdócio."
+            },
+            {
+                "id": "v30.31",
+                "versicle_number": 31,
+                "text": "E falarás aos filhos de Israel, dizendo: Este me será o azeite da santa unção nas vossas gerações."
+            },
+            {
+                "id": "v30.32",
+                "versicle_number": 32,
+                "text": "Não se ungirá com ele a carne do homem, nem fareis outro semelhante conforme à sua composição: santo é, e será santo para vós."
+            },
+            {
+                "id": "v30.33",
+                "versicle_number": 33,
+                "text": "O homem que compuser tal perfume como este, ou que dele puser sobre um estranho, será extirpado dos seus povos."
+            },
+            {
+                "id": "v30.34",
+                "versicle_number": 34,
+                "text": "Disse mais o Senhor a Moisés: Toma especiarias aromáticas, estoraque, e onicha, e gálbano; estas especiarias aromáticas e o incenso puro de igual peso;"
+            },
+            {
+                "id": "v30.35",
+                "versicle_number": 35,
+                "text": "E disto farás incenso, um perfume segundo a arte do perfumista, temperado, puro e santo;"
+            },
+            {
+                "id": "v30.36",
+                "versicle_number": 36,
+                "text": "E dele moendo o pisarás, e dele porás diante do testemunho, na tenda da congregação, onde eu virei a ti: cousa santíssima vos será."
+            },
+            {
+                "id": "v30.37",
+                "versicle_number": 37,
+                "text": "Porém o incenso que farás conforme à composição deste, não o fareis para vós mesmos: santo será para o Senhor."
+            },
+            {
+                "id": "v30.38",
+                "versicle_number": 38,
+                "text": "O homem que fizer tal como este para cheirar, será extirpado do seu povo."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v30.11",
+                "text": "O resgate da alma"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v30.17",
+                "text": "A pia de cobre"
+            },
+            {
+                "id": "s3",
+                "next_versicle_id": "v30.22",
+                "text": "O azeite da santa unção"
+            },
+            {
+                "id": "s4",
+                "next_versicle_id": "v30.34",
+                "text": "O incenso santo"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 30.13 Êx 38.25-26; Mt 17.24"
+            }
+        ]
+    }
+}

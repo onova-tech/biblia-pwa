@@ -1,0 +1,114 @@
+{
+    "book": {
+        "id": "Ap",
+        "book_number": 66,
+        "new_testament": true,
+        "num_chapters": 22,
+        "book_name": "APOCALIPSE",
+        "book_full_name": "DO APÓSTOLO JOÃO APOCALIPSE"
+    },
+    "chapter": {
+        "chapter_number": 5,
+        "chapter_reference": "",
+        "chapter_title": "O livro selado com sete selos. Somente o Cordeiro é digno de abri-lo",
+        "versicles": [
+            {
+                "id": "v5.1",
+                "versicle_number": 1,
+                "text": "E VI na destra do que estava assentado sobre o trono um livro{note:1} escrito por dentro e por fora, selado com sete selos."
+            },
+            {
+                "id": "v5.2",
+                "versicle_number": 2,
+                "text": "E vi um anjo forte, bradando com grande voz: Quem é digno de abrir o livro e de desatar os seus selos?"
+            },
+            {
+                "id": "v5.3",
+                "versicle_number": 3,
+                "text": "E ninguém no céu, nem na terra, nem debaixo da terra, podia abrir o livro, nem olhar para ele."
+            },
+            {
+                "id": "v5.4",
+                "versicle_number": 4,
+                "text": "E eu chorava muito, porque ninguém fora achado digno de abrir o livro, nem de o ler, nem de olhar para ele."
+            },
+            {
+                "id": "v5.5",
+                "versicle_number": 5,
+                "text": "E disse-me um dos anciãos: Não chores: eis aqui o Leão da tribo de Judá,{note:2} a raiz de Davi,{note:3} que venceu, para abrir o livro e desatar os seus sete selos."
+            },
+            {
+                "id": "v5.6",
+                "versicle_number": 6,
+                "text": "E olhei, e eis que estava no meio do trono e dos quatro animais viventes e entre os anciãos um Cordeiro,{note:4} como havendo sido morto, e tinha sete pontas e sete olhos,{note:5} que são os sete Espíritos de Deus enviados a toda a terra."
+            },
+            {
+                "id": "v5.7",
+                "versicle_number": 7,
+                "text": "E veio, e tomou o livro da destra do que estava assentado no trono."
+            },
+            {
+                "id": "v5.8",
+                "versicle_number": 8,
+                "text": "E, havendo tomado o livro, os quatro animais e os vinte e quatro anciãos prostraram-se diante do Cordeiro, tendo todos eles harpas e {note:g}salvas de ouro cheias de incenso, que são as orações dos santos.{note:6}"
+            },
+            {
+                "id": "v5.9",
+                "versicle_number": 9,
+                "text": "E cantavam um novo cântico, dizendo: Digno és de tomar o livro, e de abrir os seus selos; porque foste morto, e com o teu sangue compraste para Deus homens de toda a tribo, e língua, e povo, e nação;"
+            },
+            {
+                "id": "v5.10",
+                "versicle_number": 10,
+                "text": "E para o nosso Deus os fizeste reis e sacerdotes;{note:7} e eles reinarão sobre a terra."
+            },
+            {
+                "id": "v5.11",
+                "versicle_number": 11,
+                "text": "E olhei, e ouvi a voz de muitos anjos ao redor do trono, e dos animais, e dos anciãos; e era o número deles milhões de milhões{note:8} e milhares de milhares."
+            },
+            {
+                "id": "v5.12",
+                "versicle_number": 12,
+                "text": "Que com grande voz diziam: Digno é o Cordeiro, que foi morto, de receber o poder, e riquezas, e sabedoria, e força, e honra, e glória, e ações de graças."
+            },
+            {
+                "id": "v5.13",
+                "versicle_number": 13,
+                "text": "E ouvi a toda a criatura que está no céu, e na terra, e debaixo da terra, e que está no mar, e a todas as coisas que neles há, dizer: Ao que está assentado sobre o trono, e ao Cordeiro, sejam dadas ações de graças, e honra, e glória, e poder para todo o sempre."
+            },
+            {
+                "id": "v5.14",
+                "versicle_number": 14,
+                "text": "E os quatro animais diziam: Amém. E os vinte e quatro anciãos prostraram-se, e adoraram ao que vive para todo o sempre."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 5.1 Ez 2.9-10"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 5.5 Gn 49.9-10 {note:3} 5.5 Is 11.1"
+            },
+            {
+                "id": "n3",
+                "text": "{note:4} 5.6 Is 53.7 {note:5} 5.6 Zc 4.10"
+            },
+            {
+                "id": "n4",
+                "text": "{note:g} 5.8 ou taças {note:6} 5.8 Sl 141.2"
+            },
+            {
+                "id": "n5",
+                "text": "{note:7} 5.10 Êx 19.6"
+            },
+            {
+                "id": "n6",
+                "text": "{note:8} 5.11 Dn 7.10"
+            }
+        ]
+    }
+}

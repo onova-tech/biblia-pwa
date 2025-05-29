@@ -1,0 +1,220 @@
+{
+    "book": {
+        "id": "Js",
+        "book_number": 6,
+        "new_testament": false,
+        "num_chapters": 24,
+        "book_name": "JOSUÉ",
+        "book_full_name": "O LIVRO DE JOSUÉ"
+    },
+    "chapter": {
+        "chapter_number": 22,
+        "chapter_reference": "",
+        "chapter_title": "Josué abençoa e manda para as suas casas as duas e meia tribos",
+        "versicles": [
+            {
+                "id": "v22.1",
+                "versicle_number": 1,
+                "text": "ENTÃO Josué chamou os rubenitas, e os gaditas, e a meia tribo de Manassés,"
+            },
+            {
+                "id": "v22.2",
+                "versicle_number": 2,
+                "text": "E disse-lhes: Tudo quanto Moisés, o servo do Senhor, vos ordenou, guardastes:{note:1} e à minha voz obedecestes em tudo quanto vos ordenei."
+            },
+            {
+                "id": "v22.3",
+                "versicle_number": 3,
+                "text": "A vossos irmãos por tanto tempo até ao dia de hoje não desamparastes: antes tivestes cuidado da guarda do mandamento do Senhor vosso Deus."
+            },
+            {
+                "id": "v22.4",
+                "versicle_number": 4,
+                "text": "E agora o Senhor vosso Deus deu repouso a vossos irmãos, como lhes tinha prometido: voltai-vos pois agora, e ide-vos a vossas tendas, à terra da vossa possessão, que Moisés, o servo do Senhor, vos deu dalém do Jordão."
+            },
+            {
+                "id": "v22.5",
+                "versicle_number": 5,
+                "text": "Tão somente tende cuidado de guardar com diligência o mandamento e a lei que Moisés, o servo do Senhor, vos mandou: que ameis ao Senhor vosso Deus, e andeis em todos os seus caminhos, e guardeis os seus mandamentos, e vos achegueis a ele, e o sirvais com todo o vosso coração, e com toda a vossa alma."
+            },
+            {
+                "id": "v22.6",
+                "versicle_number": 6,
+                "text": "Assim Josué os abençoou; e despediu-os, e foram para as suas tendas."
+            },
+            {
+                "id": "v22.7",
+                "versicle_number": 7,
+                "text": "Porquanto Moisés dera herança em Basã à meia tribo de Manassés; porém à outra metade deu Josué entre seus irmãos, daquém do Jordão para o ocidente; e enviando-os Josué também a suas tendas, os abençoou;"
+            },
+            {
+                "id": "v22.8",
+                "versicle_number": 8,
+                "text": "E falou-lhes, dizendo: Voltai-vos às vossas tendas com grandes riquezas, e com muitíssimo gado, com prata, e com ouro, e com metal, e com ferro, e com muitíssimos vestidos: e com vossos irmãos reparti o despojo dos vossos inimigos."
+            },
+            {
+                "id": "v22.9",
+                "versicle_number": 9,
+                "text": "Assim os filhos de Rúben, e os filhos de Gade, e a meia tribo de Manassés, voltaram e partiram dos filhos de Israel, de Silo, que está na terra de Canaã; para irem à terra de Gileade, à terra da sua possessão, de que foram feitos possuidores, conforme ao dito do Senhor pelo ministério de Moisés."
+            },
+            {
+                "id": "v22.10",
+                "versicle_number": 10,
+                "text": "E, vindo eles aos limites do Jordão, que estão na terra de Canaã, ali os filhos de Rúben, e os filhos de Gade, e a meia tribo de Manassés edificaram {note:t}um altar junto ao Jordão, um altar de grande aparência."
+            },
+            {
+                "id": "v22.11",
+                "versicle_number": 11,
+                "text": "E ouviram os filhos de Israel dizer: Eis que os filhos de Rúben, e os filhos de Gade, e a meia tribo de Manassés edificaram um altar na frente da terra de Canaã, nos limites do Jordão, da banda dos filhos de Israel."
+            },
+            {
+                "id": "v22.12",
+                "versicle_number": 12,
+                "text": "Ouvindo isto os filhos de Israel, ajuntou-se toda a congregação dos filhos de Israel em Silo, para saírem contra eles em exército."
+            },
+            {
+                "id": "v22.13",
+                "versicle_number": 13,
+                "text": "E enviaram os filhos de Israel aos filhos de Rúben, e aos filhos de Gade, e à meia tribo de Manassés, para a terra de Gileade, Fineias, filho de Eleazar, o sacerdote;"
+            },
+            {
+                "id": "v22.14",
+                "versicle_number": 14,
+                "text": "E dez príncipes com ele, de cada casa paterna um príncipe, de todas as tribos de Israel: e cada um era cabeça da casa de seus pais nos milhares de Israel."
+            },
+            {
+                "id": "v22.15",
+                "versicle_number": 15,
+                "text": "E, vindo eles, aos filhos de Rúben, e aos filhos de Gade, e à meia tribo de Manassés, à terra de Gileade, falaram com eles, dizendo:"
+            },
+            {
+                "id": "v22.16",
+                "versicle_number": 16,
+                "text": "Assim diz toda a congregação do Senhor: Que transgressão é esta,{note:2} com que transgredistes contra o Deus de Israel, deixando hoje de seguir ao Senhor, edificando-vos um altar, para vos rebelardes contra o Senhor?"
+            },
+            {
+                "id": "v22.17",
+                "versicle_number": 17,
+                "text": "Foi-nos pouco a iniquidade de Peor,{note:3} de que ainda até ao dia de hoje não estamos purificados, ainda que houve castigo na congregação do Senhor?"
+            },
+            {
+                "id": "v22.18",
+                "versicle_number": 18,
+                "text": "E pois que hoje abandonais ao Senhor, será que, rebelando-vos hoje contra o Senhor, amanhã se irará contra toda a congregação de Israel."
+            },
+            {
+                "id": "v22.19",
+                "versicle_number": 19,
+                "text": "Se é, porém, que a terra da vossa possessão é imunda, passai-vos para a terra da possessão do Senhor, onde habita o tabernáculo do Senhor, e tomai possessão entre nós: mas não vos rebeleis contra o Senhor, nem tão pouco vos rebeleis contra nós, edificando-vos um altar, afora do altar do Senhor nosso Deus."
+            },
+            {
+                "id": "v22.20",
+                "versicle_number": 20,
+                "text": "Não cometeu Acã,{note:4} filho de Zerá, transgressão no tocante {note:u}ao anátema? e não veio ira sobre toda a congregação de Israel? assim que aquele homem não morreu só na sua iniquidade."
+            },
+            {
+                "id": "v22.21",
+                "versicle_number": 21,
+                "text": "Então responderam os filhos de Rúben, e os filhos de Gade, e a meia tribo de Manassés, e disseram aos cabeças dos milhares de Israel:"
+            },
+            {
+                "id": "v22.22",
+                "versicle_number": 22,
+                "text": "O Deus dos deuses, o Senhor ele o sabe, e Israel mesmo o saberá; se foi em rebeldia, ou por transgressão contra o Senhor, hoje não nos preserveis;"
+            },
+            {
+                "id": "v22.23",
+                "versicle_number": 23,
+                "text": "Se nós edificamos altar para nos tornar de após o Senhor, ou para sobre ele oferecer holocausto e oferta de manjares, ou sobre ele fazer oferta pacífica, o Senhor mesmo de nós o requeira."
+            },
+            {
+                "id": "v22.24",
+                "versicle_number": 24,
+                "text": "E se antes o não fizemos em receio disto, dizendo: Amanhã vossos filhos virão a falar a nossos filhos, dizendo: Que tendes vós com o Senhor Deus de Israel?"
+            },
+            {
+                "id": "v22.25",
+                "versicle_number": 25,
+                "text": "Pois o Senhor pôs o Jordão por termo entre nós e vós, ó filhos de Rúben, e filhos de Gade; não tendes parte no Senhor: e assim bem poderiam vossos filhos fazer desistir a nossos filhos de temer ao Senhor."
+            },
+            {
+                "id": "v22.26",
+                "versicle_number": 26,
+                "text": "Pelo que dissemos: Façamos agora, e nos edifiquemos um altar: não para holocausto, nem para sacrifício,"
+            },
+            {
+                "id": "v22.27",
+                "versicle_number": 27,
+                "text": "Mas para que entre nós e vós, e entre as nossas gerações depois de nós, nos seja em testemunho, para podermos fazer o serviço do Senhor diante dele com os nossos holocaustos, e com os nossos sacrifícios, e com as nossas ofertas pacíficas: e para que vossos filhos não digam amanhã a nossos filhos: Não tendes parte no Senhor."
+            },
+            {
+                "id": "v22.28",
+                "versicle_number": 28,
+                "text": "Pelo que dissemos: Quando for que amanhã assim nos digam a nós e às nossas gerações, então diremos: Vede o modelo do altar do Senhor que fizeram nossos pais, não para holocausto nem para sacrifício, porém para ser testemunho entre nós e vós."
+            },
+            {
+                "id": "v22.29",
+                "versicle_number": 29,
+                "text": "Nunca tal nos aconteça, que nos rebelássemos contra o Senhor, ou que hoje nós abandonássemos ao Senhor, edificando altar para holocausto, oferta de manjares ou sacrifício, fora do altar do Senhor nosso Deus, que está perante o seu tabernáculo."
+            },
+            {
+                "id": "v22.30",
+                "versicle_number": 30,
+                "text": "Ouvindo pois Fineias, o sacerdote, e os príncipes da congregação, e os cabeças dos milhares de Israel, que com ele estavam, as palavras que disseram os filhos de Rúben, e os filhos de Gade, e os filhos de Manassés, pareceu bem aos seus olhos."
+            },
+            {
+                "id": "v22.31",
+                "versicle_number": 31,
+                "text": "E disse Fineias, filho de Eleazar, o sacerdote, aos filhos de Rúben, aos filhos de Gade, e aos filhos de Manassés: Hoje sabemos que o Senhor está no meio de nós; porquanto não cometestes transgressão contra o Senhor: agora livrastes os filhos de Israel da mão do Senhor."
+            },
+            {
+                "id": "v22.32",
+                "versicle_number": 32,
+                "text": "E tornou-se Fineias, filho de Eleazar, o sacerdote, com os príncipes, de com os filhos de Rúben, e de com os filhos de Gade, da terra de Gileade à terra de Canaã, aos filhos de Israel: e trouxeram-lhes a resposta."
+            },
+            {
+                "id": "v22.33",
+                "versicle_number": 33,
+                "text": "E pareceu a resposta boa aos olhos dos filhos de Israel, e os filhos de Israel louvaram a Deus: e não falaram mais de subir contra eles em exército, para destruírem a terra em que habitavam os filhos de Rúben e os filhos de Gade."
+            },
+            {
+                "id": "v22.34",
+                "versicle_number": 34,
+                "text": "E os filhos de Rúben e os filhos de Gade puseram ao altar o nome {note:v}Ede: para que seja testemunho entre nós que o Senhor é Deus."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v22.10",
+                "text": "O altar do testemunho"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 22.2 Nm 32.20-32; Js 1.12-15"
+            },
+            {
+                "id": "n2",
+                "text": "{note:t} 22.10 ou um altar grande, para que o avistassem"
+            },
+            {
+                "id": "n3",
+                "text": "{note:2} 22.16 Dt 12.6"
+            },
+            {
+                "id": "n4",
+                "text": "{note:3} 22.17 Nm 25.1-9"
+            },
+            {
+                "id": "n5",
+                "text": "{note:4} 22.20 Js 7.1-26 {note:u} 22.20 Heb. à coisa consagrada"
+            },
+            {
+                "id": "n6",
+                "text": "{note:v} 22.34 que significa testemunho"
+            }
+        ]
+    }
+}

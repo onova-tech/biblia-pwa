@@ -1,0 +1,78 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 24,
+        "chapter_reference": "",
+        "chapter_title": "O domínio universal de Deus; quem é digno de entrar no seu santuário; Deus é o Rei da glória",
+        "versicles": [
+            {
+                "id": "v24.1",
+                "versicle_number": 1,
+                "text": "DO Senhor é a terra{note:1} e a sua plenitude, o mundo e aqueles que nele habitam."
+            },
+            {
+                "id": "v24.2",
+                "versicle_number": 2,
+                "text": "Porque ele a fundou sobre os mares, e a firmou sobre os rios."
+            },
+            {
+                "id": "v24.3",
+                "versicle_number": 3,
+                "text": "Quem subirá ao monte do Senhor, ou quem estará no seu lugar santo?"
+            },
+            {
+                "id": "v24.4",
+                "versicle_number": 4,
+                "text": "Aquele que é limpo de mãos e puro de coração,{note:2} que não entrega a sua alma à vaidade, nem jura enganosamente."
+            },
+            {
+                "id": "v24.5",
+                "versicle_number": 5,
+                "text": "Este receberá a bênção do Senhor e a justiça do Deus da sua salvação."
+            },
+            {
+                "id": "v24.6",
+                "versicle_number": 6,
+                "text": "Esta é a geração daqueles que buscam, daqueles que buscam a tua face, ó Deus de Jacó. (Selá.)"
+            },
+            {
+                "id": "v24.7",
+                "versicle_number": 7,
+                "text": "Levantai, ó portas, as vossas cabeças; levantai-vos, ó entradas eternas, e entrará o Rei da Glória."
+            },
+            {
+                "id": "v24.8",
+                "versicle_number": 8,
+                "text": "Quem é este Rei da Glória? O Senhor forte e poderoso, o Senhor poderoso na guerra."
+            },
+            {
+                "id": "v24.9",
+                "versicle_number": 9,
+                "text": "Levantai, ó portas, as vossas cabeças, levantai-vos, ó entradas eternas, e entrará o Rei da Glória."
+            },
+            {
+                "id": "v24.10",
+                "versicle_number": 10,
+                "text": "Quem é este Rei da Glória? O Senhor dos Exércitos; ele é o Rei da Glória. (Selá.)"
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 24.1 1Co 10.26"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 24.4 Mt 5.8"
+            }
+        ]
+    }
+}

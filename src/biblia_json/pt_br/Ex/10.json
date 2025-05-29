@@ -1,0 +1,184 @@
+{
+    "book": {
+        "id": "Ex",
+        "book_number": 2,
+        "new_testament": false,
+        "num_chapters": 40,
+        "book_name": "ÊXODO",
+        "book_full_name": "O SEGUNDO LIVRO DE MOISÉS ÊXODO"
+    },
+    "chapter": {
+        "chapter_number": 10,
+        "chapter_reference": "",
+        "chapter_title": "Deus ameaça Faraó com a praga dos gafanhotos",
+        "versicles": [
+            {
+                "id": "v10.1",
+                "versicle_number": 1,
+                "text": "DEPOIS disse o Senhor a Moisés: Entra a Faraó, porque tenho agravado o seu coração, e o coração de seus servos, para fazer estes meus sinais no meio deles,"
+            },
+            {
+                "id": "v10.2",
+                "versicle_number": 2,
+                "text": "E para que contes aos ouvidos de teus filhos, e dos filhos de teus filhos, as cousas que obrei no Egito, e os meus sinais, que tenho feito entre eles; para que saibais que eu sou o Senhor."
+            },
+            {
+                "id": "v10.3",
+                "versicle_number": 3,
+                "text": "Assim foram Moisés e Aarão a Faraó, e disseram-lhe: Assim diz o Senhor, o Deus dos hebreus: Até quando recusas humilhar-te diante de mim? deixa ir o meu povo, para que me sirva;"
+            },
+            {
+                "id": "v10.4",
+                "versicle_number": 4,
+                "text": "Porque se ainda recusares deixar ir o meu povo, eis que trarei amanhã gafanhotos aos teus termos,"
+            },
+            {
+                "id": "v10.5",
+                "versicle_number": 5,
+                "text": "E cobrirão a face da terra, que a terra não se poderá ver; e eles comerão o resto do que escapou, o que vos ficou da saraiva; também comerão toda a árvore que vos cresce no campo;"
+            },
+            {
+                "id": "v10.6",
+                "versicle_number": 6,
+                "text": "E encherão as tuas casas, e as casas de todos os teus servos, e as casas de todos os egípcios, como nunca viram teus pais, nem os pais de teus pais, desde o dia em que eles foram sobre a terra até ao dia de hoje. E virou-se, e saiu da presença de Faraó."
+            },
+            {
+                "id": "v10.7",
+                "versicle_number": 7,
+                "text": "E os servos de Faraó disseram-lhe: Até quando este nos há de ser por laço? deixa ir os homens, para que sirvam ao Senhor seu Deus: ainda não sabes que o Egito está destruído?"
+            },
+            {
+                "id": "v10.8",
+                "versicle_number": 8,
+                "text": "Então Moisés e Aarão foram levados outra vez a Faraó, e ele disse-lhes: Ide, servi ao Senhor, vosso Deus. Quais são os que hão de ir?"
+            },
+            {
+                "id": "v10.9",
+                "versicle_number": 9,
+                "text": "E Moisés disse: Havemos de ir com os nossos meninos, e com os nossos velhos; com os nossos filhos, e com as nossas filhas, com as nossas ovelhas, e com os nossos bois havemos de ir; porque festa do Senhor temos."
+            },
+            {
+                "id": "v10.10",
+                "versicle_number": 10,
+                "text": "Então ele lhes disse: Seja o Senhor assim convosco, como eu vos deixarei ir a vós e a vossos filhos: olhai que há mal diante da vossa face."
+            },
+            {
+                "id": "v10.11",
+                "versicle_number": 11,
+                "text": "Não será assim: andai agora vós, varões, e servi ao Senhor; pois isso é o que pedistes. E os lançaram da face de Faraó."
+            },
+            {
+                "id": "v10.12",
+                "versicle_number": 12,
+                "text": "Então disse o Senhor a Moisés: Estende a tua mão sobre a terra do Egito, para que os gafanhotos venham sobre a terra do Egito, e comam toda a erva da terra, tudo o que deixou a saraiva."
+            },
+            {
+                "id": "v10.13",
+                "versicle_number": 13,
+                "text": "Então estendeu Moisés sua vara sobre a terra do Egito, e o Senhor trouxe sobre a terra um vento oriental todo aquele dia e toda aquela noite; e aconteceu que pela manhã o vento oriental trouxe os gafanhotos."
+            },
+            {
+                "id": "v10.14",
+                "versicle_number": 14,
+                "text": "E vieram os gafanhotos sobre toda a terra do Egito, e assentaram-se sobre todos os termos do Egito; mui gravosos foram; antes destes nunca houve tais gafanhotos, nem depois deles virão outros tais."
+            },
+            {
+                "id": "v10.15",
+                "versicle_number": 15,
+                "text": "Porque cobriram a face de toda a terra, de modo que a terra se escureceu; e comeram toda a erva da terra, e todo o fruto das árvores, que deixara a saraiva; e não ficou verdura alguma nas árvores, nem na erva do campo, em toda a terra do Egito.{note:1}"
+            },
+            {
+                "id": "v10.16",
+                "versicle_number": 16,
+                "text": "Então Faraó se apressou a chamar a Moisés e a Aarão, e disse: Pequei contra o Senhor vosso Deus, e contra vós."
+            },
+            {
+                "id": "v10.17",
+                "versicle_number": 17,
+                "text": "Agora, pois, peço-vos que perdoeis o meu pecado somente desta vez, e que oreis ao Senhor vosso Deus que tire de mim somente esta morte."
+            },
+            {
+                "id": "v10.18",
+                "versicle_number": 18,
+                "text": "E saiu da presença de Faraó, e orou ao Senhor."
+            },
+            {
+                "id": "v10.19",
+                "versicle_number": 19,
+                "text": "Então o Senhor trouxe um vento ocidental fortíssimo, o qual levantou os gafanhotos e os lançou no Mar Vermelho; nem ainda um gafanhoto ficou em todos os termos do Egito."
+            },
+            {
+                "id": "v10.20",
+                "versicle_number": 20,
+                "text": "O Senhor, porém, endureceu o coração de Faraó, e este não deixou ir os filhos de Israel."
+            },
+            {
+                "id": "v10.21",
+                "versicle_number": 21,
+                "text": "Então disse o Senhor a Moisés: Estende a tua mão para o céu, e virão trevas{note:2} sobre a terra do Egito, trevas que se apalpem."
+            },
+            {
+                "id": "v10.22",
+                "versicle_number": 22,
+                "text": "E Moisés estendeu a sua mão para o céu, e houve trevas espessas em toda a terra do Egito por três dias."
+            },
+            {
+                "id": "v10.23",
+                "versicle_number": 23,
+                "text": "Não viu um ao outro, e ninguém se levantou do seu lugar por três dias; mas todos os filhos de Israel tinham luz em suas habitações."
+            },
+            {
+                "id": "v10.24",
+                "versicle_number": 24,
+                "text": "Então Faraó chamou a Moisés, e disse: Ide, servi ao Senhor: somente, fiquem vossas ovelhas e vossas vacas: vão também convosco as vossas crianças."
+            },
+            {
+                "id": "v10.25",
+                "versicle_number": 25,
+                "text": "Moisés, porém, disse: Tu também darás em nossas mãos sacrifícios e holocaustos, que ofereçamos ao Senhor nosso Deus."
+            },
+            {
+                "id": "v10.26",
+                "versicle_number": 26,
+                "text": "E também o nosso gado há de ir conosco, nem uma unha ficará; porque daquele havemos de tomar, para servir ao Senhor nosso Deus: porque não sabemos com que havemos de servir ao Senhor, até que cheguemos lá."
+            },
+            {
+                "id": "v10.27",
+                "versicle_number": 27,
+                "text": "O Senhor, porém, endureceu o coração de Faraó, e este não os quis deixar ir."
+            },
+            {
+                "id": "v10.28",
+                "versicle_number": 28,
+                "text": "E disse-lhe Faraó: Vai-te de mim, guarda-te que não mais vejas o meu rosto: porque no dia em que vires o meu rosto, morrerás."
+            },
+            {
+                "id": "v10.29",
+                "versicle_number": 29,
+                "text": "E disse Moisés: Bem disseste; eu nunca mais verei o teu rosto."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v10.12",
+                "text": "A praga dos gafanhotos"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v10.21",
+                "text": "A praga das trevas"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 10.12-15 Ap 9.2-3"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 10.21 Ap 16.10"
+            }
+        ]
+    }
+}

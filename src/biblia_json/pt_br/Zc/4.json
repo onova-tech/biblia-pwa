@@ -1,0 +1,106 @@
+{
+    "book": {
+        "id": "Zc",
+        "book_number": 38,
+        "new_testament": false,
+        "num_chapters": 14,
+        "book_name": "ZACARIAS",
+        "book_full_name": "ZACARIAS"
+    },
+    "chapter": {
+        "chapter_number": 4,
+        "chapter_reference": "",
+        "chapter_title": "A quinta visão: o castiçal de ouro e as sete lâmpadas",
+        "versicles": [
+            {
+                "id": "v4.1",
+                "versicle_number": 1,
+                "text": "E TORNOU o anjo que falava comigo, e me despertou, como a um homem que é despertado do seu sono,"
+            },
+            {
+                "id": "v4.2",
+                "versicle_number": 2,
+                "text": "E me disse: Que vês? E eu disse: Olho, e eis um castiçal todo de ouro, e um vaso de azeite no cimo, com as suas sete lâmpadas; e cada lâmpada posta no cimo tinha sete canudos."
+            },
+            {
+                "id": "v4.3",
+                "versicle_number": 3,
+                "text": "E, por cima dele, duas oliveiras,{note:1} uma à direita do vaso de azeite, e outra à sua esquerda."
+            },
+            {
+                "id": "v4.4",
+                "versicle_number": 4,
+                "text": "E falei, e disse ao anjo que falava comigo, dizendo: Senhor meu, que é isto?"
+            },
+            {
+                "id": "v4.5",
+                "versicle_number": 5,
+                "text": "Então respondeu o anjo que falava comigo, e me disse: Não sabes tu o que isto é? E eu disse: Não, Senhor meu."
+            },
+            {
+                "id": "v4.6",
+                "versicle_number": 6,
+                "text": "E respondeu, e me falou, dizendo: Esta é a palavra do Senhor a Zorobabel,{note:2} dizendo: Não por força nem por violência, mas pelo meu Espírito, diz o Senhor dos Exércitos."
+            },
+            {
+                "id": "v4.7",
+                "versicle_number": 7,
+                "text": "Quem és tu, ó monte grande? diante de Zorobabel serás uma campina; porque ele trará a primeira pedra com aclamações: Graça, graça a ela."
+            },
+            {
+                "id": "v4.8",
+                "versicle_number": 8,
+                "text": "E a palavra do Senhor veio de novo a mim dizendo:"
+            },
+            {
+                "id": "v4.9",
+                "versicle_number": 9,
+                "text": "As mãos de Zorobabel têm fundado esta casa, também as suas mãos a acabarão, para que saibais que o Senhor dos Exércitos me enviou a vós."
+            },
+            {
+                "id": "v4.10",
+                "versicle_number": 10,
+                "text": "Porque, quem despreza o dia das cousas pequenas? pois esses se alegrarão, vendo o prumo na mão de Zorobabel: os sete olhos do Senhor,{note:3} que discorrem por toda a terra."
+            },
+            {
+                "id": "v4.11",
+                "versicle_number": 11,
+                "text": "Falei mais, e disse-lhe: Que são as duas oliveiras{note:4} à direita do castiçal e à sua esquerda?"
+            },
+            {
+                "id": "v4.12",
+                "versicle_number": 12,
+                "text": "E, falando-lhe outra vez, disse: Que são aqueles dois raminhos de oliveira, que estão junto aos dois tubos de ouro, e que vertem de si ouro?"
+            },
+            {
+                "id": "v4.13",
+                "versicle_number": 13,
+                "text": "E ele me respondeu, dizendo: Não sabes o que é isto? E eu disse: Não, Senhor meu."
+            },
+            {
+                "id": "v4.14",
+                "versicle_number": 14,
+                "text": "Então ele disse: Estes são os dois filhos do óleo, que estão diante do Senhor de toda a terra."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 4.3 Ap 11.4"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 4.6 Ed 5.2"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 4.10 Ap 5.6"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 4.11 Ap 11.4"
+            }
+        ]
+    }
+}

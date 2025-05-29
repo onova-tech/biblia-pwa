@@ -1,0 +1,177 @@
+{
+    "book": {
+        "id": "1Co",
+        "book_number": 46,
+        "new_testament": true,
+        "num_chapters": 16,
+        "book_name": "CORÍNTIOS",
+        "book_full_name": "PRIMEIRA EPÍSTOLA DO APÓSTOLO PAULO AOS CORÍNTIOS"
+    },
+    "chapter": {
+        "chapter_number": 9,
+        "chapter_reference": "",
+        "chapter_title": "A liberdade e os direitos dos apóstolos",
+        "versicles": [
+            {
+                "id": "v9.1",
+                "versicle_number": 1,
+                "text": "NÃO sou eu apóstolo? Não sou livre? Não vi eu a Jesus Cristo Senhor nosso? Não sois vós a minha obra no Senhor?"
+            },
+            {
+                "id": "v9.2",
+                "versicle_number": 2,
+                "text": "Se eu não sou apóstolo para os outros, ao menos o sou para vós; porque vós sois o selo do meu apostolado no Senhor."
+            },
+            {
+                "id": "v9.3",
+                "versicle_number": 3,
+                "text": "Esta é a minha defesa para com os que me condenam."
+            },
+            {
+                "id": "v9.4",
+                "versicle_number": 4,
+                "text": "Não temos nós direito de comer e de beber?"
+            },
+            {
+                "id": "v9.5",
+                "versicle_number": 5,
+                "text": "Não temos nós direito de levar conosco uma mulher irmã, como também os demais apóstolos, e os irmãos do Senhor, e Cefas?"
+            },
+            {
+                "id": "v9.6",
+                "versicle_number": 6,
+                "text": "Ou só eu e Barnabé não temos direito de deixar de trabalhar?"
+            },
+            {
+                "id": "v9.7",
+                "versicle_number": 7,
+                "text": "Quem jamais milita à sua própria custa? Quem planta a vinha e não come do seu fruto? Ou quem apascenta o gado e não come do leite do gado?"
+            },
+            {
+                "id": "v9.8",
+                "versicle_number": 8,
+                "text": "Digo eu isto segundo os homens? Ou não diz a lei também o mesmo?"
+            },
+            {
+                "id": "v9.9",
+                "versicle_number": 9,
+                "text": "Porque na lei de Moisés está escrito: Não atarás a boca ao boi que trilha o grão.{note:1} Porventura tem Deus cuidado dos bois?"
+            },
+            {
+                "id": "v9.10",
+                "versicle_number": 10,
+                "text": "Ou não o diz certamente por nós? Certamente que por nós está escrito; porque o que lavra deve lavrar com esperança, e o que debulha deve debulhar com esperança de ser participante."
+            },
+            {
+                "id": "v9.11",
+                "versicle_number": 11,
+                "text": "Se nós vos semeamos as coisas espirituais,{note:2} será muito que de vós recolhamos as carnais?"
+            },
+            {
+                "id": "v9.12",
+                "versicle_number": 12,
+                "text": "Se outros participam deste poder sobre vós, por que não, mais justamente, nós? Mas nós não usamos deste direito; antes suportamos tudo, para não pormos impedimento algum ao evangelho de Cristo."
+            },
+            {
+                "id": "v9.13",
+                "versicle_number": 13,
+                "text": "Não sabeis vós que os que administram o que é sagrado comem do que é do templo? E que os que de contínuo estão junto ao altar,{note:3} participam do altar?"
+            },
+            {
+                "id": "v9.14",
+                "versicle_number": 14,
+                "text": "Assim ordenou também o Senhor aos que anunciam o evangelho,{note:4} que vivam do evangelho."
+            },
+            {
+                "id": "v9.15",
+                "versicle_number": 15,
+                "text": "Mas eu de nenhuma destas coisas usei, e não escrevi isto para que assim se faça comigo; porque melhor me fora morrer, do que alguém fazer vã esta minha glória."
+            },
+            {
+                "id": "v9.16",
+                "versicle_number": 16,
+                "text": "Porque, se anuncio o evangelho, não tenho de que me gloriar, pois me é imposta essa obrigação; e ai de mim, se não anunciar o evangelho!"
+            },
+            {
+                "id": "v9.17",
+                "versicle_number": 17,
+                "text": "E por isso, se o faço de boa mente, terei prêmio; mas, se de má vontade, apenas uma dispensação me é confiada."
+            },
+            {
+                "id": "v9.18",
+                "versicle_number": 18,
+                "text": "Logo, que prêmio tenho? Que evangelizando, proponha de graça o evangelho de Cristo para não abusar do meu poder no evangelho."
+            },
+            {
+                "id": "v9.19",
+                "versicle_number": 19,
+                "text": "Porque, sendo livre para com todos, fiz-me servo de todos para ganhar ainda mais."
+            },
+            {
+                "id": "v9.20",
+                "versicle_number": 20,
+                "text": "E fiz-me como judeu para os judeus, para ganhar os judeus: para os que estão debaixo da lei, como se estivera debaixo da lei, para ganhar os que estão debaixo da lei."
+            },
+            {
+                "id": "v9.21",
+                "versicle_number": 21,
+                "text": "Para os que estão sem lei, como se estivera sem lei (não estando sem lei para com Deus, mas debaixo da lei de Cristo), para ganhar os que estão sem lei."
+            },
+            {
+                "id": "v9.22",
+                "versicle_number": 22,
+                "text": "Fiz-me como fraco para os fracos, para ganhar os fracos. Fiz-me tudo para todos, para por todos os meios chegar a salvar alguns."
+            },
+            {
+                "id": "v9.23",
+                "versicle_number": 23,
+                "text": "E eu faço isto por causa do evangelho, para ser também participante dele."
+            },
+            {
+                "id": "v9.24",
+                "versicle_number": 24,
+                "text": "Não sabeis vós que os que correm no estádio, todos, na verdade, correm, mas um só leva o prêmio? Correi de tal maneira que o alcanceis."
+            },
+            {
+                "id": "v9.25",
+                "versicle_number": 25,
+                "text": "E todo aquele que luta de tudo se abstém; eles o fazem para alcançar uma coroa corruptível, nós, porém, uma incorruptível."
+            },
+            {
+                "id": "v9.26",
+                "versicle_number": 26,
+                "text": "Pois eu assim corro, não como a coisa incerta: assim combato, não como batendo no ar."
+            },
+            {
+                "id": "v9.27",
+                "versicle_number": 27,
+                "text": "Antes subjugo o meu corpo, e o reduzo à servidão, para que, pregando aos outros, eu mesmo não venha dalguma maneira a ficar reprovado."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v9.15",
+                "text": "O desinteresse e fervor de Paulo; o atleta cristão"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 9.9 Dt 25.4"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 9.11 Rm 15.27"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 9.13 Dt 18.1"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 9.14 Mt 10.10; Lc 10.7"
+            }
+        ]
+    }
+}

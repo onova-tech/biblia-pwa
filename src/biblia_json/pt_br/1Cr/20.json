@@ -1,0 +1,80 @@
+{
+    "book": {
+        "id": "1Cr",
+        "book_number": 13,
+        "new_testament": false,
+        "num_chapters": 29,
+        "book_name": "CRÔNICAS",
+        "book_full_name": "O PRIMEIRO LIVRO DAS CRÔNICAS"
+    },
+    "chapter": {
+        "chapter_number": 20,
+        "chapter_reference": "",
+        "chapter_title": "",
+        "versicles": [
+            {
+                "id": "v20.1",
+                "versicle_number": 1,
+                "text": "ACONTECEU pois que, no decurso de um ano,{note:1} no tempo em que os reis costumam sair para a guerra, Joabe levou o exército e destruiu a terra dos filhos de Amom e veio e cercou a Rabá, porém, Davi ficou em Jerusalém: e Joabe feriu a Rabá, e a destruiu."
+            },
+            {
+                "id": "v20.2",
+                "versicle_number": 2,
+                "text": "E Davi tirou da cabeça do rei a coroa deste, e achou nela o peso dum talento de ouro, e havia nela pedras preciosas; e foi posta sobre a cabeça de Davi: e levou da cidade mui grande despojo."
+            },
+            {
+                "id": "v20.3",
+                "versicle_number": 3,
+                "text": "Também o povo que estava nela levou e os fez serrar com a serra, e cortar com talhadeiras de ferro e com machados; e assim fez Davi com todas as cidades dos filhos de Amom: então voltou Davi, com todo o povo, para Jerusalém."
+            },
+            {
+                "id": "v20.4",
+                "versicle_number": 4,
+                "text": "E depois disto aconteceu que, levantando-se guerra em Gazer com os filisteus, então Sibecai, o husatita, feriu a Sipai, dos filhos {note:h}de Rafa; e ficaram abatidos."
+            },
+            {
+                "id": "v20.5",
+                "versicle_number": 5,
+                "text": "E tornou a haver guerra com os filisteus: e Elanã, filho de Jair, feriu a Lami, irmão de Golias,{note:2} o geteu, cuja haste da lança era como órgão de tecelão."
+            },
+            {
+                "id": "v20.6",
+                "versicle_number": 6,
+                "text": "E tornou a haver guerra em Gate; e havia ali um homem de grande estatura, e tinha vinte e quatro dedos, seis em cada mão, e seis em cada pé, e também era da raça {note:i}de Rafa."
+            },
+            {
+                "id": "v20.7",
+                "versicle_number": 7,
+                "text": "E injuriou a Israel: porém Jônatas, filho de Simeia, irmão de Davi, o feriu."
+            },
+            {
+                "id": "v20.8",
+                "versicle_number": 8,
+                "text": "Estes nasceram {note:j}a Rafa em Gate: e caíram pela mão de Davi e pela mão dos seus servos."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 20.1 2Sm 11.1"
+            },
+            {
+                "id": "n2",
+                "text": "{note:h} 20.4 que é do gigante"
+            },
+            {
+                "id": "n3",
+                "text": "{note:2} 20.5 1Sm 17.4-7"
+            },
+            {
+                "id": "n4",
+                "text": "{note:i} 20.6 que é do gigante"
+            },
+            {
+                "id": "n5",
+                "text": "{note:j} 20.8 que é ao gigante"
+            }
+        ]
+    }
+}

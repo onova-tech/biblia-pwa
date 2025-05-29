@@ -1,0 +1,99 @@
+{
+    "book": {
+        "id": "Am",
+        "book_number": 30,
+        "new_testament": false,
+        "num_chapters": 9,
+        "book_name": "AMÓS",
+        "book_full_name": "AMÓS"
+    },
+    "chapter": {
+        "chapter_number": 3,
+        "chapter_reference": "",
+        "chapter_title": "Os vícios e maldades de Israel: o anúncio de castigo",
+        "versicles": [
+            {
+                "id": "v3.1",
+                "versicle_number": 1,
+                "text": "OUVI esta palavra que o Senhor fala contra vós, filhos de Israel, contra toda a geração que fiz subir da terra do Egito, dizendo:"
+            },
+            {
+                "id": "v3.2",
+                "versicle_number": 2,
+                "text": "De todas as famílias da terra a vós somente conheci; portanto, todas as vossas injustiças visitarei sobre vós."
+            },
+            {
+                "id": "v3.3",
+                "versicle_number": 3,
+                "text": "Andarão dois juntos, se não estiverem de acordo?"
+            },
+            {
+                "id": "v3.4",
+                "versicle_number": 4,
+                "text": "Bramirá o leão no bosque, sem que tenha presa? levantará o leãozinho no covil a sua voz, se nada tiver apanhado?"
+            },
+            {
+                "id": "v3.5",
+                "versicle_number": 5,
+                "text": "Cairá a ave no laço em terra, se não houver laço para ela? levantar-se-á o laço da terra, sem que tenha apanhado alguma cousa?"
+            },
+            {
+                "id": "v3.6",
+                "versicle_number": 6,
+                "text": "Tocar-se-á a buzina na cidade, e o povo não estremecerá? Sucederá qualquer mal à cidade, e o Senhor não o terá feito?"
+            },
+            {
+                "id": "v3.7",
+                "versicle_number": 7,
+                "text": "Certamente o Senhor JEOVÁ não fará cousa alguma, sem ter revelado o seu segredo aos seus servos, os profetas."
+            },
+            {
+                "id": "v3.8",
+                "versicle_number": 8,
+                "text": "Bramiu o leão, quem não temerá? Falou o Senhor JEOVÁ, quem não profetizará?"
+            },
+            {
+                "id": "v3.9",
+                "versicle_number": 9,
+                "text": "Fazei ouvir isto nos palácios de Asdode, e nos palácios da terra do Egito, e dizei: Ajuntai-vos sobre os montes de Samaria, e vede os grandes alvoroços no meio dela, e os oprimidos dentro dela."
+            },
+            {
+                "id": "v3.10",
+                "versicle_number": 10,
+                "text": "Porque não sabem fazer o que é reto, diz o Senhor, entesourando nos seus palácios a violência e a destruição."
+            },
+            {
+                "id": "v3.11",
+                "versicle_number": 11,
+                "text": "Portanto, o Senhor JEOVÁ diz assim: Um inimigo surgirá, e cercará a tua terra, derribará a tua fortaleza, e os teus palácios serão saqueados."
+            },
+            {
+                "id": "v3.12",
+                "versicle_number": 12,
+                "text": "Assim diz o Senhor: Como o pastor livra da boca do leão as duas pernas, ou um pedacinho da orelha, assim serão livrados os filhos de Israel, que habitam em Samaria, no canto da liteira, e na barra do leito."
+            },
+            {
+                "id": "v3.13",
+                "versicle_number": 13,
+                "text": "Ouvi, e protestai contra a casa de Jacó, diz o Senhor JEOVÁ, o Deus dos Exércitos:"
+            },
+            {
+                "id": "v3.14",
+                "versicle_number": 14,
+                "text": "No dia em que eu visitar as transgressões de Israel sobre ele, também visitarei os altares de Betel:{note:1} e os cornos do altar serão cortados, e cairão por terra."
+            },
+            {
+                "id": "v3.15",
+                "versicle_number": 15,
+                "text": "E derribarei a casa de inverno com a casa de verão; e as casas de marfim perecerão, e as grandes casas terão fim, diz o Senhor."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 3.14 2Rs 23.15"
+            }
+        ]
+    }
+}

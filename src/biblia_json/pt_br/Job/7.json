@@ -1,0 +1,129 @@
+{
+    "book": {
+        "id": "Job",
+        "book_number": 18,
+        "new_testament": false,
+        "num_chapters": 42,
+        "book_name": "JÓ",
+        "book_full_name": "O LIVRO DE JÓ"
+    },
+    "chapter": {
+        "chapter_number": 7,
+        "chapter_reference": "",
+        "chapter_title": "",
+        "versicles": [
+            {
+                "id": "v7.1",
+                "versicle_number": 1,
+                "text": "PORVENTURA não tem o homem guerra sobre a terra? E não são os seus dias como os dias do jornaleiro?"
+            },
+            {
+                "id": "v7.2",
+                "versicle_number": 2,
+                "text": "Como o cervo que suspira pela sombra, e como o jornaleiro que espera pela sua paga."
+            },
+            {
+                "id": "v7.3",
+                "versicle_number": 3,
+                "text": "Assim me deram por herança meses de vaidade, e noites de trabalho me prepararam."
+            },
+            {
+                "id": "v7.4",
+                "versicle_number": 4,
+                "text": "Deitando-me a dormir, então digo: Quando me levantarei? Mas comprida é a noite, e farto-me de me voltar na cama até à alva."
+            },
+            {
+                "id": "v7.5",
+                "versicle_number": 5,
+                "text": "A minha carne se tem vestido de bichos e de torrões de pó; a minha pele está gretada, e se fez abominável."
+            },
+            {
+                "id": "v7.6",
+                "versicle_number": 6,
+                "text": "Os meus dias são mais velozes do que a lançadeira do tecelão, e perecem sem esperança."
+            },
+            {
+                "id": "v7.7",
+                "versicle_number": 7,
+                "text": "Lembra-te de que a minha vida é como o vento; os meus olhos não tornarão a ver o bem."
+            },
+            {
+                "id": "v7.8",
+                "versicle_number": 8,
+                "text": "Os olhos dos que agora me veem não me verão mais; os teus olhos estarão sobre mim, mas não serei mais."
+            },
+            {
+                "id": "v7.9",
+                "versicle_number": 9,
+                "text": "Tal como a nuvem se desfaz e passa, aquele que desce à sepultura nunca tornará a subir."
+            },
+            {
+                "id": "v7.10",
+                "versicle_number": 10,
+                "text": "Nunca mais tornará à sua casa, nem o seu lugar jamais o conhecerá."
+            },
+            {
+                "id": "v7.11",
+                "versicle_number": 11,
+                "text": "Por isso não reprimirei a minha boca; falarei na angústia do meu espírito; queixar-me-ei na amargura da minha alma."
+            },
+            {
+                "id": "v7.12",
+                "versicle_number": 12,
+                "text": "Sou eu porventura o mar, ou a baleia, para que me ponhas uma guarda?"
+            },
+            {
+                "id": "v7.13",
+                "versicle_number": 13,
+                "text": "Dizendo eu: Consolar-me-á a minha cama, meu leito aliviará a minha ânsia!"
+            },
+            {
+                "id": "v7.14",
+                "versicle_number": 14,
+                "text": "Então me espantas com sonhos, e com visões me assombras;"
+            },
+            {
+                "id": "v7.15",
+                "versicle_number": 15,
+                "text": "Pelo que a minha alma escolheria antes a estrangulação; e antes a morte do que estes meus ossos."
+            },
+            {
+                "id": "v7.16",
+                "versicle_number": 16,
+                "text": "A minha vida abomino, pois não viverei para sempre; retira-te de mim, pois vaidade são os meus dias."
+            },
+            {
+                "id": "v7.17",
+                "versicle_number": 17,
+                "text": "Que é o homem,{note:1} para que tanto o estimes, e ponhas sobre ele o teu coração,"
+            },
+            {
+                "id": "v7.18",
+                "versicle_number": 18,
+                "text": "E cada manhã o visites, e cada momento o proves?"
+            },
+            {
+                "id": "v7.19",
+                "versicle_number": 19,
+                "text": "Até quando me não deixarás, nem me largarás, até que engula a minha saliva?"
+            },
+            {
+                "id": "v7.20",
+                "versicle_number": 20,
+                "text": "Se pequei, que te farei, ó Guarda dos homens? Por que fizeste de mim um alvo para ti, para que a mim mesmo me seja pesado?"
+            },
+            {
+                "id": "v7.21",
+                "versicle_number": 21,
+                "text": "E por que me não perdoas a minha transgressão, e não tiras a minha iniquidade? Pois agora me deitarei no pó, e de madrugada me buscarás, e não estarei lá."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 7.17 Sl 8.4; 144.3"
+            }
+        ]
+    }
+}

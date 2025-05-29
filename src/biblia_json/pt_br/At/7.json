@@ -1,0 +1,440 @@
+{
+    "book": {
+        "id": "At",
+        "book_number": 44,
+        "new_testament": true,
+        "num_chapters": 28,
+        "book_name": "ATOS DOS APÓSTOLOS",
+        "book_full_name": "ATOS DOS APÓSTOLOS"
+    },
+    "chapter": {
+        "chapter_number": 7,
+        "chapter_reference": "",
+        "chapter_title": "",
+        "versicles": [
+            {
+                "id": "v7.1",
+                "versicle_number": 1,
+                "text": "E DISSE o sumo sacerdote: Porventura é isto assim?"
+            },
+            {
+                "id": "v7.2",
+                "versicle_number": 2,
+                "text": "E ele disse: Varões irmãos, e pais, ouvi. O Deus da glória apareceu a nosso pai Abraão, estando na Mesopotâmia, antes de habitar em Harã,"
+            },
+            {
+                "id": "v7.3",
+                "versicle_number": 3,
+                "text": "E disse-lhe: Sai da tua terra e dentre a tua parentela, e dirige-te à terra que eu te mostrar.{note:1}"
+            },
+            {
+                "id": "v7.4",
+                "versicle_number": 4,
+                "text": "Então saiu da terra{note:2} dos caldeus, e habitou em Harã. E dali, depois que seu pai faleceu, Deus o trouxe{note:3} para esta terra em que habitais agora."
+            },
+            {
+                "id": "v7.5",
+                "versicle_number": 5,
+                "text": "E não lhe deu nela herança, nem ainda o espaço de um pé: mas prometeu que lhe daria a posse dela,{note:4} e depois dele à sua descendência, não tendo ele filho."
+            },
+            {
+                "id": "v7.6",
+                "versicle_number": 6,
+                "text": "E falou Deus assim: Que a sua descendência seria peregrina em terra alheia, e a sujeitariam à escravidão, e a maltratariam por quatrocentos anos."
+            },
+            {
+                "id": "v7.7",
+                "versicle_number": 7,
+                "text": "E eu julgarei a nação que os tiver escravizado, disse Deus. E depois disto sairão e me servirão neste lugar.{note:5}"
+            },
+            {
+                "id": "v7.8",
+                "versicle_number": 8,
+                "text": "E deu-lhe o pacto da circuncisão;{note:6} e assim gerou a Isaque,{note:7} e o circuncidou ao oitavo dia: e Isaque a Jacó;{note:8} e Jacó aos doze patriarcas.{note:9}"
+            },
+            {
+                "id": "v7.9",
+                "versicle_number": 9,
+                "text": "E os patriarcas, movidos de inveja,{note:10} venderam a José para o Egito;{note:11} mas Deus era com ele.{note:12}"
+            },
+            {
+                "id": "v7.10",
+                "versicle_number": 10,
+                "text": "E livrou-o de todas as suas tribulações, e lhe deu graça e sabedoria ante Faraó, rei do Egito, que o constituiu governador sobre o Egito{note:13} e toda a sua casa."
+            },
+            {
+                "id": "v7.11",
+                "versicle_number": 11,
+                "text": "Sobreveio então a todo o país do Egito e de Canaã fome{note:14} e grande tribulação; e nossos pais não achavam alimentos."
+            },
+            {
+                "id": "v7.12",
+                "versicle_number": 12,
+                "text": "Mas tendo ouvido Jacó{note:15} que no Egito havia trigo, enviou ali nossos pais, a primeira vez."
+            },
+            {
+                "id": "v7.13",
+                "versicle_number": 13,
+                "text": "E na segunda vez foi José conhecido{note:16} por seus irmãos, e a sua linhagem foi manifesta a Faraó."
+            },
+            {
+                "id": "v7.14",
+                "versicle_number": 14,
+                "text": "E José mandou chamar a seu pai Jacó{note:17} e a toda sua parentela, que era de setenta e cinco almas.{note:18}"
+            },
+            {
+                "id": "v7.15",
+                "versicle_number": 15,
+                "text": "E Jacó desceu ao Egito,{note:19} e morreu,{note:20} ele e nossos pais;"
+            },
+            {
+                "id": "v7.16",
+                "versicle_number": 16,
+                "text": "E foram transportados para Siquém,{note:21} e depositados na sepultura que Abraão comprara{note:22} por certa soma de dinheiro aos filhos de Hemor, pai de Siquém."
+            },
+            {
+                "id": "v7.17",
+                "versicle_number": 17,
+                "text": "Aproximando-se, porém, o tempo da promessa que Deus tinha feito a Abraão, o povo cresceu e se multiplicou no Egito;"
+            },
+            {
+                "id": "v7.18",
+                "versicle_number": 18,
+                "text": "Até que se levantou outro rei, que não conhecia a José.{note:23}"
+            },
+            {
+                "id": "v7.19",
+                "versicle_number": 19,
+                "text": "Esse, usando de astúcia{note:24} contra a nossa linhagem, maltratou nossos pais, ao ponto de os fazer enjeitar{note:25} as suas crianças, para que não se multiplicassem."
+            },
+            {
+                "id": "v7.20",
+                "versicle_number": 20,
+                "text": "Nesse tempo nasceu Moisés, e era mui formoso, e foi criado três meses em casa de seu pai."
+            },
+            {
+                "id": "v7.21",
+                "versicle_number": 21,
+                "text": "E, sendo enjeitado, tomou-o a filha de Faraó, e o criou como seu filho.{note:26}"
+            },
+            {
+                "id": "v7.22",
+                "versicle_number": 22,
+                "text": "E Moisés foi instruído em toda a ciência dos egípcios; e era poderoso em suas palavras e obras."
+            },
+            {
+                "id": "v7.23",
+                "versicle_number": 23,
+                "text": "E, quando completou a idade de quarenta anos, veio-lhe ao coração ir visitar seus irmãos, os filhos d'Israel."
+            },
+            {
+                "id": "v7.24",
+                "versicle_number": 24,
+                "text": "E, vendo maltratado um deles, o defendeu, e vingou o ofendido, matando o egípcio."
+            },
+            {
+                "id": "v7.25",
+                "versicle_number": 25,
+                "text": "E ele cuidava que seus irmãos entenderiam que Deus lhes havia de dar a liberdade pela sua mão; mas eles não entenderam."
+            },
+            {
+                "id": "v7.26",
+                "versicle_number": 26,
+                "text": "E no dia seguinte, pelejando eles, foi por eles visto, e quis levá-los à paz, dizendo: Varões, sois irmãos; por que vos agravais um ao outro?"
+            },
+            {
+                "id": "v7.27",
+                "versicle_number": 27,
+                "text": "E o que ofendia o seu próximo o repeliu, dizendo: Quem te constituiu príncipe e juiz sobre nós?"
+            },
+            {
+                "id": "v7.28",
+                "versicle_number": 28,
+                "text": "Queres tu matar-me, como ontem mataste o egípcio?"
+            },
+            {
+                "id": "v7.29",
+                "versicle_number": 29,
+                "text": "E a esta palavra fugiu Moisés, e esteve como estrangeiro na terra de Midiã, onde gerou dois filhos.{note:27}{note:28}"
+            },
+            {
+                "id": "v7.30",
+                "versicle_number": 30,
+                "text": "E, completados quarenta anos, apareceu-lhe o anjo do Senhor, no deserto do monte Sinai, numa chama de fogo de um sarçal."
+            },
+            {
+                "id": "v7.31",
+                "versicle_number": 31,
+                "text": "Então Moisés, quando viu isto, se maravilhou da visão; e, aproximando-se para observar, foi-lhe dirigida a voz do Senhor,"
+            },
+            {
+                "id": "v7.32",
+                "versicle_number": 32,
+                "text": "Dizendo: Eu sou o Deus de teus pais, o Deus d'Abraão, e o Deus de Isaque, e o Deus de Jacó. E Moisés, todo trêmulo, não ousava olhar."
+            },
+            {
+                "id": "v7.33",
+                "versicle_number": 33,
+                "text": "E disse-lhe o Senhor: Tira as alparcas dos teus pés, porque o lugar em que estás é terra santa:"
+            },
+            {
+                "id": "v7.34",
+                "versicle_number": 34,
+                "text": "Tenho visto atentamente a aflição do meu povo que está no Egito, e ouvi os seus gemidos, e desci a livrá-los. Agora, pois, vem, e enviar-te-ei ao Egito.{note:29}"
+            },
+            {
+                "id": "v7.35",
+                "versicle_number": 35,
+                "text": "A este Moisés, ao qual haviam negado, dizendo: Quem te constituiu príncipe e juiz? a este enviou Deus como príncipe e {note:d}libertador, pela mão do anjo que lhe aparecera no sarçal."
+            },
+            {
+                "id": "v7.36",
+                "versicle_number": 36,
+                "text": "Foi este que os conduziu para fora, fazendo prodígios e sinais na terra do Egito,{note:30} e no Mar Vermelho,{note:31} e no deserto, por quarenta anos.{note:32}"
+            },
+            {
+                "id": "v7.37",
+                "versicle_number": 37,
+                "text": "Este é aquele Moisés que disse aos filhos d'Israel: O Senhor vosso Deus vos levantará dentre vossos irmãos um profeta como eu;{note:33} a ele ouvireis."
+            },
+            {
+                "id": "v7.38",
+                "versicle_number": 38,
+                "text": "Este é o que esteve entre a congregação no deserto, com o anjo que lhe falava{note:34} no monte Sinai, e com nossos pais, o qual recebeu as palavras de vida para no-las dar."
+            },
+            {
+                "id": "v7.39",
+                "versicle_number": 39,
+                "text": "Ao qual nossos pais não quiseram obedecer, antes o rejeitaram, e em seu coração se tornaram ao Egito,"
+            },
+            {
+                "id": "v7.40",
+                "versicle_number": 40,
+                "text": "Dizendo a Aarão: Faze-nos deuses que vão adiante de nós; porque a esse Moisés, que nos tirou da terra do Egito, não sabemos o que lhe aconteceu."
+            },
+            {
+                "id": "v7.41",
+                "versicle_number": 41,
+                "text": "E naqueles dias fizeram o bezerro, e ofereceram sacrifícios ao ídolo, e se alegraram nas obras das suas mãos.{note:35}"
+            },
+            {
+                "id": "v7.42",
+                "versicle_number": 42,
+                "text": "Mas Deus se afastou, e os abandonou a que servissem ao exército do céu, como está escrito no livro dos profetas: Porventura me oferecestes vítimas e sacrifícios no deserto por quarenta anos, ó casa d'Israel?"
+            },
+            {
+                "id": "v7.43",
+                "versicle_number": 43,
+                "text": "Antes tomastes o tabernáculo de Moloque, e a estrela do vosso deus Renfã, figuras que vós fizestes para as adorar. Transportar-vos-ei pois para além de Babilônia.{note:36}"
+            },
+            {
+                "id": "v7.44",
+                "versicle_number": 44,
+                "text": "Estava entre nossos pais no deserto o tabernáculo do testemunho, como ordenara aquele que disse a Moisés que o fizesse segundo o modelo que tinha visto.{note:37}"
+            },
+            {
+                "id": "v7.45",
+                "versicle_number": 45,
+                "text": "O qual nossos pais, recebendo-o também o levaram com Josué{note:38} quando entraram na posse das nações que Deus lançou para fora da presença de nossos pais, até aos dias de Davi,"
+            },
+            {
+                "id": "v7.46",
+                "versicle_number": 46,
+                "text": "Que achou graça diante de Deus, e pediu que pudesse achar tabernáculo para o Deus de Jacó.{note:39}"
+            },
+            {
+                "id": "v7.47",
+                "versicle_number": 47,
+                "text": "E Salomão{note:40} lhe edificou casa;"
+            },
+            {
+                "id": "v7.48",
+                "versicle_number": 48,
+                "text": "Mas o Altíssimo não habita em templos feitos por mãos de homens, como diz o profeta:"
+            },
+            {
+                "id": "v7.49",
+                "versicle_number": 49,
+                "text": "O céu é o meu trono, e a terra o estrado dos meus pés. Que casa me edificareis? diz o Senhor: ou qual é o lugar do meu repouso?"
+            },
+            {
+                "id": "v7.50",
+                "versicle_number": 50,
+                "text": "Porventura não fez a minha mão todas estas coisas?{note:41}"
+            },
+            {
+                "id": "v7.51",
+                "versicle_number": 51,
+                "text": "Homens de dura cerviz, e incircuncisos de coração e ouvido: vós sempre resistis{note:42} ao Espírito Santo; assim vós sois como vossos pais."
+            },
+            {
+                "id": "v7.52",
+                "versicle_number": 52,
+                "text": "A qual dos profetas não perseguiram vossos pais? Até mataram os que anteriormente anunciaram a vinda do Justo, do qual vós agora fostes traidores e homicidas;"
+            },
+            {
+                "id": "v7.53",
+                "versicle_number": 53,
+                "text": "Vós, que recebestes a lei por ordenação dos anjos, e não a guardastes."
+            },
+            {
+                "id": "v7.54",
+                "versicle_number": 54,
+                "text": "E ouvindo eles isto, enfureciam-se em seus corações, e rangiam os dentes contra ele."
+            },
+            {
+                "id": "v7.55",
+                "versicle_number": 55,
+                "text": "Mas ele, estando cheio do Espírito Santo, fixando os olhos no céu, viu a glória de Deus, e Jesus, que estava à direita de Deus;"
+            },
+            {
+                "id": "v7.56",
+                "versicle_number": 56,
+                "text": "E disse: Eis que vejo os céus abertos, e o Filho do homem, que está em pé à mão direita de Deus."
+            },
+            {
+                "id": "v7.57",
+                "versicle_number": 57,
+                "text": "Mas eles gritaram com grande voz, taparam os seus ouvidos, e arremeteram unânimes contra ele."
+            },
+            {
+                "id": "v7.58",
+                "versicle_number": 58,
+                "text": "E, expulsando-o da cidade, o apedrejavam. E as testemunhas depuseram os seus vestidos aos pés de um mancebo chamado Saulo."
+            },
+            {
+                "id": "v7.59",
+                "versicle_number": 59,
+                "text": "E apedrejaram a Estêvão, que em invocação dizia: Senhor Jesus, recebe o meu espírito."
+            },
+            {
+                "id": "v7.60",
+                "versicle_number": 60,
+                "text": "E, pondo-se de joelhos, clamou com grande voz: Senhor, não lhes imputes este pecado. E, tendo dito isto, adormeceu."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 7.2-3 Gn 12.1"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 7.4 Gn 11.31 {note:3} 7.4 Gn 12.4"
+            },
+            {
+                "id": "n3",
+                "text": "{note:4} 7.5 Gn 12.7; 13.15; 15.18; 17.8"
+            },
+            {
+                "id": "n4",
+                "text": "{note:5} 7.6-7 Gn 15.13-14"
+            },
+            {
+                "id": "n5",
+                "text": "{note:6} 7.8 Gn 17.10-14 {note:9} 7.8 Gn 29.31—35.18 {note:8} 7.8 Gn 25.26 {note:7} 7.8 Gn 21.2-4"
+            },
+            {
+                "id": "n6",
+                "text": "{note:10} 7.9 Gn 37.11 {note:12} 7.9 Gn 39.2,21 {note:11} 7.9 Gn 37.28"
+            },
+            {
+                "id": "n7",
+                "text": "{note:13} 7.10 Gn 41.39-41"
+            },
+            {
+                "id": "n8",
+                "text": "{note:14} 7.11 Gn 41.54-57"
+            },
+            {
+                "id": "n9",
+                "text": "{note:15} 7.12 Gn 42.1-2"
+            },
+            {
+                "id": "n10",
+                "text": "{note:16} 7.13 Gn 45.1"
+            },
+            {
+                "id": "n11",
+                "text": "{note:17} 7.14 Gn 45.9-10 {note:18} 7.14 Gn 46.27"
+            },
+            {
+                "id": "n12",
+                "text": "{note:19} 7.15 Gn 46.1-7 {note:20} 7.15 Gn 49.33"
+            },
+            {
+                "id": "n13",
+                "text": "{note:21} 7.16 Gn 50.7-13; Js 24.32 {note:22} 7.16 Gn 23.3-16; 33.19"
+            },
+            {
+                "id": "n14",
+                "text": "{note:23} 7.17-18 Êx 1.7-8"
+            },
+            {
+                "id": "n15",
+                "text": "{note:24} 7.19 Êx 1.10-11 {note:25} 7.19 Êx 1.22"
+            },
+            {
+                "id": "n16",
+                "text": "{note:26} 7.20-21 Êx 2.2-10"
+            },
+            {
+                "id": "n17",
+                "text": "{note:27} 7.29 Êx 18.3-4 {note:28} 7.23-29 Êx 2.11-22"
+            },
+            {
+                "id": "n18",
+                "text": "{note:29} 7.30-34 Êx 3.1-10"
+            },
+            {
+                "id": "n19",
+                "text": "{note:d} 7.35 Gr. redentor"
+            },
+            {
+                "id": "n20",
+                "text": "{note:30} 7.36 Êx 7.3 {note:32} 7.36 Nm 14.33 {note:31} 7.36 Êx 14.21"
+            },
+            {
+                "id": "n21",
+                "text": "{note:33} 7.37 Dt 18.15-18"
+            },
+            {
+                "id": "n22",
+                "text": "{note:34} 7.38 Êx 19.1—20.17; Dt 5.1-33"
+            },
+            {
+                "id": "n23",
+                "text": "{note:35} 7.39-41 Êx 32.1-6"
+            },
+            {
+                "id": "n24",
+                "text": "{note:36} 7.42-43 Am 5.25-27"
+            },
+            {
+                "id": "n25",
+                "text": "{note:37} 7.44 Êx 25.9-40"
+            },
+            {
+                "id": "n26",
+                "text": "{note:38} 7.45 Js 3.14-17"
+            },
+            {
+                "id": "n27",
+                "text": "{note:39} 7.45-46 2Sm 7.1-16; 1Cr 17.1-14"
+            },
+            {
+                "id": "n28",
+                "text": "{note:40} 7.47 1Rs 6.1-38; 2Cr 3.1-17"
+            },
+            {
+                "id": "n29",
+                "text": "{note:41} 7.49-50 Is 66.1-2"
+            },
+            {
+                "id": "n30",
+                "text": "{note:42} 7.51 Is 63.10"
+            }
+        ]
+    }
+}

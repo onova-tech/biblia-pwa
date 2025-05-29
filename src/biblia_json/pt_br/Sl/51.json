@@ -1,0 +1,123 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 51,
+        "chapter_reference": "",
+        "chapter_title": "Davi confessa o seu pecado, suplica o perdão e roga a Deus que lhe renove um espírito reto",
+        "versicles": [
+            {
+                "id": "v51.1",
+                "versicle_number": 1,
+                "text": "TEM misericórdia de mim, ó Deus, segundo a tua benignidade; apaga as minhas transgressões, segundo a multidão das tuas misericórdias."
+            },
+            {
+                "id": "v51.2",
+                "versicle_number": 2,
+                "text": "Lava-me completamente da minha iniquidade, e purifica-me do meu pecado."
+            },
+            {
+                "id": "v51.3",
+                "versicle_number": 3,
+                "text": "Porque eu conheço as minhas transgressões, e o meu pecado está sempre diante de mim."
+            },
+            {
+                "id": "v51.4",
+                "versicle_number": 4,
+                "text": "Contra ti, contra ti somente pequei, e fiz o que a teus olhos parece mal, para que sejas justificado{note:2} quando falares, e puro quando julgares."
+            },
+            {
+                "id": "v51.5",
+                "versicle_number": 5,
+                "text": "Eis que em iniquidade fui formado, e em pecado me concebeu minha mãe."
+            },
+            {
+                "id": "v51.6",
+                "versicle_number": 6,
+                "text": "Eis que amas a verdade no íntimo, e no oculto me fazes conhecer a sabedoria."
+            },
+            {
+                "id": "v51.7",
+                "versicle_number": 7,
+                "text": "Purifica-me com hissope, e ficarei puro: lava-me, e ficarei mais alvo do que a neve."
+            },
+            {
+                "id": "v51.8",
+                "versicle_number": 8,
+                "text": "Faze-me ouvir júbilo e alegria, para que gozem os ossos que tu quebraste."
+            },
+            {
+                "id": "v51.9",
+                "versicle_number": 9,
+                "text": "Esconde a tua face dos meus pecados, e apaga todas as minhas iniquidades."
+            },
+            {
+                "id": "v51.10",
+                "versicle_number": 10,
+                "text": "Cria em mim, ó Deus, um coração puro, e renova em mim um espírito reto."
+            },
+            {
+                "id": "v51.11",
+                "versicle_number": 11,
+                "text": "Não me lances fora da tua presença, e não retires de mim o teu Espírito Santo."
+            },
+            {
+                "id": "v51.12",
+                "versicle_number": 12,
+                "text": "Torna a dar-me a alegria da tua salvação, e sustém-me com um espírito voluntário."
+            },
+            {
+                "id": "v51.13",
+                "versicle_number": 13,
+                "text": "Então ensinarei aos transgressores os teus caminhos, e os pecadores a ti se converterão."
+            },
+            {
+                "id": "v51.14",
+                "versicle_number": 14,
+                "text": "Livra-me dos crimes de sangue, ó Deus, Deus da minha salvação, e a minha língua louvará altamente a tua justiça."
+            },
+            {
+                "id": "v51.15",
+                "versicle_number": 15,
+                "text": "Abre, Senhor, os meus lábios, e a minha boca entoará o teu louvor."
+            },
+            {
+                "id": "v51.16",
+                "versicle_number": 16,
+                "text": "Porque te não comprazes em sacrifícios, senão eu os daria; tu não te deleitas em holocaustos."
+            },
+            {
+                "id": "v51.17",
+                "versicle_number": 17,
+                "text": "Os sacrifícios para Deus são o espírito quebrantado; a um coração quebrantado e contrito não desprezarás, ó Deus."
+            },
+            {
+                "id": "v51.18",
+                "versicle_number": 18,
+                "text": "Abençoa a Sião, segundo a tua boa vontade; edifica os muros de Jerusalém."
+            },
+            {
+                "id": "v51.19",
+                "versicle_number": 19,
+                "text": "Então te agradarás de sacrifícios de justiça, dos holocaustos e das ofertas queimadas; então se oferecerão novilhos sobre o teu altar."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 51, título 2Sm 12.1-15"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 51.4 Rm 3.4"
+            }
+        ]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 87,
+        "chapter_reference": "",
+        "chapter_title": "Deus tem o maior prazer em Sião",
+        "versicles": [
+            {
+                "id": "v87.1",
+                "versicle_number": 1,
+                "text": "O SEU fundamento está nos montes santos."
+            },
+            {
+                "id": "v87.2",
+                "versicle_number": 2,
+                "text": "O Senhor ama as portas de Sião, mais do que todas as habitações de Jacó."
+            },
+            {
+                "id": "v87.3",
+                "versicle_number": 3,
+                "text": "Cousas gloriosas se dizem de ti, ó cidade de Deus. (Selá.)"
+            },
+            {
+                "id": "v87.4",
+                "versicle_number": 4,
+                "text": "Dentre os que me conhecem, farei menção de Raabe e de Babilônia: eis que da Filístia, e de Tiro, e {note:i}da Etiópia, se dirá: Este é nascido ali."
+            },
+            {
+                "id": "v87.5",
+                "versicle_number": 5,
+                "text": "E de Sião se dirá: Este e aquele nasceram ali: e o mesmo Altíssimo a estabelecerá."
+            },
+            {
+                "id": "v87.6",
+                "versicle_number": 6,
+                "text": "O Senhor, ao fazer descrição dos povos, dirá: este é nascido ali. (Selá.)"
+            },
+            {
+                "id": "v87.7",
+                "versicle_number": 7,
+                "text": "E os cantores e tocadores de instrumentos entoarão: todas as minhas fontes estão em ti."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:i} 87.4 Heb. de Cuxe"
+            }
+        ]
+    }
+}

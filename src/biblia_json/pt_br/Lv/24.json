@@ -1,0 +1,166 @@
+{
+    "book": {
+        "id": "Lv",
+        "book_number": 3,
+        "new_testament": false,
+        "num_chapters": 27,
+        "book_name": "LEVÍTICO",
+        "book_full_name": "O TERCEIRO LIVRO DE MOISÉS LEVÍTICO"
+    },
+    "chapter": {
+        "chapter_number": 24,
+        "chapter_reference": "",
+        "chapter_title": "A lei acerca das lâmpadas",
+        "versicles": [
+            {
+                "id": "v24.1",
+                "versicle_number": 1,
+                "text": "E FALOU o Senhor a Moisés, dizendo:"
+            },
+            {
+                "id": "v24.2",
+                "versicle_number": 2,
+                "text": "Ordena aos filhos de Israel que te tragam azeite de oliveira, puro, batido, para a luminária, para acender as lâmpadas continuamente."
+            },
+            {
+                "id": "v24.3",
+                "versicle_number": 3,
+                "text": "Aarão as porá em ordem perante o Senhor continuamente desde a tarde até à manhã, fora do véu do testemunho, na tenda da congregação: estatuto perpétuo é pelas vossas gerações."
+            },
+            {
+                "id": "v24.4",
+                "versicle_number": 4,
+                "text": "Sobre o castiçal puro porá em ordem as lâmpadas perante o Senhor continuamente."
+            },
+            {
+                "id": "v24.5",
+                "versicle_number": 5,
+                "text": "Também tomarás da flor de farinha, e dela cozerás doze bolos:{note:1} cada bolo será de duas dízimas de efa."
+            },
+            {
+                "id": "v24.6",
+                "versicle_number": 6,
+                "text": "E os porás em duas fileiras, seis em cada fileira, sobre a mesa pura, perante o Senhor."
+            },
+            {
+                "id": "v24.7",
+                "versicle_number": 7,
+                "text": "E sobre cada fileira porás incenso puro, que será para o pão por oferta memorial; oferta queimada é ao Senhor."
+            },
+            {
+                "id": "v24.8",
+                "versicle_number": 8,
+                "text": "Em cada dia de sábado, isto se porá em ordem perante o Senhor continuamente, pelos filhos de Israel, por concerto perpétuo."
+            },
+            {
+                "id": "v24.9",
+                "versicle_number": 9,
+                "text": "E será de Aarão e de seus filhos,{note:2} os quais o comerão no lugar santo, porque uma cousa santíssima é para ele, das ofertas queimadas ao Senhor, por estatuto perpétuo."
+            },
+            {
+                "id": "v24.10",
+                "versicle_number": 10,
+                "text": "E apareceu um filho duma mulher israelita, o qual era filho dum egípcio, no meio dos filhos de Israel; e o filho da israelita e um homem israelita porfiaram no arraial."
+            },
+            {
+                "id": "v24.11",
+                "versicle_number": 11,
+                "text": "Então o filho da mulher israelita blasfemou o nome do Senhor, e o amaldiçoou, pelo que o trouxeram a Moisés: e o nome de sua mãe era Selomite, filha de Dibri, da tribo de Dã."
+            },
+            {
+                "id": "v24.12",
+                "versicle_number": 12,
+                "text": "E o levaram à prisão, até que se lhes fizesse declaração pela boca do Senhor."
+            },
+            {
+                "id": "v24.13",
+                "versicle_number": 13,
+                "text": "E falou o Senhor a Moisés, dizendo:"
+            },
+            {
+                "id": "v24.14",
+                "versicle_number": 14,
+                "text": "Tira o que tem blasfemado para fora do arraial; e todos os que o ouviram porão as suas mãos sobre a sua cabeça: então toda a congregação o apedrejará."
+            },
+            {
+                "id": "v24.15",
+                "versicle_number": 15,
+                "text": "E aos filhos de Israel falarás, dizendo: Qualquer que amaldiçoar o seu Deus, levará sobre si o seu pecado."
+            },
+            {
+                "id": "v24.16",
+                "versicle_number": 16,
+                "text": "E aquele que blasfemar o nome do Senhor, certamente morrerá; toda a congregação certamente o apedrejará; assim o estrangeiro como o natural, blasfemando o nome do Senhor, será morto."
+            },
+            {
+                "id": "v24.17",
+                "versicle_number": 17,
+                "text": "E quem matar a alguém{note:3} certamente morrerá."
+            },
+            {
+                "id": "v24.18",
+                "versicle_number": 18,
+                "text": "Mas quem matar um animal, o restituirá, vida por vida."
+            },
+            {
+                "id": "v24.19",
+                "versicle_number": 19,
+                "text": "Quando também alguém desfigurar o seu próximo, como ele fez assim lhe será feito:"
+            },
+            {
+                "id": "v24.20",
+                "versicle_number": 20,
+                "text": "Quebradura por quebradura, olho por olho,{note:4} dente por dente: como ele tiver desfigurado a algum homem, assim se lhe fará."
+            },
+            {
+                "id": "v24.21",
+                "versicle_number": 21,
+                "text": "Quem pois matar um animal, restituí-lo-á, mas quem matar um homem será morto."
+            },
+            {
+                "id": "v24.22",
+                "versicle_number": 22,
+                "text": "Uma mesma lei tereis: assim será o estrangeiro{note:5} como o natural; pois eu sou o Senhor vosso Deus."
+            },
+            {
+                "id": "v24.23",
+                "versicle_number": 23,
+                "text": "E disse Moisés aos filhos de Israel que levassem o que tinha blasfemado para fora do arraial, e o apedrejassem com pedras: e fizeram os filhos de Israel como o Senhor ordenara a Moisés."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v24.5",
+                "text": "O pão para a mesa do Senhor"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v24.10",
+                "text": "A pena do pecado da blasfêmia"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 24.5 Êx 25.30"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 24.9 Mt 12.4; Mc 2.26; Lc 6.4"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 24.17 Êx 21.12"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 24.20 Êx 21.22-25; Dt 19.21; Mt 5.38"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 24.22 Nm 15.16"
+            }
+        ]
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "book": {
+        "id": "Jr",
+        "book_number": 24,
+        "new_testament": false,
+        "num_chapters": 52,
+        "book_name": "JEREMIAS",
+        "book_full_name": "JEREMIAS"
+    },
+    "chapter": {
+        "chapter_number": 8,
+        "chapter_reference": "",
+        "chapter_title": "A apostasia do povo de Deus. O castigo é inevitável",
+        "versicles": [
+            {
+                "id": "v8.1",
+                "versicle_number": 1,
+                "text": "NAQUELE tempo, diz o Senhor, tirarão os ossos dos reis de Judá, e os ossos dos seus príncipes, e os ossos dos sacerdotes, e os ossos dos profetas, e os ossos dos habitantes de Jerusalém para fora das suas sepulturas;"
+            },
+            {
+                "id": "v8.2",
+                "versicle_number": 2,
+                "text": "E expô-los-ão ao sol, e à lua, e a todo o exército do céu, a quem tinham amado e a quem tinham servido, e após quem tinham ido, e a quem tinham buscado e diante de quem se tinham prostrado: não serão recolhidos nem sepultados; serão como esterco sobre a face da terra."
+            },
+            {
+                "id": "v8.3",
+                "versicle_number": 3,
+                "text": "E escolher-se-á antes a morte do que a vida de todo o resto dos que restarem desta raça maligna; que ficar nos lugares onde os lancei, diz o Senhor dos Exércitos."
+            },
+            {
+                "id": "v8.4",
+                "versicle_number": 4,
+                "text": "Dize-lhes mais: Assim diz o Senhor: Cairão os homens, e não se tornarão a levantar? desviar-se-ão, e não voltarão?"
+            },
+            {
+                "id": "v8.5",
+                "versicle_number": 5,
+                "text": "Porque pois se desvia este povo de Jerusalém com uma apostasia contínua? retém o engano, não quer voltar."
+            },
+            {
+                "id": "v8.6",
+                "versicle_number": 6,
+                "text": "Eu escutei e ouvi: não falam o que é reto, ninguém há que se arrependa da sua maldade, dizendo: Que fiz eu? Cada um se desvia na sua carreira, como um cavalo que arremete com ímpeto na batalha."
+            },
+            {
+                "id": "v8.7",
+                "versicle_number": 7,
+                "text": "Até a cegonha no céu conhece os seus tempos determinados; e a rola, e o grou e a andorinha observam o tempo da sua arribação: mas o meu povo não conhece o juízo do Senhor."
+            },
+            {
+                "id": "v8.8",
+                "versicle_number": 8,
+                "text": "Como pois dizeis: Nós somos sábios, e a lei do Senhor está conosco? eis que em vão tem trabalhado a falsa pena dos escribas."
+            },
+            {
+                "id": "v8.9",
+                "versicle_number": 9,
+                "text": "Os sábios foram envergonhados, foram espantados e presos: eis que rejeitaram a palavra do Senhor; que sabedoria pois teriam?"
+            },
+            {
+                "id": "v8.10",
+                "versicle_number": 10,
+                "text": "Portanto darei suas mulheres a outros, e as suas herdades a quem as possua; porque desde o menor até ao maior cada um deles se dá à avareza: desde o profeta até ao sacerdote, cada um deles usa de falsidade."
+            },
+            {
+                "id": "v8.11",
+                "versicle_number": 11,
+                "text": "E curam a ferida da filha de meu povo levianamente, dizendo: Paz, paz; quando não há paz."
+            },
+            {
+                "id": "v8.12",
+                "versicle_number": 12,
+                "text": "Porventura envergonham-se de cometer abominação? pelo contrário, de maneira nenhuma se envergonham, nem sabem que cousa é envergonhar-se; portanto cairão entre os que caem e tropeçarão no tempo em que eu os visitar, diz o Senhor."
+            },
+            {
+                "id": "v8.13",
+                "versicle_number": 13,
+                "text": "Certamente os apanharei, diz o Senhor: já não há uvas na vide, nem figos na figueira, e a folha caiu; e até aquilo mesmo que lhes dei se irá deles."
+            },
+            {
+                "id": "v8.14",
+                "versicle_number": 14,
+                "text": "Porque nos assentamos ainda? juntai-vos e entremos nas cidades fortes, e ali estejamos calados; pois já o Senhor nosso Deus nos fez calar e nos deu a beber água de fel; porquanto pecamos contra o Senhor."
+            },
+            {
+                "id": "v8.15",
+                "versicle_number": 15,
+                "text": "Espera-se a paz, e não há bem: o tempo da cura, e eis o terror."
+            },
+            {
+                "id": "v8.16",
+                "versicle_number": 16,
+                "text": "Já desde Dã se ouve o resfolegar dos seus cavalos: toda a terra treme à voz dos rinchos dos seus fortes; e vêm, e devoram a terra e a sua abundância, a cidade e os que habitam nela."
+            },
+            {
+                "id": "v8.17",
+                "versicle_number": 17,
+                "text": "Porque eis que enviarei entre vós serpentes e basiliscos, contra os quais não há encantamento, e vos morderão, diz o Senhor."
+            },
+            {
+                "id": "v8.18",
+                "versicle_number": 18,
+                "text": "Oh! se eu pudesse consolar-me na minha tristeza! o meu coração desfalece em mim."
+            },
+            {
+                "id": "v8.19",
+                "versicle_number": 19,
+                "text": "Eis a voz do clamor da filha do meu povo de terra mui remota: Não está o Senhor em Sião? não está nela o seu rei? Por que me provocaram à ira com as suas imagens de escultura, com vaidades estranhas?"
+            },
+            {
+                "id": "v8.20",
+                "versicle_number": 20,
+                "text": "Passou a sega, findou o verão, e nós não estamos salvos."
+            },
+            {
+                "id": "v8.21",
+                "versicle_number": 21,
+                "text": "Estou quebrantado pela ferida da filha do meu povo: ando de luto: o espanto se apoderou de mim."
+            },
+            {
+                "id": "v8.22",
+                "versicle_number": 22,
+                "text": "Porventura não há unguento em Gileade? ou não há lá médico? por que pois não teve lugar a cura da filha do meu povo?"
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

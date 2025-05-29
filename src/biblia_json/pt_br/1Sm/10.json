@@ -1,0 +1,165 @@
+{
+    "book": {
+        "id": "1Sm",
+        "book_number": 9,
+        "new_testament": false,
+        "num_chapters": 31,
+        "book_name": "SAMUEL",
+        "book_full_name": "O PRIMEIRO LIVRO DE SAMUEL"
+    },
+    "chapter": {
+        "chapter_number": 10,
+        "chapter_reference": "",
+        "chapter_title": "Samuel unge Saul como rei de Israel",
+        "versicles": [
+            {
+                "id": "v10.1",
+                "versicle_number": 1,
+                "text": "ENTÃO tomou Samuel um vaso de azeite, e lho derramou sobre a cabeça, e o beijou, e disse: Porventura te não tem ungido o Senhor por capitão sobre a sua herdade."
+            },
+            {
+                "id": "v10.2",
+                "versicle_number": 2,
+                "text": "Partindo-te hoje de mim, acharás dois homens junto ao sepulcro de Raquel, no termo de Benjamim, em Zelsa, os quais te dirão: Acharam-se as jumentas que foste buscar, e eis que já o teu pai deixou o negócio das jumentas, e anda aflito por causa de vós, dizendo: Que farei eu por meu filho?"
+            },
+            {
+                "id": "v10.3",
+                "versicle_number": 3,
+                "text": "E quando dali passares mais adiante, e chegares ao carvalho de Tabor, ali te encontrarão três homens, que vão subindo a Deus a Betel: um levando três cabritos, o outro três bolos de pão, e o outro um odre de vinho."
+            },
+            {
+                "id": "v10.4",
+                "versicle_number": 4,
+                "text": "E te perguntarão como estás, e te darão dois pães, que tomarás da sua mão."
+            },
+            {
+                "id": "v10.5",
+                "versicle_number": 5,
+                "text": "Então virás ao outeiro de Deus, onde está a guarnição dos filisteus; e há de ser que, entrando ali na cidade, encontrarás um rancho de profetas que descem do alto, e trazem diante de si saltérios, e tambores, e flautas, e harpas; e profetizarão."
+            },
+            {
+                "id": "v10.6",
+                "versicle_number": 6,
+                "text": "E o espírito do Senhor se apoderará de ti, e profetizarás com eles, e te mudarás em outro homem."
+            },
+            {
+                "id": "v10.7",
+                "versicle_number": 7,
+                "text": "E há de ser que, quando estes sinais te vierem, faze o que achar a tua mão, porque Deus é contigo."
+            },
+            {
+                "id": "v10.8",
+                "versicle_number": 8,
+                "text": "Tu porém descerás diante de mim a Gilgal, e eis que eu descerei a ti, para sacrificar holocaustos, e para oferecer ofertas pacíficas: ali sete dias esperarás, até que eu venha a ti, e te declare o que hás de fazer."
+            },
+            {
+                "id": "v10.9",
+                "versicle_number": 9,
+                "text": "Sucedeu pois que, virando ele as costas para partir de Samuel, Deus lhe mudou o coração em outro: e todos aqueles sinais aconteceram aquele mesmo dia."
+            },
+            {
+                "id": "v10.10",
+                "versicle_number": 10,
+                "text": "E, chegando eles ao outeiro, eis que um rancho de profetas lhes saiu ao encontro: e o espírito do Senhor se apoderou dele, e profetizou no meio deles."
+            },
+            {
+                "id": "v10.11",
+                "versicle_number": 11,
+                "text": "E aconteceu que, como todos os que dantes o conheciam viram que eis que com os profetas profetizava, então disse o povo, cada qual ao seu companheiro: Que é o que sucedeu ao filho de Quis? Está também Saul entre os profetas?"
+            },
+            {
+                "id": "v10.12",
+                "versicle_number": 12,
+                "text": "Então um homem dali respondeu, e disse: Pois quem é o pai deles? Pelo que se tornou em provérbio: Está também Saul entre os profetas?{note:1}"
+            },
+            {
+                "id": "v10.13",
+                "versicle_number": 13,
+                "text": "E, acabando de profetizar, veio ao alto."
+            },
+            {
+                "id": "v10.14",
+                "versicle_number": 14,
+                "text": "E disse-lhe o tio de Saul, a ele e ao seu moço: Aonde fostes? E disse ele: A buscar as jumentas, e, vendo que não apareciam, viemos a Samuel."
+            },
+            {
+                "id": "v10.15",
+                "versicle_number": 15,
+                "text": "Então disse o tio de Saul: Declara-me, peço-te, que é o que vos disse Samuel?"
+            },
+            {
+                "id": "v10.16",
+                "versicle_number": 16,
+                "text": "E disse Saul a seu tio: Declarou-nos, na verdade, que as jumentas se acharam. Porém o negócio do reino, de que Samuel falara, lhe não declarou."
+            },
+            {
+                "id": "v10.17",
+                "versicle_number": 17,
+                "text": "Convocou pois Samuel o povo ao Senhor em Mizpá."
+            },
+            {
+                "id": "v10.18",
+                "versicle_number": 18,
+                "text": "E disse aos filhos de Israel: Assim disse o Senhor Deus de Israel: Eu fiz subir a Israel do Egito, e livrei-vos da mão dos egípcios e da mão de todos os reinos que vos oprimiam."
+            },
+            {
+                "id": "v10.19",
+                "versicle_number": 19,
+                "text": "Mas vós tendes rejeitado hoje a vosso Deus, que vos livrou de todos os vossos males e trabalhos, e lhe tendes dito: Põe um rei sobre nós: agora, pois, ponde-vos perante o Senhor, pelas vossas tribos e pelos vossos milhares."
+            },
+            {
+                "id": "v10.20",
+                "versicle_number": 20,
+                "text": "Fazendo pois chegar Samuel todas as tribos, tomou-se a tribo de Benjamim."
+            },
+            {
+                "id": "v10.21",
+                "versicle_number": 21,
+                "text": "E, fazendo chegar a tribo de Benjamim pelas suas famílias, tomou-se a família de Matri: e dela se tomou Saul, filho de Quis; e o buscaram, porém não se achou."
+            },
+            {
+                "id": "v10.22",
+                "versicle_number": 22,
+                "text": "Então tornaram a perguntar ao Senhor se aquele homem ainda viria ali. E disse o Senhor: Eis que se escondeu entre a bagagem."
+            },
+            {
+                "id": "v10.23",
+                "versicle_number": 23,
+                "text": "E correram, e o tomaram dali, e pôs-se no meio do povo: e era mais alto do que todo o povo desde o ombro para cima."
+            },
+            {
+                "id": "v10.24",
+                "versicle_number": 24,
+                "text": "Então disse Samuel a todo o povo: Vedes já a quem o Senhor tem elegido? pois em todo o povo não há nenhum semelhante a ele. Então jubilou todo o povo, e disseram: Viva o rei!"
+            },
+            {
+                "id": "v10.25",
+                "versicle_number": 25,
+                "text": "E declarou Samuel ao povo o direito do reino, e escreveu-o num livro, e pô-lo perante o Senhor: então enviou Samuel a todo o povo, cada um para sua casa."
+            },
+            {
+                "id": "v10.26",
+                "versicle_number": 26,
+                "text": "E foi também Saul para sua casa, a Gibeá: e foram com ele do exército aqueles cujos corações Deus tocara."
+            },
+            {
+                "id": "v10.27",
+                "versicle_number": 27,
+                "text": "Mas os filhos de Belial disseram: É este o que nos há de livrar? E o desprezaram, e não lhe trouxeram presentes: porém ele se fez como surdo."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v10.17",
+                "text": "O povo escolhe Saul para seu rei"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 10.11-12 1Sm 19.23-24"
+            }
+        ]
+    }
+}

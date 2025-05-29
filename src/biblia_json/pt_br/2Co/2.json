@@ -1,0 +1,109 @@
+{
+    "book": {
+        "id": "2Co",
+        "book_number": 47,
+        "new_testament": true,
+        "num_chapters": 13,
+        "book_name": "CORÍNTIOS",
+        "book_full_name": "SEGUNDA EPÍSTOLA DO APÓSTOLO PAULO AOS CORÍNTIOS"
+    },
+    "chapter": {
+        "chapter_number": 2,
+        "chapter_reference": "",
+        "chapter_title": "O caráter e os frutos do ministério de Paulo",
+        "versicles": [
+            {
+                "id": "v2.1",
+                "versicle_number": 1,
+                "text": "MAS deliberei isto comigo mesmo: não ir mais ter convosco em tristeza."
+            },
+            {
+                "id": "v2.2",
+                "versicle_number": 2,
+                "text": "Porque, se eu vos entristeço, quem é que me alegrará, senão aquele que por mim foi contristado?"
+            },
+            {
+                "id": "v2.3",
+                "versicle_number": 3,
+                "text": "E escrevi-vos isto mesmo, para que, quando lá for, não tenha tristeza da parte dos que deveriam alegrar-me; confiando em vós todos, que a minha alegria é a de todos vós."
+            },
+            {
+                "id": "v2.4",
+                "versicle_number": 4,
+                "text": "Porque em muita tribulação e angústia do coração vos escrevi, com muitas lágrimas, não para que vos entristecêsseis, mas para que conhecêsseis o amor que abundantemente vos tenho."
+            },
+            {
+                "id": "v2.5",
+                "versicle_number": 5,
+                "text": "Porque, se alguém me contristou, não me contristou a mim senão em parte, para vos não sobrecarregar a vós todos."
+            },
+            {
+                "id": "v2.6",
+                "versicle_number": 6,
+                "text": "Basta-lhe ao tal esta repreensão feita por muitos."
+            },
+            {
+                "id": "v2.7",
+                "versicle_number": 7,
+                "text": "De maneira que pelo contrário deveis antes perdoar-lhe e consolá-lo, para que o tal não seja de modo algum devorado de demasiada tristeza."
+            },
+            {
+                "id": "v2.8",
+                "versicle_number": 8,
+                "text": "Pelo que vos rogo que confirmeis para com ele o vosso amor."
+            },
+            {
+                "id": "v2.9",
+                "versicle_number": 9,
+                "text": "E para isso vos escrevi também, para por esta prova saber se sois obedientes em tudo."
+            },
+            {
+                "id": "v2.10",
+                "versicle_number": 10,
+                "text": "E a quem perdoardes alguma coisa também eu; porque, o que eu também perdoei, se é que tenho perdoado, por amor de vós o fiz na presença de Cristo; para que não sejamos vencidos por Satanás;"
+            },
+            {
+                "id": "v2.11",
+                "versicle_number": 11,
+                "text": "Porque não ignoramos os seus ardis."
+            },
+            {
+                "id": "v2.12",
+                "versicle_number": 12,
+                "text": "Ora, quando cheguei a Troas para pregar o evangelho de Cristo, e abrindo-se-me uma porta no Senhor,"
+            },
+            {
+                "id": "v2.13",
+                "versicle_number": 13,
+                "text": "Não tive descanso no meu espírito, porque não achei ali meu irmão Tito; mas, despedindo-me deles, parti para a Macedônia.{note:1}"
+            },
+            {
+                "id": "v2.14",
+                "versicle_number": 14,
+                "text": "E graças a Deus, que sempre nos faz triunfar em Cristo, e por meio de nós manifesta em todo o lugar o cheiro do seu conhecimento."
+            },
+            {
+                "id": "v2.15",
+                "versicle_number": 15,
+                "text": "Porque para Deus somos o bom cheiro de Cristo, nos que se salvam e nos que se perdem."
+            },
+            {
+                "id": "v2.16",
+                "versicle_number": 16,
+                "text": "Para estes certamente cheiro de morte para morte: mas para aqueles cheiro de vida para vida. E para estas coisas quem é idôneo?"
+            },
+            {
+                "id": "v2.17",
+                "versicle_number": 17,
+                "text": "Porque nós não somos, como muitos, falsificadores da palavra de Deus, antes falamos de Cristo com sinceridade, como de Deus na presença de Deus."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 2.12-13 At 20.1"
+            }
+        ]
+    }
+}

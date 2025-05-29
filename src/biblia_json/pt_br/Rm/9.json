@@ -1,0 +1,243 @@
+{
+    "book": {
+        "id": "Rm",
+        "book_number": 45,
+        "new_testament": true,
+        "num_chapters": 16,
+        "book_name": "ROMANOS",
+        "book_full_name": "EPÍSTOLA DO APÓSTOLO PAULO AOS ROMANOS"
+    },
+    "chapter": {
+        "chapter_number": 9,
+        "chapter_reference": "",
+        "chapter_title": "Tristeza de Paulo por causa da incredulidade de Israel",
+        "versicles": [
+            {
+                "id": "v9.1",
+                "versicle_number": 1,
+                "text": "EM Cristo digo a verdade, não minto (dando-me testemunho a minha consciência no Espírito Santo):"
+            },
+            {
+                "id": "v9.2",
+                "versicle_number": 2,
+                "text": "Que tenho grande tristeza e contínua dor no meu coração."
+            },
+            {
+                "id": "v9.3",
+                "versicle_number": 3,
+                "text": "Porque eu mesmo poderia desejar ser {note:b}separado de Cristo, por amor de meus irmãos, que são meus parentes segundo a carne;"
+            },
+            {
+                "id": "v9.4",
+                "versicle_number": 4,
+                "text": "Que são israelitas, dos quais é a adoção de filhos, e a glória, e os concertos, e a lei, e o culto, e as promessas;"
+            },
+            {
+                "id": "v9.5",
+                "versicle_number": 5,
+                "text": "Dos quais são os pais, e dos quais é Cristo segundo a carne, o qual é sobre todos, Deus bendito eternamente: Amém."
+            },
+            {
+                "id": "v9.6",
+                "versicle_number": 6,
+                "text": "Não que a palavra de Deus haja faltado, porque nem todos os que são d'Israel são israelitas;"
+            },
+            {
+                "id": "v9.7",
+                "versicle_number": 7,
+                "text": "Nem por serem descendência de Abraão são todos filhos; mas: Em Isaque será chamada a tua descendência.{note:1}"
+            },
+            {
+                "id": "v9.8",
+                "versicle_number": 8,
+                "text": "Isto é: não são os filhos da carne que são filhos de Deus, mas os filhos da promessa são contados como descendência."
+            },
+            {
+                "id": "v9.9",
+                "versicle_number": 9,
+                "text": "Porque a palavra da promessa é esta: Por este tempo virei, e Sara terá um filho.{note:2}"
+            },
+            {
+                "id": "v9.10",
+                "versicle_number": 10,
+                "text": "E não somente esta, mas também Rebeca, quando concebeu de um, de Isaque nosso pai;"
+            },
+            {
+                "id": "v9.11",
+                "versicle_number": 11,
+                "text": "Porque, não tendo eles ainda nascido, nem tendo feito bem ou mal (para que o propósito de Deus, segundo a eleição, ficasse firme, não por causa das obras, mas por aquele que chama),"
+            },
+            {
+                "id": "v9.12",
+                "versicle_number": 12,
+                "text": "Foi-lhe dito a ela: O maior servirá o menor.{note:3}"
+            },
+            {
+                "id": "v9.13",
+                "versicle_number": 13,
+                "text": "Como está escrito: Amei Jacó, e aborreci Esaú.{note:4}"
+            },
+            {
+                "id": "v9.14",
+                "versicle_number": 14,
+                "text": "Que diremos pois? que há injustiça da parte de Deus? de maneira nenhuma."
+            },
+            {
+                "id": "v9.15",
+                "versicle_number": 15,
+                "text": "Pois diz a Moisés: Compadecer-me-ei de quem me compadecer, e terei misericórdia de quem eu tiver misericórdia.{note:5}"
+            },
+            {
+                "id": "v9.16",
+                "versicle_number": 16,
+                "text": "Assim, pois, isto não depende do que quer, nem do que corre, mas de Deus, que se compadece."
+            },
+            {
+                "id": "v9.17",
+                "versicle_number": 17,
+                "text": "Porque diz a Escritura a Faraó: Para isto mesmo te levantei; para em ti mostrar o meu poder, e para que o meu nome seja anunciado em toda a terra.{note:6}"
+            },
+            {
+                "id": "v9.18",
+                "versicle_number": 18,
+                "text": "Logo pois compadece-se de quem quer, e endurece a quem quer."
+            },
+            {
+                "id": "v9.19",
+                "versicle_number": 19,
+                "text": "Dir-me-ás então: Por que se queixa ele ainda? Porquanto, quem resiste à sua vontade?"
+            },
+            {
+                "id": "v9.20",
+                "versicle_number": 20,
+                "text": "Mas, ó homem, quem és tu, que a Deus replicas? Porventura a coisa formada dirá ao que a formou:{note:7} Por que me fizeste assim?"
+            },
+            {
+                "id": "v9.21",
+                "versicle_number": 21,
+                "text": "Ou não tem o oleiro poder sobre o barro, para da mesma massa fazer um vaso para honra e outro para desonra?"
+            },
+            {
+                "id": "v9.22",
+                "versicle_number": 22,
+                "text": "E que direis se Deus, querendo mostrar a sua ira, e dar a conhecer o seu poder, suportou com muita paciência os vasos da ira, preparados para perdição;"
+            },
+            {
+                "id": "v9.23",
+                "versicle_number": 23,
+                "text": "Para que também desse a conhecer as riquezas da sua glória nos vasos de misericórdia, que para glória já dantes preparou,"
+            },
+            {
+                "id": "v9.24",
+                "versicle_number": 24,
+                "text": "Os quais somos nós, a quem também chamou, não só dentre os judeus, mas também dentre os gentios?"
+            },
+            {
+                "id": "v9.25",
+                "versicle_number": 25,
+                "text": "Como também diz em Oseias: Chamarei meu povo ao que não era meu povo; e amada à que não era amada.{note:8}"
+            },
+            {
+                "id": "v9.26",
+                "versicle_number": 26,
+                "text": "E sucederá que no lugar em que lhes foi dito: Vós não sois meu povo; aí serão chamados filhos do Deus vivo.{note:9}"
+            },
+            {
+                "id": "v9.27",
+                "versicle_number": 27,
+                "text": "Também Isaías clamava acerca d'Israel: Ainda que o número dos filhos d'Israel seja como a areia do mar, o remanescente é que será salvo."
+            },
+            {
+                "id": "v9.28",
+                "versicle_number": 28,
+                "text": "Porque o Senhor executará a sua palavra sobre a terra, completando-a e abreviando-a.{note:10}"
+            },
+            {
+                "id": "v9.29",
+                "versicle_number": 29,
+                "text": "E como antes disse Isaías: Se o Senhor {note:c}dos Exércitos nos não deixara descendência, teríamos sido feitos como Sodoma, e seríamos semelhantes a Gomorra.{note:11}"
+            },
+            {
+                "id": "v9.30",
+                "versicle_number": 30,
+                "text": "Que diremos pois? Que os gentios, que não buscavam a justiça, alcançaram a justiça? Sim, mas a justiça que é pela fé."
+            },
+            {
+                "id": "v9.31",
+                "versicle_number": 31,
+                "text": "Mas Israel, que buscava a lei da justiça, não chegou à lei da justiça."
+            },
+            {
+                "id": "v9.32",
+                "versicle_number": 32,
+                "text": "Por quê? Porque não foi pela fé, mas como que pelas obras da lei: tropeçaram na pedra de tropeço;"
+            },
+            {
+                "id": "v9.33",
+                "versicle_number": 33,
+                "text": "Como está escrito: Eis que eu ponho em Sião uma pedra de tropeço, e uma rocha de escândalo; e todo aquele que crer nela não será confundido.{note:12}"
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v9.6",
+                "text": "A liberdade absoluta da graça de Deus"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:b} 9.3 ou anátema"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 9.7 Gn 21.12"
+            },
+            {
+                "id": "n3",
+                "text": "{note:2} 9.9 Gn 18.10"
+            },
+            {
+                "id": "n4",
+                "text": "{note:3} 9.12 Gn 25.23"
+            },
+            {
+                "id": "n5",
+                "text": "{note:4} 9.13 Ml 1.2-3"
+            },
+            {
+                "id": "n6",
+                "text": "{note:5} 9.15 Êx 33.19"
+            },
+            {
+                "id": "n7",
+                "text": "{note:6} 9.17 Êx 9.16"
+            },
+            {
+                "id": "n8",
+                "text": "{note:7} 9.20 Is 45.9"
+            },
+            {
+                "id": "n9",
+                "text": "{note:8} 9.25 Os 2.23"
+            },
+            {
+                "id": "n10",
+                "text": "{note:9} 9.26 Os 1.10"
+            },
+            {
+                "id": "n11",
+                "text": "{note:10} 9.27-28 Is 10.22-23"
+            },
+            {
+                "id": "n12",
+                "text": "{note:c} 9.29 ou de Sebaoth {note:11} 9.29 Is 1.9"
+            },
+            {
+                "id": "n13",
+                "text": "{note:12} 9.33 Is 28.16"
+            }
+        ]
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "book": {
+        "id": "Job",
+        "book_number": 18,
+        "new_testament": false,
+        "num_chapters": 42,
+        "book_name": "JÓ",
+        "book_full_name": "O LIVRO DE JÓ"
+    },
+    "chapter": {
+        "chapter_number": 1,
+        "chapter_reference": "",
+        "chapter_title": "A virtude, tentação e perdas de Jó",
+        "versicles": [
+            {
+                "id": "v1.1",
+                "versicle_number": 1,
+                "text": "HAVIA um homem na terra de Uz, cujo nome era Jó; e este era homem sincero, reto e temente a Deus, e desviava-se do mal."
+            },
+            {
+                "id": "v1.2",
+                "versicle_number": 2,
+                "text": "E nasceram-lhe sete filhos e três filhas."
+            },
+            {
+                "id": "v1.3",
+                "versicle_number": 3,
+                "text": "E era o seu gado sete mil ovelhas, e três mil camelos, e quinhentas juntas de bois, e quinhentas jumentas; era também muitíssima a gente ao seu serviço, de maneira que este homem era maior do que todos os do oriente."
+            },
+            {
+                "id": "v1.4",
+                "versicle_number": 4,
+                "text": "E iam seus filhos, e faziam banquetes em casa de cada um no seu dia; e enviavam, e convidavam as suas três irmãs a comerem e beberem com eles."
+            },
+            {
+                "id": "v1.5",
+                "versicle_number": 5,
+                "text": "Sucedeu pois que, tendo decorrido o turno de dias de seus banquetes, enviava Jó, e os santificava, e se levantava de madrugada, e oferecia holocaustos segundo o número de todos eles; porque dizia Jó: Porventura pecaram meus filhos, e {note:a}blasfemaram de Deus no seu coração. Assim o fazia Jó continuamente."
+            },
+            {
+                "id": "v1.6",
+                "versicle_number": 6,
+                "text": "E vindo um dia em que os filhos de Deus vieram apresentar-se perante o Senhor, veio também Satanás entre eles."
+            },
+            {
+                "id": "v1.7",
+                "versicle_number": 7,
+                "text": "Então o Senhor disse a Satanás: Donde vens? E Satanás respondeu ao Senhor, e disse: De rodear a terra, e passear por ela."
+            },
+            {
+                "id": "v1.8",
+                "versicle_number": 8,
+                "text": "E disse o Senhor a Satanás: Observaste tu a meu servo Jó? Porque ninguém há na terra semelhante a ele, homem sincero e reto, temente a Deus, e desviando-se do mal."
+            },
+            {
+                "id": "v1.9",
+                "versicle_number": 9,
+                "text": "Então respondeu Satanás{note:1} ao Senhor, e disse: Porventura teme Jó a Deus debalde?"
+            },
+            {
+                "id": "v1.10",
+                "versicle_number": 10,
+                "text": "Porventura não o cercaste tu de bens a ele, e a sua casa, e a tudo quanto tem? A obra de suas mãos abençoaste e o seu gado está aumentado na terra."
+            },
+            {
+                "id": "v1.11",
+                "versicle_number": 11,
+                "text": "Mas estende a tua mão, e toca-lhe em tudo quanto tem, e verás se não blasfema de ti na tua face!"
+            },
+            {
+                "id": "v1.12",
+                "versicle_number": 12,
+                "text": "E disse o Senhor a Satanás: Eis que tudo quanto tem está na tua mão, somente contra ele não estendas a tua mão. E Satanás saiu da presença do Senhor."
+            },
+            {
+                "id": "v1.13",
+                "versicle_number": 13,
+                "text": "E sucedeu um dia, em que seus filhos e suas filhas comiam, e bebiam vinho na casa de seu irmão primogênito,"
+            },
+            {
+                "id": "v1.14",
+                "versicle_number": 14,
+                "text": "Que veio um mensageiro a Jó, e lhe disse: Os bois lavravam, e as jumentas pasciam junto a eles;"
+            },
+            {
+                "id": "v1.15",
+                "versicle_number": 15,
+                "text": "E eis que deram sobre eles os sabeus, e os tomaram, e aos moços feriram ao fio da espada; e eu somente escapei, para te trazer a nova."
+            },
+            {
+                "id": "v1.16",
+                "versicle_number": 16,
+                "text": "Estando este ainda falando, veio outro e disse: Fogo de Deus caiu do céu, e queimou as ovelhas e os moços, e os consumiu, e só eu escapei, para te trazer a nova."
+            },
+            {
+                "id": "v1.17",
+                "versicle_number": 17,
+                "text": "Estando ainda este falando, veio outro, e disse: Ordenando os caldeus três bandos, deram sobre os camelos, e os tomaram, e aos moços feriram ao fio da espada; e só eu escapei, para te trazer a nova."
+            },
+            {
+                "id": "v1.18",
+                "versicle_number": 18,
+                "text": "Estando ainda este falando veio outro, e disse: Estando teus filhos e tuas filhas comendo e bebendo vinho, em casa de seu irmão primogênito,"
+            },
+            {
+                "id": "v1.19",
+                "versicle_number": 19,
+                "text": "Eis que um grande vento sobreveio dalém do deserto, e deu nos quatro cantos da casa, a qual caiu sobre os mancebos, e morreram; e só eu escapei, para te trazer a nova."
+            },
+            {
+                "id": "v1.20",
+                "versicle_number": 20,
+                "text": "Então Jó se levantou, e rasgou o seu manto, e rapou a sua cabeça, e se lançou em terra, e adorou,"
+            },
+            {
+                "id": "v1.21",
+                "versicle_number": 21,
+                "text": "E disse: Nu saí do ventre de minha mãe, e nu tornarei para lá; o Senhor o deu e o Senhor o tomou; bendito seja o nome do Senhor."
+            },
+            {
+                "id": "v1.22",
+                "versicle_number": 22,
+                "text": "Em tudo isto Jó não pecou, nem atribuiu a Deus falta alguma."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:a} 1.5 ou renunciaram"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 1.9 Ap 12.10"
+            }
+        ]
+    }
+}

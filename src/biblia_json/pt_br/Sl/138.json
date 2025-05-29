@@ -1,0 +1,59 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 138,
+        "chapter_reference": "",
+        "chapter_title": "Ação de graças a Deus pela sua fidelidade. Todos os reis o louvarão",
+        "versicles": [
+            {
+                "id": "v138.1",
+                "versicle_number": 1,
+                "text": "EU te louvarei, Senhor, de todo o meu coração: na presença dos deuses a ti cantarei louvores."
+            },
+            {
+                "id": "v138.2",
+                "versicle_number": 2,
+                "text": "Inclinar-me-ei para o teu santo templo, e louvarei o teu nome pela tua benignidade, e pela sua verdade: pois engrandeceste a tua palavra acima de todo o teu nome."
+            },
+            {
+                "id": "v138.3",
+                "versicle_number": 3,
+                "text": "No dia em que eu clamei, me escutaste; alentaste-me, fortalecendo a minha alma."
+            },
+            {
+                "id": "v138.4",
+                "versicle_number": 4,
+                "text": "Todos os reis da terra te louvarão, ó Senhor, quando ouvirem as palavras da tua boca;"
+            },
+            {
+                "id": "v138.5",
+                "versicle_number": 5,
+                "text": "E cantarão os caminhos do Senhor; pois grande é a glória do Senhor."
+            },
+            {
+                "id": "v138.6",
+                "versicle_number": 6,
+                "text": "Ainda que o Senhor é excelso, atenta para o humilde; mas ao soberbo conhece-o de longe."
+            },
+            {
+                "id": "v138.7",
+                "versicle_number": 7,
+                "text": "Andando eu no meio da angústia, tu me revivificarás: estenderás a tua mão contra a ira dos meus inimigos, e a tua destra me salvará."
+            },
+            {
+                "id": "v138.8",
+                "versicle_number": 8,
+                "text": "O Senhor aperfeiçoará o que me concerne; a tua benignidade, ó Senhor, é para sempre; não desampares as obras das tuas mãos."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

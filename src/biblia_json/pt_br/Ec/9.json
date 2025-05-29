@@ -1,0 +1,115 @@
+{
+    "book": {
+        "id": "Ec",
+        "book_number": 21,
+        "new_testament": false,
+        "num_chapters": 12,
+        "book_name": "ECLESIASTES",
+        "book_full_name": "LIVRO DO ECLESIASTES"
+    },
+    "chapter": {
+        "chapter_number": 9,
+        "chapter_reference": "",
+        "chapter_title": "As mesmas cousas sucedem aos justos e injustos. Gozemos os bens que Deus nos dá",
+        "versicles": [
+            {
+                "id": "v9.1",
+                "versicle_number": 1,
+                "text": "DEVERAS revolvi todas estas cousas no meu coração, para claramente entender tudo isto: que os justos, e os sábios, e as suas obras, estão nas mãos de Deus, e também que o homem não conhece nem o amor nem o ódio; tudo passa perante a sua face."
+            },
+            {
+                "id": "v9.2",
+                "versicle_number": 2,
+                "text": "Tudo sucede igualmente a todos; o mesmo sucede ao justo e ao ímpio: ao bom e ao puro, como ao impuro; assim ao que sacrifica como ao que não sacrifica: assim ao bom como ao pecador; ao que jura como ao que teme o juramento."
+            },
+            {
+                "id": "v9.3",
+                "versicle_number": 3,
+                "text": "Este é o mal que há entre tudo quanto se faz debaixo do sol: que a todos sucede o mesmo; que também o coração dos filhos dos homens está cheio de maldade; que há desvarios no seu coração, na sua vida, e que depois se vão aos mortos."
+            },
+            {
+                "id": "v9.4",
+                "versicle_number": 4,
+                "text": "Ora, para o que acompanha com todos os vivos há esperança (porque melhor é o cão vivo do que o leão morto)."
+            },
+            {
+                "id": "v9.5",
+                "versicle_number": 5,
+                "text": "Porque os vivos sabem que hão de morrer, mas os mortos não sabem cousa nenhuma, nem tão pouco eles têm jamais recompensa, mas a sua memória ficou entregue ao esquecimento."
+            },
+            {
+                "id": "v9.6",
+                "versicle_number": 6,
+                "text": "Até o seu amor, o seu ódio, e a sua inveja já pereceram, e já não têm parte alguma neste século, em cousa alguma do que se faz debaixo do sol."
+            },
+            {
+                "id": "v9.7",
+                "versicle_number": 7,
+                "text": "Vai, pois, come com alegria o teu pão e bebe com bom coração o teu vinho, pois já Deus se agrada das tuas obras."
+            },
+            {
+                "id": "v9.8",
+                "versicle_number": 8,
+                "text": "Em todo o tempo sejam alvos os teus vestidos, e nunca falte o óleo sobre a tua cabeça."
+            },
+            {
+                "id": "v9.9",
+                "versicle_number": 9,
+                "text": "Goza a vida com a mulher que amas, todos os dias de vida da tua vaidade, os quais Deus te deu debaixo do sol, todos os dias da tua vaidade: porque esta é a tua porção nesta vida, e do teu trabalho, que tu fizeste debaixo do sol."
+            },
+            {
+                "id": "v9.10",
+                "versicle_number": 10,
+                "text": "Tudo quanto te vier à mão para fazer, faze-o conforme as tuas forças, porque na sepultura, para onde tu vais, não há obra, nem indústria, nem ciência, nem sabedoria alguma."
+            },
+            {
+                "id": "v9.11",
+                "versicle_number": 11,
+                "text": "Voltei-me, e vi debaixo do sol que não é dos ligeiros a carreira, nem dos valentes a peleja, nem tão pouco dos sábios o pão, nem ainda dos prudentes a riqueza, nem dos entendidos o favor, mas que o tempo e a sorte pertencem a todos."
+            },
+            {
+                "id": "v9.12",
+                "versicle_number": 12,
+                "text": "Que também o homem não conhece o seu tempo; como os peixes que se pescam com a rede maligna, e como os passarinhos que se prendem com o laço, assim se enlaçam também os filhos dos homens no mau tempo, quando cai de repente sobre eles."
+            },
+            {
+                "id": "v9.13",
+                "versicle_number": 13,
+                "text": "Também vi sabedoria debaixo do sol, que foi para mim grande:"
+            },
+            {
+                "id": "v9.14",
+                "versicle_number": 14,
+                "text": "Houve uma pequena cidade em que havia poucos homens, e veio contra ela um grande rei, e a cercou e levantou contra ela grandes tranqueiras:"
+            },
+            {
+                "id": "v9.15",
+                "versicle_number": 15,
+                "text": "E vivia nela um sábio pobre, que livrou aquela cidade pela sua sabedoria, e ninguém se lembrava daquele pobre homem."
+            },
+            {
+                "id": "v9.16",
+                "versicle_number": 16,
+                "text": "Então disse eu: Melhor é a sabedoria do que a força, ainda que a sabedoria do pobre foi desprezada, e as suas palavras não foram ouvidas."
+            },
+            {
+                "id": "v9.17",
+                "versicle_number": 17,
+                "text": "As palavras dos sábios devem em silêncio ser ouvidas, mais do que o clamor do que domina sobre os tolos."
+            },
+            {
+                "id": "v9.18",
+                "versicle_number": 18,
+                "text": "Melhor é a sabedoria do que as armas de guerra, mas um só pecador destrói muitos bens."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v9.11",
+                "text": "A sabedoria é muitas vezes mais útil aos outros do que àquele que a possui"
+            }
+        ],
+        "notes": []
+    }
+}

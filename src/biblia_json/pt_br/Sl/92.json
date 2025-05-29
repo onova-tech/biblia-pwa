@@ -1,0 +1,99 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 92,
+        "chapter_reference": "",
+        "chapter_title": "O salmista louva a Deus por amor da sua obra, justiça e graça",
+        "versicles": [
+            {
+                "id": "v92.1",
+                "versicle_number": 1,
+                "text": "BOM é louvar ao Senhor, e cantar louvores ao teu nome, ó Altíssimo;"
+            },
+            {
+                "id": "v92.2",
+                "versicle_number": 2,
+                "text": "Para de manhã anunciar a tua benignidade, e todas as noites a tua fidelidade:"
+            },
+            {
+                "id": "v92.3",
+                "versicle_number": 3,
+                "text": "Sobre um instrumento de dez cordas, e sobre o saltério: sobre a harpa com som solene."
+            },
+            {
+                "id": "v92.4",
+                "versicle_number": 4,
+                "text": "Pois tu, Senhor, me alegraste com os teus feitos: exultarei nas obras das tuas mãos."
+            },
+            {
+                "id": "v92.5",
+                "versicle_number": 5,
+                "text": "Quão grandes são, Senhor, as tuas obras! mui profundos são os teus pensamentos."
+            },
+            {
+                "id": "v92.6",
+                "versicle_number": 6,
+                "text": "O homem brutal nada sabe, e o louco não entende isto."
+            },
+            {
+                "id": "v92.7",
+                "versicle_number": 7,
+                "text": "Brotam os ímpios como a erva, e florescem todos os que praticam a iniquidade, mas para serem destruídos para sempre."
+            },
+            {
+                "id": "v92.8",
+                "versicle_number": 8,
+                "text": "Mas tu, Senhor, és o Altíssimo para sempre."
+            },
+            {
+                "id": "v92.9",
+                "versicle_number": 9,
+                "text": "Pois eis que os teus inimigos, Senhor, eis que os teus inimigos perecerão; serão dispersos todos os que praticam a iniquidade."
+            },
+            {
+                "id": "v92.10",
+                "versicle_number": 10,
+                "text": "Mas tu exaltarás o meu {note:m}poder, como o do unicórnio: serei ungido com óleo fresco."
+            },
+            {
+                "id": "v92.11",
+                "versicle_number": 11,
+                "text": "Os meus olhos verão cumprido o meu desejo sobre os meus inimigos, e os meus ouvidos dele se certificarão quanto aos malfeitores que se levantam contra mim."
+            },
+            {
+                "id": "v92.12",
+                "versicle_number": 12,
+                "text": "O justo florescerá como a palmeira; crescerá como o cedro no Líbano."
+            },
+            {
+                "id": "v92.13",
+                "versicle_number": 13,
+                "text": "Os que estão plantados na casa do Senhor florescerão nos átrios do nosso Deus."
+            },
+            {
+                "id": "v92.14",
+                "versicle_number": 14,
+                "text": "Na velhice ainda darão frutos: serão viçosos e florescentes;"
+            },
+            {
+                "id": "v92.15",
+                "versicle_number": 15,
+                "text": "Para anunciarem que o Senhor é reto: ele é a minha rocha, e nele não há injustiça."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:m} 92.10 Heb. chifre"
+            }
+        ]
+    }
+}

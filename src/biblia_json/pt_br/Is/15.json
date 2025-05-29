@@ -1,0 +1,69 @@
+{
+    "book": {
+        "id": "Is",
+        "book_number": 23,
+        "new_testament": false,
+        "num_chapters": 66,
+        "book_name": "ISAÍAS",
+        "book_full_name": "ISAÍAS"
+    },
+    "chapter": {
+        "chapter_number": 15,
+        "chapter_reference": "",
+        "chapter_title": "Predição da ruína de Moabe",
+        "versicles": [
+            {
+                "id": "v15.1",
+                "versicle_number": 1,
+                "text": "{note:t}PESO de Moabe. Certamente numa noite foi destruída Ar de Moabe, e foi desfeita: certamente numa noite foi destruída Quir de Moabe, e foi desfeita."
+            },
+            {
+                "id": "v15.2",
+                "versicle_number": 2,
+                "text": "Vai subindo a Bajite, e a Dibom, aos lugares altos, a chorar: por Nebo e por Medeba Moabe uivará; todas as cabeças ficarão calvas, e toda a barba será rapada."
+            },
+            {
+                "id": "v15.3",
+                "versicle_number": 3,
+                "text": "Cingiram-se de sacos nas suas ruas: nos seus terraços e nas suas praças todos andam uivando, e choram abundantemente."
+            },
+            {
+                "id": "v15.4",
+                "versicle_number": 4,
+                "text": "Assim Hesbom como Eleale, andam gritando; até Jaaz se ouve a sua voz: por isso os armados de Moabe clamam; a sua alma treme dentro deles."
+            },
+            {
+                "id": "v15.5",
+                "versicle_number": 5,
+                "text": "O meu coração clama por causa de Moabe: fugiram os seus nobres para Zoar, como a novilha de três anos: porque vão chorando pela subida de Luíte, porque no caminho de Horonaim levantam um lastimoso pranto."
+            },
+            {
+                "id": "v15.6",
+                "versicle_number": 6,
+                "text": "Porque as águas de Ninrim serão pura assolação; porque se secou o feno, definhou a erva, e não há verdura alguma."
+            },
+            {
+                "id": "v15.7",
+                "versicle_number": 7,
+                "text": "Pelo que a abundância que ajuntaram, e o que guardaram, ao ribeiro dos salgueiros o levarão."
+            },
+            {
+                "id": "v15.8",
+                "versicle_number": 8,
+                "text": "Porque o pranto rodeará os limites de Moabe; até Eglaim chegará o seu clamor, e ainda até Beerelim chegará o seu rugido."
+            },
+            {
+                "id": "v15.9",
+                "versicle_number": 9,
+                "text": "Porquanto as águas de Dimom estão cheias de sangue, porque ainda acrescentarei mais a Dimom: leões contra aqueles que escaparem de Moabe, e contra as relíquias da terra."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:t} 15.1 ou Sentença"
+            }
+        ]
+    }
+}

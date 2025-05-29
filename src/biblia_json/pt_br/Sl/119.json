@@ -1,0 +1,908 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 119,
+        "chapter_reference": "",
+        "chapter_title": "A excelência da lei do Senhor e a felicidade daquele que a observa",
+        "versicles": [
+            {
+                "id": "v119.1",
+                "versicle_number": 1,
+                "text": "BEM-AVENTURADOS os que trilham caminhos retos, e andam na lei do Senhor."
+            },
+            {
+                "id": "v119.2",
+                "versicle_number": 2,
+                "text": "Bem-aventurados os que guardam os seus testemunhos, e o buscam de todo o coração."
+            },
+            {
+                "id": "v119.3",
+                "versicle_number": 3,
+                "text": "E não praticam iniquidade, mas andam em seus caminhos."
+            },
+            {
+                "id": "v119.4",
+                "versicle_number": 4,
+                "text": "Tu ordenaste os teus mandamentos, para que diligentemente os observássemos."
+            },
+            {
+                "id": "v119.5",
+                "versicle_number": 5,
+                "text": "Oxalá os meus caminhos fossem dirigidos de maneira a poder eu observar os teus estatutos."
+            },
+            {
+                "id": "v119.6",
+                "versicle_number": 6,
+                "text": "Então não ficaria confundido, atentando eu para todos os teus mandamentos."
+            },
+            {
+                "id": "v119.7",
+                "versicle_number": 7,
+                "text": "Louvar-te-ei com retidão de coração, quando tiver aprendido os teus justos juízos."
+            },
+            {
+                "id": "v119.8",
+                "versicle_number": 8,
+                "text": "Observarei os teus estatutos: não me desampares totalmente."
+            },
+            {
+                "id": "v119.9",
+                "versicle_number": 9,
+                "text": "Como purificará o mancebo o seu caminho? observando-o conforme a tua palavra."
+            },
+            {
+                "id": "v119.10",
+                "versicle_number": 10,
+                "text": "De todo o meu coração te busquei: não me deixes desviar dos teus mandamentos."
+            },
+            {
+                "id": "v119.11",
+                "versicle_number": 11,
+                "text": "Escondi a tua palavra no meu coração, para eu não pecar contra ti."
+            },
+            {
+                "id": "v119.12",
+                "versicle_number": 12,
+                "text": "Bendito és tu, ó Senhor; ensina-me os teus estatutos."
+            },
+            {
+                "id": "v119.13",
+                "versicle_number": 13,
+                "text": "Com os meus lábios declarei todos os juízos da tua boca."
+            },
+            {
+                "id": "v119.14",
+                "versicle_number": 14,
+                "text": "Folgo mais com o caminho dos teus testemunhos, do que todas as riquezas."
+            },
+            {
+                "id": "v119.15",
+                "versicle_number": 15,
+                "text": "Em teus preceitos meditarei, e olharei para os teus caminhos."
+            },
+            {
+                "id": "v119.16",
+                "versicle_number": 16,
+                "text": "Recrear-me-ei nos teus estatutos: não me esquecerei da tua palavra."
+            },
+            {
+                "id": "v119.17",
+                "versicle_number": 17,
+                "text": "Faze bem ao teu servo para que viva e observe a tua palavra."
+            },
+            {
+                "id": "v119.18",
+                "versicle_number": 18,
+                "text": "Desvenda os meus olhos, para que veja as maravilhas da tua lei."
+            },
+            {
+                "id": "v119.19",
+                "versicle_number": 19,
+                "text": "Sou peregrino na terra: não escondas de mim, os teus mandamentos."
+            },
+            {
+                "id": "v119.20",
+                "versicle_number": 20,
+                "text": "A minha alma está quebrantada de desejar os teus juízos em todo o tempo."
+            },
+            {
+                "id": "v119.21",
+                "versicle_number": 21,
+                "text": "Tu repreendeste asperamente os soberbos, amaldiçoados, que se desviam dos teus mandamentos."
+            },
+            {
+                "id": "v119.22",
+                "versicle_number": 22,
+                "text": "Tira de sobre mim o opróbrio e o desprezo, pois guardei os teus testemunhos."
+            },
+            {
+                "id": "v119.23",
+                "versicle_number": 23,
+                "text": "Enquanto os príncipes se conluiavam e falavam contra mim, o teu servo meditava nos teus estatutos."
+            },
+            {
+                "id": "v119.24",
+                "versicle_number": 24,
+                "text": "Também os teus testemunhos são o meu prazer e os meus conselheiros."
+            },
+            {
+                "id": "v119.25",
+                "versicle_number": 25,
+                "text": "A minha alma está pegada ao pó: vivifica-me segundo a tua palavra."
+            },
+            {
+                "id": "v119.26",
+                "versicle_number": 26,
+                "text": "Meus caminhos te descrevi, e tu me ouviste: ensina-me os teus estatutos."
+            },
+            {
+                "id": "v119.27",
+                "versicle_number": 27,
+                "text": "Faze-me entender o caminho dos teus preceitos: assim falarei das tuas maravilhas."
+            },
+            {
+                "id": "v119.28",
+                "versicle_number": 28,
+                "text": "A minha alma consome-se de tristeza: fortalece-me segundo a tua palavra."
+            },
+            {
+                "id": "v119.29",
+                "versicle_number": 29,
+                "text": "Desvia de mim o caminho da falsidade, e concede-me piedosamente a tua lei."
+            },
+            {
+                "id": "v119.30",
+                "versicle_number": 30,
+                "text": "Escolhi o caminho da verdade: propus-me seguir os teus juízos."
+            },
+            {
+                "id": "v119.31",
+                "versicle_number": 31,
+                "text": "Apego-me aos teus testemunhos: Ó Senhor, não me confundas."
+            },
+            {
+                "id": "v119.32",
+                "versicle_number": 32,
+                "text": "Correrei pelo caminho dos teus mandamentos, quando dilatares o meu coração."
+            },
+            {
+                "id": "v119.33",
+                "versicle_number": 33,
+                "text": "Ensina-me, ó Senhor, o caminho dos teus estatutos, e guardá-lo-ei até o fim."
+            },
+            {
+                "id": "v119.34",
+                "versicle_number": 34,
+                "text": "Dá-me entendimento, e guardarei a tua lei, e observá-la-ei de todo o coração."
+            },
+            {
+                "id": "v119.35",
+                "versicle_number": 35,
+                "text": "Faze-me andar na vereda dos teus mandamentos, porque nela tenho prazer."
+            },
+            {
+                "id": "v119.36",
+                "versicle_number": 36,
+                "text": "Inclina o meu coração a teus testemunhos, e não à cobiça."
+            },
+            {
+                "id": "v119.37",
+                "versicle_number": 37,
+                "text": "Desvia os meus olhos de contemplarem a vaidade, e vivifica-me no teu caminho."
+            },
+            {
+                "id": "v119.38",
+                "versicle_number": 38,
+                "text": "Confirma a tua promessa ao teu servo, que se inclina ao teu temor."
+            },
+            {
+                "id": "v119.39",
+                "versicle_number": 39,
+                "text": "Desvia de mim o opróbrio que temo, pois os teus juízos são bons."
+            },
+            {
+                "id": "v119.40",
+                "versicle_number": 40,
+                "text": "Eis que tenho desejado os teus preceitos; vivifica-me por tua justiça."
+            },
+            {
+                "id": "v119.41",
+                "versicle_number": 41,
+                "text": "Venham também sobre mim as tuas misericórdias, ó Senhor, e a tua salvação segundo a tua palavra."
+            },
+            {
+                "id": "v119.42",
+                "versicle_number": 42,
+                "text": "Assim terei que responder ao que me afronta, pois confio na tua palavra."
+            },
+            {
+                "id": "v119.43",
+                "versicle_number": 43,
+                "text": "E de minha boca não tires nunca de todo a palavra de verdade, pois me atenho aos teus juízos."
+            },
+            {
+                "id": "v119.44",
+                "versicle_number": 44,
+                "text": "Assim observarei de contínuo a tua lei, para sempre e eternamente."
+            },
+            {
+                "id": "v119.45",
+                "versicle_number": 45,
+                "text": "E andarei em liberdade; pois busquei os teus preceitos."
+            },
+            {
+                "id": "v119.46",
+                "versicle_number": 46,
+                "text": "Também falarei dos teus testemunhos perante os reis, e não me envergonharei."
+            },
+            {
+                "id": "v119.47",
+                "versicle_number": 47,
+                "text": "E recrear-me-ei em teus mandamentos, que eu amo."
+            },
+            {
+                "id": "v119.48",
+                "versicle_number": 48,
+                "text": "Também levantarei as minhas mãos para os teus mandamentos, que amo, e meditarei nos teus estatutos."
+            },
+            {
+                "id": "v119.49",
+                "versicle_number": 49,
+                "text": "Lembra-te da palavra dada ao teu servo, na qual me fizeste esperar."
+            },
+            {
+                "id": "v119.50",
+                "versicle_number": 50,
+                "text": "Isto é a minha consolação na minha angústia, porque a tua palavra me vivificou."
+            },
+            {
+                "id": "v119.51",
+                "versicle_number": 51,
+                "text": "Os soberbos zombaram grandemente de mim; apesar disso, não me desviei da tua lei."
+            },
+            {
+                "id": "v119.52",
+                "versicle_number": 52,
+                "text": "Lembrei-me dos teus juízos antiquíssimos, ó Senhor, e assim me consolei."
+            },
+            {
+                "id": "v119.53",
+                "versicle_number": 53,
+                "text": "Grande indignação se apoderou de mim por causa dos ímpios que abandonam a tua lei."
+            },
+            {
+                "id": "v119.54",
+                "versicle_number": 54,
+                "text": "Os teus estatutos têm sido os meus cânticos no lugar das minhas peregrinações."
+            },
+            {
+                "id": "v119.55",
+                "versicle_number": 55,
+                "text": "De noite me lembrei do teu nome, ó Senhor, e observei a tua lei."
+            },
+            {
+                "id": "v119.56",
+                "versicle_number": 56,
+                "text": "Isto fiz eu, porque guardei os teus mandamentos."
+            },
+            {
+                "id": "v119.57",
+                "versicle_number": 57,
+                "text": "O Senhor é a minha porção: eu disse que observaria as tuas palavras."
+            },
+            {
+                "id": "v119.58",
+                "versicle_number": 58,
+                "text": "Implorei deveras o teu favor de todo o meu coração: tem piedade de mim, segundo a tua palavra."
+            },
+            {
+                "id": "v119.59",
+                "versicle_number": 59,
+                "text": "Considerei os meus caminhos, e voltei os meus pés para os teus testemunhos."
+            },
+            {
+                "id": "v119.60",
+                "versicle_number": 60,
+                "text": "Apressei-me, e não me detive, a observar os teus mandamentos."
+            },
+            {
+                "id": "v119.61",
+                "versicle_number": 61,
+                "text": "Bandos de ímpios me despojaram; apesar disso, eu não me esqueci da tua lei."
+            },
+            {
+                "id": "v119.62",
+                "versicle_number": 62,
+                "text": "À meia-noite me levantarei para te louvar, pelos teus justos juízos."
+            },
+            {
+                "id": "v119.63",
+                "versicle_number": 63,
+                "text": "Companheiro sou de todos os que te temem e dos que guardam os teus preceitos."
+            },
+            {
+                "id": "v119.64",
+                "versicle_number": 64,
+                "text": "A terra, ó Senhor, está cheia da tua benignidade: ensina-me os teus estatutos."
+            },
+            {
+                "id": "v119.65",
+                "versicle_number": 65,
+                "text": "Fizeste bem ao teu servo, Senhor, segundo a tua palavra."
+            },
+            {
+                "id": "v119.66",
+                "versicle_number": 66,
+                "text": "Ensina-me bom juízo e ciência, pois cri nos teus mandamentos."
+            },
+            {
+                "id": "v119.67",
+                "versicle_number": 67,
+                "text": "Antes de ser afligido andava errado; mas agora guardo a tua palavra."
+            },
+            {
+                "id": "v119.68",
+                "versicle_number": 68,
+                "text": "Tu és bom e abençoador: ensina-me os teus estatutos."
+            },
+            {
+                "id": "v119.69",
+                "versicle_number": 69,
+                "text": "Os soberbos forjaram mentiras contra mim; mas eu de todo o coração guardarei os teus preceitos."
+            },
+            {
+                "id": "v119.70",
+                "versicle_number": 70,
+                "text": "Engrossa-se-lhes o coração como gordura, mas eu me recreio na tua lei."
+            },
+            {
+                "id": "v119.71",
+                "versicle_number": 71,
+                "text": "Foi-me bom ter sido afligido, para que aprendesse os teus estatutos."
+            },
+            {
+                "id": "v119.72",
+                "versicle_number": 72,
+                "text": "Melhor é para mim a lei da tua boca do que {note:g}inúmeras riquezas em ouro ou prata."
+            },
+            {
+                "id": "v119.73",
+                "versicle_number": 73,
+                "text": "As tuas mãos me fizeram e me afeiçoaram; dá-me inteligência para que aprenda os teus mandamentos."
+            },
+            {
+                "id": "v119.74",
+                "versicle_number": 74,
+                "text": "Os que te temem alegraram-se quando me viram, porque tenho esperado na tua palavra."
+            },
+            {
+                "id": "v119.75",
+                "versicle_number": 75,
+                "text": "Bem sei eu, ó Senhor, que os teus juízos são justos, e que em tua fidelidade me afligiste."
+            },
+            {
+                "id": "v119.76",
+                "versicle_number": 76,
+                "text": "Sirva pois a tua benignidade para me consolar, segundo a palavra que deste ao teu servo."
+            },
+            {
+                "id": "v119.77",
+                "versicle_number": 77,
+                "text": "Venham sobre mim as tuas misericórdias, para que viva, pois a tua lei é a minha delícia."
+            },
+            {
+                "id": "v119.78",
+                "versicle_number": 78,
+                "text": "Confundam-se os soberbos, pois me trataram duma maneira perversa, sem causa; mas eu meditarei nos teus preceitos."
+            },
+            {
+                "id": "v119.79",
+                "versicle_number": 79,
+                "text": "Voltem-se para mim os que te temem, e aqueles que têm conhecido os teus testemunhos."
+            },
+            {
+                "id": "v119.80",
+                "versicle_number": 80,
+                "text": "Seja reto o meu coração para com os teus estatutos, para que eu não seja confundido."
+            },
+            {
+                "id": "v119.81",
+                "versicle_number": 81,
+                "text": "Desfaleceu a minha alma, esperando por tua salvação; mas confiei na tua palavra."
+            },
+            {
+                "id": "v119.82",
+                "versicle_number": 82,
+                "text": "Os meus olhos desfaleceram, esperando por tua promessa; entretanto dizia: Quando me consolarás tu?"
+            },
+            {
+                "id": "v119.83",
+                "versicle_number": 83,
+                "text": "Pois fiquei como odre no fumo; mas não me esqueci dos teus estatutos."
+            },
+            {
+                "id": "v119.84",
+                "versicle_number": 84,
+                "text": "Quantos serão os dias do teu servo? Quando me farás justiça contra os que me perseguem?"
+            },
+            {
+                "id": "v119.85",
+                "versicle_number": 85,
+                "text": "Os soberbos abriram covas para mim, o que não é conforme à tua lei."
+            },
+            {
+                "id": "v119.86",
+                "versicle_number": 86,
+                "text": "Todos os teus mandamentos são verdade: com mentiras me perseguem; ajuda-me."
+            },
+            {
+                "id": "v119.87",
+                "versicle_number": 87,
+                "text": "Quase que me têm consumido sobre a terra; mas eu não deixei os teus preceitos."
+            },
+            {
+                "id": "v119.88",
+                "versicle_number": 88,
+                "text": "Vivifica-me segundo a tua benignidade; então guardarei o testemunho da tua boca."
+            },
+            {
+                "id": "v119.89",
+                "versicle_number": 89,
+                "text": "Para sempre, ó Senhor, a tua palavra permanece no céu."
+            },
+            {
+                "id": "v119.90",
+                "versicle_number": 90,
+                "text": "A tua fidelidade estende-se de geração a geração: tu firmaste a terra, e firme permanece."
+            },
+            {
+                "id": "v119.91",
+                "versicle_number": 91,
+                "text": "Conforme o que ordenaste, tudo se mantém até hoje; porque todas as cousas te obedecem."
+            },
+            {
+                "id": "v119.92",
+                "versicle_number": 92,
+                "text": "Se a tua lei não fora toda a minha recreação, há muito que teria perecido na minha angústia."
+            },
+            {
+                "id": "v119.93",
+                "versicle_number": 93,
+                "text": "Nunca me esquecerei dos teus preceitos; pois por eles me tens vivificado."
+            },
+            {
+                "id": "v119.94",
+                "versicle_number": 94,
+                "text": "Sou teu, salva-me; pois tenho buscado os teus preceitos."
+            },
+            {
+                "id": "v119.95",
+                "versicle_number": 95,
+                "text": "Os ímpios me esperam para me destruírem, mas eu atentarei para os teus testemunhos."
+            },
+            {
+                "id": "v119.96",
+                "versicle_number": 96,
+                "text": "A toda a perfeição vi limite, mas o teu mandamento é amplíssimo."
+            },
+            {
+                "id": "v119.97",
+                "versicle_number": 97,
+                "text": "Oh! quanto amo a tua lei é a minha meditação em todo o dia."
+            },
+            {
+                "id": "v119.98",
+                "versicle_number": 98,
+                "text": "Tu, pelos teus mandamentos, me fazes mais sábio que meus inimigos; pois estão sempre comigo."
+            },
+            {
+                "id": "v119.99",
+                "versicle_number": 99,
+                "text": "Tenho mais entendimento do que todos os meus mestres, porque medito nos teus testemunhos."
+            },
+            {
+                "id": "v119.100",
+                "versicle_number": 100,
+                "text": "Sou mais prudente do que os velhos; porque guardo os teus preceitos."
+            },
+            {
+                "id": "v119.101",
+                "versicle_number": 101,
+                "text": "Desviei os meus pés de todo o caminho mau, para observar a tua palavra."
+            },
+            {
+                "id": "v119.102",
+                "versicle_number": 102,
+                "text": "Não me apartei dos teus juízos, porque tu me ensinaste."
+            },
+            {
+                "id": "v119.103",
+                "versicle_number": 103,
+                "text": "Oh! quão doces são as tuas palavras ao meu paladar! mais doces do que o mel à minha boca."
+            },
+            {
+                "id": "v119.104",
+                "versicle_number": 104,
+                "text": "Pelos teus mandamentos alcancei entendimento; pelo que aborreço todo o falso caminho."
+            },
+            {
+                "id": "v119.105",
+                "versicle_number": 105,
+                "text": "Lâmpada para os meus pés é tua palavra, e luz para o meu caminho."
+            },
+            {
+                "id": "v119.106",
+                "versicle_number": 106,
+                "text": "Jurei, e {note:h}cumprirei, que hei de guardar os teus justos juízos."
+            },
+            {
+                "id": "v119.107",
+                "versicle_number": 107,
+                "text": "Estou aflitíssimo; vivifica-me, ó Senhor, segundo a tua palavra."
+            },
+            {
+                "id": "v119.108",
+                "versicle_number": 108,
+                "text": "Aceita, Senhor eu te rogo, as oferendas voluntárias da minha boca; ensina-me os teus juízos."
+            },
+            {
+                "id": "v119.109",
+                "versicle_number": 109,
+                "text": "A minha alma está de contínuo nas minhas mãos; todavia não me esqueço da tua lei."
+            },
+            {
+                "id": "v119.110",
+                "versicle_number": 110,
+                "text": "Os ímpios me armaram laço; contudo não me desviei dos teus preceitos."
+            },
+            {
+                "id": "v119.111",
+                "versicle_number": 111,
+                "text": "Os teus testemunhos tenho eu tomado por herança para sempre, pois são o gozo do meu coração."
+            },
+            {
+                "id": "v119.112",
+                "versicle_number": 112,
+                "text": "Inclinei o meu coração a guardar os teus estatutos, para sempre, até ao fim."
+            },
+            {
+                "id": "v119.113",
+                "versicle_number": 113,
+                "text": "Aborreço a duplicidade, mas amo a tua lei."
+            },
+            {
+                "id": "v119.114",
+                "versicle_number": 114,
+                "text": "Tu és o meu refúgio e o meu escudo; espero na tua palavra."
+            },
+            {
+                "id": "v119.115",
+                "versicle_number": 115,
+                "text": "Apartai-vos de mim, malfeitores, para que guarde os mandamentos do meu Deus."
+            },
+            {
+                "id": "v119.116",
+                "versicle_number": 116,
+                "text": "Sustenta-me conforme a tua palavra, para que viva, e não me deixes envergonhado da minha esperança."
+            },
+            {
+                "id": "v119.117",
+                "versicle_number": 117,
+                "text": "Sustenta-me, e serei salvo, e de contínuo me recrearei nos teus estatutos."
+            },
+            {
+                "id": "v119.118",
+                "versicle_number": 118,
+                "text": "Tu desprezas a todos os que se desviam dos teus estatutos, pois o engano deles é falsidade."
+            },
+            {
+                "id": "v119.119",
+                "versicle_number": 119,
+                "text": "Tu tiraste da terra, como escórias, a todos os ímpios, pelo que amo os teus testemunhos."
+            },
+            {
+                "id": "v119.120",
+                "versicle_number": 120,
+                "text": "O meu corpo se arrepiou com temor de ti, e temi os teus juízos."
+            },
+            {
+                "id": "v119.121",
+                "versicle_number": 121,
+                "text": "Fiz juízo e justiça: não me entregues aos meus opressores."
+            },
+            {
+                "id": "v119.122",
+                "versicle_number": 122,
+                "text": "Fica por fiador do teu servo para o bem; não deixes que os soberbos me oprimam."
+            },
+            {
+                "id": "v119.123",
+                "versicle_number": 123,
+                "text": "Os meus olhos desfaleceram, esperando por tua salvação e pela promessa da tua justiça."
+            },
+            {
+                "id": "v119.124",
+                "versicle_number": 124,
+                "text": "Trata com o teu servo segundo a tua benignidade, e ensina-me os teus estatutos."
+            },
+            {
+                "id": "v119.125",
+                "versicle_number": 125,
+                "text": "Sou teu servo: dá-me inteligência, para entender os teus testemunhos."
+            },
+            {
+                "id": "v119.126",
+                "versicle_number": 126,
+                "text": "Já é tempo de operares ó Senhor, pois eles têm quebrantado a tua lei."
+            },
+            {
+                "id": "v119.127",
+                "versicle_number": 127,
+                "text": "Pelo que amo os teus mandamentos mais do que o ouro, e ainda mais do que o ouro fino."
+            },
+            {
+                "id": "v119.128",
+                "versicle_number": 128,
+                "text": "Por isso tenho em tudo como retos todos os teus preceitos, e aborreço toda a falsa vereda."
+            },
+            {
+                "id": "v119.129",
+                "versicle_number": 129,
+                "text": "Maravilhosos são os teus testemunhos; por isso a minha alma os guarda."
+            },
+            {
+                "id": "v119.130",
+                "versicle_number": 130,
+                "text": "A exposição das tuas palavras dá luz, dá entendimento aos símplices."
+            },
+            {
+                "id": "v119.131",
+                "versicle_number": 131,
+                "text": "Abri a minha boca, e respirei, pois que desejei os teus mandamentos."
+            },
+            {
+                "id": "v119.132",
+                "versicle_number": 132,
+                "text": "Olha para mim, e tem piedade de mim, conforme usas com os que amam o teu nome."
+            },
+            {
+                "id": "v119.133",
+                "versicle_number": 133,
+                "text": "Ordena os meus passos na tua palavra, e não se apodere de mim iniquidade alguma."
+            },
+            {
+                "id": "v119.134",
+                "versicle_number": 134,
+                "text": "Livra-me da opressão do homem; assim guardarei os teus preceitos."
+            },
+            {
+                "id": "v119.135",
+                "versicle_number": 135,
+                "text": "Faze resplandecer o teu rosto sobre o teu servo, e ensina-me os teus estatutos."
+            },
+            {
+                "id": "v119.136",
+                "versicle_number": 136,
+                "text": "Rios de águas correm dos meus olhos, porque não guardam a tua lei."
+            },
+            {
+                "id": "v119.137",
+                "versicle_number": 137,
+                "text": "Justo és, ó Senhor, e retos são os teus juízos."
+            },
+            {
+                "id": "v119.138",
+                "versicle_number": 138,
+                "text": "Os teus testemunhos que ordenaste são retos e muito fiéis."
+            },
+            {
+                "id": "v119.139",
+                "versicle_number": 139,
+                "text": "O meu zelo me consumiu, porque os meus inimigos se esqueceram da tua palavra."
+            },
+            {
+                "id": "v119.140",
+                "versicle_number": 140,
+                "text": "A tua palavra é muito pura; por isso o teu servo a ama."
+            },
+            {
+                "id": "v119.141",
+                "versicle_number": 141,
+                "text": "Pequeno sou e desprezado, mas não me esqueço dos teus mandamentos."
+            },
+            {
+                "id": "v119.142",
+                "versicle_number": 142,
+                "text": "A tua justiça é uma justiça eterna, e a tua lei é a verdade."
+            },
+            {
+                "id": "v119.143",
+                "versicle_number": 143,
+                "text": "Aperto e angústia se apoderam de mim; não obstante, os teus mandamentos são o meu prazer."
+            },
+            {
+                "id": "v119.144",
+                "versicle_number": 144,
+                "text": "A justiça dos teus testemunhos é eterna; dá-me inteligência, e viverei."
+            },
+            {
+                "id": "v119.145",
+                "versicle_number": 145,
+                "text": "Clamei de todo o meu coração; escuta-me, Senhor, e guardarei os teus estatutos."
+            },
+            {
+                "id": "v119.146",
+                "versicle_number": 146,
+                "text": "A ti te invoquei; salva-me, e guardarei os teus testemunhos."
+            },
+            {
+                "id": "v119.147",
+                "versicle_number": 147,
+                "text": "Preveni a alva da manhã, e clamei: esperei na tua palavra."
+            },
+            {
+                "id": "v119.148",
+                "versicle_number": 148,
+                "text": "Os meus olhos preveniram as vigílias da noite, para meditar na tua palavra."
+            },
+            {
+                "id": "v119.149",
+                "versicle_number": 149,
+                "text": "Ouve a minha voz, segundo a tua benignidade: vivifica-me, ó Senhor, segundo o teu juízo."
+            },
+            {
+                "id": "v119.150",
+                "versicle_number": 150,
+                "text": "Aproximam-se os que seguem a malvados: afastam-se da tua lei."
+            },
+            {
+                "id": "v119.151",
+                "versicle_number": 151,
+                "text": "Tu estás perto ó Senhor, e todos os teus mandamentos são a verdade."
+            },
+            {
+                "id": "v119.152",
+                "versicle_number": 152,
+                "text": "Acerca dos teus testemunhos soube, desde a antiguidade, que tu os fundaste para sempre."
+            },
+            {
+                "id": "v119.153",
+                "versicle_number": 153,
+                "text": "Olha para a minha aflição, e livra-me, pois não me esqueci da tua lei."
+            },
+            {
+                "id": "v119.154",
+                "versicle_number": 154,
+                "text": "Pleiteia a minha causa, e livra-me: vivifica-me segundo a tua palavra."
+            },
+            {
+                "id": "v119.155",
+                "versicle_number": 155,
+                "text": "A salvação está longe dos ímpios, pois não buscam os teus estatutos."
+            },
+            {
+                "id": "v119.156",
+                "versicle_number": 156,
+                "text": "Muitos são, ó Senhor, as tuas misericórdias: vivifica-me segundo os teus juízos."
+            },
+            {
+                "id": "v119.157",
+                "versicle_number": 157,
+                "text": "Muitos são os meus perseguidores e os meus inimigos; mas não me desvio dos teus testemunhos."
+            },
+            {
+                "id": "v119.158",
+                "versicle_number": 158,
+                "text": "Vi os transgressores, e me afligi, porque não observam a tua palavra."
+            },
+            {
+                "id": "v119.159",
+                "versicle_number": 159,
+                "text": "Considera como amo os teus preceitos: vivifica-me, ó Senhor, segundo a tua benignidade."
+            },
+            {
+                "id": "v119.160",
+                "versicle_number": 160,
+                "text": "A tua palavra é a verdade desde o princípio, e cada um dos teus juízos dura para sempre."
+            },
+            {
+                "id": "v119.161",
+                "versicle_number": 161,
+                "text": "Príncipes me perseguiram sem causa, mas o meu coração temeu a tua palavra."
+            },
+            {
+                "id": "v119.162",
+                "versicle_number": 162,
+                "text": "Folgo com a tua palavra, como aquele que acha um grande despojo."
+            },
+            {
+                "id": "v119.163",
+                "versicle_number": 163,
+                "text": "Abomino e aborreço a falsidade; mas amo a tua lei."
+            },
+            {
+                "id": "v119.164",
+                "versicle_number": 164,
+                "text": "Sete vezes no dia te louvo pelos juízos da tua justiça."
+            },
+            {
+                "id": "v119.165",
+                "versicle_number": 165,
+                "text": "Muita paz tem os que amam a tua lei, e para eles não há tropeço."
+            },
+            {
+                "id": "v119.166",
+                "versicle_number": 166,
+                "text": "Senhor, tenho esperado na tua salvação, e tenho cumprido os teus mandamentos."
+            },
+            {
+                "id": "v119.167",
+                "versicle_number": 167,
+                "text": "A minha alma tem observado os teus testemunhos; amo-os extremamente."
+            },
+            {
+                "id": "v119.168",
+                "versicle_number": 168,
+                "text": "Tenho observado os teus preceitos e os teus testemunhos, porque todos os meus caminhos estão diante de ti."
+            },
+            {
+                "id": "v119.169",
+                "versicle_number": 169,
+                "text": "Chegue a ti o meu clamor, ó Senhor: dá-me entendimento conforme a tua palavra."
+            },
+            {
+                "id": "v119.170",
+                "versicle_number": 170,
+                "text": "Chegue a minha súplica perante a tua face: livra-me segundo a tua palavra."
+            },
+            {
+                "id": "v119.171",
+                "versicle_number": 171,
+                "text": "Os meus lábios proferiram o louvor, quando me ensinaste os teus estatutos."
+            },
+            {
+                "id": "v119.172",
+                "versicle_number": 172,
+                "text": "A minha língua falará da tua palavra, pois todos os teus mandamentos são justiça."
+            },
+            {
+                "id": "v119.173",
+                "versicle_number": 173,
+                "text": "Venha a tua mão socorrer-me, pois escolhi os teus preceitos."
+            },
+            {
+                "id": "v119.174",
+                "versicle_number": 174,
+                "text": "Tenho desejado a tua salvação, ó Senhor; a tua lei é todo o meu prazer."
+            },
+            {
+                "id": "v119.175",
+                "versicle_number": 175,
+                "text": "Viva a minha alma, e louvar-te-á: ajudem-me os teus juízos."
+            },
+            {
+                "id": "v119.176",
+                "versicle_number": 176,
+                "text": "Desgarrei-me como a ovelha perdida; busca o teu servo, pois não me esqueci dos teus mandamentos."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:g} 119.72 Heb. milhares de ouro ou prata"
+            },
+            {
+                "id": "n2",
+                "text": "{note:h} 119.106 ou confirmei"
+            }
+        ]
+    }
+}

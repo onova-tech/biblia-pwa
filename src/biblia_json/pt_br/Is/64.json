@@ -1,0 +1,88 @@
+{
+    "book": {
+        "id": "Is",
+        "book_number": 23,
+        "new_testament": false,
+        "num_chapters": 66,
+        "book_name": "ISAÍAS",
+        "book_full_name": "ISAÍAS"
+    },
+    "chapter": {
+        "chapter_number": 64,
+        "chapter_reference": "",
+        "chapter_title": "",
+        "versicles": [
+            {
+                "id": "v64.1",
+                "versicle_number": 1,
+                "text": "OH! se fendesses os céus e descesses! se os montes se escoassem diante da tua face!"
+            },
+            {
+                "id": "v64.2",
+                "versicle_number": 2,
+                "text": "Como quando o fogo inflama a lenha, e faz ferver as águas, para fazeres notório o teu nome aos teus adversários, assim as nações tremessem da tua presença!"
+            },
+            {
+                "id": "v64.3",
+                "versicle_number": 3,
+                "text": "Quando fazias cousas terríveis, que não esperávamos, descias, e os montes se escoavam diante da tua face."
+            },
+            {
+                "id": "v64.4",
+                "versicle_number": 4,
+                "text": "Porque desde a antiguidade não se ouviu,{note:1} nem com ouvidos se percebeu, nem com os olhos se viu um Deus além de ti, que trabalhe para aquele que nele espera."
+            },
+            {
+                "id": "v64.5",
+                "versicle_number": 5,
+                "text": "Saíste ao encontro daquele que se alegrava e praticava justiça, daqueles que se lembram de ti nos teus caminhos: eis que te iraste, porque pecamos; neles há eternidade, para que sejamos salvos."
+            },
+            {
+                "id": "v64.6",
+                "versicle_number": 6,
+                "text": "Mas todos nós somos como o imundo, e todas as nossas justiças como trapo da imundícia; e todos nós caímos como a folha, e as nossas culpas como um vento nos arrebatam."
+            },
+            {
+                "id": "v64.7",
+                "versicle_number": 7,
+                "text": "E já ninguém há que invoque o teu nome, que desperte, e te detenha; porque escondes de nós o teu rosto, e nos {note:b}fazes derreter, por causa das nossas iniquidades."
+            },
+            {
+                "id": "v64.8",
+                "versicle_number": 8,
+                "text": "Mas agora, ó Senhor, tu és nosso Pai: nós o barro, e tu o nosso oleiro; e todos nós obra das tuas mãos."
+            },
+            {
+                "id": "v64.9",
+                "versicle_number": 9,
+                "text": "Não te enfureças tanto, ó Senhor, nem perpetuamente te lembres da iniquidade: eis, olha, nós te pedimos, todos nós somos o teu povo."
+            },
+            {
+                "id": "v64.10",
+                "versicle_number": 10,
+                "text": "As tuas santas cidades estão feitas um deserto: Sião está feita um deserto, Jerusalém está assolada."
+            },
+            {
+                "id": "v64.11",
+                "versicle_number": 11,
+                "text": "A nossa santa e gloriosa casa, em que te louvavam nossos pais, foi queimada a fogo; e todas as nossas cousas mais aprazíveis se tornaram em assolação."
+            },
+            {
+                "id": "v64.12",
+                "versicle_number": 12,
+                "text": "Conter-te-ias tu ainda sobre estas calamidades, ó Senhor? ficarias calado, e nos afligirias tanto?"
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 64.4 1Co 2.9"
+            },
+            {
+                "id": "n2",
+                "text": "{note:b} 64.7 ou consomes"
+            }
+        ]
+    }
+}

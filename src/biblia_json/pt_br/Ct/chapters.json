@@ -1,0 +1,52 @@
+{
+    "book": {
+        "id": "Ct",
+        "book_number": 22,
+        "new_testament": false,
+        "num_chapters": 8,
+        "book_name": "CANTARES",
+        "book_full_name": "DE SALOMÃO CANTARES"
+    },
+    "chapters": [
+        {
+            "chapter_number": 1,
+            "chapter_reference": "",
+            "chapter_title": "A esposa anela pelo seu esposo"
+        },
+        {
+            "chapter_number": 2,
+            "chapter_reference": "",
+            "chapter_title": ""
+        },
+        {
+            "chapter_number": 3,
+            "chapter_reference": "",
+            "chapter_title": "O cortejo nupcial. O esposo exprime o seu amor pela esposa"
+        },
+        {
+            "chapter_number": 4,
+            "chapter_reference": "",
+            "chapter_title": ""
+        },
+        {
+            "chapter_number": 5,
+            "chapter_reference": "",
+            "chapter_title": "A esposa finge indiferença pelo esposo, mas segue-o imediatamente, busca-o e reconcilia-se com ele"
+        },
+        {
+            "chapter_number": 6,
+            "chapter_reference": "",
+            "chapter_title": ""
+        },
+        {
+            "chapter_number": 7,
+            "chapter_reference": "",
+            "chapter_title": ""
+        },
+        {
+            "chapter_number": 8,
+            "chapter_reference": "",
+            "chapter_title": "O amor inalterável do esposo para com a esposa"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "book": {
+        "id": "Dt",
+        "book_number": 5,
+        "new_testament": false,
+        "num_chapters": 34,
+        "book_name": "DEUTERONÔMIO",
+        "book_full_name": "O QUINTO LIVRO DE MOISÉS DEUTERONÔMIO"
+    },
+    "chapter": {
+        "chapter_number": 8,
+        "chapter_reference": "",
+        "chapter_title": "Exortação a ter em memória os benefícios do Senhor",
+        "versicles": [
+            {
+                "id": "v8.1",
+                "versicle_number": 1,
+                "text": "TODOS os mandamentos que hoje vos ordeno guardareis para os fazer: para que vivais, e vos multipliqueis, e entreis, e possuais a terra que o Senhor jurou a vossos pais."
+            },
+            {
+                "id": "v8.2",
+                "versicle_number": 2,
+                "text": "E te lembrarás de todo o caminho pelo qual o Senhor teu Deus te guiou no deserto estes quarenta anos, para te humilhar, e te tentar, para saber o que estava no teu coração, se guardarias os seus mandamentos, ou não."
+            },
+            {
+                "id": "v8.3",
+                "versicle_number": 3,
+                "text": "E te humilhou, e te deixou ter fome, e te sustentou com o maná, que tu não conheceste, nem teus pais o conheceram: para te dar a entender que o homem não viverá só de pão,{note:1} mas que de tudo o que sai da boca do Senhor viverá o homem."
+            },
+            {
+                "id": "v8.4",
+                "versicle_number": 4,
+                "text": "Nunca se envelheceu o teu vestido sobre ti, nem se inchou o teu pé estes quarenta anos."
+            },
+            {
+                "id": "v8.5",
+                "versicle_number": 5,
+                "text": "Confessa pois no teu coração que, como um homem castiga a seu filho, assim te castiga o Senhor teu Deus."
+            },
+            {
+                "id": "v8.6",
+                "versicle_number": 6,
+                "text": "E guarda os mandamentos do Senhor teu Deus, para o temer, e andar nos seus caminhos."
+            },
+            {
+                "id": "v8.7",
+                "versicle_number": 7,
+                "text": "Porque o Senhor teu Deus te mete numa boa terra, terra de ribeiros de águas, de fontes, e de abismos, que saem dos vales e das montanhas;"
+            },
+            {
+                "id": "v8.8",
+                "versicle_number": 8,
+                "text": "Terra de trigo e cevada, e de vides, e figueiras, e romeiras; terra de oliveiras, abundante de azeite e mel;"
+            },
+            {
+                "id": "v8.9",
+                "versicle_number": 9,
+                "text": "Terra em que comerás o pão sem escassez, e nada te faltará nela: terra cujas pedras são ferro, e de cujos montes tu cavarás o cobre."
+            },
+            {
+                "id": "v8.10",
+                "versicle_number": 10,
+                "text": "Quando pois tiveres comido, e fores farto, louvarás ao Senhor teu Deus pela boa terra que te deu."
+            },
+            {
+                "id": "v8.11",
+                "versicle_number": 11,
+                "text": "Guarda-te para que te não esqueças do Senhor teu Deus, não guardando os seus mandamentos, e os seus juízos, e os seus estatutos que hoje te ordeno:"
+            },
+            {
+                "id": "v8.12",
+                "versicle_number": 12,
+                "text": "Para que, porventura, havendo tu comido e estando farto, e havendo edificado boas casas, e habitando-as,"
+            },
+            {
+                "id": "v8.13",
+                "versicle_number": 13,
+                "text": "E se tiverem aumentado as tuas vacas e as tuas ovelhas, e se acrescentar a prata e o ouro, e se multiplicar tudo quanto tens,"
+            },
+            {
+                "id": "v8.14",
+                "versicle_number": 14,
+                "text": "Se não eleve o teu coração e te esqueças do Senhor{note:2} teu Deus, que te tirou da terra do Egito, da casa da servidão;"
+            },
+            {
+                "id": "v8.15",
+                "versicle_number": 15,
+                "text": "Que te guiou por aquele grande e terrível deserto de serpentes ardentes, e de escorpiões, e de secura, em que não havia água; e tirou água para ti da rocha {note:c}do seixal;"
+            },
+            {
+                "id": "v8.16",
+                "versicle_number": 16,
+                "text": "Que no deserto te sustentou com maná, que teus pais não conheceram; para te humilhar, e para te provar, para no teu fim te fazer bem;"
+            },
+            {
+                "id": "v8.17",
+                "versicle_number": 17,
+                "text": "E digas no teu coração: A minha força, e a fortaleza de meu braço, me adquiriu este poder."
+            },
+            {
+                "id": "v8.18",
+                "versicle_number": 18,
+                "text": "Antes te lembrarás do Senhor teu Deus, que ele é o que te dá força para adquirires poder; para confirmar o seu concerto, que jurou a teus pais; como se vê neste dia."
+            },
+            {
+                "id": "v8.19",
+                "versicle_number": 19,
+                "text": "Será porém que, se de qualquer sorte te esqueceres do Senhor teu Deus, e se ouvires outros deuses, e os servires, e te inclinares perante eles, hoje eu protesto contra vós que certamente perecereis."
+            },
+            {
+                "id": "v8.20",
+                "versicle_number": 20,
+                "text": "Como as gentes que o Senhor destruiu diante de vós, assim vós perecereis: porquanto não quisestes obedecer à voz do Senhor vosso Deus."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 8.3 Mt 4.4; Lc 4.4"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 8.14 Os 13.5-6"
+            },
+            {
+                "id": "n3",
+                "text": "{note:c} 8.15 ou da pederneira"
+            }
+        ]
+    }
+}

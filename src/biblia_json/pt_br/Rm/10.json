@@ -1,0 +1,161 @@
+{
+    "book": {
+        "id": "Rm",
+        "book_number": 45,
+        "new_testament": true,
+        "num_chapters": 16,
+        "book_name": "ROMANOS",
+        "book_full_name": "EPÍSTOLA DO APÓSTOLO PAULO AOS ROMANOS"
+    },
+    "chapter": {
+        "chapter_number": 10,
+        "chapter_reference": "",
+        "chapter_title": "Os judeus rejeitam a justiça de Deus",
+        "versicles": [
+            {
+                "id": "v10.1",
+                "versicle_number": 1,
+                "text": "IRMÃOS, o bom desejo do meu coração e a oração a Deus por Israel é para sua salvação."
+            },
+            {
+                "id": "v10.2",
+                "versicle_number": 2,
+                "text": "Porque lhes dou testemunho de que têm zelo de Deus, mas não com entendimento."
+            },
+            {
+                "id": "v10.3",
+                "versicle_number": 3,
+                "text": "Porquanto, não conhecendo a justiça de Deus, e procurando estabelecer a sua própria justiça, não se sujeitaram à justiça de Deus."
+            },
+            {
+                "id": "v10.4",
+                "versicle_number": 4,
+                "text": "Porque o fim da lei é Cristo para justiça de todo aquele que crê."
+            },
+            {
+                "id": "v10.5",
+                "versicle_number": 5,
+                "text": "Ora Moisés descreve a justiça que é pela lei, dizendo: O homem que fizer estas coisas viverá por elas.{note:1}"
+            },
+            {
+                "id": "v10.6",
+                "versicle_number": 6,
+                "text": "Mas a justiça que é pela fé diz assim: Não digas em teu coração: Quem subirá ao céu? (isto é, a trazer do alto a Cristo)."
+            },
+            {
+                "id": "v10.7",
+                "versicle_number": 7,
+                "text": "Ou: Quem descerá ao abismo? (isto é, a tornar a trazer dentre os mortos a Cristo)."
+            },
+            {
+                "id": "v10.8",
+                "versicle_number": 8,
+                "text": "Mas que diz? A palavra está junto de ti, na tua boca e no teu coração; esta é a palavra da fé, que pregamos,{note:2}"
+            },
+            {
+                "id": "v10.9",
+                "versicle_number": 9,
+                "text": "A saber: Se com a tua boca confessares ao Senhor Jesus, e em teu coração creres que Deus o ressuscitou dos mortos, serás salvo."
+            },
+            {
+                "id": "v10.10",
+                "versicle_number": 10,
+                "text": "Visto que com o coração se crê para a justiça, e com a boca se faz confissão para a salvação."
+            },
+            {
+                "id": "v10.11",
+                "versicle_number": 11,
+                "text": "Porque a Escritura diz: Todo aquele que nele crer não será confundido.{note:3}"
+            },
+            {
+                "id": "v10.12",
+                "versicle_number": 12,
+                "text": "Porquanto não há diferença entre judeu e grego: porque um mesmo é o Senhor de todos, rico para com todos os que o invocam."
+            },
+            {
+                "id": "v10.13",
+                "versicle_number": 13,
+                "text": "Porque todo aquele que invocar o nome do Senhor será salvo.{note:4}"
+            },
+            {
+                "id": "v10.14",
+                "versicle_number": 14,
+                "text": "Como pois invocarão aquele em quem não creram? e como crerão naquele de quem não ouviram? e como ouvirão, se não há quem pregue?"
+            },
+            {
+                "id": "v10.15",
+                "versicle_number": 15,
+                "text": "E como pregarão, se não forem enviados? como está escrito: Quão formosos os pés dos que anunciam a paz, dos que anunciam coisas boas!{note:5}"
+            },
+            {
+                "id": "v10.16",
+                "versicle_number": 16,
+                "text": "Mas nem todos obedecem ao evangelho; pois Isaías diz: Senhor, quem creu na nossa pregação?{note:6}"
+            },
+            {
+                "id": "v10.17",
+                "versicle_number": 17,
+                "text": "De sorte que a fé é pelo ouvir, e o ouvir pela palavra de Deus."
+            },
+            {
+                "id": "v10.18",
+                "versicle_number": 18,
+                "text": "Mas digo: Porventura não ouviram? Sim, por certo, pois por toda a terra saiu a voz deles, e as suas palavras até aos confins do mundo.{note:7}"
+            },
+            {
+                "id": "v10.19",
+                "versicle_number": 19,
+                "text": "Mas digo: Porventura Israel não o soube? Primeiramente diz Moisés: Eu vos meterei em ciúmes com aqueles que não são povo, com gente insensata vos provocarei à ira.{note:8}"
+            },
+            {
+                "id": "v10.20",
+                "versicle_number": 20,
+                "text": "E Isaías ousadamente diz: Fui achado pelos que me não buscavam, fui manifestado aos que por mim não perguntavam."
+            },
+            {
+                "id": "v10.21",
+                "versicle_number": 21,
+                "text": "Mas contra Israel diz: Todo o dia estendi as minhas mãos a um povo rebelde e contradizente.{note:9}"
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 10.5 Lv 18.5"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 10.6-8 Dt 30.12-14"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 10.11 Is 28.16"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 10.13 Jl 2.32"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 10.15 Is 52.7"
+            },
+            {
+                "id": "n6",
+                "text": "{note:6} 10.16 Is 53.1"
+            },
+            {
+                "id": "n7",
+                "text": "{note:7} 10.18 Sl 19.3"
+            },
+            {
+                "id": "n8",
+                "text": "{note:8} 10.19 Dt 32.21"
+            },
+            {
+                "id": "n9",
+                "text": "{note:9} 10.20-21 Is 65.1-2"
+            }
+        ]
+    }
+}

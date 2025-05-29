@@ -1,0 +1,193 @@
+{
+    "book": {
+        "id": "At",
+        "book_number": 44,
+        "new_testament": true,
+        "num_chapters": 28,
+        "book_name": "ATOS DOS APÓSTOLOS",
+        "book_full_name": "ATOS DOS APÓSTOLOS"
+    },
+    "chapter": {
+        "chapter_number": 28,
+        "chapter_reference": "",
+        "chapter_title": "Paulo em Melita",
+        "versicles": [
+            {
+                "id": "v28.1",
+                "versicle_number": 1,
+                "text": "E, HAVENDO escapado, então souberam que a ilha se chamava Melita."
+            },
+            {
+                "id": "v28.2",
+                "versicle_number": 2,
+                "text": "E os bárbaros usaram conosco de não pouca humanidade; porque, acendendo uma grande fogueira, nos recolheram a todos por causa da chuva que caía, e por causa do frio."
+            },
+            {
+                "id": "v28.3",
+                "versicle_number": 3,
+                "text": "E, havendo Paulo ajuntado uma quantidade de vides, e pondo-as no fogo, uma víbora, fugindo do calor, lhe acometeu a mão."
+            },
+            {
+                "id": "v28.4",
+                "versicle_number": 4,
+                "text": "E os bárbaros, vendo-lhe a bicha pendurada na mão, diziam uns aos outros: Certamente este homem é homicida, visto como, escapando do mar, a Justiça não o deixa viver."
+            },
+            {
+                "id": "v28.5",
+                "versicle_number": 5,
+                "text": "Mas, sacudindo ele a bicha no fogo, não padeceu nenhum mal."
+            },
+            {
+                "id": "v28.6",
+                "versicle_number": 6,
+                "text": "E eles esperavam que viesse a inchar ou a cair morto de repente; mas tendo esperado já muito, e vendo que nenhum incômodo lhe sobrevinha, mudando de parecer, diziam que era um deus."
+            },
+            {
+                "id": "v28.7",
+                "versicle_number": 7,
+                "text": "E ali, próximo daquele mesmo lugar, havia umas herdades que pertenciam ao principal da ilha, por nome Públio, o qual nos recebeu e hospedou benignamente por três dias."
+            },
+            {
+                "id": "v28.8",
+                "versicle_number": 8,
+                "text": "E aconteceu estar de cama enfermo de febres e disenteria o pai de Públio, que Paulo foi ver, e, havendo orado, pôs as mãos sobre ele, e o curou."
+            },
+            {
+                "id": "v28.9",
+                "versicle_number": 9,
+                "text": "Feito pois isto, vieram também ter com ele os demais que na ilha tinham enfermidades, e sararam."
+            },
+            {
+                "id": "v28.10",
+                "versicle_number": 10,
+                "text": "Os quais nos distinguiram também com muitas honras: e, havendo de navegar, nos proveram das coisas necessárias."
+            },
+            {
+                "id": "v28.11",
+                "versicle_number": 11,
+                "text": "E três meses depois partimos num navio de Alexandria que invernara na ilha, o qual tinha por insígnia {note:j}Castor e Pólux."
+            },
+            {
+                "id": "v28.12",
+                "versicle_number": 12,
+                "text": "E, chegando a Siracusa, ficamos ali três dias."
+            },
+            {
+                "id": "v28.13",
+                "versicle_number": 13,
+                "text": "Donde, indo costeando, viemos a Régio; e soprando, um dia depois, um vento do sul, chegamos no segundo dia a Putéolos."
+            },
+            {
+                "id": "v28.14",
+                "versicle_number": 14,
+                "text": "Onde, achando alguns irmãos, nos rogaram que por sete dias ficássemos com eles; e depois nos dirigimos a Roma."
+            },
+            {
+                "id": "v28.15",
+                "versicle_number": 15,
+                "text": "E de lá, ouvindo os irmãos novas de nós, nos saíram ao encontro à praça de Ápio e às três Vendas, e Paulo, vendo-os, deu graças a Deus, e tomou ânimo."
+            },
+            {
+                "id": "v28.16",
+                "versicle_number": 16,
+                "text": "E, logo que chegamos a Roma, o centurião entregou os presos ao general dos exércitos; mas a Paulo se lhe permitiu morar sobre si à parte, com o soldado que o guardava."
+            },
+            {
+                "id": "v28.17",
+                "versicle_number": 17,
+                "text": "E aconteceu que, três dias depois, Paulo convocou os principais dos judeus, e, juntos eles, lhes disse: Varões irmãos, não havendo eu feito nada contra o povo, ou contra os ritos paternos, vim contudo preso desde Jerusalém, entregue nas mãos dos romanos;"
+            },
+            {
+                "id": "v28.18",
+                "versicle_number": 18,
+                "text": "Os quais, havendo-me examinado, queriam soltar-me, por não haver em mim crime algum de morte."
+            },
+            {
+                "id": "v28.19",
+                "versicle_number": 19,
+                "text": "Mas, opondo-se os judeus, foi-me forçoso apelar para César,{note:1} não tendo, contudo, de que acusar a minha nação."
+            },
+            {
+                "id": "v28.20",
+                "versicle_number": 20,
+                "text": "Por esta causa vos chamei, para vos ver e falar; porque pela esperança d'Israel estou com esta cadeia."
+            },
+            {
+                "id": "v28.21",
+                "versicle_number": 21,
+                "text": "Então eles lhe disseram: Nós não recebemos acerca de ti cartas algumas da Judeia, nem veio aqui algum dos irmãos, que nos anunciasse ou dissesse de ti mal algum."
+            },
+            {
+                "id": "v28.22",
+                "versicle_number": 22,
+                "text": "No entanto bem quiséramos ouvir de ti o que sentes; porque, quanto a esta seita, notório nos é que em toda a parte se fala contra ela."
+            },
+            {
+                "id": "v28.23",
+                "versicle_number": 23,
+                "text": "E, havendo-lhe eles assinalado um dia, muitos foram ter com ele à pousada, aos quais declarava com bom testemunho o reino de Deus, e procurava persuadi-los à fé de Jesus, tanto pela lei de Moisés como pelos profetas, desde pela manhã até à tarde."
+            },
+            {
+                "id": "v28.24",
+                "versicle_number": 24,
+                "text": "E alguns criam no que se dizia; mas outros não criam."
+            },
+            {
+                "id": "v28.25",
+                "versicle_number": 25,
+                "text": "E, como ficaram entre si discordes, se despediram, dizendo Paulo esta palavra: Bem falou o Espírito Santo a nossos pais pelo profeta Isaías,"
+            },
+            {
+                "id": "v28.26",
+                "versicle_number": 26,
+                "text": "Dizendo: Vai a este povo, e dize: De ouvido ouvireis, e de maneira nenhuma entendereis; e, vendo, vereis, e de maneira nenhuma percebereis."
+            },
+            {
+                "id": "v28.27",
+                "versicle_number": 27,
+                "text": "Porquanto o coração deste povo está endurecido, e com os ouvidos ouviram pesadamente, e fecharam os olhos, para que nunca com os olhos vejam, nem com os ouvidos ouçam, nem do coração entendam, e se convertam e eu os cure.{note:2}"
+            },
+            {
+                "id": "v28.28",
+                "versicle_number": 28,
+                "text": "Seja-vos pois notório que esta salvação de Deus é enviada aos gentios, e eles a ouvirão."
+            },
+            {
+                "id": "v28.29",
+                "versicle_number": 29,
+                "text": "E, havendo ele dito isto, partiram os judeus, tendo entre si grande contenda."
+            },
+            {
+                "id": "v28.30",
+                "versicle_number": 30,
+                "text": "E Paulo ficou dois anos inteiros na sua própria habitação que alugara, e recebia todos quantos vinham vê-lo."
+            },
+            {
+                "id": "v28.31",
+                "versicle_number": 31,
+                "text": "Pregando o reino de Deus, e ensinando com toda a liberdade as coisas pertencentes ao Senhor Jesus Cristo, sem impedimento algum."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v28.11",
+                "text": "Paulo chega a Roma e fica prisioneiro em sua própria casa durante dois anos"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:j} 28.11 ou os gêmeos"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 28.19 At 25.11"
+            },
+            {
+                "id": "n3",
+                "text": "{note:2} 28.26-27 Is 6.9-10"
+            }
+        ]
+    }
+}

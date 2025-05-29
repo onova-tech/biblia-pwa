@@ -1,0 +1,109 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 59,
+        "chapter_reference": "",
+        "chapter_title": "Davi suplica a Deus que o livre, e protesta a sua inocência",
+        "versicles": [
+            {
+                "id": "v59.1",
+                "versicle_number": 1,
+                "text": "LIVRA-ME, meu Deus, dos meus inimigos, defende-me daqueles que se levantam contra mim."
+            },
+            {
+                "id": "v59.2",
+                "versicle_number": 2,
+                "text": "Livra-me dos que praticam a iniquidade, e salva-me dos homens sanguinários."
+            },
+            {
+                "id": "v59.3",
+                "versicle_number": 3,
+                "text": "Pois eis que armam ciladas à minha alma; os fortes se ajuntam contra mim, sem transgressão minha ou pecado meu, ó Senhor."
+            },
+            {
+                "id": "v59.4",
+                "versicle_number": 4,
+                "text": "Eles correm, e se preparam, sem culpa minha; desperta para me ajudares, e olha."
+            },
+            {
+                "id": "v59.5",
+                "versicle_number": 5,
+                "text": "Tu, pois, ó Senhor, Deus dos Exércitos, Deus de Israel, desperta para visitares todas as nações: não tenhas misericórdia de nenhum dos pérfidos que praticam a iniquidade. (Selá.)"
+            },
+            {
+                "id": "v59.6",
+                "versicle_number": 6,
+                "text": "Voltam à tarde; dão ganidos como cães, rodeando a cidade."
+            },
+            {
+                "id": "v59.7",
+                "versicle_number": 7,
+                "text": "Eis que eles dão gritos com as suas bocas; espadas estão nos seus lábios; porque (dizem eles), quem ouve?"
+            },
+            {
+                "id": "v59.8",
+                "versicle_number": 8,
+                "text": "Mas tu, Senhor, te rirás deles: zombarás de todos os gentios."
+            },
+            {
+                "id": "v59.9",
+                "versicle_number": 9,
+                "text": "Por causa da sua força eu te aguardarei; pois Deus é a minha alta defesa."
+            },
+            {
+                "id": "v59.10",
+                "versicle_number": 10,
+                "text": "O Deus da minha misericórdia me prevenirá; Deus me fará ver o meu desejo sobre os meus inimigos."
+            },
+            {
+                "id": "v59.11",
+                "versicle_number": 11,
+                "text": "Não os mates, para que o meu povo se não esqueça: espalha-os pelo teu poder e abate-os, ó Senhor, nosso escudo."
+            },
+            {
+                "id": "v59.12",
+                "versicle_number": 12,
+                "text": "Pelo pecado da sua boca e pelas palavras dos seus lábios fiquem presos na sua soberba; e pelas maldições e pelas mentiras que proferem."
+            },
+            {
+                "id": "v59.13",
+                "versicle_number": 13,
+                "text": "Consome-os na tua indignação, consome-os, de modo que não existam mais; para que saibam que Deus reina em Jacó até aos fins da terra. (Selá.)"
+            },
+            {
+                "id": "v59.14",
+                "versicle_number": 14,
+                "text": "E tornem a vir à tarde, e deem ganidos como cães, rodeando a cidade."
+            },
+            {
+                "id": "v59.15",
+                "versicle_number": 15,
+                "text": "Vagueiem buscando o que comer, passem a noite sem se fartarem."
+            },
+            {
+                "id": "v59.16",
+                "versicle_number": 16,
+                "text": "Eu porém cantarei a tua força; pela manhã louvarei com alegria a tua misericórdia: porquanto tu foste o meu alto refúgio, e proteção no dia da minha angústia."
+            },
+            {
+                "id": "v59.17",
+                "versicle_number": 17,
+                "text": "A ti, ó fortaleza minha, cantarei louvores; porque Deus é a minha defesa, é o Deus da minha misericórdia."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 59, título 1Sm 19.11"
+            }
+        ]
+    }
+}

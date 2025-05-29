@@ -1,0 +1,230 @@
+{
+    "book": {
+        "id": "Jz",
+        "book_number": 7,
+        "new_testament": false,
+        "num_chapters": 21,
+        "book_name": "JUÍZES",
+        "book_full_name": "O LIVRO DOS JUÍZES"
+    },
+    "chapter": {
+        "chapter_number": 6,
+        "chapter_reference": "",
+        "chapter_title": "Servidão sob os midianitas",
+        "versicles": [
+            {
+                "id": "v6.1",
+                "versicle_number": 1,
+                "text": "PORÉM os filhos de Israel fizeram o que parecia mal aos olhos do Senhor: e o Senhor os deu na mão dos midianitas por sete anos."
+            },
+            {
+                "id": "v6.2",
+                "versicle_number": 2,
+                "text": "E, prevalecendo a mão dos midianitas sobre Israel, fizeram os filhos de Israel para si, por causa dos midianitas, as covas que estão nos montes, e as cavernas e as fortificações."
+            },
+            {
+                "id": "v6.3",
+                "versicle_number": 3,
+                "text": "Porque sucedia que, semeando Israel, subiram os midianitas e os amalequitas; e também os do oriente contra ele subiam."
+            },
+            {
+                "id": "v6.4",
+                "versicle_number": 4,
+                "text": "E punham-se contra eles em campo, e destruíam a novidade da terra, até chegarem a Gaza: e não deixavam mantimento em Israel, nem ovelhas, nem bois, nem jumentos."
+            },
+            {
+                "id": "v6.5",
+                "versicle_number": 5,
+                "text": "Porque subiam com os seus gados e tendas; vinham como gafanhotos, em tanta multidão que não se podiam contar, nem a eles nem aos seus camelos: e entravam na terra, para a destruir."
+            },
+            {
+                "id": "v6.6",
+                "versicle_number": 6,
+                "text": "Assim Israel empobreceu muito pela presença dos midianitas: então os filhos de Israel clamaram ao Senhor."
+            },
+            {
+                "id": "v6.7",
+                "versicle_number": 7,
+                "text": "E sucedeu que, clamando os filhos de Israel ao Senhor por causa dos midianitas,"
+            },
+            {
+                "id": "v6.8",
+                "versicle_number": 8,
+                "text": "Enviou o Senhor um homem profeta aos filhos de Israel, que lhes disse: Assim diz o Senhor, Deus de Israel: Do Egito eu vos fiz subir, e vos tirei da casa da servidão;"
+            },
+            {
+                "id": "v6.9",
+                "versicle_number": 9,
+                "text": "E vos livrei da mão dos egípcios, e da mão de todos quantos vos oprimiam; e os expeli de diante de vós, e a vós dei a sua terra;"
+            },
+            {
+                "id": "v6.10",
+                "versicle_number": 10,
+                "text": "E vos disse: Eu sou o Senhor vosso Deus; não temais aos deuses dos amorreus, em cuja terra habitais: mas não destes ouvidos à minha voz."
+            },
+            {
+                "id": "v6.11",
+                "versicle_number": 11,
+                "text": "Então o anjo do Senhor veio, e assentou-se debaixo do carvalho que está em Ofra, que pertencia a Joás, abiezrita: e Gideão, seu filho, estava malhando o trigo no lagar, para o salvar dos midianitas."
+            },
+            {
+                "id": "v6.12",
+                "versicle_number": 12,
+                "text": "Então o anjo do Senhor lhe apareceu, e lhe disse: O Senhor é contigo, varão valoroso."
+            },
+            {
+                "id": "v6.13",
+                "versicle_number": 13,
+                "text": "Mas Gideão lhe respondeu: Ai, senhor meu, se o Senhor é conosco por que tudo isto nos sobreveio? e que é feito de todas as suas maravilhas que nossos pais nos contaram, dizendo: Não nos fez o Senhor subir do Egito? Porém agora o Senhor nos desamparou, e nos deu na mão dos midianitas."
+            },
+            {
+                "id": "v6.14",
+                "versicle_number": 14,
+                "text": "Então o Senhor olhou para ele, e disse: Vai nesta tua força e livrarás a Israel da mão dos midianitas: porventura não te enviei eu?"
+            },
+            {
+                "id": "v6.15",
+                "versicle_number": 15,
+                "text": "E ele lhe disse: Ai, senhor meu, com que livrarei a Israel? eis que o meu milheiro é o mais pobre em Manassés, e eu o menor na casa de meu pai."
+            },
+            {
+                "id": "v6.16",
+                "versicle_number": 16,
+                "text": "E o Senhor lhe disse: Porquanto eu hei de ser contigo, tu ferirás aos midianitas como se fossem um só homem."
+            },
+            {
+                "id": "v6.17",
+                "versicle_number": 17,
+                "text": "E ele lhe disse: Se agora tenho achado graça aos teus olhos, dá-me um sinal de que és o que comigo falas."
+            },
+            {
+                "id": "v6.18",
+                "versicle_number": 18,
+                "text": "Rogo-te que daqui te não apartes, até que eu venha a ti, e traga {note:g}o meu presente, e o ponha perante ti. E disse: Eu esperarei até que voltes."
+            },
+            {
+                "id": "v6.19",
+                "versicle_number": 19,
+                "text": "E entrou Gideão e preparou um cabrito e bolos asmos dum efa de farinha; a carne pôs num açafate e o caldo pôs numa panela: e trouxe-lho até debaixo do carvalho, e lho apresentou."
+            },
+            {
+                "id": "v6.20",
+                "versicle_number": 20,
+                "text": "Porém o anjo de Deus lhe disse: Toma a carne e os bolos asmos e põe-nos sobre esta penha e verte o caldo. E assim o fez."
+            },
+            {
+                "id": "v6.21",
+                "versicle_number": 21,
+                "text": "E o anjo do Senhor estendeu a ponta do cajado, que estava na sua mão, e tocou a carne e os bolos asmos: então subiu fogo da penha, e consumiu a carne e os bolos asmos; e o anjo do Senhor desapareceu de seus olhos."
+            },
+            {
+                "id": "v6.22",
+                "versicle_number": 22,
+                "text": "Então viu Gideão que era o anjo do Senhor; e disse Gideão: Ah! Senhor, Jeová, que eu vi o anjo do Senhor face a face."
+            },
+            {
+                "id": "v6.23",
+                "versicle_number": 23,
+                "text": "Porém o Senhor lhe disse: Paz seja contigo: não temas: não morrerás."
+            },
+            {
+                "id": "v6.24",
+                "versicle_number": 24,
+                "text": "Então Gideão edificou ali um altar ao Senhor, e lhe chamou, Senhor é paz: e ainda até ao dia de hoje está em Ofra dos abiezritas."
+            },
+            {
+                "id": "v6.25",
+                "versicle_number": 25,
+                "text": "E aconteceu, naquela mesma noite, que o Senhor lhe disse: toma o boi de teu pai, a saber, o segundo boi de sete anos: e derriba o altar de Baal, que é de teu pai; e corta o bosque que está ao pé dele."
+            },
+            {
+                "id": "v6.26",
+                "versicle_number": 26,
+                "text": "E edifica ao Senhor teu Deus um altar no cume deste lugar forte, num lugar conveniente: e toma o segundo boi, e o oferecerás em holocausto com a lenha que cortares do bosque."
+            },
+            {
+                "id": "v6.27",
+                "versicle_number": 27,
+                "text": "Então Gideão tomou dez homens dentre os seus servos, e fez como o Senhor lhe dissera: e sucedeu que, temendo ele a casa de seu pai, e os homens daquela cidade, não o fez de dia, mas fê-lo de noite."
+            },
+            {
+                "id": "v6.28",
+                "versicle_number": 28,
+                "text": "Levantando-se pois os homens daquela cidade de madrugada, eis que estava o altar de Baal derribado, e o bosque, que estava ao pé dele, cortado: e o segundo boi foi oferecido no altar de novo edificado."
+            },
+            {
+                "id": "v6.29",
+                "versicle_number": 29,
+                "text": "E uns aos outros disseram: Quem fez esta cousa? E, esquadrinhando, e inquirindo, disseram: Gideão, o filho de Joás, fez esta cousa."
+            },
+            {
+                "id": "v6.30",
+                "versicle_number": 30,
+                "text": "Então os homens daquela cidade disseram a Joás: Tira para fora a teu filho para que morra, pois derribou o altar de Baal, e cortou o bosque que estava ao pé dele."
+            },
+            {
+                "id": "v6.31",
+                "versicle_number": 31,
+                "text": "Porém Joás disse a todos os que se puseram contra ele: Contendereis vós por Baal? livrá-lo-eis vós? qualquer que por ele contender ainda esta manhã será morto: se é deus, por si mesmo contenda; pois derribaram o seu altar."
+            },
+            {
+                "id": "v6.32",
+                "versicle_number": 32,
+                "text": "Pelo que naquele dia lhe chamaram Jerubaal, dizendo: Baal contenda contra ele, pois derribou o seu altar."
+            },
+            {
+                "id": "v6.33",
+                "versicle_number": 33,
+                "text": "E todos os midianitas e amalequitas, e os filhos do oriente se ajuntaram num corpo, e passaram, e puseram o seu campo no vale de Jezreel."
+            },
+            {
+                "id": "v6.34",
+                "versicle_number": 34,
+                "text": "Então o espírito do Senhor revestiu a Gideão, o qual tocou a buzina, e os abiezritas se ajuntaram após dele."
+            },
+            {
+                "id": "v6.35",
+                "versicle_number": 35,
+                "text": "E enviou mensageiros por toda a tribo de Manassés, que também se convocou após dele: também enviou mensageiros a Eser, e a Zebulom, e a Naftali, e saíram-lhe ao encontro."
+            },
+            {
+                "id": "v6.36",
+                "versicle_number": 36,
+                "text": "E disse Gideão a Deus: Se hás de livrar a Israel por minha mão, como tens dito,"
+            },
+            {
+                "id": "v6.37",
+                "versicle_number": 37,
+                "text": "Eis que eu porei um velo de lã na eira: se o orvalho estiver somente no velo, e secura sobre toda a terra, então conhecerei que hás de livrar a Israel por minha mão, como tens dito."
+            },
+            {
+                "id": "v6.38",
+                "versicle_number": 38,
+                "text": "E assim sucedeu: porque ao outro dia se levantou de madrugada, e apertou o velo: e do orvalho do velo espremeu uma taça cheia de água."
+            },
+            {
+                "id": "v6.39",
+                "versicle_number": 39,
+                "text": "E disse Gideão a Deus: Não se acenda contra mim a tua ira, se ainda falar só esta vez: rogo-te que só esta vez faça a prova com o velo; rogo-te que só no velo haja secura, e em toda a terra haja o orvalho."
+            },
+            {
+                "id": "v6.40",
+                "versicle_number": 40,
+                "text": "E Deus assim o fez naquela noite: pois só no velo havia secura, e sobre toda a terra havia orvalho."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v6.11",
+                "text": "Um anjo fala com Gideão"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:g} 6.18 ou a minha oferta"
+            }
+        ]
+    }
+}

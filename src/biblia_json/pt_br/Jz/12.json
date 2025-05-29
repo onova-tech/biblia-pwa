@@ -1,0 +1,100 @@
+{
+    "book": {
+        "id": "Jz",
+        "book_number": 7,
+        "new_testament": false,
+        "num_chapters": 21,
+        "book_name": "JUÍZES",
+        "book_full_name": "O LIVRO DOS JUÍZES"
+    },
+    "chapter": {
+        "chapter_number": 12,
+        "chapter_reference": "",
+        "chapter_title": "Jefté peleja contra os efraimitas e os gileaditas",
+        "versicles": [
+            {
+                "id": "v12.1",
+                "versicle_number": 1,
+                "text": "ENTÃO se convocaram os homens de Efraim, e passaram para o norte, e disseram a Jefté: Por que passaste a combater contra os filhos de Amom, e não nos chamaste para ir contigo? queimaremos a fogo a tua casa contigo."
+            },
+            {
+                "id": "v12.2",
+                "versicle_number": 2,
+                "text": "E Jefté lhes disse: Eu e o meu povo tivemos grande contenda com os filhos de Amom: e chamei-vos, e não me livrastes da sua mão;"
+            },
+            {
+                "id": "v12.3",
+                "versicle_number": 3,
+                "text": "E, vendo eu que me não livráveis, pus a minha alma na minha mão, e passei aos filhos de Amom, e o Senhor mos entregou nas mãos: por que pois subistes vós hoje contra mim, para combater contra mim?"
+            },
+            {
+                "id": "v12.4",
+                "versicle_number": 4,
+                "text": "E ajuntou Jefté a todos os homens de Gileade, e combateu com Efraim: e os homens de Gileade feriram a Efraim; porque, estando os gileaditas entre Efraim e Manassés, disseram: Fugitivos sois de Efraim."
+            },
+            {
+                "id": "v12.5",
+                "versicle_number": 5,
+                "text": "Porém tomaram os gileaditas aos efraimitas os vaus do Jordão: e sucedeu que, quando os fugitivos de Efraim diziam: Passarei; então os homens de Gileade lhes diziam: És tu efraimita? E dizendo ele: Não;"
+            },
+            {
+                "id": "v12.6",
+                "versicle_number": 6,
+                "text": "Então lhe diziam: Dize pois, Chibolete; porém ele dizia: Sibolete, porque o não podia pronunciar assim bem: então pegavam dele, e o degolavam nos vaus do Jordão; e caíram de Efraim naquele tempo quarenta e dois mil."
+            },
+            {
+                "id": "v12.7",
+                "versicle_number": 7,
+                "text": "E Jefté julgou a Israel seis anos: e Jefté, o gileadita, faleceu, e foi sepultado nas cidades de Gileade."
+            },
+            {
+                "id": "v12.8",
+                "versicle_number": 8,
+                "text": "E depois dele julgou a Israel Ebsã de Belém."
+            },
+            {
+                "id": "v12.9",
+                "versicle_number": 9,
+                "text": "E tinha este trinta filhos; e pôs fora a trinta filhas; e trinta filhas trouxe de fora para seus filhos: e julgou a Israel sete anos."
+            },
+            {
+                "id": "v12.10",
+                "versicle_number": 10,
+                "text": "Então faleceu Ebsã, e foi sepultado em Belém."
+            },
+            {
+                "id": "v12.11",
+                "versicle_number": 11,
+                "text": "E depois dele julgou a Israel Elom, o zebulonita: e julgou a Israel dez anos."
+            },
+            {
+                "id": "v12.12",
+                "versicle_number": 12,
+                "text": "E faleceu Elom, o zebulonita, e foi sepultado em Ajalom, na terra de Zebulom."
+            },
+            {
+                "id": "v12.13",
+                "versicle_number": 13,
+                "text": "E depois dele julgou a Israel Abdom, filho de Hilel, o piratonita."
+            },
+            {
+                "id": "v12.14",
+                "versicle_number": 14,
+                "text": "E tinha este quarenta filhos, e trinta filhos de filhos, que cavalgavam sobre setenta jumentos: e julgou a Israel oito anos."
+            },
+            {
+                "id": "v12.15",
+                "versicle_number": 15,
+                "text": "Então faleceu Abdom, filho de Hilel, o piratonita: e foi sepultado em Piratom, na terra de Efraim, no monte do amalequita."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v12.8",
+                "text": "Ebsã, Elom e Abdom juízes dos israelitas"
+            }
+        ],
+        "notes": []
+    }
+}

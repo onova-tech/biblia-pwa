@@ -1,0 +1,182 @@
+{
+    "book": {
+        "id": "Is",
+        "book_number": 23,
+        "new_testament": false,
+        "num_chapters": 66,
+        "book_name": "ISAÍAS",
+        "book_full_name": "ISAÍAS"
+    },
+    "chapter": {
+        "chapter_number": 44,
+        "chapter_reference": "",
+        "chapter_title": "A soberania de Deus; a vaidade dos ídolos",
+        "versicles": [
+            {
+                "id": "v44.1",
+                "versicle_number": 1,
+                "text": "AGORA pois, ouve ó Jacó, servo meu, e tu ó Israel, a quem escolhi."
+            },
+            {
+                "id": "v44.2",
+                "versicle_number": 2,
+                "text": "Assim diz o Senhor que te criou e te formou desde o ventre, e que te ajudará: Não temas, ó Jacó, servo meu, e tu, Jesurum, a quem escolhi."
+            },
+            {
+                "id": "v44.3",
+                "versicle_number": 3,
+                "text": "Porque derramarei água sobre o sedento, e rios sobre a terra seca; derramarei o meu Espírito sobre a tua posteridade, e a minha bênção sobre os teus descendentes."
+            },
+            {
+                "id": "v44.4",
+                "versicle_number": 4,
+                "text": "E brotarão entre a erva, como salgueiros junto aos ribeiros das águas."
+            },
+            {
+                "id": "v44.5",
+                "versicle_number": 5,
+                "text": "Este dirá: Eu sou do Senhor; e aquele se chamará do nome de Jacó; e aquele outro escreverá com a sua mão: Eu sou do Senhor; e por sobrenome tomará o nome de Israel."
+            },
+            {
+                "id": "v44.6",
+                "versicle_number": 6,
+                "text": "Assim diz o Senhor, Rei de Israel, e seu Redentor, o Senhor dos Exércitos: Eu sou o primeiro,{note:1} e eu sou o último, e fora de mim não há Deus."
+            },
+            {
+                "id": "v44.7",
+                "versicle_number": 7,
+                "text": "E quem chamará como eu, e anunciará isto, e o porá em ordem perante mim, desde que ordenei um povo eterno? esse que anuncie as cousas futuras, e as que ainda hão de vir."
+            },
+            {
+                "id": "v44.8",
+                "versicle_number": 8,
+                "text": "Não vos assombreis, nem temais; porventura desde então, não vo-lo fiz ouvir, e não vo-lo anunciei? porque vós sois as minhas testemunhas. Há outro Deus além de mim? Não, não há outra Rocha que eu conheça."
+            },
+            {
+                "id": "v44.9",
+                "versicle_number": 9,
+                "text": "Todos os artífices de imagens de escultura são vaidade, e as suas cousas mais desejáveis são de nenhum préstimo; e suas mesmas testemunhas nada veem nem entendem, para que eles sejam confundidos."
+            },
+            {
+                "id": "v44.10",
+                "versicle_number": 10,
+                "text": "Quem forma um deus, e funde uma imagem de escultura, que é de nenhum préstimo?"
+            },
+            {
+                "id": "v44.11",
+                "versicle_number": 11,
+                "text": "Eis que todos os seus seguidores ficarão confundidos, pois os mesmos artífices são de entre os homens; ajuntem-se todos, e levantem-se: assombrar-se-ão, e serão juntamente confundidos."
+            },
+            {
+                "id": "v44.12",
+                "versicle_number": 12,
+                "text": "O ferreiro faz o machado, e trabalha nas brasas, e o forma com martelos, e o lavra com a força do seu braço: ele tem fome, e a sua força falta, e não bebe água, e desfalece."
+            },
+            {
+                "id": "v44.13",
+                "versicle_number": 13,
+                "text": "O carpinteiro estende a régua, emprega a almagra, aplaina com o cepilho, e marca com o compasso: e faz o seu deus à semelhança dum homem, segundo a forma dum homem, para ficar em casa."
+            },
+            {
+                "id": "v44.14",
+                "versicle_number": 14,
+                "text": "Tomou para si cedros, ou toma um cipreste, ou um carvalho, e esforça-se contra as árvores do bosque: planta um olmeiro, e a chuva o faz crescer."
+            },
+            {
+                "id": "v44.15",
+                "versicle_number": 15,
+                "text": "Então servirão ao homem para queimar; com isso se aquenta, e coze o pão: também faz um deus, e se prostra diante dele; fabrica uma imagem de escultura, e ajoelha diante dela."
+            },
+            {
+                "id": "v44.16",
+                "versicle_number": 16,
+                "text": "Metade queima no fogo, com a outra metade {note:x}come carne; assa-a, e farta-se: também se aquenta, e diz: Ora já me aquentei, já vi o fogo."
+            },
+            {
+                "id": "v44.17",
+                "versicle_number": 17,
+                "text": "Então do resto faz um deus, uma imagem de escultura: ajoelha-se diante dela, e se inclina, e ora-lhe, e diz: Livra-me, porquanto tu és o meu deus."
+            },
+            {
+                "id": "v44.18",
+                "versicle_number": 18,
+                "text": "Nada sabem, nem entendem; porque se lhe untaram os olhos, para que não vejam, e os seus corações, para que não entendam."
+            },
+            {
+                "id": "v44.19",
+                "versicle_number": 19,
+                "text": "E nenhum deles toma isto a peito, e já não têm conhecimento nem entendimento para dizer: Metade queimei no fogo, e cozi pão sobre as suas brasas, assei sobre elas carne, e a comi: e faria eu do resto uma abominação? ajoelhar-me-ia eu ao que saiu duma árvore?"
+            },
+            {
+                "id": "v44.20",
+                "versicle_number": 20,
+                "text": "Apascenta-se de cinza: o seu coração enganado o desviou; de maneira que não pode livrar a sua alma, nem dizer: Não há uma mentira na minha mão direita?"
+            },
+            {
+                "id": "v44.21",
+                "versicle_number": 21,
+                "text": "Lembra-te destas cousas ó Jacó, e ó Israel, porquanto és meu servo; eu te formei, meu servo és, ó Israel; não me esquecerei de ti."
+            },
+            {
+                "id": "v44.22",
+                "versicle_number": 22,
+                "text": "Desfaço as tuas transgressões como a névoa, e os teus pecados como a nuvem: torna-te para mim, porque eu te remi."
+            },
+            {
+                "id": "v44.23",
+                "versicle_number": 23,
+                "text": "Cantai alegres, vós, ó céus, porque o Senhor fez isto: exultai vós, as partes mais baixas da terra; vós, montes, retumbai com júbilo; também vós, bosques, e todas as árvores em vós; porque o Senhor remiu a Jacó, e glorificou-se em Israel."
+            },
+            {
+                "id": "v44.24",
+                "versicle_number": 24,
+                "text": "Assim diz o Senhor, teu Redentor, e que te formou desde o ventre: Eu sou o Senhor que faço todas as causas, que estendo os céus, e espraio a terra por mim mesmo;"
+            },
+            {
+                "id": "v44.25",
+                "versicle_number": 25,
+                "text": "Que desfaço os sinais dos inventores de mentiras, e enlouqueço os adivinhos; que faço tornar atrás os sábios, e transtorno a ciência deles;{note:2}"
+            },
+            {
+                "id": "v44.26",
+                "versicle_number": 26,
+                "text": "Sou eu quem confirma a palavra do seu servo, e cumpre o conselho dos seus mensageiros; quem diz a Jerusalém: Tu serás habitada, e às cidades de Judá: Sereis reedificadas, e eu levantarei as suas ruínas;"
+            },
+            {
+                "id": "v44.27",
+                "versicle_number": 27,
+                "text": "Quem diz à profundeza: Seca-te, e eu secarei os teus rios;"
+            },
+            {
+                "id": "v44.28",
+                "versicle_number": 28,
+                "text": "Quem diz de Ciro:{note:3} É meu pastor, e cumprirá tudo o que me apraz; dizendo também a Jerusalém: Sê edificada; e ao templo: Funda-te."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v44.21",
+                "text": "A promessa de livramento. A vinda de Ciro"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 44.6 Is 48.12; Ap 1.17; 22.13"
+            },
+            {
+                "id": "n2",
+                "text": "{note:x} 44.16 ou cozinha"
+            },
+            {
+                "id": "n3",
+                "text": "{note:2} 44.25 1Co 1.20"
+            },
+            {
+                "id": "n4",
+                "text": "{note:3} 44.28 2Cr 36.23; Ed 1.2"
+            }
+        ]
+    }
+}

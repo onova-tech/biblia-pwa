@@ -1,0 +1,74 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 58,
+        "chapter_reference": "",
+        "chapter_title": "Davi reprova os ímpios. Deus os castigará, e salvará os justos",
+        "versicles": [
+            {
+                "id": "v58.1",
+                "versicle_number": 1,
+                "text": "ACASO falais vós deveras, ó congregação, a justiça? Julgais retamente, ó filhos dos homens?"
+            },
+            {
+                "id": "v58.2",
+                "versicle_number": 2,
+                "text": "Antes no coração forjais iniquidades; sobre a terra fazeis pesar a violência das vossas mãos."
+            },
+            {
+                "id": "v58.3",
+                "versicle_number": 3,
+                "text": "Alienam-se os ímpios desde a madre; andam errados desde que nasceram, proferindo mentiras."
+            },
+            {
+                "id": "v58.4",
+                "versicle_number": 4,
+                "text": "Têm veneno semelhante ao veneno da serpente; são como a víbora surda, que tem tapados os seus ouvidos,"
+            },
+            {
+                "id": "v58.5",
+                "versicle_number": 5,
+                "text": "Para não ouvir a voz dos encantadores, do encantador perito em encantamentos."
+            },
+            {
+                "id": "v58.6",
+                "versicle_number": 6,
+                "text": "Ó Deus, quebra-lhes os dentes nas suas bocas; arranca, Senhor, os queixais aos filhos dos leões."
+            },
+            {
+                "id": "v58.7",
+                "versicle_number": 7,
+                "text": "Sumam-se como águas que se escoam; se armarem as suas frechas, fiquem estas feitas em pedaços."
+            },
+            {
+                "id": "v58.8",
+                "versicle_number": 8,
+                "text": "Como a lesma que se derrete, assim se vão; como o aborto duma mulher, nunca vejam o sol."
+            },
+            {
+                "id": "v58.9",
+                "versicle_number": 9,
+                "text": "Antes que os espinhos cheguem a aquecer as vossas panelas, serão arrebatados, assim os verdes, como os que estão ardendo, como por um redemoinho."
+            },
+            {
+                "id": "v58.10",
+                "versicle_number": 10,
+                "text": "O justo se alegrará quando vir a vingança; lavará os seus pés no sangue do ímpio."
+            },
+            {
+                "id": "v58.11",
+                "versicle_number": 11,
+                "text": "Então dirá o homem: Deveras há uma recompensa para o justo; deveras há um Deus que julga na terra."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

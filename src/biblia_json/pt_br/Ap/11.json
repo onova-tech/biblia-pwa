@@ -1,0 +1,169 @@
+{
+    "book": {
+        "id": "Ap",
+        "book_number": 66,
+        "new_testament": true,
+        "num_chapters": 22,
+        "book_name": "APOCALIPSE",
+        "book_full_name": "DO APÓSTOLO JOÃO APOCALIPSE"
+    },
+    "chapter": {
+        "chapter_number": 11,
+        "chapter_reference": "",
+        "chapter_title": "As duas testemunhas",
+        "versicles": [
+            {
+                "id": "v11.1",
+                "versicle_number": 1,
+                "text": "E FOI-ME dada uma cana semelhante a uma vara: e chegou o anjo, e disse: Levanta-te, e mede o templo{note:1} de Deus, e o altar, e os que nele adoram."
+            },
+            {
+                "id": "v11.2",
+                "versicle_number": 2,
+                "text": "E deixa o átrio que está fora do templo, e não o meças; porque foi dado às nações, e pisarão a cidade santa{note:2} por quarenta e dois meses."
+            },
+            {
+                "id": "v11.3",
+                "versicle_number": 3,
+                "text": "E darei poder às minhas duas testemunhas, e profetizarão por mil duzentos e sessenta dias, vestidas de saco."
+            },
+            {
+                "id": "v11.4",
+                "versicle_number": 4,
+                "text": "Estas são as duas oliveiras{note:3} e os dois castiçais que estão diante do Deus da terra."
+            },
+            {
+                "id": "v11.5",
+                "versicle_number": 5,
+                "text": "E, se alguém lhes quiser fazer mal, fogo sairá da sua boca, e devorará os seus inimigos; e, se alguém lhes quiser fazer mal, importa que assim seja morto."
+            },
+            {
+                "id": "v11.6",
+                "versicle_number": 6,
+                "text": "Estes têm poder para fechar o céu,{note:4} para que não chova, nos dias da sua profecia; e têm poder sobre as águas para convertê-las em sangue,{note:5} e para ferir a terra com toda a sorte de pragas, todas quantas vezes quiserem."
+            },
+            {
+                "id": "v11.7",
+                "versicle_number": 7,
+                "text": "E, quando acabarem o seu testemunho, a besta{note:6} que sobe do abismo lhes fará guerra, e os vencerá, e os matará."
+            },
+            {
+                "id": "v11.8",
+                "versicle_number": 8,
+                "text": "E jazerão os seus corpos mortos na praça da grande cidade que espiritualmente se chama Sodoma{note:7} e Egito, onde o seu Senhor também foi crucificado."
+            },
+            {
+                "id": "v11.9",
+                "versicle_number": 9,
+                "text": "E homens de vários povos, e tribos, e línguas, e nações verão seus corpos mortos por três dias e meio, e não permitirão que os seus corpos mortos sejam postos em sepulcros."
+            },
+            {
+                "id": "v11.10",
+                "versicle_number": 10,
+                "text": "E os que habitam na terra se regozijarão sobre eles, e se alegrarão, e mandarão presentes uns aos outros; porquanto estes dois profetas tinham atormentado os que habitam sobre a terra."
+            },
+            {
+                "id": "v11.11",
+                "versicle_number": 11,
+                "text": "E depois daqueles três dias e meio o espírito de vida, vindo de Deus, entrou neles;{note:8} e puseram-se sobre seus pés, e caiu grande temor sobre os que os viram."
+            },
+            {
+                "id": "v11.12",
+                "versicle_number": 12,
+                "text": "E ouviram uma grande voz do céu, que lhes dizia: Subi cá. E subiram ao céu{note:9} em uma nuvem: e os seus inimigos os viram."
+            },
+            {
+                "id": "v11.13",
+                "versicle_number": 13,
+                "text": "E naquela mesma hora houve um grande terremoto,{note:10} e caiu a décima parte da cidade, e no terremoto foram mortos sete mil homens; e os demais ficaram muito atemorizados, e deram glória ao Deus do céu."
+            },
+            {
+                "id": "v11.14",
+                "versicle_number": 14,
+                "text": "É passado o segundo ai; eis que o terceiro ai cedo virá."
+            },
+            {
+                "id": "v11.15",
+                "versicle_number": 15,
+                "text": "E tocou o sétimo anjo a sua trombeta, e houve no céu grandes vozes, que diziam: Os reinos do mundo vieram a ser de nosso Senhor e do seu Cristo, e ele reinará para todo o sempre.{note:11}"
+            },
+            {
+                "id": "v11.16",
+                "versicle_number": 16,
+                "text": "E os vinte e quatro anciãos, que estão assentados em seus tronos diante de Deus prostraram-se sobre seus rostos e adoraram a Deus,"
+            },
+            {
+                "id": "v11.17",
+                "versicle_number": 17,
+                "text": "Dizendo: Graças te damos, Senhor Deus Todo-poderoso, que és, e que eras, e que hás de vir, que tomaste o teu grande poder, e reinaste."
+            },
+            {
+                "id": "v11.18",
+                "versicle_number": 18,
+                "text": "E iraram-se as nações, e veio a tua ira, e o tempo dos mortos, para que sejam julgados, e o tempo de dares o galardão aos profetas, teus servos, e aos santos, e aos que temem o teu nome,{note:12} a pequenos e a grandes, e o tempo de destruíres os que destroem a terra."
+            },
+            {
+                "id": "v11.19",
+                "versicle_number": 19,
+                "text": "E abriu-se no céu o templo de Deus, e a arca do seu concerto foi vista no seu templo: e houve relâmpagos,{note:13} e vozes, e trovões, e terremotos e grande saraiva."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v11.15",
+                "text": "A sétima trombeta"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 11.1 Ez 40.3"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 11.2 Lc 21.24"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 11.4 Zc 4.3,11-14"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 11.6 1Rs 17.1 {note:5} 11.6 Êx 7.17-19"
+            },
+            {
+                "id": "n5",
+                "text": "{note:6} 11.7 Dn 7.3,21; Ap 13.5-7; 17.8"
+            },
+            {
+                "id": "n6",
+                "text": "{note:7} 11.8 Is 1.9-10"
+            },
+            {
+                "id": "n7",
+                "text": "{note:8} 11.11 Ez 37.10"
+            },
+            {
+                "id": "n8",
+                "text": "{note:9} 11.12 2Rs 2.11"
+            },
+            {
+                "id": "n9",
+                "text": "{note:10} 11.13 Ap 16.18"
+            },
+            {
+                "id": "n10",
+                "text": "{note:11} 11.15 Dn 7.14,27"
+            },
+            {
+                "id": "n11",
+                "text": "{note:12} 11.18 Sl 115.13"
+            },
+            {
+                "id": "n12",
+                "text": "{note:13} 11.19 Ap 8.5; 16.18"
+            }
+        ]
+    }
+}

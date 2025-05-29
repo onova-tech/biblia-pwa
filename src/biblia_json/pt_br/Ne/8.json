@@ -1,0 +1,124 @@
+{
+    "book": {
+        "id": "Ne",
+        "book_number": 16,
+        "new_testament": false,
+        "num_chapters": 13,
+        "book_name": "NEEMIAS",
+        "book_full_name": "O LIVRO DE NEEMIAS"
+    },
+    "chapter": {
+        "chapter_number": 8,
+        "chapter_reference": "",
+        "chapter_title": "Esdras lê a lei diante do povo",
+        "versicles": [
+            {
+                "id": "v8.1",
+                "versicle_number": 1,
+                "text": "E CHEGADO o sétimo mês, e estando os filhos de Israel nas suas cidades, todo o povo se ajuntou como um só homem, na praça, diante da porta das águas; e disseram a Esdras, o escriba, que trouxesse o livro da lei de Moisés, que o Senhor tinha ordenado a Israel."
+            },
+            {
+                "id": "v8.2",
+                "versicle_number": 2,
+                "text": "E Esdras, o sacerdote, trouxe a lei perante a congregação, assim de homens como de mulheres, e de todos os entendidos para ouvirem, no primeiro dia do sétimo mês."
+            },
+            {
+                "id": "v8.3",
+                "versicle_number": 3,
+                "text": "E leu nela diante da praça, que está diante da porta das águas, desde a alva até ao meio-dia, perante homens e mulheres, e entendidos: e os ouvidos de todo o povo estavam atentos ao livro da lei."
+            },
+            {
+                "id": "v8.4",
+                "versicle_number": 4,
+                "text": "E Esdras, o escriba, estava sobre um púlpito de madeira, que fizeram para aquele fim; e estavam em pé junto a ele, à sua mão direita, Matitias, e Sema, e Anaias, e Urias, e Hilquias, e Maaseias; e à sua mão esquerda, Pedaías, e Misael, e Melquias, e Hasum, e Hasbadana, Zacarias, e Mesulão."
+            },
+            {
+                "id": "v8.5",
+                "versicle_number": 5,
+                "text": "E Esdras abriu o livro perante os olhos de todo o povo; porque estava acima de todo o povo; e, abrindo-o ele, todo o povo se pôs em pé."
+            },
+            {
+                "id": "v8.6",
+                "versicle_number": 6,
+                "text": "E Esdras louvou ao Senhor, o grande Deus: e todo o povo respondeu: Amém, Amém! levantando as suas mãos; e inclinaram-se, e adoraram ao Senhor, com os rostos em terra."
+            },
+            {
+                "id": "v8.7",
+                "versicle_number": 7,
+                "text": "E Jesua, e Bani, e Serebias, Jamim, Acube, Sabetai, Hodias, Maaseias, Quelita, Azarias, Jozabade, Hanã, Pelaías, e os levitas ensinavam ao povo na lei; e o povo estava no seu posto."
+            },
+            {
+                "id": "v8.8",
+                "versicle_number": 8,
+                "text": "E leram no livro, na lei de Deus: e declarando, e explicando o sentido, faziam que, lendo, se entendesse."
+            },
+            {
+                "id": "v8.9",
+                "versicle_number": 9,
+                "text": "E Neemias (que era o {note:c}tirsata), e o sacerdote Esdras, o escriba, e os levitas que ensinavam ao povo disseram a todo o povo: Este dia é consagrado ao Senhor vosso Deus, pelo que não vos lamenteis, nem choreis. Porque todo o povo chorava, ouvindo as palavras da lei."
+            },
+            {
+                "id": "v8.10",
+                "versicle_number": 10,
+                "text": "Disse-lhes mais: Ide, comei as gorduras, e bebei as doçuras, e enviai porções aos que não têm nada preparado para si; porque esse dia é consagrado ao nosso Senhor: portanto não vos entristeçais, porque a alegria do Senhor é a vossa força."
+            },
+            {
+                "id": "v8.11",
+                "versicle_number": 11,
+                "text": "E os levitas fizeram calar a todo o povo, dizendo: Calai-vos; porque este dia é santo: por isso não vos entristeçais."
+            },
+            {
+                "id": "v8.12",
+                "versicle_number": 12,
+                "text": "Então todo o povo se foi a comer, e a beber, e a enviar porções, e a fazer grandes festas: porque entenderam as palavras que lhes fizeram saber."
+            },
+            {
+                "id": "v8.13",
+                "versicle_number": 13,
+                "text": "E no dia seguinte ajuntaram-se os cabeças dos pais de todo o povo, os sacerdotes, e os levitas, a Esdras, o escriba: e isto para atentarem nas palavras da lei."
+            },
+            {
+                "id": "v8.14",
+                "versicle_number": 14,
+                "text": "E acharam escrito na lei que o Senhor ordenara, pelo ministério de Moisés, que os filhos de Israel habitassem em cabanas, na solenidade da festa, no sétimo mês."
+            },
+            {
+                "id": "v8.15",
+                "versicle_number": 15,
+                "text": "Assim o publicaram, e fizeram passar pregão por todas as suas cidades e em Jerusalém, dizendo: Saí ao monte, e trazei ramos de oliveira, e ramos de zambujeiros, e ramos de murtas, e ramos de palmeiras, e ramos de árvores espessas, para fazer cabanas, como está escrito.{note:1}"
+            },
+            {
+                "id": "v8.16",
+                "versicle_number": 16,
+                "text": "Saiu, pois, o povo, e de tudo trouxeram e fizeram para si cabanas, cada um no seu terraço, e nos seus pátios, e nos átrios da casa de Deus, e na praça da porta das águas, e na praça da porta de Efraim."
+            },
+            {
+                "id": "v8.17",
+                "versicle_number": 17,
+                "text": "E toda a congregação dos que voltaram do cativeiro fizeram cabanas e habitaram nas cabanas; porque nunca fizeram assim os filhos de Israel, desde os dias de Josué, filho de Num, até àquele dia; e houve mui grande alegria."
+            },
+            {
+                "id": "v8.18",
+                "versicle_number": 18,
+                "text": "E de dia em dia ele lia o livro da lei de Deus, desde o primeiro dia até ao derradeiro; e celebraram a solenidade da festa sete dias, e no oitavo dia, a festa do encerramento, segundo o rito."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v8.13",
+                "text": "A festa dos tabernáculos"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:c} 8.9 ou governador"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 8.14-15 Lv 23.33-36,39-43; Dt 16.13-15"
+            }
+        ]
+    }
+}

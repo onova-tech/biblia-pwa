@@ -1,0 +1,129 @@
+{
+    "book": {
+        "id": "Job",
+        "book_number": 18,
+        "new_testament": false,
+        "num_chapters": 42,
+        "book_name": "JÓ",
+        "book_full_name": "O LIVRO DE JÓ"
+    },
+    "chapter": {
+        "chapter_number": 8,
+        "chapter_reference": "",
+        "chapter_title": "Bildade refuta as palavras de Jó e justifica a Deus",
+        "versicles": [
+            {
+                "id": "v8.1",
+                "versicle_number": 1,
+                "text": "ENTÃO respondeu Bildade, o suíta, e disse:"
+            },
+            {
+                "id": "v8.2",
+                "versicle_number": 2,
+                "text": "Até quando falarás tais cousas e as razões da tua boca serão qual vento impetuoso?"
+            },
+            {
+                "id": "v8.3",
+                "versicle_number": 3,
+                "text": "Porventura perverteria Deus o direito, e perverteria o Todo-poderoso a justiça?"
+            },
+            {
+                "id": "v8.4",
+                "versicle_number": 4,
+                "text": "Se teus filhos pecaram contra ele, também ele os lançou na mão da sua transgressão."
+            },
+            {
+                "id": "v8.5",
+                "versicle_number": 5,
+                "text": "Mas, se tu de madrugada buscares a Deus, e ao Todo-poderoso pedires misericórdia."
+            },
+            {
+                "id": "v8.6",
+                "versicle_number": 6,
+                "text": "Se fores puro e reto, certamente logo despertará por ti, e restaurará a morada da tua justiça."
+            },
+            {
+                "id": "v8.7",
+                "versicle_number": 7,
+                "text": "O teu princípio, na verdade, terá sido pequeno, mas o teu último estado crescerá em extremo."
+            },
+            {
+                "id": "v8.8",
+                "versicle_number": 8,
+                "text": "Porque, eu te peço, pergunta agora às gerações passadas, e prepara-te para a inquirição de seus pais."
+            },
+            {
+                "id": "v8.9",
+                "versicle_number": 9,
+                "text": "Porque nós somos de ontem, e nada sabemos; porquanto nossos dias sobre a terra são como a sombra."
+            },
+            {
+                "id": "v8.10",
+                "versicle_number": 10,
+                "text": "Porventura não te ensinarão eles, e não te falarão, e do seu coração não tirarão razões?"
+            },
+            {
+                "id": "v8.11",
+                "versicle_number": 11,
+                "text": "Porventura sobe o junco sem lodo? Ou cresce a espadana sem água?"
+            },
+            {
+                "id": "v8.12",
+                "versicle_number": 12,
+                "text": "Estando ainda na sua verdura, e ainda não cortada, todavia antes de qualquer outra erva se seca."
+            },
+            {
+                "id": "v8.13",
+                "versicle_number": 13,
+                "text": "Assim são as veredas de todos quantos se esquecem de Deus; e a esperança do hipócrita perecerá."
+            },
+            {
+                "id": "v8.14",
+                "versicle_number": 14,
+                "text": "A sua esperança fica frustrada, e a sua confiança será como a teia de aranha."
+            },
+            {
+                "id": "v8.15",
+                "versicle_number": 15,
+                "text": "Encostar-se-á à sua casa, e ela não se terá firme; ampará-la-á, e ela não ficará em pé."
+            },
+            {
+                "id": "v8.16",
+                "versicle_number": 16,
+                "text": "Está sumarento antes que venha o sol, e os seus renovos saem sobre o seu jardim;"
+            },
+            {
+                "id": "v8.17",
+                "versicle_number": 17,
+                "text": "As suas raízes se entrelaçam junto à fonte, para o pedregal atenta."
+            },
+            {
+                "id": "v8.18",
+                "versicle_number": 18,
+                "text": "Desaparecendo ele do seu lugar, negá-lo-á este, dizendo: Nunca te vi."
+            },
+            {
+                "id": "v8.19",
+                "versicle_number": 19,
+                "text": "Eis que este é alegria do seu caminho, e outros brotarão do pó."
+            },
+            {
+                "id": "v8.20",
+                "versicle_number": 20,
+                "text": "Eis que Deus não rejeitará ao reto; nem toma pela mão aos malfeitores;"
+            },
+            {
+                "id": "v8.21",
+                "versicle_number": 21,
+                "text": "Até que de riso te encha a boca, e os teus lábios de louvor."
+            },
+            {
+                "id": "v8.22",
+                "versicle_number": 22,
+                "text": "Teus aborrecedores se vestirão de confusão, e a tenda dos ímpios não existirá mais."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

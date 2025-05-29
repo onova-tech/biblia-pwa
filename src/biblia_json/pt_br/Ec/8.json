@@ -1,0 +1,110 @@
+{
+    "book": {
+        "id": "Ec",
+        "book_number": 21,
+        "new_testament": false,
+        "num_chapters": 12,
+        "book_name": "ECLESIASTES",
+        "book_full_name": "LIVRO DO ECLESIASTES"
+    },
+    "chapter": {
+        "chapter_number": 8,
+        "chapter_reference": "",
+        "chapter_title": "A obediência devida ao rei",
+        "versicles": [
+            {
+                "id": "v8.1",
+                "versicle_number": 1,
+                "text": "QUEM é como o sábio? e quem sabe a interpretação das cousas? A sabedoria do homem faz brilhar o seu rosto, e a dureza do seu rosto se muda."
+            },
+            {
+                "id": "v8.2",
+                "versicle_number": 2,
+                "text": "Eu digo: Observa o mandamento do rei, e isso em consideração para com o juramento de Deus."
+            },
+            {
+                "id": "v8.3",
+                "versicle_number": 3,
+                "text": "Não te apresses a sair da presença dele, nem persistas em alguma cousa má, porque ele faz tudo o que quer."
+            },
+            {
+                "id": "v8.4",
+                "versicle_number": 4,
+                "text": "Porque a palavra do rei tem poder; e quem lhe dirá: Que fazes?"
+            },
+            {
+                "id": "v8.5",
+                "versicle_number": 5,
+                "text": "Quem guardar o mandamento não experimentará nenhum mal; e o coração do sábio discernirá o tempo e o modo."
+            },
+            {
+                "id": "v8.6",
+                "versicle_number": 6,
+                "text": "Porque para todo o propósito há tempo e modo; porquanto o mal do homem é grande sobre ele."
+            },
+            {
+                "id": "v8.7",
+                "versicle_number": 7,
+                "text": "Porque não sabe o que há de suceder: e, como haja de suceder, quem lho dará a entender?"
+            },
+            {
+                "id": "v8.8",
+                "versicle_number": 8,
+                "text": "Nenhum homem há que tenha domínio sobre o espírito, para reter o espírito; nem tem poder sobre o dia da morte; nem há armas nesta peleja: nem tão pouco a impiedade livrará aos ímpios."
+            },
+            {
+                "id": "v8.9",
+                "versicle_number": 9,
+                "text": "Tudo isto vi quando apliquei o meu coração a toda a obra que se faz debaixo do sol: tempo há em que um homem tem domínio sobre outro homem, para desgraça sua."
+            },
+            {
+                "id": "v8.10",
+                "versicle_number": 10,
+                "text": "Assim também vi os ímpios sepultados, e eis que havia quem fosse à sua sepultura, e os que fizeram bem e saíam do lugar santo, foram esquecidos na cidade: também isto é vaidade."
+            },
+            {
+                "id": "v8.11",
+                "versicle_number": 11,
+                "text": "Visto como se não executa logo o juízo sobre a má obra, por isso o coração dos filhos dos homens está inteiramente disposto para praticar o mal."
+            },
+            {
+                "id": "v8.12",
+                "versicle_number": 12,
+                "text": "Ainda que o pecador faça mal, cem vezes, e os dias se lhe prolonguem, eu sei com certeza que bem sucede aos que temem a Deus, aos que temerem diante dele."
+            },
+            {
+                "id": "v8.13",
+                "versicle_number": 13,
+                "text": "Mas ao ímpio não irá bem, e ele não prolongará os seus dias; será como a sombra, visto que ele não teme diante de Deus."
+            },
+            {
+                "id": "v8.14",
+                "versicle_number": 14,
+                "text": "Ainda há outra vaidade que se faz sobre a terra: há justos a quem sucede segundo as obras dos ímpios, e há ímpios a quem sucede segundo as obras dos justos. Digo que também isto é vaidade."
+            },
+            {
+                "id": "v8.15",
+                "versicle_number": 15,
+                "text": "Então exaltei eu a alegria, porquanto o homem nenhuma cousa melhor tem debaixo do sol do que comer, beber e alegrar-se; porque isso o acompanhará no seu trabalho nos dias da sua vida que Deus lhe dá debaixo do sol."
+            },
+            {
+                "id": "v8.16",
+                "versicle_number": 16,
+                "text": "Aplicando eu o meu coração a conhecer a sabedoria, e a ver o trabalho que há sobre a terra (pois nem de dia nem de noite vê o homem sono nos seus olhos);"
+            },
+            {
+                "id": "v8.17",
+                "versicle_number": 17,
+                "text": "Então vi toda a obra de Deus, que o homem não pode alcançar a obra que se faz debaixo do sol; por mais que trabalhe o homem para a buscar, não a achará; e, ainda que diga o sábio que a virá a conhecer, nem por isso a poderá alcançar."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v8.11",
+                "text": "O pecador não é logo castigado; o justo vê-se muitas vezes em adversidade"
+            }
+        ],
+        "notes": []
+    }
+}

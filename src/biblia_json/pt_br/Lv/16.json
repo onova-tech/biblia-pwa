@@ -1,0 +1,230 @@
+{
+    "book": {
+        "id": "Lv",
+        "book_number": 3,
+        "new_testament": false,
+        "num_chapters": 27,
+        "book_name": "LEVÍTICO",
+        "book_full_name": "O TERCEIRO LIVRO DE MOISÉS LEVÍTICO"
+    },
+    "chapter": {
+        "chapter_number": 16,
+        "chapter_reference": "",
+        "chapter_title": "Como Aarão deve entrar no santuário",
+        "versicles": [
+            {
+                "id": "v16.1",
+                "versicle_number": 1,
+                "text": "E FALOU o Senhor a Moisés, depois que morreram os dois filhos de Aarão, quando se chegaram diante do Senhor e morreram."
+            },
+            {
+                "id": "v16.2",
+                "versicle_number": 2,
+                "text": "Disse pois o Senhor a Moisés: Dize a Aarão, teu irmão, que não entre no santuário{note:1} em todo o tempo, para dentro do véu, diante do propiciatório que está sobre a arca, para que não morra; porque eu apareço na nuvem sobre o propiciatório."
+            },
+            {
+                "id": "v16.3",
+                "versicle_number": 3,
+                "text": "Com isto Aarão entrará{note:2} no santuário: com um novilho para expiação do pecado, e um carneiro para holocausto."
+            },
+            {
+                "id": "v16.4",
+                "versicle_number": 4,
+                "text": "Vestirá ele a túnica santa de linho, e terá ceroulas de linho sobre a sua carne, e cingir-se-á com um cinto de linho, e se cobrirá com uma mitra de linho: estes são vestidos santos: por isso banhará a sua carne na água, e os vestirá."
+            },
+            {
+                "id": "v16.5",
+                "versicle_number": 5,
+                "text": "E da congregação dos filhos de Israel tomará dois bodes para expiação do pecado e um carneiro para holocausto."
+            },
+            {
+                "id": "v16.6",
+                "versicle_number": 6,
+                "text": "Depois Aarão oferecerá o novilho da expiação, que será para ele; e fará expiação por si e pela sua casa."
+            },
+            {
+                "id": "v16.7",
+                "versicle_number": 7,
+                "text": "Também tomará ambos os bodes, e os porá perante o Senhor, à porta da tenda da congregação."
+            },
+            {
+                "id": "v16.8",
+                "versicle_number": 8,
+                "text": "E Aarão lançará sortes sobre os dois bodes: uma sorte pelo Senhor, e a outra sorte pelo bode emissário."
+            },
+            {
+                "id": "v16.9",
+                "versicle_number": 9,
+                "text": "Então Aarão fará chegar o bode, sobre o qual cair a sorte pelo Senhor, e o oferecerá para expiação do pecado."
+            },
+            {
+                "id": "v16.10",
+                "versicle_number": 10,
+                "text": "Mas o bode, sobre que cair a sorte para ser bode emissário, apresentar-se-á vivo perante o Senhor, para fazer expiação com ele, para enviá-lo ao deserto como bode emissário."
+            },
+            {
+                "id": "v16.11",
+                "versicle_number": 11,
+                "text": "E Aarão fará chegar o novilho da expiação, que será para ele, e fará expiação por si e pela sua casa; e degolará o novilho da expiação, que é para ele."
+            },
+            {
+                "id": "v16.12",
+                "versicle_number": 12,
+                "text": "Tomará também o incensário cheio de brasas de fogo do altar, de diante do Senhor, e os seus punhos cheios de incenso aromático moído, e o meterá dentro do véu."
+            },
+            {
+                "id": "v16.13",
+                "versicle_number": 13,
+                "text": "E porá o incenso sobre o fogo perante o Senhor, e a nuvem do incenso cobrirá o propiciatório, que está sobre o testemunho, para que não morra."
+            },
+            {
+                "id": "v16.14",
+                "versicle_number": 14,
+                "text": "E tomará do sangue do novilho, e com o seu dedo espargirá sobre a face do propiciatório, para a banda do oriente; e perante o propiciatório espargirá sete vezes do sangue com o seu dedo."
+            },
+            {
+                "id": "v16.15",
+                "versicle_number": 15,
+                "text": "Depois degolará o bode da expiação, que será para o povo, e trará o seu sangue para dentro do véu; e fará com o seu sangue como fez com o sangue do novilho, e o espargirá sobre o propiciatório, e perante a face do propiciatório."
+            },
+            {
+                "id": "v16.16",
+                "versicle_number": 16,
+                "text": "Assim fará expiação pelo santuário por causa das imundícias dos filhos de Israel e das suas transgressões, segundo todos os seus pecados: e assim fará para a tenda da congregação que mora com eles no meio das suas imundícias.{note:3}"
+            },
+            {
+                "id": "v16.17",
+                "versicle_number": 17,
+                "text": "E nenhum homem estará na tenda da congregação quando ele entrar a fazer propiciação no santuário, até que ele saia: assim fará expiação por si mesmo, e pela sua casa, e por toda a congregação de Israel."
+            },
+            {
+                "id": "v16.18",
+                "versicle_number": 18,
+                "text": "Então sairá ao altar, que está perante o Senhor, e fará expiação por ele; e tomará do sangue do novilho, e do sangue do bode, e o porá sobre as pontas do altar ao redor."
+            },
+            {
+                "id": "v16.19",
+                "versicle_number": 19,
+                "text": "E daquele sangue espargirá sobre ele com o seu dedo sete vezes, e o purificará das imundícias dos filhos de Israel, e o santificará."
+            },
+            {
+                "id": "v16.20",
+                "versicle_number": 20,
+                "text": "Havendo pois acabado de expiar o santuário e a tenda da congregação, e o altar, então fará chegar o bode vivo."
+            },
+            {
+                "id": "v16.21",
+                "versicle_number": 21,
+                "text": "E Aarão porá ambas as suas mãos sobre a cabeça do bode vivo, e sobre ele confessará todas as iniquidades dos filhos de Israel, e todas as suas transgressões, segundo todos os seus pecados: e os porá sobre a cabeça do bode, e enviá-lo-á ao deserto, pela mão dum homem designado para isso."
+            },
+            {
+                "id": "v16.22",
+                "versicle_number": 22,
+                "text": "Assim aquele bode levará sobre si todas as iniquidades deles à terra solitária; e enviará o bode ao deserto."
+            },
+            {
+                "id": "v16.23",
+                "versicle_number": 23,
+                "text": "Depois Aarão virá à tenda da congregação, e despirá os vestidos de linho,{note:4} que havia vestido quando entrara no santuário, e ali os deixará."
+            },
+            {
+                "id": "v16.24",
+                "versicle_number": 24,
+                "text": "E banhará a sua carne em água no lugar santo, e vestirá os seus vestidos: então sairá e preparará o seu holocausto, e o holocausto do povo, e fará expiação por si e pelo povo."
+            },
+            {
+                "id": "v16.25",
+                "versicle_number": 25,
+                "text": "Também queimará a gordura da expiação do pecado sobre o altar."
+            },
+            {
+                "id": "v16.26",
+                "versicle_number": 26,
+                "text": "E aquele que tiver levado o bode (que era bode emissário), lavará os seus vestidos, e banhará a sua carne em água; e depois entrará no arraial."
+            },
+            {
+                "id": "v16.27",
+                "versicle_number": 27,
+                "text": "Mas o novilho da expiação, e o bode da expiação do pecado, cujo sangue foi trazido para fazer expiação no santuário será levado fora do arraial:{note:5} porém as suas peles, a sua carne, e o seu esterco queimarão com fogo."
+            },
+            {
+                "id": "v16.28",
+                "versicle_number": 28,
+                "text": "E aquele que os queimar lavará os seus vestidos, e banhará a sua carne em água; e depois entrará no arraial."
+            },
+            {
+                "id": "v16.29",
+                "versicle_number": 29,
+                "text": "E isto vos será por estatuto perpétuo: no sétimo mês, aos dez do mês, afligireis as vossas almas, e nenhuma obra fareis, nem o natural nem o estrangeiro que peregrina entre vós."
+            },
+            {
+                "id": "v16.30",
+                "versicle_number": 30,
+                "text": "Porque naquele dia se fará expiação por vós, para purificar-vos: e sereis purificados de todos os vossos pecados perante o Senhor."
+            },
+            {
+                "id": "v16.31",
+                "versicle_number": 31,
+                "text": "É um sábado de descanso para vós, e afligireis as vossas almas: isto é estatuto perpétuo."
+            },
+            {
+                "id": "v16.32",
+                "versicle_number": 32,
+                "text": "E o sacerdote, que for ungido, e que for sagrado, para administrar o sacerdócio no lugar de seu pai, fará a expiação, havendo vestido os vestidos de linho, os vestidos santos:"
+            },
+            {
+                "id": "v16.33",
+                "versicle_number": 33,
+                "text": "Assim expiará o santo santuário; também expiará a tenda da congregação e o altar; semelhantemente fará expiação pelos sacerdotes e por todo o povo da congregação."
+            },
+            {
+                "id": "v16.34",
+                "versicle_number": 34,
+                "text": "E isto vos será por estatuto perpétuo, para fazer expiação pelos filhos de Israel de todos os seus pecados, uma vez no ano. E fez Aarão como o Senhor ordenara a Moisés.{note:6}"
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "",
+                "text": "O sacrifício pelo próprio sumo sacerdote"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v16.15",
+                "text": "O sacrifício pelo povo"
+            },
+            {
+                "id": "s3",
+                "next_versicle_id": "v16.29",
+                "text": "A festa anual das expiações"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 16.2 Hb 6.19"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 16.3 Hb 9.7"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 16.15-16 Hb 9.13"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 16.23 Ez 44.19"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 16.27 Hb 13.11"
+            },
+            {
+                "id": "n6",
+                "text": "{note:6} 16.29-34 Lv 23.26-32; Nm 29.7-11"
+            }
+        ]
+    }
+}

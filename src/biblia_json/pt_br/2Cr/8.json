@@ -1,0 +1,120 @@
+{
+    "book": {
+        "id": "2Cr",
+        "book_number": 14,
+        "new_testament": false,
+        "num_chapters": 36,
+        "book_name": "CRÔNICAS",
+        "book_full_name": "O SEGUNDO LIVRO DAS CRÔNICAS"
+    },
+    "chapter": {
+        "chapter_number": 8,
+        "chapter_reference": "",
+        "chapter_title": "Salomão edifica cidades",
+        "versicles": [
+            {
+                "id": "v8.1",
+                "versicle_number": 1,
+                "text": "E SUCEDEU, ao cabo de vinte anos, nos quais Salomão edificou a casa do Senhor, e a sua própria casa,"
+            },
+            {
+                "id": "v8.2",
+                "versicle_number": 2,
+                "text": "Que Salomão edificou as cidades que Hirão lhe tinha dado; e fez habitar nelas os filhos de Israel."
+            },
+            {
+                "id": "v8.3",
+                "versicle_number": 3,
+                "text": "Depois foi Salomão a Hamate-Zobá, e a tomou."
+            },
+            {
+                "id": "v8.4",
+                "versicle_number": 4,
+                "text": "Também edificou a Tadmor no deserto, e todas as cidades das munições que edificou em Hamate."
+            },
+            {
+                "id": "v8.5",
+                "versicle_number": 5,
+                "text": "Edificou também a alta Betorom, e a baixa Betorom, cidades fortes com muros, portas e ferrolhos;"
+            },
+            {
+                "id": "v8.6",
+                "versicle_number": 6,
+                "text": "Como também a Baalate, e todas as cidades das munições, que Salomão tinha, e todas as cidades dos carros e as cidades dos cavaleiros; e tudo quanto, conforme ao seu desejo, Salomão quis edificar em Jerusalém e no Líbano, e em toda a terra do seu domínio."
+            },
+            {
+                "id": "v8.7",
+                "versicle_number": 7,
+                "text": "Quanto a todo o povo, que tinha ficado dos heteus, e amorreus, e ferezeus e heveus, e jebuseus, que não eram de Israel;"
+            },
+            {
+                "id": "v8.8",
+                "versicle_number": 8,
+                "text": "Dos seus filhos, que ficaram depois deles na terra, os quais os filhos de Israel não destruíram, Salomão os fez tributários, até ao dia de hoje."
+            },
+            {
+                "id": "v8.9",
+                "versicle_number": 9,
+                "text": "Porém dos filhos de Israel, de quem Salomão não fez servos para a sua obra (mas eram homens de guerra, chefes dos seus capitães, e chefes dos seus carros, e dos seus cavaleiros),"
+            },
+            {
+                "id": "v8.10",
+                "versicle_number": 10,
+                "text": "Estes pois eram os chefes dos oficiais que o rei Salomão tinha, duzentos e cinquenta, que presidiam sobre o povo."
+            },
+            {
+                "id": "v8.11",
+                "versicle_number": 11,
+                "text": "E Salomão fez subir a filha de Faraó da cidade de Davi para a casa que lhe tinha edificado; porque disse: Minha mulher não morará na casa de Davi, rei de Israel, porquanto santos são os lugares nos quais entrou a arca do Senhor."
+            },
+            {
+                "id": "v8.12",
+                "versicle_number": 12,
+                "text": "Então Salomão ofereceu holocaustos ao Senhor, sobre o altar do Senhor, que tinha edificado diante do pórtico:"
+            },
+            {
+                "id": "v8.13",
+                "versicle_number": 13,
+                "text": "E isto segundo o dever de cada dia, oferecendo segundo o preceito de Moisés, nos sábados{note:1} e nas luas novas,{note:2} a nas solenidades, três vezes no ano:{note:3} na festa dos pães asmos, e na festa das semanas, e na festa das tendas."
+            },
+            {
+                "id": "v8.14",
+                "versicle_number": 14,
+                "text": "Também, conforme à ordem de Davi seu pai, ordenou as turmas dos sacerdotes nos seus ministérios, como também as dos levitas acerca dos seus cargos, para louvarem a Deus, e ministrarem diante dos sacerdotes, segundo o que estava ordenado para cada dia, e os porteiros pelas suas turmas a cada porta: porque tal era o mandado de Davi, o homem de Deus."
+            },
+            {
+                "id": "v8.15",
+                "versicle_number": 15,
+                "text": "E não se desviaram do mandado do rei aos sacerdotes e levitas, em negócio nenhum, nem acerca dos tesouros."
+            },
+            {
+                "id": "v8.16",
+                "versicle_number": 16,
+                "text": "Assim se preparou toda a obra de Salomão, desde o dia da fundação da casa do Senhor, até se acabar: e assim se aperfeiçoou a casa do Senhor."
+            },
+            {
+                "id": "v8.17",
+                "versicle_number": 17,
+                "text": "Então foi Salomão a Esiom-Geber, e a Elote, à praia do mar, na terra de Edom."
+            },
+            {
+                "id": "v8.18",
+                "versicle_number": 18,
+                "text": "E enviou-lhe Hirão, por mão de seus servos, navios, e servos práticos do mar, e foram com os servos de Salomão a Ofir, e tomaram de lá quatrocentos e cinquenta talentos de ouro: e os trouxeram ao rei Salomão."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v8.7",
+                "text": "Salomão faz tributários os heteus"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 8.13 Nm 28.9-10 {note:3} 8.13 Êx 23.14-17; 34.22-23; Nm 28.16—29.39; Dt 16.16 {note:2} 8.13 Nm 28.11-15"
+            }
+        ]
+    }
+}

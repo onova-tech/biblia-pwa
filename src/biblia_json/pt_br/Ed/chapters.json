@@ -1,0 +1,62 @@
+{
+    "book": {
+        "id": "Ed",
+        "book_number": 15,
+        "new_testament": false,
+        "num_chapters": 10,
+        "book_name": "ESDRAS",
+        "book_full_name": "O LIVRO DE ESDRAS"
+    },
+    "chapters": [
+        {
+            "chapter_number": 10,
+            "chapter_reference": "",
+            "chapter_title": "Os israelitas arrependem-se e despedem suas mulheres heteias"
+        },
+        {
+            "chapter_number": 1,
+            "chapter_reference": "",
+            "chapter_title": "Ciro convida os judeus a voltarem para Jerusalém e a edificarem o templo"
+        },
+        {
+            "chapter_number": 2,
+            "chapter_reference": "",
+            "chapter_title": "A lista dos que voltaram de Babilônia para Jerusalém com Zorobabel"
+        },
+        {
+            "chapter_number": 3,
+            "chapter_reference": "",
+            "chapter_title": "É levantado o altar"
+        },
+        {
+            "chapter_number": 4,
+            "chapter_reference": "",
+            "chapter_title": "Os samaritanos acusam os judeus ao rei Artaxerxes e a construção do templo é proibida"
+        },
+        {
+            "chapter_number": 5,
+            "chapter_reference": "",
+            "chapter_title": "Ageu e Zacarias exortam os judeus a continuarem a construção do templo"
+        },
+        {
+            "chapter_number": 6,
+            "chapter_reference": "",
+            "chapter_title": "O rei Dario confirma a ordem de edificar o templo"
+        },
+        {
+            "chapter_number": 7,
+            "chapter_reference": "",
+            "chapter_title": "Artaxerxes envia Esdras a Jerusalém para proclamar o edito em favor dos judeus"
+        },
+        {
+            "chapter_number": 8,
+            "chapter_reference": "",
+            "chapter_title": "A lista dos que voltaram de Babilônia com Esdras"
+        },
+        {
+            "chapter_number": 9,
+            "chapter_reference": "",
+            "chapter_title": "Esdras sabe que muitos israelitas casaram com mulheres heteias e faz oração e confissão a Deus"
+        }
+    ]
+}

@@ -1,0 +1,465 @@
+{
+    "book": {
+        "id": "Mc",
+        "book_number": 41,
+        "new_testament": true,
+        "num_chapters": 16,
+        "book_name": "MARCOS",
+        "book_full_name": "O SANTO EVANGELHO SEGUNDO MARCOS"
+    },
+    "chapter": {
+        "chapter_number": 14,
+        "chapter_reference": "Mateus 26.3-5 e refs.",
+        "chapter_title": "A consulta dos sacerdotes",
+        "versicles": [
+            {
+                "id": "v14.1",
+                "versicle_number": 1,
+                "text": "E DALI a dois dias era a páscoa, e a festa dos pães asmos; e os principais dos sacerdotes e os escribas buscavam como o prenderiam com dolo, e o matariam."
+            },
+            {
+                "id": "v14.2",
+                "versicle_number": 2,
+                "text": "Mas eles diziam: Não na festa, para que porventura se não faça alvoroço entre o povo."
+            },
+            {
+                "id": "v14.3",
+                "versicle_number": 3,
+                "text": "E, estando ele em Betânia assentado à mesa, em casa de Simão, o leproso, veio uma mulher, que trazia um vaso de alabastro, com unguento de nardo puro, de muito preço, e, quebrando o vaso, lho derramou sobre a cabeça."
+            },
+            {
+                "id": "v14.4",
+                "versicle_number": 4,
+                "text": "E alguns houve que em si mesmos se indignaram, e disseram: Para que se fez este desperdício de unguento?"
+            },
+            {
+                "id": "v14.5",
+                "versicle_number": 5,
+                "text": "Porque podia vender-se por mais de trezentos dinheiros, e dá-lo aos pobres. E bramavam contra ela."
+            },
+            {
+                "id": "v14.6",
+                "versicle_number": 6,
+                "text": "Jesus, porém, disse: Deixai-a, para que a molestais? Ela fez-me boa obra."
+            },
+            {
+                "id": "v14.7",
+                "versicle_number": 7,
+                "text": "Porque sempre tendes{note:1} os pobres convosco, e podeis fazer-lhes bem, quando quiserdes; mas a mim nem sempre me tendes."
+            },
+            {
+                "id": "v14.8",
+                "versicle_number": 8,
+                "text": "Esta fez o que podia; antecipou-se a ungir o meu corpo para a sepultura."
+            },
+            {
+                "id": "v14.9",
+                "versicle_number": 9,
+                "text": "Em verdade vos digo que, em todas as partes do mundo onde este evangelho for pregado, também o que ela fez será contado para sua memória."
+            },
+            {
+                "id": "v14.10",
+                "versicle_number": 10,
+                "text": "E Judas Iscariotes, um dos doze, foi ter com os principais dos sacerdotes para lho entregar."
+            },
+            {
+                "id": "v14.11",
+                "versicle_number": 11,
+                "text": "E eles, ouvindo-o, folgaram e prometeram dar-lhe dinheiro; e buscava como o entregaria em ocasião oportuna."
+            },
+            {
+                "id": "v14.12",
+                "versicle_number": 12,
+                "text": "E, no primeiro dia dos pães asmos,{note:2} quando sacrificavam a páscoa, disseram-lhe os discípulos: Aonde queres que vamos fazer os preparativos para comer a páscoa?"
+            },
+            {
+                "id": "v14.13",
+                "versicle_number": 13,
+                "text": "E enviou dois dos seus discípulos, e disse-lhes: Ide à cidade, e um homem, que leva um cântaro d'água, vos encontrará; segui-o;"
+            },
+            {
+                "id": "v14.14",
+                "versicle_number": 14,
+                "text": "E, onde quer que entrar, dizei ao senhor da casa: O Mestre diz: Onde está o aposento em que hei de comer a páscoa com os meus discípulos?"
+            },
+            {
+                "id": "v14.15",
+                "versicle_number": 15,
+                "text": "E ele vos mostrará um grande cenáculo mobilado e preparado; preparai-a ali."
+            },
+            {
+                "id": "v14.16",
+                "versicle_number": 16,
+                "text": "E, saindo os seus discípulos, foram à cidade, e acharam como lhes tinha dito, e prepararam a páscoa."
+            },
+            {
+                "id": "v14.17",
+                "versicle_number": 17,
+                "text": "E, chegada a tarde, foi com os doze,"
+            },
+            {
+                "id": "v14.18",
+                "versicle_number": 18,
+                "text": "E, quando estavam assentados a comer, disse Jesus: Em verdade vos digo que um de vós, que comigo come, há de trair-me."
+            },
+            {
+                "id": "v14.19",
+                "versicle_number": 19,
+                "text": "E eles começaram a entristecer-se e a dizer-lhe um após outro: Porventura sou eu, Senhor? e outro: Porventura sou eu, Senhor?"
+            },
+            {
+                "id": "v14.20",
+                "versicle_number": 20,
+                "text": "Mas ele, respondendo, disse-lhes: É um dos doze, que mete comigo a mão no prato."
+            },
+            {
+                "id": "v14.21",
+                "versicle_number": 21,
+                "text": "Na verdade o Filho do homem vai, como dele está escrito,{note:3} mas ai daquele homem por quem o Filho do homem é traído! bom seria para o tal homem não haver nascido."
+            },
+            {
+                "id": "v14.22",
+                "versicle_number": 22,
+                "text": "E, comendo eles, tomou Jesus pão, e, abençoando-o, o partiu e deu-lho, e disse: Tomai, comei, isto é o meu corpo."
+            },
+            {
+                "id": "v14.23",
+                "versicle_number": 23,
+                "text": "E, tomando o cálice, e dando graças, deu-lho; e todos beberam dele."
+            },
+            {
+                "id": "v14.24",
+                "versicle_number": 24,
+                "text": "E disse-lhes: Isto é o meu sangue,{note:4} o sangue do Novo Testamento,{note:5} que por muitos é derramado."
+            },
+            {
+                "id": "v14.25",
+                "versicle_number": 25,
+                "text": "Em verdade vos digo que não beberei mais do fruto da vide, até àquele dia em que o beber novo, no reino de Deus."
+            },
+            {
+                "id": "v14.26",
+                "versicle_number": 26,
+                "text": "E, tendo cantado o hino, saíram para o monte das Oliveiras."
+            },
+            {
+                "id": "v14.27",
+                "versicle_number": 27,
+                "text": "E disse-lhes Jesus: Todos vós esta noite vos escandalizareis em mim; porque escrito está: Ferirei o pastor, e as ovelhas se dispersarão.{note:6}"
+            },
+            {
+                "id": "v14.28",
+                "versicle_number": 28,
+                "text": "Mas, depois que eu houver ressuscitado, irei adiante de vós para a Galileia.{note:7}"
+            },
+            {
+                "id": "v14.29",
+                "versicle_number": 29,
+                "text": "E disse-lhe Pedro: Ainda que todos se escandalizem, nunca, porém, eu."
+            },
+            {
+                "id": "v14.30",
+                "versicle_number": 30,
+                "text": "E disse-lhe Jesus: Em verdade te digo que hoje, nesta noite, antes que o galo cante duas vezes, três vezes me negarás."
+            },
+            {
+                "id": "v14.31",
+                "versicle_number": 31,
+                "text": "Mas ele disse com mais veemência: Ainda que me seja necessário morrer contigo, de modo nenhum te negarei. E da mesma maneira diziam todos também."
+            },
+            {
+                "id": "v14.32",
+                "versicle_number": 32,
+                "text": "E foram a um lugar chamado Getsêmani, e disse aos seus discípulos: Assentai-vos aqui, enquanto eu oro."
+            },
+            {
+                "id": "v14.33",
+                "versicle_number": 33,
+                "text": "E tomou consigo a Pedro, e a Tiago, e a João, e começou a ter pavor, e a angustiar-se."
+            },
+            {
+                "id": "v14.34",
+                "versicle_number": 34,
+                "text": "E disse-lhes: A minha alma está profundamente triste até a morte: ficai aqui e vigiai."
+            },
+            {
+                "id": "v14.35",
+                "versicle_number": 35,
+                "text": "E, tendo ido um pouco mais adiante, prostrou-se em terra; e orou para que, se fosse possível, passasse dele aquela hora."
+            },
+            {
+                "id": "v14.36",
+                "versicle_number": 36,
+                "text": "E disse: Aba, Pai, todas as coisas te são possíveis; afasta de mim este cálice; não seja, porém, o que eu quero, mas o que tu queres."
+            },
+            {
+                "id": "v14.37",
+                "versicle_number": 37,
+                "text": "E, chegando, achou-os dormindo; e disse a Pedro: Simão, dormes? não podes vigiar uma hora?"
+            },
+            {
+                "id": "v14.38",
+                "versicle_number": 38,
+                "text": "Vigiai e orai, para que não entreis em tentação; o espírito, na verdade, está pronto, mas a carne é fraca."
+            },
+            {
+                "id": "v14.39",
+                "versicle_number": 39,
+                "text": "E foi outra vez e orou, dizendo as mesmas palavras."
+            },
+            {
+                "id": "v14.40",
+                "versicle_number": 40,
+                "text": "E, voltando, achou-os outra vez dormindo, porque os seus olhos estavam carregados, e não sabiam que responder-lhe."
+            },
+            {
+                "id": "v14.41",
+                "versicle_number": 41,
+                "text": "E voltou terceira vez, e disse-lhes: Dormi agora, e descansai. Basta; é chegada a hora. Eis que o Filho do homem vai ser entregue nas mãos dos pecadores."
+            },
+            {
+                "id": "v14.42",
+                "versicle_number": 42,
+                "text": "Levantai-vos, vamos; eis que está perto o que me trai."
+            },
+            {
+                "id": "v14.43",
+                "versicle_number": 43,
+                "text": "E logo, falando ele ainda, veio Judas, que era um dos doze, da parte dos principais dos sacerdotes, e dos escribas e dos anciãos, e com ele uma grande multidão com espadas e varapaus."
+            },
+            {
+                "id": "v14.44",
+                "versicle_number": 44,
+                "text": "Ora, o que o traía, tinha-lhes dado um sinal, dizendo: Aquele que eu beijar, esse é; prendei-o, e levai-o com segurança."
+            },
+            {
+                "id": "v14.45",
+                "versicle_number": 45,
+                "text": "E, logo que chegou, aproximou-se dele, e disse-lhe: Rabi, Rabi. E beijou-o."
+            },
+            {
+                "id": "v14.46",
+                "versicle_number": 46,
+                "text": "E lançaram-lhe as mãos, e o prenderam."
+            },
+            {
+                "id": "v14.47",
+                "versicle_number": 47,
+                "text": "E um dos que ali estavam presentes, puxando da espada, feriu o servo do sumo sacerdote, e cortou-lhe uma orelha."
+            },
+            {
+                "id": "v14.48",
+                "versicle_number": 48,
+                "text": "E, respondendo Jesus, disse-lhes: Saístes com espadas e varapaus a prender-me, como a um salteador?"
+            },
+            {
+                "id": "v14.49",
+                "versicle_number": 49,
+                "text": "Todos os dias estava convosco ensinando{note:8} no templo, e não me prendestes; mas isto é para que as Escrituras se cumpram."
+            },
+            {
+                "id": "v14.50",
+                "versicle_number": 50,
+                "text": "Então, deixando-o, todos fugiram."
+            },
+            {
+                "id": "v14.51",
+                "versicle_number": 51,
+                "text": "E um certo mancebo o seguia, envolto em um lençol sobre o corpo nu. E lançaram-lhe a mão."
+            },
+            {
+                "id": "v14.52",
+                "versicle_number": 52,
+                "text": "Mas ele, largando o lençol, fugiu nu."
+            },
+            {
+                "id": "v14.53",
+                "versicle_number": 53,
+                "text": "E levaram Jesus ao sumo sacerdote, e ajuntaram-se todos os principais dos sacerdotes, e os anciãos e os escribas."
+            },
+            {
+                "id": "v14.54",
+                "versicle_number": 54,
+                "text": "E Pedro o seguiu de longe até dentro do pátio do sumo sacerdote, e estava assentado com os {note:k}servidores, aquentando-se ao lume."
+            },
+            {
+                "id": "v14.55",
+                "versicle_number": 55,
+                "text": "E os principais dos sacerdotes e todo o concílio buscavam algum testemunho contra Jesus, para o matar, e não o achavam."
+            },
+            {
+                "id": "v14.56",
+                "versicle_number": 56,
+                "text": "Porque muitos testificavam falsamente contra ele, mas os testemunhos não eram conformes."
+            },
+            {
+                "id": "v14.57",
+                "versicle_number": 57,
+                "text": "E, levantando-se alguns, testificavam falsamente contra ele, dizendo:"
+            },
+            {
+                "id": "v14.58",
+                "versicle_number": 58,
+                "text": "Nós ouvimos-lhe dizer: Eu derribarei este templo, construído por mãos de homens, e em três dias edificarei outro, não feito por mãos de homens.{note:9}"
+            },
+            {
+                "id": "v14.59",
+                "versicle_number": 59,
+                "text": "E nem assim o seu testemunho era conforme."
+            },
+            {
+                "id": "v14.60",
+                "versicle_number": 60,
+                "text": "E, levantando-se o sumo sacerdote no sinédrio, perguntou a Jesus, dizendo: Nada respondes? Que testificam estes contra ti?"
+            },
+            {
+                "id": "v14.61",
+                "versicle_number": 61,
+                "text": "Mas ele calou-se, e nada respondeu. O sumo sacerdote lhe tornou a perguntar, e disse-lhe: És tu o Cristo, Filho do Deus Bendito?"
+            },
+            {
+                "id": "v14.62",
+                "versicle_number": 62,
+                "text": "E Jesus disse-lhe: Eu o sou, e vereis o Filho do homem{note:10} assentado à direita do poder de Deus, e vindo sobre as nuvens do céu."
+            },
+            {
+                "id": "v14.63",
+                "versicle_number": 63,
+                "text": "E o sumo sacerdote, rasgando os seus vestidos, disse: Para que necessitamos de mais testemunhas?"
+            },
+            {
+                "id": "v14.64",
+                "versicle_number": 64,
+                "text": "Vós ouvistes a blasfêmia; que vos parece? E todos o consideraram culpado de morte.{note:11}"
+            },
+            {
+                "id": "v14.65",
+                "versicle_number": 65,
+                "text": "E alguns começaram a cuspir nele, e a cobrir-lhe o rosto, e a dar-lhe punhadas, e a dizer-lhe: Profetiza. E os servidores davam-lhe bofetadas."
+            },
+            {
+                "id": "v14.66",
+                "versicle_number": 66,
+                "text": "E, estando Pedro embaixo, no átrio, chegou uma das criadas do sumo sacerdote;"
+            },
+            {
+                "id": "v14.67",
+                "versicle_number": 67,
+                "text": "E, vendo a Pedro, que se estava aquentando, olhou para ele, e disse: Tu também estavas com Jesus Nazareno."
+            },
+            {
+                "id": "v14.68",
+                "versicle_number": 68,
+                "text": "Mas ele negou-o dizendo: Não o conheço, nem sei o que dizes. E saiu fora ao alpendre, e o galo cantou."
+            },
+            {
+                "id": "v14.69",
+                "versicle_number": 69,
+                "text": "E a criada, vendo-o outra vez, começou a dizer aos que ali estavam: Este é um dos tais."
+            },
+            {
+                "id": "v14.70",
+                "versicle_number": 70,
+                "text": "Mas ele o negou outra vez. E pouco depois os que ali estavam disseram outra vez a Pedro: Verdadeiramente tu és um deles, porque és também galileu."
+            },
+            {
+                "id": "v14.71",
+                "versicle_number": 71,
+                "text": "E ele começou a imprecar, e a jurar: Não conheço esse homem de quem falais."
+            },
+            {
+                "id": "v14.72",
+                "versicle_number": 72,
+                "text": "E o galo cantou segunda vez. E Pedro lembrou-se da palavra que Jesus lhe tinha dito: Antes que o galo cante duas vezes, três vezes me negarás tu. E, retirando-se dali, chorou."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "",
+                "text": "O jantar em Betânia"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "",
+                "text": "O preço da traição"
+            },
+            {
+                "id": "s3",
+                "next_versicle_id": "",
+                "text": "A última páscoa; a santa ceia"
+            },
+            {
+                "id": "s4",
+                "next_versicle_id": "",
+                "text": "Pedro é avisado"
+            },
+            {
+                "id": "s5",
+                "next_versicle_id": "",
+                "text": "Jesus em Getsêmani"
+            },
+            {
+                "id": "s6",
+                "next_versicle_id": "",
+                "text": "Jesus é preso"
+            },
+            {
+                "id": "s7",
+                "next_versicle_id": "",
+                "text": "Jesus perante o sinédrio"
+            },
+            {
+                "id": "s8",
+                "next_versicle_id": "",
+                "text": "Pedro nega a Jesus"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 14.7 Dt 15.11"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 14.12 Êx 12.1-27"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 14.21 Sl 41.9"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 14.24 Êx 24.6-8 {note:5} 14.24 Jr 31.31-34"
+            },
+            {
+                "id": "n5",
+                "text": "{note:6} 14.27 Zc 13.7"
+            },
+            {
+                "id": "n6",
+                "text": "{note:7} 14.28 Mt 28.16"
+            },
+            {
+                "id": "n7",
+                "text": "{note:8} 14.49 Lc 19.47; 21.37"
+            },
+            {
+                "id": "n8",
+                "text": "{note:k} 14.54 ou oficiais"
+            },
+            {
+                "id": "n9",
+                "text": "{note:9} 14.58 Jo 2.19"
+            },
+            {
+                "id": "n10",
+                "text": "{note:10} 14.62 Dn 7.13"
+            },
+            {
+                "id": "n11",
+                "text": "{note:11} 14.64 Lv 24.16"
+            }
+        ]
+    }
+}

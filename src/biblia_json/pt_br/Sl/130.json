@@ -1,0 +1,68 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 130,
+        "chapter_reference": "",
+        "chapter_title": "A confissão do pecado e a esperança do perdão",
+        "versicles": [
+            {
+                "id": "v130.1",
+                "versicle_number": 1,
+                "text": "DAS profundezas a ti clamo, ó Senhor."
+            },
+            {
+                "id": "v130.2",
+                "versicle_number": 2,
+                "text": "Senhor, escuta a minha voz: sejam os teus ouvidos atentos à voz das minhas súplicas."
+            },
+            {
+                "id": "v130.3",
+                "versicle_number": 3,
+                "text": "Se tu, Senhor, observares as iniquidades, Senhor, quem subsistirá?"
+            },
+            {
+                "id": "v130.4",
+                "versicle_number": 4,
+                "text": "Mas contigo está o perdão, para que sejas temido."
+            },
+            {
+                "id": "v130.5",
+                "versicle_number": 5,
+                "text": "Aguardo ao Senhor; a minha alma o aguarda, e espero na sua palavra."
+            },
+            {
+                "id": "v130.6",
+                "versicle_number": 6,
+                "text": "A minha alma anseia pelo Senhor, mais do que os guardas pelo romper da manhã, sim, do que aqueles que esperam pela manhã."
+            },
+            {
+                "id": "v130.7",
+                "versicle_number": 7,
+                "text": "Espere Israel no Senhor, porque no Senhor há misericórdia, e nele há abundante redenção."
+            },
+            {
+                "id": "v130.8",
+                "versicle_number": 8,
+                "text": "E ele remirá a Israel{note:1} de todas as suas iniquidades."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:v} 130, título ou Cântico gradual"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 130.8 Tt 2.14"
+            }
+        ]
+    }
+}

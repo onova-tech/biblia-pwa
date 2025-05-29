@@ -1,0 +1,200 @@
+{
+    "book": {
+        "id": "Jud",
+        "book_number": 65,
+        "new_testament": true,
+        "num_chapters": 1,
+        "book_name": "JUDAS",
+        "book_full_name": "EPÍSTOLA UNIVERSAL DO APÓSTOLO JUDAS"
+    },
+    "chapter": {
+        "chapter_number": 1,
+        "chapter_reference": "",
+        "chapter_title": "Prefácio e saudação",
+        "versicles": [
+            {
+                "id": "v1.1",
+                "versicle_number": 1,
+                "text": "JUDAS,{note:1} servo de Jesus Cristo, e irmão de Tiago, aos chamados, queridos em Deus Pai, e conservados por Jesus Cristo:"
+            },
+            {
+                "id": "v1.2",
+                "versicle_number": 2,
+                "text": "Misericórdia, e paz, {note:a}e caridade vos sejam multiplicadas."
+            },
+            {
+                "id": "v1.3",
+                "versicle_number": 3,
+                "text": "Amados, procurando eu escrever-vos com toda a diligência acerca da salvação comum, tive por necessidade escrever-vos, e exortar-vos a batalhar pela fé que uma vez foi dada aos santos."
+            },
+            {
+                "id": "v1.4",
+                "versicle_number": 4,
+                "text": "Porque se introduziram alguns, que já antes estavam escritos para este mesmo juízo, homens ímpios, que convertem em dissolução a graça de Deus, e negam a Deus, único dominador e Senhor nosso, Jesus Cristo."
+            },
+            {
+                "id": "v1.5",
+                "versicle_number": 5,
+                "text": "Mas quero lembrar-vos, como a quem já uma vez soube isto, que, havendo o Senhor salvo um povo, tirando-o da terra do Egito,{note:2} destruiu depois os que não creram;{note:3}"
+            },
+            {
+                "id": "v1.6",
+                "versicle_number": 6,
+                "text": "E aos anjos que não guardaram o seu principado, mas deixaram a sua própria habitação, reservou na escuridão, e em prisões eternas até ao juízo daquele grande dia;"
+            },
+            {
+                "id": "v1.7",
+                "versicle_number": 7,
+                "text": "Assim como Sodoma e Gomorra,{note:4} e as cidades circunvizinhas, que, havendo-se corrompido como aqueles, e ido após outra carne, foram postas por exemplo, sofrendo a pena do fogo eterno."
+            },
+            {
+                "id": "v1.8",
+                "versicle_number": 8,
+                "text": "E, contudo, também estes, semelhantemente adormecidos, contaminam a sua carne, e rejeitam a dominação, e vituperam as dignidades."
+            },
+            {
+                "id": "v1.9",
+                "versicle_number": 9,
+                "text": "Mas o arcanjo Miguel, quando contendia com o diabo, e disputava a respeito do corpo de Moisés,{note:5} não ousou pronunciar juízo de maldição contra ele; mas disse: O Senhor te repreenda.{note:6}"
+            },
+            {
+                "id": "v1.10",
+                "versicle_number": 10,
+                "text": "Estes porém dizem mal do que não sabem; e, naquilo que naturalmente conhecem, como animais irracionais se corrompem."
+            },
+            {
+                "id": "v1.11",
+                "versicle_number": 11,
+                "text": "Ai deles! porque entraram pelo caminho de Caim,{note:7} e foram levados pelo engano do prêmio de Balaão,{note:8} e pereceram na contradição de Coré.{note:9}"
+            },
+            {
+                "id": "v1.12",
+                "versicle_number": 12,
+                "text": "Estes são {note:b}manchas em vossas festas de {note:c}caridade, banqueteando-se convosco {note:d}e apascentando-se a si mesmos sem temor: são nuvens sem água, levadas pelos ventos de uma para outra parte: são como árvores murchas, infrutíferas, duas vezes mortas, desarraigadas;"
+            },
+            {
+                "id": "v1.13",
+                "versicle_number": 13,
+                "text": "Ondas impetuosas do mar, que escumam as suas mesmas abominações: estrelas errantes, para os quais está eternamente reservada a negrura das trevas."
+            },
+            {
+                "id": "v1.14",
+                "versicle_number": 14,
+                "text": "E destes profetizou também Enoque,{note:10} o sétimo depois de Adão, dizendo: Eis que é vindo o Senhor com milhares de seus santos;"
+            },
+            {
+                "id": "v1.15",
+                "versicle_number": 15,
+                "text": "Para fazer juízo contra todos e condenar dentre eles todos os ímpios, por todas as suas obras de impiedade, que impiamente cometeram, e por todas as duras palavras que ímpios pecadores disseram contra ele."
+            },
+            {
+                "id": "v1.16",
+                "versicle_number": 16,
+                "text": "Estes são murmuradores, queixosos da sua sorte, andando segundo as suas concupiscências, e cuja boca diz coisas mui arrogantes, admirando as pessoas por causa do interesse."
+            },
+            {
+                "id": "v1.17",
+                "versicle_number": 17,
+                "text": "Mas vós, amados, lembrai-vos das palavras que vos foram preditas pelos apóstolos de nosso Senhor Jesus Cristo:"
+            },
+            {
+                "id": "v1.18",
+                "versicle_number": 18,
+                "text": "Os quais vos diziam que no último tempo haveria escarnecedores que andariam segundo as suas ímpias concupiscências.{note:11}"
+            },
+            {
+                "id": "v1.19",
+                "versicle_number": 19,
+                "text": "Estes são os que causam divisões, sensuais, que não têm o Espírito."
+            },
+            {
+                "id": "v1.20",
+                "versicle_number": 20,
+                "text": "Mas vós, amados, edificando-vos a vós mesmos sobre a vossa santíssima fé, orando no Espírito Santo,"
+            },
+            {
+                "id": "v1.21",
+                "versicle_number": 21,
+                "text": "Conservai-vos a vós mesmos {note:e}na caridade de Deus, esperando a misericórdia de nosso Senhor Jesus Cristo para a vida eterna."
+            },
+            {
+                "id": "v1.22",
+                "versicle_number": 22,
+                "text": "E apiedai-vos de alguns, que estão duvidosos;"
+            },
+            {
+                "id": "v1.23",
+                "versicle_number": 23,
+                "text": "E salvai alguns arrebatando-os do fogo; tende deles misericórdia com temor, aborrecendo até a roupa manchada da carne.{note:12}"
+            },
+            {
+                "id": "v1.24",
+                "versicle_number": 24,
+                "text": "Ora, àquele que é poderoso para vos guardar de tropeçar, e apresentar-vos irrepreensíveis, com alegria, perante a sua glória,"
+            },
+            {
+                "id": "v1.25",
+                "versicle_number": 25,
+                "text": "Ao único Deus, Salvador nosso, por Jesus Cristo, nosso Senhor, seja glória e majestade, domínio e poder, antes de todos os séculos, agora, e para todo o sempre. Amém."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v1.3",
+                "text": "Contra os ímpios e falsos mestres"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v1.20",
+                "text": "Exortação e doxologia final"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 1 Mt 13.55; Mc 6.3"
+            },
+            {
+                "id": "n2",
+                "text": "{note:a} 2 ou amor"
+            },
+            {
+                "id": "n3",
+                "text": "{note:2} 5 Êx 12.51 {note:3} 5 Nm 14.29-30"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 7 Gn 19.1-24"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 9 Dt 34.6 {note:6} 9 Zc 3.2"
+            },
+            {
+                "id": "n6",
+                "text": "{note:7} 11 Gn 4.3-8 {note:9} 11 Nm 16.1-35 {note:8} 11 Nm 22.1-35"
+            },
+            {
+                "id": "n7",
+                "text": "{note:b} 12 ou rochas ocultas {note:d} 12 ou são pastores que a si mesmos apascentam-se sem temor {note:c} 12 ou amor"
+            },
+            {
+                "id": "n8",
+                "text": "{note:10} 14 Gn 5.21-24"
+            },
+            {
+                "id": "n9",
+                "text": "{note:11} 18 2Pe 3.3"
+            },
+            {
+                "id": "n10",
+                "text": "{note:e} 21 ou no amor"
+            },
+            {
+                "id": "n11",
+                "text": "{note:12} 3-23 2Pe 2.1-22"
+            }
+        ]
+    }
+}

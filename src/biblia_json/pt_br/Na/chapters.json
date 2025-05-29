@@ -1,0 +1,27 @@
+{
+    "book": {
+        "id": "Na",
+        "book_number": 34,
+        "new_testament": false,
+        "num_chapters": 3,
+        "book_name": "NAUM",
+        "book_full_name": "NAUM"
+    },
+    "chapters": [
+        {
+            "chapter_number": 1,
+            "chapter_reference": "",
+            "chapter_title": "A justiça e misericórdia de Deus: a destruição de seus inimigos e o livramento do seu povo"
+        },
+        {
+            "chapter_number": 2,
+            "chapter_reference": "",
+            "chapter_title": "O cerco e tomada de Nínive"
+        },
+        {
+            "chapter_number": 3,
+            "chapter_reference": "",
+            "chapter_title": "Os delitos de Nínive: a sua ruína inevitável"
+        }
+    ]
+}

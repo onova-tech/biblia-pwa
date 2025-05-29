@@ -1,0 +1,143 @@
+{
+    "book": {
+        "id": "Mt",
+        "book_number": 40,
+        "new_testament": true,
+        "num_chapters": 28,
+        "book_name": "MATEUS",
+        "book_full_name": "O SANTO EVANGELHO SEGUNDO MATEUS"
+    },
+    "chapter": {
+        "chapter_number": 3,
+        "chapter_reference": "Marcos 1.1-8; Lucas 3.1-18; João 1.6-8,19-36",
+        "chapter_title": "João Batista",
+        "versicles": [
+            {
+                "id": "v3.1",
+                "versicle_number": 1,
+                "text": "E, NAQUELES dias, apareceu João Batista pregando no deserto da Judeia."
+            },
+            {
+                "id": "v3.2",
+                "versicle_number": 2,
+                "text": "E dizendo: Arrependei-vos,{note:1} porque é chegado o reino dos céus.{note:2}"
+            },
+            {
+                "id": "v3.3",
+                "versicle_number": 3,
+                "text": "Porque este é o anunciado pelo profeta Isaías, que disse: Voz do que clama no deserto: preparai o caminho do Senhor, endireitai as suas veredas.{note:3}"
+            },
+            {
+                "id": "v3.4",
+                "versicle_number": 4,
+                "text": "E este João tinha o seu vestido{note:4} de pelos de camelo, e um cinto de couro em torno de seus lombos; e alimentava-se de gafanhotos e de mel silvestre."
+            },
+            {
+                "id": "v3.5",
+                "versicle_number": 5,
+                "text": "Então ia ter com ele Jerusalém, e toda a Judeia, e toda a província adjacente ao Jordão;"
+            },
+            {
+                "id": "v3.6",
+                "versicle_number": 6,
+                "text": "E eram por ele batizados no rio Jordão, confessando os seus pecados."
+            },
+            {
+                "id": "v3.7",
+                "versicle_number": 7,
+                "text": "E, vendo ele muitos dos fariseus e dos saduceus, que vinham ao seu batismo, dizia-lhes: Raça de víboras,{note:5} quem vos ensinou a fugir da ira futura?"
+            },
+            {
+                "id": "v3.8",
+                "versicle_number": 8,
+                "text": "Produzi pois frutos dignos de arrependimento;"
+            },
+            {
+                "id": "v3.9",
+                "versicle_number": 9,
+                "text": "E não presumais, de vós mesmos, dizendo: Temos por pai a Abraão;{note:6} porque eu vos digo que mesmo destas pedras Deus pode suscitar filhos a Abraão."
+            },
+            {
+                "id": "v3.10",
+                "versicle_number": 10,
+                "text": "E também agora está posto o machado à raiz das árvores; toda árvore,{note:7} pois, que não produz bom fruto, é cortada e lançada no fogo."
+            },
+            {
+                "id": "v3.11",
+                "versicle_number": 11,
+                "text": "E eu, em verdade, vos batizo com água, para o arrependimento; mas aquele que vem após mim é mais poderoso do que eu; cujas {note:f}alparcas não sou digno de levar; ele vos batizará com o Espírito Santo, e com fogo."
+            },
+            {
+                "id": "v3.12",
+                "versicle_number": 12,
+                "text": "Em sua mão tem a pá, e limpará a sua eira, e recolherá no celeiro o seu trigo, e queimará a palha com fogo que nunca se apagará."
+            },
+            {
+                "id": "v3.13",
+                "versicle_number": 13,
+                "text": "Então veio Jesus da Galileia ter com João junto do Jordão, para ser batizado por ele."
+            },
+            {
+                "id": "v3.14",
+                "versicle_number": 14,
+                "text": "Mas João opunha-se-lhe, dizendo: Eu careço de ser batizado por ti, e vens tu a mim?"
+            },
+            {
+                "id": "v3.15",
+                "versicle_number": 15,
+                "text": "Jesus, porém, respondendo, disse-lhe: Deixa por agora, porque assim nos convém cumprir toda a justiça. Então ele o permitiu."
+            },
+            {
+                "id": "v3.16",
+                "versicle_number": 16,
+                "text": "E, sendo Jesus batizado, saiu logo da água, e eis que se lhe abriram os céus, e viu o Espírito de Deus descendo como pomba e vindo sobre ele."
+            },
+            {
+                "id": "v3.17",
+                "versicle_number": 17,
+                "text": "E eis que uma voz dos céus dizia: Este é o meu Filho amado,{note:8} em quem me comprazo.{note:9}"
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "",
+                "text": "O batismo de Jesus"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 3.2 Mt 4.17; Mc 1.15 {note:2} 3.2 Dn 2.44"
+            },
+            {
+                "id": "n2",
+                "text": "{note:3} 3.3 Is 40.3"
+            },
+            {
+                "id": "n3",
+                "text": "{note:4} 3.4 2Rs 1.8"
+            },
+            {
+                "id": "n4",
+                "text": "{note:5} 3.7 Mt 23.33"
+            },
+            {
+                "id": "n5",
+                "text": "{note:6} 3.9 Jo 8.33"
+            },
+            {
+                "id": "n6",
+                "text": "{note:7} 3.10 Mt 7.19"
+            },
+            {
+                "id": "n7",
+                "text": "{note:f} 3.11 ou calçado"
+            },
+            {
+                "id": "n8",
+                "text": "{note:8} 3.17 Mt 12.18; 17.5; Mc 9.7; Lc 9.35 {note:9} 3.17 Is 42.1"
+            }
+        ]
+    }
+}

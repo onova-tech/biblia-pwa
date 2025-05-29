@@ -1,0 +1,221 @@
+{
+    "book": {
+        "id": "2Cr",
+        "book_number": 14,
+        "new_testament": false,
+        "num_chapters": 36,
+        "book_name": "CRÔNICAS",
+        "book_full_name": "O SEGUNDO LIVRO DAS CRÔNICAS"
+    },
+    "chapter": {
+        "chapter_number": 20,
+        "chapter_reference": "",
+        "chapter_title": "Deus concede a Josafá vitória sobre os seus inimigos",
+        "versicles": [
+            {
+                "id": "v20.1",
+                "versicle_number": 1,
+                "text": "E SUCEDEU que, depois disto, os filhos de Moabe, e os filhos de Amom, e com eles alguns outros dos amonitas, vieram à peleja contra Josafá."
+            },
+            {
+                "id": "v20.2",
+                "versicle_number": 2,
+                "text": "Então vieram alguns que deram aviso a Josafá, dizendo: Vem contra ti uma grande multidão dalém do mar e da Síria: e eis que já estão em Hatsom-Tamar, que é Engedi."
+            },
+            {
+                "id": "v20.3",
+                "versicle_number": 3,
+                "text": "Então Josafá temeu, e pôs-se a buscar o Senhor; e apregoou jejum em todo o Judá."
+            },
+            {
+                "id": "v20.4",
+                "versicle_number": 4,
+                "text": "E Judá se ajuntou, para pedir socorro ao Senhor; também de todas as cidades de Judá vieram para buscarem ao Senhor."
+            },
+            {
+                "id": "v20.5",
+                "versicle_number": 5,
+                "text": "E pôs-se Josafá em pé na congregação de Judá e de Jerusalém, na casa do Senhor, diante do pátio novo."
+            },
+            {
+                "id": "v20.6",
+                "versicle_number": 6,
+                "text": "E disse: Ah! Senhor, Deus de nossos pais, porventura não és tu Deus nos céus? Pois tu és Dominador sobre todos os reinos das gentes, e na tua mão há força e poder, e não há quem te possa resistir."
+            },
+            {
+                "id": "v20.7",
+                "versicle_number": 7,
+                "text": "Porventura, ó Deus nosso, não lançaste tu fora os moradores desta terra, de diante do teu povo Israel, e não a deste à semente de Abraão, teu amigo,{note:1} para sempre?"
+            },
+            {
+                "id": "v20.8",
+                "versicle_number": 8,
+                "text": "E habitaram nela; e edificaram nela um santuário ao teu nome, dizendo:"
+            },
+            {
+                "id": "v20.9",
+                "versicle_number": 9,
+                "text": "Se algum mal nos sobrevier, espada, juízo, peste, ou fome, nós nos apresentaremos diante desta casa e diante de ti; pois teu nome está nesta casa; e clamaremos a ti na nossa angústia, e tu nos ouvirás e livrarás."
+            },
+            {
+                "id": "v20.10",
+                "versicle_number": 10,
+                "text": "Agora, pois, eis que os filhos de Amom e de Moabe, e os das montanhas de Seir, pelos quais não permitiste que passasse Israel,{note:2} quando vinham da terra do Egito, mas deles se desviaram e não o destruíram,"
+            },
+            {
+                "id": "v20.11",
+                "versicle_number": 11,
+                "text": "Eis que nos dão o pago, vindo para lançar-nos fora da tua herança, que nos fizeste herdar."
+            },
+            {
+                "id": "v20.12",
+                "versicle_number": 12,
+                "text": "Ah! Deus nosso, porventura não os julgarás? Porque em nós não há força perante esta grande multidão que vem contra nós, e não sabemos nós o que faremos; porém os nossos olhos estão postos em ti."
+            },
+            {
+                "id": "v20.13",
+                "versicle_number": 13,
+                "text": "E todo o Judá estava em pé perante o Senhor, como também as suas crianças, as suas mulheres, e os seus filhos."
+            },
+            {
+                "id": "v20.14",
+                "versicle_number": 14,
+                "text": "Então veio o espírito do Senhor no meio da congregação, sobre Jaaziel, filho de Zacarias, filho de Benaia, filho de Jeiel, filho de Matanias, levita, dos filhos de Asafe,"
+            },
+            {
+                "id": "v20.15",
+                "versicle_number": 15,
+                "text": "E disse: Dai ouvidos todo o Judá, e vós, moradores de Jerusalém, e tu, ó rei Josafá. Assim o Senhor vos diz: Não temais, nem vos assusteis por causa desta grande multidão; pois a peleja não é vossa, senão de Deus."
+            },
+            {
+                "id": "v20.16",
+                "versicle_number": 16,
+                "text": "Amanhã descereis contra eles: eis que sobem pela ladeira de Ziz, e os achareis no fim do vale, diante do deserto de Jeruel."
+            },
+            {
+                "id": "v20.17",
+                "versicle_number": 17,
+                "text": "Nesta peleja não tereis que pelejar: parai, estai em pé, e vede a salvação do Senhor para convosco, ó Judá e Jerusalém; não temais, nem vos assusteis; amanhã saí-lhes ao encontro, porque o Senhor será convosco.{note:3}"
+            },
+            {
+                "id": "v20.18",
+                "versicle_number": 18,
+                "text": "Então Josafá se prostrou com o rosto em terra; e todo o Judá e os moradores de Jerusalém se lançaram perante o Senhor, adorando ao Senhor."
+            },
+            {
+                "id": "v20.19",
+                "versicle_number": 19,
+                "text": "E levantaram-se os levitas, dos filhos dos coatitas, e dos filhos dos coratitas, para louvarem ao Senhor Deus de Israel, com voz muito alta."
+            },
+            {
+                "id": "v20.20",
+                "versicle_number": 20,
+                "text": "E pela manhã cedo se levantaram e saíram ao deserto de Técoa; e, saindo eles, pôs-se em pé Josafá, e disse: Ouvi-me, ó Judá, e vós, moradores de Jerusalém: Crede no Senhor vosso Deus, e estareis seguros; crede nos seus profetas, e sereis prosperados."
+            },
+            {
+                "id": "v20.21",
+                "versicle_number": 21,
+                "text": "E aconselhou-se com o povo, e ordenou cantores para o Senhor, que louvassem a Majestade santa, saindo diante dos armados, e dizendo: Louvai ao Senhor, porque a sua benignidade dura para sempre."
+            },
+            {
+                "id": "v20.22",
+                "versicle_number": 22,
+                "text": "E, ao tempo que começaram com júbilo e louvor, o Senhor pôs emboscadas contra os filhos de Amom e de Moabe e os das montanhas de Seir, que vieram contra Judá, e foram desbaratados."
+            },
+            {
+                "id": "v20.23",
+                "versicle_number": 23,
+                "text": "Porque os filhos de Amom e de Moabe se levantaram contra os moradores das montanhas de Seir, para os destruir e exterminar; e, acabando eles com os moradores de Seir, ajudaram uns aos outros a destruir-se."
+            },
+            {
+                "id": "v20.24",
+                "versicle_number": 24,
+                "text": "Entretanto chegou Judá à atalaia do deserto; e olharam para a multidão, e eis que eram corpos mortos, que jaziam em terra, e nenhum escapou."
+            },
+            {
+                "id": "v20.25",
+                "versicle_number": 25,
+                "text": "E vieram Josafá e o seu povo para saquear os despojos, e acharam neles fazenda e cadáveres em abundância, assim como vasos preciosos, e tomaram para si tanto, que não podiam levar mais: e três dias saquearam o despojo, porque era muito."
+            },
+            {
+                "id": "v20.26",
+                "versicle_number": 26,
+                "text": "E ao quarto dia se ajuntaram no vale de {note:s}Beraca; porque ali louvaram o Senhor: por isso chamaram o nome daquele lugar o vale de Beraca, até ao dia de hoje."
+            },
+            {
+                "id": "v20.27",
+                "versicle_number": 27,
+                "text": "Então voltaram todos os homens de Judá e de Jerusalém, e Josafá à frente deles, para virem a Jerusalém com alegria; porque o Senhor os alegrara acerca dos seus inimigos."
+            },
+            {
+                "id": "v20.28",
+                "versicle_number": 28,
+                "text": "E vieram a Jerusalém com alaúdes, e com harpas, e com trombetas, para a casa do Senhor."
+            },
+            {
+                "id": "v20.29",
+                "versicle_number": 29,
+                "text": "E veio o temor de Deus sobre todos os reinos daquelas terras, ouvindo eles que o Senhor havia pelejado contra os inimigos de Israel."
+            },
+            {
+                "id": "v20.30",
+                "versicle_number": 30,
+                "text": "E o reino de Josafá ficou quieto: e o seu Deus lhe deu repouso em redor."
+            },
+            {
+                "id": "v20.31",
+                "versicle_number": 31,
+                "text": "E Josafá reinou sobre Judá: era da idade de trinta e cinco anos quando começou a reinar e vinte e cinco anos reinou em Jerusalém; e era o nome de sua mãe, Azuba, filha de Sili."
+            },
+            {
+                "id": "v20.32",
+                "versicle_number": 32,
+                "text": "E andou no caminho de Asa, seu pai, e não se desviou dele, fazendo o que era reto aos olhos do Senhor."
+            },
+            {
+                "id": "v20.33",
+                "versicle_number": 33,
+                "text": "Contudo os altos se não tiraram, porque o povo não tinha ainda preparado o seu coração para com o Deus de seus pais."
+            },
+            {
+                "id": "v20.34",
+                "versicle_number": 34,
+                "text": "Ora o resto dos sucessos de Josafá, assim primeiros, como últimos, eis que está escrito nas notas de Jeú, filho de Hanani, que as inseriu no livro dos reis de Israel."
+            },
+            {
+                "id": "v20.35",
+                "versicle_number": 35,
+                "text": "Porém depois disto Josafá, rei de Judá, se aliou com Acazias, rei de Israel, que procedeu com toda a impiedade."
+            },
+            {
+                "id": "v20.36",
+                "versicle_number": 36,
+                "text": "E aliou-se com ele, para fazerem navios que fossem a Tarsis: e fizeram os navios em Eziom-Geber."
+            },
+            {
+                "id": "v20.37",
+                "versicle_number": 37,
+                "text": "Porém Eliézer, filho de Dodava, de Maresa, profetizou contra Josafá, dizendo: Porquanto te aliaste com Acazias, o Senhor despedaçou as tuas obras. E os navios se quebraram, e não puderam ir a Tarsis."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 20.7 Is 41.8; Tg 2.23"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 20.10 Dt 2.4-19"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 20.15-17 Dt 20.2-4"
+            },
+            {
+                "id": "n4",
+                "text": "{note:s} 20.26 que é bênção ou louvor"
+            }
+        ]
+    }
+}

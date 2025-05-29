@@ -1,0 +1,119 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 9,
+        "chapter_reference": "",
+        "chapter_title": "Ação de graças por um grande livramento",
+        "versicles": [
+            {
+                "id": "v9.1",
+                "versicle_number": 1,
+                "text": "EU te louvarei, Senhor, de todo o meu coração; contarei todas as tuas maravilhas."
+            },
+            {
+                "id": "v9.2",
+                "versicle_number": 2,
+                "text": "Em ti me alegrarei e saltarei de prazer; cantarei louvores ao teu nome, ó Altíssimo."
+            },
+            {
+                "id": "v9.3",
+                "versicle_number": 3,
+                "text": "Porquanto os meus inimigos retrocederam e caíram; e pereceram diante da tua face."
+            },
+            {
+                "id": "v9.4",
+                "versicle_number": 4,
+                "text": "Pois tu tens sustentado o meu direito e a minha causa; tu te assentaste no tribunal, julgando justamente."
+            },
+            {
+                "id": "v9.5",
+                "versicle_number": 5,
+                "text": "Repreendeste as nações, destruíste os ímpios, apagaste o seu nome para sempre e eternamente."
+            },
+            {
+                "id": "v9.6",
+                "versicle_number": 6,
+                "text": "Oh! inimigo! consumaram-se as assolações; — tu arrasaste as cidades, e a sua memória pereceu com elas."
+            },
+            {
+                "id": "v9.7",
+                "versicle_number": 7,
+                "text": "Mas o Senhor está assentado perpetuamente; já preparou o seu tribunal para julgar."
+            },
+            {
+                "id": "v9.8",
+                "versicle_number": 8,
+                "text": "Ele mesmo julgará o mundo com justiça; julgará os povos com retidão."
+            },
+            {
+                "id": "v9.9",
+                "versicle_number": 9,
+                "text": "O Senhor será também um alto refúgio para o oprimido; um alto refúgio em tempos de angústia."
+            },
+            {
+                "id": "v9.10",
+                "versicle_number": 10,
+                "text": "E em ti confiarão os que conhecem o teu nome; porque tu, Senhor, nunca desamparaste os que te buscam."
+            },
+            {
+                "id": "v9.11",
+                "versicle_number": 11,
+                "text": "Cantai louvores ao Senhor, que habita em Sião; anunciai entre os povos os seus feitos."
+            },
+            {
+                "id": "v9.12",
+                "versicle_number": 12,
+                "text": "Pois inquire do derramamento de sangue, e lembra-se dele; não se esquece do clamor dos aflitos."
+            },
+            {
+                "id": "v9.13",
+                "versicle_number": 13,
+                "text": "Tem misericórdia de mim, Senhor, vê como me fazem sofrer aqueles que me aborrecem, tu que me levantas das portas da morte;"
+            },
+            {
+                "id": "v9.14",
+                "versicle_number": 14,
+                "text": "Para que eu conte todos os teus louvores às portas da filha de Sião, e me alegre na tua salvação."
+            },
+            {
+                "id": "v9.15",
+                "versicle_number": 15,
+                "text": "As gentes precipitaram-se na cova que abriram; na rede que ocultaram ficou preso o seu pé."
+            },
+            {
+                "id": "v9.16",
+                "versicle_number": 16,
+                "text": "O Senhor é conhecido pelo juízo que fez; enlaçado ficou o ímpio nos seus próprios feitos. (Higaiom; Selá.)"
+            },
+            {
+                "id": "v9.17",
+                "versicle_number": 17,
+                "text": "Os ímpios serão lançados no inferno e todas as gentes que se esquecem de Deus."
+            },
+            {
+                "id": "v9.18",
+                "versicle_number": 18,
+                "text": "Porque o necessitado não será esquecido para sempre, nem a expectação dos pobres se malogrará perpetuamente."
+            },
+            {
+                "id": "v9.19",
+                "versicle_number": 19,
+                "text": "Levanta-te, Senhor; não prevaleça o homem; sejam julgadas as gentes perante a tua face."
+            },
+            {
+                "id": "v9.20",
+                "versicle_number": 20,
+                "text": "Põe-os em medo, Senhor, para que saibam as nações que são constituídas por meros homens. (Selá.)"
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

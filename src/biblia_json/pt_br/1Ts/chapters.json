@@ -1,0 +1,37 @@
+{
+    "book": {
+        "id": "1Ts",
+        "book_number": 52,
+        "new_testament": true,
+        "num_chapters": 5,
+        "book_name": "1º TESSALONICENSES",
+        "book_full_name": "PRIMEIRA EPÍSTOLA DO APÓSTOLO PAULO AOS TESSALONICENSES"
+    },
+    "chapters": [
+        {
+            "chapter_number": 1,
+            "chapter_reference": "",
+            "chapter_title": "Prefácio e saudação"
+        },
+        {
+            "chapter_number": 2,
+            "chapter_reference": "",
+            "chapter_title": "Como Paulo exerceu o seu ministério entre os tessalonicenses"
+        },
+        {
+            "chapter_number": 3,
+            "chapter_reference": "",
+            "chapter_title": ""
+        },
+        {
+            "chapter_number": 4,
+            "chapter_reference": "",
+            "chapter_title": "Exortação à santidade, ao amor fraternal e ao trabalho"
+        },
+        {
+            "chapter_number": 5,
+            "chapter_reference": "",
+            "chapter_title": "Preceitos diversos, votos e saudações"
+        }
+    ]
+}

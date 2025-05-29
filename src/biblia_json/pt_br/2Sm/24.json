@@ -1,0 +1,144 @@
+{
+    "book": {
+        "id": "2Sm",
+        "book_number": 10,
+        "new_testament": false,
+        "num_chapters": 24,
+        "book_name": "SAMUEL",
+        "book_full_name": "O SEGUNDO LIVRO DE SAMUEL"
+    },
+    "chapter": {
+        "chapter_number": 24,
+        "chapter_reference": "",
+        "chapter_title": "A numeração do povo e o castigo que Deus enviou",
+        "versicles": [
+            {
+                "id": "v24.1",
+                "versicle_number": 1,
+                "text": "E A ira do Senhor se tornou a acender contra Israel: e incitou a Davi contra eles, dizendo: Vai, numera a Israel e a Judá."
+            },
+            {
+                "id": "v24.2",
+                "versicle_number": 2,
+                "text": "Disse pois o rei a Joabe, chefe do exército, o qual tinha consigo: agora rodeia por todas as tribos de Israel, desde Dã até Berseba, e numera o povo: para que eu saiba o número do povo."
+            },
+            {
+                "id": "v24.3",
+                "versicle_number": 3,
+                "text": "Então disse Joabe ao rei: Ora, multiplique o Senhor teu Deus a este povo cem vezes tanto quanto agora é, e os olhos do rei meu senhor o vejam: mas por que deseja o rei meu senhor este negócio?"
+            },
+            {
+                "id": "v24.4",
+                "versicle_number": 4,
+                "text": "Porém a palavra do rei prevaleceu contra Joabe, e contra os chefes do exército: Joabe pois saiu com os chefes do exército diante da face do rei, a numerar o povo de Israel."
+            },
+            {
+                "id": "v24.5",
+                "versicle_number": 5,
+                "text": "E passaram o Jordão: e puseram-se em campo junto a Aroer, à direita da cidade que está no meio do ribeiro de Gade, e junto a Jazer."
+            },
+            {
+                "id": "v24.6",
+                "versicle_number": 6,
+                "text": "E vieram a Gileade, e à terra baixa de Hodsi: também vieram até Danjaã e ao redor de Sidom."
+            },
+            {
+                "id": "v24.7",
+                "versicle_number": 7,
+                "text": "E vieram à fortaleza de Tiro, e a todas as cidades dos heveus e dos cananeus: e saíram para a banda do sul de Judá, a Berseba."
+            },
+            {
+                "id": "v24.8",
+                "versicle_number": 8,
+                "text": "Assim rodearam por toda a terra: e ao cabo de nove meses e vinte dias voltaram a Jerusalém."
+            },
+            {
+                "id": "v24.9",
+                "versicle_number": 9,
+                "text": "E Joabe deu ao rei a soma do número do povo contado: e havia em Israel oitocentos mil homens de guerra, que arrancaram espada; e os homens de Judá eram quinhentos mil homens."
+            },
+            {
+                "id": "v24.10",
+                "versicle_number": 10,
+                "text": "E o coração doeu a Davi, depois de haver numerado o povo: e disse Davi ao Senhor: Muito pequei no que fiz: porém agora, ó Senhor, peço-te que traspasses a iniquidade do teu servo; porque tenho procedido mui loucamente."
+            },
+            {
+                "id": "v24.11",
+                "versicle_number": 11,
+                "text": "Levantando-se pois Davi pela manhã, veio a palavra do Senhor ao profeta Gade, vidente de Davi, dizendo:"
+            },
+            {
+                "id": "v24.12",
+                "versicle_number": 12,
+                "text": "Vai, e dize a Davi: Assim diz o Senhor: três cousas te ofereço; escolhe uma delas, para que ta faça."
+            },
+            {
+                "id": "v24.13",
+                "versicle_number": 13,
+                "text": "Veio pois Gade a Davi, e fez-lho saber; e disse-lhe: Queres que sete anos de fome te venham à tua terra; ou que por três meses fujas diante de teus inimigos, e eles te persigam; ou que por três dias haja peste na tua terra? Delibera agora, e vê que resposta hei de dar ao que me enviou."
+            },
+            {
+                "id": "v24.14",
+                "versicle_number": 14,
+                "text": "Então disse Davi a Gade: Estou em grande angústia: porém caiamos nas mãos do Senhor, porque muitas são as suas misericórdias; mas nas mãos dos homens não caia eu."
+            },
+            {
+                "id": "v24.15",
+                "versicle_number": 15,
+                "text": "Então enviou o Senhor a peste a Israel, desde pela manhã até ao tempo determinado: e desde Dã até Berseba, morreram setenta mil homens do povo."
+            },
+            {
+                "id": "v24.16",
+                "versicle_number": 16,
+                "text": "Estendendo pois o anjo a sua mão sobre Jerusalém, para a destruir, o Senhor se arrependeu daquele mal; e disse ao anjo que fazia a destruição entre o povo: Basta, agora retira a tua mão. E o anjo do Senhor estava junto à eira de Araúna jebuseu."
+            },
+            {
+                "id": "v24.17",
+                "versicle_number": 17,
+                "text": "E, vendo Davi ao anjo que feria o povo falou ao Senhor, e disse: Eis que eu sou o que pequei, e eu o que iniquamente obrei; porém estas ovelhas que fizeram? seja pois a tua mão contra mim, e contra a casa de meu pai."
+            },
+            {
+                "id": "v24.18",
+                "versicle_number": 18,
+                "text": "E Gade veio naquele mesmo dia a Davi; e disse-lhe: Sobe, levanta ao Senhor um altar na eira de Araúna, o jebuseu."
+            },
+            {
+                "id": "v24.19",
+                "versicle_number": 19,
+                "text": "Davi subiu conforme à palavra de Gade, como o Senhor lhe tinha ordenado."
+            },
+            {
+                "id": "v24.20",
+                "versicle_number": 20,
+                "text": "E olhou Araúna, e viu que vinham para ele o rei e os seus servos: saiu pois Araúna, e inclinou-se diante do rei com o rosto em terra."
+            },
+            {
+                "id": "v24.21",
+                "versicle_number": 21,
+                "text": "E disse Araúna: Por que vem o rei meu Senhor ao seu servo? E disse Davi: Para comprar de ti esta eira, a fim de edificar nela um altar ao Senhor, para que este castigo cesse de sobre o povo."
+            },
+            {
+                "id": "v24.22",
+                "versicle_number": 22,
+                "text": "Então disse Araúna a Davi: Tome e ofereça o rei meu senhor o que bem parecer aos seus olhos: eis ai bois para o holocausto, e os trilhos, e o aparelho dos bois para a lenha."
+            },
+            {
+                "id": "v24.23",
+                "versicle_number": 23,
+                "text": "Tudo isto deu Araúna ao rei: disse mais Araúna ao rei: O Senhor teu Deus tome prazer em ti."
+            },
+            {
+                "id": "v24.24",
+                "versicle_number": 24,
+                "text": "Porém o rei disse a Araúna: Não, porém por certo preço to comprarei, porque não oferecerei ao Senhor meu Deus holocaustos que me não custem nada. Assim Davi comprou a eira e os bois por cinquenta siclos de prata."
+            },
+            {
+                "id": "v24.25",
+                "versicle_number": 25,
+                "text": "E edificou ali Davi ao Senhor um altar, e ofereceu holocaustos, e ofertas pacíficas. Assim o Senhor se aplacou para com a terra, e cessou aquele castigo de sobre Israel."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

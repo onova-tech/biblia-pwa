@@ -1,0 +1,336 @@
+{
+    "book": {
+        "id": "Mc",
+        "book_number": 41,
+        "new_testament": true,
+        "num_chapters": 16,
+        "book_name": "MARCOS",
+        "book_full_name": "O SANTO EVANGELHO SEGUNDO MARCOS"
+    },
+    "chapter": {
+        "chapter_number": 6,
+        "chapter_reference": "Mateus 13.53-58, etc.",
+        "chapter_title": "Jesus retira-se para Nazaré",
+        "versicles": [
+            {
+                "id": "v6.1",
+                "versicle_number": 1,
+                "text": "E PARTINDO dali, chegou à sua pátria, e os seus discípulos o seguiram."
+            },
+            {
+                "id": "v6.2",
+                "versicle_number": 2,
+                "text": "E, chegando o sábado, começou a ensinar na sinagoga; e muitos, ouvindo-o, se admiravam, dizendo: Donde lhe vêm estas coisas? e que sabedoria é esta que lhe foi dada? e como se fazem tais maravilhas por suas mãos?"
+            },
+            {
+                "id": "v6.3",
+                "versicle_number": 3,
+                "text": "Não é este o carpinteiro, filho de Maria, e irmão de Tiago, e de José, e de Judas e de Simão? e não estão aqui conosco suas irmãs? E escandalizavam-se nele."
+            },
+            {
+                "id": "v6.4",
+                "versicle_number": 4,
+                "text": "E Jesus lhes dizia: Não há profeta sem honra senão na sua pátria,{note:1} entre os seus parentes, e na sua casa."
+            },
+            {
+                "id": "v6.5",
+                "versicle_number": 5,
+                "text": "E não podia fazer ali obras maravilhosas; somente curou alguns poucos enfermos, impondo-lhes as mãos."
+            },
+            {
+                "id": "v6.6",
+                "versicle_number": 6,
+                "text": "E estava admirado da incredulidade deles. E percorreu as aldeias vizinhas, ensinando."
+            },
+            {
+                "id": "v6.7",
+                "versicle_number": 7,
+                "text": "Chamou a si os doze, e começou a enviá-los a dois e dois, e deu-lhes poder sobre os espíritos imundos;"
+            },
+            {
+                "id": "v6.8",
+                "versicle_number": 8,
+                "text": "E ordenou-lhes que nada tomassem para o caminho, senão somente um bordão; nem alforje, nem pão, nem dinheiro no cinto;"
+            },
+            {
+                "id": "v6.9",
+                "versicle_number": 9,
+                "text": "Mas que calçassem alparcas, e que não vestissem duas túnicas."
+            },
+            {
+                "id": "v6.10",
+                "versicle_number": 10,
+                "text": "E dizia-lhes: Na casa em que entrardes, ficai nela até partirdes de ali."
+            },
+            {
+                "id": "v6.11",
+                "versicle_number": 11,
+                "text": "E, quando alguns vos não receberem, nem vos ouvirem, saindo dali, sacudi o pó que estiver debaixo dos vossos pés, em testemunho contra eles. Em verdade vos digo que haverá mais tolerância no dia de juízo para Sodoma e Gomorra do que para os daquela cidade."
+            },
+            {
+                "id": "v6.12",
+                "versicle_number": 12,
+                "text": "E, saindo eles, pregavam que se arrependessem."
+            },
+            {
+                "id": "v6.13",
+                "versicle_number": 13,
+                "text": "E expulsavam muitos demônios, e ungiam muitos enfermos com óleo,{note:2} e os curavam.{note:3}"
+            },
+            {
+                "id": "v6.14",
+                "versicle_number": 14,
+                "text": "E ouviu isto o rei Herodes (porque o nome de Jesus se tornara notório), e disse: João, o que batizava, ressuscitou dos mortos, e por isso estas maravilhas operam nele."
+            },
+            {
+                "id": "v6.15",
+                "versicle_number": 15,
+                "text": "Outros diziam: É Elias. E diziam outros: É um profeta, ou como um dos profetas.{note:4}"
+            },
+            {
+                "id": "v6.16",
+                "versicle_number": 16,
+                "text": "Herodes, porém, ouvindo isto, disse: Este é João, que mandei degolar; ressuscitou dos mortos."
+            },
+            {
+                "id": "v6.17",
+                "versicle_number": 17,
+                "text": "Porquanto o mesmo Herodes mandara prender a João, e encerrá-lo manietado no cárcere, por causa de Herodias, mulher de Filipe, seu irmão, porquanto tinha casado com ela."
+            },
+            {
+                "id": "v6.18",
+                "versicle_number": 18,
+                "text": "Pois João dizia a Herodes: Não te é lícito possuir a mulher de teu irmão.{note:5}"
+            },
+            {
+                "id": "v6.19",
+                "versicle_number": 19,
+                "text": "E Herodias o espiava, e queria matá-lo, mas não podia;"
+            },
+            {
+                "id": "v6.20",
+                "versicle_number": 20,
+                "text": "Porque Herodes temia a João, sabendo que era varão justo e santo; e guardava-o com segurança, e fazia muitas coisas, atendendo-o, e de boa vontade o ouvia."
+            },
+            {
+                "id": "v6.21",
+                "versicle_number": 21,
+                "text": "E, chegando uma ocasião favorável em que Herodes, no dia dos seus anos, dava uma ceia aos grandes, e tribunos, e príncipes da Galileia."
+            },
+            {
+                "id": "v6.22",
+                "versicle_number": 22,
+                "text": "Entrou a filha da mesma Herodias, e dançou, e agradou a Herodes e aos que estavam com ele à mesa; disse então o rei à menina: Pede-me o que quiseres, e eu to darei."
+            },
+            {
+                "id": "v6.23",
+                "versicle_number": 23,
+                "text": "E jurou-lhe, dizendo: Tudo o que me pedires te darei, até metade do meu reino."
+            },
+            {
+                "id": "v6.24",
+                "versicle_number": 24,
+                "text": "E, saindo ela, perguntou à sua mãe: Que pedirei? E ela disse: A cabeça de João Batista."
+            },
+            {
+                "id": "v6.25",
+                "versicle_number": 25,
+                "text": "E, entrando logo apressadamente, pediu ao rei, dizendo: Quero que imediatamente me dês num prato a cabeça de João Batista."
+            },
+            {
+                "id": "v6.26",
+                "versicle_number": 26,
+                "text": "E o rei entristeceu-se muito; todavia, por causa do juramento e dos que estavam com ele à mesa, não lha quis negar."
+            },
+            {
+                "id": "v6.27",
+                "versicle_number": 27,
+                "text": "E, enviando logo o rei o executor, mandou que lhe trouxessem ali a cabeça de João. E ele foi, e degolou-o na prisão."
+            },
+            {
+                "id": "v6.28",
+                "versicle_number": 28,
+                "text": "E trouxe a cabeça num prato, e deu-a à menina, e a menina a deu à sua mãe."
+            },
+            {
+                "id": "v6.29",
+                "versicle_number": 29,
+                "text": "E os seus discípulos, tendo ouvido isto, foram, tomaram o seu corpo, e o puseram num sepulcro."
+            },
+            {
+                "id": "v6.30",
+                "versicle_number": 30,
+                "text": "E os apóstolos ajuntaram-se a Jesus, e contaram-lhe tudo, tanto o que tinham feito como o que tinham ensinado."
+            },
+            {
+                "id": "v6.31",
+                "versicle_number": 31,
+                "text": "E ele disse-lhes: Vinde vós, aqui à parte, a um lugar deserto, e repousai um pouco. Porque havia muitos que iam e vinham, e não tinham tempo para comer."
+            },
+            {
+                "id": "v6.32",
+                "versicle_number": 32,
+                "text": "E foram sós num barco para um lugar deserto."
+            },
+            {
+                "id": "v6.33",
+                "versicle_number": 33,
+                "text": "E a multidão viu-os partir, e muitos o conheceram; e correram para lá a pé de todas as cidades, e ali chegaram primeiro do que eles, e aproximavam-se dele."
+            },
+            {
+                "id": "v6.34",
+                "versicle_number": 34,
+                "text": "E Jesus, saindo, viu uma grande multidão, e teve compaixão deles, porque eram como ovelhas que não têm pastor;{note:6} e começou a ensinar-lhes muitas coisas."
+            },
+            {
+                "id": "v6.35",
+                "versicle_number": 35,
+                "text": "E, como o dia fosse já muito adiantado, os seus discípulos se aproximaram dele, e lhe disseram: O lugar é deserto, e o dia está já muito adiantado;"
+            },
+            {
+                "id": "v6.36",
+                "versicle_number": 36,
+                "text": "Despede-os, para que vão aos lugares e aldeias circunvizinhas, e comprem pão para si; porque não têm que comer."
+            },
+            {
+                "id": "v6.37",
+                "versicle_number": 37,
+                "text": "Ele, porém, respondendo, lhes disse: Dai-lhes vós de comer. E eles disseram-lhe: Iremos nós, e compraremos duzentos dinheiros de pão para lhes darmos de comer?"
+            },
+            {
+                "id": "v6.38",
+                "versicle_number": 38,
+                "text": "E ele disse-lhes: Quantos pães tendes? Ide ver. E, sabendo-o eles, disseram: Cinco pães e dois peixes."
+            },
+            {
+                "id": "v6.39",
+                "versicle_number": 39,
+                "text": "E ordenou-lhes que fizessem assentar a todos, em ranchos, sobre a erva verde."
+            },
+            {
+                "id": "v6.40",
+                "versicle_number": 40,
+                "text": "E assentaram-se repartidos de cem em cem, e de cinquenta em cinquenta."
+            },
+            {
+                "id": "v6.41",
+                "versicle_number": 41,
+                "text": "E, tomando ele os cinco pães e os dois peixes, levantou os olhos ao céu, abençoou e partiu os pães, e deu-os aos seus discípulos para que os pusessem diante deles. E repartiu os dois peixes por todos;"
+            },
+            {
+                "id": "v6.42",
+                "versicle_number": 42,
+                "text": "E todos comeram, e ficaram fartos;"
+            },
+            {
+                "id": "v6.43",
+                "versicle_number": 43,
+                "text": "E levantaram doze cestos cheios de pedaços de pão e de peixe."
+            },
+            {
+                "id": "v6.44",
+                "versicle_number": 44,
+                "text": "E os que comeram os pães eram quase cinco mil homens."
+            },
+            {
+                "id": "v6.45",
+                "versicle_number": 45,
+                "text": "E logo obrigou os seus discípulos a subir para o barco, e passar adiante, para a outra banda, a Betsaida, enquanto ele despedia a multidão."
+            },
+            {
+                "id": "v6.46",
+                "versicle_number": 46,
+                "text": "E, tendo-os despedido, foi ao monte a orar."
+            },
+            {
+                "id": "v6.47",
+                "versicle_number": 47,
+                "text": "E, sobrevindo a tarde, estava o barco no meio do mar e ele sozinho em terra."
+            },
+            {
+                "id": "v6.48",
+                "versicle_number": 48,
+                "text": "E vendo que se fatigavam a remar, porque o vento lhes era contrário, perto da quarta vigília da noite aproximou-se deles, andando sobre o mar, e queria passar-lhes adiante,"
+            },
+            {
+                "id": "v6.49",
+                "versicle_number": 49,
+                "text": "Mas, quando eles o viram andar sobre o mar, cuidaram que era um fantasma, e deram grandes gritos."
+            },
+            {
+                "id": "v6.50",
+                "versicle_number": 50,
+                "text": "Porque todos o viam, e perturbaram-se; mas logo falou com eles, e disse-lhes: Tende bom ânimo, sou eu, não temais."
+            },
+            {
+                "id": "v6.51",
+                "versicle_number": 51,
+                "text": "E subiu para o barco para estar com eles, e o vento se aquietou; e entre si ficaram muito assombrados e maravilhados;"
+            },
+            {
+                "id": "v6.52",
+                "versicle_number": 52,
+                "text": "Pois não tinham compreendido o milagre dos pães; antes o seu coração estava endurecido."
+            },
+            {
+                "id": "v6.53",
+                "versicle_number": 53,
+                "text": "E, quando já estavam na outra banda, dirigiram-se à terra de Genesaré, e ali atracaram."
+            },
+            {
+                "id": "v6.54",
+                "versicle_number": 54,
+                "text": "E, saindo eles do barco, logo o conheceram;"
+            },
+            {
+                "id": "v6.55",
+                "versicle_number": 55,
+                "text": "E, correndo toda a terra em redor, começaram a trazer em leitos, aonde quer que sabiam que ele estava, os que se achavam enfermos."
+            },
+            {
+                "id": "v6.56",
+                "versicle_number": 56,
+                "text": "E, onde quer que entrava, ou em cidade, ou aldeias, ou no campo, apresentavam os enfermos nas praças, e rogavam-lhe que os deixasse tocar ao menos na orla do seu vestido, e todos os que lhe tocavam saravam."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "",
+                "text": "A morte de João Batista"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "",
+                "text": "A primeira multiplicação dos pães"
+            },
+            {
+                "id": "s3",
+                "next_versicle_id": "",
+                "text": "Jesus anda por cima do mar"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 6.4 Jo 4.44"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 6.13 Tg 5.14 {note:3} 6.7-13 10.1-12"
+            },
+            {
+                "id": "n3",
+                "text": "{note:4} 6.14-15 Mt 16.14; Mc 8.28; Lc 9.19"
+            },
+            {
+                "id": "n4",
+                "text": "{note:5} 6.17-18 Lc 3.19-20"
+            },
+            {
+                "id": "n5",
+                "text": "{note:6} 6.34 1Rs 22.17; 2Cr 18.16; Mt 9.36"
+            }
+        ]
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 84,
+        "chapter_reference": "",
+        "chapter_title": "A felicidade daquele que habita no santuário de Deus",
+        "versicles": [
+            {
+                "id": "v84.1",
+                "versicle_number": 1,
+                "text": "QUÃO amáveis são os teus tabernáculos, Senhor dos Exércitos!"
+            },
+            {
+                "id": "v84.2",
+                "versicle_number": 2,
+                "text": "A minha alma está anelante, e desfalece pelos átrios do Senhor: o meu coração e a minha carne clamam pelo Deus vivo."
+            },
+            {
+                "id": "v84.3",
+                "versicle_number": 3,
+                "text": "Até o pardal encontrou casa, e a andorinha ninho para si, e para a sua prole, junto dos teus altares, Senhor dos Exércitos, Rei meu e Deus meu."
+            },
+            {
+                "id": "v84.4",
+                "versicle_number": 4,
+                "text": "Bem-aventurados os que habitam em tua casa: louvar-te-ão continuamente. (Selá.)"
+            },
+            {
+                "id": "v84.5",
+                "versicle_number": 5,
+                "text": "Bem-aventurado o homem cuja força está em ti, em cujo coração estão os caminhos aplanados."
+            },
+            {
+                "id": "v84.6",
+                "versicle_number": 6,
+                "text": "O qual passando pelo vale de {note:h}Baca, faz dele uma fonte; a chuva também enche os tanques."
+            },
+            {
+                "id": "v84.7",
+                "versicle_number": 7,
+                "text": "Vão indo de força em força; cada um deles em Sião aparece perante Deus."
+            },
+            {
+                "id": "v84.8",
+                "versicle_number": 8,
+                "text": "Senhor Deus dos Exércitos, escuta a minha oração: inclina os ouvidos, ó Deus de Jacó! (Selá.)"
+            },
+            {
+                "id": "v84.9",
+                "versicle_number": 9,
+                "text": "Olha, ó Deus, escudo nosso, e contempla o rosto do teu ungido."
+            },
+            {
+                "id": "v84.10",
+                "versicle_number": 10,
+                "text": "Porque vale mais um dia nos teus átrios do que em outra parte mil. Preferiria estar à porta da casa do meu Deus, a habitar nas tendas da impiedade."
+            },
+            {
+                "id": "v84.11",
+                "versicle_number": 11,
+                "text": "Porque o Senhor Deus é um sol e escudo: o Senhor dará graça e glória; não negará bem algum aos que andam na retidão."
+            },
+            {
+                "id": "v84.12",
+                "versicle_number": 12,
+                "text": "Senhor dos Exércitos, bem-aventurado o homem que em ti põe a sua confiança."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:h} 84.6 que significa árvores de bálsamo"
+            }
+        ]
+    }
+}

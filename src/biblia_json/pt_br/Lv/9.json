@@ -1,0 +1,148 @@
+{
+    "book": {
+        "id": "Lv",
+        "book_number": 3,
+        "new_testament": false,
+        "num_chapters": 27,
+        "book_name": "LEVÍTICO",
+        "book_full_name": "O TERCEIRO LIVRO DE MOISÉS LEVÍTICO"
+    },
+    "chapter": {
+        "chapter_number": 9,
+        "chapter_reference": "",
+        "chapter_title": "Aarão oferece sacrifícios por si e pelo povo",
+        "versicles": [
+            {
+                "id": "v9.1",
+                "versicle_number": 1,
+                "text": "E ACONTECEU, ao dia oitavo, que Moisés chamou a Aarão e seus filhos, e os anciaõs de Israel,"
+            },
+            {
+                "id": "v9.2",
+                "versicle_number": 2,
+                "text": "E disse a Aarão: Toma um bezerro, para expiação do pecado, e um carneiro para holocausto, sem mancha: e traze-os perante o Senhor."
+            },
+            {
+                "id": "v9.3",
+                "versicle_number": 3,
+                "text": "Depois falarás aos filhos de Israel, dizendo: Tomai um bode para expiação do pecado, e um bezerro, e um cordeiro dum ano, sem mancha, para holocausto:"
+            },
+            {
+                "id": "v9.4",
+                "versicle_number": 4,
+                "text": "Também um boi e um carneiro por sacrifício pacífico, para sacrificar perante o Senhor, e oferta de manjares, amassada com azeite: porquanto hoje o Senhor vos aparecerá."
+            },
+            {
+                "id": "v9.5",
+                "versicle_number": 5,
+                "text": "Então trouxeram o que ordenou Moisés, diante da tenda da congregação, e chegou-se toda a congregação, e se pôs perante o Senhor."
+            },
+            {
+                "id": "v9.6",
+                "versicle_number": 6,
+                "text": "E disse Moisés: Esta cousa que o Senhor ordenou fareis: e a glória do Senhor vos aparecerá."
+            },
+            {
+                "id": "v9.7",
+                "versicle_number": 7,
+                "text": "E disse Moisés a Aarão: Chega-te ao altar, e faze a tua expiação de pecado e o teu holocausto; e faze expiação por ti e pelo povo: depois faze a oferta do povo, e faze expiação por eles, como ordenou o Senhor."
+            },
+            {
+                "id": "v9.8",
+                "versicle_number": 8,
+                "text": "Então Aarão se chegou ao altar, e degolou o bezerro da expiação que era por ele."
+            },
+            {
+                "id": "v9.9",
+                "versicle_number": 9,
+                "text": "E os filhos de Aarão trouxeram-lhe o sangue, e molhou o seu dedo no sangue, e o pôs sobre as pontas do altar; e o resto do sangue derramou à base do altar."
+            },
+            {
+                "id": "v9.10",
+                "versicle_number": 10,
+                "text": "Mas a gordura, e os rins, e o redenho do fígado de expiação do pecado queimou sobre o altar, como o Senhor ordenara a Moisés."
+            },
+            {
+                "id": "v9.11",
+                "versicle_number": 11,
+                "text": "Porém a carne e o couro queimou com fogo fora do arraial."
+            },
+            {
+                "id": "v9.12",
+                "versicle_number": 12,
+                "text": "Depois degolou o holocausto, e os filhos de Aarão lhe entregaram o sangue, e ele espargiu-o sobre o altar em redor."
+            },
+            {
+                "id": "v9.13",
+                "versicle_number": 13,
+                "text": "Também lhe entregaram o holocausto nos seus pedaços, com a cabeça; e queimou-o sobre o altar."
+            },
+            {
+                "id": "v9.14",
+                "versicle_number": 14,
+                "text": "E lavou a fressura e as pernas, e as queimou sobre o holocausto no altar."
+            },
+            {
+                "id": "v9.15",
+                "versicle_number": 15,
+                "text": "Depois fez chegar a oferta do povo, e tomou o bode da expiação do pecado, que era do povo, e o degolou, e o preparou por expiação do pecado, como o primeiro."
+            },
+            {
+                "id": "v9.16",
+                "versicle_number": 16,
+                "text": "Fez também chegar o holocausto, e o preparou segundo o rito."
+            },
+            {
+                "id": "v9.17",
+                "versicle_number": 17,
+                "text": "E fez chegar a oferta de manjares, e a sua mão encheu dela, e a queimou sobre o altar, além do holocausto da manhã."
+            },
+            {
+                "id": "v9.18",
+                "versicle_number": 18,
+                "text": "Depois degolou o boi e o carneiro em sacrifício pacífico, que era do povo;{note:1} e os filhos de Aarão entregaram-lhe o sangue, que espargiu sobre o altar em redor,"
+            },
+            {
+                "id": "v9.19",
+                "versicle_number": 19,
+                "text": "Como também a gordura do boi e do carneiro, a cauda, e o que cobre a fressura, e os rins, e o redenho do fígado."
+            },
+            {
+                "id": "v9.20",
+                "versicle_number": 20,
+                "text": "E puseram a gordura sobre os peitos, e ele queimou a gordura sobre o altar;"
+            },
+            {
+                "id": "v9.21",
+                "versicle_number": 21,
+                "text": "Mas os peitos e a espádua, direita Aarão moveu por oferta de movimento perante o Senhor, como Moisés tinha ordenado."
+            },
+            {
+                "id": "v9.22",
+                "versicle_number": 22,
+                "text": "Depois Aarão levantou as suas mãos{note:2} ao povo e o abençoou: e desceu, havendo feito a expiação do pecado, e o holocausto, e a oferta pacífica."
+            },
+            {
+                "id": "v9.23",
+                "versicle_number": 23,
+                "text": "Então entraram Moisés e Aarão na tenda da congregação: depois saíram, e abençoaram ao povo; e a glória do Senhor apareceu a todo o povo,"
+            },
+            {
+                "id": "v9.24",
+                "versicle_number": 24,
+                "text": "Porque o fogo saiu de diante do Senhor, e consumiu o holocausto e a gordura sobre o altar: o que vendo todo o povo, jubilaram e caíram sobre as suas faces."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 9.18 Lv 3.1-11"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 9.22 Nm 6.22-26"
+            }
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 98,
+        "chapter_reference": "",
+        "chapter_title": "Convida-se a louvar ao Senhor por amor de sua salvação",
+        "versicles": [
+            {
+                "id": "v98.1",
+                "versicle_number": 1,
+                "text": "CANTAI ao Senhor um cântico novo, porque ele fez maravilhas, a sua destra e o seu braço santo lhe alcançaram a vitória."
+            },
+            {
+                "id": "v98.2",
+                "versicle_number": 2,
+                "text": "O Senhor fez notória a sua salvação; manifestou a sua justiça perante os olhos das nações."
+            },
+            {
+                "id": "v98.3",
+                "versicle_number": 3,
+                "text": "Lembrou-se da sua benignidade e da sua verdade para com a casa de Israel: todas as extremidades da terra viram a salvação do nosso Deus."
+            },
+            {
+                "id": "v98.4",
+                "versicle_number": 4,
+                "text": "Celebrai com júbilo ao Senhor, todos os moradores da terra: dai brados de alegria, regozijai-vos, e cantai louvores."
+            },
+            {
+                "id": "v98.5",
+                "versicle_number": 5,
+                "text": "Cantai louvores ao Senhor com a harpa; com a harpa e a voz do canto."
+            },
+            {
+                "id": "v98.6",
+                "versicle_number": 6,
+                "text": "Com trombetas e som de buzinas, exultai perante a face do Senhor, do Rei."
+            },
+            {
+                "id": "v98.7",
+                "versicle_number": 7,
+                "text": "Brame o mar e a sua plenitude; o mundo, e os que nele habitam."
+            },
+            {
+                "id": "v98.8",
+                "versicle_number": 8,
+                "text": "Os rios batam as palmas; regozijem-se também as montanhas,"
+            },
+            {
+                "id": "v98.9",
+                "versicle_number": 9,
+                "text": "Perante a face do Senhor, porque vem a julgar a terra: com justiça julgará o mundo, e o povo com equidade."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

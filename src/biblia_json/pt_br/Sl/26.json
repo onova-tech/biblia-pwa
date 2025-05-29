@@ -1,0 +1,79 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 26,
+        "chapter_reference": "",
+        "chapter_title": "Davi recorre a Deus, confiando na sua própria integridade",
+        "versicles": [
+            {
+                "id": "v26.1",
+                "versicle_number": 1,
+                "text": "JULGA-ME, Senhor, pois tenho andado em minha sinceridade; tenho confiado também no Senhor; não vacilarei."
+            },
+            {
+                "id": "v26.2",
+                "versicle_number": 2,
+                "text": "Examina-me, Senhor, e prova-me: esquadrinha os meus rins e o meu coração."
+            },
+            {
+                "id": "v26.3",
+                "versicle_number": 3,
+                "text": "Porque a tua benignidade está diante dos meus olhos; e tenho andado na tua verdade."
+            },
+            {
+                "id": "v26.4",
+                "versicle_number": 4,
+                "text": "Não me tenho assentado com homens vãos, nem converso com os homens dissimulados."
+            },
+            {
+                "id": "v26.5",
+                "versicle_number": 5,
+                "text": "Tenho aborrecido a congregação de malfeitores; não me ajunto com os ímpios."
+            },
+            {
+                "id": "v26.6",
+                "versicle_number": 6,
+                "text": "Lavo as minhas mãos na inocência; e assim andarei, Senhor, ao redor do teu altar,"
+            },
+            {
+                "id": "v26.7",
+                "versicle_number": 7,
+                "text": "Para publicar com voz de louvor, e contar todas as tuas maravilhas."
+            },
+            {
+                "id": "v26.8",
+                "versicle_number": 8,
+                "text": "Senhor, eu tenho amado a habitação da tua casa e o lugar onde permanece a tua glória."
+            },
+            {
+                "id": "v26.9",
+                "versicle_number": 9,
+                "text": "Não colhas a minha alma com a dos pecadores, nem a minha vida com a dos homens sanguinolentos,"
+            },
+            {
+                "id": "v26.10",
+                "versicle_number": 10,
+                "text": "Em cujas mãos há malefício, e cuja mão direita está cheia de subornos."
+            },
+            {
+                "id": "v26.11",
+                "versicle_number": 11,
+                "text": "Mas eu ando na minha sinceridade; livra-me e tem piedade de mim."
+            },
+            {
+                "id": "v26.12",
+                "versicle_number": 12,
+                "text": "O meu pé está posto em caminho plano; nas congregações louvarei ao Senhor."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

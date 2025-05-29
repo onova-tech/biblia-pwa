@@ -1,0 +1,131 @@
+{
+    "book": {
+        "id": "Ap",
+        "book_number": 66,
+        "new_testament": true,
+        "num_chapters": 22,
+        "book_name": "APOCALIPSE",
+        "book_full_name": "DO APÓSTOLO JOÃO APOCALIPSE"
+    },
+    "chapter": {
+        "chapter_number": 7,
+        "chapter_reference": "",
+        "chapter_title": "Os israelitas fiéis são salvos de perigos iminentes",
+        "versicles": [
+            {
+                "id": "v7.1",
+                "versicle_number": 1,
+                "text": "E DEPOIS destas coisas vi quatro anjos que estavam sobre os quatro cantos{note:1} da terra, retendo os quatro ventos da terra, para que nenhum vento soprasse sobre a terra, nem sobre o mar, nem contra árvore alguma."
+            },
+            {
+                "id": "v7.2",
+                "versicle_number": 2,
+                "text": "E vi outro anjo subir da banda do sol nascente, e que tinha o selo do Deus vivo; e clamou com grande voz aos quatro anjos, a quem fora dado o poder de danificar a terra e o mar,"
+            },
+            {
+                "id": "v7.3",
+                "versicle_number": 3,
+                "text": "Dizendo: Não danifiqueis a terra, nem o mar, nem as árvores, até que hajamos assinalado nas suas testas os servos do nosso Deus.{note:2}"
+            },
+            {
+                "id": "v7.4",
+                "versicle_number": 4,
+                "text": "E ouvi o número dos assinalados, e eram cento e quarenta e quatro mil assinalados, de todas as tribos dos filhos de Israel."
+            },
+            {
+                "id": "v7.5",
+                "versicle_number": 5,
+                "text": "Da tribo de Judá, havia doze mil assinalados: da tribo de Rubem, doze mil: da tribo de Gade, doze mil:"
+            },
+            {
+                "id": "v7.6",
+                "versicle_number": 6,
+                "text": "Da tribo de Aser, doze mil: da tribo de Naftali, doze mil: da tribo de Manassés, doze mil:"
+            },
+            {
+                "id": "v7.7",
+                "versicle_number": 7,
+                "text": "Da tribo de Simeão, doze mil: da tribo de Levi, doze mil: da tribo de Issacar, doze mil:"
+            },
+            {
+                "id": "v7.8",
+                "versicle_number": 8,
+                "text": "Da tribo de Zabulom, doze mil: da tribo de José, doze mil: da tribo de Benjamim, doze mil."
+            },
+            {
+                "id": "v7.9",
+                "versicle_number": 9,
+                "text": "Depois destas coisas olhei, e eis aqui uma multidão, a qual ninguém podia contar, de todas as nações, e tribos, e povos, e línguas, que estavam diante do trono, e perante o Cordeiro, trajando vestidos brancos e com palmas nas suas mãos:"
+            },
+            {
+                "id": "v7.10",
+                "versicle_number": 10,
+                "text": "E clamavam com grande voz, dizendo: Salvação ao nosso Deus, que está assentado no trono, e ao Cordeiro."
+            },
+            {
+                "id": "v7.11",
+                "versicle_number": 11,
+                "text": "E todos os anjos estavam ao redor do trono, e dos anciãos, e dos quatro animais: e prostraram-se diante do trono sobre seus rostos, e adoraram a Deus,"
+            },
+            {
+                "id": "v7.12",
+                "versicle_number": 12,
+                "text": "Dizendo: Amém. Louvor, e glória, e sabedoria, e ação de graças, e honra, e poder, e força ao nosso Deus, para todo o sempre. Amém."
+            },
+            {
+                "id": "v7.13",
+                "versicle_number": 13,
+                "text": "E um dos anciãos me falou, dizendo: Estes que estão vestidos de vestidos brancos, quem são, e donde vieram?"
+            },
+            {
+                "id": "v7.14",
+                "versicle_number": 14,
+                "text": "E eu disse-lhe: Senhor, tu sabes. E ele disse-me: Estes são os que vieram de grande tribulação,{note:3} e lavaram os seus vestidos e os branquearam no sangue do Cordeiro."
+            },
+            {
+                "id": "v7.15",
+                "versicle_number": 15,
+                "text": "Por isso estão diante do trono de Deus, e o servem de dia e de noite no seu templo; e aquele que está assentado sobre o trono os cobrirá com a sua sombra."
+            },
+            {
+                "id": "v7.16",
+                "versicle_number": 16,
+                "text": "Nunca mais terão fome,{note:4} nunca mais terão sede; nem sol nem calma alguma cairá sobre eles."
+            },
+            {
+                "id": "v7.17",
+                "versicle_number": 17,
+                "text": "Porque o Cordeiro que está no meio do trono os apascentará,{note:5} e lhes servirá de guia para as fontes{note:6} das águas da vida; e Deus limpará de seus olhos toda a lágrima.{note:7}"
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v7.9",
+                "text": "Visão dos mártires na glória"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 7.1 Zc 6.5"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 7.3 Ez 9.4"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 7.14 Dn 12.1; Mt 24.21; Mc 13.19"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 7.16 Is 49.10"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 7.17 Sl 23.1; Ez 34.23 {note:7} 7.17 Is 25.8 {note:6} 7.17 Sl 23.2"
+            }
+        ]
+    }
+}

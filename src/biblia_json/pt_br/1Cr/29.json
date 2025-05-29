@@ -1,0 +1,190 @@
+{
+    "book": {
+        "id": "1Cr",
+        "book_number": 13,
+        "new_testament": false,
+        "num_chapters": 29,
+        "book_name": "CRÔNICAS",
+        "book_full_name": "O PRIMEIRO LIVRO DAS CRÔNICAS"
+    },
+    "chapter": {
+        "chapter_number": 29,
+        "chapter_reference": "",
+        "chapter_title": "As ofertas de Davi, dos príncipes, e do povo para a construção do templo",
+        "versicles": [
+            {
+                "id": "v29.1",
+                "versicle_number": 1,
+                "text": "DISSE mais o rei Davi a toda a congregação: Salomão,{note:1} meu filho, a quem só Deus escolheu, é ainda moço e tenro, e esta obra é grande; porque não é palácio para homem, senão para o Senhor Deus."
+            },
+            {
+                "id": "v29.2",
+                "versicle_number": 2,
+                "text": "Eu pois com todas as minhas forças já tenho preparado para a casa do meu Deus ouro para as obras de ouro, e prata para as de prata, e cobre para as de cobre, ferro para as de ferro e madeira para as de madeira, pedras sardônicas, e as de engaste, e pedras de ornato, e obra de embutido, e toda a sorte de pedras preciosas, e pedras marmóreas em abundância."
+            },
+            {
+                "id": "v29.3",
+                "versicle_number": 3,
+                "text": "E ainda, de minha própria vontade para a casa de meu Deus, o ouro e prata particular que tenho demais eu dou para a casa do meu Deus, afora tudo quanto tenho preparado para a casa do santuário;"
+            },
+            {
+                "id": "v29.4",
+                "versicle_number": 4,
+                "text": "Três mil talentos de ouro, do ouro de Ofir: e sete mil talentos de prata purificada, para cobrir as paredes das casas:"
+            },
+            {
+                "id": "v29.5",
+                "versicle_number": 5,
+                "text": "Ouro para os vasos de ouro, e prata para os de prata; e para toda a obra de mãos dos artífices. Quem pois está disposto a encher a sua mão, para oferecer hoje voluntariamente ao Senhor?"
+            },
+            {
+                "id": "v29.6",
+                "versicle_number": 6,
+                "text": "Então os chefes dos pais, e os príncipes das tribos de Israel, e os capitães dos milhares e das centenas, até os capitães da obra do rei, voluntariamente contribuíram."
+            },
+            {
+                "id": "v29.7",
+                "versicle_number": 7,
+                "text": "E deram para o serviço da casa de Deus cinco mil talentos de ouro, e dez mil dracmas, e dez mil talentos de prata, e dezoito mil talentos de cobre, e cem mil talentos de ferro."
+            },
+            {
+                "id": "v29.8",
+                "versicle_number": 8,
+                "text": "E os que se acharam com pedras preciosas, as deram para o tesouro da casa do Senhor, na mão de Jeiel o gersonita."
+            },
+            {
+                "id": "v29.9",
+                "versicle_number": 9,
+                "text": "E o povo se alegrou do que deram voluntariamente; porque com coração perfeito voluntariamente deram ao Senhor: e também o rei Davi se alegrou com grande alegria."
+            },
+            {
+                "id": "v29.10",
+                "versicle_number": 10,
+                "text": "Pelo que Davi louvou ao Senhor perante os olhos de toda a congregação; e disse Davi: Bendito és tu, Senhor, Deus de nosso pai Israel, de eternidade em eternidade."
+            },
+            {
+                "id": "v29.11",
+                "versicle_number": 11,
+                "text": "Tua é, Senhor, a magnificência,{note:2} e o poder, e a honra, e a vitória, e a majestade; porque teu é tudo quanto há nos céus e na terra; teu é Senhor, o reino, e tu te exaltaste sobre todos como chefe."
+            },
+            {
+                "id": "v29.12",
+                "versicle_number": 12,
+                "text": "E riquezas e glória vêm de diante de ti, e tu dominas, sobre tudo, e na tua mão há força e poder; e na tua mão está o engrandecer e dar força a tudo."
+            },
+            {
+                "id": "v29.13",
+                "versicle_number": 13,
+                "text": "Agora pois, ó Deus nosso, graças te damos, e louvamos o nome da tua glória."
+            },
+            {
+                "id": "v29.14",
+                "versicle_number": 14,
+                "text": "Porque quem sou eu, e quem é o meu povo, que tivéssemos poder para tão voluntariamente dar semelhantes cousas? Porque tudo vem de ti, e da tua mão to damos."
+            },
+            {
+                "id": "v29.15",
+                "versicle_number": 15,
+                "text": "Porque somos estranhos diante de ti, e peregrinos como todos os nossos pais: como a sombra são os nossos dias sobre a terra e não há outra esperança."
+            },
+            {
+                "id": "v29.16",
+                "versicle_number": 16,
+                "text": "Senhor, Deus nosso, toda esta abundância que preparamos, para te edificar uma casa ao teu santo nome, vem da tua mão, e toda é tua."
+            },
+            {
+                "id": "v29.17",
+                "versicle_number": 17,
+                "text": "E bem sei eu, Deus meu, que tu provas os corações, e que da sinceridade te agradas: eu também na sinceridade de meu coração voluntariamente dei todas estas cousas: e agora vi com alegria que o teu povo, que se acha aqui, voluntariamente te deu."
+            },
+            {
+                "id": "v29.18",
+                "versicle_number": 18,
+                "text": "Senhor, Deus de nossos pais Abraão, Isaque, e Israel, conserva isto para sempre no intento dos pensamentos do coração de teu povo; e encaminha o seu coração para ti."
+            },
+            {
+                "id": "v29.19",
+                "versicle_number": 19,
+                "text": "E a Salomão, meu filho dá um coração perfeito, para guardar os teus mandamentos, os teus testemunhos, e os teus estatutos; e para fazer tudo, e para edificar este palácio que tenho preparado."
+            },
+            {
+                "id": "v29.20",
+                "versicle_number": 20,
+                "text": "Então disse Davi a toda a congregação: Agora louvai ao Senhor vosso Deus. Então toda a congregação louvou ao Senhor Deus de seus pais, e inclinaram-se, e prostraram-se perante o Senhor, e perante o rei."
+            },
+            {
+                "id": "v29.21",
+                "versicle_number": 21,
+                "text": "E ao outro dia sacrificaram ao Senhor sacrifícios, e ofereceram holocaustos ao Senhor, mil bezerros, mil carneiros, mil cordeiros, com as suas libações; e sacrifícios em abundância por todo o Israel."
+            },
+            {
+                "id": "v29.22",
+                "versicle_number": 22,
+                "text": "E comeram e beberam naquele dia perante o Senhor, com grande gozo: e segunda vez fizeram rei a Salomão filho de Davi, e o ungiram ao Senhor por {note:n}guia, e a Zadoque por sacerdote."
+            },
+            {
+                "id": "v29.23",
+                "versicle_number": 23,
+                "text": "Assim Salomão se assentou no trono{note:3} do Senhor, rei, em lugar de Davi seu pai, e prosperou: e todo o Israel lhe deu ouvidos."
+            },
+            {
+                "id": "v29.24",
+                "versicle_number": 24,
+                "text": "E todos os príncipes, e os grandes, e até todos os filhos do rei Davi, se submeteram ao rei Salomão."
+            },
+            {
+                "id": "v29.25",
+                "versicle_number": 25,
+                "text": "E o Senhor magnificou a Salomão grandissimamente, perante os olhos de todo o Israel: e deu-lhe majestade real, qual antes dele não teve nenhum rei em Israel."
+            },
+            {
+                "id": "v29.26",
+                "versicle_number": 26,
+                "text": "Assim Davi, filho de Jessé, reinou sobre todo o Israel."
+            },
+            {
+                "id": "v29.27",
+                "versicle_number": 27,
+                "text": "E foram os dias que reinou{note:4} sobre Israel, quarenta anos: em Hebrom reinou sete anos, e em Jerusalém reinou trinta e três."
+            },
+            {
+                "id": "v29.28",
+                "versicle_number": 28,
+                "text": "E morreu numa boa velhice, cheio de dias, riquezas e glória: e Salomão, seu filho, reinou em seu lugar."
+            },
+            {
+                "id": "v29.29",
+                "versicle_number": 29,
+                "text": "Os sucessos pois do rei Davi, assim os primeiros como os últimos, eis que estão escritos nas crônicas de Samuel, o vidente, e nas crônicas do profeta Natã, e nas crônicas de Gade, o vidente;"
+            },
+            {
+                "id": "v29.30",
+                "versicle_number": 30,
+                "text": "Juntamente com todo o seu reino e o seu poder; e os tempos que passaram sobre ele, e sobre Israel, e sobre todos os reinos daquelas terras."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 29.1 1Cr 22.5"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 29.11 Mt 6.13"
+            },
+            {
+                "id": "n3",
+                "text": "{note:n} 29.22 ou príncipe"
+            },
+            {
+                "id": "n4",
+                "text": "{note:3} 29.23 1Rs 2.12"
+            },
+            {
+                "id": "n5",
+                "text": "{note:4} 29.27 2Sm 5.4-5; 1Cr 3.4"
+            }
+        ]
+    }
+}

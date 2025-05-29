@@ -1,0 +1,186 @@
+{
+    "book": {
+        "id": "Jr",
+        "book_number": 24,
+        "new_testament": false,
+        "num_chapters": 52,
+        "book_name": "JEREMIAS",
+        "book_full_name": "JEREMIAS"
+    },
+    "chapter": {
+        "chapter_number": 22,
+        "chapter_reference": "",
+        "chapter_title": "Profecia contra a casa real de Judá",
+        "versicles": [
+            {
+                "id": "v22.1",
+                "versicle_number": 1,
+                "text": "ASSIM diz o Senhor: Desce à casa do rei de Judá, e anuncia ali esta palavra."
+            },
+            {
+                "id": "v22.2",
+                "versicle_number": 2,
+                "text": "E dize: Ouve a palavra do Senhor, ó rei de Judá, que te assentas no trono de Davi; tu, e os teus servos, e o teu povo, que entrais por estas portas."
+            },
+            {
+                "id": "v22.3",
+                "versicle_number": 3,
+                "text": "Assim diz o Senhor: Exercei o juízo e a justiça, e livrai o espoliado da mão do opressor; e não oprimais ao estrangeiro, nem ao órfão, nem à viúva; não façais violência, nem derrameis sangue inocente neste lugar."
+            },
+            {
+                "id": "v22.4",
+                "versicle_number": 4,
+                "text": "Porque, se deveras cumprirdes esta palavra, entrarão pelas portas desta casa os reis que se assentam no lugar de Davi sobre o seu trono, em carros e montados em cavalos, eles, e os seus servos, e o seu povo."
+            },
+            {
+                "id": "v22.5",
+                "versicle_number": 5,
+                "text": "Mas se não derdes ouvidos a estas palavras, por mim mesmo tenho jurado, diz o Senhor, que esta casa se tornará em assolação."
+            },
+            {
+                "id": "v22.6",
+                "versicle_number": 6,
+                "text": "Porque assim diz o Senhor acerca da casa do rei de Judá: Tu és para mim Gileade, e a cabeça do Líbano: mas por certo que farei de ti um deserto e cidades desabitadas."
+            },
+            {
+                "id": "v22.7",
+                "versicle_number": 7,
+                "text": "Porque prepararei contra ti destruidores, cada um com as suas armas: e cortarão os teus cedros escolhidos, e lançá-los-ão no fogo."
+            },
+            {
+                "id": "v22.8",
+                "versicle_number": 8,
+                "text": "E muitas nações passarão por esta cidade, e dirá cada um, ao seu companheiro: Por que procedeu o Senhor assim com esta grande cidade?"
+            },
+            {
+                "id": "v22.9",
+                "versicle_number": 9,
+                "text": "Então responderão: Porque deixaram o concerto do Senhor seu Deus, e se inclinaram diante de deuses alheios, e os serviram."
+            },
+            {
+                "id": "v22.10",
+                "versicle_number": 10,
+                "text": "Não choreis o morto, nem o lastimeis: chorai abundantemente aquele que sai, porque nunca mais tornará, nem verá a terra onde nasceu."
+            },
+            {
+                "id": "v22.11",
+                "versicle_number": 11,
+                "text": "Porque assim diz o Senhor acerca de Salum,{note:1} filho de Josias, rei de Judá, que reinou em lugar de Josias seu pai, que saiu deste lugar: Nunca ali tornará mais."
+            },
+            {
+                "id": "v22.12",
+                "versicle_number": 12,
+                "text": "Mas no lugar para onde o levaram cativo morrerá, e nunca mais verá esta terra."
+            },
+            {
+                "id": "v22.13",
+                "versicle_number": 13,
+                "text": "Ai daquele que edifica a sua casa com injustiça, e os seus aposentos sem direito, que se serve do serviço do seu próximo sem paga, e não lhe dá o salário do seu trabalho;"
+            },
+            {
+                "id": "v22.14",
+                "versicle_number": 14,
+                "text": "Que diz: edificarei para mim uma casa espaçosa, e aposentos largos: e lhe abre janelas, e está forrada de cedro, e pintada de vermelhão."
+            },
+            {
+                "id": "v22.15",
+                "versicle_number": 15,
+                "text": "Reinarás tu, porque te encerras em cedro? acaso teu pai não comeu e bebeu, e não exercitou o juízo e a justiça? por isso lhe sucedeu bem."
+            },
+            {
+                "id": "v22.16",
+                "versicle_number": 16,
+                "text": "Julgou a causa do aflito e do necessitado; então lhe sucedeu bem; porventura não é isto conhecer-me? diz o Senhor."
+            },
+            {
+                "id": "v22.17",
+                "versicle_number": 17,
+                "text": "Mas os teus olhos e o teu coração não atentam senão para a tua avareza, e para o sangue inocente, a fim de derramá-lo, e para a opressão, e para a violência, a fim de levar isso a efeito."
+            },
+            {
+                "id": "v22.18",
+                "versicle_number": 18,
+                "text": "Portanto assim diz o Senhor acerca de Joaquim,{note:2} filho de Josias, rei de Judá: Não lamentarão por ele, dizendo: Ai, irmão meu, ou: Ai, minha irmã! nem lamentarão por ele, dizendo: Ai, Senhor, ou: Ai Majestoso!"
+            },
+            {
+                "id": "v22.19",
+                "versicle_number": 19,
+                "text": "Em sepultura de jumento o sepultarão, arrastando-o e lançando-o para bem longe, fora das portas de Jerusalém."
+            },
+            {
+                "id": "v22.20",
+                "versicle_number": 20,
+                "text": "Sobe ao Líbano, e clama, e levanta a tua voz em Basã, e clama desde Abarim, porque estão quebrantados os teus namorados."
+            },
+            {
+                "id": "v22.21",
+                "versicle_number": 21,
+                "text": "Falei contigo da tua prosperidade, mas tu disseste: Não ouvirei. Este é o teu caminho, desde a tua mocidade, pois nunca deste ouvidos à minha voz."
+            },
+            {
+                "id": "v22.22",
+                "versicle_number": 22,
+                "text": "O vento apascentará todos os teus pastores, e os teus namorados irão para o cativeiro: certamente então te confundirás, e te envergonharás, por causa de toda a tua maldade."
+            },
+            {
+                "id": "v22.23",
+                "versicle_number": 23,
+                "text": "Ó tu, que habitas no Líbano e fazes o teu ninho nos cedros! quão lastimada serás quando te vierem as dores e os ais como da que está de parto!"
+            },
+            {
+                "id": "v22.24",
+                "versicle_number": 24,
+                "text": "Vivo eu, diz o Senhor, que ainda que Jeconias,{note:3} filho de Joaquim, rei de Judá, fosse o selo do anel da minha mão direita, eu dali te arrancaria."
+            },
+            {
+                "id": "v22.25",
+                "versicle_number": 25,
+                "text": "E te entregarei na mão dos que buscam a tua vida, e na mão daqueles diante de quem tu temes, a saber, na mão de Nabucodonosor, rei de Babilônia, e na mão dos caldeus."
+            },
+            {
+                "id": "v22.26",
+                "versicle_number": 26,
+                "text": "E lançar-te-ei, a ti e à tua mãe que te deu à luz, para uma terra estranha, em que não nasceste, e ali morrereis."
+            },
+            {
+                "id": "v22.27",
+                "versicle_number": 27,
+                "text": "Mas à terra, para a qual eles levantam a sua alma, para ali tornarem, a ela não tornarão."
+            },
+            {
+                "id": "v22.28",
+                "versicle_number": 28,
+                "text": "É, pois, este homem Jeconias um vil vaso quebrado? ou um vaso de que ninguém se agrada? Por que razão foram arremessados fora, ele e a sua geração, e arrojados para uma terra que não conhecem?"
+            },
+            {
+                "id": "v22.29",
+                "versicle_number": 29,
+                "text": "Ó terra, terra, terra! ouve a palavra do Senhor."
+            },
+            {
+                "id": "v22.30",
+                "versicle_number": 30,
+                "text": "Assim diz o Senhor: Escrevei que este homem está {note:t}privado de seus filhos, e é homem que não prosperará nos seus dias; nem prosperará algum da sua geração, para se assentar no trono de Davi, e reinar mais em Judá."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 22.11 2Rs 23.31-34; 2Cr 36.1-4"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 22.18 2Rs 23.36-37; 2Cr 36.5-7"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 22.24 2Rs 24.8-15; 2Cr 36.9-10"
+            },
+            {
+                "id": "n4",
+                "text": "{note:t} 22.30 ou sem filhos"
+            }
+        ]
+    }
+}

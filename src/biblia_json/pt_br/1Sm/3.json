@@ -1,0 +1,130 @@
+{
+    "book": {
+        "id": "1Sm",
+        "book_number": 9,
+        "new_testament": false,
+        "num_chapters": 31,
+        "book_name": "SAMUEL",
+        "book_full_name": "O PRIMEIRO LIVRO DE SAMUEL"
+    },
+    "chapter": {
+        "chapter_number": 3,
+        "chapter_reference": "",
+        "chapter_title": "Deus fala com Samuel em sonhos",
+        "versicles": [
+            {
+                "id": "v3.1",
+                "versicle_number": 1,
+                "text": "E O mancebo Samuel servia ao Senhor perante Eli: e a palavra do Senhor era de muita valia naqueles dias; não havia visão manifesta."
+            },
+            {
+                "id": "v3.2",
+                "versicle_number": 2,
+                "text": "E sucedeu naquele dia que, estando Eli deitado no seu lugar (e os seus olhos se começavam já escurecer, que não podia ver),"
+            },
+            {
+                "id": "v3.3",
+                "versicle_number": 3,
+                "text": "E estando também Samuel já deitado, antes que a lâmpada de Deus se apagasse no templo do Senhor, em que estava a arca de Deus,"
+            },
+            {
+                "id": "v3.4",
+                "versicle_number": 4,
+                "text": "O Senhor chamou a Samuel, e disse ele: Eis-me aqui."
+            },
+            {
+                "id": "v3.5",
+                "versicle_number": 5,
+                "text": "E correu a Eli, e disse: Eis-me aqui, porque tu me chamaste. Mas ele disse: Não te chamei eu, torna a deitar-te. E foi e se deitou."
+            },
+            {
+                "id": "v3.6",
+                "versicle_number": 6,
+                "text": "E o Senhor tornou a chamar outra vez a Samuel. Samuel se levantou, e foi a Eli, e disse: Eis-me aqui, porque tu me chamaste. Mas ele disse: Não te chamei eu, filho meu, torna a deitar-te."
+            },
+            {
+                "id": "v3.7",
+                "versicle_number": 7,
+                "text": "Porém Samuel ainda não conhecia ao Senhor, e ainda não lhe tinha sido manifestada a palavra do Senhor."
+            },
+            {
+                "id": "v3.8",
+                "versicle_number": 8,
+                "text": "O Senhor pois tornou a chamar a Samuel terceira vez, e ele se levantou e foi a Eli, e disse: Eis-me aqui, porque tu me chamaste. Então entendeu Eli que o Senhor chamava o mancebo."
+            },
+            {
+                "id": "v3.9",
+                "versicle_number": 9,
+                "text": "Pelo que Eli disse a Samuel: Vai-te deitar, e há de ser que, se te chamar, dirás: Fala, Senhor, porque o teu servo ouve. Então Samuel foi e se deitou no seu lugar."
+            },
+            {
+                "id": "v3.10",
+                "versicle_number": 10,
+                "text": "Então veio o Senhor, e ali esteve, e chamou como das outras vezes: Samuel, Samuel. E disse Samuel: Fala, porque o teu servo ouve."
+            },
+            {
+                "id": "v3.11",
+                "versicle_number": 11,
+                "text": "E disse o Senhor a Samuel: Eis aqui vou eu a fazer uma cousa em Israel, a qual todo o que ouvir lhe tinirão ambas as orelhas."
+            },
+            {
+                "id": "v3.12",
+                "versicle_number": 12,
+                "text": "Naquele mesmo dia suscitarei contra Eli tudo quanto tenho falado contra a sua casa: começá-lo-ei e acabá-lo-ei."
+            },
+            {
+                "id": "v3.13",
+                "versicle_number": 13,
+                "text": "Porque já eu lhe fiz saber que julgarei a sua casa para sempre, pela iniquidade que ele bem conhecia, porque, fazendo-se os seus filhos execráveis, não os repreendeu."
+            },
+            {
+                "id": "v3.14",
+                "versicle_number": 14,
+                "text": "Portanto jurei à casa de Eli que nunca jamais será expiada a iniquidade da casa de Eli com sacrifício nem com oferta de manjares."
+            },
+            {
+                "id": "v3.15",
+                "versicle_number": 15,
+                "text": "E Samuel ficou deitado até pela manhã, e então abriu as portas da casa do Senhor: porém temia Samuel de relatar esta visão a Eli."
+            },
+            {
+                "id": "v3.16",
+                "versicle_number": 16,
+                "text": "Então chamou Eli a Samuel, e disse: Samuel, meu filho. E disse ele: Eis-me aqui."
+            },
+            {
+                "id": "v3.17",
+                "versicle_number": 17,
+                "text": "E ele disse: que palavra é a que te falou? peço-te que ma não encubras: assim Deus te faça, e outro tanto se me encobrires alguma palavra de todas as palavras que te falou."
+            },
+            {
+                "id": "v3.18",
+                "versicle_number": 18,
+                "text": "Então Samuel lhe contou todas aquelas palavras, e nada lhe encobriu. E disse ele: O Senhor é, faça o que bem parecer aos seus olhos."
+            },
+            {
+                "id": "v3.19",
+                "versicle_number": 19,
+                "text": "E crescia Samuel, e o Senhor era com ele, e nenhuma de todas as suas palavras deixou cair em terra."
+            },
+            {
+                "id": "v3.20",
+                "versicle_number": 20,
+                "text": "E todo o Israel, desde Dã até Berseba, conheceu que Samuel estava confirmado por profeta do Senhor."
+            },
+            {
+                "id": "v3.21",
+                "versicle_number": 21,
+                "text": "E continuou o Senhor a aparecer em Silo: porquanto o Senhor se manifestava a Samuel em Silo pela palavra do Senhor."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v3.15",
+                "text": "Samuel conta a visão a Eli"
+            }
+        ],
+        "notes": []
+    }
+}

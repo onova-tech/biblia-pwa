@@ -1,0 +1,114 @@
+{
+    "book": {
+        "id": "Lv",
+        "book_number": 3,
+        "new_testament": false,
+        "num_chapters": 27,
+        "book_name": "LEVÍTICO",
+        "book_full_name": "O TERCEIRO LIVRO DE MOISÉS LEVÍTICO"
+    },
+    "chapter": {
+        "chapter_number": 17,
+        "chapter_reference": "",
+        "chapter_title": "O sangue de todos os animais deve trazer-se à porta do tabernáculo",
+        "versicles": [
+            {
+                "id": "v17.1",
+                "versicle_number": 1,
+                "text": "FALOU mais o Senhor a Moisés, dizendo:"
+            },
+            {
+                "id": "v17.2",
+                "versicle_number": 2,
+                "text": "Fala a Aarão e aos seus filhos, e a todos os filhos de Israel, e dize-lhes: Esta é a palavra que o Senhor ordenou, dizendo:"
+            },
+            {
+                "id": "v17.3",
+                "versicle_number": 3,
+                "text": "Qualquer homem da casa de Israel que degolar boi, ou cordeiro, ou cabra, no arraial, ou quem os degolar fora do arraial,"
+            },
+            {
+                "id": "v17.4",
+                "versicle_number": 4,
+                "text": "E os não trouxer à porta da tenda da congregação, para oferecer oferta ao Senhor diante do tabernáculo do Senhor, a tal homem será imputado o sangue; derramou sangue: pelo que tal homem será extirpado do seu povo,"
+            },
+            {
+                "id": "v17.5",
+                "versicle_number": 5,
+                "text": "Para que os filhos de Israel, trazendo os seus sacrifícios, que sacrificam sobre a face do campo, os tragam ao Senhor, à porta da tenda da congregação, ao sacerdote, e os ofereçam por sacrifícios pacíficos ao Senhor."
+            },
+            {
+                "id": "v17.6",
+                "versicle_number": 6,
+                "text": "E o sacerdote espargirá o sangue sobre o altar do Senhor, à porta da tenda da congregação, e queimará a gordura por cheiro suave ao Senhor."
+            },
+            {
+                "id": "v17.7",
+                "versicle_number": 7,
+                "text": "E nunca mais sacrificarão os seus sacrifícios aos demônios, após os quais eles se prostituem: isto ser-lhes-á por estatuto perpétuo nas suas gerações."
+            },
+            {
+                "id": "v17.8",
+                "versicle_number": 8,
+                "text": "Dize-lhes pois: Qualquer homem da casa de Israel, ou dos estrangeiros que peregrinam entre vós, que oferecer holocausto ou sacrifício,"
+            },
+            {
+                "id": "v17.9",
+                "versicle_number": 9,
+                "text": "E não o trouxer à porta da tenda da congregação, para oferecê-lo ao Senhor, o tal homem será extirpado dos seus povos."
+            },
+            {
+                "id": "v17.10",
+                "versicle_number": 10,
+                "text": "E, qualquer homem da casa de Israel, ou dos estrangeiros que peregrinam entre eles, que comer algum sangue, contra aquela alma que comer sangue, eu porei a minha face, e a extirparei do seu povo."
+            },
+            {
+                "id": "v17.11",
+                "versicle_number": 11,
+                "text": "Porque a {note:j}alma da carne está no sangue, pelo que vo-lo tenho dado sobre o altar, para fazer expiação{note:1} pelas vossas almas: porquanto é o sangue que fará expiação pela alma."
+            },
+            {
+                "id": "v17.12",
+                "versicle_number": 12,
+                "text": "Portanto tenho dito aos filhos de Israel: Nenhuma alma de entre vós comerá sangue, nem o estrangeiro, que peregrine entre vós, comerá sangue."
+            },
+            {
+                "id": "v17.13",
+                "versicle_number": 13,
+                "text": "Também, qualquer homem dos filhos de Israel, ou dos estrangeiros que peregrinam entre eles, que caçar caça de animal ou de ave que se come, derramará o seu sangue, e o cobrirá com pó;"
+            },
+            {
+                "id": "v17.14",
+                "versicle_number": 14,
+                "text": "Porquanto é a {note:k}alma de toda a carne; o seu sangue é pela sua alma: por isso tenho dito aos filhos de Israel: Não comereis o sangue de nenhuma carne, porque a alma de toda a carne é o seu sangue; qualquer que o comer será extirpado.{note:2}"
+            },
+            {
+                "id": "v17.15",
+                "versicle_number": 15,
+                "text": "E toda a alma entre os naturais, ou entre os estrangeiros, que comer corpo morto ou dilacerado, lavará os seus vestidos, e se banhará com água, e será imunda até à tarde; depois será limpa."
+            },
+            {
+                "id": "v17.16",
+                "versicle_number": 16,
+                "text": "Mas, se os não lavar, nem banhar a sua carne, levará sobre si a sua iniquidade."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v17.10",
+                "text": "A proibição de comer sangue"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:j} 17.11 ou vida {note:1} 17.11 Hb 9.22"
+            },
+            {
+                "id": "n2",
+                "text": "{note:k} 17.14 ou vida {note:2} 17.10-14 Gn 9.4; Lv 7.26-27; 19.26; Dt 12.16,23; 15.23"
+            }
+        ]
+    }
+}

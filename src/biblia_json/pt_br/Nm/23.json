@@ -1,0 +1,175 @@
+{
+    "book": {
+        "id": "Nm",
+        "book_number": 4,
+        "new_testament": false,
+        "num_chapters": 36,
+        "book_name": "NÚMEROS",
+        "book_full_name": "O QUARTO LIVRO DE MOISÉS NÚMEROS"
+    },
+    "chapter": {
+        "chapter_number": 23,
+        "chapter_reference": "",
+        "chapter_title": "Balaque edifica sete altares",
+        "versicles": [
+            {
+                "id": "v23.1",
+                "versicle_number": 1,
+                "text": "ENTÃO Balaão disse a Balaque: Edifica-me aqui sete altares, e prepara-me aqui sete bezerros e sete carneiros."
+            },
+            {
+                "id": "v23.2",
+                "versicle_number": 2,
+                "text": "Fez pois Balaque como Balaão dissera: e Balaque e Balaão ofereceram um bezerro e um carneiro sobre cada altar."
+            },
+            {
+                "id": "v23.3",
+                "versicle_number": 3,
+                "text": "Então Balaão disse a Balaque: Fica-te ao pé do teu holocausto, e eu irei; porventura o Senhor me sairá ao encontro, e o que me mostrar te notificarei. Então foi a um alto."
+            },
+            {
+                "id": "v23.4",
+                "versicle_number": 4,
+                "text": "E, encontrando-se Deus, com Balaão, lhe disse este: Preparei sete altares, e ofereci um bezerro e um carneiro sobre cada altar."
+            },
+            {
+                "id": "v23.5",
+                "versicle_number": 5,
+                "text": "Então o Senhor pôs a palavra na boca de Balaão, e disse: Torna para Balaque, e fala assim."
+            },
+            {
+                "id": "v23.6",
+                "versicle_number": 6,
+                "text": "E, tornando para ele, eis que estava ao pé do seu holocausto, ele e todos os príncipes dos moabitas."
+            },
+            {
+                "id": "v23.7",
+                "versicle_number": 7,
+                "text": "Então alçou a sua parábola, e disse: De Arão me mandou trazer Balaque, rei dos moabitas, das montanhas do oriente, dizendo: Vem, amaldiçoa-me a Jacó; e vem, detesta a Israel."
+            },
+            {
+                "id": "v23.8",
+                "versicle_number": 8,
+                "text": "Como amaldiçoarei o que Deus não amaldiçoa? e como detestarei, quando o Senhor não detesta?"
+            },
+            {
+                "id": "v23.9",
+                "versicle_number": 9,
+                "text": "Porque do cume das penhas o vejo, e dos outeiros o contemplo: eis que este povo habitará só, e entre as gentes não será contado."
+            },
+            {
+                "id": "v23.10",
+                "versicle_number": 10,
+                "text": "Quem contará o pó de Jacó e o número da quarta parte de Israel? a minha alma morra da morte dos justos, e seja o meu fim como o seu."
+            },
+            {
+                "id": "v23.11",
+                "versicle_number": 11,
+                "text": "Então disse Balaque a Balaão: Que me fizeste? chamei-te para amaldiçoar os meus inimigos, mas eis que inteiramente os abençoaste."
+            },
+            {
+                "id": "v23.12",
+                "versicle_number": 12,
+                "text": "E ele respondeu, e disse: Porventura não terei cuidado de falar o que o Senhor pôs na minha boca?"
+            },
+            {
+                "id": "v23.13",
+                "versicle_number": 13,
+                "text": "Então Balaque lhe disse: Rogo-te que venhas comigo a outro lugar, donde o verás; verás somente a última parte dele, mas a todo ele não verás: e amaldiçoa-mo dali."
+            },
+            {
+                "id": "v23.14",
+                "versicle_number": 14,
+                "text": "Assim o tomou consigo ao campo de Zofim, ao cume de Pisga: e edificou sete altares, e ofereceu um bezerro e um carneiro sobre cada altar."
+            },
+            {
+                "id": "v23.15",
+                "versicle_number": 15,
+                "text": "Então disse a Balaque: Fica aqui ao pé do teu holocausto, e eu irei ali ao seu encontro."
+            },
+            {
+                "id": "v23.16",
+                "versicle_number": 16,
+                "text": "E, encontrando-se o Senhor com Balaão, pôs uma palavra na sua boca, e disse: Torna para Balaque, e fala assim."
+            },
+            {
+                "id": "v23.17",
+                "versicle_number": 17,
+                "text": "E, vindo a ele, eis que estava ao pé do holocausto, e os príncipes dos moabitas com ele: disse-lhe pois Balaque: Que cousa falou o Senhor?"
+            },
+            {
+                "id": "v23.18",
+                "versicle_number": 18,
+                "text": "Então alçou a sua parábola, e disse: Levanta-te, Balaque, e ouve: inclina os teus ouvidos a mim, filho de Zipor."
+            },
+            {
+                "id": "v23.19",
+                "versicle_number": 19,
+                "text": "Deus não é homem, para que minta; nem filho do homem, para que se arrependa: porventura diria ele, e não o faria? ou falaria, e não o confirmaria?"
+            },
+            {
+                "id": "v23.20",
+                "versicle_number": 20,
+                "text": "Eis que recebi mandado de abençoar: pois ele tem abençoado, e eu não o posso revogar."
+            },
+            {
+                "id": "v23.21",
+                "versicle_number": 21,
+                "text": "Não viu iniquidade em Israel, nem contemplou maldade em Jacó: o Senhor seu Deus é com ele, e nele, e entre eles se ouve o alarido dum rei."
+            },
+            {
+                "id": "v23.22",
+                "versicle_number": 22,
+                "text": "Deus os tirou do Egito; as suas forças são como as do unicórnio."
+            },
+            {
+                "id": "v23.23",
+                "versicle_number": 23,
+                "text": "Pois contra Jacó não vale encantamento, nem adivinhação contra Israel: neste tempo se dirá de Jacó e de Israel: Que cousas Deus tem obrado!"
+            },
+            {
+                "id": "v23.24",
+                "versicle_number": 24,
+                "text": "Eis que o povo se levantará como leoa, e se exalçará como leão: não se deitará até que coma a presa, e beba o sangue de mortos."
+            },
+            {
+                "id": "v23.25",
+                "versicle_number": 25,
+                "text": "Então Balaque disse a Balaão: Nem totalmente o amaldiçoarás, nem totalmente o abençoarás."
+            },
+            {
+                "id": "v23.26",
+                "versicle_number": 26,
+                "text": "Porém Balaão respondeu, e disse a Balaque: Não te falei eu, dizendo: Tudo o que o Senhor falar aquilo farei?"
+            },
+            {
+                "id": "v23.27",
+                "versicle_number": 27,
+                "text": "Disse mais Balaque a Balaão: Ora vem, e te levarei a outro lugar: porventura bem parecerá aos olhos de Deus que dali mo amaldiçoes."
+            },
+            {
+                "id": "v23.28",
+                "versicle_number": 28,
+                "text": "Então Balaque levou Balaão consigo ao cume de Peor, que olha para a banda do deserto."
+            },
+            {
+                "id": "v23.29",
+                "versicle_number": 29,
+                "text": "Balaão disse a Balaque: Edifica-me aqui sete altares, e prepara-me aqui sete bezerros e sete carneiros."
+            },
+            {
+                "id": "v23.30",
+                "versicle_number": 30,
+                "text": "Balaque pois fez como dissera Balaão; e ofereceu um bezerro e um carneiro sobre cada altar."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v23.18",
+                "text": "As profecias de Balaão"
+            }
+        ],
+        "notes": []
+    }
+}

@@ -1,0 +1,511 @@
+{
+    "book": {
+        "id": "Lc",
+        "book_number": 42,
+        "new_testament": true,
+        "num_chapters": 24,
+        "book_name": "LUCAS",
+        "book_full_name": "O SANTO EVANGELHO SEGUNDO LUCAS"
+    },
+    "chapter": {
+        "chapter_number": 1,
+        "chapter_reference": "",
+        "chapter_title": "Prefácio",
+        "versicles": [
+            {
+                "id": "v1.1",
+                "versicle_number": 1,
+                "text": "TENDO pois muitos empreendido pôr em ordem a narração dos fatos que entre nós se cumpriram,"
+            },
+            {
+                "id": "v1.2",
+                "versicle_number": 2,
+                "text": "Segundo nos transmitiram os mesmos que os presenciaram desde o princípio, e foram ministros da palavra,"
+            },
+            {
+                "id": "v1.3",
+                "versicle_number": 3,
+                "text": "Pareceu-me também a mim conveniente descrevê-los a ti, ó excelente Teófilo, por sua ordem, havendo-me já informado minuciosamente de tudo desde o princípio;"
+            },
+            {
+                "id": "v1.4",
+                "versicle_number": 4,
+                "text": "Para que conheças a certeza das coisas de que já estás informado."
+            },
+            {
+                "id": "v1.5",
+                "versicle_number": 5,
+                "text": "Existiu, no tempo de Herodes, rei da Judeia, um sacerdote chamado Zacarias, da ordem de Abias,{note:1} e cuja mulher era das filhas d'Aarão; e o seu nome era {note:a}Isabel."
+            },
+            {
+                "id": "v1.6",
+                "versicle_number": 6,
+                "text": "E eram ambos justos perante Deus, andando sem repreensão em todos os mandamentos e preceitos do Senhor."
+            },
+            {
+                "id": "v1.7",
+                "versicle_number": 7,
+                "text": "E não tinham filhos, porque Isabel era estéril, e ambos eram avançados em idade."
+            },
+            {
+                "id": "v1.8",
+                "versicle_number": 8,
+                "text": "E aconteceu que, exercendo ele o sacerdócio diante de Deus, na ordem da sua turma,"
+            },
+            {
+                "id": "v1.9",
+                "versicle_number": 9,
+                "text": "Segundo o costume sacerdotal, coube-lhe em sorte entrar no templo do Senhor para oferecer o incenso."
+            },
+            {
+                "id": "v1.10",
+                "versicle_number": 10,
+                "text": "E toda a multidão do povo estava fora, orando, à hora do incenso;"
+            },
+            {
+                "id": "v1.11",
+                "versicle_number": 11,
+                "text": "E um anjo do Senhor lhe apareceu, posto em pé, à direita do altar do incenso."
+            },
+            {
+                "id": "v1.12",
+                "versicle_number": 12,
+                "text": "E Zacarias, vendo-o, turbou-se, e caiu temor sobre ele."
+            },
+            {
+                "id": "v1.13",
+                "versicle_number": 13,
+                "text": "Mas o anjo lhe disse: Zacarias, não temas, porque a tua oração foi ouvida, e Isabel, tua mulher, dará à luz um filho, e lhe porás o nome de João;"
+            },
+            {
+                "id": "v1.14",
+                "versicle_number": 14,
+                "text": "E terás prazer e alegria, e muitos se alegrarão no seu nascimento,"
+            },
+            {
+                "id": "v1.15",
+                "versicle_number": 15,
+                "text": "Porque será grande diante do Senhor, e não beberá vinho,{note:2} nem {note:b}bebida forte, e será cheio do Espírito Santo, já desde o ventre de sua mãe;"
+            },
+            {
+                "id": "v1.16",
+                "versicle_number": 16,
+                "text": "E converterá muitos dos filhos de Israel ao Senhor seu Deus,"
+            },
+            {
+                "id": "v1.17",
+                "versicle_number": 17,
+                "text": "E irá adiante dele no espírito e virtude de Elias,{note:3} para converter os corações dos pais aos filhos, e os rebeldes à prudência dos justos; com o fim de preparar ao Senhor um povo bem disposto."
+            },
+            {
+                "id": "v1.18",
+                "versicle_number": 18,
+                "text": "Disse então Zacarias ao anjo: Como saberei isto? pois eu já sou velho, e minha mulher avançada em idade."
+            },
+            {
+                "id": "v1.19",
+                "versicle_number": 19,
+                "text": "E, respondendo o anjo, disse-lhe: Eu sou Gabriel,{note:4} que assisto diante de Deus, e fui enviado a falar-te e dar-te estas alegres novas;"
+            },
+            {
+                "id": "v1.20",
+                "versicle_number": 20,
+                "text": "E eis que ficarás mudo, e não poderás falar até ao dia em que estas coisas aconteçam; porquanto não creste nas minhas palavras, que a seu tempo se hão de cumprir."
+            },
+            {
+                "id": "v1.21",
+                "versicle_number": 21,
+                "text": "E o povo estava esperando a Zacarias, e maravilhava-se de que tanto se demorasse no templo."
+            },
+            {
+                "id": "v1.22",
+                "versicle_number": 22,
+                "text": "E, saindo ele, não lhes podia falar; e entenderam que tinha visto alguma visão no templo. E falava por acenos, e ficou mudo."
+            },
+            {
+                "id": "v1.23",
+                "versicle_number": 23,
+                "text": "E sucedeu que, terminados os dias de seu ministério, voltou para sua casa."
+            },
+            {
+                "id": "v1.24",
+                "versicle_number": 24,
+                "text": "E depois daqueles dias Isabel, sua mulher, concebeu, e por cinco meses se ocultou, dizendo:"
+            },
+            {
+                "id": "v1.25",
+                "versicle_number": 25,
+                "text": "Assim me fez o Senhor, nos dias em que atentou em mim, para destruir o meu opróbrio entre os homens."
+            },
+            {
+                "id": "v1.26",
+                "versicle_number": 26,
+                "text": "E, no sexto mês, foi o anjo Gabriel enviado por Deus a uma cidade da Galileia, chamada Nazaré,"
+            },
+            {
+                "id": "v1.27",
+                "versicle_number": 27,
+                "text": "A uma virgem{note:5} desposada com um varão, cujo nome era José, da casa de Davi; e o nome da virgem era Maria."
+            },
+            {
+                "id": "v1.28",
+                "versicle_number": 28,
+                "text": "E, entrando o anjo aonde ela estava, disse: {note:c}Salve, agraciada; o Senhor é contigo: bendita tu entre as mulheres."
+            },
+            {
+                "id": "v1.29",
+                "versicle_number": 29,
+                "text": "E, vendo-o ela, turbou-se muito com aquelas palavras, e considerava que saudação seria esta."
+            },
+            {
+                "id": "v1.30",
+                "versicle_number": 30,
+                "text": "Disse-lhe então o anjo: Maria, não temas, porque achaste graça diante de Deus;"
+            },
+            {
+                "id": "v1.31",
+                "versicle_number": 31,
+                "text": "E eis que em teu ventre conceberás e darás à luz um filho, e pôr-lhe-ás o nome de Jesus.{note:6}"
+            },
+            {
+                "id": "v1.32",
+                "versicle_number": 32,
+                "text": "Este será grande, e será chamado filho do Altíssimo; e o Senhor Deus lhe dará o trono de Davi, seu pai;"
+            },
+            {
+                "id": "v1.33",
+                "versicle_number": 33,
+                "text": "E reinará eternamente na casa de Jacó, e o seu reino não terá fim.{note:7}"
+            },
+            {
+                "id": "v1.34",
+                "versicle_number": 34,
+                "text": "E disse Maria ao anjo: Como se fará isto, visto que não conheço varão?"
+            },
+            {
+                "id": "v1.35",
+                "versicle_number": 35,
+                "text": "E, respondendo o anjo, disse-lhe: Descerá sobre ti o Espírito Santo, e a virtude do Altíssimo te cobrirá com a sua sombra; pelo que também o Santo, que de ti há de nascer, será chamado Filho de Deus."
+            },
+            {
+                "id": "v1.36",
+                "versicle_number": 36,
+                "text": "E eis que também Isabel, tua prima, concebeu um filho em sua velhice; e é este o sexto mês para aquela que era chamada estéril;"
+            },
+            {
+                "id": "v1.37",
+                "versicle_number": 37,
+                "text": "Porque para Deus nada é impossível.{note:8}"
+            },
+            {
+                "id": "v1.38",
+                "versicle_number": 38,
+                "text": "Disse então Maria: Eis aqui a serva do Senhor; cumpra-se em mim segundo a tua palavra. E o anjo ausentou-se dela."
+            },
+            {
+                "id": "v1.39",
+                "versicle_number": 39,
+                "text": "E naqueles dias, levantando-se Maria, foi apressada às montanhas, a uma cidade de Judá,"
+            },
+            {
+                "id": "v1.40",
+                "versicle_number": 40,
+                "text": "E entrou em casa de Zacarias, e saudou a Isabel."
+            },
+            {
+                "id": "v1.41",
+                "versicle_number": 41,
+                "text": "E aconteceu que, ao ouvir Isabel a saudação de Maria, a criancinha saltou no seu ventre; e Isabel foi cheia do Espírito Santo;"
+            },
+            {
+                "id": "v1.42",
+                "versicle_number": 42,
+                "text": "E exclamou com grande voz, e disse: Bendita tu entre as mulheres, e bendito o fruto do teu ventre."
+            },
+            {
+                "id": "v1.43",
+                "versicle_number": 43,
+                "text": "E donde me provém isto a mim, que venha visitar-me a mãe do meu Senhor?"
+            },
+            {
+                "id": "v1.44",
+                "versicle_number": 44,
+                "text": "Pois eis que, ao chegar aos meus ouvidos a voz da tua saudação, a criancinha saltou de alegria no meu ventre."
+            },
+            {
+                "id": "v1.45",
+                "versicle_number": 45,
+                "text": "Bem-aventurada a que creu, pois hão de cumprir-se as coisas que da parte do Senhor lhe foram ditas."
+            },
+            {
+                "id": "v1.46",
+                "versicle_number": 46,
+                "text": "Disse então Maria: A minha alma engrandece ao Senhor,"
+            },
+            {
+                "id": "v1.47",
+                "versicle_number": 47,
+                "text": "E o meu espírito se alegra em Deus meu Salvador;"
+            },
+            {
+                "id": "v1.48",
+                "versicle_number": 48,
+                "text": "Porque atentou na baixeza de sua serva; pois eis que desde agora todas as gerações me chamarão bem-aventurada:"
+            },
+            {
+                "id": "v1.49",
+                "versicle_number": 49,
+                "text": "Porque me fez grandes coisas o Poderoso; e santo é o seu nome."
+            },
+            {
+                "id": "v1.50",
+                "versicle_number": 50,
+                "text": "E a sua misericórdia é de geração em geração sobre os que o temem."
+            },
+            {
+                "id": "v1.51",
+                "versicle_number": 51,
+                "text": "Com o seu braço obrou valorosamente; dissipou os soberbos no pensamento de seus corações."
+            },
+            {
+                "id": "v1.52",
+                "versicle_number": 52,
+                "text": "Depôs dos tronos os poderosos, e elevou os humildes."
+            },
+            {
+                "id": "v1.53",
+                "versicle_number": 53,
+                "text": "Encheu de bens os famintos, e despediu vazios os ricos."
+            },
+            {
+                "id": "v1.54",
+                "versicle_number": 54,
+                "text": "Auxiliou a Israel seu servo, recordando-se da sua misericórdia,"
+            },
+            {
+                "id": "v1.55",
+                "versicle_number": 55,
+                "text": "(Como falou a nossos pais) para com Abraão{note:9} e sua posteridade, para sempre."
+            },
+            {
+                "id": "v1.56",
+                "versicle_number": 56,
+                "text": "E Maria ficou com ela quase três meses, e depois voltou para sua casa.{note:10}"
+            },
+            {
+                "id": "v1.57",
+                "versicle_number": 57,
+                "text": "E completou-se para Isabel o tempo de dar à luz e teve um filho."
+            },
+            {
+                "id": "v1.58",
+                "versicle_number": 58,
+                "text": "E os seus vizinhos e parentes ouviram que tinha Deus usado para com ela de grande misericórdia, e alegraram-se com ela."
+            },
+            {
+                "id": "v1.59",
+                "versicle_number": 59,
+                "text": "E aconteceu que, ao oitavo dia,{note:11} vieram circuncidar o menino, e lhe chamavam Zacarias, o nome de seu pai."
+            },
+            {
+                "id": "v1.60",
+                "versicle_number": 60,
+                "text": "E, respondendo sua mãe, disse: Não, porém será chamado João."
+            },
+            {
+                "id": "v1.61",
+                "versicle_number": 61,
+                "text": "E disseram-lhe: Ninguém há na tua parentela que se chame por este nome."
+            },
+            {
+                "id": "v1.62",
+                "versicle_number": 62,
+                "text": "E perguntaram por acenos ao pai como queria que lhe chamassem."
+            },
+            {
+                "id": "v1.63",
+                "versicle_number": 63,
+                "text": "E, pedindo ele uma tabuinha de escrever, escreveu, dizendo: O seu nome é João. E todos se maravilharam."
+            },
+            {
+                "id": "v1.64",
+                "versicle_number": 64,
+                "text": "E logo a boca se lhe abriu, e a língua se lhe soltou; e falava, louvando a Deus."
+            },
+            {
+                "id": "v1.65",
+                "versicle_number": 65,
+                "text": "E veio temor sobre todos os seus vizinhos, e em todas as montanhas da Judeia foram divulgadas todas estas coisas."
+            },
+            {
+                "id": "v1.66",
+                "versicle_number": 66,
+                "text": "E todos os que as ouviam as conservavam em seus corações, dizendo: Quem será pois este menino? E a mão do Senhor estava com ele."
+            },
+            {
+                "id": "v1.67",
+                "versicle_number": 67,
+                "text": "E Zacarias, seu pai, foi cheio do Espírito Santo, e profetizou, dizendo:"
+            },
+            {
+                "id": "v1.68",
+                "versicle_number": 68,
+                "text": "Bendito o Senhor Deus d'Israel, porque visitou e remiu o seu povo."
+            },
+            {
+                "id": "v1.69",
+                "versicle_number": 69,
+                "text": "E nos levantou {note:d}uma salvação poderosa na casa de Davi seu servo."
+            },
+            {
+                "id": "v1.70",
+                "versicle_number": 70,
+                "text": "Como falou pela boca dos seus santos profetas, desde o princípio do mundo;"
+            },
+            {
+                "id": "v1.71",
+                "versicle_number": 71,
+                "text": "Para nos livrar dos nossos inimigos e da mão de todos os que nos aborrecem;"
+            },
+            {
+                "id": "v1.72",
+                "versicle_number": 72,
+                "text": "Para manifestar misericórdia a nossos pais, e lembrar-se do seu santo concerto,"
+            },
+            {
+                "id": "v1.73",
+                "versicle_number": 73,
+                "text": "E do juramento que jurou a Abraão nosso pai,"
+            },
+            {
+                "id": "v1.74",
+                "versicle_number": 74,
+                "text": "De conceder-nos que, libertados da mão de nossos inimigos, o serviríamos sem temor,"
+            },
+            {
+                "id": "v1.75",
+                "versicle_number": 75,
+                "text": "Em santidade e justiça perante ele, todos os dias da nossa vida."
+            },
+            {
+                "id": "v1.76",
+                "versicle_number": 76,
+                "text": "E tu, ó menino, serás chamado profeta do Altíssimo, porque hás de ir ante a face do Senhor, a preparar os seus caminhos;{note:12}"
+            },
+            {
+                "id": "v1.77",
+                "versicle_number": 77,
+                "text": "Para dar ao seu povo conhecimento da salvação, na remissão dos seus pecados;"
+            },
+            {
+                "id": "v1.78",
+                "versicle_number": 78,
+                "text": "Pelas entranhas da misericórdia do nosso Deus, com que o Oriente do alto nos visitou;"
+            },
+            {
+                "id": "v1.79",
+                "versicle_number": 79,
+                "text": "Para alumiar{note:13} aos que estão assentados em trevas e sombra de morte; a fim de dirigir os nossos pés pelo caminho da paz."
+            },
+            {
+                "id": "v1.80",
+                "versicle_number": 80,
+                "text": "E o menino crescia, e se robustecia em espírito. E esteve nos desertos até ao dia em que havia de mostrar-se a Israel."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v1.5",
+                "text": "Anúncio do nascimento de João"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v1.26",
+                "text": "Anúncio do nascimento de Jesus"
+            },
+            {
+                "id": "s3",
+                "next_versicle_id": "v1.39",
+                "text": "Maria visita Isabel"
+            },
+            {
+                "id": "s4",
+                "next_versicle_id": "v1.46",
+                "text": "O cântico de Maria"
+            },
+            {
+                "id": "s5",
+                "next_versicle_id": "v1.57",
+                "text": "O nascimento de João Batista"
+            },
+            {
+                "id": "s6",
+                "next_versicle_id": "v1.67",
+                "text": "O cântico de Zacarias"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 1.5 1Cr 24.10 {note:a} 1.5 Heb. Elizabeth"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 1.15 Nm 6.3 {note:b} 1.15 Gr. sikera"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 1.17 Ml 4.5-6"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 1.19 Dn 8.16; 9.21"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 1.27 Mt 1.18"
+            },
+            {
+                "id": "n6",
+                "text": "{note:c} 1.28 Eu te saúdo, muito favorecida"
+            },
+            {
+                "id": "n7",
+                "text": "{note:6} 1.31 Mt 1.21"
+            },
+            {
+                "id": "n8",
+                "text": "{note:7} 1.32-33 Is 9.7"
+            },
+            {
+                "id": "n9",
+                "text": "{note:8} 1.37 Gn 18.14"
+            },
+            {
+                "id": "n10",
+                "text": "{note:9} 1.55 Gn 17.7"
+            },
+            {
+                "id": "n11",
+                "text": "{note:10} 1.46-56 1Sm 2.1-10"
+            },
+            {
+                "id": "n12",
+                "text": "{note:11} 1.59 Lv 12.3"
+            },
+            {
+                "id": "n13",
+                "text": "{note:d} 1.69 Gr. um chifre da salvação"
+            },
+            {
+                "id": "n14",
+                "text": "{note:12} 1.76 Ml 3.1"
+            },
+            {
+                "id": "n15",
+                "text": "{note:13} 1.79 Is 9.2"
+            }
+        ]
+    }
+}

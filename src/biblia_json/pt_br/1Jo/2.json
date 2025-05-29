@@ -1,0 +1,179 @@
+{
+    "book": {
+        "id": "1Jo",
+        "book_number": 62,
+        "new_testament": true,
+        "num_chapters": 5,
+        "book_name": "JOÃO",
+        "book_full_name": "PRIMEIRA EPÍSTOLA UNIVERSAL DO APÓSTOLO JOÃO"
+    },
+    "chapter": {
+        "chapter_number": 2,
+        "chapter_reference": "",
+        "chapter_title": "A observação dos mandamentos. O amor fraternal. A separação do mundo",
+        "versicles": [
+            {
+                "id": "v2.1",
+                "versicle_number": 1,
+                "text": "MEUS filhinhos, estas coisas vos escrevo, para que não pequeis: e, se alguém pecar, temos um {note:a}Advogado para com o Pai, Jesus Cristo, o justo."
+            },
+            {
+                "id": "v2.2",
+                "versicle_number": 2,
+                "text": "E ele é a propiciação pelos nossos pecados, e não somente pelos nossos, mas também pelos de todo o mundo."
+            },
+            {
+                "id": "v2.3",
+                "versicle_number": 3,
+                "text": "E nisto sabemos que o conhecemos: se guardarmos os seus mandamentos."
+            },
+            {
+                "id": "v2.4",
+                "versicle_number": 4,
+                "text": "Aquele que diz: Eu conheço-o, e não guarda os seus mandamentos, é mentiroso, e nele não está a verdade."
+            },
+            {
+                "id": "v2.5",
+                "versicle_number": 5,
+                "text": "Mas qualquer que guarda a sua palavra, o amor de Deus está nele verdadeiramente aperfeiçoado: nisto conhecemos que estamos nele."
+            },
+            {
+                "id": "v2.6",
+                "versicle_number": 6,
+                "text": "Aquele que diz que está nele, também deve andar como ele andou."
+            },
+            {
+                "id": "v2.7",
+                "versicle_number": 7,
+                "text": "Irmãos, não vos escrevo mandamento novo,{note:1} mas o mandamento antigo, que desde o princípio tivestes. Este mandamento antigo é a palavra que desde o princípio ouvistes."
+            },
+            {
+                "id": "v2.8",
+                "versicle_number": 8,
+                "text": "Outra vez vos escrevo um mandamento novo, que é verdadeiro nele e em vós; porque vão passando as trevas, e já a verdadeira luz alumia."
+            },
+            {
+                "id": "v2.9",
+                "versicle_number": 9,
+                "text": "Aquele que diz que está na luz, e aborrece a seu irmão, até agora está em trevas."
+            },
+            {
+                "id": "v2.10",
+                "versicle_number": 10,
+                "text": "Aquele que ama a seu irmão está na luz, e nele não há escândalo."
+            },
+            {
+                "id": "v2.11",
+                "versicle_number": 11,
+                "text": "Mas aquele que aborrece a seu irmão está em trevas, e anda em trevas, e não sabe para onde deva ir; porque as trevas lhe cegaram os olhos."
+            },
+            {
+                "id": "v2.12",
+                "versicle_number": 12,
+                "text": "Filhinhos, escrevo-vos, porque pelo seu nome vos são perdoados os pecados."
+            },
+            {
+                "id": "v2.13",
+                "versicle_number": 13,
+                "text": "Pais, escrevo-vos, porque conhecestes aquele que é desde o princípio. Mancebos, escrevo-vos, porque vencestes o maligno. Eu vos escrevi, filhos, porque conhecestes o Pai."
+            },
+            {
+                "id": "v2.14",
+                "versicle_number": 14,
+                "text": "Eu vos escrevi, pais, porque já conhecestes aquele que é desde o princípio. Eu vos escrevi, mancebos, porque sois fortes, e a palavra de Deus está em vós, e já vencestes o maligno."
+            },
+            {
+                "id": "v2.15",
+                "versicle_number": 15,
+                "text": "Não ameis o mundo, nem o que no mundo há. Se alguém ama o mundo, o amor do Pai não está nele."
+            },
+            {
+                "id": "v2.16",
+                "versicle_number": 16,
+                "text": "Porque tudo o que há no mundo, a concupiscência da carne, a concupiscência dos olhos e a soberba da vida, não é do Pai, mas do mundo."
+            },
+            {
+                "id": "v2.17",
+                "versicle_number": 17,
+                "text": "E o mundo passa, e a sua concupiscência; mas aquele que faz a vontade de Deus permanece para sempre."
+            },
+            {
+                "id": "v2.18",
+                "versicle_number": 18,
+                "text": "Filhinhos, é já a última hora: e, como ouvistes que vem o anticristo, também agora muitos se têm feito anticristos: por onde conhecemos que é já a última hora."
+            },
+            {
+                "id": "v2.19",
+                "versicle_number": 19,
+                "text": "Saíram de nós, mas não eram de nós; porque, se fossem de nós, ficariam conosco: mas isto é para que se manifestasse que não são todos de nós."
+            },
+            {
+                "id": "v2.20",
+                "versicle_number": 20,
+                "text": "E vós tendes a unção do Santo, e sabeis tudo."
+            },
+            {
+                "id": "v2.21",
+                "versicle_number": 21,
+                "text": "Não vos escrevi porque não soubésseis a verdade, mas porque a sabeis, e porque nenhuma mentira vem da verdade."
+            },
+            {
+                "id": "v2.22",
+                "versicle_number": 22,
+                "text": "Quem é o mentiroso, senão aquele que nega que Jesus é o Cristo? É o anticristo esse mesmo que nega o Pai e o Filho."
+            },
+            {
+                "id": "v2.23",
+                "versicle_number": 23,
+                "text": "Qualquer que nega o Filho, também não tem o Pai; e aquele que confessa o Filho, tem também o Pai."
+            },
+            {
+                "id": "v2.24",
+                "versicle_number": 24,
+                "text": "Portanto, o que desde o princípio ouvistes permaneça em vós. Se em vós permanecer o que desde o princípio ouvistes, também permanecereis no Filho e no Pai."
+            },
+            {
+                "id": "v2.25",
+                "versicle_number": 25,
+                "text": "E esta é a promessa que ele nos fez: a vida eterna."
+            },
+            {
+                "id": "v2.26",
+                "versicle_number": 26,
+                "text": "Estas coisas vos escrevi acerca dos que vos enganam."
+            },
+            {
+                "id": "v2.27",
+                "versicle_number": 27,
+                "text": "E a unção, que vós recebestes dele, fica em vós, e não tendes necessidade de que alguém vos ensine; mas, como a sua unção vos ensina todas as coisas, e é verdadeira, e não é mentira, como ela vos ensinou, assim nele permanecereis."
+            },
+            {
+                "id": "v2.28",
+                "versicle_number": 28,
+                "text": "E agora, filhinhos, permanecei nele; para que, quando ele se manifestar tenhamos confiança, e não sejamos confundidos por ele na sua vinda."
+            },
+            {
+                "id": "v2.29",
+                "versicle_number": 29,
+                "text": "Se sabeis que ele é justo, sabeis que todo aquele que pratica a justiça é nascido dele."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v2.18",
+                "text": "Os anticristos"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:a} 2.1 ou Consolador Gr. Paracleto"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 2.7 Jo 13.34"
+            }
+        ]
+    }
+}

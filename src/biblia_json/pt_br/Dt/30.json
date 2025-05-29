@@ -1,0 +1,134 @@
+{
+    "book": {
+        "id": "Dt",
+        "book_number": 5,
+        "new_testament": false,
+        "num_chapters": 34,
+        "book_name": "DEUTERONÔMIO",
+        "book_full_name": "O QUINTO LIVRO DE MOISÉS DEUTERONÔMIO"
+    },
+    "chapter": {
+        "chapter_number": 30,
+        "chapter_reference": "",
+        "chapter_title": "A misericórdia de Deus para com os que se arrependem",
+        "versicles": [
+            {
+                "id": "v30.1",
+                "versicle_number": 1,
+                "text": "E SERÁ que sobrevindo-te todas estas cousas, a bênção ou a maldição, que tenho posto diante de ti, e te recordares delas entre todas as nações, para onde te lançar o Senhor teu Deus;"
+            },
+            {
+                "id": "v30.2",
+                "versicle_number": 2,
+                "text": "E te converteres ao Senhor teu Deus, e deres ouvidos à sua voz conforme a tudo o que eu te ordeno hoje, tu e teus filhos, com todo o teu coração, e com toda a tua alma;"
+            },
+            {
+                "id": "v30.3",
+                "versicle_number": 3,
+                "text": "Então o Senhor teu Deus te fará voltar do teu cativeiro, e se apiedará de ti; e tornará a ajuntar-te dentre todas as nações entre as quais te espalhou o Senhor teu Deus."
+            },
+            {
+                "id": "v30.4",
+                "versicle_number": 4,
+                "text": "Ainda que os teus desterrados estejam para a extremidade do céu, desde ali te ajuntará o Senhor teu Deus, e te tomará dali;"
+            },
+            {
+                "id": "v30.5",
+                "versicle_number": 5,
+                "text": "E o Senhor teu Deus te trará à terra que teus pais possuíram e a possuirás; e te fará bem, e te multiplicará mais do que a teus pais."
+            },
+            {
+                "id": "v30.6",
+                "versicle_number": 6,
+                "text": "E o Senhor teu Deus circuncidará o teu coração, e o coração de tua semente; para amares ao Senhor teu Deus com todo o coração, e com toda a tua alma, para que vivas."
+            },
+            {
+                "id": "v30.7",
+                "versicle_number": 7,
+                "text": "E o Senhor teu Deus porá todas estas maldições sobre os teus inimigos, e sobre os teus aborrecedores, que te perseguiram."
+            },
+            {
+                "id": "v30.8",
+                "versicle_number": 8,
+                "text": "Converter-te-ás pois, e darás ouvidos à voz do Senhor; farás todos os seus mandamentos que hoje te ordeno."
+            },
+            {
+                "id": "v30.9",
+                "versicle_number": 9,
+                "text": "E o Senhor teu Deus te fará abundar em toda a obra das tuas mãos, no fruto do teu ventre, e no fruto dos teus animais, e no fruto da tua terra para bem; porquanto o Senhor tornará a alegrar-se em ti para bem, como se alegrou em teus pais;"
+            },
+            {
+                "id": "v30.10",
+                "versicle_number": 10,
+                "text": "Quando deres ouvidos à voz do Senhor teu Deus, guardando os seus mandamentos e os seus estatutos, escritos neste livro da lei, quando te converteres ao Senhor teu Deus com todo o teu coração, e com toda a tua alma."
+            },
+            {
+                "id": "v30.11",
+                "versicle_number": 11,
+                "text": "Porque este mandamento, que hoje te ordeno, te não é encoberto, e tão pouco está longe de ti."
+            },
+            {
+                "id": "v30.12",
+                "versicle_number": 12,
+                "text": "Não está nos céus para dizeres: Quem subirá por nós aos céus, que no-lo traga, e no-lo faça ouvir, para que o façamos?"
+            },
+            {
+                "id": "v30.13",
+                "versicle_number": 13,
+                "text": "Nem tão pouco está dalém do mar, para dizeres: Quem passará por nós dalém do mar, para que no-lo traga, e no-lo faça ouvir, para que o façamos?"
+            },
+            {
+                "id": "v30.14",
+                "versicle_number": 14,
+                "text": "Porque esta palavra está mui perto de ti, na tua boca, e no teu coração, para a fazeres.{note:1}"
+            },
+            {
+                "id": "v30.15",
+                "versicle_number": 15,
+                "text": "Vês aqui, hoje te tenho proposto a vida e o bem, e a morte e o mal;"
+            },
+            {
+                "id": "v30.16",
+                "versicle_number": 16,
+                "text": "Porquanto te ordeno hoje que ames ao Senhor teu Deus, que andes nos seus caminhos, e que guardes os seus mandamentos, e os seus estatutos, e os seus juízos, para que vivas, e te multipliques, e o Senhor teu Deus te abençoe na terra a qual entras a possuir."
+            },
+            {
+                "id": "v30.17",
+                "versicle_number": 17,
+                "text": "Porém se o teu coração se desviar, e não quiseres dar ouvidos, e fores seduzido para te inclinares a outros deuses, e os servires,"
+            },
+            {
+                "id": "v30.18",
+                "versicle_number": 18,
+                "text": "Então eu vos denuncio hoje que, certamente, perecereis: não prolongareis os dias na terra a que vais, passando o Jordão, para que, entrando nela, a possuas;"
+            },
+            {
+                "id": "v30.19",
+                "versicle_number": 19,
+                "text": "Os céus e a terra tomo hoje por testemunhas contra vós, que te tenho proposto a vida e a morte, a bênção e a maldição: escolhe pois a vida, para que vivas, tu e a tua semente,"
+            },
+            {
+                "id": "v30.20",
+                "versicle_number": 20,
+                "text": "Amando ao Senhor teu Deus, dando ouvidos à sua voz, e te achegando a ele: pois ele é a tua vida, e a longura dos teus dias; para que fiques na terra que o Senhor jurou a teus pais, a Abraão,{note:2} a Isaque,{note:3} e a Jacó,{note:4} que lhes havia de dar."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v30.11",
+                "text": "A lei do Senhor é bem patente"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 30.12-14 Rm 10.6-8"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 30.20 Gn 12.7 {note:4} 30.20 Gn 28.13 {note:3} 30.20 Gn 26.3"
+            }
+        ]
+    }
+}

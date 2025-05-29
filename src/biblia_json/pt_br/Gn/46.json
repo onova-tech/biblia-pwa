@@ -1,0 +1,212 @@
+{
+    "book": {
+        "id": "Gn",
+        "book_number": 1,
+        "new_testament": false,
+        "num_chapters": 50,
+        "book_name": "GÊNESIS",
+        "book_full_name": "O PRIMEIRO LIVRO DE MOISÉS GÊNESIS"
+    },
+    "chapter": {
+        "chapter_number": 46,
+        "chapter_reference": "",
+        "chapter_title": "Jacó e toda a sua família descem ao Egito",
+        "versicles": [
+            {
+                "id": "v46.1",
+                "versicle_number": 1,
+                "text": "E PARTIU Israel com tudo quanto tinha, e veio a Berseba, e ofereceu sacrifícios ao Deus de seu pai Isaque."
+            },
+            {
+                "id": "v46.2",
+                "versicle_number": 2,
+                "text": "E falou Deus a Israel em visões de noite, e disse: Jacó, Jacó! E ele disse: Eis-me aqui."
+            },
+            {
+                "id": "v46.3",
+                "versicle_number": 3,
+                "text": "E disse: Eu sou Deus, o Deus de teu pai; não temas descer ao Egito, porque eu te farei ali uma grande nação."
+            },
+            {
+                "id": "v46.4",
+                "versicle_number": 4,
+                "text": "E descerei contigo ao Egito, e certamente te farei tornar a subir, e José porá a sua mão sobre os teus olhos."
+            },
+            {
+                "id": "v46.5",
+                "versicle_number": 5,
+                "text": "Então levantou-se Jacó de Berseba, e os filhos de Israel levaram a seu pai Jacó, e seus meninos, e as suas mulheres, nos carros que Faraó enviara para o levar."
+            },
+            {
+                "id": "v46.6",
+                "versicle_number": 6,
+                "text": "E tomaram o seu gado e a sua fazenda que tinham adquirido na terra de Canaã, e vieram ao Egito,{note:1} Jacó e toda a sua semente com ele,"
+            },
+            {
+                "id": "v46.7",
+                "versicle_number": 7,
+                "text": "Os seus filhos, e os filhos de seus filhos com ele, as suas filhas, e as filhas de seus filhos, e toda a sua semente levou consigo ao Egito."
+            },
+            {
+                "id": "v46.8",
+                "versicle_number": 8,
+                "text": "E estes são os nomes dos filhos de Israel, que vieram ao Egito, Jacó e seus filhos: Rúben, o primogênito de Jacó,"
+            },
+            {
+                "id": "v46.9",
+                "versicle_number": 9,
+                "text": "E os filhos de Rúben: Enoque, e Palu, e Hezrom, e Carmi."
+            },
+            {
+                "id": "v46.10",
+                "versicle_number": 10,
+                "text": "E os filhos de Simeão: Jemuel, e Jamim, e Oade, e Jaquim, e Zoar, e Saul, filho de uma mulher cananeia."
+            },
+            {
+                "id": "v46.11",
+                "versicle_number": 11,
+                "text": "E os filhos de Levi: Gérson, Coate, e Merari."
+            },
+            {
+                "id": "v46.12",
+                "versicle_number": 12,
+                "text": "E os filhos de Judá: Er, e Onã, e Selá, e Perez, e Zerá. Er e Onã, porém, morreram na terra de Canaã; e os filhos de Perez foram Hezrom e Hamul."
+            },
+            {
+                "id": "v46.13",
+                "versicle_number": 13,
+                "text": "E os filhos de Issacar: Tola, e Pua, e Jó, e Sinrom."
+            },
+            {
+                "id": "v46.14",
+                "versicle_number": 14,
+                "text": "E os filhos de Zebulom: Serede, e Elom, e Jaleel."
+            },
+            {
+                "id": "v46.15",
+                "versicle_number": 15,
+                "text": "Estes são os filhos de Leia, que deu a Jacó em Padã-Arã, com Diná, sua filha; todas as almas de seus filhos e de suas filhas foram trinta e três."
+            },
+            {
+                "id": "v46.16",
+                "versicle_number": 16,
+                "text": "E os filhos de Gade: Zifiom, e Hagi, Suni, e Esbom, Eri, e Arodi, e Areli."
+            },
+            {
+                "id": "v46.17",
+                "versicle_number": 17,
+                "text": "E os filhos de Aser: Imna, e Isvá, e Isvi, e Beria e Será, a irmã deles; e os filhos de Beria: Héber e Malquiel."
+            },
+            {
+                "id": "v46.18",
+                "versicle_number": 18,
+                "text": "Estes são os filhos de Zilpa, a qual Labão deu à sua filha Leia, e que deu a Jacó estas dezesseis almas."
+            },
+            {
+                "id": "v46.19",
+                "versicle_number": 19,
+                "text": "Os filhos de Raquel, mulher de Jacó: José e Benjamim."
+            },
+            {
+                "id": "v46.20",
+                "versicle_number": 20,
+                "text": "E nasceram a José na terra do Egito Manassés e Efraim,{note:2} que lhe deu Asenate, filha de Potífera, sacerdote de On."
+            },
+            {
+                "id": "v46.21",
+                "versicle_number": 21,
+                "text": "E os filhos de Benjamim: Bela, Bequer e Asbel, Gera, e Naamã, Eí e Rôs, Mupim, e Hupim, e Arde."
+            },
+            {
+                "id": "v46.22",
+                "versicle_number": 22,
+                "text": "Estes são os filhos de Raquel, que nasceram a Jacó, ao todo quatorze almas."
+            },
+            {
+                "id": "v46.23",
+                "versicle_number": 23,
+                "text": "E os filhos de Dã: Husim."
+            },
+            {
+                "id": "v46.24",
+                "versicle_number": 24,
+                "text": "E os filhos de Naftali: Jazeel, e Guni, e Jezer, e Silém."
+            },
+            {
+                "id": "v46.25",
+                "versicle_number": 25,
+                "text": "Estes são os filhos de Bilha, a qual Labão deu à sua filha Raquel, e que deu estes a Jacó; todas as almas foram sete."
+            },
+            {
+                "id": "v46.26",
+                "versicle_number": 26,
+                "text": "Todas as almas que vieram com Jacó ao Egito, que saíram da sua coxa, fora as mulheres dos filhos de Jacó, todas foram sessenta e seis almas."
+            },
+            {
+                "id": "v46.27",
+                "versicle_number": 27,
+                "text": "E os filhos de José, que lhe nasceram no Egito, eram duas almas. Todas as almas da casa de Jacó, que vieram ao Egito, foram setenta.{note:3}"
+            },
+            {
+                "id": "v46.28",
+                "versicle_number": 28,
+                "text": "E Jacó enviou Judá diante da sua face a José, para o encaminhar a Gósen; e chegaram à terra de Gósen."
+            },
+            {
+                "id": "v46.29",
+                "versicle_number": 29,
+                "text": "Então José aprontou o seu carro, e subiu ao encontro de Israel, seu pai, a Gósen. E, mostrando-se-lhe, lançou-se ao seu pescoço, e chorou sobre o seu pescoço longo tempo."
+            },
+            {
+                "id": "v46.30",
+                "versicle_number": 30,
+                "text": "E Israel disse a José: Morra eu agora, pois já tenho visto o teu rosto, que ainda vives."
+            },
+            {
+                "id": "v46.31",
+                "versicle_number": 31,
+                "text": "Depois disse José a seus irmãos, e à casa de seu pai: Eu subirei, e anunciarei a Faraó, e lhe direi: Meus irmãos, e a casa de meu pai, que estavam na terra de Canaã, vieram a mim."
+            },
+            {
+                "id": "v46.32",
+                "versicle_number": 32,
+                "text": "E os varões são pastores de ovelhas, porque são homens de gado, e trouxeram consigo as suas ovelhas, e as suas vacas, e tudo o têm."
+            },
+            {
+                "id": "v46.33",
+                "versicle_number": 33,
+                "text": "Quando pois acontecer que Faraó vos chamar, e disser: Qual é o vosso {note:k}negócio?"
+            },
+            {
+                "id": "v46.34",
+                "versicle_number": 34,
+                "text": "Então direis: Teus servos foram homens de gado desde a nossa mocidade até agora, tanto nós como os nossos pais; para que habiteis na terra de Gósen; porque todo o pastor de ovelhas é abominação para os egípcios."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v46.28",
+                "text": "O encontro de José com seu pai"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 46.6 At 7.15"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 46.20 Gn 41.50-52"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 46.27 At 7.14"
+            },
+            {
+                "id": "n4",
+                "text": "{note:k} 46.33 ou ocupação"
+            }
+        ]
+    }
+}

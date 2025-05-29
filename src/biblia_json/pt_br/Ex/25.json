@@ -1,0 +1,252 @@
+{
+    "book": {
+        "id": "Ex",
+        "book_number": 2,
+        "new_testament": false,
+        "num_chapters": 40,
+        "book_name": "ÊXODO",
+        "book_full_name": "O SEGUNDO LIVRO DE MOISÉS ÊXODO"
+    },
+    "chapter": {
+        "chapter_number": 25,
+        "chapter_reference": "",
+        "chapter_title": "Deus manda o povo trazer ofertas para o tabernáculo",
+        "versicles": [
+            {
+                "id": "v25.1",
+                "versicle_number": 1,
+                "text": "ENTÃO falou o Senhor a Moisés, dizendo:"
+            },
+            {
+                "id": "v25.2",
+                "versicle_number": 2,
+                "text": "Fala aos filhos de Israel, que me tragam uma oferta alçada: de todo o homem cujo coração se mover voluntariamente, dele tomareis a minha oferta alçada."
+            },
+            {
+                "id": "v25.3",
+                "versicle_number": 3,
+                "text": "E esta é a oferta alçada que tomareis deles: ouro, e prata, e cobre,"
+            },
+            {
+                "id": "v25.4",
+                "versicle_number": 4,
+                "text": "E azul, e púrpura, e carmesim, e linho fino, e pelos de cabras,"
+            },
+            {
+                "id": "v25.5",
+                "versicle_number": 5,
+                "text": "E peles de carneiros tintas de vermelho, e peles de texugos, e madeira de {note:f}cetim,"
+            },
+            {
+                "id": "v25.6",
+                "versicle_number": 6,
+                "text": "Azeite para a luz, especiarias para o óleo da unção, e especiarias para o incenso,"
+            },
+            {
+                "id": "v25.7",
+                "versicle_number": 7,
+                "text": "Pedras sardônicas, e pedras de engaste para o éfode e para o peitoral."
+            },
+            {
+                "id": "v25.8",
+                "versicle_number": 8,
+                "text": "E me farão um santuário, e habitarei no meio deles."
+            },
+            {
+                "id": "v25.9",
+                "versicle_number": 9,
+                "text": "Conforme a tudo o que eu te mostrar para modelo do tabernáculo, e para modelo de todos os seus vasos, assim mesmo o fareis."
+            },
+            {
+                "id": "v25.10",
+                "versicle_number": 10,
+                "text": "Também farão uma arca de madeira de cetim: o seu comprimento será de dois côvados e meio, e a sua largura dum côvado e meio, e dum côvado e meio a sua altura."
+            },
+            {
+                "id": "v25.11",
+                "versicle_number": 11,
+                "text": "E cobri-la-ás de ouro puro, por dentro e por fora a cobrirás: e farás sobre ela uma coroa de ouro ao redor;"
+            },
+            {
+                "id": "v25.12",
+                "versicle_number": 12,
+                "text": "E fundirás para ela quatro argolas de ouro, e as porás nos quatro cantos dela: duas argolas num lado dela, e duas argolas noutro lado dela."
+            },
+            {
+                "id": "v25.13",
+                "versicle_number": 13,
+                "text": "E farás varas de madeira de cetim, e as cobrirás com ouro,"
+            },
+            {
+                "id": "v25.14",
+                "versicle_number": 14,
+                "text": "E meterás as varas nas argolas, aos lados da arca, para se levar com elas a arca."
+            },
+            {
+                "id": "v25.15",
+                "versicle_number": 15,
+                "text": "As varas estarão nas argolas da arca, não se tirarão dela."
+            },
+            {
+                "id": "v25.16",
+                "versicle_number": 16,
+                "text": "Depois porás na arca o testemunho, que eu te darei."
+            },
+            {
+                "id": "v25.17",
+                "versicle_number": 17,
+                "text": "Também farás um propiciatório, de ouro puro: o seu comprimento será de dois côvados e meio, e a sua largura dum côvado e meio."
+            },
+            {
+                "id": "v25.18",
+                "versicle_number": 18,
+                "text": "Farás também dois querubins de ouro: de ouro batido os farás, nas duas extremidades do propiciatório."
+            },
+            {
+                "id": "v25.19",
+                "versicle_number": 19,
+                "text": "Farás um querubim na extremidade duma parte, e o outro querubim na extremidade da outra parte: de uma só peça com o propiciatório fareis os querubins nas duas extremidades dele."
+            },
+            {
+                "id": "v25.20",
+                "versicle_number": 20,
+                "text": "Os querubins estenderão as suas asas por de cima, cobrindo com as suas asas o propiciatório; as faces deles uma defronte da outra: as faces dos querubins estarão voltadas para o propiciatório."
+            },
+            {
+                "id": "v25.21",
+                "versicle_number": 21,
+                "text": "E porás o propiciatório em cima da arca, depois que houveres posto na arca o testemunho que eu te darei."
+            },
+            {
+                "id": "v25.22",
+                "versicle_number": 22,
+                "text": "E ali virei a ti, e falarei contigo de cima do propiciatório, do meio dos dois querubins (que estão sobre a arca do testemunho), tudo o que eu te ordenar para os filhos de Israel."
+            },
+            {
+                "id": "v25.23",
+                "versicle_number": 23,
+                "text": "Também farás uma mesa de madeira de cetim; o seu comprimento será de dois côvados, e a sua largura dum côvado, e a sua altura de um côvado e meio,"
+            },
+            {
+                "id": "v25.24",
+                "versicle_number": 24,
+                "text": "E cobri-la-ás com ouro puro: também lhe farás uma coroa de ouro ao redor."
+            },
+            {
+                "id": "v25.25",
+                "versicle_number": 25,
+                "text": "Também lhe farás uma moldura ao redor, da largura duma mão, e lhe farás uma coroa de ouro ao redor da moldura."
+            },
+            {
+                "id": "v25.26",
+                "versicle_number": 26,
+                "text": "Também lhe farás quatro argolas de ouro; e porás as argolas aos quatro cantos, que estão nos seus quatro pés."
+            },
+            {
+                "id": "v25.27",
+                "versicle_number": 27,
+                "text": "Defronte da moldura estarão as argolas, como lugares para os varais, para se levar a mesa."
+            },
+            {
+                "id": "v25.28",
+                "versicle_number": 28,
+                "text": "Farás pois estes varais de madeira de cetim, e cobri-los-ás com ouro; e levar-se-á com eles a mesa."
+            },
+            {
+                "id": "v25.29",
+                "versicle_number": 29,
+                "text": "Também farás os seus pratos e as suas colheres, e as suas cobertas, e as suas tigelas {note:g}com que se hão de cobrir; de ouro puro os farás."
+            },
+            {
+                "id": "v25.30",
+                "versicle_number": 30,
+                "text": "E sobre a mesa porás{note:1} o pão da proposição perante a minha face continuamente."
+            },
+            {
+                "id": "v25.31",
+                "versicle_number": 31,
+                "text": "Também farás um castiçal de ouro puro; de ouro batido se fará este castiçal: o seu pé, as suas canas, as suas copas, as suas maçãs, e as suas flores serão do mesmo."
+            },
+            {
+                "id": "v25.32",
+                "versicle_number": 32,
+                "text": "E dos seus lados sairão seis canas: três canas do castiçal dum lado dele, e três canas do castiçal do outro lado dele."
+            },
+            {
+                "id": "v25.33",
+                "versicle_number": 33,
+                "text": "Numa cana haverá três copos a modo de amêndoas, uma maçã e uma flor; e três copos a modo de amêndoas na outra cana, uma maçã e uma flor: assim serão as seis canas que saem do castiçal."
+            },
+            {
+                "id": "v25.34",
+                "versicle_number": 34,
+                "text": "Mas no castiçal mesmo haverá quatro copos a modo de amêndoas, com suas maçãs e com suas flores;"
+            },
+            {
+                "id": "v25.35",
+                "versicle_number": 35,
+                "text": "E uma maçã debaixo de duas canas que saem dele; e ainda uma maçã debaixo de duas outras canas que saem dele; e ainda mais uma maçã debaixo de duas outras canas que saem dele; assim se fará com as seis canas que saem do castiçal."
+            },
+            {
+                "id": "v25.36",
+                "versicle_number": 36,
+                "text": "As suas maçãs e as suas canas serão do mesmo; tudo será duma só peça, obra batida de ouro puro."
+            },
+            {
+                "id": "v25.37",
+                "versicle_number": 37,
+                "text": "Também lhe farás sete lâmpadas, as quais se acenderão para alumiar defronte dele."
+            },
+            {
+                "id": "v25.38",
+                "versicle_number": 38,
+                "text": "Os seus espevitadores e os seus apagadores serão de ouro puro."
+            },
+            {
+                "id": "v25.39",
+                "versicle_number": 39,
+                "text": "Dum talento de ouro puro os farás, com todos estes vasos."
+            },
+            {
+                "id": "v25.40",
+                "versicle_number": 40,
+                "text": "Atenta pois que o faças conforme ao seu modelo,{note:2} que te foi mostrado no monte."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v25.10",
+                "text": "A arca de madeira de cetim"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v25.17",
+                "text": "O propiciatório de ouro puro"
+            },
+            {
+                "id": "s3",
+                "next_versicle_id": "v25.23",
+                "text": "A mesa de madeira de cetim"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:f} 25.5 ou acácia"
+            },
+            {
+                "id": "n2",
+                "text": "{note:g} 25.29 ou com que se hão de derramar os licores"
+            },
+            {
+                "id": "n3",
+                "text": "{note:1} 25.30 Lv 24.5-8"
+            },
+            {
+                "id": "n4",
+                "text": "{note:2} 25.40 At 7.44; Hb 8.5"
+            }
+        ]
+    }
+}

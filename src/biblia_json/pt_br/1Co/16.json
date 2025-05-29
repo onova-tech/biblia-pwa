@@ -1,0 +1,178 @@
+{
+    "book": {
+        "id": "1Co",
+        "book_number": 46,
+        "new_testament": true,
+        "num_chapters": 16,
+        "book_name": "CORÍNTIOS",
+        "book_full_name": "PRIMEIRA EPÍSTOLA DO APÓSTOLO PAULO AOS CORÍNTIOS"
+    },
+    "chapter": {
+        "chapter_number": 16,
+        "chapter_reference": "",
+        "chapter_title": "As coletas para os crentes de Jerusalém",
+        "versicles": [
+            {
+                "id": "v16.1",
+                "versicle_number": 1,
+                "text": "ORA, quanto à coleta que se faz para os santos, fazei vós também o mesmo que ordenei às igrejas da Galácia."
+            },
+            {
+                "id": "v16.2",
+                "versicle_number": 2,
+                "text": "No primeiro dia da semana cada um de vós ponha de parte o que puder ajuntar, conforme a sua prosperidade, para que se não façam as coletas quando eu chegar."
+            },
+            {
+                "id": "v16.3",
+                "versicle_number": 3,
+                "text": "E, quando tiver chegado, mandarei os que por cartas aprovardes, para levar a vossa dádiva a Jerusalém."
+            },
+            {
+                "id": "v16.4",
+                "versicle_number": 4,
+                "text": "E, se valer a pena que eu também vá, irão comigo.{note:1}"
+            },
+            {
+                "id": "v16.5",
+                "versicle_number": 5,
+                "text": "Irei, porém, ter convosco depois de ter passado pela Macedônia{note:2} (porque tenho de passar pela Macedônia)."
+            },
+            {
+                "id": "v16.6",
+                "versicle_number": 6,
+                "text": "E bem pode ser que fique convosco, e passe também o inverno, para que me acompanheis aonde quer que eu for."
+            },
+            {
+                "id": "v16.7",
+                "versicle_number": 7,
+                "text": "Porque não vos quero agora ver de passagem, mas espero ficar convosco algum tempo, se o Senhor o permitir."
+            },
+            {
+                "id": "v16.8",
+                "versicle_number": 8,
+                "text": "Ficarei, porém, em Éfeso até ao Pentecostes;{note:3}"
+            },
+            {
+                "id": "v16.9",
+                "versicle_number": 9,
+                "text": "Porque uma porta grande e eficaz se me abriu; e há muitos adversários.{note:4}"
+            },
+            {
+                "id": "v16.10",
+                "versicle_number": 10,
+                "text": "E, se for{note:5} Timóteo, vede que esteja sem temor convosco; porque trabalha na obra do Senhor, como eu também."
+            },
+            {
+                "id": "v16.11",
+                "versicle_number": 11,
+                "text": "Portanto ninguém o despreze, mas acompanhai-o em paz, para que venha ter comigo: pois o espero com os irmãos."
+            },
+            {
+                "id": "v16.12",
+                "versicle_number": 12,
+                "text": "E, acerca do irmão Apolo, roguei-lhe muito que fosse com os irmãos ter convosco, mas, na verdade, não teve vontade de ir agora; irá, porém, quando se lhe ofereça boa ocasião."
+            },
+            {
+                "id": "v16.13",
+                "versicle_number": 13,
+                "text": "Vigiai, estai firmes na fé: portai-vos varonilmente, e fortalecei-vos."
+            },
+            {
+                "id": "v16.14",
+                "versicle_number": 14,
+                "text": "Todas as vossas coisas sejam feitas com caridade."
+            },
+            {
+                "id": "v16.15",
+                "versicle_number": 15,
+                "text": "Agora vos rogo, irmãos, (sabeis que a família de Estéfanas{note:6} é as primícias da Acaia, e que se tem dedicado ao ministério dos santos)."
+            },
+            {
+                "id": "v16.16",
+                "versicle_number": 16,
+                "text": "Que também vos sujeiteis aos tais, e a todo aquele que auxilia na obra e trabalha."
+            },
+            {
+                "id": "v16.17",
+                "versicle_number": 17,
+                "text": "Folgo, porém, com a vinda de Estéfanas, e de Fortunato e de Acaico; porque estes supriram o que da vossa parte me faltava."
+            },
+            {
+                "id": "v16.18",
+                "versicle_number": 18,
+                "text": "Porque recrearam o meu espírito e o vosso. Reconhecei pois aos tais."
+            },
+            {
+                "id": "v16.19",
+                "versicle_number": 19,
+                "text": "As igrejas da Ásia vos saúdam. Saúdam-vos afetuosamente no Senhor Áquila e Prisca,{note:7} com a igreja que está em sua casa."
+            },
+            {
+                "id": "v16.20",
+                "versicle_number": 20,
+                "text": "Todos os irmãos vos saúdam. Saudai-vos uns aos outros com ósculo santo."
+            },
+            {
+                "id": "v16.21",
+                "versicle_number": 21,
+                "text": "Saudação da minha própria mão, de Paulo:"
+            },
+            {
+                "id": "v16.22",
+                "versicle_number": 22,
+                "text": "Se alguém não ama ao Senhor Jesus Cristo, seja anátema; {note:d}maranata."
+            },
+            {
+                "id": "v16.23",
+                "versicle_number": 23,
+                "text": "A graça do Senhor Jesus Cristo seja convosco."
+            },
+            {
+                "id": "v16.24",
+                "versicle_number": 24,
+                "text": "O meu amor seja com todos vós em Cristo Jesus. Amém."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v16.5",
+                "text": "Os projetos de Paulo: diversas recomendações e saudações"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 16.1-4 Rm 15.25-26"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 16.5 At 19.21"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 16.8 Lv 23.15-21; Dt 16.9-11"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 16.8-9 At 19.8-10"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 16.10 1Co 4.17"
+            },
+            {
+                "id": "n6",
+                "text": "{note:6} 16.15 1Co 1.16"
+            },
+            {
+                "id": "n7",
+                "text": "{note:7} 16.19 At 18.2"
+            },
+            {
+                "id": "n8",
+                "text": "{note:d} 16.22 que é o Senhor vem"
+            }
+        ]
+    }
+}

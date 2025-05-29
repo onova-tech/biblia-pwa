@@ -1,0 +1,116 @@
+{
+    "book": {
+        "id": "Os",
+        "book_number": 28,
+        "new_testament": false,
+        "num_chapters": 14,
+        "book_name": "OSEIAS",
+        "book_full_name": "OSEIAS"
+    },
+    "chapter": {
+        "chapter_number": 13,
+        "chapter_reference": "",
+        "chapter_title": "O pecado de Israel e o seu castigo",
+        "versicles": [
+            {
+                "id": "v13.1",
+                "versicle_number": 1,
+                "text": "QUANDO Efraim falava, tremia-se: foi exalçado em Israel; mas ele fez-se culpado em Baal, e morreu."
+            },
+            {
+                "id": "v13.2",
+                "versicle_number": 2,
+                "text": "E agora multiplicaram pecados, e da sua prata fizeram uma imagem de fundição, ídolos segundo o seu entendimento, todos obra de artífices, dos quais dizem: Os homens que sacrificam beijem os bezerros."
+            },
+            {
+                "id": "v13.3",
+                "versicle_number": 3,
+                "text": "Por isso serão como a nuvem de manhã, e como orvalho da madrugada, que cedo passa: como folhelho que a tempestade lança da eira, e como o fumo da chaminé."
+            },
+            {
+                "id": "v13.4",
+                "versicle_number": 4,
+                "text": "Todavia, eu sou o Senhor teu Deus desde a terra do Egito; portanto não reconhecerás outro deus além de mim, porque não há Salvador senão eu."
+            },
+            {
+                "id": "v13.5",
+                "versicle_number": 5,
+                "text": "Eu te conheci no deserto,{note:1} em terra muito seca."
+            },
+            {
+                "id": "v13.6",
+                "versicle_number": 6,
+                "text": "Depois eles se fartaram em proporção do seu pasto; estando fartos, ensoberbeceu-se o seu coração, por isso se esqueceram de mim."
+            },
+            {
+                "id": "v13.7",
+                "versicle_number": 7,
+                "text": "Serei pois para eles como leão; como leopardo espiarei no caminho."
+            },
+            {
+                "id": "v13.8",
+                "versicle_number": 8,
+                "text": "Como urso que tem perdido seus filhos, os encontrarei, lhes romperei as teias do seu coração; e ali os devorarei como leão; as feras do campo os despedaçarão."
+            },
+            {
+                "id": "v13.9",
+                "versicle_number": 9,
+                "text": "Para tua perda, ó Israel, te rebelaste contra mim, contra o teu ajudador."
+            },
+            {
+                "id": "v13.10",
+                "versicle_number": 10,
+                "text": "Onde está agora o teu rei, para que te guarde em todas as tuas cidades? e os teus juízes, dos quais disseste: Dá-me rei e príncipes?{note:2}"
+            },
+            {
+                "id": "v13.11",
+                "versicle_number": 11,
+                "text": "Dei-te um rei na minha ira, e to tirei no meu furor.{note:3}"
+            },
+            {
+                "id": "v13.12",
+                "versicle_number": 12,
+                "text": "A iniquidade de Efraim está atada, o seu pecado está armazenado."
+            },
+            {
+                "id": "v13.13",
+                "versicle_number": 13,
+                "text": "Dores de mulher de parto lhe virão: ele é um filho insensato: porque é tempo e não está no lugar em que deve vir à luz."
+            },
+            {
+                "id": "v13.14",
+                "versicle_number": 14,
+                "text": "Eu os remirei da violência do inferno, e os resgatarei da morte: onde estão, ó morte,{note:4} as tuas pragas? onde está, ó inferno, a tua perdição? o arrependimento será escondido de meus olhos."
+            },
+            {
+                "id": "v13.15",
+                "versicle_number": 15,
+                "text": "Ainda que ele dê fruto entre os irmãos, virá o vento leste, vento do Senhor, subindo do deserto, e secar-se-á a sua nascente, e secar-se-á a sua fonte: ele saqueará o tesouro de todos os vasos desejáveis."
+            },
+            {
+                "id": "v13.16",
+                "versicle_number": 16,
+                "text": "Samaria virá a ser deserta, porque se rebelou contra o seu Deus: cairão à espada, seus filhos serão despedaçados, e as suas mulheres grávidas serão abertas pelo meio."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 13.5 Dt 8.12-16"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 13.10 1Sm 8.5-6"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 13.11 1Sm 10.17-24; 15.26"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 13.14 1Co 15.55"
+            }
+        ]
+    }
+}

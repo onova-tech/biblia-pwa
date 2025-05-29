@@ -1,0 +1,161 @@
+{
+    "book": {
+        "id": "Ez",
+        "book_number": 26,
+        "new_testament": false,
+        "num_chapters": 48,
+        "book_name": "EZEQUIEL",
+        "book_full_name": "EZEQUIEL"
+    },
+    "chapter": {
+        "chapter_number": 45,
+        "chapter_reference": "",
+        "chapter_title": "A repartição da terra: o lugar santo",
+        "versicles": [
+            {
+                "id": "v45.1",
+                "versicle_number": 1,
+                "text": "QUANDO pois repartirdes a terra por sortes em herança, oferecereis uma oferta ao Senhor, um lugar santo da terra: o comprimento será de vinte e cinco mil canas, e a largura de dez mil: este será santo em todo o seu contorno ao redor."
+            },
+            {
+                "id": "v45.2",
+                "versicle_number": 2,
+                "text": "E será o santuário de quinhentas com mais quinhentas, em quadrado, e terá em redor um arrabalde de cinquenta côvados."
+            },
+            {
+                "id": "v45.3",
+                "versicle_number": 3,
+                "text": "E desta medida medirás um comprimento de vinte e cinco mil côvados, e uma largura de dez mil: e ali estará o santuário e o lugar santíssimo."
+            },
+            {
+                "id": "v45.4",
+                "versicle_number": 4,
+                "text": "Este será o lugar santo da terra; ele será para os sacerdotes, ministros do santuário, que dele se aproximam para servir ao Senhor; e lhes servirá de lugar para casas, e de lugar santo para o santuário."
+            },
+            {
+                "id": "v45.5",
+                "versicle_number": 5,
+                "text": "E terão os levitas, ministros da casa, por possessão sua, vinte e cinco mil medidas de comprimento, para vinte câmaras."
+            },
+            {
+                "id": "v45.6",
+                "versicle_number": 6,
+                "text": "E para possessão da cidade, de largura dareis cinco mil canas, e de comprimento vinte e cinco mil, {note:p}defronte da oferta santa: o que será para toda a casa de Israel."
+            },
+            {
+                "id": "v45.7",
+                "versicle_number": 7,
+                "text": "O príncipe porém terá a sua parte desta e da outra banda da santa oferta, e da possessão da cidade, diante da santa oferta, e diante da possessão da cidade, na esquina ocidental para o ocidente, e na esquina oriental para o oriente; e será o comprimento, defronte duma das partes, desde o termo ocidental até ao termo oriental."
+            },
+            {
+                "id": "v45.8",
+                "versicle_number": 8,
+                "text": "E esta terra será a sua possessão em Israel; e os meus príncipes nunca mais oprimirão o meu povo, antes deixarão a terra à casa de Israel, conforme as suas tribos."
+            },
+            {
+                "id": "v45.9",
+                "versicle_number": 9,
+                "text": "Assim diz o Senhor JEOVÁ: Basta já, ó príncipes de Israel; afastai a violência e a assolação, e praticai juízo e justiça: tirai as vossas imposições do meu povo, diz o Senhor JEOVÁ."
+            },
+            {
+                "id": "v45.10",
+                "versicle_number": 10,
+                "text": "Balanças justas,{note:1} e efa justo, e bato justo tereis."
+            },
+            {
+                "id": "v45.11",
+                "versicle_number": 11,
+                "text": "O efa e o bato serão duma mesma medida, de maneira que o bato contenha a décima parte do ômer, e o efa a décima parte do ômer; conforme o ômer será a sua medida."
+            },
+            {
+                "id": "v45.12",
+                "versicle_number": 12,
+                "text": "E o siclo será de vinte geras: vinte siclos, vinte e cinco siclos, e quinze siclos vos servirão dum arrátel."
+            },
+            {
+                "id": "v45.13",
+                "versicle_number": 13,
+                "text": "Esta será a oferta que haveis de fazer: a sexta parte dum efa de cada ômer de trigo; também dareis a sexta parte dum efa de cada ômer de cevada."
+            },
+            {
+                "id": "v45.14",
+                "versicle_number": 14,
+                "text": "Quanto ao estatuto do azeite, de cada bato de azeite oferecereis a décima parte do bato tirado dum coro, que é um ômer de dez batos; porque dez batos fazem um ômer."
+            },
+            {
+                "id": "v45.15",
+                "versicle_number": 15,
+                "text": "E um cordeiro do rebanho, de cada duzentos, da mais regada terra de Israel, para oferta de manjares, e para holocausto, e para sacrifício pacífico; para que façam expiação por eles, diz o Senhor JEOVÁ."
+            },
+            {
+                "id": "v45.16",
+                "versicle_number": 16,
+                "text": "Todo o povo da terra concorrerá para esta oferta, pelo príncipe de Israel."
+            },
+            {
+                "id": "v45.17",
+                "versicle_number": 17,
+                "text": "E estarão a cargo do príncipe os holocaustos, e as ofertas de manjares, e as libações, nas festas, e nas luas novas, e nos sábados, em todas as solenidades da casa de Israel: ele fará a expiação pelo pecado, e a oferta de manjares, e o holocausto, e os sacrifícios pacíficos, para fazer expiação pela casa de Israel."
+            },
+            {
+                "id": "v45.18",
+                "versicle_number": 18,
+                "text": "Assim diz o Senhor JEOVÁ: No primeiro mês, no primeiro dia do mês, tomarás um bezerro sem mancha, e purificarás o santuário."
+            },
+            {
+                "id": "v45.19",
+                "versicle_number": 19,
+                "text": "E o sacerdote tomará do sangue do sacrifício pela expiação, e porá dele nas ombreiras da casa, e nas quatro esquinas da listra do altar, e nas ombreiras da porta do átrio interior."
+            },
+            {
+                "id": "v45.20",
+                "versicle_number": 20,
+                "text": "Assim também farás no sétimo dia do mês, por causa dos que erram, e por causa dos símplices: assim expiareis a casa."
+            },
+            {
+                "id": "v45.21",
+                "versicle_number": 21,
+                "text": "No primeiro mês, no dia catorze do mês, tereis a páscoa,{note:2} uma festa de sete dias; pão asmo se comerá."
+            },
+            {
+                "id": "v45.22",
+                "versicle_number": 22,
+                "text": "E o príncipe no mesmo dia, por si e por todo o povo da terra, preparará um bezerro de expiação pelo pecado."
+            },
+            {
+                "id": "v45.23",
+                "versicle_number": 23,
+                "text": "E nos sete dias da festa preparará um holocausto ao Senhor, de sete bezerros e sete carneiros sem mancha, cada dia durante os sete dias; e o sacrifício de expiação dum bode cada dia."
+            },
+            {
+                "id": "v45.24",
+                "versicle_number": 24,
+                "text": "Também preparará uma oferta de manjares: um efa por cada bezerro, e um efa por cada carneiro, e um him de azeite por cada efa."
+            },
+            {
+                "id": "v45.25",
+                "versicle_number": 25,
+                "text": "No sétimo mês,{note:3} no dia quinze do mês, na festa, fará o mesmo todos os sete dias, tanto o sacrifício pela expiação, como o holocausto, e como a oferta de manjares, e como o azeite."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:p} 45.6 ou a par"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 45.10 Lv 19.36"
+            },
+            {
+                "id": "n3",
+                "text": "{note:2} 45.21 Êx 12.1-20"
+            },
+            {
+                "id": "n4",
+                "text": "{note:3} 45.25 Lv 23.33-36"
+            }
+        ]
+    }
+}

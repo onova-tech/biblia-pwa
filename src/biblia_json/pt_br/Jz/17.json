@@ -1,0 +1,99 @@
+{
+    "book": {
+        "id": "Jz",
+        "book_number": 7,
+        "new_testament": false,
+        "num_chapters": 21,
+        "book_name": "JUÍZES",
+        "book_full_name": "O LIVRO DOS JUÍZES"
+    },
+    "chapter": {
+        "chapter_number": 17,
+        "chapter_reference": "",
+        "chapter_title": "Mica e o ídolo da sua casa",
+        "versicles": [
+            {
+                "id": "v17.1",
+                "versicle_number": 1,
+                "text": "E HAVIA um homem da montanha de Efraim, cujo nome era Mica."
+            },
+            {
+                "id": "v17.2",
+                "versicle_number": 2,
+                "text": "O qual disse a sua mãe: As mil e cem {note:o}moedas de prata que te foram tiradas por cuja causa deitavas maldições, e também as disseste em meus ouvidos, eis que esse dinheiro eu o tenho, eu o tomei. Então disse sua mãe: Bendito seja meu filho do Senhor."
+            },
+            {
+                "id": "v17.3",
+                "versicle_number": 3,
+                "text": "Assim restituiu as mil e cem moedas de prata a sua mãe: porém sua mãe disse: Inteiramente tenho dedicado este dinheiro da minha mão ao Senhor para meu filho, para fazer uma imagem de escultura e de fundição: de sorte que agora to tornarei a dar."
+            },
+            {
+                "id": "v17.4",
+                "versicle_number": 4,
+                "text": "Porém ele restituiu aquele dinheiro a sua mãe: e sua mãe tomou duzentas moedas de prata, e as deu ao ourives, o qual fez delas uma imagem de escultura e de fundição, e esteve em casa de Mica."
+            },
+            {
+                "id": "v17.5",
+                "versicle_number": 5,
+                "text": "E tinha este homem, Mica, uma casa de deuses: e fez um éfode e terafins, e consagrou a um de seus filhos, para que lhe fosse por sacerdote."
+            },
+            {
+                "id": "v17.6",
+                "versicle_number": 6,
+                "text": "Naqueles dias{note:1} não havia rei em Israel: cada qual fazia o que parecia direito aos seus olhos."
+            },
+            {
+                "id": "v17.7",
+                "versicle_number": 7,
+                "text": "E havia um mancebo de Belém de Judá, da tribo de Judá, que era levita, e peregrinava ali."
+            },
+            {
+                "id": "v17.8",
+                "versicle_number": 8,
+                "text": "E este homem partiu da cidade de Belém de Judá para peregrinar onde quer que achasse comodidade: chegando ele pois à montanha de Efraim, até à casa de Mica, seguindo o seu caminho."
+            },
+            {
+                "id": "v17.9",
+                "versicle_number": 9,
+                "text": "Disse-lhe Mica: Donde vens? E ele lhe disse: Sou levita de Belém de Judá, e vou peregrinar aonde quer que achar comodidade."
+            },
+            {
+                "id": "v17.10",
+                "versicle_number": 10,
+                "text": "Então lhe disse Mica: Fica comigo, e sê-me por pai e sacerdote; e cada ano te darei dez moedas de prata, e vestuário, e o teu sustento. E o levita entrou."
+            },
+            {
+                "id": "v17.11",
+                "versicle_number": 11,
+                "text": "E consentiu o levita em ficar com aquele homem: e este mancebo lhe foi como um de seus filhos."
+            },
+            {
+                "id": "v17.12",
+                "versicle_number": 12,
+                "text": "E consagrou Mica ao levita, e aquele mancebo lhe foi por sacerdote; e esteve em casa de Mica."
+            },
+            {
+                "id": "v17.13",
+                "versicle_number": 13,
+                "text": "Então disse Mica: Agora sei que o Senhor me fará bem: porquanto tenho um levita por sacerdote."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v17.7",
+                "text": "O levita em casa de Mica"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:o} 17.2 ou peças"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 17.6 Jz 21.25"
+            }
+        ]
+    }
+}

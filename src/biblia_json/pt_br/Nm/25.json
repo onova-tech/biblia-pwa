@@ -1,0 +1,109 @@
+{
+    "book": {
+        "id": "Nm",
+        "book_number": 4,
+        "new_testament": false,
+        "num_chapters": 36,
+        "book_name": "NÚMEROS",
+        "book_full_name": "O QUARTO LIVRO DE MOISÉS NÚMEROS"
+    },
+    "chapter": {
+        "chapter_number": 25,
+        "chapter_reference": "",
+        "chapter_title": "Os israelitas pecam com as filhas dos moabitas",
+        "versicles": [
+            {
+                "id": "v25.1",
+                "versicle_number": 1,
+                "text": "E ISRAEL deteve-se em Sitim, e o povo começou a prostituir-se com as filhas dos moabitas."
+            },
+            {
+                "id": "v25.2",
+                "versicle_number": 2,
+                "text": "E convidaram o povo aos sacrifícios dos seus deuses; e o povo comeu, e inclinou-se aos seus deuses."
+            },
+            {
+                "id": "v25.3",
+                "versicle_number": 3,
+                "text": "Juntando-se pois Israel a Baal-Peor, a ira do Senhor se acendeu contra Israel."
+            },
+            {
+                "id": "v25.4",
+                "versicle_number": 4,
+                "text": "Disse o Senhor a Moisés: Toma todos os cabeças do povo, e enforca-os ao Senhor diante do sol, e o ardor da ira do Senhor se retirará de Israel."
+            },
+            {
+                "id": "v25.5",
+                "versicle_number": 5,
+                "text": "Então Moisés disse aos juízes de Israel: Cada um mate os seus homens que se juntaram a Baal-Peor."
+            },
+            {
+                "id": "v25.6",
+                "versicle_number": 6,
+                "text": "E eis que veio um homem dos filhos de Israel, e trouxe a seus irmãos uma midianita perante os olhos de Moisés e de toda a congregação dos filhos de Israel, chorando eles diante da tenda da congregação."
+            },
+            {
+                "id": "v25.7",
+                "versicle_number": 7,
+                "text": "Vendo isso Fineias, filho de Eleazar, o filho de Aarão sacerdote, se levantou do meio da congregação, e tomou uma lança na sua mão;"
+            },
+            {
+                "id": "v25.8",
+                "versicle_number": 8,
+                "text": "E foi após do varão israelita até à tenda, e os atravessou a ambos, ao varão israelita e à mulher, pela sua barriga: então a praga cessou de sobre os filhos de Israel."
+            },
+            {
+                "id": "v25.9",
+                "versicle_number": 9,
+                "text": "E os que morreram daquela praga foram vinte e quatro mil."
+            },
+            {
+                "id": "v25.10",
+                "versicle_number": 10,
+                "text": "Então o Senhor falou a Moisés, dizendo:"
+            },
+            {
+                "id": "v25.11",
+                "versicle_number": 11,
+                "text": "Fineias, filho de Eleazar, o filho de Aarão sacerdote, desviou a minha ira de sobre os filhos de Israel, pois zelou o meu zelo no meio deles; de modo que no meu zelo não consumi os filhos de Israel."
+            },
+            {
+                "id": "v25.12",
+                "versicle_number": 12,
+                "text": "Portanto dize: Eis que lhe dou o meu concerto de paz,"
+            },
+            {
+                "id": "v25.13",
+                "versicle_number": 13,
+                "text": "E ele, e a sua semente depois dele, terá o concerto do sacerdócio perpétuo; porquanto teve zelo pelo seu Deus, e fez propiciação pelos filhos de Israel."
+            },
+            {
+                "id": "v25.14",
+                "versicle_number": 14,
+                "text": "E o nome do israelita morto, que foi morto com a midianita, era Zinri, filho de Salu, maioral da casa paterna dos simeonitas."
+            },
+            {
+                "id": "v25.15",
+                "versicle_number": 15,
+                "text": "E o nome da mulher midianita, morta era Cosbi, filha de Zur, cabeça do povo da casa paterna entre os midianitas."
+            },
+            {
+                "id": "v25.16",
+                "versicle_number": 16,
+                "text": "Falou mais o Senhor a Moisés, dizendo:"
+            },
+            {
+                "id": "v25.17",
+                "versicle_number": 17,
+                "text": "Afligireis os midianitas e os ferireis,"
+            },
+            {
+                "id": "v25.18",
+                "versicle_number": 18,
+                "text": "Porque eles vos afligiram a vós outros com os seus enganos com que vos enganaram no negócio de Peor, e no negócio de Cosbi, filha do maioral dos midianitas, a irmã deles, que foi morta no dia da praga no negócio de Peor."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

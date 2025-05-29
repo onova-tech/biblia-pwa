@@ -1,0 +1,54 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 67,
+        "chapter_reference": "",
+        "chapter_title": "O reino de Deus abrange toda a terra",
+        "versicles": [
+            {
+                "id": "v67.1",
+                "versicle_number": 1,
+                "text": "DEUS tenha misericórdia de nós e nos abençoe; e faça resplandecer o seu rosto sobre nós. (Selá.)"
+            },
+            {
+                "id": "v67.2",
+                "versicle_number": 2,
+                "text": "Para que se conheça na terra o teu caminho, e em todas as nações a tua salvação."
+            },
+            {
+                "id": "v67.3",
+                "versicle_number": 3,
+                "text": "Louvem-te a ti, ó Deus, os povos; louvem-te os povos todos."
+            },
+            {
+                "id": "v67.4",
+                "versicle_number": 4,
+                "text": "Alegrem-se e regozijem-se as nações, pois julgarás os povos com equidade, e governarás as nações sobre a terra. (Selá.)"
+            },
+            {
+                "id": "v67.5",
+                "versicle_number": 5,
+                "text": "Louvem-te a ti, ó Deus, os povos, louvem-te os povos todos."
+            },
+            {
+                "id": "v67.6",
+                "versicle_number": 6,
+                "text": "Então a terra dará o seu fruto; e Deus, o nosso Deus, nos abençoará."
+            },
+            {
+                "id": "v67.7",
+                "versicle_number": 7,
+                "text": "Deus nos abençoará, e todas as extremidades da terra o temerão."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

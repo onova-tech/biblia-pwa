@@ -1,0 +1,118 @@
+{
+    "book": {
+        "id": "Js",
+        "book_number": 6,
+        "new_testament": false,
+        "num_chapters": 24,
+        "book_name": "JOSUÉ",
+        "book_full_name": "O LIVRO DE JOSUÉ"
+    },
+    "chapter": {
+        "chapter_number": 17,
+        "chapter_reference": "",
+        "chapter_title": "A herança da meia tribo de Manassés",
+        "versicles": [
+            {
+                "id": "v17.1",
+                "versicle_number": 1,
+                "text": "TAMBÉM caiu a sorte à tribo de Manassés, porquanto era o primogênito de José, a saber: Maquir, o primogênito de Manassés, pai de Gileade, porquanto era homem de guerra, teve a Gileade e Basã."
+            },
+            {
+                "id": "v17.2",
+                "versicle_number": 2,
+                "text": "Também os mais filhos de Manassés tiveram a sua parte, segundo as suas famílias, a saber: os filhos de Abiezer, e os filhos de Heleque, e os filhos de Asriel, e os filhos de Siquém, e os filhos de Hefer, e os filhos de Semida: estes são os filhos varões de Manassés, filho de José, segundo as suas famílias."
+            },
+            {
+                "id": "v17.3",
+                "versicle_number": 3,
+                "text": "Zelofade, porém, filho de Hefer, o filho de Gileade, filho de Maquir, o filho de Manassés, não teve filhos, mas só filhas: e estes são os nomes de suas filhas: Macla, Noa, Hogla, Milca e Tirzá."
+            },
+            {
+                "id": "v17.4",
+                "versicle_number": 4,
+                "text": "Estas, pois, chegaram diante de Eleazar, o sacerdote, e diante de Josué, filho de Num, e diante dos príncipes, dizendo: O Senhor ordenou a Moisés{note:1} que se nos desse herança no meio de nossos irmãos: pelo que, conforme ao dito do Senhor, lhes deu herança no meio dos irmãos de seu pai."
+            },
+            {
+                "id": "v17.5",
+                "versicle_number": 5,
+                "text": "E couberam a Manassés dez quinhões, afora a terra de Gileade, e Basã que está dalém do Jordão;"
+            },
+            {
+                "id": "v17.6",
+                "versicle_number": 6,
+                "text": "Porque as filhas de Manassés no meio de seus filhos possuíram herança: e a terra de Gileade tiveram os outros filhos de Manassés."
+            },
+            {
+                "id": "v17.7",
+                "versicle_number": 7,
+                "text": "E o termo de Manassés foi desde Aser até Micmetate, que está diante de Siquém: e vai este termo à mão direita até aos moradores de En-Tápua."
+            },
+            {
+                "id": "v17.8",
+                "versicle_number": 8,
+                "text": "Tinha Manassés a terra de Tápua: porém Tápua, no termo de Manassés, a tinham os filhos de Efraim."
+            },
+            {
+                "id": "v17.9",
+                "versicle_number": 9,
+                "text": "Então desce este termo ao ribeiro de Caná, para o sul do ribeiro: de Efraim são estas cidades no meio das cidades de Manassés: e o termo de Manassés está ao norte do ribeiro, sendo as suas saídas no mar."
+            },
+            {
+                "id": "v17.10",
+                "versicle_number": 10,
+                "text": "Efraim ao sul, e Manassés ao norte, e o mar é o seu termo: pelo norte tocam em Aser, e pelo oriente em Issacar."
+            },
+            {
+                "id": "v17.11",
+                "versicle_number": 11,
+                "text": "Porque em Issacar e em Aser tinha Manassés a Bete-Seã e os lugares da sua jurisdição, e Ibleão e os lugares da sua jurisdição, e os habitantes de Dor e os lugares da sua jurisdição, e os habitantes de En-Dor e os lugares da sua jurisdição, e os habitantes de Taanaque e os lugares da sua jurisdição, e os habitantes de Megido e os lugares da sua jurisdição: três comarcas."
+            },
+            {
+                "id": "v17.12",
+                "versicle_number": 12,
+                "text": "E os filhos de Manassés{note:2} não puderam expelir os habitantes daquelas cidades: porquanto os cananeus queriam habitar na mesma terra."
+            },
+            {
+                "id": "v17.13",
+                "versicle_number": 13,
+                "text": "E sucedeu que, engrossando em forças os filhos de Israel, fizeram tributários aos cananeus; porém não os expeliram de todo."
+            },
+            {
+                "id": "v17.14",
+                "versicle_number": 14,
+                "text": "Então os filhos de José falaram a Josué, dizendo: Por que me deste por herança só uma sorte e um quinhão, sendo eu um tão grande povo, visto que o Senhor até aqui me tem abençoado?"
+            },
+            {
+                "id": "v17.15",
+                "versicle_number": 15,
+                "text": "E disse-lhes Josué: Se tão grande povo és, sobe ao bosque, e corta para ti ali lugar na terra dos ferezeus, e dos refains: pois que as montanhas de Efraim te são tão estreitas."
+            },
+            {
+                "id": "v17.16",
+                "versicle_number": 16,
+                "text": "Então disseram os filhos de José: As montanhas nos não bastariam: também carros ferrados há entre todos os cananeus que habitam na terra do vale, entre os de Bete-Seã e os lugares da sua jurisdição, e entre os que estão no vale de Jezreel."
+            },
+            {
+                "id": "v17.17",
+                "versicle_number": 17,
+                "text": "Então Josué falou à casa de José, a Efraim e a Manassés, dizendo: Grande povo és, e grande força tens; uma só sorte não terás;"
+            },
+            {
+                "id": "v17.18",
+                "versicle_number": 18,
+                "text": "Porém as montanhas serão tuas; e, pois que bosque é, corta-o, e as suas saídas serão tuas: porque expelirás os cananeus, ainda que tenham carros ferrados, ainda que sejam fortes."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 17.4 Nm 27.1-7"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 17.12 Jz 1.27-28"
+            }
+        ]
+    }
+}

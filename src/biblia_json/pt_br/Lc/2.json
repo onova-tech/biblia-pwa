@@ -1,0 +1,325 @@
+{
+    "book": {
+        "id": "Lc",
+        "book_number": 42,
+        "new_testament": true,
+        "num_chapters": 24,
+        "book_name": "LUCAS",
+        "book_full_name": "O SANTO EVANGELHO SEGUNDO LUCAS"
+    },
+    "chapter": {
+        "chapter_number": 2,
+        "chapter_reference": "",
+        "chapter_title": "O nascimento de Jesus",
+        "versicles": [
+            {
+                "id": "v2.1",
+                "versicle_number": 1,
+                "text": "E ACONTECEU naqueles dias que saiu um decreto da parte de César Augusto, para que todo o mundo se alistasse."
+            },
+            {
+                "id": "v2.2",
+                "versicle_number": 2,
+                "text": "(Este primeiro alistamento foi feito sendo Cirênio presidente da Síria.)"
+            },
+            {
+                "id": "v2.3",
+                "versicle_number": 3,
+                "text": "E todos iam alistar-se, cada um à sua própria cidade."
+            },
+            {
+                "id": "v2.4",
+                "versicle_number": 4,
+                "text": "E subiu também José da Galileia, da cidade de Nazaré, à Judeia, à cidade de Davi, chamada Belém (porque era da casa e família de Davi),"
+            },
+            {
+                "id": "v2.5",
+                "versicle_number": 5,
+                "text": "A fim de alistar-se com Maria, sua mulher, que estava grávida."
+            },
+            {
+                "id": "v2.6",
+                "versicle_number": 6,
+                "text": "E aconteceu que, estando eles ali, se cumpriram os dias em que ela havia de dar à luz."
+            },
+            {
+                "id": "v2.7",
+                "versicle_number": 7,
+                "text": "E deu à luz a seu filho primogênito, e envolveu-o em panos, e deitou-o numa manjedoura, porque não havia lugar para eles na estalagem."
+            },
+            {
+                "id": "v2.8",
+                "versicle_number": 8,
+                "text": "Ora havia naquela mesma comarca pastores que estavam no campo, e guardavam durante as vigílias da noite o seu rebanho."
+            },
+            {
+                "id": "v2.9",
+                "versicle_number": 9,
+                "text": "E eis que o anjo do Senhor veio sobre eles, e a glória do Senhor os cercou de resplendor, e tiveram grande temor."
+            },
+            {
+                "id": "v2.10",
+                "versicle_number": 10,
+                "text": "E o anjo lhes disse: Não temais, porque eis aqui vos trago novas de grande alegria, que será para todo o povo:"
+            },
+            {
+                "id": "v2.11",
+                "versicle_number": 11,
+                "text": "Pois, na cidade de Davi, vos nasceu hoje o Salvador, que é Cristo, o Senhor."
+            },
+            {
+                "id": "v2.12",
+                "versicle_number": 12,
+                "text": "E isto vos será por sinal: Achareis o menino envolto em panos, e deitado numa manjedoura."
+            },
+            {
+                "id": "v2.13",
+                "versicle_number": 13,
+                "text": "E, no mesmo instante, apareceu com o anjo uma multidão dos exércitos celestiais, louvando a Deus, e dizendo:"
+            },
+            {
+                "id": "v2.14",
+                "versicle_number": 14,
+                "text": "Glória a Deus nas alturas, paz na terra, boa vontade para com os homens."
+            },
+            {
+                "id": "v2.15",
+                "versicle_number": 15,
+                "text": "E aconteceu que, ausentando-se deles os anjos para o céu, disseram os pastores uns aos outros: Vamos pois até Belém, e vejamos isso que aconteceu, e que o Senhor nos fez saber."
+            },
+            {
+                "id": "v2.16",
+                "versicle_number": 16,
+                "text": "E foram apressadamente, e acharam Maria, e José, e o menino deitado na manjedoura."
+            },
+            {
+                "id": "v2.17",
+                "versicle_number": 17,
+                "text": "E, vendo-o, divulgaram a palavra que acerca do menino lhes fora dita;"
+            },
+            {
+                "id": "v2.18",
+                "versicle_number": 18,
+                "text": "E todos os que a ouviram se maravilharam do que os pastores lhes diziam."
+            },
+            {
+                "id": "v2.19",
+                "versicle_number": 19,
+                "text": "Mas Maria guardava todas estas coisas, conferindo-as em seu coração."
+            },
+            {
+                "id": "v2.20",
+                "versicle_number": 20,
+                "text": "E voltaram os pastores, glorificando e louvando a Deus por tudo o que tinham ouvido e visto, como lhes havia sido dito."
+            },
+            {
+                "id": "v2.21",
+                "versicle_number": 21,
+                "text": "E, quando os oito dias foram cumpridos, para circuncidar{note:1} o menino, foi-lhe dado o nome de Jesus, que pelo anjo{note:2} lhe fora posto antes de ser concebido."
+            },
+            {
+                "id": "v2.22",
+                "versicle_number": 22,
+                "text": "E, cumprindo-se os dias da purificação, segundo a lei de Moisés, o levaram a Jerusalém, para o apresentarem ao Senhor."
+            },
+            {
+                "id": "v2.23",
+                "versicle_number": 23,
+                "text": "(Segundo o que está escrito na lei do Senhor: Todo o macho primogênito será consagrado{note:3} ao Senhor);"
+            },
+            {
+                "id": "v2.24",
+                "versicle_number": 24,
+                "text": "E para darem a oferta segundo o disposto na lei do Senhor: um par de rolas ou dois pombinhos.{note:4}"
+            },
+            {
+                "id": "v2.25",
+                "versicle_number": 25,
+                "text": "Havia em Jerusalém um homem cujo nome era Simeão; e este homem era justo e temente a Deus, esperando a consolação d'Israel; e o Espírito Santo estava sobre ele."
+            },
+            {
+                "id": "v2.26",
+                "versicle_number": 26,
+                "text": "E fora-lhe revelado pelo Espírito Santo que ele não morreria antes de ter visto o Cristo do Senhor."
+            },
+            {
+                "id": "v2.27",
+                "versicle_number": 27,
+                "text": "E pelo Espírito foi ao templo, e, quando os pais trouxeram o menino Jesus, para com ele procederem segundo o uso da lei,"
+            },
+            {
+                "id": "v2.28",
+                "versicle_number": 28,
+                "text": "Ele então o tomou em seus braços, e louvou a Deus, e disse:"
+            },
+            {
+                "id": "v2.29",
+                "versicle_number": 29,
+                "text": "Agora, Senhor, despedes em paz o teu servo, segundo a tua palavra;"
+            },
+            {
+                "id": "v2.30",
+                "versicle_number": 30,
+                "text": "Pois já os meus olhos viram a tua salvação,"
+            },
+            {
+                "id": "v2.31",
+                "versicle_number": 31,
+                "text": "A qual tu preparaste perante a face de todos os povos;"
+            },
+            {
+                "id": "v2.32",
+                "versicle_number": 32,
+                "text": "Luz{note:5} para alumiar as nações, e para glória de teu povo Israel."
+            },
+            {
+                "id": "v2.33",
+                "versicle_number": 33,
+                "text": "E José, e sua mãe, se maravilharam das coisas que dele se diziam."
+            },
+            {
+                "id": "v2.34",
+                "versicle_number": 34,
+                "text": "E Simeão os abençoou, e disse a Maria, sua mãe: Eis que este é posto para queda e elevação de muitos em Israel, e para sinal que é contraditado;"
+            },
+            {
+                "id": "v2.35",
+                "versicle_number": 35,
+                "text": "(E uma espada traspassará também a tua própria alma); para que se manifestem os pensamentos de muitos corações."
+            },
+            {
+                "id": "v2.36",
+                "versicle_number": 36,
+                "text": "E estava ali a profetisa Ana, filha de Fanuel, da tribo de Aser. Esta era já avançada em idade, e tinha vivido com o marido sete anos, desde a sua virgindade;"
+            },
+            {
+                "id": "v2.37",
+                "versicle_number": 37,
+                "text": "E era viúva, de quase oitenta e quatro anos, e não se afastava do templo, servindo a Deus em jejuns e orações, de noite e de dia."
+            },
+            {
+                "id": "v2.38",
+                "versicle_number": 38,
+                "text": "E sobrevindo na mesma hora, ela dava graças a Deus, e falava dele a todos os que esperavam a redenção em Jerusalém."
+            },
+            {
+                "id": "v2.39",
+                "versicle_number": 39,
+                "text": "E, quando acabaram de cumprir tudo segundo a lei do Senhor, voltaram à Galileia, para a sua cidade de Nazaré."
+            },
+            {
+                "id": "v2.40",
+                "versicle_number": 40,
+                "text": "E o menino crescia, e se fortalecia em espírito, cheio de sabedoria; e a graça de Deus estava sobre ele."
+            },
+            {
+                "id": "v2.41",
+                "versicle_number": 41,
+                "text": "Ora, todos os anos, iam seus pais a Jerusalém, à festa da páscoa;{note:6}"
+            },
+            {
+                "id": "v2.42",
+                "versicle_number": 42,
+                "text": "E, tendo ele já doze anos, subiram a Jerusalém, segundo o costume do dia da festa."
+            },
+            {
+                "id": "v2.43",
+                "versicle_number": 43,
+                "text": "E, regressando eles, terminados aqueles dias, ficou o menino Jesus em Jerusalém, e não o souberam seus pais."
+            },
+            {
+                "id": "v2.44",
+                "versicle_number": 44,
+                "text": "Pensando, porém, eles que viria de companhia pelo caminho, andaram caminho de um dia, e procuravam-no entre os parentes e conhecidos;"
+            },
+            {
+                "id": "v2.45",
+                "versicle_number": 45,
+                "text": "E, como o não encontrassem, voltaram a Jerusalém em busca dele."
+            },
+            {
+                "id": "v2.46",
+                "versicle_number": 46,
+                "text": "E aconteceu que, passados três dias, o acharam no templo, assentado no meio dos doutores, ouvindo-os, e interrogando-os."
+            },
+            {
+                "id": "v2.47",
+                "versicle_number": 47,
+                "text": "E todos os que o ouviam admiravam a sua inteligência e respostas."
+            },
+            {
+                "id": "v2.48",
+                "versicle_number": 48,
+                "text": "E quando o viram, maravilharam-se, e disse-lhe sua mãe: Filho, por que fizeste assim para conosco? Eis que teu pai e eu ansiosos te procurávamos."
+            },
+            {
+                "id": "v2.49",
+                "versicle_number": 49,
+                "text": "E ele lhes disse: Por que é que me procuráveis? Não sabeis que me convém tratar dos negócios de meu Pai?"
+            },
+            {
+                "id": "v2.50",
+                "versicle_number": 50,
+                "text": "E eles não compreenderam as palavras que lhes dizia."
+            },
+            {
+                "id": "v2.51",
+                "versicle_number": 51,
+                "text": "E desceu com eles, e foi para Nazaré, e era-lhes sujeito. E sua mãe guardava no seu coração todas estas coisas."
+            },
+            {
+                "id": "v2.52",
+                "versicle_number": 52,
+                "text": "E crescia Jesus em sabedoria, e em estatura,{note:7} e em graça para com Deus e os homens."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v2.8",
+                "text": "Os pastores de Belém"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v2.21",
+                "text": "A circuncisão e apresentação de Jesus"
+            },
+            {
+                "id": "s3",
+                "next_versicle_id": "v2.25",
+                "text": "Simeão e Ana"
+            },
+            {
+                "id": "s4",
+                "next_versicle_id": "v2.39",
+                "text": "O menino Jesus no meio dos doutores"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 2.21 Lv 12.3 {note:2} 2.21 Lc 1.31"
+            },
+            {
+                "id": "n2",
+                "text": "{note:3} 2.23 Êx 13.2,12"
+            },
+            {
+                "id": "n3",
+                "text": "{note:4} 2.22-24 Lv 12.6-8"
+            },
+            {
+                "id": "n4",
+                "text": "{note:5} 2.32 Is 42.6; 49.6"
+            },
+            {
+                "id": "n5",
+                "text": "{note:6} 2.41 Êx 23.15; Dt 16.1-8"
+            },
+            {
+                "id": "n6",
+                "text": "{note:7} 2.52 1Sm 2.26"
+            }
+        ]
+    }
+}

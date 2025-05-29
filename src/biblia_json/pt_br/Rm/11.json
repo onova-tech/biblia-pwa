@@ -1,0 +1,242 @@
+{
+    "book": {
+        "id": "Rm",
+        "book_number": 45,
+        "new_testament": true,
+        "num_chapters": 16,
+        "book_name": "ROMANOS",
+        "book_full_name": "EPÍSTOLA DO APÓSTOLO PAULO AOS ROMANOS"
+    },
+    "chapter": {
+        "chapter_number": 11,
+        "chapter_reference": "",
+        "chapter_title": "O futuro de Israel",
+        "versicles": [
+            {
+                "id": "v11.1",
+                "versicle_number": 1,
+                "text": "DIGO pois: Porventura rejeitou Deus o seu povo? De modo nenhum; porque também eu sou israelita,{note:1} da descendência d'Abraão, da tribo de Benjamim."
+            },
+            {
+                "id": "v11.2",
+                "versicle_number": 2,
+                "text": "Deus não rejeitou o seu povo, que antes conheceu. Ou não sabeis o que a Escritura diz de Elias, como fala a Deus contra Israel, dizendo:"
+            },
+            {
+                "id": "v11.3",
+                "versicle_number": 3,
+                "text": "Senhor, mataram os teus profetas, e derribaram os teus altares; e só eu fiquei, e buscam a minha alma?{note:2}"
+            },
+            {
+                "id": "v11.4",
+                "versicle_number": 4,
+                "text": "Mas que lhe diz a resposta divina? Reservei para mim sete mil varões, que não dobraram os joelhos diante de Baal.{note:3}"
+            },
+            {
+                "id": "v11.5",
+                "versicle_number": 5,
+                "text": "Assim pois também agora neste tempo ficou um resto, segundo a eleição da graça."
+            },
+            {
+                "id": "v11.6",
+                "versicle_number": 6,
+                "text": "Mas se é por graça, já não é pelas obras: de outra maneira, a graça já não é graça."
+            },
+            {
+                "id": "v11.7",
+                "versicle_number": 7,
+                "text": "Pois quê? O que Israel buscava não o alcançou; mas os eleitos o alcançaram, e os outros foram endurecidos."
+            },
+            {
+                "id": "v11.8",
+                "versicle_number": 8,
+                "text": "Como está escrito: Deus lhes deu espírito de profundo sono: olhos para não verem, e ouvidos para não ouvirem, até ao dia de hoje.{note:4}"
+            },
+            {
+                "id": "v11.9",
+                "versicle_number": 9,
+                "text": "E Davi diz: Torne-se-lhes a sua mesa em laço, e em armadilha, e em tropeço, por sua retribuição;"
+            },
+            {
+                "id": "v11.10",
+                "versicle_number": 10,
+                "text": "Escureçam-se-lhes os olhos para não verem, e encurvem-se-lhes continuamente as costas.{note:5}"
+            },
+            {
+                "id": "v11.11",
+                "versicle_number": 11,
+                "text": "Digo pois: Porventura tropeçaram, para que caíssem? De modo nenhum, mas pela sua queda veio a salvação aos gentios, para os incitar à emulação."
+            },
+            {
+                "id": "v11.12",
+                "versicle_number": 12,
+                "text": "E, se a sua queda é a riqueza do mundo, e a sua diminuição a riqueza dos gentios, quanto mais a sua plenitude!"
+            },
+            {
+                "id": "v11.13",
+                "versicle_number": 13,
+                "text": "Porque convosco falo, gentios, que, enquanto for apóstolo dos gentios, glorificarei o meu ministério;"
+            },
+            {
+                "id": "v11.14",
+                "versicle_number": 14,
+                "text": "Para ver se de alguma maneira posso incitar à emulação os da minha carne e salvar alguns deles."
+            },
+            {
+                "id": "v11.15",
+                "versicle_number": 15,
+                "text": "Porque, se a sua rejeição é a reconciliação do mundo, qual será a sua admissão, senão a vida dentre os mortos?"
+            },
+            {
+                "id": "v11.16",
+                "versicle_number": 16,
+                "text": "E, se as primícias são santas, também a massa o é; se a raiz é santa, também os ramos o são."
+            },
+            {
+                "id": "v11.17",
+                "versicle_number": 17,
+                "text": "E se alguns dos ramos foram quebrados, e tu, sendo zambujeiro, foste enxertado em lugar deles, e feito participante da raiz e da seiva da oliveira,"
+            },
+            {
+                "id": "v11.18",
+                "versicle_number": 18,
+                "text": "Não te glories contra os ramos; e, se contra eles te gloriares, não és tu que sustentas a raiz, mas a raiz a ti."
+            },
+            {
+                "id": "v11.19",
+                "versicle_number": 19,
+                "text": "Dirás pois: Os ramos foram quebrados, para que eu fosse enxertado."
+            },
+            {
+                "id": "v11.20",
+                "versicle_number": 20,
+                "text": "Está bem: pela sua incredulidade foram quebrados, e tu estás em pé pela fé: então não te ensoberbeças, mas teme."
+            },
+            {
+                "id": "v11.21",
+                "versicle_number": 21,
+                "text": "Porque, se Deus não poupou os ramos naturais, teme que te não poupe a ti também."
+            },
+            {
+                "id": "v11.22",
+                "versicle_number": 22,
+                "text": "Considera pois a bondade e a severidade de Deus: para com os que caíram, severidade; mas para contigo, a benignidade de Deus, se permaneceres na sua benignidade; de outra maneira, também tu serás cortado."
+            },
+            {
+                "id": "v11.23",
+                "versicle_number": 23,
+                "text": "E também eles, se não permanecerem na incredulidade, serão enxertados; porque poderoso é Deus para os tornar a enxertar."
+            },
+            {
+                "id": "v11.24",
+                "versicle_number": 24,
+                "text": "Porque, se tu foste cortado do natural zambujeiro, e, contra a natureza, enxertado na boa oliveira, quanto mais esses, que são naturais, serão enxertados na sua própria oliveira!"
+            },
+            {
+                "id": "v11.25",
+                "versicle_number": 25,
+                "text": "Porque não quero, irmãos, que ignoreis este segredo (para que não presumais de vós mesmos): que o endurecimento veio em parte sobre Israel, até que a plenitude dos gentios haja entrado."
+            },
+            {
+                "id": "v11.26",
+                "versicle_number": 26,
+                "text": "E assim todo o Israel será salvo, como está escrito: De Sião virá o Libertador, e desviará de Jacó as impiedades.{note:6}"
+            },
+            {
+                "id": "v11.27",
+                "versicle_number": 27,
+                "text": "E este será o meu concerto com eles, quando eu tirar os seus pecados.{note:7}"
+            },
+            {
+                "id": "v11.28",
+                "versicle_number": 28,
+                "text": "Assim que, quanto ao evangelho, são inimigos por causa de vós; mas, quanto à eleição, amados por causa dos pais."
+            },
+            {
+                "id": "v11.29",
+                "versicle_number": 29,
+                "text": "Porque os dons e a vocação de Deus são sem arrependimento."
+            },
+            {
+                "id": "v11.30",
+                "versicle_number": 30,
+                "text": "Porque assim como vós também antigamente fostes desobedientes a Deus, mas agora alcançastes misericórdia pela desobediência deles,"
+            },
+            {
+                "id": "v11.31",
+                "versicle_number": 31,
+                "text": "Assim também estes agora foram desobedientes, para também alcançarem misericórdia pela misericórdia a vós demonstrada."
+            },
+            {
+                "id": "v11.32",
+                "versicle_number": 32,
+                "text": "Porque Deus encerrou a todos debaixo da desobediência, para com todos usar de misericórdia."
+            },
+            {
+                "id": "v11.33",
+                "versicle_number": 33,
+                "text": "Ó profundidade das riquezas, tanto da sabedoria, como da ciência de Deus! Quão insondáveis são os seus juízos, e quão inescrutáveis os seus caminhos!"
+            },
+            {
+                "id": "v11.34",
+                "versicle_number": 34,
+                "text": "Por que quem compreendeu o intento do Senhor? ou quem foi seu conselheiro?{note:8}"
+            },
+            {
+                "id": "v11.35",
+                "versicle_number": 35,
+                "text": "Ou quem lhe deu primeiro a ele, para que lhe seja recompensado?{note:9}"
+            },
+            {
+                "id": "v11.36",
+                "versicle_number": 36,
+                "text": "Porque dele e por ele, e para ele, são todas as coisas; glória pois a ele eternamente. Amém."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v11.33",
+                "text": "Hino de adoração"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 11.1 Fp 3.5"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 11.3 1Rs 19.10,14"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 11.4 1Rs 19.18"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 11.8 Is 29.10"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 11.9-10 Sl 69.22-23"
+            },
+            {
+                "id": "n6",
+                "text": "{note:6} 11.26 Is 59.20-21"
+            },
+            {
+                "id": "n7",
+                "text": "{note:7} 11.27 Jr 31.33-34"
+            },
+            {
+                "id": "n8",
+                "text": "{note:8} 11.34 Is 40.13"
+            },
+            {
+                "id": "n9",
+                "text": "{note:9} 11.35 Jó 41.11"
+            }
+        ]
+    }
+}

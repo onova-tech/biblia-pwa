@@ -1,0 +1,168 @@
+{
+    "book": {
+        "id": "2Cr",
+        "book_number": 14,
+        "new_testament": false,
+        "num_chapters": 36,
+        "book_name": "CRÔNICAS",
+        "book_full_name": "O SEGUNDO LIVRO DAS CRÔNICAS"
+    },
+    "chapter": {
+        "chapter_number": 33,
+        "chapter_reference": "",
+        "chapter_title": "A idolatria de Manassés",
+        "versicles": [
+            {
+                "id": "v33.1",
+                "versicle_number": 1,
+                "text": "TINHA Manassés doze anos de idade, quando começou a reinar, e cinquenta e cinco anos reinou em Jerusalém."
+            },
+            {
+                "id": "v33.2",
+                "versicle_number": 2,
+                "text": "E fez o que era mal{note:1} aos olhos do Senhor, conforme às abominações dos gentios que o Senhor lançara fora de diante dos filhos de Israel."
+            },
+            {
+                "id": "v33.3",
+                "versicle_number": 3,
+                "text": "Porque tornou a edificar os altos que Ezequias, seu pai, tinha derribado; e levantou altares a Baalim, e fez bosques, e prostrou-se diante de todo o exército dos céus, e o serviu."
+            },
+            {
+                "id": "v33.4",
+                "versicle_number": 4,
+                "text": "E edificou altares na casa do Senhor, da qual o Senhor tinha dito: Em Jerusalém estará o meu nome eternamente.{note:2}"
+            },
+            {
+                "id": "v33.5",
+                "versicle_number": 5,
+                "text": "Edificou altares a todo o exército dos céus, em ambos os pátios da casa do Senhor."
+            },
+            {
+                "id": "v33.6",
+                "versicle_number": 6,
+                "text": "Fez ele também passar seus filhos pelo fogo no vale do filho de Hinom, e usou de adivinhações e de agouros, e de feitiçarias, e consultou adivinhos e encantadores; e fez muitíssimo mal aos olhos do Senhor, para o provocar à ira."
+            },
+            {
+                "id": "v33.7",
+                "versicle_number": 7,
+                "text": "Também pôs uma imagem esculpida, o ídolo que tinha feito, na casa de Deus, da qual Deus tinha dito a Davi e a Salomão, seu filho: Nesta casa, em Jerusalém, que escolhi de todas as tribos de Israel, porei eu o meu nome para sempre;"
+            },
+            {
+                "id": "v33.8",
+                "versicle_number": 8,
+                "text": "E nunca mais removerei o pé de Israel da terra que destinei a vossos pais; contanto que tenham cuidado de fazer tudo o que eu lhes ordenei, conforme a toda a lei, e estatutos, e juízos, dados pela mão de Moisés.{note:3}"
+            },
+            {
+                "id": "v33.9",
+                "versicle_number": 9,
+                "text": "E Manassés tanto fez errar a Judá e aos moradores de Jerusalém, que fizeram pior do que as nações que o Senhor tinha destruído de diante dos filhos de Israel."
+            },
+            {
+                "id": "v33.10",
+                "versicle_number": 10,
+                "text": "E falou o Senhor a Manassés e ao seu povo, porém não deram ouvidos."
+            },
+            {
+                "id": "v33.11",
+                "versicle_number": 11,
+                "text": "Pelo que o Senhor trouxe sobre eles os príncipes do exército do rei da Assíria, os quais prenderam a Manassés entre os espinhais; e o amarraram com cadeias, e o levaram a Babilônia."
+            },
+            {
+                "id": "v33.12",
+                "versicle_number": 12,
+                "text": "E ele, angustiado, orou deveras ao Senhor seu Deus, e humilhou-se muito perante o Deus de seus pais;"
+            },
+            {
+                "id": "v33.13",
+                "versicle_number": 13,
+                "text": "E lhe fez oração, e Deus se aplacou para com ele, e ouviu a sua súplica, e o tornou a trazer a Jerusalém, ao seu reino: então conheceu Manassés que o Senhor era Deus."
+            },
+            {
+                "id": "v33.14",
+                "versicle_number": 14,
+                "text": "E depois disto edificou o muro de fora da cidade de Davi, ao ocidente, de Giom, no vale, e à entrada da porta do peixe, e à roda, até Ofel, e o levantou mui alto; também pôs oficiais valentes em todas as cidades fortes de Judá."
+            },
+            {
+                "id": "v33.15",
+                "versicle_number": 15,
+                "text": "E tirou da casa do Senhor os deuses estranhos e o ídolo, como também todos os altares que tinha edificado no monte da casa do Senhor, e em Jerusalém, e os lançou fora da cidade."
+            },
+            {
+                "id": "v33.16",
+                "versicle_number": 16,
+                "text": "E reparou o altar do Senhor, e ofereceu sobre ele ofertas pacíficas e de louvor: e mandou a Judá que servisse ao Senhor Deus de Israel."
+            },
+            {
+                "id": "v33.17",
+                "versicle_number": 17,
+                "text": "Mas ainda o povo sacrificava nos altos, mas somente ao Senhor seu Deus."
+            },
+            {
+                "id": "v33.18",
+                "versicle_number": 18,
+                "text": "O resto pois dos sucessos de Manassés, e a sua oração ao seu Deus, e as palavras dos videntes que lhe falaram no nome do Senhor, Deus de Israel, eis que estão nos sucessos dos reis de Israel."
+            },
+            {
+                "id": "v33.19",
+                "versicle_number": 19,
+                "text": "E a sua oração, como Deus se aplacou para com ele, e todo o seu pecado, e a sua transgressão, e os lugares onde edificou altos, e pôs bosques e imagens de escultura, antes que se humilhasse, eis que está tudo escrito nos livros dos videntes."
+            },
+            {
+                "id": "v33.20",
+                "versicle_number": 20,
+                "text": "E dormiu Manassés com seus pais, e o sepultaram em sua casa; Amom, seu filho, reinou em seu lugar."
+            },
+            {
+                "id": "v33.21",
+                "versicle_number": 21,
+                "text": "Era Amom da idade de vinte e dois anos, quando começou a reinar, e dois anos reinou em Jerusalém."
+            },
+            {
+                "id": "v33.22",
+                "versicle_number": 22,
+                "text": "E fez o que era mal aos olhos do Senhor, como havia feito Manassés, seu pai; porque Amom sacrificou a todas as imagens de escultura que Manassés, seu pai, tinha feito, e as serviu."
+            },
+            {
+                "id": "v33.23",
+                "versicle_number": 23,
+                "text": "Mas não se humilhou perante o Senhor, como Manassés, seu pai, se humilhara: antes multiplicou Amom os seus delitos."
+            },
+            {
+                "id": "v33.24",
+                "versicle_number": 24,
+                "text": "E conspiraram contra ele os seus servos, e o mataram em sua casa."
+            },
+            {
+                "id": "v33.25",
+                "versicle_number": 25,
+                "text": "Porém o povo da terra feriu a todos quantos conspiraram contra o rei Amom: e o povo da terra fez reinar em seu lugar a Josias, seu filho."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v33.11",
+                "text": "O cativeiro de Manassés, sua oração e morte"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v33.21",
+                "text": "O reinado de Amom e a sua impiedade"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 33.2 Jr 15.4"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 33.4 2Sm 7.13"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 33.7-8 1Rs 9.3-5; 2Cr 7.12-18"
+            }
+        ]
+    }
+}

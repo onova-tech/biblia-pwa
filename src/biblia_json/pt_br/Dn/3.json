@@ -1,0 +1,174 @@
+{
+    "book": {
+        "id": "Dn",
+        "book_number": 27,
+        "new_testament": false,
+        "num_chapters": 12,
+        "book_name": "DANIEL",
+        "book_full_name": "DANIEL"
+    },
+    "chapter": {
+        "chapter_number": 3,
+        "chapter_reference": "",
+        "chapter_title": "A estátua de ouro: os companheiros de Daniel no forno de fogo ardente",
+        "versicles": [
+            {
+                "id": "v3.1",
+                "versicle_number": 1,
+                "text": "O REI Nabucodonosor fez uma estátua de ouro, a altura da qual era de sessenta côvados, e a sua largura de seis côvados: levantou-a no campo de Dura, na província de Babilônia."
+            },
+            {
+                "id": "v3.2",
+                "versicle_number": 2,
+                "text": "E o rei Nabucodonosor mandou ajuntar os sátrapas, os prefeitos e presidentes, os juízes, os tesoureiros, os conselheiros, os oficiais, e todos os governadores das províncias, para que viessem à consagração da estátua que o rei Nabucodonosor tinha levantado."
+            },
+            {
+                "id": "v3.3",
+                "versicle_number": 3,
+                "text": "Então se ajuntaram os sátrapas, os prefeitos e presidentes, os juízes, os tesoureiros, os conselheiros, os oficiais, e todos os governadores das províncias, para a consagração da estátua que o rei Nabucodonosor tinha levantado, e estavam em pé diante da imagem que Nabucodonosor tinha levantado."
+            },
+            {
+                "id": "v3.4",
+                "versicle_number": 4,
+                "text": "E o arauto apregoava em alta voz: Ordena-se a vós, ó povos, nações e gente de todas as línguas:"
+            },
+            {
+                "id": "v3.5",
+                "versicle_number": 5,
+                "text": "Quando ouvirdes o som da buzina, do pífaro, da harpa, da sambuca, do saltério, da gaita de foles, e de toda a sorte de música, vos prostrareis, e adorareis a imagem de ouro que o rei Nabucodonosor tem levantado."
+            },
+            {
+                "id": "v3.6",
+                "versicle_number": 6,
+                "text": "E qualquer que se não prostrar e não a adorar, será na mesma hora lançado dentro do forno de fogo ardente."
+            },
+            {
+                "id": "v3.7",
+                "versicle_number": 7,
+                "text": "Portanto, no mesmo instante em que todos os povos ouviram o som da buzina, do pífaro, da harpa, da sambuca, do saltério, e de toda a sorte de música, se prostraram todos os povos, nações e línguas, e adoraram a estátua de ouro que o rei Nabucodonosor tinha levantado."
+            },
+            {
+                "id": "v3.8",
+                "versicle_number": 8,
+                "text": "Ora, no mesmo instante, se chegaram alguns homens caldeus, e acusaram os judeus."
+            },
+            {
+                "id": "v3.9",
+                "versicle_number": 9,
+                "text": "E falaram, e disseram ao rei Nabucodonosor: Ó rei, vive eternamente!"
+            },
+            {
+                "id": "v3.10",
+                "versicle_number": 10,
+                "text": "Tu, ó rei, fizeste um decreto, pelo qual todo o homem que ouvisse o som da buzina, do pífaro, da harpa, da sambuca, do saltério, e da gaita de foles, e de toda a sorte de música, se prostraria e adoraria a estátua de ouro;"
+            },
+            {
+                "id": "v3.11",
+                "versicle_number": 11,
+                "text": "E, qualquer que se não prostrasse e adorasse, seria lançado dentro do forno de fogo ardente."
+            },
+            {
+                "id": "v3.12",
+                "versicle_number": 12,
+                "text": "Há uns homens judeus, que tu constituíste sobre os negócios da província de Babilônia: Sadraque, Mesaque e Abednego: estes homens, ó rei, não fizeram caso de ti; a teus deuses não servem, nem a estátua de ouro, que levantaste, adoraram."
+            },
+            {
+                "id": "v3.13",
+                "versicle_number": 13,
+                "text": "Então Nabucodonosor, com ira e furor, mandou chamar Sadraque, Mesaque e Abednego. E trouxeram a estes homens perante o rei."
+            },
+            {
+                "id": "v3.14",
+                "versicle_number": 14,
+                "text": "Falou Nabucodonosor, e lhes disse: É de propósito, ó Sadraque, Mesaque e Abednego, que vós não servis a meus deuses nem adorais a estátua de ouro que levantei?"
+            },
+            {
+                "id": "v3.15",
+                "versicle_number": 15,
+                "text": "Agora pois, se estais prontos, quando ouvirdes o som da buzina, do pífaro, da guitarra, da harpa, do saltério, da gaita de foles, e de toda a sorte de música, para vos prostrardes e adorardes a estátua que fiz, bom é; mas, se a não adorardes, sereis lançados, na mesma hora, dentro do forno de fogo ardente: e quem é o Deus que vos poderá livrar das minhas mãos?"
+            },
+            {
+                "id": "v3.16",
+                "versicle_number": 16,
+                "text": "Responderam Sadraque, Mesaque e Abednego, e disseram ao rei Nabucodonosor: Não necessitamos de te responder sobre este negócio."
+            },
+            {
+                "id": "v3.17",
+                "versicle_number": 17,
+                "text": "Eis que o nosso Deus, a quem nós servimos, é que nos pode livrar; ele nos livrará do forno de fogo ardente, e da tua mão, ó rei."
+            },
+            {
+                "id": "v3.18",
+                "versicle_number": 18,
+                "text": "E, se não, fica sabendo, ó rei, que não serviremos a teus deuses nem adoraremos a estátua de ouro que levantaste."
+            },
+            {
+                "id": "v3.19",
+                "versicle_number": 19,
+                "text": "Então Nabucodonosor se encheu de furor, e se mudou o aspecto do seu semblante contra Sadraque, Mesaque e Abednego: falou, e ordenou que o forno se aquecesse sete vezes mais do que se costumava aquecer."
+            },
+            {
+                "id": "v3.20",
+                "versicle_number": 20,
+                "text": "E ordenou aos homens mais fortes, que estavam no seu exército, que atassem a Sadraque, Mesaque e Abednego, para os lançarem no forno de fogo ardente."
+            },
+            {
+                "id": "v3.21",
+                "versicle_number": 21,
+                "text": "Então aqueles homens foram atados com as suas capas, seus calções, e seus chapéus, e seus vestidos, e foram lançados dentro do forno de fogo ardente."
+            },
+            {
+                "id": "v3.22",
+                "versicle_number": 22,
+                "text": "E, porque a palavra do rei apertava, e o forno estava sobremaneira quente, a chama do fogo matou aqueles homens que levantaram a Sadraque, Mesaque e Abednego."
+            },
+            {
+                "id": "v3.23",
+                "versicle_number": 23,
+                "text": "E estes três homens, Sadraque, Mesaque e Abednego, caíram atados dentro do forno de fogo ardente."
+            },
+            {
+                "id": "v3.24",
+                "versicle_number": 24,
+                "text": "Então o rei Nabucodonosor se espantou, e se levantou depressa: falou, e disse aos seus capitães: Não lançamos nós três homens atados dentro do fogo? Responderam e disseram ao rei: É verdade, ó rei."
+            },
+            {
+                "id": "v3.25",
+                "versicle_number": 25,
+                "text": "Respondeu, e disse: Eu, porém, vejo quatro homens soltos, que andam passeando dentro do fogo, e nada há de lesão neles; e o aspecto do quarto é semelhante ao filho dos deuses."
+            },
+            {
+                "id": "v3.26",
+                "versicle_number": 26,
+                "text": "Então se chegou Nabucodonosor à porta do forno de fogo ardente; falou, e disse: Sadraque, Mesaque e Abednego, servos do Deus Altíssimo, saí e vinde! Então Sadraque, Mesaque e Abednego saíram do meio do fogo."
+            },
+            {
+                "id": "v3.27",
+                "versicle_number": 27,
+                "text": "E ajuntaram-se os sátrapas, os prefeitos, e os presidentes, e os capitães do rei, contemplando estes homens, e viram que o fogo não tinha tido poder algum sobre os seus corpos: nem um só cabelo da sua cabeça se tinha queimado, nem as suas capas se mudaram, nem cheiro de fogo tinha passado sobre eles."
+            },
+            {
+                "id": "v3.28",
+                "versicle_number": 28,
+                "text": "Falou Nabucodonosor, e disse: Bendito seja o Deus de Sadraque, Mesaque e Abednego, que enviou o seu anjo, e livrou os seus servos, que confiaram nele, pois {note:b}não quiseram cumprir a palavra do rei, preferindo entregar os seus corpos, para que não servissem nem adorassem algum outro deus, senão o seu Deus."
+            },
+            {
+                "id": "v3.29",
+                "versicle_number": 29,
+                "text": "Por mim pois é feito um decreto, pelo qual todo o povo, nação e língua que disser blasfêmia contra o Deus de Sadraque, Mesaque e Abednego, seja despedaçado e as suas casas sejam feitas um monturo; porquanto não há outro Deus que possa livrar como este."
+            },
+            {
+                "id": "v3.30",
+                "versicle_number": 30,
+                "text": "Então o rei fez prosperar a Sadraque, Mesaque e Abednego, na província de Babilônia."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:b} 3.28 ou mudaram"
+            }
+        ]
+    }
+}

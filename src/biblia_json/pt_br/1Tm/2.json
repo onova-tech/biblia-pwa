@@ -1,0 +1,121 @@
+{
+    "book": {
+        "id": "1Tm",
+        "book_number": 54,
+        "new_testament": true,
+        "num_chapters": 6,
+        "book_name": "TIMÓTEO",
+        "book_full_name": "PRIMEIRA EPÍSTOLA DO APÓSTOLO PAULO A TIMÓTEO"
+    },
+    "chapter": {
+        "chapter_number": 2,
+        "chapter_reference": "",
+        "chapter_title": "Devemos fazer orações por todos os homens",
+        "versicles": [
+            {
+                "id": "v2.1",
+                "versicle_number": 1,
+                "text": "ADMOESTO-TE pois, antes de tudo, que se façam deprecações, orações, intercessões, e ações de graças por todos os homens;"
+            },
+            {
+                "id": "v2.2",
+                "versicle_number": 2,
+                "text": "Pelos reis, e por todos os que estão em eminência, para que tenhamos uma vida quieta e sossegada, em toda a piedade e honestidade."
+            },
+            {
+                "id": "v2.3",
+                "versicle_number": 3,
+                "text": "Porque isto é bom e agradável diante de Deus nosso Salvador,"
+            },
+            {
+                "id": "v2.4",
+                "versicle_number": 4,
+                "text": "Que quer que todos os homens se salvem, e venham ao conhecimento da verdade."
+            },
+            {
+                "id": "v2.5",
+                "versicle_number": 5,
+                "text": "Porque há um só Deus, e um só Mediador entre Deus e os homens, Jesus Cristo homem."
+            },
+            {
+                "id": "v2.6",
+                "versicle_number": 6,
+                "text": "O qual se deu a si mesmo em preço de redenção por todos, para servir de testemunho a seu tempo."
+            },
+            {
+                "id": "v2.7",
+                "versicle_number": 7,
+                "text": "Para o que (digo a verdade em Cristo, não minto) fui constituído{note:1} pregador, e apóstolo, e {note:c}doutor dos gentios na fé e na verdade."
+            },
+            {
+                "id": "v2.8",
+                "versicle_number": 8,
+                "text": "Quero pois que os homens orem em todo o lugar, levantando mãos santas, sem ira nem contenda."
+            },
+            {
+                "id": "v2.9",
+                "versicle_number": 9,
+                "text": "Que do mesmo modo as mulheres{note:2} se ataviem em traje honesto, com pudor e modéstia, não com tranças, ou com ouro, ou pérolas ou vestidos preciosos,"
+            },
+            {
+                "id": "v2.10",
+                "versicle_number": 10,
+                "text": "Mas (como convém a mulheres que fazem profissão de servir a Deus) com boas obras."
+            },
+            {
+                "id": "v2.11",
+                "versicle_number": 11,
+                "text": "A mulher aprenda em silêncio, com toda a sujeição."
+            },
+            {
+                "id": "v2.12",
+                "versicle_number": 12,
+                "text": "Não permito, porém, que a mulher ensine, nem use de autoridade sobre o marido, mas que esteja em silêncio."
+            },
+            {
+                "id": "v2.13",
+                "versicle_number": 13,
+                "text": "Porque primeiro foi formado Adão,{note:3} depois Eva.{note:4}"
+            },
+            {
+                "id": "v2.14",
+                "versicle_number": 14,
+                "text": "E Adão, não foi enganado,{note:5} mas a mulher, sendo enganada, caiu em transgressão."
+            },
+            {
+                "id": "v2.15",
+                "versicle_number": 15,
+                "text": "Salvar-se-á, porém, dando à luz filhos, se permanecer com modéstia na fé, {note:d}na caridade e na santificação."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v2.9",
+                "text": "Os deveres das mulheres cristãs"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 2.7 2Tm 1.11 {note:c} 2.7 ou instruidor"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 2.9 1Pe 3.3"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 2.13 Gn 2.7 {note:4} 2.13 Gn 2.21-22"
+            },
+            {
+                "id": "n4",
+                "text": "{note:5} 2.14 Gn 3.1-6"
+            },
+            {
+                "id": "n5",
+                "text": "{note:d} 2.15 ou no amor"
+            }
+        ]
+    }
+}

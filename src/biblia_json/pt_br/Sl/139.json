@@ -1,0 +1,144 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 139,
+        "chapter_reference": "",
+        "chapter_title": "A onipresença e a onipotência de Deus",
+        "versicles": [
+            {
+                "id": "v139.1",
+                "versicle_number": 1,
+                "text": "SENHOR, tu me sondaste, e me conheces."
+            },
+            {
+                "id": "v139.2",
+                "versicle_number": 2,
+                "text": "Tu conheces o meu assentar e o meu levantar: de longe entendes o meu pensamento."
+            },
+            {
+                "id": "v139.3",
+                "versicle_number": 3,
+                "text": "Cercas o meu andar, e o meu deitar; e conheces todos os meus caminhos."
+            },
+            {
+                "id": "v139.4",
+                "versicle_number": 4,
+                "text": "Sem que haja uma palavra na minha língua, eis que, ó Senhor, tudo conheces."
+            },
+            {
+                "id": "v139.5",
+                "versicle_number": 5,
+                "text": "Tu me cercaste em volta; e puseste sobre mim a tua mão."
+            },
+            {
+                "id": "v139.6",
+                "versicle_number": 6,
+                "text": "Tal ciência é para mim maravilhosíssima; tão alta que não a posso atingir."
+            },
+            {
+                "id": "v139.7",
+                "versicle_number": 7,
+                "text": "Para onde me irei do teu Espírito, ou para onde fugirei da tua face?"
+            },
+            {
+                "id": "v139.8",
+                "versicle_number": 8,
+                "text": "Se subir ao céu, tu aí estás; se fizer no {note:d}Seol a minha cama, eis que tu ali estás também."
+            },
+            {
+                "id": "v139.9",
+                "versicle_number": 9,
+                "text": "Se tomar as asas da alva, se habitar nas extremidades do mar."
+            },
+            {
+                "id": "v139.10",
+                "versicle_number": 10,
+                "text": "Até ali a tua mão me guiará e a tua destra me susterá."
+            },
+            {
+                "id": "v139.11",
+                "versicle_number": 11,
+                "text": "Se disser: Decerto que as trevas me encobrirão; então a noite será luz à roda de mim."
+            },
+            {
+                "id": "v139.12",
+                "versicle_number": 12,
+                "text": "Nem ainda as trevas me escondem de ti: mas a noite resplandece como o dia; as trevas e a luz são para ti a mesma cousa."
+            },
+            {
+                "id": "v139.13",
+                "versicle_number": 13,
+                "text": "Pois possuíste os meus rins; entreteceste-me no ventre de minha mãe."
+            },
+            {
+                "id": "v139.14",
+                "versicle_number": 14,
+                "text": "Eu te louvarei, porque de um modo terrível, e tão maravilhoso fui formado; maravilhosas são as tuas obras, e a minha alma o sabe muito bem."
+            },
+            {
+                "id": "v139.15",
+                "versicle_number": 15,
+                "text": "Os meus ossos não te foram encobertos, quando no oculto fui formado, e entretecido como nas profundezas da terra."
+            },
+            {
+                "id": "v139.16",
+                "versicle_number": 16,
+                "text": "Os teus olhos viram o meu corpo ainda informe, e no teu livro todas estas cousas foram escritas; as quais iam sendo dia a dia formadas, quando nem ainda uma delas havia."
+            },
+            {
+                "id": "v139.17",
+                "versicle_number": 17,
+                "text": "E quão preciosos me são, ó Deus, os teus pensamentos! Quão grandes são as somas deles!"
+            },
+            {
+                "id": "v139.18",
+                "versicle_number": 18,
+                "text": "Se as contasse, seriam em maior número do que a areia: quando acordo ainda estou contigo."
+            },
+            {
+                "id": "v139.19",
+                "versicle_number": 19,
+                "text": "Ó Deus! tu matarás decerto o ímpio: apartai-vos portanto de mim, homens de sangue."
+            },
+            {
+                "id": "v139.20",
+                "versicle_number": 20,
+                "text": "Pois falam malvadamente contra ti; e os teus inimigos tomam o teu nome em vão."
+            },
+            {
+                "id": "v139.21",
+                "versicle_number": 21,
+                "text": "Não aborreço eu, ó Senhor, aqueles que te aborrecem, e não me aflijo por causa dos que se levantam contra ti?"
+            },
+            {
+                "id": "v139.22",
+                "versicle_number": 22,
+                "text": "Aborreço-os com ódio completo: tenho-os por inimigos."
+            },
+            {
+                "id": "v139.23",
+                "versicle_number": 23,
+                "text": "Sonda-me, ó Deus, e conhece o meu coração: prova-me, e conhece os meus pensamentos."
+            },
+            {
+                "id": "v139.24",
+                "versicle_number": 24,
+                "text": "E vê se há em mim algum caminho mau, e guia-me pelo caminho eterno."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:d} 139.8 que é abismo ou lugar dos mortos"
+            }
+        ]
+    }
+}

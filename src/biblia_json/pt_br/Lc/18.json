@@ -1,0 +1,273 @@
+{
+    "book": {
+        "id": "Lc",
+        "book_number": 42,
+        "new_testament": true,
+        "num_chapters": 24,
+        "book_name": "LUCAS",
+        "book_full_name": "O SANTO EVANGELHO SEGUNDO LUCAS"
+    },
+    "chapter": {
+        "chapter_number": 18,
+        "chapter_reference": "Mateus 19.13-15 e refs.",
+        "chapter_title": "A parábola do juiz iníquo",
+        "versicles": [
+            {
+                "id": "v18.1",
+                "versicle_number": 1,
+                "text": "E CONTOU-LHES também uma parábola sobre o dever de orar sempre, e nunca desfalecer,"
+            },
+            {
+                "id": "v18.2",
+                "versicle_number": 2,
+                "text": "Dizendo: Havia numa cidade um certo juiz, que nem a Deus temia nem respeitava o homem."
+            },
+            {
+                "id": "v18.3",
+                "versicle_number": 3,
+                "text": "Havia também naquela mesma cidade uma certa viúva, e ia ter com ele, dizendo: Faze-me justiça contra o meu adversário."
+            },
+            {
+                "id": "v18.4",
+                "versicle_number": 4,
+                "text": "E por algum tempo não quis; mas depois disse consigo: Ainda que não temo a Deus, nem respeito os homens,"
+            },
+            {
+                "id": "v18.5",
+                "versicle_number": 5,
+                "text": "Todavia, como esta viúva me molesta, hei de fazer-lhe justiça, para que enfim não volte, e me importune muito."
+            },
+            {
+                "id": "v18.6",
+                "versicle_number": 6,
+                "text": "E disse o Senhor: Ouvi o que diz o injusto juiz."
+            },
+            {
+                "id": "v18.7",
+                "versicle_number": 7,
+                "text": "E Deus não fará justiça aos seus escolhidos, que clamam a ele de dia e de noite, ainda que {note:o}tardio para com eles?"
+            },
+            {
+                "id": "v18.8",
+                "versicle_number": 8,
+                "text": "Digo-vos que depressa lhes fará justiça. Quando porém vier o Filho do homem, porventura achará fé na terra?"
+            },
+            {
+                "id": "v18.9",
+                "versicle_number": 9,
+                "text": "E disse também esta parábola a uns que confiavam em si mesmos, crendo que eram justos, e desprezavam os outros:"
+            },
+            {
+                "id": "v18.10",
+                "versicle_number": 10,
+                "text": "Dois homens subiram ao templo, a orar; um fariseu, e o outro publicano."
+            },
+            {
+                "id": "v18.11",
+                "versicle_number": 11,
+                "text": "O fariseu, estando em pé, orava consigo desta maneira: Ó Deus, graças te dou, porque não sou como os demais homens, roubadores, injustos e adúlteros; nem ainda como este publicano."
+            },
+            {
+                "id": "v18.12",
+                "versicle_number": 12,
+                "text": "Jejuo duas vezes na semana, e dou os dízimos de tudo quanto possuo."
+            },
+            {
+                "id": "v18.13",
+                "versicle_number": 13,
+                "text": "O publicano, porém, estando em pé, de longe, nem ainda queria levantar os olhos ao céu, mas batia no peito, dizendo: Ó Deus, tem misericórdia de mim, pecador!"
+            },
+            {
+                "id": "v18.14",
+                "versicle_number": 14,
+                "text": "Digo-vos que este desceu justificado para sua casa, e não aquele; porque qualquer que a si mesmo se exalta{note:1} será humilhado, e qualquer que a si mesmo se humilha será exaltado."
+            },
+            {
+                "id": "v18.15",
+                "versicle_number": 15,
+                "text": "E traziam-lhe também meninos, para que ele lhes tocasse; e os discípulos, vendo isto, repreendiam-nos."
+            },
+            {
+                "id": "v18.16",
+                "versicle_number": 16,
+                "text": "Mas Jesus, chamando-os para si, disse: Deixai vir a mim os meninos, e não os impeçais, porque dos tais é o reino de Deus."
+            },
+            {
+                "id": "v18.17",
+                "versicle_number": 17,
+                "text": "Em verdade vos digo que, qualquer que não receber o reino de Deus como menino, não entrará nele."
+            },
+            {
+                "id": "v18.18",
+                "versicle_number": 18,
+                "text": "E perguntou-lhe um certo príncipe, dizendo: Bom Mestre, que hei de fazer para herdar a vida eterna?"
+            },
+            {
+                "id": "v18.19",
+                "versicle_number": 19,
+                "text": "Jesus lhe disse: Por que me chamas bom? Ninguém há bom, senão um, que é Deus."
+            },
+            {
+                "id": "v18.20",
+                "versicle_number": 20,
+                "text": "Sabes os mandamentos: Não adulterarás,{note:2} não matarás,{note:3} não furtarás,{note:4} não dirás falso testemunho,{note:5} honra a teu pai e a tua mãe.{note:6}"
+            },
+            {
+                "id": "v18.21",
+                "versicle_number": 21,
+                "text": "E disse ele: Todas essas coisas tenho observado desde a minha mocidade."
+            },
+            {
+                "id": "v18.22",
+                "versicle_number": 22,
+                "text": "E quando Jesus ouviu isto, disse-lhe: Ainda te falta uma coisa: vende tudo quanto tens, reparte-o pelos pobres, e terás um tesouro no céu; vem, e segue-me."
+            },
+            {
+                "id": "v18.23",
+                "versicle_number": 23,
+                "text": "Mas, ouvindo ele isto, ficou muito triste, porque era muito rico."
+            },
+            {
+                "id": "v18.24",
+                "versicle_number": 24,
+                "text": "E, vendo Jesus que ele ficara muito triste, disse: Quão dificilmente entrarão no reino de Deus os que têm riquezas!"
+            },
+            {
+                "id": "v18.25",
+                "versicle_number": 25,
+                "text": "Porque é mais fácil entrar um camelo pelo fundo duma agulha do que entrar um rico no reino de Deus."
+            },
+            {
+                "id": "v18.26",
+                "versicle_number": 26,
+                "text": "E os que ouviram isto disseram: Logo quem pode salvar-se?"
+            },
+            {
+                "id": "v18.27",
+                "versicle_number": 27,
+                "text": "Mas ele respondeu: As coisas que são impossíveis aos homens são possíveis a Deus."
+            },
+            {
+                "id": "v18.28",
+                "versicle_number": 28,
+                "text": "E disse Pedro: Eis que nós deixamos tudo e te seguimos."
+            },
+            {
+                "id": "v18.29",
+                "versicle_number": 29,
+                "text": "E ele lhes disse: Na verdade vos digo que ninguém há, que tenha deixado casa, ou pais, ou irmãos, ou mulher, ou filhos, pelo reino de Deus,"
+            },
+            {
+                "id": "v18.30",
+                "versicle_number": 30,
+                "text": "E não haja de receber muito mais neste mundo e na idade vindoura a vida eterna."
+            },
+            {
+                "id": "v18.31",
+                "versicle_number": 31,
+                "text": "E, tomando consigo os doze, disse-lhes: Eis que subimos a Jerusalém, e se cumprirá no Filho do homem tudo o que pelos profetas foi escrito;"
+            },
+            {
+                "id": "v18.32",
+                "versicle_number": 32,
+                "text": "Pois há de ser entregue às gentes, e escarnecido, injuriado e cuspido;"
+            },
+            {
+                "id": "v18.33",
+                "versicle_number": 33,
+                "text": "E, havendo-o açoitado, o matarão; e ao terceiro dia ressuscitará."
+            },
+            {
+                "id": "v18.34",
+                "versicle_number": 34,
+                "text": "E eles nada disto entendiam, e esta palavra lhes era encoberta, não percebendo o que se lhes dizia."
+            },
+            {
+                "id": "v18.35",
+                "versicle_number": 35,
+                "text": "E aconteceu que, chegando ele perto de Jericó, estava um cego assentado junto do caminho, mendigando."
+            },
+            {
+                "id": "v18.36",
+                "versicle_number": 36,
+                "text": "E, ouvindo passar a multidão, perguntou que era aquilo."
+            },
+            {
+                "id": "v18.37",
+                "versicle_number": 37,
+                "text": "E disseram-lhe que Jesus Nazareno passava."
+            },
+            {
+                "id": "v18.38",
+                "versicle_number": 38,
+                "text": "Então clamou, dizendo: Jesus, Filho de Davi, tem misericórdia de mim."
+            },
+            {
+                "id": "v18.39",
+                "versicle_number": 39,
+                "text": "E os que iam passando repreendiam-no para que se calasse; mas ele clamava ainda mais: Filho de Davi, tem misericórdia de mim."
+            },
+            {
+                "id": "v18.40",
+                "versicle_number": 40,
+                "text": "Então Jesus, parando, mandou que lho trouxessem; e, chegando ele, perguntou-lhe,"
+            },
+            {
+                "id": "v18.41",
+                "versicle_number": 41,
+                "text": "Dizendo: Que queres que te faça? E ele disse: Senhor, que eu veja."
+            },
+            {
+                "id": "v18.42",
+                "versicle_number": 42,
+                "text": "E Jesus lhe disse: Vê: a tua fé te salvou."
+            },
+            {
+                "id": "v18.43",
+                "versicle_number": 43,
+                "text": "E logo viu, e seguia-o, glorificando a Deus. E todo o povo, vendo isto, dava louvores a Deus."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v18.9",
+                "text": "A parábola do fariseu e do publicano"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "",
+                "text": "Jesus abençoa os meninos"
+            },
+            {
+                "id": "s3",
+                "next_versicle_id": "",
+                "text": "O mancebo de qualidade"
+            },
+            {
+                "id": "s4",
+                "next_versicle_id": "",
+                "text": "Jesus anuncia a sua paixão"
+            },
+            {
+                "id": "s5",
+                "next_versicle_id": "",
+                "text": "O cego de Jericó"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:o} 18.7 ou longânimo"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 18.14 Mt 23.12; Lc 14.11"
+            },
+            {
+                "id": "n3",
+                "text": "{note:2} 18.20 Êx 20.14; Dt 5.18 {note:6} 18.20 Êx 20.12; Dt 5.16 {note:5} 18.20 Êx 20.16; Dt 5.20 {note:4} 18.20 Êx 20.15; Dt 5.19 {note:3} 18.20 Êx 20.13; Dt 5.17"
+            }
+        ]
+    }
+}

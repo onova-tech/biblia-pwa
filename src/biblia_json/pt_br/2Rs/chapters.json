@@ -1,0 +1,137 @@
+{
+    "book": {
+        "id": "2Rs",
+        "book_number": 12,
+        "new_testament": false,
+        "num_chapters": 25,
+        "book_name": "2º REIS",
+        "book_full_name": "O SEGUNDO LIVRO DOS REIS"
+    },
+    "chapters": [
+        {
+            "chapter_number": 10,
+            "chapter_reference": "",
+            "chapter_title": "Jeú extermina a casa de Acabe"
+        },
+        {
+            "chapter_number": 11,
+            "chapter_reference": "",
+            "chapter_title": "Atália manda matar a família real. Joás escapa e é ungido rei"
+        },
+        {
+            "chapter_number": 12,
+            "chapter_reference": "",
+            "chapter_title": "Joás manda reparar o templo"
+        },
+        {
+            "chapter_number": 13,
+            "chapter_reference": "",
+            "chapter_title": "Joacaz e Jeoás, reis de Israel"
+        },
+        {
+            "chapter_number": 14,
+            "chapter_reference": "",
+            "chapter_title": "Amazias mata os matadores de seu pai"
+        },
+        {
+            "chapter_number": 15,
+            "chapter_reference": "",
+            "chapter_title": "Azarias, rei de Judá"
+        },
+        {
+            "chapter_number": 16,
+            "chapter_reference": "",
+            "chapter_title": "Acaz, rei de Judá"
+        },
+        {
+            "chapter_number": 17,
+            "chapter_reference": "",
+            "chapter_title": "Oseias, rei de Israel"
+        },
+        {
+            "chapter_number": 18,
+            "chapter_reference": "",
+            "chapter_title": "Ezequias restabelece o culto do Senhor"
+        },
+        {
+            "chapter_number": 19,
+            "chapter_reference": "",
+            "chapter_title": "Ezequias ora na casa do Senhor"
+        },
+        {
+            "chapter_number": 1,
+            "chapter_reference": "",
+            "chapter_title": "Moabe revolta-se contra Israel e Acazias adoece"
+        },
+        {
+            "chapter_number": 20,
+            "chapter_reference": "",
+            "chapter_title": "Ezequias adoece"
+        },
+        {
+            "chapter_number": 21,
+            "chapter_reference": "",
+            "chapter_title": "A impiedade de Manassés e as ameaças de Deus"
+        },
+        {
+            "chapter_number": 22,
+            "chapter_reference": "",
+            "chapter_title": "Josias repara o templo"
+        },
+        {
+            "chapter_number": 23,
+            "chapter_reference": "",
+            "chapter_title": "Josias ajunta todo o povo e renova o pacto do Senhor"
+        },
+        {
+            "chapter_number": 24,
+            "chapter_reference": "",
+            "chapter_title": "O princípio do cativeiro de Judá"
+        },
+        {
+            "chapter_number": 25,
+            "chapter_reference": "",
+            "chapter_title": "Gedalias governa, mas Ismael mata-o"
+        },
+        {
+            "chapter_number": 2,
+            "chapter_reference": "",
+            "chapter_title": "Elias é elevado ao céu num carro de fogo"
+        },
+        {
+            "chapter_number": 3,
+            "chapter_reference": "",
+            "chapter_title": "Eliseu salva três reis e os seus exércitos"
+        },
+        {
+            "chapter_number": 4,
+            "chapter_reference": "",
+            "chapter_title": "Eliseu aumenta o azeite da viúva"
+        },
+        {
+            "chapter_number": 5,
+            "chapter_reference": "",
+            "chapter_title": "Naamã é curado da lepra"
+        },
+        {
+            "chapter_number": 6,
+            "chapter_reference": "",
+            "chapter_title": "Eliseu faz flutuar um ferro dum machado"
+        },
+        {
+            "chapter_number": 7,
+            "chapter_reference": "",
+            "chapter_title": "Eliseu prediz a abundância de víveres"
+        },
+        {
+            "chapter_number": 8,
+            "chapter_reference": "",
+            "chapter_title": "A sunamita volta para a sua terra"
+        },
+        {
+            "chapter_number": 9,
+            "chapter_reference": "",
+            "chapter_title": "Jeú é ungido rei de Israel e mata a Jorão e a Jezabel"
+        }
+    ]
+}

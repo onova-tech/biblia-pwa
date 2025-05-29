@@ -1,0 +1,155 @@
+{
+    "book": {
+        "id": "Cl",
+        "book_number": 51,
+        "new_testament": true,
+        "num_chapters": 4,
+        "book_name": "COLOSSENSES",
+        "book_full_name": "EPÍSTOLA DO APÓSTOLO PAULO AOS COLOSSENSES"
+    },
+    "chapter": {
+        "chapter_number": 2,
+        "chapter_reference": "",
+        "chapter_title": "Advertência acerca das falsas doutrinas",
+        "versicles": [
+            {
+                "id": "v2.1",
+                "versicle_number": 1,
+                "text": "PORQUE quero que saibais quão grande combate tenho por vós, e pelos que estão em Laodiceia, e por quantos não viram o meu rosto em carne;"
+            },
+            {
+                "id": "v2.2",
+                "versicle_number": 2,
+                "text": "Para que os seus corações sejam consolados, e estejam unidos em {note:d}caridade, e enriquecidos da plenitude da inteligência, para conhecimento do mistério de Deus — Cristo,"
+            },
+            {
+                "id": "v2.3",
+                "versicle_number": 3,
+                "text": "Em quem estão escondidos todos os tesouros da sabedoria e da ciência."
+            },
+            {
+                "id": "v2.4",
+                "versicle_number": 4,
+                "text": "E digo isto, para que ninguém vos engane com palavras persuasivas."
+            },
+            {
+                "id": "v2.5",
+                "versicle_number": 5,
+                "text": "Porque ainda que esteja ausente quanto ao corpo, contudo em espírito estou convosco, regozijando-me, e vendo a vossa ordem, e a firmeza da vossa fé em Cristo."
+            },
+            {
+                "id": "v2.6",
+                "versicle_number": 6,
+                "text": "Como, pois, recebestes o Senhor Jesus Cristo, assim também andai nele."
+            },
+            {
+                "id": "v2.7",
+                "versicle_number": 7,
+                "text": "Arraigados e sobre-edificados nele, e confirmados na fé, assim como fostes ensinados, abundando em ação de graças."
+            },
+            {
+                "id": "v2.8",
+                "versicle_number": 8,
+                "text": "Tende cuidado, para que ninguém vos faça presa sua, por meio de filosofias e vãs sutilezas, segundo a tradição dos homens, segundo os rudimentos do mundo, e não segundo Cristo:"
+            },
+            {
+                "id": "v2.9",
+                "versicle_number": 9,
+                "text": "Porque nele habita corporalmente toda a plenitude da divindade;"
+            },
+            {
+                "id": "v2.10",
+                "versicle_number": 10,
+                "text": "E estais perfeitos nele, que é a cabeça de todo o principado e potestade;"
+            },
+            {
+                "id": "v2.11",
+                "versicle_number": 11,
+                "text": "No qual também estais circuncidados com a circuncisão não feita por mão no despojo do corpo da carne: a circuncisão de Cristo;"
+            },
+            {
+                "id": "v2.12",
+                "versicle_number": 12,
+                "text": "Sepultados com ele no batismo,{note:1} nele também ressuscitastes pela fé no poder de Deus, que o ressuscitou dos mortos."
+            },
+            {
+                "id": "v2.13",
+                "versicle_number": 13,
+                "text": "E, quando vós estáveis mortos nos pecados, e na incircuncisão da vossa carne, vos vivificou juntamente com ele, perdoando-vos todas as ofensas,"
+            },
+            {
+                "id": "v2.14",
+                "versicle_number": 14,
+                "text": "Havendo riscado a cédula que era contra nós nas suas ordenanças, a qual de alguma maneira nos era contrária, e a tirou do meio de nós, cravando-a na cruz."
+            },
+            {
+                "id": "v2.15",
+                "versicle_number": 15,
+                "text": "E, despojando os principados e potestades, os expôs publicamente e deles triunfou em si mesmo."
+            },
+            {
+                "id": "v2.16",
+                "versicle_number": 16,
+                "text": "Portanto ninguém vos julgue pelo comer, ou pelo beber ou por causa dos dias de festa, ou da lua nova, ou dos sábados."
+            },
+            {
+                "id": "v2.17",
+                "versicle_number": 17,
+                "text": "Que são sombras das coisas futuras, mas o corpo é de Cristo."
+            },
+            {
+                "id": "v2.18",
+                "versicle_number": 18,
+                "text": "Ninguém vos {note:e}domine a seu bel-prazer com pretexto de humildade e culto dos anjos, metendo-se em coisas que não viu; estando debalde inchado na sua carnal compreensão,"
+            },
+            {
+                "id": "v2.19",
+                "versicle_number": 19,
+                "text": "E não ligado à cabeça, da qual todo o corpo,{note:2} provido e organizado pelas juntas e ligaduras, vai crescendo em aumento de Deus."
+            },
+            {
+                "id": "v2.20",
+                "versicle_number": 20,
+                "text": "Se, pois, estais mortos com Cristo quanto aos rudimentos do mundo, por que vos carregam ainda de ordenanças, como se vivêsseis no mundo,"
+            },
+            {
+                "id": "v2.21",
+                "versicle_number": 21,
+                "text": "Tais como: não toques, não proves, não manuseies?"
+            },
+            {
+                "id": "v2.22",
+                "versicle_number": 22,
+                "text": "As quais coisas todas perecem pelo uso, segundo os preceitos e doutrinas dos homens;"
+            },
+            {
+                "id": "v2.23",
+                "versicle_number": 23,
+                "text": "As quais têm, na verdade, alguma aparência de sabedoria, em devoção voluntária, humildade, e em disciplina do corpo, mas não são de valor algum senão para a satisfação da carne.{note:3}"
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:d} 2.2 ou amor"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 2.12 Rm 6.4"
+            },
+            {
+                "id": "n3",
+                "text": "{note:e} 2.18 ou prive da vossa recompensa"
+            },
+            {
+                "id": "n4",
+                "text": "{note:2} 2.19 Ef 4.16"
+            },
+            {
+                "id": "n5",
+                "text": "{note:3} 2.8-23 Gl 4.8-20; Ef 2.1-10"
+            }
+        ]
+    }
+}

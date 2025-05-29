@@ -1,0 +1,215 @@
+{
+    "book": {
+        "id": "Ez",
+        "book_number": 26,
+        "new_testament": false,
+        "num_chapters": 48,
+        "book_name": "EZEQUIEL",
+        "book_full_name": "EZEQUIEL"
+    },
+    "chapter": {
+        "chapter_number": 44,
+        "chapter_reference": "",
+        "chapter_title": "A restauração do templo: reformas no ministério do santuário",
+        "versicles": [
+            {
+                "id": "v44.1",
+                "versicle_number": 1,
+                "text": "ENTÃO me fez voltar para o caminho da porta do santuário exterior, que olha para o oriente, a qual estava fechada."
+            },
+            {
+                "id": "v44.2",
+                "versicle_number": 2,
+                "text": "E disse-me o Senhor: Esta porta estará fechada, não se abrirá; ninguém entrará por ela, porque o Senhor Deus de Israel entrou por ela: por isso estará fechada."
+            },
+            {
+                "id": "v44.3",
+                "versicle_number": 3,
+                "text": "Quanto ao príncipe, ele ali se assentará como príncipe, para comer o pão diante do Senhor; pelo caminho do vestíbulo da porta entrará, e por esse mesmo caminho sairá."
+            },
+            {
+                "id": "v44.4",
+                "versicle_number": 4,
+                "text": "Depois me levou pelo caminho da porta do norte, diante da casa; e olhei, e eis que a glória do Senhor encheu a casa do Senhor; então caí sobre o meu rosto."
+            },
+            {
+                "id": "v44.5",
+                "versicle_number": 5,
+                "text": "E disse-me o Senhor: Filho do homem, pondera no teu coração, e vê com os teus olhos, e ouve com os teus ouvidos, tudo quanto eu te disser de todos os estatutos da casa do Senhor, e de todas as suas leis; e considera no teu coração a entrada da casa, com todas as saídas do santuário."
+            },
+            {
+                "id": "v44.6",
+                "versicle_number": 6,
+                "text": "E dize aos rebeldes, à casa de Israel: Assim diz o Senhor JEOVÁ: Bastem-vos todas as vossas abominações, ó casa de Israel!"
+            },
+            {
+                "id": "v44.7",
+                "versicle_number": 7,
+                "text": "Porquanto chamastes estranhos, incircuncisos de coração e incircuncisos de carne, para estarem no meu santuário, para o profanarem em minha casa, quando ofereceis o meu pão, a gordura, e o sangue; e eles invalidaram o meu concerto, por causa de todas as vossas abominações."
+            },
+            {
+                "id": "v44.8",
+                "versicle_number": 8,
+                "text": "E não guardastes a ordenança das minhas cousas sagradas; antes vos constituístes, a vós mesmos guardas da minha ordenança no meu santuário."
+            },
+            {
+                "id": "v44.9",
+                "versicle_number": 9,
+                "text": "Assim diz o Senhor JEOVÁ: Nenhum estranho, incircunciso de coração ou incircunciso de carne, entrará no meu santuário, dentre os estranhos que se acharem no meio dos filhos de Israel."
+            },
+            {
+                "id": "v44.10",
+                "versicle_number": 10,
+                "text": "Mas os levitas que se apartaram para longe de mim, quando Israel andava errado; que andavam transviados, desviados de mim, para irem atrás dos seus ídolos, bem levarão sobre si a sua iniquidade."
+            },
+            {
+                "id": "v44.11",
+                "versicle_number": 11,
+                "text": "Contudo serão ministros do meu santuário, nos cargos das portas da casa, e servirão à casa: eles degolarão o holocausto, e o sacrifício para o povo, e estarão perante ele, para o servir."
+            },
+            {
+                "id": "v44.12",
+                "versicle_number": 12,
+                "text": "Porque lhes ministraram diante dos seus ídolos, e serviram à casa de Israel de tropeço de maldade: por isso eu levantei a minha mão sobre eles, diz o Senhor JEOVÁ, e eles levarão sobre si a sua iniquidade."
+            },
+            {
+                "id": "v44.13",
+                "versicle_number": 13,
+                "text": "E não se chegarão a mim, para me servirem no sacerdócio, nem se chegarão a nenhuma de todas as minhas cousas sagradas, às santidades de santidades, mas levarão sobre si a sua vergonha e as suas abominações que cometeram."
+            },
+            {
+                "id": "v44.14",
+                "versicle_number": 14,
+                "text": "Contudo, eu os constituirei guardas da ordenança da casa, em todo o seu serviço, e em tudo o que nela se fizer."
+            },
+            {
+                "id": "v44.15",
+                "versicle_number": 15,
+                "text": "Mas os sacerdotes levíticos, os filhos de Zadoque, que guardaram a ordenança do meu santuário, quando os filhos de Israel se extraviaram de mim, se chegarão a mim, para me servirem, e estarão diante de mim, para me oferecerem a gordura e o sangue, diz o Senhor JEOVÁ."
+            },
+            {
+                "id": "v44.16",
+                "versicle_number": 16,
+                "text": "Eles entrarão no meu santuário, e se chegarão à minha mesa, para me servirem, e guardarão a minha ordenança."
+            },
+            {
+                "id": "v44.17",
+                "versicle_number": 17,
+                "text": "E será que, quando entrarem pelas portas do átrio interior, se vestirão de vestiduras de linho;{note:1} e não se porá lã sobre eles, quando servirem nas portas do átrio interior, dentro da casa."
+            },
+            {
+                "id": "v44.18",
+                "versicle_number": 18,
+                "text": "Coifas de linho estarão sobre as suas cabeças, e ceroulas de linho estarão sobre os seus rins: não se cingirão de modo que lhes venha suor."
+            },
+            {
+                "id": "v44.19",
+                "versicle_number": 19,
+                "text": "E, saindo eles ao átrio exterior, ao povo, no átrio exterior, despirão as suas vestiduras{note:2} com que ministraram, e as porão nas santas câmaras, e se vestirão de outros vestidos, para que não santifiquem o povo estando com as suas vestiduras."
+            },
+            {
+                "id": "v44.20",
+                "versicle_number": 20,
+                "text": "E a sua cabeça não raparão,{note:3} nem deixarão crescer o seu cabelo; antes, como convém, tosquiarão as suas cabeças."
+            },
+            {
+                "id": "v44.21",
+                "versicle_number": 21,
+                "text": "E nenhum sacerdote beberá vinho{note:4} quando entrar no átrio interior."
+            },
+            {
+                "id": "v44.22",
+                "versicle_number": 22,
+                "text": "E eles não se casarão nem com viúva{note:5} nem com repudiada, mas tomarão virgens da linhagem da casa de Israel, ou viúva que for viúva de sacerdote."
+            },
+            {
+                "id": "v44.23",
+                "versicle_number": 23,
+                "text": "E a meu povo ensinarão a distinguir entre o santo e o profano,{note:6} e o farão discernir entre o impuro e o puro."
+            },
+            {
+                "id": "v44.24",
+                "versicle_number": 24,
+                "text": "E, quando houver pleito, eles assistirão a ele para o julgarem; pelos meus juízos o julgarão: e as minhas leis e os meus estatutos em todas as minhas solenidades guardarão, e os meus sábados santificarão."
+            },
+            {
+                "id": "v44.25",
+                "versicle_number": 25,
+                "text": "E eles não se aproximarão de nenhuma pessoa morta, porque se contaminariam;{note:7} somente por pai, ou por mãe, ou por filho, ou por filha, ou por irmão ou por irmã que não tiver marido, se poderão contaminar."
+            },
+            {
+                "id": "v44.26",
+                "versicle_number": 26,
+                "text": "E, depois da sua purificação, lhe contarão sete dias."
+            },
+            {
+                "id": "v44.27",
+                "versicle_number": 27,
+                "text": "E, no dia em que ele entrar no lugar santo, no átrio interior, para ministrar no lugar santo, oferecerá a sua expiação pelo pecado, diz o Senhor JEOVÁ."
+            },
+            {
+                "id": "v44.28",
+                "versicle_number": 28,
+                "text": "Eles terão uma herança:{note:8} eu serei a sua herança: não lhes dareis portanto possessão em Israel: eu sou a sua possessão."
+            },
+            {
+                "id": "v44.29",
+                "versicle_number": 29,
+                "text": "E oferta de manjares, e o sacrifício pelo pecado, e o sacrifício pela culpa eles comerão;{note:9} e toda a cousa consagrada em Israel será deles."
+            },
+            {
+                "id": "v44.30",
+                "versicle_number": 30,
+                "text": "E as primícias de todos os primeiros frutos de tudo, e toda a oferta de todas as vossas ofertas, serão dos sacerdotes: também as primeiras das vossas massas dareis ao sacerdote; para que faça repousar a bênção sobre a tua casa."
+            },
+            {
+                "id": "v44.31",
+                "versicle_number": 31,
+                "text": "Nenhuma cousa que tenha morrido ou tenha sido arrebatada de aves e de animais, comerão os sacerdotes.{note:10}"
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 44.17 Êx 28.39-43; Lv 16.4"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 44.19 Lv 16.23"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 44.20 Lv 21.5"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 44.21 Lv 10.9"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 44.22 Lv 21.7,13-14"
+            },
+            {
+                "id": "n6",
+                "text": "{note:6} 44.23 Lv 10.10"
+            },
+            {
+                "id": "n7",
+                "text": "{note:7} 44.25 Lv 21.1-4"
+            },
+            {
+                "id": "n8",
+                "text": "{note:8} 44.28 Nm 18.20"
+            },
+            {
+                "id": "n9",
+                "text": "{note:9} 44.29 Nm 18.8-19"
+            },
+            {
+                "id": "n10",
+                "text": "{note:10} 44.31 Lv 22.8"
+            }
+        ]
+    }
+}

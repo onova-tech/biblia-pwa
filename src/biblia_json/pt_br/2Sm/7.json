@@ -1,0 +1,173 @@
+{
+    "book": {
+        "id": "2Sm",
+        "book_number": 10,
+        "new_testament": false,
+        "num_chapters": 24,
+        "book_name": "SAMUEL",
+        "book_full_name": "O SEGUNDO LIVRO DE SAMUEL"
+    },
+    "chapter": {
+        "chapter_number": 7,
+        "chapter_reference": "",
+        "chapter_title": "Davi deseja edificar um templo ao Senhor",
+        "versicles": [
+            {
+                "id": "v7.1",
+                "versicle_number": 1,
+                "text": "E SUCEDEU que, estando o rei Davi em sua casa, e que o Senhor lhe tinha dado descanso de todos os seus inimigos em redor:"
+            },
+            {
+                "id": "v7.2",
+                "versicle_number": 2,
+                "text": "Disse o rei ao profeta Natã: Ora olha, eu moro em casa de cedros e a arca de Deus mora dentro de cortinas."
+            },
+            {
+                "id": "v7.3",
+                "versicle_number": 3,
+                "text": "E disse Natã ao rei: Vai, e faze tudo quanto está no teu coração; porque o Senhor é contigo."
+            },
+            {
+                "id": "v7.4",
+                "versicle_number": 4,
+                "text": "Porém sucedeu naquela mesma noite, que a palavra do Senhor veio a Natã dizendo:"
+            },
+            {
+                "id": "v7.5",
+                "versicle_number": 5,
+                "text": "Vai e dize a meu servo, a Davi: Assim diz o Senhor: Edificar-me-ias tu casa para minha habitação?"
+            },
+            {
+                "id": "v7.6",
+                "versicle_number": 6,
+                "text": "Porque em casa nenhuma habitei desde o dia em que fiz subir os filhos de Israel do Egito até ao dia de hoje: mas andei em tenda e em tabernáculo."
+            },
+            {
+                "id": "v7.7",
+                "versicle_number": 7,
+                "text": "E em todo o lugar em que andei com todos os filhos de Israel, falei porventura alguma palavra com qualquer das tribos de Israel, a quem mandei apascentar o meu povo de Israel, dizendo: Por que me não edificais uma casa de cedros?"
+            },
+            {
+                "id": "v7.8",
+                "versicle_number": 8,
+                "text": "Agora, pois, assim dirás ao meu servo, a Davi: Assim diz o Senhor dos exércitos: Eu te tomei da malhada, de detrás das ovelhas, para que fosses o chefe sobre o meu povo, sobre Israel."
+            },
+            {
+                "id": "v7.9",
+                "versicle_number": 9,
+                "text": "E fui contigo, por onde quer que foste, e destruí a teus inimigos diante de ti: e fiz para ti um grande nome, como o nome dos grandes que há na terra."
+            },
+            {
+                "id": "v7.10",
+                "versicle_number": 10,
+                "text": "E prepararei lugar para o meu povo, para Israel, e o plantarei, para que habite no seu lugar, e não mais seja movido e nunca mais os filhos da perversidade o aflijam como dantes,"
+            },
+            {
+                "id": "v7.11",
+                "versicle_number": 11,
+                "text": "E desde o dia em que mandei que houvesse juízes sobre o meu povo Israel: a ti porém te dei descanso de todos os teus inimigos: também o Senhor te faz saber que o Senhor te fará casa."
+            },
+            {
+                "id": "v7.12",
+                "versicle_number": 12,
+                "text": "Quando teus dias forem completos, e vieres a dormir com teus pais, então farei levantar depois de ti a tua semente, que sair das tuas entranhas, e estabelecerei o seu reino."
+            },
+            {
+                "id": "v7.13",
+                "versicle_number": 13,
+                "text": "Este edificará uma casa ao meu nome, e confirmarei o trono do seu reino para sempre."
+            },
+            {
+                "id": "v7.14",
+                "versicle_number": 14,
+                "text": "Eu lhe serei por pai,{note:1} e ele me será por filho: e, se vier a transgredir, castigá-lo-ei com vara de homens, e com açoites de filhos de homens."
+            },
+            {
+                "id": "v7.15",
+                "versicle_number": 15,
+                "text": "Mas a minha benignidade se não apartará dele; como a tirei de Saul, a quem tirei de diante de ti."
+            },
+            {
+                "id": "v7.16",
+                "versicle_number": 16,
+                "text": "Porém a tua casa e o teu reino serão firmados para sempre diante de ti: teu trono será firme para sempre."
+            },
+            {
+                "id": "v7.17",
+                "versicle_number": 17,
+                "text": "Conforme a todas estas palavras, e conforme a toda esta visão, assim falou Natã a Davi."
+            },
+            {
+                "id": "v7.18",
+                "versicle_number": 18,
+                "text": "Então entrou o rei Davi, e ficou perante o Senhor, e disse: Quem sou eu, Senhor JEOVÁ, e qual é a minha casa, que me trouxeste até aqui?"
+            },
+            {
+                "id": "v7.19",
+                "versicle_number": 19,
+                "text": "E ainda foi isto pouco aos teus olhos, Senhor JEOVÁ, senão que também falaste da casa de teu servo para tempos distantes: é isto {note:d}o costume dos homens, ó Senhor JEOVÁ?"
+            },
+            {
+                "id": "v7.20",
+                "versicle_number": 20,
+                "text": "E que mais te falará ainda Davi? pois tu conheces bem a teu servo, ó Senhor JEOVÁ."
+            },
+            {
+                "id": "v7.21",
+                "versicle_number": 21,
+                "text": "Por causa da tua palavra, e segundo o teu coração, fizeste toda esta grandeza: fazendo-a saber a teu servo."
+            },
+            {
+                "id": "v7.22",
+                "versicle_number": 22,
+                "text": "Portanto, grandioso és, ó Senhor JEOVÁ, porque não há semelhante a ti, e não há outro Deus senão tu só, segundo tudo o que temos ouvido com os nossos ouvidos."
+            },
+            {
+                "id": "v7.23",
+                "versicle_number": 23,
+                "text": "E quem há como o teu povo, como Israel, gente única na terra? a quem Deus foi resgatar para seu povo; e a fazer-se um nome, e a fazer-vos estas grandes e terríveis cousas, para a tua terra, diante do teu povo, que tu resgataste do Egito desterrando as nações e a seus deuses."
+            },
+            {
+                "id": "v7.24",
+                "versicle_number": 24,
+                "text": "E confirmaste a teu povo Israel por teu povo para sempre, e tu, Senhor, te fizeste o seu Deus."
+            },
+            {
+                "id": "v7.25",
+                "versicle_number": 25,
+                "text": "Agora, pois, ó Senhor JEOVÁ, esta palavra que falaste acerca de teu servo e acerca da sua casa, confirma-a para sempre, e faze como tens falado."
+            },
+            {
+                "id": "v7.26",
+                "versicle_number": 26,
+                "text": "E engrandeça-se o teu nome para sempre, para que se diga: O Senhor dos exércitos é Deus sobre Israel; e a casa de teu servo será confirmada diante de ti."
+            },
+            {
+                "id": "v7.27",
+                "versicle_number": 27,
+                "text": "Pois tu, Senhor dos exércitos, Deus de Israel, revelaste aos ouvidos de teu servo, dizendo: Edificar-te-ei casa. Portanto o teu servo achou no seu coração o fazer-te esta oração."
+            },
+            {
+                "id": "v7.28",
+                "versicle_number": 28,
+                "text": "Agora, pois, Senhor JEOVÁ, tu és o mesmo Deus, e as tuas palavras são verdade, e tens falado a teu servo este bem."
+            },
+            {
+                "id": "v7.29",
+                "versicle_number": 29,
+                "text": "Sê pois agora servido de abençoar a casa de teu servo, para permanecer para sempre diante de ti, pois tu, ó Senhor JEOVÁ, o disseste; e com a tua bênção será para sempre bendita a casa de teu servo."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 7.14 2Co 6.18; Hb 1.5; Ap 21.7"
+            },
+            {
+                "id": "n2",
+                "text": "{note:d} 7.19 ou a lei do homem"
+            }
+        ]
+    }
+}

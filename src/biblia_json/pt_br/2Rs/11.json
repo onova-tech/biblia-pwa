@@ -1,0 +1,124 @@
+{
+    "book": {
+        "id": "2Rs",
+        "book_number": 12,
+        "new_testament": false,
+        "num_chapters": 25,
+        "book_name": "REIS",
+        "book_full_name": "O SEGUNDO LIVRO DOS REIS"
+    },
+    "chapter": {
+        "chapter_number": 11,
+        "chapter_reference": "",
+        "chapter_title": "Atália manda matar a família real. Joás escapa e é ungido rei",
+        "versicles": [
+            {
+                "id": "v11.1",
+                "versicle_number": 1,
+                "text": "VENDO pois Atália, mãe de Acazias, que seu filho era morto, levantou-se, e destruiu toda a descendência real."
+            },
+            {
+                "id": "v11.2",
+                "versicle_number": 2,
+                "text": "Mas Josebate, filha do rei Jorão, irmã de Acazias, tomou a Joás, filho de Acazias, e o furtou dentre os filhos do rei, aos quais matavam, e o pôs, a ele e à sua ama, na recâmara, e o escondeu de Atália, e assim não o mataram."
+            },
+            {
+                "id": "v11.3",
+                "versicle_number": 3,
+                "text": "E esteve com ela escondido na casa do Senhor seis anos: e Atália reinava sobre a terra."
+            },
+            {
+                "id": "v11.4",
+                "versicle_number": 4,
+                "text": "E no sétimo ano mandou Joiada chamar os centuriões, com os capitães, e com os da guarda, e os meteu consigo na casa do Senhor: e fez com eles um concerto e os ajuramentou na casa do Senhor, e lhes mostrou o filho do rei."
+            },
+            {
+                "id": "v11.5",
+                "versicle_number": 5,
+                "text": "E deu-lhes ordem, dizendo: Esta é a obra que vós haveis de fazer: Uma terça parte de vós, que entra no sábado, fará a guarda da casa do rei:"
+            },
+            {
+                "id": "v11.6",
+                "versicle_number": 6,
+                "text": "E outra terça parte estará à porta Sur; e a outra terça parte à porta detrás dos da guarda: assim fareis a guarda desta casa, afastando a todos."
+            },
+            {
+                "id": "v11.7",
+                "versicle_number": 7,
+                "text": "E as duas partes de vós, a saber, todos os que saem no sábado, farão a guarda da casa do Senhor junto ao rei."
+            },
+            {
+                "id": "v11.8",
+                "versicle_number": 8,
+                "text": "E rodeareis o rei, cada um com as suas armas nas mãos, e aquele que entrar entre as fileiras o matarão; e vós estareis com o rei quando sair e quando entrar."
+            },
+            {
+                "id": "v11.9",
+                "versicle_number": 9,
+                "text": "Fizeram pois os centuriões conforme tudo quanto ordenara o sacerdote Joiada, tomando cada um os seus homens, tanto aos que entravam no sábado como aos que saíam no sábado; e vieram ao sacerdote Joiada."
+            },
+            {
+                "id": "v11.10",
+                "versicle_number": 10,
+                "text": "E o sacerdote deu aos centuriões as lanças, e os escudos que haviam sido do rei Davi, que estavam na casa do Senhor."
+            },
+            {
+                "id": "v11.11",
+                "versicle_number": 11,
+                "text": "E os da guarda se puseram, cada um com as armas na mão, desde o lado direito da casa até ao lado esquerdo da casa, da banda do altar, e da banda da casa, junto ao rei em redor."
+            },
+            {
+                "id": "v11.12",
+                "versicle_number": 12,
+                "text": "Então ele tirou o filho do rei, e lhe pôs a coroa, e lhe deu o testemunho; e o fizeram rei e o ungiram, e bateram as mãos, e disseram: Viva o rei!"
+            },
+            {
+                "id": "v11.13",
+                "versicle_number": 13,
+                "text": "E Atália, ouvindo a voz dos da guarda e do povo, entrou ao povo na casa do Senhor."
+            },
+            {
+                "id": "v11.14",
+                "versicle_number": 14,
+                "text": "E olhou, e eis que o rei estava junto à coluna, conforme o costume, e os capitães e as trombetas junto ao rei, e todo o povo da terra estava alegre e tocava as trombetas: então Atália rasgou os seus vestidos, e clamou: Traição! Traição!"
+            },
+            {
+                "id": "v11.15",
+                "versicle_number": 15,
+                "text": "Porém o sacerdote Joiada deu ordem aos centuriões que comandavam as tropas, e disse-lhes: Tirai-a para fora das fileiras, e a quem a seguir matai-o à espada. Porque o sacerdote disse: Não a matem na casa do Senhor."
+            },
+            {
+                "id": "v11.16",
+                "versicle_number": 16,
+                "text": "E lançaram-lhe as mãos a ela, e foi pelo caminho da entrada dos cavalos à casa do rei, e ali a mataram."
+            },
+            {
+                "id": "v11.17",
+                "versicle_number": 17,
+                "text": "E Joiada fez um concerto entre o Senhor e o rei e o povo, que seria o povo do Senhor; como também entre o rei e o povo."
+            },
+            {
+                "id": "v11.18",
+                "versicle_number": 18,
+                "text": "Então todo o povo da terra entrou na casa de Baal, e a derribaram, como também os seus altares, e as suas imagens totalmente quebraram, e a Matã, sacerdote de Baal, mataram perante os altares: então o sacerdote pôs oficiais sobre a casa do Senhor."
+            },
+            {
+                "id": "v11.19",
+                "versicle_number": 19,
+                "text": "E tomou os centuriões, e os capitães, e os da guarda, e todo o povo da terra; e conduziram da casa do Senhor o rei, e vieram, pelo caminho da porta dos da guarda, à casa do rei, e ele se assentou no trono dos reis."
+            },
+            {
+                "id": "v11.20",
+                "versicle_number": 20,
+                "text": "E todo o povo da terra se alegrou, e a cidade repousou, depois que mataram a Atália à espada junto à casa do rei."
+            },
+            {
+                "id": "v11.21",
+                "versicle_number": 21,
+                "text": "Era Joás da idade de sete anos quando o fizeram rei."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

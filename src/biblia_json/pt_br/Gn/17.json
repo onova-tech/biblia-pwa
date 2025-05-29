@@ -1,0 +1,190 @@
+{
+    "book": {
+        "id": "Gn",
+        "book_number": 1,
+        "new_testament": false,
+        "num_chapters": 50,
+        "book_name": "GÊNESIS",
+        "book_full_name": "O PRIMEIRO LIVRO DE MOISÉS GÊNESIS"
+    },
+    "chapter": {
+        "chapter_number": 17,
+        "chapter_reference": "",
+        "chapter_title": "Deus muda o nome de Abrão",
+        "versicles": [
+            {
+                "id": "v17.1",
+                "versicle_number": 1,
+                "text": "SENDO pois Abrão da idade de noventa e nove anos, apareceu o SENHOR a Abrão, e disse-lhe: Eu sou o Deus Todo-poderoso, anda em minha presença e sê perfeito;"
+            },
+            {
+                "id": "v17.2",
+                "versicle_number": 2,
+                "text": "E porei o meu concerto entre mim e ti, e te multiplicarei grandissimamente."
+            },
+            {
+                "id": "v17.3",
+                "versicle_number": 3,
+                "text": "Então caiu Abrão sobre o seu rosto, e falou Deus com ele, dizendo:"
+            },
+            {
+                "id": "v17.4",
+                "versicle_number": 4,
+                "text": "Quanto a mim, eis o meu concerto contigo é, e serás o pai de uma multidão de nações;"
+            },
+            {
+                "id": "v17.5",
+                "versicle_number": 5,
+                "text": "E não se chamará mais o teu nome {note:m}Abrão, mas {note:n}Abraão será o teu nome; porque por pai da multidão de nações te tenho posto;{note:1}"
+            },
+            {
+                "id": "v17.6",
+                "versicle_number": 6,
+                "text": "E te farei frutificar grandissimamente, e de ti farei nações, e reis sairão de ti;"
+            },
+            {
+                "id": "v17.7",
+                "versicle_number": 7,
+                "text": "E estabelecerei o meu concerto entre mim e ti e a tua semente depois de ti em suas gerações, por concerto perpétuo,{note:2} para te ser a ti por Deus, e à tua semente depois de ti."
+            },
+            {
+                "id": "v17.8",
+                "versicle_number": 8,
+                "text": "E te darei a ti, e à tua semente{note:3} depois de ti, a terra de tuas peregrinações, toda a terra de Canaã em perpétua possessão, e ser-lhes-ei o seu Deus."
+            },
+            {
+                "id": "v17.9",
+                "versicle_number": 9,
+                "text": "Disse mais Deus a Abraão: Tu, porém, guardarás o meu concerto, tu, e a tua semente depois de ti, nas suas gerações."
+            },
+            {
+                "id": "v17.10",
+                "versicle_number": 10,
+                "text": "Este é o meu concerto,{note:4} que guardareis entre mim e vós, e a tua semente depois de ti: Que todo o macho será circuncidado."
+            },
+            {
+                "id": "v17.11",
+                "versicle_number": 11,
+                "text": "E circuncidareis a carne do vosso prepúcio; e isto será por sinal do concerto entre mim e vós."
+            },
+            {
+                "id": "v17.12",
+                "versicle_number": 12,
+                "text": "O filho de oito dias, pois, será circuncidado, todo o macho nas vossas gerações; o nascido na casa, e o comprado por dinheiro a qualquer estrangeiro, que não for da tua semente."
+            },
+            {
+                "id": "v17.13",
+                "versicle_number": 13,
+                "text": "Com efeito será circuncidado o nascido em tua casa, e o comprado por teu dinheiro; e estará o meu concerto na vossa carne por concerto perpétuo."
+            },
+            {
+                "id": "v17.14",
+                "versicle_number": 14,
+                "text": "E o macho com prepúcio, cuja carne do prepúcio não estiver circuncidada, aquela alma será extirpada dos seus povos; quebrantou o meu concerto."
+            },
+            {
+                "id": "v17.15",
+                "versicle_number": 15,
+                "text": "Disse Deus mais a Abraão: a Sarai tua mulher não chamarás mais pelo nome de Sarai, mas {note:o}Sara será o seu nome."
+            },
+            {
+                "id": "v17.16",
+                "versicle_number": 16,
+                "text": "Porque eu a hei de abençoar, e te hei de dar a ti dela um filho; e a abençoarei, e será mãe das nações; reis de povos sairão dela."
+            },
+            {
+                "id": "v17.17",
+                "versicle_number": 17,
+                "text": "Então caiu Abraão sobre o seu rosto, e riu-se e disse no seu coração: A um homem de cem anos há de nascer um filho? E conceberá Sara na idade de noventa anos?"
+            },
+            {
+                "id": "v17.18",
+                "versicle_number": 18,
+                "text": "E disse Abraão a Deus: Oxalá que viva Ismael diante de teu rosto!"
+            },
+            {
+                "id": "v17.19",
+                "versicle_number": 19,
+                "text": "E disse Deus: Na verdade, Sara tua mulher te dará um filho, e chamarás o seu nome {note:p}Isaque, e com ele estabelecerei o meu concerto, por concerto perpétuo para a sua semente depois dele."
+            },
+            {
+                "id": "v17.20",
+                "versicle_number": 20,
+                "text": "E enquanto a Ismael, também te tenho ouvido; eis aqui o tenho abençoado, e fá-lo-ei frutificar, e fá-lo-ei multiplicar grandissimamente; doze príncipes gerará, e dele farei uma grande nação."
+            },
+            {
+                "id": "v17.21",
+                "versicle_number": 21,
+                "text": "O meu concerto, porém, estabelecerei com Isaque, o qual Sara te dará neste tempo determinado, no ano seguinte."
+            },
+            {
+                "id": "v17.22",
+                "versicle_number": 22,
+                "text": "E acabou de falar com ele, e subiu Deus de Abraão."
+            },
+            {
+                "id": "v17.23",
+                "versicle_number": 23,
+                "text": "Então tomou Abraão a seu filho Ismael, e a todos os nascidos na sua casa, e a todos os comprados por seu dinheiro, todo o macho entre os homens da casa de Abraão; e circuncidou a carne do seu prepúcio, naquele mesmo dia, como Deus falara com ele."
+            },
+            {
+                "id": "v17.24",
+                "versicle_number": 24,
+                "text": "E era Abraão da idade de noventa e nove anos, quando lhe foi circuncidada a carne do seu prepúcio."
+            },
+            {
+                "id": "v17.25",
+                "versicle_number": 25,
+                "text": "E Ismael, seu filho, era da idade de treze anos, quando lhe foi circuncidada a carne do seu prepúcio."
+            },
+            {
+                "id": "v17.26",
+                "versicle_number": 26,
+                "text": "Neste mesmo dia foi circuncidado Abraão e Ismael seu filho."
+            },
+            {
+                "id": "v17.27",
+                "versicle_number": 27,
+                "text": "E todos os homens da sua casa, o nascido em casa, e o comprado por dinheiro do estrangeiro, foram circuncidados com ele."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v17.15",
+                "text": "Deus muda o nome de Sarai"
+            },
+            {
+                "id": "s2",
+                "next_versicle_id": "v17.23",
+                "text": "A instituição da circuncisão"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:m} 17.5 que significa pai da altura {note:1} 17.5 Rm 4.17 {note:n} 17.5 que significa pai de uma multidão"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 17.7 Lc 1.55"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 17.8 At 7.5"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 17.10 At 7.8"
+            },
+            {
+                "id": "n5",
+                "text": "{note:o} 17.15 que significa princesa"
+            },
+            {
+                "id": "n6",
+                "text": "{note:p} 17.19 que significa riso"
+            }
+        ]
+    }
+}

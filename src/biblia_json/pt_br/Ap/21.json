@@ -1,0 +1,213 @@
+{
+    "book": {
+        "id": "Ap",
+        "book_number": 66,
+        "new_testament": true,
+        "num_chapters": 22,
+        "book_name": "APOCALIPSE",
+        "book_full_name": "DO APÓSTOLO JOÃO APOCALIPSE"
+    },
+    "chapter": {
+        "chapter_number": 21,
+        "chapter_reference": "",
+        "chapter_title": "Os novos céus e a nova terra",
+        "versicles": [
+            {
+                "id": "v21.1",
+                "versicle_number": 1,
+                "text": "E VI um novo céu,{note:1} e uma nova terra. Porque já o primeiro céu e a primeira terra passaram, e o mar já não existe."
+            },
+            {
+                "id": "v21.2",
+                "versicle_number": 2,
+                "text": "E eu, João, vi a santa cidade,{note:2} a nova Jerusalém, que de Deus descia do céu, adereçada como uma esposa{note:3} ataviada para o seu marido."
+            },
+            {
+                "id": "v21.3",
+                "versicle_number": 3,
+                "text": "E ouvi uma grande voz do céu, que dizia: Eis aqui o tabernáculo de Deus{note:4} com os homens, pois com eles habitará, e eles serão o seu povo, e o mesmo Deus estará com eles, e será o seu Deus."
+            },
+            {
+                "id": "v21.4",
+                "versicle_number": 4,
+                "text": "E Deus limpará de seus olhos toda a lágrima;{note:5} e não haverá mais morte, nem pranto, nem clamor,{note:6} nem dor; porque já as primeiras coisas são passadas."
+            },
+            {
+                "id": "v21.5",
+                "versicle_number": 5,
+                "text": "E o que estava assentado sobre o trono disse: Eis que faço novas todas as coisas. E disse-me: Escreve; porque estas palavras são verdadeiras e fiéis."
+            },
+            {
+                "id": "v21.6",
+                "versicle_number": 6,
+                "text": "E disse-me mais: Está cumprido: Eu sou o Alfa e o Ômega, o princípio e o fim. A quem quer que tiver sede, de graça lhe darei da fonte da água{note:7} da vida."
+            },
+            {
+                "id": "v21.7",
+                "versicle_number": 7,
+                "text": "Quem vencer, herdará todas as coisas; e eu serei seu Deus,{note:8} e ele será meu filho."
+            },
+            {
+                "id": "v21.8",
+                "versicle_number": 8,
+                "text": "Mas, quanto aos tímidos, e aos incrédulos, e aos abomináveis, e aos homicidas, e aos fornicários, e aos feiticeiros, e aos idólatras e a todos os mentirosos, a sua parte será no lago que arde com fogo e enxofre; o que é a segunda morte."
+            },
+            {
+                "id": "v21.9",
+                "versicle_number": 9,
+                "text": "E veio um dos sete anjos que tinham as sete taças cheias das últimas sete pragas, e falou comigo, dizendo: Vem, mostrar-te-ei a esposa, a mulher do Cordeiro."
+            },
+            {
+                "id": "v21.10",
+                "versicle_number": 10,
+                "text": "E levou-me em espírito a um grande e alto monte,{note:9} e mostrou-me a grande cidade, a santa Jerusalém, que de Deus descia do céu."
+            },
+            {
+                "id": "v21.11",
+                "versicle_number": 11,
+                "text": "E tinha a glória de Deus; e a sua luz era semelhante a uma pedra preciosíssima, como a pedra de jaspe, como o cristal resplandecente."
+            },
+            {
+                "id": "v21.12",
+                "versicle_number": 12,
+                "text": "E tinha um grande e alto muro com doze portas, e nas portas doze anjos, e nomes escritos sobre elas, que são os nomes das doze tribos de Israel."
+            },
+            {
+                "id": "v21.13",
+                "versicle_number": 13,
+                "text": "Da banda do levante tinha três portas, da banda do norte três portas, da banda do sul três portas, da banda do poente três portas.{note:10}"
+            },
+            {
+                "id": "v21.14",
+                "versicle_number": 14,
+                "text": "E o muro da cidade tinha doze fundamentos, e neles os nomes dos doze apóstolos do Cordeiro."
+            },
+            {
+                "id": "v21.15",
+                "versicle_number": 15,
+                "text": "E aquele que falava comigo tinha uma cana de ouro, para medir a cidade,{note:11} e as suas portas, e o seu muro."
+            },
+            {
+                "id": "v21.16",
+                "versicle_number": 16,
+                "text": "E a cidade estava situada em quadrado; e o seu comprimento era tanto como a sua largura. E mediu a cidade com a cana até doze mil estádios: e o seu comprimento, largura e altura eram iguais."
+            },
+            {
+                "id": "v21.17",
+                "versicle_number": 17,
+                "text": "E mediu o seu muro, de cento e quarenta e quatro côvados, conforme à medida de homem, que é a dum anjo."
+            },
+            {
+                "id": "v21.18",
+                "versicle_number": 18,
+                "text": "E a fábrica do seu muro era de jaspe, e a cidade de ouro puro, semelhante a vidro puro."
+            },
+            {
+                "id": "v21.19",
+                "versicle_number": 19,
+                "text": "E os fundamentos do muro da cidade estavam adornados de toda a pedra preciosa. O primeiro fundamento era jaspe; o segundo, safira; o terceiro, calcedônia; o quarto, esmeralda;"
+            },
+            {
+                "id": "v21.20",
+                "versicle_number": 20,
+                "text": "O quinto sardônica; o sexto, sárdio; o sétimo, crisólito; o oitavo, berilo; o nono, topázio; o décimo, crisópraso; o undécimo, jacinto; o duodécimo, ametista."
+            },
+            {
+                "id": "v21.21",
+                "versicle_number": 21,
+                "text": "E as doze portas eram doze pérolas: cada uma das portas era uma pérola; e a praça da cidade de ouro puro, como vidro transparente.{note:12}"
+            },
+            {
+                "id": "v21.22",
+                "versicle_number": 22,
+                "text": "E nela não vi templo, porque o seu templo é o Senhor Deus Todo-poderoso, e o Cordeiro."
+            },
+            {
+                "id": "v21.23",
+                "versicle_number": 23,
+                "text": "E a cidade não necessita de sol nem de lua,{note:13} para que nela resplandeçam, porque a glória de Deus a tem alumiado, e o Cordeiro é a sua lâmpada."
+            },
+            {
+                "id": "v21.24",
+                "versicle_number": 24,
+                "text": "E as nações andarão à sua luz; e os reis da terra trarão para ela a sua glória e honra."
+            },
+            {
+                "id": "v21.25",
+                "versicle_number": 25,
+                "text": "E as suas portas não se fecharão de dia, porque ali não haverá noite."
+            },
+            {
+                "id": "v21.26",
+                "versicle_number": 26,
+                "text": "E a ela trarão a glória e honra das nações.{note:14}"
+            },
+            {
+                "id": "v21.27",
+                "versicle_number": 27,
+                "text": "E não entrará nela coisa alguma que contamine,{note:15} e cometa abominação e mentira; mas só os que estão inscritos no livro da vida do Cordeiro."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v21.9",
+                "text": "A nova Jerusalém"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 21.1 Is 65.17; 66.22; 2Pe 3.13"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 21.2 Is 52.1 {note:3} 21.2 Is 61.10"
+            },
+            {
+                "id": "n3",
+                "text": "{note:4} 21.3 Ez 37.27"
+            },
+            {
+                "id": "n4",
+                "text": "{note:5} 21.4 Is 25.8 {note:6} 21.4 Is 65.19"
+            },
+            {
+                "id": "n5",
+                "text": "{note:7} 21.6 Is 55.1"
+            },
+            {
+                "id": "n6",
+                "text": "{note:8} 21.7 2Sm 7.14; 1Cr 17.13"
+            },
+            {
+                "id": "n7",
+                "text": "{note:9} 21.10 Ez 40.2"
+            },
+            {
+                "id": "n8",
+                "text": "{note:10} 21.12-13 Ez 48.30-34"
+            },
+            {
+                "id": "n9",
+                "text": "{note:11} 21.15 Ez 40.3"
+            },
+            {
+                "id": "n10",
+                "text": "{note:12} 21.18-21 Is 54.11-12"
+            },
+            {
+                "id": "n11",
+                "text": "{note:13} 21.23 Is 60.19"
+            },
+            {
+                "id": "n12",
+                "text": "{note:14} 21.25-26 Is 60.11"
+            },
+            {
+                "id": "n13",
+                "text": "{note:15} 21.27 Is 52.1"
+            }
+        ]
+    }
+}

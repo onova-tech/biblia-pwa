@@ -1,0 +1,54 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 128,
+        "chapter_reference": "",
+        "chapter_title": "Aquele que teme a Deus será abençoado na sua família",
+        "versicles": [
+            {
+                "id": "v128.1",
+                "versicle_number": 1,
+                "text": "BEM-AVENTURADO aquele que teme ao Senhor e anda nos seus caminhos."
+            },
+            {
+                "id": "v128.2",
+                "versicle_number": 2,
+                "text": "Pois comerás do trabalho das tuas mãos: feliz serás, e te irá bem."
+            },
+            {
+                "id": "v128.3",
+                "versicle_number": 3,
+                "text": "A tua mulher será como a videira frutífera aos lados da tua casa; os teus filhos como plantas de oliveira à roda da tua mesa."
+            },
+            {
+                "id": "v128.4",
+                "versicle_number": 4,
+                "text": "Eis que assim será abençoado o homem que teme ao Senhor."
+            },
+            {
+                "id": "v128.5",
+                "versicle_number": 5,
+                "text": "O Senhor te abençoará desde Sião, e tu verás os bens de Jerusalém em todos os dias da tua vida."
+            },
+            {
+                "id": "v128.6",
+                "versicle_number": 6,
+                "text": "E verás os filhos de teus filhos, e a paz sobre Israel."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:s} 128, título ou Cântico gradual"
+            }
+        ]
+    }
+}

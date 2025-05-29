@@ -1,0 +1,114 @@
+{
+    "book": {
+        "id": "Ec",
+        "book_number": 21,
+        "new_testament": false,
+        "num_chapters": 12,
+        "book_name": "ECLESIASTES",
+        "book_full_name": "LIVRO DO ECLESIASTES"
+    },
+    "chapter": {
+        "chapter_number": 1,
+        "chapter_reference": "",
+        "chapter_title": "A vaidade de todas as cousas terrestres",
+        "versicles": [
+            {
+                "id": "v1.1",
+                "versicle_number": 1,
+                "text": "PALAVRAS do pregador, filho de Davi, rei em Jerusalém:"
+            },
+            {
+                "id": "v1.2",
+                "versicle_number": 2,
+                "text": "Vaidade de vaidades! diz o pregador, vaidade de vaidades! é tudo vaidade."
+            },
+            {
+                "id": "v1.3",
+                "versicle_number": 3,
+                "text": "Que vantagem tem o homem, de todo o seu trabalho, que ele faz debaixo do sol?"
+            },
+            {
+                "id": "v1.4",
+                "versicle_number": 4,
+                "text": "Uma geração vai, e outra geração vem; mas a terra para sempre permanece."
+            },
+            {
+                "id": "v1.5",
+                "versicle_number": 5,
+                "text": "E nasce o sol, e põe-se o sol, e volta ao seu lugar donde nasceu."
+            },
+            {
+                "id": "v1.6",
+                "versicle_number": 6,
+                "text": "O vento vai para o sul, e faz o seu giro para o norte; continuamente vai girando o vento, e volta fazendo os seus circuitos."
+            },
+            {
+                "id": "v1.7",
+                "versicle_number": 7,
+                "text": "Todos os ribeiros vão para o mar, e contudo o mar não se enche; para o lugar para onde os ribeiros vão, para aí tornam eles a ir."
+            },
+            {
+                "id": "v1.8",
+                "versicle_number": 8,
+                "text": "Todas estas cousas se cansam tanto, que ninguém o pode declarar: os olhos não se fartam de ver, nem os ouvidos de ouvir."
+            },
+            {
+                "id": "v1.9",
+                "versicle_number": 9,
+                "text": "O que foi, isso é o que há de ser; e o que se fez, isso se tornará a fazer: de modo que nada há novo debaixo do sol."
+            },
+            {
+                "id": "v1.10",
+                "versicle_number": 10,
+                "text": "Há alguma cousa de que se possa dizer: Vê, isto é novo? já foi nos séculos passados, que foram antes de nós."
+            },
+            {
+                "id": "v1.11",
+                "versicle_number": 11,
+                "text": "Já não há lembrança das cousas que precederam; e das cousas que hão de ser também delas não haverá lembrança, nos que hão de vir depois."
+            },
+            {
+                "id": "v1.12",
+                "versicle_number": 12,
+                "text": "Eu, o pregador, fui rei sobre Israel em Jerusalém."
+            },
+            {
+                "id": "v1.13",
+                "versicle_number": 13,
+                "text": "E apliquei o meu coração a esquadrinhar, e a informar-me com sabedoria de tudo quanto sucede debaixo do céu: esta enfadonha ocupação deu Deus aos filhos dos homens, para nela os exercitar."
+            },
+            {
+                "id": "v1.14",
+                "versicle_number": 14,
+                "text": "Atentei para todas as obras que se fazem debaixo do sol, e eis que tudo era vaidade e aflição de espírito."
+            },
+            {
+                "id": "v1.15",
+                "versicle_number": 15,
+                "text": "Aquilo que é torto não se pode endireitar; aquilo que falta não pode ser calculado."
+            },
+            {
+                "id": "v1.16",
+                "versicle_number": 16,
+                "text": "Falei eu com o meu coração, dizendo: Eis que eu me engrandeci, e sobrepujei em sabedoria{note:1} a todos os que houve antes de mim em Jerusalém: na verdade, o meu coração contemplou abundantemente a sabedoria e a ciência."
+            },
+            {
+                "id": "v1.17",
+                "versicle_number": 17,
+                "text": "E apliquei o meu coração a conhecer a sabedoria e a conhecer os desvarios e as loucuras, e vim a saber que também isto era aflição de espírito."
+            },
+            {
+                "id": "v1.18",
+                "versicle_number": 18,
+                "text": "Porque na muita sabedoria há muito enfado; e o que aumenta em ciência, aumenta em trabalho."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 1.16 1Rs 4.29-31"
+            }
+        ]
+    }
+}

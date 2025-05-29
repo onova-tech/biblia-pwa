@@ -1,0 +1,174 @@
+{
+    "book": {
+        "id": "Pv",
+        "book_number": 20,
+        "new_testament": false,
+        "num_chapters": 31,
+        "book_name": "PROVÉRBIOS",
+        "book_full_name": "DE SALOMÃO PROVÉRBIOS"
+    },
+    "chapter": {
+        "chapter_number": 21,
+        "chapter_reference": "",
+        "chapter_title": "",
+        "versicles": [
+            {
+                "id": "v21.1",
+                "versicle_number": 1,
+                "text": "COMO ribeiros de águas, assim é o coração do rei na mão do Senhor; a tudo quanto quer o inclina."
+            },
+            {
+                "id": "v21.2",
+                "versicle_number": 2,
+                "text": "Todo o caminho do homem é reto aos seus olhos, mas o Senhor sonda os corações."
+            },
+            {
+                "id": "v21.3",
+                "versicle_number": 3,
+                "text": "Fazer justiça e julgar com retidão é mais aceitável ao Senhor do que oferecer-lhe sacrifício."
+            },
+            {
+                "id": "v21.4",
+                "versicle_number": 4,
+                "text": "Olhar altivo, coração orgulhoso e até a lavoura dos ímpios é pecado."
+            },
+            {
+                "id": "v21.5",
+                "versicle_number": 5,
+                "text": "Os pensamentos do diligente tendem à abundância, mas os de todo o apressado tão somente à pobreza."
+            },
+            {
+                "id": "v21.6",
+                "versicle_number": 6,
+                "text": "Trabalhar por ajuntar tesouro com língua falsa é uma vaidade, e aqueles que a isso são impelidos buscam a morte."
+            },
+            {
+                "id": "v21.7",
+                "versicle_number": 7,
+                "text": "As rapinas dos ímpios virão a destruí-los, porquanto eles recusam praticar a justiça."
+            },
+            {
+                "id": "v21.8",
+                "versicle_number": 8,
+                "text": "O caminho do homem perverso é inteiramente tortuoso, mas a obra do puro é reta."
+            },
+            {
+                "id": "v21.9",
+                "versicle_number": 9,
+                "text": "Melhor é morar num canto de umas águas-furtadas, do que com a mulher rixosa numa casa ampla."
+            },
+            {
+                "id": "v21.10",
+                "versicle_number": 10,
+                "text": "A alma do ímpio deseja o mal: o seu próximo não agrada aos seus olhos."
+            },
+            {
+                "id": "v21.11",
+                "versicle_number": 11,
+                "text": "Quando o escarnecedor é castigado, o simples torna-se sábio; e, quando o sábio é instruído, recebe o conhecimento."
+            },
+            {
+                "id": "v21.12",
+                "versicle_number": 12,
+                "text": "Prudentemente considera o justo a casa do ímpio, quando os ímpios são arrastados para o mal."
+            },
+            {
+                "id": "v21.13",
+                "versicle_number": 13,
+                "text": "O que tapa o seu ouvido ao clamor do pobre também clamará e não será ouvido."
+            },
+            {
+                "id": "v21.14",
+                "versicle_number": 14,
+                "text": "O presente que se dá em segredo abate a ira, e a dádiva no seio uma forte indignação."
+            },
+            {
+                "id": "v21.15",
+                "versicle_number": 15,
+                "text": "Praticar a justiça é alegria para o justo, mas espanto para os que praticam a iniquidade."
+            },
+            {
+                "id": "v21.16",
+                "versicle_number": 16,
+                "text": "O homem, que anda desviado do caminho do entendimento, na congregação dos mortos repousará."
+            },
+            {
+                "id": "v21.17",
+                "versicle_number": 17,
+                "text": "Necessidade padecerá o que ama os prazeres; o que ama o vinho e o azeite nunca enriquecerá."
+            },
+            {
+                "id": "v21.18",
+                "versicle_number": 18,
+                "text": "O resgate do justo é o ímpio; o do reto o iníquo."
+            },
+            {
+                "id": "v21.19",
+                "versicle_number": 19,
+                "text": "Melhor é morar numa terra deserta do que com a mulher rixosa e iracunda."
+            },
+            {
+                "id": "v21.20",
+                "versicle_number": 20,
+                "text": "Tesouro desejável e azeite há na casa do sábio, mas o homem insensato o devora."
+            },
+            {
+                "id": "v21.21",
+                "versicle_number": 21,
+                "text": "O que segue a justiça e a bondade achará a vida, a justiça e a honra."
+            },
+            {
+                "id": "v21.22",
+                "versicle_number": 22,
+                "text": "À cidade dos fortes sobe o sábio, e derruba a força em que confiaram."
+            },
+            {
+                "id": "v21.23",
+                "versicle_number": 23,
+                "text": "O que guarda a sua boca e a sua língua, guarda das angústias a sua alma."
+            },
+            {
+                "id": "v21.24",
+                "versicle_number": 24,
+                "text": "Quanto ao soberbo e presumido, zombador é seu nome: trata com indignação e soberba."
+            },
+            {
+                "id": "v21.25",
+                "versicle_number": 25,
+                "text": "O desejo do preguiçoso o mata, porque as suas mãos recusam-se a trabalhar."
+            },
+            {
+                "id": "v21.26",
+                "versicle_number": 26,
+                "text": "Todo o dia avidamente cobiça, mas o justo dá, e nada retém."
+            },
+            {
+                "id": "v21.27",
+                "versicle_number": 27,
+                "text": "O sacrifício dos ímpios é abominação: quanto mais oferecendo-o com intenção maligna!"
+            },
+            {
+                "id": "v21.28",
+                "versicle_number": 28,
+                "text": "A testemunha mentirosa perecerá, mas o homem que ouve falará sem imputação."
+            },
+            {
+                "id": "v21.29",
+                "versicle_number": 29,
+                "text": "O homem ímpio endurece o seu rosto, mas o reto considera o seu caminho."
+            },
+            {
+                "id": "v21.30",
+                "versicle_number": 30,
+                "text": "Não há sabedoria, nem inteligência, nem conselho contra o Senhor."
+            },
+            {
+                "id": "v21.31",
+                "versicle_number": 31,
+                "text": "O cavalo prepara-se para o dia da batalha, mas do Senhor vem a vitória."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

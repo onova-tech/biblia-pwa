@@ -1,0 +1,129 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 38,
+        "chapter_reference": "",
+        "chapter_title": "A dor e o arrependimento do pecador; dirige-se a Deus para obter perdão e salvação",
+        "versicles": [
+            {
+                "id": "v38.1",
+                "versicle_number": 1,
+                "text": "Ó SENHOR, não me repreendas na tua ira, nem me castigues no teu furor."
+            },
+            {
+                "id": "v38.2",
+                "versicle_number": 2,
+                "text": "Porque as tuas frechas se cravaram em mim, e a tua mão sobre mim desceu."
+            },
+            {
+                "id": "v38.3",
+                "versicle_number": 3,
+                "text": "Não há cousa sã na minha carne, por causa da tua cólera; nem há paz em meus ossos, por causa do meu pecado."
+            },
+            {
+                "id": "v38.4",
+                "versicle_number": 4,
+                "text": "Pois já as minhas iniquidades ultrapassam a minha cabeça: como carga pesada são de mais para as minhas forças."
+            },
+            {
+                "id": "v38.5",
+                "versicle_number": 5,
+                "text": "As minhas chagas cheiram mal e estão corruptas, por causa da minha loucura."
+            },
+            {
+                "id": "v38.6",
+                "versicle_number": 6,
+                "text": "Estou encurvado, estou muito abatido, ando lamentando todo o dia."
+            },
+            {
+                "id": "v38.7",
+                "versicle_number": 7,
+                "text": "Porque as minhas ilhargas estão cheias de ardor, e não há cousa sã na minha carne."
+            },
+            {
+                "id": "v38.8",
+                "versicle_number": 8,
+                "text": "Estou fraco e mui quebrantado; tenho rugido por causa do desassossego do meu coração."
+            },
+            {
+                "id": "v38.9",
+                "versicle_number": 9,
+                "text": "Senhor, diante de ti está todo o meu desejo, e o meu gemido não te é oculto."
+            },
+            {
+                "id": "v38.10",
+                "versicle_number": 10,
+                "text": "O meu coração dá voltas, a minha força me falta; quanto à luz dos meus olhos, até essa me deixou."
+            },
+            {
+                "id": "v38.11",
+                "versicle_number": 11,
+                "text": "Os meus amigos e os meus propínquos afastam-se da minha chaga; e os meus parentes se põem em distância."
+            },
+            {
+                "id": "v38.12",
+                "versicle_number": 12,
+                "text": "Também os que buscam a minha vida me armam laços, e os que procuram o meu mal dizem cousas que danificam, e imaginam astúcias todo o dia."
+            },
+            {
+                "id": "v38.13",
+                "versicle_number": 13,
+                "text": "Mas eu, como surdo, não ouvia, e como mudo, não abri a boca."
+            },
+            {
+                "id": "v38.14",
+                "versicle_number": 14,
+                "text": "Assim eu sou como homem que não ouve, e em cuja boca não há reprovação."
+            },
+            {
+                "id": "v38.15",
+                "versicle_number": 15,
+                "text": "Porque em ti, Senhor, espero; tu, Senhor meu Deus, me ouvirás."
+            },
+            {
+                "id": "v38.16",
+                "versicle_number": 16,
+                "text": "Porque dizia eu: Ouve-me, para que se não alegrem de mim: quando escorrega o meu pé, eles se engrandecem contra mim."
+            },
+            {
+                "id": "v38.17",
+                "versicle_number": 17,
+                "text": "Porque estou prestes a coxear; a minha dor está constantemente perante mim."
+            },
+            {
+                "id": "v38.18",
+                "versicle_number": 18,
+                "text": "Porque eu confessarei a minha iniquidade; afligir-me-ei por causa do meu pecado."
+            },
+            {
+                "id": "v38.19",
+                "versicle_number": 19,
+                "text": "Mas os meus inimigos estão vivos e são fortes, e os que sem causa me odeiam se engrandecem."
+            },
+            {
+                "id": "v38.20",
+                "versicle_number": 20,
+                "text": "Os que dão mal pelo bem são meus adversários, porque eu sigo o que é bom."
+            },
+            {
+                "id": "v38.21",
+                "versicle_number": 21,
+                "text": "Não me desampares, Senhor, meu Deus, não te alongues de mim."
+            },
+            {
+                "id": "v38.22",
+                "versicle_number": 22,
+                "text": "Apressa-te em meu auxílio, Senhor, minha salvação."
+            }
+        ],
+        "subtitles": [],
+        "notes": []
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 132,
+        "chapter_reference": "",
+        "chapter_title": "O zelo de Davi pelo templo e pela arca. As promessas feitas por Deus",
+        "versicles": [
+            {
+                "id": "v132.1",
+                "versicle_number": 1,
+                "text": "LEMBRA-TE, Senhor, de Davi, e de todas as suas aflições."
+            },
+            {
+                "id": "v132.2",
+                "versicle_number": 2,
+                "text": "Como jurou ao Senhor, e fez votos ao Poderoso de Jacó, dizendo:"
+            },
+            {
+                "id": "v132.3",
+                "versicle_number": 3,
+                "text": "Certamente que não entrarei na tenda em que habito, nem subirei ao leito em que durmo,"
+            },
+            {
+                "id": "v132.4",
+                "versicle_number": 4,
+                "text": "Não darei sono aos meus olhos, nem repouso às minhas pálpebras,"
+            },
+            {
+                "id": "v132.5",
+                "versicle_number": 5,
+                "text": "Enquanto não achar lugar para o Senhor, uma morada para o Poderoso de Jacó."
+            },
+            {
+                "id": "v132.6",
+                "versicle_number": 6,
+                "text": "Eis que ouvimos falar da arca em Efrata, e a achamos no campo do bosque."
+            },
+            {
+                "id": "v132.7",
+                "versicle_number": 7,
+                "text": "Entraremos nos seus tabernáculos: prostrar-nos-emos ante o escabelo de seus pés."
+            },
+            {
+                "id": "v132.8",
+                "versicle_number": 8,
+                "text": "Levanta-te, Senhor, no teu repouso, tu e a arca da tua força."
+            },
+            {
+                "id": "v132.9",
+                "versicle_number": 9,
+                "text": "Vistam-se os teus sacerdotes de justiça, e alegrem-se os teus santos."
+            },
+            {
+                "id": "v132.10",
+                "versicle_number": 10,
+                "text": "Por amor de Davi, teu servo, não faças virar o rosto do teu ungido.{note:1}"
+            },
+            {
+                "id": "v132.11",
+                "versicle_number": 11,
+                "text": "O Senhor jurou a Davi com verdade,{note:2} e não se desviará dela: Do fruto do teu ventre porei sobre o teu trono."
+            },
+            {
+                "id": "v132.12",
+                "versicle_number": 12,
+                "text": "Se os teus filhos guardarem o meu concerto, e os meus testemunhos, que eu lhes hei de ensinar, também os seus filhos se assentarão perpetuamente no teu trono."
+            },
+            {
+                "id": "v132.13",
+                "versicle_number": 13,
+                "text": "Porque o Senhor elegeu a Sião; desejou-a para sua habitação, dizendo:"
+            },
+            {
+                "id": "v132.14",
+                "versicle_number": 14,
+                "text": "Este é o meu repouso para sempre: aqui habitarei, pois o desejei."
+            },
+            {
+                "id": "v132.15",
+                "versicle_number": 15,
+                "text": "Abençoarei abundantemente o seu mantimento; fartarei de pão os seus necessitados."
+            },
+            {
+                "id": "v132.16",
+                "versicle_number": 16,
+                "text": "Vestirei de salvação os seus sacerdotes, e os seus santos rejubilarão."
+            },
+            {
+                "id": "v132.17",
+                "versicle_number": 17,
+                "text": "Ali farei brotar {note:y}a força de Davi: preparei uma lâmpada{note:3} para o meu ungido."
+            },
+            {
+                "id": "v132.18",
+                "versicle_number": 18,
+                "text": "Vestirei os seus inimigos de confusão; mas sobre ele florescerá a sua coroa."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:x} 132, título ou Cântico gradual"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 132.8-10 2Cr 6.41-42"
+            },
+            {
+                "id": "n3",
+                "text": "{note:2} 132.11 2Sm 7.12-16; 1Cr 17.11-14; Sl 89.3-4; At 2.30"
+            },
+            {
+                "id": "n4",
+                "text": "{note:y} 132.17 Heb. o chifre {note:3} 132.17 1Rs 11.36"
+            }
+        ]
+    }
+}

@@ -1,0 +1,225 @@
+{
+    "book": {
+        "id": "Dt",
+        "book_number": 5,
+        "new_testament": false,
+        "num_chapters": 34,
+        "book_name": "DEUTERONÔMIO",
+        "book_full_name": "O QUINTO LIVRO DE MOISÉS DEUTERONÔMIO"
+    },
+    "chapter": {
+        "chapter_number": 2,
+        "chapter_reference": "",
+        "chapter_title": "Moisés fala acerca dos edomitas, moabitas, e amonitas",
+        "versicles": [
+            {
+                "id": "v2.1",
+                "versicle_number": 1,
+                "text": "DEPOIS viramo-nos, e caminhamos ao deserto, caminho do Mar Vermelho, como o Senhor me tinha dito, e muitos dias rodeamos a montanha de Seir.{note:1}"
+            },
+            {
+                "id": "v2.2",
+                "versicle_number": 2,
+                "text": "Então o Senhor me falou, dizendo:"
+            },
+            {
+                "id": "v2.3",
+                "versicle_number": 3,
+                "text": "Assaz tendes rodeado esta montanha: virai-vos para o norte."
+            },
+            {
+                "id": "v2.4",
+                "versicle_number": 4,
+                "text": "E dá ordem ao povo, dizendo: Passareis pelos termos de vossos irmãos, os filhos de Esaú,{note:2} que habitam em Seir: e eles terão medo de vós; porém guardai-vos bem."
+            },
+            {
+                "id": "v2.5",
+                "versicle_number": 5,
+                "text": "Não vos entremetais com eles, porque vos não darei da sua terra nem ainda a pisada da planta de um pé: porquanto a Esaú tenho dado a montanha de Seir por herança."
+            },
+            {
+                "id": "v2.6",
+                "versicle_number": 6,
+                "text": "Comprareis deles, por dinheiro, comida para comerdes: e também água para beber deles comprareis por dinheiro."
+            },
+            {
+                "id": "v2.7",
+                "versicle_number": 7,
+                "text": "Pois o Senhor teu Deus te abençoou em toda a obra das tuas mãos; ele sabe que andas por este grande deserto: estes quarenta anos o Senhor teu Deus esteve contigo, cousa nenhuma te faltou."
+            },
+            {
+                "id": "v2.8",
+                "versicle_number": 8,
+                "text": "Passando pois por nossos irmãos, os filhos de Esaú, que habitavam em Seir, desde o caminho da planície de Elate e de Eziom-Geber, nos viramos e passamos o caminho do deserto de Moabe."
+            },
+            {
+                "id": "v2.9",
+                "versicle_number": 9,
+                "text": "Então o Senhor me disse: Não molestes a Moabe,{note:3} e não contendas com eles em peleja, porque te não darei herança da sua terra; porquanto tenho dado Ar aos filhos de Ló por herança."
+            },
+            {
+                "id": "v2.10",
+                "versicle_number": 10,
+                "text": "(Os emeus dantes habitaram nela: um povo grande e numeroso, e alto como os gigantes;"
+            },
+            {
+                "id": "v2.11",
+                "versicle_number": 11,
+                "text": "Também estes foram contados por gigantes como os enaquins: e os moabitas lhes chamavam emeus."
+            },
+            {
+                "id": "v2.12",
+                "versicle_number": 12,
+                "text": "Dantes os horeus também habitaram em Seir: porém os filhos de Esaú os lançaram fora, e os destruíram de diante de si, e habitaram no seu lugar, assim como Israel fez à terra da sua herança, que o Senhor lhes tinha dado.)"
+            },
+            {
+                "id": "v2.13",
+                "versicle_number": 13,
+                "text": "Levantai-vos agora, e passai o ribeiro de Zerede: assim passamos o ribeiro de Zerede."
+            },
+            {
+                "id": "v2.14",
+                "versicle_number": 14,
+                "text": "E os dias que caminhamos, desde Cades-Barneia até que passamos o ribeiro de Zerede, foram trinta e oito anos, até que toda aquela geração{note:4} dos homens de guerra se consumiu do meio do arraial, como o Senhor lhes jurara."
+            },
+            {
+                "id": "v2.15",
+                "versicle_number": 15,
+                "text": "Assim também foi contra eles a mão do Senhor, para os destruir do meio do arraial até os haver consumido."
+            },
+            {
+                "id": "v2.16",
+                "versicle_number": 16,
+                "text": "E sucedeu que, sendo já consumidos todos os homens de guerra, pela morte, do meio do arraial."
+            },
+            {
+                "id": "v2.17",
+                "versicle_number": 17,
+                "text": "O Senhor me falou, dizendo:"
+            },
+            {
+                "id": "v2.18",
+                "versicle_number": 18,
+                "text": "Hoje passarás por Ar, pelos termos de Moabe;"
+            },
+            {
+                "id": "v2.19",
+                "versicle_number": 19,
+                "text": "E chegarás até defronte dos filhos de Amom:{note:5} não os molestes, e com eles não contendas: porque da terra dos filhos de Amom te não darei herança, porquanto aos filhos de Ló a tenho dado por herança."
+            },
+            {
+                "id": "v2.20",
+                "versicle_number": 20,
+                "text": "(Também esta foi contada por terra de gigantes; dantes nela habitavam gigantes, e os amonitas lhes chamavam zanzumeus:"
+            },
+            {
+                "id": "v2.21",
+                "versicle_number": 21,
+                "text": "Um povo grande, e numeroso, e alto, como os gigantes: e o Senhor os destruiu de diante de si, e eles os lançaram fora, e habitaram no seu lugar;"
+            },
+            {
+                "id": "v2.22",
+                "versicle_number": 22,
+                "text": "Assim como fez com os filhos de Esaú, que habitavam em Seir, de diante dos quais destruiu os horeus, e eles os lançaram fora, e habitaram no seu lugar até este dia;"
+            },
+            {
+                "id": "v2.23",
+                "versicle_number": 23,
+                "text": "Também os caftoreus, que saíram de Caftor, destruíram os aveus, que habitavam em Hazerim até Gaza, e habitaram no seu lugar.)"
+            },
+            {
+                "id": "v2.24",
+                "versicle_number": 24,
+                "text": "Levantai-vos, parti e passai o ribeiro de Arnom; eis aqui na tua mão tenho dado a Seom, amorreu, rei de Hesbom, e a sua terra; começa a possuí-la, e contende com eles em peleja."
+            },
+            {
+                "id": "v2.25",
+                "versicle_number": 25,
+                "text": "Neste dia começarei a por um terror e um temor de ti diante dos povos que estão debaixo de todo o céu: os que ouvirem a tua fama tremerão diante de ti e se angustiarão."
+            },
+            {
+                "id": "v2.26",
+                "versicle_number": 26,
+                "text": "Então mandei mensageiros desde o deserto de Quedemote a Seom, rei de Hesbom, com palavras de paz, dizendo:"
+            },
+            {
+                "id": "v2.27",
+                "versicle_number": 27,
+                "text": "Deixa-me passar pela tua terra: somente pela estrada irei; não me desviarei para a direita nem para a esquerda."
+            },
+            {
+                "id": "v2.28",
+                "versicle_number": 28,
+                "text": "A comida que eu coma vender-ma-ás por dinheiro, e dar-me-ás por dinheiro a água que beba: tão somente deixa-me passar a pé;"
+            },
+            {
+                "id": "v2.29",
+                "versicle_number": 29,
+                "text": "Como fizeram comigo os filhos de Esaú, que habitam em Seir, e os moabitas que habitam em Ar; até que eu passe o Jordão, a terra que o Senhor nosso Deus nos há de dar."
+            },
+            {
+                "id": "v2.30",
+                "versicle_number": 30,
+                "text": "Mas Seom, rei de Hesbom, não nos quis deixar passar por ele, porquanto o Senhor teu Deus endurecera o seu espírito, e fizera obstinado o seu coração, para to dar na tua mão, como neste dia se vê."
+            },
+            {
+                "id": "v2.31",
+                "versicle_number": 31,
+                "text": "E o Senhor me disse: Eis aqui, tenho começado a dar-te Seom, e a sua terra diante de ti: começa pois a possuí-la, para que herdes a sua terra."
+            },
+            {
+                "id": "v2.32",
+                "versicle_number": 32,
+                "text": "E Seom saiu-nos ao encontro, ele e todo o seu povo, à peleja, a Jaaz:"
+            },
+            {
+                "id": "v2.33",
+                "versicle_number": 33,
+                "text": "E o Senhor nosso Deus no-lo deu diante de nós, e o ferimos a ele, e a seus filhos, e a todo o seu povo."
+            },
+            {
+                "id": "v2.34",
+                "versicle_number": 34,
+                "text": "E naquele tempo tomamos todas as suas cidades, e destruímos todas as cidades, homens, e mulheres e crianças: não deixamos a ninguém."
+            },
+            {
+                "id": "v2.35",
+                "versicle_number": 35,
+                "text": "Somente tomamos em presa o gado para nós, e o despojo das cidades que tínhamos tomado."
+            },
+            {
+                "id": "v2.36",
+                "versicle_number": 36,
+                "text": "Desde Aroer, que está à borda do ribeiro de Arnom, e a cidade que está junto ao ribeiro, até Gileade, nenhuma cidade houve que de nós escapasse: tudo isto o Senhor nosso Deus nos entregou diante de nós."
+            },
+            {
+                "id": "v2.37",
+                "versicle_number": 37,
+                "text": "Somente à terra dos filhos de Amom não chegaste: nem a toda a borda do ribeiro de Jaboque, nem às cidades da montanha, nem a cousa alguma que nos proibira o Senhor nosso Deus."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 2.1 Nm 21.4"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 2.4 Gn 36.8"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 2.9 Gn 19.37"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 2.14 Nm 14.28-35"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 2.19 Gn 19.38"
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "book": {
+        "id": "Hb",
+        "book_number": 58,
+        "new_testament": true,
+        "num_chapters": 13,
+        "book_name": "HEBREUS",
+        "book_full_name": "EPÍSTOLA AOS HEBREUS"
+    },
+    "chapter": {
+        "chapter_number": 5,
+        "chapter_reference": "",
+        "chapter_title": "",
+        "versicles": [
+            {
+                "id": "v5.1",
+                "versicle_number": 1,
+                "text": "PORQUE todo o sumo sacerdote, tomado dentre os homens, é constituído a favor dos homens nas coisas concernentes a Deus, para que ofereça dons e sacrifícios pelos pecados;"
+            },
+            {
+                "id": "v5.2",
+                "versicle_number": 2,
+                "text": "E possa compadecer-se ternamente dos ignorantes e errados; pois também ele mesmo está rodeado de fraqueza."
+            },
+            {
+                "id": "v5.3",
+                "versicle_number": 3,
+                "text": "E por esta causa deve ele, tanto pelo povo, como também por si mesmo,{note:1} fazer oferta pelos pecados."
+            },
+            {
+                "id": "v5.4",
+                "versicle_number": 4,
+                "text": "E ninguém toma para si esta honra, senão o que é chamado por Deus, como Aarão.{note:2}"
+            },
+            {
+                "id": "v5.5",
+                "versicle_number": 5,
+                "text": "Assim também Cristo se não glorificou a si mesmo, para se fazer sumo sacerdote, mas aquele que lhe disse: Tu és meu Filho, hoje te gerei.{note:3}"
+            },
+            {
+                "id": "v5.6",
+                "versicle_number": 6,
+                "text": "Como também diz noutro lugar: Tu és Sacerdote eternamente, segundo a ordem de Melquisedeque.{note:4}"
+            },
+            {
+                "id": "v5.7",
+                "versicle_number": 7,
+                "text": "O qual, nos dias da sua carne, oferecendo, com grande clamor e lágrimas, orações{note:5} e súplicas ao que o podia livrar da morte, foi ouvido quanto ao que temia."
+            },
+            {
+                "id": "v5.8",
+                "versicle_number": 8,
+                "text": "Ainda que era Filho, aprendeu a obediência, por aquilo que padeceu."
+            },
+            {
+                "id": "v5.9",
+                "versicle_number": 9,
+                "text": "E, sendo ele {note:d}consumado, veio a ser a causa de eterna salvação para todos os que lhe obedecem;"
+            },
+            {
+                "id": "v5.10",
+                "versicle_number": 10,
+                "text": "Chamado por Deus sumo sacerdote, segundo a ordem de Melquisedeque."
+            },
+            {
+                "id": "v5.11",
+                "versicle_number": 11,
+                "text": "Do qual muito temos que dizer, de difícil interpretação; porquanto vos fizestes negligentes para ouvir."
+            },
+            {
+                "id": "v5.12",
+                "versicle_number": 12,
+                "text": "Porque, devendo já ser {note:e}mestres pelo tempo, ainda necessitais de que se vos torne a ensinar quais sejam os primeiros rudimentos das palavras de Deus; e vos haveis feito tais que necessitais de leite, e não de sólido mantimento."
+            },
+            {
+                "id": "v5.13",
+                "versicle_number": 13,
+                "text": "Porque qualquer que ainda se alimenta de leite não está experimentado na palavra da justiça, porque é menino.{note:6}"
+            },
+            {
+                "id": "v5.14",
+                "versicle_number": 14,
+                "text": "Mas o mantimento sólido é para os perfeitos, os quais, em razão do costume, têm os sentidos exercitados para discernir tanto o bem como o mal."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:1} 5.3 Lv 9.7"
+            },
+            {
+                "id": "n2",
+                "text": "{note:2} 5.4 Êx 28.1"
+            },
+            {
+                "id": "n3",
+                "text": "{note:3} 5.5 Sl 2.7"
+            },
+            {
+                "id": "n4",
+                "text": "{note:4} 5.6 Sl 110.4"
+            },
+            {
+                "id": "n5",
+                "text": "{note:5} 5.7 Mt 26.36-46; Mc 14.32-42; Lc 22.39-46"
+            },
+            {
+                "id": "n6",
+                "text": "{note:d} 5.9 ou aperfeiçoado"
+            },
+            {
+                "id": "n7",
+                "text": "{note:e} 5.12 ou instruidores"
+            },
+            {
+                "id": "n8",
+                "text": "{note:6} 5.12-13 1Co 3.2"
+            }
+        ]
+    }
+}

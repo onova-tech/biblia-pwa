@@ -1,0 +1,149 @@
+{
+    "book": {
+        "id": "1Sm",
+        "book_number": 9,
+        "new_testament": false,
+        "num_chapters": 31,
+        "book_name": "SAMUEL",
+        "book_full_name": "O PRIMEIRO LIVRO DE SAMUEL"
+    },
+    "chapter": {
+        "chapter_number": 16,
+        "chapter_reference": "",
+        "chapter_title": "Deus manda Samuel ungir a Davi como rei",
+        "versicles": [
+            {
+                "id": "v16.1",
+                "versicle_number": 1,
+                "text": "ENTÃO disse o Senhor a Samuel: Até quando terás dó de Saul, havendo-o eu rejeitado, para que não reine sobre Israel? enche o teu {note:h}vaso de azeite, e vem, enviar-te-ei a Jessé o belemita; porque dentre os seus filhos me tenho provido de um rei."
+            },
+            {
+                "id": "v16.2",
+                "versicle_number": 2,
+                "text": "Porém disse Samuel: Como irei eu? pois, ouvindo-o Saul, me matará. Então disse o Senhor: Toma uma bezerra das vacas em tuas mãos, e dize: Vim para sacrificar ao Senhor."
+            },
+            {
+                "id": "v16.3",
+                "versicle_number": 3,
+                "text": "E convidarás a {note:i}Jessé ao sacrifício: e eu te farei saber o que hás de fazer, e ungir-me-ás a quem eu te disser."
+            },
+            {
+                "id": "v16.4",
+                "versicle_number": 4,
+                "text": "Fez pois Samuel o que dissera o Senhor, e veio a Belém: então os anciãos da cidade saíram ao encontro, tremendo, e disseram: De paz é a tua vinda?"
+            },
+            {
+                "id": "v16.5",
+                "versicle_number": 5,
+                "text": "E disse ele: É de paz; vim sacrificar ao Senhor; santificai-vos e vinde comigo ao sacrifício. E santificou ele a Jessé e a seus filhos, e os convidou ao sacrifício."
+            },
+            {
+                "id": "v16.6",
+                "versicle_number": 6,
+                "text": "E sucedeu que, entrando eles, viu a Eliabe, e disse: Certamente está perante o Senhor o seu ungido."
+            },
+            {
+                "id": "v16.7",
+                "versicle_number": 7,
+                "text": "Porém o Senhor disse a Samuel: Não atentes para a sua aparência, nem para a altura da sua estatura, porque o tenho rejeitado, porque o Senhor não vê como vê o homem, pois o homem vê o que está diante dos olhos, porém o Senhor olha para o coração."
+            },
+            {
+                "id": "v16.8",
+                "versicle_number": 8,
+                "text": "Então chamou Jessé a Abinadabe: e o fez passar diante de Samuel, o qual disse: Nem a este tem escolhido o Senhor."
+            },
+            {
+                "id": "v16.9",
+                "versicle_number": 9,
+                "text": "Então Jessé fez passar a Sama: porém disse: Tão pouco a este tem escolhido o Senhor."
+            },
+            {
+                "id": "v16.10",
+                "versicle_number": 10,
+                "text": "Assim fez passar Jessé a seus sete filhos diante de Samuel: porém Samuel disse a Jessé: O Senhor não tem escolhido a estes."
+            },
+            {
+                "id": "v16.11",
+                "versicle_number": 11,
+                "text": "Disse mais Samuel a Jessé: Acabaram-se os mancebos? E disse: Ainda falta o menor, e eis que apascenta as ovelhas. Disse pois Samuel a Jessé: Envia, e manda-o chamar, porquanto não nos assentaremos em roda da mesa até que ele venha aqui."
+            },
+            {
+                "id": "v16.12",
+                "versicle_number": 12,
+                "text": "Então mandou em busca dele e o trouxe (e era ruivo e formoso de semblante e de boa presença): e disse o Senhor: Levanta-te, e unge-o, porque este mesmo é."
+            },
+            {
+                "id": "v16.13",
+                "versicle_number": 13,
+                "text": "Então Samuel tomou o vaso do azeite, e ungiu-o no meio dos seus irmãos: e desde aquele dia em diante o espírito do Senhor se apoderou de Davi: então Samuel se levantou, e se tornou a Ramá."
+            },
+            {
+                "id": "v16.14",
+                "versicle_number": 14,
+                "text": "E o espírito do Senhor se retirou de Saul, e o assombrava um espírito mau da parte do Senhor."
+            },
+            {
+                "id": "v16.15",
+                "versicle_number": 15,
+                "text": "Então os criados de Saul lhe disseram: Eis que agora um espírito mau da parte do Senhor te assombra:"
+            },
+            {
+                "id": "v16.16",
+                "versicle_number": 16,
+                "text": "Diga pois nosso senhor a seus servos, que estão em tua presença, que busquem um homem que saiba tocar harpa, e será que, quando o espírito mau da parte do Senhor vier sobre ti, então ele tocará com a sua mão, e te acharás melhor."
+            },
+            {
+                "id": "v16.17",
+                "versicle_number": 17,
+                "text": "Então disse Saul aos seus servos: Buscai-me pois um homem que toque bem, e trazei-mo."
+            },
+            {
+                "id": "v16.18",
+                "versicle_number": 18,
+                "text": "Então respondeu um dos mancebos, e disse: Eis que tenho visto a um filho de Jessé, o belemita, que sabe tocar, e é valente e animoso, e homem de guerra, e sisudo em palavras, e de gentil presença: o Senhor é com ele."
+            },
+            {
+                "id": "v16.19",
+                "versicle_number": 19,
+                "text": "E Saul enviou mensageiros a Jessé, dizendo: Envia-me Davi, teu filho, o que está com as ovelhas."
+            },
+            {
+                "id": "v16.20",
+                "versicle_number": 20,
+                "text": "Então tomou Jessé um jumento carregado de pão, e um odre de vinho, e um cabrito, e enviou-os a Saul pela mão de Davi, seu filho."
+            },
+            {
+                "id": "v16.21",
+                "versicle_number": 21,
+                "text": "Assim Davi veio a Saul, e esteve perante ele, e o amou muito, e foi seu pajem de armas."
+            },
+            {
+                "id": "v16.22",
+                "versicle_number": 22,
+                "text": "Então Saul mandou dizer a Jessé: Deixa estar a Davi perante mim, pois achou graça em meus olhos."
+            },
+            {
+                "id": "v16.23",
+                "versicle_number": 23,
+                "text": "E sucedia que, quando o espírito mau da parte de Deus vinha sobre Saul, Davi tomava a harpa, e a tocava com a sua mão; então Saul sentia alívio, e se achava melhor, e o espírito mau se retirava dele."
+            }
+        ],
+        "subtitles": [
+            {
+                "id": "s1",
+                "next_versicle_id": "v16.14",
+                "text": "Saul é atormentado pelo espírito maligno"
+            }
+        ],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:h} 16.1 Heb. chifre"
+            },
+            {
+                "id": "n2",
+                "text": "{note:i} 16.3 ou Isai"
+            }
+        ]
+    }
+}

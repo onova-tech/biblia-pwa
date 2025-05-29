@@ -1,0 +1,252 @@
+{
+    "book": {
+        "id": "Jz",
+        "book_number": 7,
+        "new_testament": false,
+        "num_chapters": 21,
+        "book_name": "JUÍZES",
+        "book_full_name": "O LIVRO DOS JUÍZES"
+    },
+    "chapter": {
+        "chapter_number": 11,
+        "chapter_reference": "",
+        "chapter_title": "Jefté livra os israelitas",
+        "versicles": [
+            {
+                "id": "v11.1",
+                "versicle_number": 1,
+                "text": "ERA então Jefté, o gileadita, valente e valoroso, porém filho duma prostituta: mas Gileade gerara a Jefté."
+            },
+            {
+                "id": "v11.2",
+                "versicle_number": 2,
+                "text": "Também a mulher de Gileade lhe deu filhos, e, sendo os filhos desta mulher já grandes, repeliram a Jefté, e lhe disseram: Não herdarás em casa de nosso pai, porque és filho doutra mulher."
+            },
+            {
+                "id": "v11.3",
+                "versicle_number": 3,
+                "text": "Então Jefté fugiu de diante de seus irmãos, e habitou na terra de Tobe: e homens levianos se ajuntaram com Jefté, e saíam com ele."
+            },
+            {
+                "id": "v11.4",
+                "versicle_number": 4,
+                "text": "E aconteceu que, depois de alguns dias, os filhos de Amom pelejaram contra Israel."
+            },
+            {
+                "id": "v11.5",
+                "versicle_number": 5,
+                "text": "Aconteceu pois que, como os filhos de Amom pelejassem contra Israel, foram os anciãos de Gileade buscar a Jefté da terra de Tobe."
+            },
+            {
+                "id": "v11.6",
+                "versicle_number": 6,
+                "text": "E disseram a Jefté: Vem, e sê-nos por cabeça: para que combatamos contra os filhos de Amom."
+            },
+            {
+                "id": "v11.7",
+                "versicle_number": 7,
+                "text": "Porém Jefté disse aos anciãos de Gileade: porventura não me aborrecestes a mim e não me repelistes da casa de meu pai? por que pois agora viestes a mim quando estais em aperto?"
+            },
+            {
+                "id": "v11.8",
+                "versicle_number": 8,
+                "text": "E disseram os anciãos de Gileade a Jefté: Por isso tornamos a ti, para que venhas conosco, e combatas contra os filhos de Amom, e nos sejas por cabeça sobre todos os moradores de Gileade."
+            },
+            {
+                "id": "v11.9",
+                "versicle_number": 9,
+                "text": "Então Jefté disse aos anciãos de Gileade: Se me tornardes a levar para combater contra os filhos de Amom, e o Senhor mos der diante de mim, então eu vos serei por cabeça?"
+            },
+            {
+                "id": "v11.10",
+                "versicle_number": 10,
+                "text": "E disseram os anciãos de Gileade a Jefté: O Senhor será {note:i}testemunha entre nós, e assim o faremos conforme à tua palavra."
+            },
+            {
+                "id": "v11.11",
+                "versicle_number": 11,
+                "text": "Assim Jefté foi com os anciãos de Gileade, e o povo o pôs por cabeça e príncipe sobre si: e Jefté falou todas as suas palavras perante o Senhor em Mizpá."
+            },
+            {
+                "id": "v11.12",
+                "versicle_number": 12,
+                "text": "E enviou Jefté mensageiros ao rei dos filhos de Amom, dizendo: Que há entre mim e ti, que vieste a mim a pelejar contra a minha terra?"
+            },
+            {
+                "id": "v11.13",
+                "versicle_number": 13,
+                "text": "E disse o rei dos filhos de Amom aos mensageiros de Jefté: Porquanto, saindo Israel do Egito, tomou a minha terra, desde Arnom até Jaboque, e ainda até ao Jordão: torna-ma pois agora em paz."
+            },
+            {
+                "id": "v11.14",
+                "versicle_number": 14,
+                "text": "Porém Jefté prosseguiu ainda em enviar mensageiros ao rei dos filhos de Amom,"
+            },
+            {
+                "id": "v11.15",
+                "versicle_number": 15,
+                "text": "Dizendo-lhe: Assim diz Jefté: Israel não tomou, nem a terra dos moabitas nem a terra dos filhos de Amom;"
+            },
+            {
+                "id": "v11.16",
+                "versicle_number": 16,
+                "text": "Porque, subindo Israel do Egito, andou pelo deserto até ao Mar Vermelho, e chegou até Cades."
+            },
+            {
+                "id": "v11.17",
+                "versicle_number": 17,
+                "text": "E Israel enviou mensageiros ao rei dos edomitas,{note:1} dizendo: Rogo-te que me deixes passar pela tua terra. Porém o rei dos edomitas não lhe deu ouvidos. Enviou também ao rei dos moabitas, o qual também não quis: e assim Israel ficou em Cades."
+            },
+            {
+                "id": "v11.18",
+                "versicle_number": 18,
+                "text": "Depois andou pelo deserto e rodeou a terra dos edomitas{note:2} e a terra dos moabitas, e veio do nascente do sol à terra dos moabitas, e alojaram-se dalém de Arnom; porém não entraram nos limites dos moabitas, porque Arnom é limite dos moabitas."
+            },
+            {
+                "id": "v11.19",
+                "versicle_number": 19,
+                "text": "Mas Israel enviou mensageiros a Seom,{note:3} rei dos amorreus, rei de Hesbom: e disse-lhe Israel: Deixa-nos, peço-te, passar pela tua terra até ao meu lugar."
+            },
+            {
+                "id": "v11.20",
+                "versicle_number": 20,
+                "text": "Porém Seom não se fiou de Israel para este passar nos seus limites; antes Seom ajuntou todo o seu povo, e se acamparam em Jasa, e combateu contra Israel."
+            },
+            {
+                "id": "v11.21",
+                "versicle_number": 21,
+                "text": "E o Senhor Deus de Israel deu a Seom com todo o seu povo na mão de Israel, e os feriram: e Israel tomou por herança toda a terra dos amorreus que habitavam naquela terra."
+            },
+            {
+                "id": "v11.22",
+                "versicle_number": 22,
+                "text": "E por herança tomaram todos os limites dos amorreus, desde Arnom até Jaboque, e desde o deserto até ao Jordão."
+            },
+            {
+                "id": "v11.23",
+                "versicle_number": 23,
+                "text": "Assim o Senhor Deus de Israel desapossou os amorreus de diante do seu povo de Israel: e os possuirias tu?"
+            },
+            {
+                "id": "v11.24",
+                "versicle_number": 24,
+                "text": "Não possuirias tu aquele que Camós, teu deus, desapossasse de diante de ti? assim possuiremos nós todos quantos o Senhor nosso Deus desapossar de diante de nós."
+            },
+            {
+                "id": "v11.25",
+                "versicle_number": 25,
+                "text": "Agora pois és tu ainda melhor do que Balaque,{note:4} filho de Zipor, rei dos moabitas? porventura contendeu ele em algum tempo com Israel, ou pelejou alguma vez contra eles?"
+            },
+            {
+                "id": "v11.26",
+                "versicle_number": 26,
+                "text": "Enquanto Israel habitou trezentos anos em Hesbom e nas suas vilas, e em Aroer e nas suas vilas, em todas as cidades que estão ao longo de Arnom, por que o não recuperaste naquele tempo?"
+            },
+            {
+                "id": "v11.27",
+                "versicle_number": 27,
+                "text": "Tão pouco pequei eu contra ti! porém tu usas mal comigo em pelejar contra mim: o Senhor, que é juiz, julgue hoje entre os filhos de Israel e entre os filhos de Amom."
+            },
+            {
+                "id": "v11.28",
+                "versicle_number": 28,
+                "text": "Porém o rei dos filhos de Amom não deu ouvidos às palavras de Jefté, que lhe enviou."
+            },
+            {
+                "id": "v11.29",
+                "versicle_number": 29,
+                "text": "Então o espírito do Senhor veio sobre Jefté, e atravessou ele por Gileade e Manassés: porque passou até Mizpá de Gileade, e de Mizpá de Gileade passou até aos filhos de Amom."
+            },
+            {
+                "id": "v11.30",
+                "versicle_number": 30,
+                "text": "E Jefté votou um voto ao Senhor e disse: Se totalmente deres os filhos de Amom na minha mão,"
+            },
+            {
+                "id": "v11.31",
+                "versicle_number": 31,
+                "text": "{note:j}Aquilo que, saindo da porta de minha casa, me sair ao encontro, voltando eu dos filhos de Amom em paz, isso será do Senhor, e o oferecerei em holocausto."
+            },
+            {
+                "id": "v11.32",
+                "versicle_number": 32,
+                "text": "Assim Jefté passou aos filhos de Amom, a combater contra eles: e o Senhor os deu na sua mão."
+            },
+            {
+                "id": "v11.33",
+                "versicle_number": 33,
+                "text": "E os feriu com grande mortandade, desde Aroer até chegar a Minite, vinte cidades, e até Abel-Queramim; assim foram subjugados os filhos de Amom diante dos filhos de Israel."
+            },
+            {
+                "id": "v11.34",
+                "versicle_number": 34,
+                "text": "Vindo pois Jefté a Mizpá, à sua casa, eis que a sua filha lhe saiu ao encontro com adufes e com danças: e era ela só a única; não tinha outro filho nem filha."
+            },
+            {
+                "id": "v11.35",
+                "versicle_number": 35,
+                "text": "E aconteceu que, quando a viu, rasgou os seus vestidos, e disse: Ah! filha minha, muito me abateste, e és dentre os que me turbam! porque eu abri a minha boca{note:5} ao Senhor, e não tornarei atrás."
+            },
+            {
+                "id": "v11.36",
+                "versicle_number": 36,
+                "text": "E ela lhe disse: Pai meu, abriste tu a tua boca ao Senhor, faze de mim como saiu da tua boca: pois o Senhor te vingou dos teus inimigos, os filhos de Amom."
+            },
+            {
+                "id": "v11.37",
+                "versicle_number": 37,
+                "text": "Disse mais a seu pai: Faça-se-me isto: deixa-me por dois meses que vá, e desça pelos montes, e chore a minha virgindade, eu e as minhas companheiras."
+            },
+            {
+                "id": "v11.38",
+                "versicle_number": 38,
+                "text": "E disse ele: Vai. E deixou-a ir por dois meses: então foi-se ela com as suas companheiras, e chorou a sua virgindade pelos montes."
+            },
+            {
+                "id": "v11.39",
+                "versicle_number": 39,
+                "text": "E sucedeu que, ao fim de dois meses, tornou ela para seu pai, o qual cumpriu nela o seu voto que tinha votado: e ela não conheceu varão; e daqui veio o costume em Israel,"
+            },
+            {
+                "id": "v11.40",
+                "versicle_number": 40,
+                "text": "Que as filhas de Israel iam de ano em ano a {note:k}lamentar a filha de Jefté, o gileadita, por quatro dias no ano."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:i} 11.10 Heb. ouvidor"
+            },
+            {
+                "id": "n2",
+                "text": "{note:1} 11.17 Nm 20.14-21"
+            },
+            {
+                "id": "n3",
+                "text": "{note:2} 11.18 Nm 21.4"
+            },
+            {
+                "id": "n4",
+                "text": "{note:3} 11.19 Nm 21.21-24"
+            },
+            {
+                "id": "n5",
+                "text": "{note:4} 11.25 Nm 22.1-6"
+            },
+            {
+                "id": "n6",
+                "text": "{note:j} 11.31 ou aquele"
+            },
+            {
+                "id": "n7",
+                "text": "{note:5} 11.35 Nm 30.2"
+            },
+            {
+                "id": "n8",
+                "text": "{note:k} 11.40 ou celebrar"
+            }
+        ]
+    }
+}

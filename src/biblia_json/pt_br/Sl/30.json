@@ -1,0 +1,88 @@
+{
+    "book": {
+        "id": "Sl",
+        "book_number": 19,
+        "new_testament": false,
+        "num_chapters": 150,
+        "book_name": "SALMOS",
+        "book_full_name": "O LIVRO DOS SALMOS"
+    },
+    "chapter": {
+        "chapter_number": 30,
+        "chapter_reference": "",
+        "chapter_title": "A ira de Deus dura um momento só, mas a sua benignidade é eterna",
+        "versicles": [
+            {
+                "id": "v30.1",
+                "versicle_number": 1,
+                "text": "EXALTAR-TE-EI, ó Senhor, porque tu me exaltaste; e não fizeste com que meus inimigos se alegrassem sobre mim."
+            },
+            {
+                "id": "v30.2",
+                "versicle_number": 2,
+                "text": "Senhor, meu Deus, clamei a ti, e tu me saraste."
+            },
+            {
+                "id": "v30.3",
+                "versicle_number": 3,
+                "text": "Senhor, fizeste subir a minha alma da {note:o}sepultura: conservaste-me a vida para que não descesse ao abismo."
+            },
+            {
+                "id": "v30.4",
+                "versicle_number": 4,
+                "text": "Cantai ao Senhor, vós que sois seus santos, e celebrai a {note:p}memória da sua santidade."
+            },
+            {
+                "id": "v30.5",
+                "versicle_number": 5,
+                "text": "Porque a sua ira dura só um momento; no seu favor está a vida; o choro pode durar uma noite, mas a alegria vem pela manhã."
+            },
+            {
+                "id": "v30.6",
+                "versicle_number": 6,
+                "text": "Eu dizia na minha prosperidade: Não vacilarei jamais."
+            },
+            {
+                "id": "v30.7",
+                "versicle_number": 7,
+                "text": "Tu, Senhor, pelo teu favor fizeste forte a minha montanha; tu encobriste o teu rosto, e fiquei perturbado."
+            },
+            {
+                "id": "v30.8",
+                "versicle_number": 8,
+                "text": "A ti, Senhor, clamei, e ao Senhor supliquei."
+            },
+            {
+                "id": "v30.9",
+                "versicle_number": 9,
+                "text": "Que proveito há no meu sangue, quando desço à cova? Porventura te louvará o pó? anunciará ele a tua verdade?"
+            },
+            {
+                "id": "v30.10",
+                "versicle_number": 10,
+                "text": "Ouve, Senhor, e tem piedade de mim, Senhor; sê o meu auxílio."
+            },
+            {
+                "id": "v30.11",
+                "versicle_number": 11,
+                "text": "Tornaste o meu pranto em folguedo; tiraste o meu cilício e me cingiste de alegria:"
+            },
+            {
+                "id": "v30.12",
+                "versicle_number": 12,
+                "text": "Para que a minha glória te cante louvores, e não se cale: Senhor, Deus meu, eu te louvarei para sempre."
+            }
+        ],
+        "subtitles": [],
+        "notes": [
+            {
+                "id": "n1",
+                "text": "{note:o} 30.3 Heb. Sheol"
+            },
+            {
+                "id": "n2",
+                "text": "{note:p} 30.4 ou sua santa memória"
+            }
+        ]
+    }
+}
