@@ -24,7 +24,7 @@ function getSearchParameterOrDefault(url, searchParameterName) {
  * @returns {object}
  */
 async function getFileContent(language, book_id=null, chapter_number=null) {
-    let url = `/biblia_json/${language}/`;
+    let url = `/biblia_pwa/biblia_json/${language}/`;
 
     if(book_id == null || book_id.length == 0) {
         url += "books.json"
