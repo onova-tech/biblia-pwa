@@ -15,7 +15,7 @@ function updateChaptersSection(container, chaptersData){
     for(const chapter of chapters) {
         let chapter_full_name = chapter.chapter_number;
         let chapter_elem_id = `chapter_${chapter.chapter_number}`;
-        let chapter_href = `/pages/chapter_read.html?book_id=${book_id}&chapter_number=${chapter.chapter_number}`
+        let chapter_href = `/biblia-pwa/pages/chapter_read.html?book_id=${book_id}&chapter_number=${chapter.chapter_number}`
 
         if(chapter.chapter_title != null && chapter.chapter_title != "") {
             chapter_full_name += " - " + chapter.chapter_title;

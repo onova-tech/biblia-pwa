@@ -7,7 +7,7 @@ function updateBooksSection(container, booksData, isNewTestament){
 
         let book_full_name = book.book_name;
         let book_elem_id = `book_${book.id}`;
-        let book_href = `/pages/chapter_selection.html?book_id=${book.id}`
+        let book_href = `/biblia-pwa/pages/chapter_selection.html?book_id=${book.id}`
 
         /*if(book.book_full_name != book.book_name) {
             book_full_name += " - " + book.book_full_name;

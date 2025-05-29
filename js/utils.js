@@ -143,5 +143,5 @@ async function load_random_chapter() {
         localStorage.setItem("todays_chapter_date", current_date);
     }
 
-    window.location.href = `/pages/chapter_read.html?language=${language}&book_id=${book_id}&chapter_number=${chapter_number}`
+    window.location.href = `/biblia-pwa/pages/chapter_read.html?language=${language}&book_id=${book_id}&chapter_number=${chapter_number}`
 }
