@@ -9,7 +9,7 @@ function updatePageTitleAndBookName(data) {
 }
 
 function displayChapterTitleAndReference(container, data) {
-    let chapter_title = data.chapter.chapter_title;
+    let chapter_title = `${data.chapter.chapter_number} - ${data.chapter.chapter_title}`;
     let chapter_reference = data.chapter.chapter_reference;
 
     addElement(container, chapter_title, null, template_chapter_title);
