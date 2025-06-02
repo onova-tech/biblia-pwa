@@ -75,7 +75,7 @@ function addNoteTooltips(container, data) {
                     tooltipText.setAttribute("style", `margin-left: calc(-1 * (${tooltipText.clientWidth}px + 10px));`)
 
                     if(getOffset(tooltipText).left <= 0) {
-                        tooltipText.setAttribute("style", `margin-left: calc(-1 * (${tooltipText.clientWidth}px - ${getOffset(tooltipText).left}px + 10px));`)
+                        tooltipText.setAttribute("style", `margin-left: calc(-1 * (${tooltipText.clientWidth}px + ${getOffset(tooltipText).left}px + 10px));`)
                     }
                 }
             }
