@@ -4,7 +4,7 @@
         "book_number": 52,
         "new_testament": true,
         "num_chapters": 5,
-        "book_name": "TESSALONICENSES",
+        "book_name": "1º TESSALONICENSES",
         "book_full_name": "PRIMEIRA EPÍSTOLA DO APÓSTOLO PAULO AOS TESSALONICENSES"
     },
     "chapter": {
@@ -112,8 +112,8 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 4.13-18 1Co 15.51-58"
+                "id": "{note:1}",
+                "text": "4.13-18 1Co 15.51-58"
             }
         ]
     }

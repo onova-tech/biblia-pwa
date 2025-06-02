@@ -201,76 +201,88 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 19.2 Lv 11.44-45; 1Pe 1.16"
+                "id": "{note:1}",
+                "text": "19.2 Lv 11.44-45; 1Pe 1.16"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 19.3 Êx 20.12; Dt 5.16 {note:3} 19.3 Êx 20.8; Dt 5.12"
+                "id": "{note:2}",
+                "text": "19.3 Êx 20.12; Dt 5.16"
             },
             {
-                "id": "n3",
-                "text": "{note:4} 19.4 Lv 26.1 {note:5} 19.4 Êx 20.4; 34.17; Dt 5.8; 27.15"
+                "id": "{note:4}",
+                "text": "19.4 Lv 26.1"
             },
             {
-                "id": "n4",
-                "text": "{note:l} 19.5 ou para que sejais aceitos, o sacrificareis"
+                "id": "{note:l}",
+                "text": "19.5 ou para que sejais aceitos, o sacrificareis"
             },
             {
-                "id": "n5",
-                "text": "{note:6} 19.9 Lv 23.22; Dt 24.19,22"
+                "id": "{note:6}",
+                "text": "19.9 Lv 23.22; Dt 24.19,22"
             },
             {
-                "id": "n6",
-                "text": "{note:7} 19.11 Êx 20.15; Dt 5.19 {note:8} 19.11 Êx 20.16; Dt 5.20"
+                "id": "{note:7}",
+                "text": "19.11 Êx 20.15; Dt 5.19"
             },
             {
-                "id": "n7",
-                "text": "{note:9} 19.12 Êx 20.7; Dt 5.11; Mt 5.33"
+                "id": "{note:9}",
+                "text": "19.12 Êx 20.7; Dt 5.11; Mt 5.33"
             },
             {
-                "id": "n8",
-                "text": "{note:10} 19.13 Dt 24.14-15"
+                "id": "{note:10}",
+                "text": "19.13 Dt 24.14-15"
             },
             {
-                "id": "n9",
-                "text": "{note:11} 19.15 Êx 23.6-8; Dt 16.18-20"
+                "id": "{note:11}",
+                "text": "19.15 Êx 23.6-8; Dt 16.18-20"
             },
             {
-                "id": "n10",
-                "text": "{note:12} 19.18 Mt 5.43; 19.19; 22.39; Mc 12.31; Lc 10.27; Rm 13.9; Gl 5.14; Tg 2.8"
+                "id": "{note:12}",
+                "text": "19.18 Mt 5.43; 19.19; 22.39; Mc 12.31; Lc 10.27; Rm 13.9; Gl 5.14; Tg 2.8"
             },
             {
-                "id": "n11",
-                "text": "{note:13} 19.19 Dt 22.9-11"
+                "id": "{note:13}",
+                "text": "19.19 Dt 22.9-11"
             },
             {
-                "id": "n12",
-                "text": "{note:m} 19.25 ou entreis no gozo da sua novidade"
+                "id": "{note:m}",
+                "text": "19.25 ou entreis no gozo da sua novidade"
             },
             {
-                "id": "n13",
-                "text": "{note:14} 19.26 Gn 9.4; Lv 7.26-27; 17.10-14; Dt 12.16,23; 15.23"
+                "id": "{note:14}",
+                "text": "19.26 Gn 9.4; Lv 7.26-27; 17.10-14; Dt 12.16,23; 15.23"
             },
             {
-                "id": "n14",
-                "text": "{note:15} 19.27-28 Lv 21.5; Dt 14.1"
+                "id": "{note:15}",
+                "text": "19.27-28 Lv 21.5; Dt 14.1"
             },
             {
-                "id": "n15",
-                "text": "{note:16} 19.29 Dt 23.17-18"
+                "id": "{note:16}",
+                "text": "19.29 Dt 23.17-18"
             },
             {
-                "id": "n16",
-                "text": "{note:17} 19.30 Lv 26.2"
+                "id": "{note:17}",
+                "text": "19.30 Lv 26.2"
             },
             {
-                "id": "n17",
-                "text": "{note:18} 19.33-34 Êx 22.21; Dt 24.17-18; 27.19"
+                "id": "{note:18}",
+                "text": "19.33-34 Êx 22.21; Dt 24.17-18; 27.19"
             },
             {
-                "id": "n18",
-                "text": "{note:19} 19.35-36 Dt 25.13-16"
+                "id": "{note:19}",
+                "text": "19.35-36 Dt 25.13-16"
+            },
+            {
+                "id": "{note:3}",
+                "text": "19.3 Êx 20.8; Dt 5.12"
+            },
+            {
+                "id": "{note:5}",
+                "text": "19.4 Êx 20.4; 34.17; Dt 5.8; 27.15"
+            },
+            {
+                "id": "{note:8}",
+                "text": "19.11 Êx 20.16; Dt 5.20"
             }
         ]
     }

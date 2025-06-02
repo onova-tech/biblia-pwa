@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 66,
         "book_name": "ISAÍAS",
-        "book_full_name": "ISAÍAS"
+        "book_full_name": "O LIVRO DE ISAÍAS"
     },
     "chapter": {
         "chapter_number": 60,
@@ -126,16 +126,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 60.11 Ap 21.25-26"
+                "id": "{note:1}",
+                "text": "60.11 Ap 21.25-26"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 60.14 Ap 3.9"
+                "id": "{note:2}",
+                "text": "60.14 Ap 3.9"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 60.19 Ap 21.23; 22.5"
+                "id": "{note:3}",
+                "text": "60.19 Ap 21.23; 22.5"
             }
         ]
     }

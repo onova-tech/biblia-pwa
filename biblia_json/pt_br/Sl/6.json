@@ -66,12 +66,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 6.1 Sl 38.1"
+                "id": "{note:1}",
+                "text": "6.1 Sl 38.1"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 6.8 Mt 7.23; Lc 13.27"
+                "id": "{note:2}",
+                "text": "6.8 Mt 7.23; Lc 13.27"
             }
         ]
     }

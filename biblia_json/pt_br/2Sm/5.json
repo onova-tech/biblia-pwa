@@ -4,7 +4,7 @@
         "book_number": 10,
         "new_testament": false,
         "num_chapters": 24,
-        "book_name": "SAMUEL",
+        "book_name": "2º SAMUEL",
         "book_full_name": "O SEGUNDO LIVRO DE SAMUEL"
     },
     "chapter": {
@@ -147,16 +147,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 5.4 1Rs 2.11; 1Cr 29.27"
+                "id": "{note:1}",
+                "text": "5.4 1Rs 2.11; 1Cr 29.27"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 5.5 1Cr 3.4; 29.27"
+                "id": "{note:2}",
+                "text": "5.5 1Cr 3.4; 29.27"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 5.6 Js 15.63; Jz 1.21"
+                "id": "{note:3}",
+                "text": "5.6 Js 15.63; Jz 1.21"
             }
         ]
     }

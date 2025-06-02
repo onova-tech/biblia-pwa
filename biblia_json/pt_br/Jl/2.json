@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 3,
         "book_name": "JOEL",
-        "book_full_name": "JOEL"
+        "book_full_name": "O LIVRO DE JOEL"
     },
     "chapter": {
         "chapter_number": 2,
@@ -182,24 +182,28 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 2.4-5 Ap 9.7-9"
+                "id": "{note:1}",
+                "text": "2.4-5 Ap 9.7-9"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 2.10 Ap 8.12"
+                "id": "{note:2}",
+                "text": "2.10 Ap 8.12"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 2.11 Ap 6.17"
+                "id": "{note:3}",
+                "text": "2.11 Ap 6.17"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 2.31 Mt 24.29; Mc 13.24-25; Lc 21.25; Ap 6.12-13"
+                "id": "{note:4}",
+                "text": "2.31 Mt 24.29; Mc 13.24-25; Lc 21.25; Ap 6.12-13"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 2.32 Rm 10.13 {note:6} 2.28-32 At 2.17-21"
+                "id": "{note:5}",
+                "text": "2.32 Rm 10.13"
+            },
+            {
+                "id": "{note:6}",
+                "text": "2.28-32 At 2.17-21"
             }
         ]
     }

@@ -202,28 +202,28 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 16.4 Jo 6.31"
+                "id": "{note:1}",
+                "text": "16.4 Jo 6.31"
             },
             {
-                "id": "n2",
-                "text": "{note:w} 16.15 Heb. Man hu que também pode significar Isto é maná"
+                "id": "{note:w}",
+                "text": "16.15 Heb. Man hu que também pode significar Isto é maná"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 16.18 2Co 8.15"
+                "id": "{note:2}",
+                "text": "16.18 2Co 8.15"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 16.23 Êx 20.8-11"
+                "id": "{note:3}",
+                "text": "16.23 Êx 20.8-11"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 16.33 Hb 9.4"
+                "id": "{note:4}",
+                "text": "16.33 Hb 9.4"
             },
             {
-                "id": "n6",
-                "text": "{note:5} 16.35 Js 5.12"
+                "id": "{note:5}",
+                "text": "16.35 Js 5.12"
             }
         ]
     }

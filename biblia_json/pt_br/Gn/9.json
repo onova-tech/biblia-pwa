@@ -167,28 +167,32 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 9.1 Gn 1.28"
+                "id": "{note:1}",
+                "text": "9.1 Gn 1.28"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 9.4 Lv 7.26-27; 17.10-14; 19.26; Dt 12.16,23; 15.23"
+                "id": "{note:2}",
+                "text": "9.4 Lv 7.26-27; 17.10-14; 19.26; Dt 12.16,23; 15.23"
             },
             {
-                "id": "n3",
-                "text": "{note:b} 9.5 ou almas"
+                "id": "{note:b}",
+                "text": "9.5 ou almas"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 9.6 Êx 20.13 {note:4} 9.6 Gn 1.26"
+                "id": "{note:3}",
+                "text": "9.6 Êx 20.13"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 9.7 Gn 1.28"
+                "id": "{note:5}",
+                "text": "9.7 Gn 1.28"
             },
             {
-                "id": "n6",
-                "text": "{note:c} 9.10 ou criatura"
+                "id": "{note:c}",
+                "text": "9.10 ou criatura"
+            },
+            {
+                "id": "{note:4}",
+                "text": "9.6 Gn 1.26"
             }
         ]
     }

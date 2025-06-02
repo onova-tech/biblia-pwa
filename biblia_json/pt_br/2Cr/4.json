@@ -4,7 +4,7 @@
         "book_number": 14,
         "new_testament": false,
         "num_chapters": 36,
-        "book_name": "CRÔNICAS",
+        "book_name": "2º CRÔNICAS",
         "book_full_name": "O SEGUNDO LIVRO DAS CRÔNICAS"
     },
     "chapter": {
@@ -126,28 +126,32 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 4.1 Êx 27.1-2"
+                "id": "{note:1}",
+                "text": "4.1 Êx 27.1-2"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 4.6 Êx 30.17-21"
+                "id": "{note:2}",
+                "text": "4.6 Êx 30.17-21"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 4.7 Êx 25.31-40"
+                "id": "{note:3}",
+                "text": "4.7 Êx 25.31-40"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 4.8 Êx 25.23-30"
+                "id": "{note:4}",
+                "text": "4.8 Êx 25.23-30"
             },
             {
-                "id": "n5",
-                "text": "{note:i} 4.21 ou tenazes"
+                "id": "{note:i}",
+                "text": "4.21 ou tenazes"
             },
             {
-                "id": "n6",
-                "text": "{note:j} 4.22 ou espevitadores {note:k} 4.22 ou colheres"
+                "id": "{note:j}",
+                "text": "4.22 ou espevitadores"
+            },
+            {
+                "id": "{note:k}",
+                "text": "4.22 ou colheres"
             }
         ]
     }

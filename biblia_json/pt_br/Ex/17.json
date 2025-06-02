@@ -102,16 +102,24 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:x} 17.7 Heb. tentação {note:1} 17.1-7 Nm 20.2-13 {note:y} 17.7 Heb. contenda"
+                "id": "{note:x}",
+                "text": "17.7 Heb. tentação"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 17.14 Dt 25.17-19; 1Sm 15.2-9"
+                "id": "{note:2}",
+                "text": "17.14 Dt 25.17-19; 1Sm 15.2-9"
             },
             {
-                "id": "n3",
-                "text": "{note:z} 17.15 Heb. JEOVÁ-nissi"
+                "id": "{note:z}",
+                "text": "17.15 Heb. JEOVÁ-nissi"
+            },
+            {
+                "id": "{note:1}",
+                "text": "17.1-7 Nm 20.2-13"
+            },
+            {
+                "id": "{note:y}",
+                "text": "17.7 Heb. contenda"
             }
         ]
     }

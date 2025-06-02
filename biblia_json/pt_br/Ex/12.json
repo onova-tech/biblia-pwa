@@ -282,40 +282,48 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:n} 12.6 Heb. entre as duas tardes"
+                "id": "{note:n}",
+                "text": "12.6 Heb. entre as duas tardes"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 12.1-13 Lv 23.5; Nm 9.1-5; 28.16; Dt 16.1-2"
+                "id": "{note:1}",
+                "text": "12.1-13 Lv 23.5; Nm 9.1-5; 28.16; Dt 16.1-2"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 12.14-20 Êx 23.15; 34.18; Lv 23.6-8; Nm 28.17-25; Dt 16.3-8"
+                "id": "{note:2}",
+                "text": "12.14-20 Êx 23.15; 34.18; Lv 23.6-8; Nm 28.17-25; Dt 16.3-8"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 12.27 Hb 11.28"
+                "id": "{note:3}",
+                "text": "12.27 Hb 11.28"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 12.29 Êx 4.22-23"
+                "id": "{note:4}",
+                "text": "12.29 Êx 4.22-23"
             },
             {
-                "id": "n6",
-                "text": "{note:o} 12.35 ou joias {note:p} 12.35 ou joias"
+                "id": "{note:o}",
+                "text": "12.35 ou joias"
             },
             {
-                "id": "n7",
-                "text": "{note:q} 12.36 Heb. davam-lhes o que lhes pediam {note:5} 12.35-36 Êx 3.21-22"
+                "id": "{note:q}",
+                "text": "12.36 Heb. davam-lhes o que lhes pediam"
             },
             {
-                "id": "n8",
-                "text": "{note:6} 12.40 Gn 15.13; Gl 3.17"
+                "id": "{note:6}",
+                "text": "12.40 Gn 15.13; Gl 3.17"
             },
             {
-                "id": "n9",
-                "text": "{note:7} 12.46 Nm 9.12; Sl 34.20; Jo 19.36"
+                "id": "{note:7}",
+                "text": "12.46 Nm 9.12; Sl 34.20; Jo 19.36"
+            },
+            {
+                "id": "{note:p}",
+                "text": "12.35 ou joias"
+            },
+            {
+                "id": "{note:5}",
+                "text": "12.35-36 Êx 3.21-22"
             }
         ]
     }

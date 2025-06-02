@@ -61,8 +61,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:k} 47.8 ou sobre o seu santo trono"
+                "id": "{note:k}",
+                "text": "47.8 ou sobre o seu santo trono"
             }
         ]
     }

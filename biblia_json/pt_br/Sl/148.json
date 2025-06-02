@@ -86,12 +86,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:k} 148.1 Heb. Aleluia"
+                "id": "{note:k}",
+                "text": "148.1 Heb. Aleluia"
             },
             {
-                "id": "n2",
-                "text": "{note:l} 148.14 Heb. chifre {note:m} 148.14 Heb. Aleluia"
+                "id": "{note:l}",
+                "text": "148.14 Heb. chifre"
+            },
+            {
+                "id": "{note:m}",
+                "text": "148.14 Heb. Aleluia"
             }
         ]
     }

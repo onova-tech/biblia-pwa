@@ -4,7 +4,7 @@
         "book_number": 14,
         "new_testament": false,
         "num_chapters": 36,
-        "book_name": "CRÔNICAS",
+        "book_name": "2º CRÔNICAS",
         "book_full_name": "O SEGUNDO LIVRO DAS CRÔNICAS"
     },
     "chapter": {
@@ -86,24 +86,24 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 5.1 2Sm 8.11; 1Cr 18.11"
+                "id": "{note:1}",
+                "text": "5.1 2Sm 8.11; 1Cr 18.11"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 5.2 2Sm 6.12-15; 1Cr 15.25-28"
+                "id": "{note:2}",
+                "text": "5.2 2Sm 6.12-15; 1Cr 15.25-28"
             },
             {
-                "id": "n3",
-                "text": "{note:l} 5.7 ou Casa Santíssima"
+                "id": "{note:l}",
+                "text": "5.7 ou Casa Santíssima"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 5.10 Dt 10.5"
+                "id": "{note:3}",
+                "text": "5.10 Dt 10.5"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 5.13-14 Êx 40.34-35"
+                "id": "{note:4}",
+                "text": "5.13-14 Êx 40.34-35"
             }
         ]
     }

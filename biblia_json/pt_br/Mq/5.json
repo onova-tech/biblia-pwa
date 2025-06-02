@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 7,
         "book_name": "MIQUEIAS",
-        "book_full_name": "MIQUEIAS"
+        "book_full_name": "O LIVRO DE MIQUEIAS"
     },
     "chapter": {
         "chapter_number": 5,
@@ -91,16 +91,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 5.2 Mt 2.6; Jo 7.42"
+                "id": "{note:1}",
+                "text": "5.2 Mt 2.6; Jo 7.42"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 5.6 Gn 10.8-11"
+                "id": "{note:2}",
+                "text": "5.6 Gn 10.8-11"
             },
             {
-                "id": "n3",
-                "text": "{note:d} 5.13 ou os teus pilares ou obeliscos"
+                "id": "{note:d}",
+                "text": "5.13 ou os teus pilares ou obeliscos"
             }
         ]
     }

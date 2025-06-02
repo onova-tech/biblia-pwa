@@ -71,12 +71,20 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 95.8 Êx 17.7; Nm 20.13 {note:o} 95.8 Heb. de Massah"
+                "id": "{note:1}",
+                "text": "95.8 Êx 17.7; Nm 20.13"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 95.7-11 Hb 3.7-11,15; 4.3-7 {note:3} 95.10-11 Nm 14.26-35"
+                "id": "{note:2}",
+                "text": "95.7-11 Hb 3.7-11,15; 4.3-7"
+            },
+            {
+                "id": "{note:o}",
+                "text": "95.8 Heb. de Massah"
+            },
+            {
+                "id": "{note:3}",
+                "text": "95.10-11 Nm 14.26-35"
             }
         ]
     }

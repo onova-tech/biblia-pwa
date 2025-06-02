@@ -246,16 +246,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 29.18 Ef 5.2; Fp 4.18"
+                "id": "{note:1}",
+                "text": "29.18 Ef 5.2; Fp 4.18"
             },
             {
-                "id": "n2",
-                "text": "{note:m} 29.33 ou propiciação"
+                "id": "{note:m}",
+                "text": "29.33 ou propiciação"
             },
             {
-                "id": "n3",
-                "text": "{note:n} 29.43 ou e a tenda será santificada pela minha glória"
+                "id": "{note:n}",
+                "text": "29.43 ou e a tenda será santificada pela minha glória"
             }
         ]
     }

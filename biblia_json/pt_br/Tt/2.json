@@ -97,12 +97,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:b} 2.2 ou no amor"
+                "id": "{note:b}",
+                "text": "2.2 ou no amor"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 2.14 Sl 130.8 {note:2} 2.14 Êx 19.5; Dt 7.6; 14.2"
+                "id": "{note:1}",
+                "text": "2.14 Sl 130.8"
+            },
+            {
+                "id": "{note:2}",
+                "text": "2.14 Êx 19.5; Dt 7.6; 14.2"
             }
         ]
     }

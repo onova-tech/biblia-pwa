@@ -181,8 +181,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:l} 33.23 ou anjo"
+                "id": "{note:l}",
+                "text": "33.23 ou anjo"
             }
         ]
     }

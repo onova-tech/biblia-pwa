@@ -192,20 +192,20 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 46.6 At 7.15"
+                "id": "{note:1}",
+                "text": "46.6 At 7.15"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 46.20 Gn 41.50-52"
+                "id": "{note:2}",
+                "text": "46.20 Gn 41.50-52"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 46.27 At 7.14"
+                "id": "{note:3}",
+                "text": "46.27 At 7.14"
             },
             {
-                "id": "n4",
-                "text": "{note:k} 46.33 ou ocupação"
+                "id": "{note:k}",
+                "text": "46.33 ou ocupação"
             }
         ]
     }

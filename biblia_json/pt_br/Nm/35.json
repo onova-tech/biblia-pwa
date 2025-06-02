@@ -192,20 +192,20 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 35.2 Js 21.1-42"
+                "id": "{note:1}",
+                "text": "35.2 Js 21.1-42"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 35.11 Js 20.1-9"
+                "id": "{note:2}",
+                "text": "35.11 Js 20.1-9"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 35.30 Dt 17.6"
+                "id": "{note:3}",
+                "text": "35.30 Dt 17.6"
             },
             {
-                "id": "n4",
-                "text": "{note:o} 35.31 ou alma"
+                "id": "{note:o}",
+                "text": "35.31 ou alma"
             }
         ]
     }

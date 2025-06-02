@@ -91,8 +91,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:m} 92.10 Heb. chifre"
+                "id": "{note:m}",
+                "text": "92.10 Heb. chifre"
             }
         ]
     }

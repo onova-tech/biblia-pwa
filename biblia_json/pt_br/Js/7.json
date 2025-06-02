@@ -146,16 +146,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:i} 7.1 ou consagrado (vide Lv 27.28; Dt 20.17)"
+                "id": "{note:i}",
+                "text": "7.1 ou consagrado (vide Lv 27.28; Dt 20.17)"
             },
             {
-                "id": "n2",
-                "text": "{note:j} 7.5 que significa as pedreiras"
+                "id": "{note:j}",
+                "text": "7.5 que significa as pedreiras"
             },
             {
-                "id": "n3",
-                "text": "{note:k} 7.21 Heb. língua"
+                "id": "{note:k}",
+                "text": "7.21 Heb. língua"
             }
         ]
     }

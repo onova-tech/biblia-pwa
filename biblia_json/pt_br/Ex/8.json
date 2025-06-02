@@ -187,12 +187,12 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:j} 8.9 Heb. Gloria-te sobre mim"
+                "id": "{note:j}",
+                "text": "8.9 Heb. Gloria-te sobre mim"
             },
             {
-                "id": "n2",
-                "text": "{note:k} 8.23 ou um sinal de livramento"
+                "id": "{note:k}",
+                "text": "8.23 ou um sinal de livramento"
             }
         ]
     }

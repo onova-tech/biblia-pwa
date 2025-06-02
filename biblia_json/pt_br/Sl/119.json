@@ -896,12 +896,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:g} 119.72 Heb. milhares de ouro ou prata"
+                "id": "{note:g}",
+                "text": "119.72 Heb. milhares de ouro ou prata"
             },
             {
-                "id": "n2",
-                "text": "{note:h} 119.106 ou confirmei"
+                "id": "{note:h}",
+                "text": "119.106 ou confirmei"
             }
         ]
     }

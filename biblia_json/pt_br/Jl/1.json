@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 3,
         "book_name": "JOEL",
-        "book_full_name": "JOEL"
+        "book_full_name": "O LIVRO DE JOEL"
     },
     "chapter": {
         "chapter_number": 1,
@@ -116,12 +116,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 1.6 Ap 9.8"
+                "id": "{note:1}",
+                "text": "1.6 Ap 9.8"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 1.15 Is 13.6"
+                "id": "{note:2}",
+                "text": "1.15 Is 13.6"
             }
         ]
     }

@@ -287,44 +287,48 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 7.2 Lv 23.34; Dt 16.13"
+                "id": "{note:1}",
+                "text": "7.2 Lv 23.34; Dt 16.13"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 7.22 Lv 12.3 {note:3} 7.22 Gn 17.10"
+                "id": "{note:2}",
+                "text": "7.22 Lv 12.3"
             },
             {
-                "id": "n3",
-                "text": "{note:4} 7.23 Jo 5.9"
+                "id": "{note:4}",
+                "text": "7.23 Jo 5.9"
             },
             {
-                "id": "n4",
-                "text": "{note:c} 7.32 ou meirinhos"
+                "id": "{note:c}",
+                "text": "7.32 ou meirinhos"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 7.37 Lv 23.36"
+                "id": "{note:5}",
+                "text": "7.37 Lv 23.36"
             },
             {
-                "id": "n6",
-                "text": "{note:6} 7.38 Ez 47.1; Zc 14.8"
+                "id": "{note:6}",
+                "text": "7.38 Ez 47.1; Zc 14.8"
             },
             {
-                "id": "n7",
-                "text": "{note:7} 7.42 Mq 5.2"
+                "id": "{note:7}",
+                "text": "7.42 Mq 5.2"
             },
             {
-                "id": "n8",
-                "text": "{note:d} 7.45 ou meirinhos"
+                "id": "{note:d}",
+                "text": "7.45 ou meirinhos"
             },
             {
-                "id": "n9",
-                "text": "{note:e} 7.46 ou meirinhos"
+                "id": "{note:e}",
+                "text": "7.46 ou meirinhos"
             },
             {
-                "id": "n10",
-                "text": "{note:8} 7.50 Jo 3.1"
+                "id": "{note:8}",
+                "text": "7.50 Jo 3.1"
+            },
+            {
+                "id": "{note:3}",
+                "text": "7.22 Gn 17.10"
             }
         ]
     }

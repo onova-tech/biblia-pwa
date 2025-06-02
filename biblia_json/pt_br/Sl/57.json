@@ -71,8 +71,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 57, título 1Sm 24.3"
+                "id": "{note:1}",
+                "text": "57, título 1Sm 24.3"
             }
         ]
     }

@@ -171,28 +171,28 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 22.1 Mt 27.46; Mc 15.34"
+                "id": "{note:1}",
+                "text": "22.1 Mt 27.46; Mc 15.34"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 22.7 Mt 27.39; Mc 15.29; Lc 23.35"
+                "id": "{note:2}",
+                "text": "22.7 Mt 27.39; Mc 15.29; Lc 23.35"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 22.8 Mt 27.43"
+                "id": "{note:3}",
+                "text": "22.8 Mt 27.43"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 22.18 Mt 27.35; Mc 15.24; Lc 23.34; Jo 19.24"
+                "id": "{note:4}",
+                "text": "22.18 Mt 27.35; Mc 15.24; Lc 23.34; Jo 19.24"
             },
             {
-                "id": "n5",
-                "text": "{note:l} 22.20 Heb. única"
+                "id": "{note:l}",
+                "text": "22.20 Heb. única"
             },
             {
-                "id": "n6",
-                "text": "{note:5} 22.22 Hb 2.12"
+                "id": "{note:5}",
+                "text": "22.22 Hb 2.12"
             }
         ]
     }

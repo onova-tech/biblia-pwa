@@ -136,8 +136,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:p} 40.15 ou hipopótamo"
+                "id": "{note:p}",
+                "text": "40.15 ou hipopótamo"
             }
         ]
     }

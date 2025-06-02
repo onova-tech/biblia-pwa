@@ -87,24 +87,24 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 3.2 Êx 27.1"
+                "id": "{note:1}",
+                "text": "3.2 Êx 27.1"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 3.4 Nm 29.12-38"
+                "id": "{note:2}",
+                "text": "3.4 Nm 29.12-38"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 3.5 Nm 28.1—29.11"
+                "id": "{note:3}",
+                "text": "3.5 Nm 28.1—29.11"
             },
             {
-                "id": "n4",
-                "text": "{note:b} 3.7 ou pedreiros"
+                "id": "{note:b}",
+                "text": "3.7 ou pedreiros"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 3.10 1Cr 25.1"
+                "id": "{note:4}",
+                "text": "3.10 1Cr 25.1"
             }
         ]
     }

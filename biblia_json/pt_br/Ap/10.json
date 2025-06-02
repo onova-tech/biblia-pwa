@@ -71,20 +71,20 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 10.5-6 Dn 12.7"
+                "id": "{note:1}",
+                "text": "10.5-6 Dn 12.7"
             },
             {
-                "id": "n2",
-                "text": "{note:l} 10.7 Gr. mistério"
+                "id": "{note:l}",
+                "text": "10.7 Gr. mistério"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 10.9 Ez 2.8-9"
+                "id": "{note:2}",
+                "text": "10.9 Ez 2.8-9"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 10.10 Ez 3.1-3"
+                "id": "{note:3}",
+                "text": "10.10 Ez 3.1-3"
             }
         ]
     }

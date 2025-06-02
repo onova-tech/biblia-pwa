@@ -116,28 +116,32 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:f} 6.8 ou rejeitada {note:1} 6.8 Gn 3.17-18"
+                "id": "{note:f}",
+                "text": "6.8 ou rejeitada"
             },
             {
-                "id": "n2",
-                "text": "{note:g} 6.9 ou pertencem à salvação"
+                "id": "{note:g}",
+                "text": "6.9 ou pertencem à salvação"
             },
             {
-                "id": "n3",
-                "text": "{note:h} 6.10 ou do amor"
+                "id": "{note:h}",
+                "text": "6.10 ou do amor"
             },
             {
-                "id": "n4",
-                "text": "{note:2} 6.13-14 Gn 22.16-17"
+                "id": "{note:2}",
+                "text": "6.13-14 Gn 22.16-17"
             },
             {
-                "id": "n5",
-                "text": "{note:3} 6.19 Lv 16.2"
+                "id": "{note:3}",
+                "text": "6.19 Lv 16.2"
             },
             {
-                "id": "n6",
-                "text": "{note:4} 6.20 Sl 110.4"
+                "id": "{note:4}",
+                "text": "6.20 Sl 110.4"
+            },
+            {
+                "id": "{note:1}",
+                "text": "6.8 Gn 3.17-18"
             }
         ]
     }

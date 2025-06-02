@@ -162,20 +162,20 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 1.1 Mt 13.55; Mc 6.3; At 15.13; Gl 1.19"
+                "id": "{note:1}",
+                "text": "1.1 Mt 13.55; Mc 6.3; At 15.13; Gl 1.19"
             },
             {
-                "id": "n2",
-                "text": "{note:a} 1.2 ou vos forem enviadas várias provas"
+                "id": "{note:a}",
+                "text": "1.2 ou vos forem enviadas várias provas"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 1.10-11 Is 40.6-7"
+                "id": "{note:2}",
+                "text": "1.10-11 Is 40.6-7"
             },
             {
-                "id": "n4",
-                "text": "{note:b} 1.14 ou seduzido"
+                "id": "{note:b}",
+                "text": "1.14 ou seduzido"
             }
         ]
     }

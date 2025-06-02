@@ -4,7 +4,7 @@
         "book_number": 47,
         "new_testament": true,
         "num_chapters": 13,
-        "book_name": "CORÍNTIOS",
+        "book_name": "2º CORÍNTIOS",
         "book_full_name": "SEGUNDA EPÍSTOLA DO APÓSTOLO PAULO AOS CORÍNTIOS"
     },
     "chapter": {
@@ -106,8 +106,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 10.17 Jr 9.24"
+                "id": "{note:1}",
+                "text": "10.17 Jr 9.24"
             }
         ]
     }

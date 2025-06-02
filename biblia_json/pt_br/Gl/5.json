@@ -152,20 +152,20 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 5.9 1Co 5.6"
+                "id": "{note:1}",
+                "text": "5.9 1Co 5.6"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 5.14 Lv 19.18"
+                "id": "{note:2}",
+                "text": "5.14 Lv 19.18"
             },
             {
-                "id": "n3",
-                "text": "{note:d} 5.22 ou amor"
+                "id": "{note:d}",
+                "text": "5.22 ou amor"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 5.16-26 Rm 7.7-25"
+                "id": "{note:3}",
+                "text": "5.16-26 Rm 7.7-25"
             }
         ]
     }

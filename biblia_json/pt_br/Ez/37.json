@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 48,
         "book_name": "EZEQUIEL",
-        "book_full_name": "EZEQUIEL"
+        "book_full_name": "O LIVRO DE EZEQUIEL"
     },
     "chapter": {
         "chapter_number": 37,
@@ -156,20 +156,20 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:e} 37.7 ou pondo-se cada um na sua juntura"
+                "id": "{note:e}",
+                "text": "37.7 ou pondo-se cada um na sua juntura"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 37.10 Ap 11.11"
+                "id": "{note:1}",
+                "text": "37.10 Ap 11.11"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 37.24 Ez 34.24"
+                "id": "{note:2}",
+                "text": "37.24 Ez 34.24"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 37.27 2Co 6.16; Ap 21.3"
+                "id": "{note:3}",
+                "text": "37.27 2Co 6.16; Ap 21.3"
             }
         ]
     }

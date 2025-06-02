@@ -4,7 +4,7 @@
         "book_number": 14,
         "new_testament": false,
         "num_chapters": 36,
-        "book_name": "CRÔNICAS",
+        "book_name": "2º CRÔNICAS",
         "book_full_name": "O SEGUNDO LIVRO DAS CRÔNICAS"
     },
     "chapter": {
@@ -112,28 +112,36 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 1.4 2Sm 6.1-17; 1Cr 13.5-14; 15.25—16.1"
+                "id": "{note:1}",
+                "text": "1.4 2Sm 6.1-17; 1Cr 13.5-14; 15.25—16.1"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 1.5 Êx 27.1-8 {note:a} 1.5 Heb. buscavam"
+                "id": "{note:2}",
+                "text": "1.5 Êx 27.1-8"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 1.9 Gn 13.16; 28.14"
+                "id": "{note:3}",
+                "text": "1.9 Gn 13.16; 28.14"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 1.14 1Rs 4.26"
+                "id": "{note:4}",
+                "text": "1.14 1Rs 4.26"
             },
             {
-                "id": "n5",
-                "text": "{note:b} 1.15 ou sicômoros"
+                "id": "{note:b}",
+                "text": "1.15 ou sicômoros"
             },
             {
-                "id": "n6",
-                "text": "{note:5} 1.16 Dt 17.16 {note:c} 1.16 ou os mercadores do rei os recebiam em manadas e cada uma pelo seu preço"
+                "id": "{note:5}",
+                "text": "1.16 Dt 17.16"
+            },
+            {
+                "id": "{note:a}",
+                "text": "1.5 Heb. buscavam"
+            },
+            {
+                "id": "{note:c}",
+                "text": "1.16 ou os mercadores do rei os recebiam em manadas e cada uma pelo seu preço"
             }
         ]
     }

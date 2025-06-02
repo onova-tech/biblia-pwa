@@ -66,8 +66,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:e} 75.10 Heb. serrarei todos os chifres"
+                "id": "{note:e}",
+                "text": "75.10 Heb. serrarei todos os chifres"
             }
         ]
     }

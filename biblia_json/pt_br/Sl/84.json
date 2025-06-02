@@ -76,8 +76,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:h} 84.6 que significa árvores de bálsamo"
+                "id": "{note:h}",
+                "text": "84.6 que significa árvores de bálsamo"
             }
         ]
     }

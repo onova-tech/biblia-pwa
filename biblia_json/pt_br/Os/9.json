@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 14,
         "book_name": "OSEIAS",
-        "book_full_name": "OSEIAS"
+        "book_full_name": "O LIVRO DE OSEIAS"
     },
     "chapter": {
         "chapter_number": 9,
@@ -101,16 +101,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 9.7 Lc 21.22"
+                "id": "{note:1}",
+                "text": "9.7 Lc 21.22"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 9.9 Jz 19.1-30"
+                "id": "{note:2}",
+                "text": "9.9 Jz 19.1-30"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 9.10 Nm 25.1-5"
+                "id": "{note:3}",
+                "text": "9.10 Nm 25.1-5"
             }
         ]
     }

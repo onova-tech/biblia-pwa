@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 3,
         "book_name": "HABACUQUE",
-        "book_full_name": "HABACUQUE"
+        "book_full_name": "O LIVRO DE HABACUQUE"
     },
     "chapter": {
         "chapter_number": 1,
@@ -101,20 +101,20 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:a} 1.1 ou A sentença"
+                "id": "{note:a}",
+                "text": "1.1 ou A sentença"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 1.5 At 13.41"
+                "id": "{note:1}",
+                "text": "1.5 At 13.41"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 1.6 2Rs 24.2"
+                "id": "{note:2}",
+                "text": "1.6 2Rs 24.2"
             },
             {
-                "id": "n4",
-                "text": "{note:b} 1.8 ou ferozes"
+                "id": "{note:b}",
+                "text": "1.8 ou ferozes"
             }
         ]
     }

@@ -417,48 +417,52 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 14.7 Dt 15.11"
+                "id": "{note:1}",
+                "text": "14.7 Dt 15.11"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 14.12 Êx 12.1-27"
+                "id": "{note:2}",
+                "text": "14.12 Êx 12.1-27"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 14.21 Sl 41.9"
+                "id": "{note:3}",
+                "text": "14.21 Sl 41.9"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 14.24 Êx 24.6-8 {note:5} 14.24 Jr 31.31-34"
+                "id": "{note:4}",
+                "text": "14.24 Êx 24.6-8"
             },
             {
-                "id": "n5",
-                "text": "{note:6} 14.27 Zc 13.7"
+                "id": "{note:6}",
+                "text": "14.27 Zc 13.7"
             },
             {
-                "id": "n6",
-                "text": "{note:7} 14.28 Mt 28.16"
+                "id": "{note:7}",
+                "text": "14.28 Mt 28.16"
             },
             {
-                "id": "n7",
-                "text": "{note:8} 14.49 Lc 19.47; 21.37"
+                "id": "{note:8}",
+                "text": "14.49 Lc 19.47; 21.37"
             },
             {
-                "id": "n8",
-                "text": "{note:k} 14.54 ou oficiais"
+                "id": "{note:k}",
+                "text": "14.54 ou oficiais"
             },
             {
-                "id": "n9",
-                "text": "{note:9} 14.58 Jo 2.19"
+                "id": "{note:9}",
+                "text": "14.58 Jo 2.19"
             },
             {
-                "id": "n10",
-                "text": "{note:10} 14.62 Dn 7.13"
+                "id": "{note:10}",
+                "text": "14.62 Dn 7.13"
             },
             {
-                "id": "n11",
-                "text": "{note:11} 14.64 Lv 24.16"
+                "id": "{note:11}",
+                "text": "14.64 Lv 24.16"
+            },
+            {
+                "id": "{note:5}",
+                "text": "14.24 Jr 31.31-34"
             }
         ]
     }

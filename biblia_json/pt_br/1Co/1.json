@@ -4,7 +4,7 @@
         "book_number": 46,
         "new_testament": true,
         "num_chapters": 16,
-        "book_name": "CORÍNTIOS",
+        "book_name": "1º CORÍNTIOS",
         "book_full_name": "PRIMEIRA EPÍSTOLA DO APÓSTOLO PAULO AOS CORÍNTIOS"
     },
     "chapter": {
@@ -177,32 +177,36 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 1.2 At 18.1"
+                "id": "{note:1}",
+                "text": "1.2 At 18.1"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 1.12 At 18.24"
+                "id": "{note:2}",
+                "text": "1.12 At 18.24"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 1.14 At 18.8 {note:4} 1.14 At 19.29; Rm 16.23"
+                "id": "{note:3}",
+                "text": "1.14 At 18.8"
             },
             {
-                "id": "n4",
-                "text": "{note:5} 1.16 1Co 16.15"
+                "id": "{note:5}",
+                "text": "1.16 1Co 16.15"
             },
             {
-                "id": "n5",
-                "text": "{note:6} 1.19 Is 29.14"
+                "id": "{note:6}",
+                "text": "1.19 Is 29.14"
             },
             {
-                "id": "n6",
-                "text": "{note:7} 1.20 Is 44.25"
+                "id": "{note:7}",
+                "text": "1.20 Is 44.25"
             },
             {
-                "id": "n7",
-                "text": "{note:8} 1.31 Jr 9.24"
+                "id": "{note:8}",
+                "text": "1.31 Jr 9.24"
+            },
+            {
+                "id": "{note:4}",
+                "text": "1.14 At 19.29; Rm 16.23"
             }
         ]
     }

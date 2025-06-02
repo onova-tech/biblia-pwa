@@ -191,8 +191,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:n} 23.14 Heb. Sheol"
+                "id": "{note:n}",
+                "text": "23.14 Heb. Sheol"
             }
         ]
     }

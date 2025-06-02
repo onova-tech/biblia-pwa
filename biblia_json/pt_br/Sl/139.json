@@ -136,8 +136,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:d} 139.8 que é abismo ou lugar dos mortos"
+                "id": "{note:d}",
+                "text": "139.8 que é abismo ou lugar dos mortos"
             }
         ]
     }

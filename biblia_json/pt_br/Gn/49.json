@@ -181,32 +181,36 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 49.9 Nm 24.9; Ap 5.5"
+                "id": "{note:1}",
+                "text": "49.9 Nm 24.9; Ap 5.5"
             },
             {
-                "id": "n2",
-                "text": "{note:o} 49.10 ou obedecerão"
+                "id": "{note:o}",
+                "text": "49.10 ou obedecerão"
             },
             {
-                "id": "n3",
-                "text": "{note:p} 49.14 ou pousado entre os currais"
+                "id": "{note:p}",
+                "text": "49.14 ou pousado entre os currais"
             },
             {
-                "id": "n4",
-                "text": "{note:q} 49.23 ou perseguiram"
+                "id": "{note:q}",
+                "text": "49.23 ou perseguiram"
             },
             {
-                "id": "n5",
-                "text": "{note:2} 49.30 Gn 23.3-20"
+                "id": "{note:2}",
+                "text": "49.30 Gn 23.3-20"
             },
             {
-                "id": "n6",
-                "text": "{note:3} 49.31 Gn 25.9-10 {note:4} 49.31 Gn 35.29"
+                "id": "{note:3}",
+                "text": "49.31 Gn 25.9-10"
             },
             {
-                "id": "n7",
-                "text": "{note:5} 49.33 At 7.15"
+                "id": "{note:5}",
+                "text": "49.33 At 7.15"
+            },
+            {
+                "id": "{note:4}",
+                "text": "49.31 Gn 35.29"
             }
         ]
     }

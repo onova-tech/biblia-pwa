@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 4,
         "book_name": "MALAQUIAS",
-        "book_full_name": "MALAQUIAS"
+        "book_full_name": "O LIVRO DE MALAQUIAS"
     },
     "chapter": {
         "chapter_number": 4,
@@ -46,12 +46,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:d} 4.2 ou saltareis"
+                "id": "{note:d}",
+                "text": "4.2 ou saltareis"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 4.5 Mt 11.14; 17.10-13; Mc 9.11-13; Lc 1.17; Jo 1.21"
+                "id": "{note:1}",
+                "text": "4.5 Mt 11.14; 17.10-13; Mc 9.11-13; Lc 1.17; Jo 1.21"
             }
         ]
     }

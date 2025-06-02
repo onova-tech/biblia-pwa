@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 48,
         "book_name": "EZEQUIEL",
-        "book_full_name": "EZEQUIEL"
+        "book_full_name": "O LIVRO DE EZEQUIEL"
     },
     "chapter": {
         "chapter_number": 14,
@@ -137,12 +137,12 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:n} 14.13 Heb. bordão de pão"
+                "id": "{note:n}",
+                "text": "14.13 Heb. bordão de pão"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 14.21 Ap 6.8"
+                "id": "{note:1}",
+                "text": "14.21 Ap 6.8"
             }
         ]
     }

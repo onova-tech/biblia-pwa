@@ -4,7 +4,7 @@
         "book_number": 52,
         "new_testament": true,
         "num_chapters": 5,
-        "book_name": "TESSALONICENSES",
+        "book_name": "1º TESSALONICENSES",
         "book_full_name": "PRIMEIRA EPÍSTOLA DO APÓSTOLO PAULO AOS TESSALONICENSES"
     },
     "chapter": {
@@ -156,12 +156,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 5.2 Mt 24.43; Lc 12.39; 2Pe 3.10"
+                "id": "{note:1}",
+                "text": "5.2 Mt 24.43; Lc 12.39; 2Pe 3.10"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 5.8 Is 59.17 {note:c} 5.8 ou do amor"
+                "id": "{note:2}",
+                "text": "5.8 Is 59.17"
+            },
+            {
+                "id": "{note:c}",
+                "text": "5.8 ou do amor"
             }
         ]
     }

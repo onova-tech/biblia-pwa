@@ -106,8 +106,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 1.16 1Rs 4.29-31"
+                "id": "{note:1}",
+                "text": "1.16 1Rs 4.29-31"
             }
         ]
     }

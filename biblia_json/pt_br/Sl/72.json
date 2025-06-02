@@ -116,12 +116,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:z} 72, título ou por Salomão"
+                "id": "{note:z}",
+                "text": "72, título ou por Salomão"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 72.8 Zc 9.10"
+                "id": "{note:1}",
+                "text": "72.8 Zc 9.10"
             }
         ]
     }

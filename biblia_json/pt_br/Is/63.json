@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 66,
         "book_name": "ISAÍAS",
-        "book_full_name": "ISAÍAS"
+        "book_full_name": "O LIVRO DE ISAÍAS"
     },
     "chapter": {
         "chapter_number": 63,
@@ -117,20 +117,24 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:z} 63.1 ou escarlates marchando na abundância da sua força?"
+                "id": "{note:z}",
+                "text": "63.1 ou escarlates marchando na abundância da sua força?"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 63.3 Ap 14.20; 19.15"
+                "id": "{note:1}",
+                "text": "63.3 Ap 14.20; 19.15"
             },
             {
-                "id": "n3",
-                "text": "{note:a} 63.6 ou o seu sangue {note:2} 63.1-6 Is 34.1-17; Jr 49.7-22; Ez 25.12-14; Am 1.11-12; Ob 1-14; Ml 1.2-5"
+                "id": "{note:a}",
+                "text": "63.6 ou o seu sangue"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 63.12 Êx 14.21"
+                "id": "{note:3}",
+                "text": "63.12 Êx 14.21"
+            },
+            {
+                "id": "{note:2}",
+                "text": "63.1-6 Is 34.1-17; Jr 49.7-22; Ez 25.12-14; Am 1.11-12; Ob 1-14; Ml 1.2-5"
             }
         ]
     }

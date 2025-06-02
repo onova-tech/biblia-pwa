@@ -216,36 +216,36 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:i} 11.10 Heb. ouvidor"
+                "id": "{note:i}",
+                "text": "11.10 Heb. ouvidor"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 11.17 Nm 20.14-21"
+                "id": "{note:1}",
+                "text": "11.17 Nm 20.14-21"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 11.18 Nm 21.4"
+                "id": "{note:2}",
+                "text": "11.18 Nm 21.4"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 11.19 Nm 21.21-24"
+                "id": "{note:3}",
+                "text": "11.19 Nm 21.21-24"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 11.25 Nm 22.1-6"
+                "id": "{note:4}",
+                "text": "11.25 Nm 22.1-6"
             },
             {
-                "id": "n6",
-                "text": "{note:j} 11.31 ou aquele"
+                "id": "{note:j}",
+                "text": "11.31 ou aquele"
             },
             {
-                "id": "n7",
-                "text": "{note:5} 11.35 Nm 30.2"
+                "id": "{note:5}",
+                "text": "11.35 Nm 30.2"
             },
             {
-                "id": "n8",
-                "text": "{note:k} 11.40 ou celebrar"
+                "id": "{note:k}",
+                "text": "11.40 ou celebrar"
             }
         ]
     }

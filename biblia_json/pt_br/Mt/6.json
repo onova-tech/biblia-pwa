@@ -192,36 +192,36 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 6.1 Mt 23.5"
+                "id": "{note:1}",
+                "text": "6.1 Mt 23.5"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 6.5 Lc 18.10-14"
+                "id": "{note:2}",
+                "text": "6.5 Lc 18.10-14"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 6.6 Is 26.20"
+                "id": "{note:3}",
+                "text": "6.6 Is 26.20"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 6.13 1Cr 29.11"
+                "id": "{note:4}",
+                "text": "6.13 1Cr 29.11"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 6.14-15 Mc 11.25-26"
+                "id": "{note:5}",
+                "text": "6.14-15 Mc 11.25-26"
             },
             {
-                "id": "n6",
-                "text": "{note:6} 6.19 Tg 5.2-3"
+                "id": "{note:6}",
+                "text": "6.19 Tg 5.2-3"
             },
             {
-                "id": "n7",
-                "text": "{note:j} 6.24 ou as riquezas"
+                "id": "{note:j}",
+                "text": "6.24 ou as riquezas"
             },
             {
-                "id": "n8",
-                "text": "{note:7} 6.29 1Rs 10.4-7; 2Cr 9.3-6"
+                "id": "{note:7}",
+                "text": "6.29 1Rs 10.4-7; 2Cr 9.3-6"
             }
         ]
     }

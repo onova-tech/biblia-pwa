@@ -207,44 +207,48 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 25.10 Gn 23.3-16"
+                "id": "{note:1}",
+                "text": "25.10 Gn 23.3-16"
             },
             {
-                "id": "n2",
-                "text": "{note:y} 25.16 ou acampamentos {note:z} 25.16 ou nações"
+                "id": "{note:y}",
+                "text": "25.16 ou acampamentos"
             },
             {
-                "id": "n3",
-                "text": "{note:a} 25.18 ou Assíria"
+                "id": "{note:a}",
+                "text": "25.18 ou Assíria"
             },
             {
-                "id": "n4",
-                "text": "{note:b} 25.20 ou siro"
+                "id": "{note:b}",
+                "text": "25.20 ou siro"
             },
             {
-                "id": "n5",
-                "text": "{note:2} 25.23 Rm 9.12"
+                "id": "{note:2}",
+                "text": "25.23 Rm 9.12"
             },
             {
-                "id": "n6",
-                "text": "{note:c} 25.25 que significa cabeludo"
+                "id": "{note:c}",
+                "text": "25.25 que significa cabeludo"
             },
             {
-                "id": "n7",
-                "text": "{note:d} 25.26 que significa suplantador"
+                "id": "{note:d}",
+                "text": "25.26 que significa suplantador"
             },
             {
-                "id": "n8",
-                "text": "{note:e} 25.29 ou desfalecido"
+                "id": "{note:e}",
+                "text": "25.29 ou desfalecido"
             },
             {
-                "id": "n9",
-                "text": "{note:f} 25.30 que significa vermelho"
+                "id": "{note:f}",
+                "text": "25.30 que significa vermelho"
             },
             {
-                "id": "n10",
-                "text": "{note:3} 25.33 Hb 12.16"
+                "id": "{note:3}",
+                "text": "25.33 Hb 12.16"
+            },
+            {
+                "id": "{note:z}",
+                "text": "25.16 ou nações"
             }
         ]
     }

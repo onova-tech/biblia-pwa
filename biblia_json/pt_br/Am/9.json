@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 9,
         "book_name": "AMÓS",
-        "book_full_name": "AMÓS"
+        "book_full_name": "O LIVRO DE AMÓS"
     },
     "chapter": {
         "chapter_number": 9,
@@ -91,8 +91,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 9.11-12 At 15.16-18"
+                "id": "{note:1}",
+                "text": "9.11-12 At 15.16-18"
             }
         ]
     }

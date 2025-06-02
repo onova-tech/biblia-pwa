@@ -197,32 +197,36 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:u} 20.2 ou denário"
+                "id": "{note:u}",
+                "text": "20.2 ou denário"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 20.8 Lv 19.13; Dt 24.15"
+                "id": "{note:1}",
+                "text": "20.8 Lv 19.13; Dt 24.15"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 20.16 Mt 19.30; Mc 10.31; Lc 13.30"
+                "id": "{note:2}",
+                "text": "20.16 Mt 19.30; Mc 10.31; Lc 13.30"
             },
             {
-                "id": "n4",
-                "text": "{note:v} 20.25 ou das nações"
+                "id": "{note:v}",
+                "text": "20.25 ou das nações"
             },
             {
-                "id": "n5",
-                "text": "{note:w} 20.26 ou criado"
+                "id": "{note:w}",
+                "text": "20.26 ou criado"
             },
             {
-                "id": "n6",
-                "text": "{note:x} 20.27 ou escravo {note:3} 20.26-27 Mt 23.11; Mc 9.35"
+                "id": "{note:x}",
+                "text": "20.27 ou escravo"
             },
             {
-                "id": "n7",
-                "text": "{note:4} 20.24-28 Lc 22.24-27"
+                "id": "{note:4}",
+                "text": "20.24-28 Lc 22.24-27"
+            },
+            {
+                "id": "{note:3}",
+                "text": "20.26-27 Mt 23.11; Mc 9.35"
             }
         ]
     }

@@ -132,28 +132,28 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:x} 6.3 ou permanecerá"
+                "id": "{note:x}",
+                "text": "6.3 ou permanecerá"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 6.4 Nm 13.33"
+                "id": "{note:1}",
+                "text": "6.4 Nm 13.33"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 6.5 Mt 24.37; Lc 17.26"
+                "id": "{note:2}",
+                "text": "6.5 Mt 24.37; Lc 17.26"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 6.9 2Pe 2.5"
+                "id": "{note:3}",
+                "text": "6.9 2Pe 2.5"
             },
             {
-                "id": "n5",
-                "text": "{note:y} 6.14 ou divisões"
+                "id": "{note:y}",
+                "text": "6.14 ou divisões"
             },
             {
-                "id": "n6",
-                "text": "{note:4} 6.22 Hb 11.7"
+                "id": "{note:4}",
+                "text": "6.22 Hb 11.7"
             }
         ]
     }

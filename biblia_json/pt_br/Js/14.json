@@ -91,16 +91,20 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 14.2 Nm 26.52-56; 34.13-15 {note:n} 14.2 Heb. pela mão"
+                "id": "{note:1}",
+                "text": "14.2 Nm 26.52-56; 34.13-15"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 14.6 Nm 14.24"
+                "id": "{note:2}",
+                "text": "14.6 Nm 14.24"
             },
             {
-                "id": "n3",
-                "text": "{note:o} 14.15 que é cidade de Arba"
+                "id": "{note:o}",
+                "text": "14.15 que é cidade de Arba"
+            },
+            {
+                "id": "{note:n}",
+                "text": "14.2 Heb. pela mão"
             }
         ]
     }

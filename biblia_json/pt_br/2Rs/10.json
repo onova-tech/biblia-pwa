@@ -4,7 +4,7 @@
         "book_number": 12,
         "new_testament": false,
         "num_chapters": 25,
-        "book_name": "REIS",
+        "book_name": "2º REIS",
         "book_full_name": "O SEGUNDO LIVRO DOS REIS"
     },
     "chapter": {
@@ -202,20 +202,20 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 10.11 Os 1.4"
+                "id": "{note:1}",
+                "text": "10.11 Os 1.4"
             },
             {
-                "id": "n2",
-                "text": "{note:c} 10.12 que é casa de tosquia"
+                "id": "{note:c}",
+                "text": "10.12 que é casa de tosquia"
             },
             {
-                "id": "n3",
-                "text": "{note:d} 10.26 ou os pilares ou obeliscos"
+                "id": "{note:d}",
+                "text": "10.26 ou os pilares ou obeliscos"
             },
             {
-                "id": "n4",
-                "text": "{note:2} 10.29 1Rs 12.28-30"
+                "id": "{note:2}",
+                "text": "10.29 1Rs 12.28-30"
             }
         ]
     }

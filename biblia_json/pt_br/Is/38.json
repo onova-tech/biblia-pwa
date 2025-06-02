@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 66,
         "book_name": "ISAÍAS",
-        "book_full_name": "ISAÍAS"
+        "book_full_name": "O LIVRO DE ISAÍAS"
     },
     "chapter": {
         "chapter_number": 38,
@@ -126,8 +126,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:t} 38.11 ou quando estiver com aqueles que cessaram de existir."
+                "id": "{note:t}",
+                "text": "38.11 ou quando estiver com aqueles que cessaram de existir."
             }
         ]
     }

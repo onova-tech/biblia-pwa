@@ -126,8 +126,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:s} 33.7 ou armazéns"
+                "id": "{note:s}",
+                "text": "33.7 ou armazéns"
             }
         ]
     }

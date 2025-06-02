@@ -186,12 +186,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:q} 41.1 ou crocodilo {note:1} 41.1 Sl 74.14; 104.26; Is 27.1"
+                "id": "{note:q}",
+                "text": "41.1 ou crocodilo"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 41.11 Rm 11.35"
+                "id": "{note:2}",
+                "text": "41.11 Rm 11.35"
+            },
+            {
+                "id": "{note:1}",
+                "text": "41.1 Sl 74.14; 104.26; Is 27.1"
             }
         ]
     }

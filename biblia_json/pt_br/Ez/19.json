@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 48,
         "book_name": "EZEQUIEL",
-        "book_full_name": "EZEQUIEL"
+        "book_full_name": "O LIVRO DE EZEQUIEL"
     },
     "chapter": {
         "chapter_number": 19,
@@ -86,16 +86,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:u} 19.7 ou as suas viúvas"
+                "id": "{note:u}",
+                "text": "19.7 ou as suas viúvas"
             },
             {
-                "id": "n2",
-                "text": "{note:v} 19.9 ou jaula"
+                "id": "{note:v}",
+                "text": "19.9 ou jaula"
             },
             {
-                "id": "n3",
-                "text": "{note:w} 19.10 ou à tua semelhança; Heb. no teu sangue"
+                "id": "{note:w}",
+                "text": "19.10 ou à tua semelhança; Heb. no teu sangue"
             }
         ]
     }

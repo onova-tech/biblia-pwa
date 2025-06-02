@@ -226,20 +226,20 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 32.8 Nm 13.17-29"
+                "id": "{note:1}",
+                "text": "32.8 Nm 13.17-29"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 32.11 Nm 14.26-35"
+                "id": "{note:2}",
+                "text": "32.11 Nm 14.26-35"
             },
             {
-                "id": "n3",
-                "text": "{note:n} 32.23 ou porém estai certos de que o vosso pecado vos descobrirá"
+                "id": "{note:n}",
+                "text": "32.23 ou porém estai certos de que o vosso pecado vos descobrirá"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 32.28-32 Dt 3.18-20; Js 1.12-15"
+                "id": "{note:3}",
+                "text": "32.28-32 Dt 3.18-20; Js 1.12-15"
             }
         ]
     }

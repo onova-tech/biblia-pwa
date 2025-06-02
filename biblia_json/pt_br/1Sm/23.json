@@ -4,7 +4,7 @@
         "book_number": 9,
         "new_testament": false,
         "num_chapters": 31,
-        "book_name": "SAMUEL",
+        "book_name": "1º SAMUEL",
         "book_full_name": "O PRIMEIRO LIVRO DE SAMUEL"
     },
     "chapter": {
@@ -167,16 +167,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 23.18 1Sm 18.3"
+                "id": "{note:1}",
+                "text": "23.18 1Sm 18.3"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 23.19 Sl 54, título"
+                "id": "{note:2}",
+                "text": "23.19 Sl 54, título"
             },
             {
-                "id": "n3",
-                "text": "{note:l} 23.28 que é a rocha de divisões ou da fuga"
+                "id": "{note:l}",
+                "text": "23.28 que é a rocha de divisões ou da fuga"
             }
         ]
     }

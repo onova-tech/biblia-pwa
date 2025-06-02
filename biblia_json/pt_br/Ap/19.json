@@ -127,48 +127,56 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 19.2 Dt 32.43"
+                "id": "{note:1}",
+                "text": "19.2 Dt 32.43"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 19.3 Is 34.10"
+                "id": "{note:2}",
+                "text": "19.3 Is 34.10"
             },
             {
-                "id": "n3",
-                "text": "{note:n} 19.4 ou criaturas viventes"
+                "id": "{note:n}",
+                "text": "19.4 ou criaturas viventes"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 19.5 Sl 115.13"
+                "id": "{note:3}",
+                "text": "19.5 Sl 115.13"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 19.6 Ez 1.24"
+                "id": "{note:4}",
+                "text": "19.6 Ez 1.24"
             },
             {
-                "id": "n6",
-                "text": "{note:5} 19.9 Mt 22.2-3"
+                "id": "{note:5}",
+                "text": "19.9 Mt 22.2-3"
             },
             {
-                "id": "n7",
-                "text": "{note:6} 19.11 Ez 1.1"
+                "id": "{note:6}",
+                "text": "19.11 Ez 1.1"
             },
             {
-                "id": "n8",
-                "text": "{note:7} 19.12 Dn 10.6"
+                "id": "{note:7}",
+                "text": "19.12 Dn 10.6"
             },
             {
-                "id": "n9",
-                "text": "{note:o} 19.15 Gr. apascentará {note:9} 19.15 Is 63.3; Jl 3.13; Ap 14.20 {note:8} 19.15 Sl 2.9"
+                "id": "{note:o}",
+                "text": "19.15 Gr. apascentará"
             },
             {
-                "id": "n10",
-                "text": "{note:10} 19.17-18 Ez 39.4,17-20"
+                "id": "{note:10}",
+                "text": "19.17-18 Ez 39.4,17-20"
             },
             {
-                "id": "n11",
-                "text": "{note:11} 19.20 Ap 13.1-18"
+                "id": "{note:11}",
+                "text": "19.20 Ap 13.1-18"
+            },
+            {
+                "id": "{note:9}",
+                "text": "19.15 Is 63.3; Jl 3.13; Ap 14.20"
+            },
+            {
+                "id": "{note:8}",
+                "text": "19.15 Sl 2.9"
             }
         ]
     }

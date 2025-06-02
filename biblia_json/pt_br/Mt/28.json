@@ -127,12 +127,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 28.16 Mt 26.32; Mc 14.28"
+                "id": "{note:1}",
+                "text": "28.16 Mt 26.32; Mc 14.28"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 28.19 At 1.8 {note:g} 28.19 ou fazei discípulos"
+                "id": "{note:2}",
+                "text": "28.19 At 1.8"
+            },
+            {
+                "id": "{note:g}",
+                "text": "28.19 ou fazei discípulos"
             }
         ]
     }

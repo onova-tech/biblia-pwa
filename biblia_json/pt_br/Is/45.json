@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 66,
         "book_name": "ISAÍAS",
-        "book_full_name": "ISAÍAS"
+        "book_full_name": "O LIVRO DE ISAÍAS"
     },
     "chapter": {
         "chapter_number": 45,
@@ -141,16 +141,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 45.9 Rm 9.20"
+                "id": "{note:1}",
+                "text": "45.9 Rm 9.20"
             },
             {
-                "id": "n2",
-                "text": "{note:y} 45.20 Heb. levantam o lenho das suas imagens"
+                "id": "{note:y}",
+                "text": "45.20 Heb. levantam o lenho das suas imagens"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 45.23 Rm 14.11; Fp 2.10-11"
+                "id": "{note:2}",
+                "text": "45.23 Rm 14.11; Fp 2.10-11"
             }
         ]
     }

@@ -137,8 +137,8 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:a} 8.3 Heb. indo e tornando"
+                "id": "{note:a}",
+                "text": "8.3 Heb. indo e tornando"
             }
         ]
     }

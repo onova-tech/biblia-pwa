@@ -4,7 +4,7 @@
         "book_number": 47,
         "new_testament": true,
         "num_chapters": 13,
-        "book_name": "CORÍNTIOS",
+        "book_name": "2º CORÍNTIOS",
         "book_full_name": "SEGUNDA EPÍSTOLA DO APÓSTOLO PAULO AOS CORÍNTIOS"
     },
     "chapter": {
@@ -121,16 +121,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:c} 5.8 ou queremos, antes, ausentar-nos do corpo e estar presentes ao Senhor"
+                "id": "{note:c}",
+                "text": "5.8 ou queremos, antes, ausentar-nos do corpo e estar presentes ao Senhor"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 5.10 Rm 14.10"
+                "id": "{note:1}",
+                "text": "5.10 Rm 14.10"
             },
             {
-                "id": "n3",
-                "text": "{note:d} 5.17 Gr. criação"
+                "id": "{note:d}",
+                "text": "5.17 Gr. criação"
             }
         ]
     }

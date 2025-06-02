@@ -81,12 +81,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 56, título 1Sm 21.13-15"
+                "id": "{note:1}",
+                "text": "56, título 1Sm 21.13-15"
             },
             {
-                "id": "n2",
-                "text": "{note:q} 56.8 ou peregrinações"
+                "id": "{note:q}",
+                "text": "56.8 ou peregrinações"
             }
         ]
     }

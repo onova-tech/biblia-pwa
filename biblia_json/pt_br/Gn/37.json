@@ -196,20 +196,20 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 37.11 At 7.9"
+                "id": "{note:1}",
+                "text": "37.11 At 7.9"
             },
             {
-                "id": "n2",
-                "text": "{note:y} 37.26 Heb. o seu sangue"
+                "id": "{note:y}",
+                "text": "37.26 Heb. o seu sangue"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 37.28 At 7.9"
+                "id": "{note:2}",
+                "text": "37.28 At 7.9"
             },
             {
-                "id": "n4",
-                "text": "{note:z} 37.36 ou oficial"
+                "id": "{note:z}",
+                "text": "37.36 ou oficial"
             }
         ]
     }

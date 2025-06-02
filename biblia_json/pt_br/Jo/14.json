@@ -171,8 +171,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:g} 14.26 ou Advogado; ou Amparador; Gr. Paracleto"
+                "id": "{note:g}",
+                "text": "14.26 ou Advogado; ou Amparador; Gr. Paracleto"
             }
         ]
     }

@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 4,
         "book_name": "MALAQUIAS",
-        "book_full_name": "MALAQUIAS"
+        "book_full_name": "O LIVRO DE MALAQUIAS"
     },
     "chapter": {
         "chapter_number": 2,
@@ -101,16 +101,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 2.4 Nm 3.11-13"
+                "id": "{note:1}",
+                "text": "2.4 Nm 3.11-13"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 2.5 Nm 25.12"
+                "id": "{note:2}",
+                "text": "2.5 Nm 25.12"
             },
             {
-                "id": "n3",
-                "text": "{note:c} 2.15 ou ainda que tenha o resto do espírito"
+                "id": "{note:c}",
+                "text": "2.15 ou ainda que tenha o resto do espírito"
             }
         ]
     }

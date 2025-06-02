@@ -5,7 +5,7 @@
         "new_testament": true,
         "num_chapters": 28,
         "book_name": "ATOS DOS APÓSTOLOS",
-        "book_full_name": "ATOS DOS APÓSTOLOS"
+        "book_full_name": "O LIVRO DE ATOS DOS APÓSTOLOS"
     },
     "chapter": {
         "chapter_number": 9,
@@ -242,8 +242,8 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:f} 9.36 que é gazela"
+                "id": "{note:f}",
+                "text": "9.36 que é gazela"
             }
         ]
     }

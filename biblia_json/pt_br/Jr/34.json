@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 52,
         "book_name": "JEREMIAS",
-        "book_full_name": "JEREMIAS"
+        "book_full_name": "O LIVRO DE JEREMIAS"
     },
     "chapter": {
         "chapter_number": 34,
@@ -132,12 +132,12 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 34.1 2Rs 25.1-11; 2Cr 36.17-21"
+                "id": "{note:1}",
+                "text": "34.1 2Rs 25.1-11; 2Cr 36.17-21"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 34.14 Êx 21.2; Dt 15.12"
+                "id": "{note:2}",
+                "text": "34.14 Êx 21.2; Dt 15.12"
             }
         ]
     }

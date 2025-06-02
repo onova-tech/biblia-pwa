@@ -432,48 +432,56 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 26.11 Dt 15.11"
+                "id": "{note:1}",
+                "text": "26.11 Dt 15.11"
             },
             {
-                "id": "n2",
-                "text": "{note:z} 26.15 ou peças"
+                "id": "{note:z}",
+                "text": "26.15 ou peças"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 26.17 Êx 12.1-27"
+                "id": "{note:2}",
+                "text": "26.17 Êx 12.1-27"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 26.24 Sl 41.9"
+                "id": "{note:3}",
+                "text": "26.24 Sl 41.9"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 26.28 Êx 24.6-8 {note:5} 26.28 Jr 31.31-34 {note:a} 26.28 ou Novo Concerto"
+                "id": "{note:4}",
+                "text": "26.28 Êx 24.6-8"
             },
             {
-                "id": "n6",
-                "text": "{note:6} 26.31 Zc 13.7"
+                "id": "{note:6}",
+                "text": "26.31 Zc 13.7"
             },
             {
-                "id": "n7",
-                "text": "{note:7} 26.32 Mt 28.16"
+                "id": "{note:7}",
+                "text": "26.32 Mt 28.16"
             },
             {
-                "id": "n8",
-                "text": "{note:8} 26.55 Lc 19.47; 21.37"
+                "id": "{note:8}",
+                "text": "26.55 Lc 19.47; 21.37"
             },
             {
-                "id": "n9",
-                "text": "{note:9} 26.61 Jo 2.19"
+                "id": "{note:9}",
+                "text": "26.61 Jo 2.19"
             },
             {
-                "id": "n10",
-                "text": "{note:10} 26.64 Dn 7.13"
+                "id": "{note:10}",
+                "text": "26.64 Dn 7.13"
             },
             {
-                "id": "n11",
-                "text": "{note:11} 26.65-66 Lv 24.16"
+                "id": "{note:11}",
+                "text": "26.65-66 Lv 24.16"
+            },
+            {
+                "id": "{note:5}",
+                "text": "26.28 Jr 31.31-34"
+            },
+            {
+                "id": "{note:a}",
+                "text": "26.28 ou Novo Concerto"
             }
         ]
     }

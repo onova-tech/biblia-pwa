@@ -4,7 +4,7 @@
         "book_number": 14,
         "new_testament": false,
         "num_chapters": 36,
-        "book_name": "CRÔNICAS",
+        "book_name": "2º CRÔNICAS",
         "book_full_name": "O SEGUNDO LIVRO DAS CRÔNICAS"
     },
     "chapter": {
@@ -96,8 +96,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 12.9 1Rs 10.16-17; 2Cr 9.15-16"
+                "id": "{note:1}",
+                "text": "12.9 1Rs 10.16-17; 2Cr 9.15-16"
             }
         ]
     }

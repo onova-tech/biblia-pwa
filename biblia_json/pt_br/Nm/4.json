@@ -261,16 +261,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:a} 4.7 Heb. as colheres, e as tigelas, e as taças, com que se haviam de derramar"
+                "id": "{note:a}",
+                "text": "4.7 Heb. as colheres, e as tigelas, e as taças, com que se haviam de derramar"
             },
             {
-                "id": "n2",
-                "text": "{note:b} 4.9 Heb. as suas tenazes e os seus espevitadores"
+                "id": "{note:b}",
+                "text": "4.9 Heb. as suas tenazes e os seus espevitadores"
             },
             {
-                "id": "n3",
-                "text": "{note:c} 4.19 ou às coisas santíssimas"
+                "id": "{note:c}",
+                "text": "4.19 ou às coisas santíssimas"
             }
         ]
     }

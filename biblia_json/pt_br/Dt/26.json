@@ -117,24 +117,24 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 26.2 Êx 23.19"
+                "id": "{note:1}",
+                "text": "26.2 Êx 23.19"
             },
             {
-                "id": "n2",
-                "text": "{note:i} 26.5 ou Arameu"
+                "id": "{note:i}",
+                "text": "26.5 ou Arameu"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 26.12 Dt 14.28-29"
+                "id": "{note:2}",
+                "text": "26.12 Dt 14.28-29"
             },
             {
-                "id": "n4",
-                "text": "{note:j} 26.13 Heb. a santidade de minha casa"
+                "id": "{note:j}",
+                "text": "26.13 Heb. a santidade de minha casa"
             },
             {
-                "id": "n5",
-                "text": "{note:3} 26.18 Êx 19.5"
+                "id": "{note:3}",
+                "text": "26.18 Êx 19.5"
             }
         ]
     }

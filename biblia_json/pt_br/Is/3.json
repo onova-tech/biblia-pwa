@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 66,
         "book_name": "ISAÍAS",
-        "book_full_name": "ISAÍAS"
+        "book_full_name": "O LIVRO DE ISAÍAS"
     },
     "chapter": {
         "chapter_number": 3,
@@ -146,12 +146,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:g} 3.1 Heb. bordão de pão"
+                "id": "{note:g}",
+                "text": "3.1 Heb. bordão de pão"
             },
             {
-                "id": "n2",
-                "text": "{note:h} 3.16 ou tinindo"
+                "id": "{note:h}",
+                "text": "3.16 ou tinindo"
             }
         ]
     }

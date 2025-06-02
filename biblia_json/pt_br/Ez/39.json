@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 48,
         "book_name": "EZEQUIEL",
-        "book_full_name": "EZEQUIEL"
+        "book_full_name": "O LIVRO DE EZEQUIEL"
     },
     "chapter": {
         "chapter_number": 39,
@@ -161,16 +161,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:f} 39.11 Heb. Hamom-Gogue"
+                "id": "{note:f}",
+                "text": "39.11 Heb. Hamom-Gogue"
             },
             {
-                "id": "n2",
-                "text": "{note:g} 39.16 que é multidão"
+                "id": "{note:g}",
+                "text": "39.16 que é multidão"
             },
             {
-                "id": "n3",
-                "text": "{note:1} 39.17 Ap 19.17-18"
+                "id": "{note:1}",
+                "text": "39.17 Ap 19.17-18"
             }
         ]
     }

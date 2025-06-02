@@ -161,24 +161,28 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 29.7 Nm 21.21-30 {note:2} 29.7 Nm 21.31-35"
+                "id": "{note:1}",
+                "text": "29.7 Nm 21.21-30"
             },
             {
-                "id": "n2",
-                "text": "{note:3} 29.8 Nm 32.33"
+                "id": "{note:3}",
+                "text": "29.8 Nm 32.33"
             },
             {
-                "id": "n3",
-                "text": "{note:l} 29.9 Heb. façais acertadamente tudo"
+                "id": "{note:l}",
+                "text": "29.9 Heb. façais acertadamente tudo"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 29.18 Hb 12.15"
+                "id": "{note:4}",
+                "text": "29.18 Hb 12.15"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 29.23 Gn 19.24-25"
+                "id": "{note:5}",
+                "text": "29.23 Gn 19.24-25"
+            },
+            {
+                "id": "{note:2}",
+                "text": "29.7 Nm 21.31-35"
             }
         ]
     }

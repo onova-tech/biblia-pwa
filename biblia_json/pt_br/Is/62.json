@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 66,
         "book_name": "ISAÍAS",
-        "book_full_name": "ISAÍAS"
+        "book_full_name": "O LIVRO DE ISAÍAS"
     },
     "chapter": {
         "chapter_number": 62,
@@ -76,12 +76,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:y} 62.4 Heb. O meu prazer está nela;"
+                "id": "{note:y}",
+                "text": "62.4 Heb. O meu prazer está nela;"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 62.11 Is 40.10; Ap 22.12"
+                "id": "{note:1}",
+                "text": "62.11 Is 40.10; Ap 22.12"
             }
         ]
     }

@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 2,
         "book_name": "AGEU",
-        "book_full_name": "AGEU"
+        "book_full_name": "O LIVRO DE AGEU"
     },
     "chapter": {
         "chapter_number": 2,
@@ -142,20 +142,20 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 2.3 Ed 3.12"
+                "id": "{note:1}",
+                "text": "2.3 Ed 3.12"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 2.5 Êx 33.14"
+                "id": "{note:2}",
+                "text": "2.5 Êx 33.14"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 2.6 Hb 12.26"
+                "id": "{note:3}",
+                "text": "2.6 Hb 12.26"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 2.13 Nm 19.11-22"
+                "id": "{note:4}",
+                "text": "2.13 Nm 19.11-22"
             }
         ]
     }

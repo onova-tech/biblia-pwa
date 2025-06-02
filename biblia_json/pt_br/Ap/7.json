@@ -107,24 +107,32 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 7.1 Zc 6.5"
+                "id": "{note:1}",
+                "text": "7.1 Zc 6.5"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 7.3 Ez 9.4"
+                "id": "{note:2}",
+                "text": "7.3 Ez 9.4"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 7.14 Dn 12.1; Mt 24.21; Mc 13.19"
+                "id": "{note:3}",
+                "text": "7.14 Dn 12.1; Mt 24.21; Mc 13.19"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 7.16 Is 49.10"
+                "id": "{note:4}",
+                "text": "7.16 Is 49.10"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 7.17 Sl 23.1; Ez 34.23 {note:7} 7.17 Is 25.8 {note:6} 7.17 Sl 23.2"
+                "id": "{note:5}",
+                "text": "7.17 Sl 23.1; Ez 34.23"
+            },
+            {
+                "id": "{note:7}",
+                "text": "7.17 Is 25.8"
+            },
+            {
+                "id": "{note:6}",
+                "text": "7.17 Sl 23.2"
             }
         ]
     }

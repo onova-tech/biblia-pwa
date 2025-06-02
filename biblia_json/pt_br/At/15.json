@@ -5,7 +5,7 @@
         "new_testament": true,
         "num_chapters": 28,
         "book_name": "ATOS DOS APÓSTOLOS",
-        "book_full_name": "ATOS DOS APÓSTOLOS"
+        "book_full_name": "O LIVRO DE ATOS DOS APÓSTOLOS"
     },
     "chapter": {
         "chapter_number": 15,
@@ -232,28 +232,40 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 15.1 Lv 12.3"
+                "id": "{note:1}",
+                "text": "15.1 Lv 12.3"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 15.7 At 10.1-43"
+                "id": "{note:2}",
+                "text": "15.7 At 10.1-43"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 15.8 At 10.44 {note:4} 15.8 At 2.4"
+                "id": "{note:3}",
+                "text": "15.8 At 10.44"
             },
             {
-                "id": "n4",
-                "text": "{note:5} 15.16-18 Am 9.11-12"
+                "id": "{note:5}",
+                "text": "15.16-18 Am 9.11-12"
             },
             {
-                "id": "n5",
-                "text": "{note:6} 15.20 Êx 34.15-17 {note:8} 15.20 Lv 17.10-16 {note:7} 15.20 Lv 18.6-23"
+                "id": "{note:6}",
+                "text": "15.20 Êx 34.15-17"
             },
             {
-                "id": "n6",
-                "text": "{note:9} 15.38 At 13.13"
+                "id": "{note:9}",
+                "text": "15.38 At 13.13"
+            },
+            {
+                "id": "{note:4}",
+                "text": "15.8 At 2.4"
+            },
+            {
+                "id": "{note:8}",
+                "text": "15.20 Lv 17.10-16"
+            },
+            {
+                "id": "{note:7}",
+                "text": "15.20 Lv 18.6-23"
             }
         ]
     }

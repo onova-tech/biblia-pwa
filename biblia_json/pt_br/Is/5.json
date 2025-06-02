@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 66,
         "book_name": "ISAÍAS",
-        "book_full_name": "ISAÍAS"
+        "book_full_name": "O LIVRO DE ISAÍAS"
     },
     "chapter": {
         "chapter_number": 5,
@@ -166,16 +166,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 5.1-2 Mt 21.33; Mc 12.1; Lc 20.9"
+                "id": "{note:1}",
+                "text": "5.1-2 Mt 21.33; Mc 12.1; Lc 20.9"
             },
             {
-                "id": "n2",
-                "text": "{note:i} 5.7 ou derramamento de sangue"
+                "id": "{note:i}",
+                "text": "5.7 ou derramamento de sangue"
             },
             {
-                "id": "n3",
-                "text": "{note:j} 5.10 que é entre 20 a 35 litros"
+                "id": "{note:j}",
+                "text": "5.10 que é entre 20 a 35 litros"
             }
         ]
     }

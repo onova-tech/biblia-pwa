@@ -197,16 +197,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:g} 6.7 ou juiz"
+                "id": "{note:g}",
+                "text": "6.7 ou juiz"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 6.10-11 Pv 24.33-34"
+                "id": "{note:1}",
+                "text": "6.10-11 Pv 24.33-34"
             },
             {
-                "id": "n3",
-                "text": "{note:h} 6.12 ou iniquidade"
+                "id": "{note:h}",
+                "text": "6.12 ou iniquidade"
             }
         ]
     }

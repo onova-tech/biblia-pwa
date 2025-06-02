@@ -136,12 +136,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 21.5 Lv 19.27-28; Dt 14.1"
+                "id": "{note:1}",
+                "text": "21.5 Lv 19.27-28; Dt 14.1"
             },
             {
-                "id": "n2",
-                "text": "{note:n} 21.22 Heb. tanto do santíssimo como do santo comerá"
+                "id": "{note:n}",
+                "text": "21.22 Heb. tanto do santíssimo como do santo comerá"
             }
         ]
     }

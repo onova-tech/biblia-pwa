@@ -182,12 +182,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 16.13 Mt 6.24 {note:m} 16.13 ou riqueza"
+                "id": "{note:1}",
+                "text": "16.13 Mt 6.24"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 16.18 Mt 5.32; 1Co 7.10-11"
+                "id": "{note:2}",
+                "text": "16.18 Mt 5.32; 1Co 7.10-11"
+            },
+            {
+                "id": "{note:m}",
+                "text": "16.13 ou riqueza"
             }
         ]
     }

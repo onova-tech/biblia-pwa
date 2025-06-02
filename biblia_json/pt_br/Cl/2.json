@@ -131,24 +131,24 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:d} 2.2 ou amor"
+                "id": "{note:d}",
+                "text": "2.2 ou amor"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 2.12 Rm 6.4"
+                "id": "{note:1}",
+                "text": "2.12 Rm 6.4"
             },
             {
-                "id": "n3",
-                "text": "{note:e} 2.18 ou prive da vossa recompensa"
+                "id": "{note:e}",
+                "text": "2.18 ou prive da vossa recompensa"
             },
             {
-                "id": "n4",
-                "text": "{note:2} 2.19 Ef 4.16"
+                "id": "{note:2}",
+                "text": "2.19 Ef 4.16"
             },
             {
-                "id": "n5",
-                "text": "{note:3} 2.8-23 Gl 4.8-20; Ef 2.1-10"
+                "id": "{note:3}",
+                "text": "2.8-23 Gl 4.8-20; Ef 2.1-10"
             }
         ]
     }

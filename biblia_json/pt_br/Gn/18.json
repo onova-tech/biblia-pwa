@@ -192,20 +192,20 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:q} 18.1 ou no maior calor do dia"
+                "id": "{note:q}",
+                "text": "18.1 ou no maior calor do dia"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 18.10 Rm 9.9"
+                "id": "{note:1}",
+                "text": "18.10 Rm 9.9"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 18.12 1Pe 3.6"
+                "id": "{note:2}",
+                "text": "18.12 1Pe 3.6"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 18.14 Lc 1.37"
+                "id": "{note:3}",
+                "text": "18.14 Lc 1.37"
             }
         ]
     }

@@ -247,16 +247,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:j} 28.11 ou a gravura"
+                "id": "{note:j}",
+                "text": "28.11 ou a gravura"
             },
             {
-                "id": "n2",
-                "text": "{note:k} 28.30 isto é, as luzes e as perfeições"
+                "id": "{note:k}",
+                "text": "28.30 isto é, as luzes e as perfeições"
             },
             {
-                "id": "n3",
-                "text": "{note:l} 28.36 Heb. Santo ao SENHOR"
+                "id": "{note:l}",
+                "text": "28.36 Heb. Santo ao SENHOR"
             }
         ]
     }

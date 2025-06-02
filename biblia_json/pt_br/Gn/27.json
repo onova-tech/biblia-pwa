@@ -257,28 +257,32 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:n} 27.15 ou vestes preciosas"
+                "id": "{note:n}",
+                "text": "27.15 ou vestes preciosas"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 27.29 Gn 12.3 {note:2} 27.27-29 Hb 11.20"
+                "id": "{note:1}",
+                "text": "27.29 Gn 12.3"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 27.36 Gn 25.29-34"
+                "id": "{note:3}",
+                "text": "27.36 Gn 25.29-34"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 27.38 Hb 12.17"
+                "id": "{note:4}",
+                "text": "27.38 Hb 12.17"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 27.39 Hb 11.20"
+                "id": "{note:5}",
+                "text": "27.39 Hb 11.20"
             },
             {
-                "id": "n6",
-                "text": "{note:6} 27.40 2Rs 8.20; 2Cr 21.8"
+                "id": "{note:6}",
+                "text": "27.40 2Rs 8.20; 2Cr 21.8"
+            },
+            {
+                "id": "{note:2}",
+                "text": "27.27-29 Hb 11.20"
             }
         ]
     }

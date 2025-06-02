@@ -362,16 +362,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:v} 24.10 que é Síria dos dois rios"
+                "id": "{note:v}",
+                "text": "24.10 que é Síria dos dois rios"
             },
             {
-                "id": "n2",
-                "text": "{note:w} 24.53 ou joias"
+                "id": "{note:w}",
+                "text": "24.53 ou joias"
             },
             {
-                "id": "n3",
-                "text": "{note:x} 24.63 ou meditar"
+                "id": "{note:x}",
+                "text": "24.63 ou meditar"
             }
         ]
     }

@@ -181,20 +181,20 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 13.6 Nm 33.54"
+                "id": "{note:1}",
+                "text": "13.6 Nm 33.54"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 13.8 Nm 32.33; Dt 3.12"
+                "id": "{note:2}",
+                "text": "13.8 Nm 32.33; Dt 3.12"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 13.14 Dt 18.1"
+                "id": "{note:3}",
+                "text": "13.14 Dt 18.1"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 13.33 Nm 18.20; Dt 18.2"
+                "id": "{note:4}",
+                "text": "13.33 Nm 18.20; Dt 18.2"
             }
         ]
     }

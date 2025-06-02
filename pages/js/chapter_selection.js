@@ -18,6 +18,7 @@ function updateChaptersSection(container, chaptersData){
         let chapter_href = `/biblia-pwa/pages/chapter_read.html?book_id=${book_id}&chapter_number=${chapter.chapter_number}`
 
         if(chapter.chapter_title != null && chapter.chapter_title != "") {
+            chapter.chapter_title = chapter.chapter_title.replaceAll(/\{note\:[0-9a-zA-Z]*\}/g, '');
             chapter_full_name += " - " + chapter.chapter_title;
         }
 

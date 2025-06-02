@@ -4,7 +4,7 @@
         "book_number": 14,
         "new_testament": false,
         "num_chapters": 36,
-        "book_name": "CRÔNICAS",
+        "book_name": "2º CRÔNICAS",
         "book_full_name": "O SEGUNDO LIVRO DAS CRÔNICAS"
     },
     "chapter": {
@@ -182,24 +182,24 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 9.1 Mt 12.42; Lc 11.31"
+                "id": "{note:1}",
+                "text": "9.1 Mt 12.42; Lc 11.31"
             },
             {
-                "id": "n2",
-                "text": "{note:n} 9.4 Heb. não havia mais espírito nela"
+                "id": "{note:n}",
+                "text": "9.4 Heb. não havia mais espírito nela"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 9.25 1Rs 4.26"
+                "id": "{note:2}",
+                "text": "9.25 1Rs 4.26"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 9.26 Gn 15.18; 1Rs 4.21"
+                "id": "{note:3}",
+                "text": "9.26 Gn 15.18; 1Rs 4.21"
             },
             {
-                "id": "n5",
-                "text": "{note:o} 9.27 ou os sicômoros"
+                "id": "{note:o}",
+                "text": "9.27 ou os sicômoros"
             }
         ]
     }

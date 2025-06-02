@@ -277,48 +277,48 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 6.1 Dt 23.25"
+                "id": "{note:1}",
+                "text": "6.1 Dt 23.25"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 6.3 1Sm 21.1-6"
+                "id": "{note:2}",
+                "text": "6.3 1Sm 21.1-6"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 6.4 Lv 24.9"
+                "id": "{note:3}",
+                "text": "6.4 Lv 24.9"
             },
             {
-                "id": "n4",
-                "text": "{note:g} 6.16 ou irmão"
+                "id": "{note:g}",
+                "text": "6.16 ou irmão"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 6.22 1Pe 4.14"
+                "id": "{note:4}",
+                "text": "6.22 1Pe 4.14"
             },
             {
-                "id": "n6",
-                "text": "{note:5} 6.23 2Cr 36.16; At 7.52"
+                "id": "{note:5}",
+                "text": "6.23 2Cr 36.16; At 7.52"
             },
             {
-                "id": "n7",
-                "text": "{note:6} 6.31 Mt 7.12"
+                "id": "{note:6}",
+                "text": "6.31 Mt 7.12"
             },
             {
-                "id": "n8",
-                "text": "{note:7} 6.39 Mt 15.14"
+                "id": "{note:7}",
+                "text": "6.39 Mt 15.14"
             },
             {
-                "id": "n9",
-                "text": "{note:8} 6.40 Mt 10.24; Jo 13.16; 15.20"
+                "id": "{note:8}",
+                "text": "6.40 Mt 10.24; Jo 13.16; 15.20"
             },
             {
-                "id": "n10",
-                "text": "{note:9} 6.41-42 Mt 7.3-5"
+                "id": "{note:9}",
+                "text": "6.41-42 Mt 7.3-5"
             },
             {
-                "id": "n11",
-                "text": "{note:10} 6.43-45 Mt 12.33-37"
+                "id": "{note:10}",
+                "text": "6.43-45 Mt 12.33-37"
             }
         ]
     }

@@ -101,16 +101,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 1.1 1Rs 4.32"
+                "id": "{note:1}",
+                "text": "1.1 1Rs 4.32"
             },
             {
-                "id": "n2",
-                "text": "{note:a} 1.8 ou os teus cabritos"
+                "id": "{note:a}",
+                "text": "1.8 ou os teus cabritos"
             },
             {
-                "id": "n3",
-                "text": "{note:b} 1.14 ou canteiro de flores de alfena"
+                "id": "{note:b}",
+                "text": "1.14 ou canteiro de flores de alfena"
             }
         ]
     }

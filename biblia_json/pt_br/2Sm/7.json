@@ -4,7 +4,7 @@
         "book_number": 10,
         "new_testament": false,
         "num_chapters": 24,
-        "book_name": "SAMUEL",
+        "book_name": "2º SAMUEL",
         "book_full_name": "O SEGUNDO LIVRO DE SAMUEL"
     },
     "chapter": {
@@ -161,12 +161,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 7.14 2Co 6.18; Hb 1.5; Ap 21.7"
+                "id": "{note:1}",
+                "text": "7.14 2Co 6.18; Hb 1.5; Ap 21.7"
             },
             {
-                "id": "n2",
-                "text": "{note:d} 7.19 ou a lei do homem"
+                "id": "{note:d}",
+                "text": "7.19 ou a lei do homem"
             }
         ]
     }

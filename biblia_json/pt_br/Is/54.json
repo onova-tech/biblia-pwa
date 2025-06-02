@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 66,
         "book_name": "ISAÍAS",
-        "book_full_name": "ISAÍAS"
+        "book_full_name": "O LIVRO DE ISAÍAS"
     },
     "chapter": {
         "chapter_number": 54,
@@ -101,24 +101,36 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 54.1 Gl 4.27"
+                "id": "{note:1}",
+                "text": "54.1 Gl 4.27"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 54.9 Gn 9.8-17"
+                "id": "{note:2}",
+                "text": "54.9 Gn 9.8-17"
             },
             {
-                "id": "n3",
-                "text": "{note:k} 54.10 ou se removerão {note:n} 54.10 ou não será abalado {note:m} 54.10 ou removerá de ti {note:l} 54.10 ou serão abalados"
+                "id": "{note:k}",
+                "text": "54.10 ou se removerão"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 54.11-12 Ap 21.18-21"
+                "id": "{note:3}",
+                "text": "54.11-12 Ap 21.18-21"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 54.13 Jo 6.45"
+                "id": "{note:4}",
+                "text": "54.13 Jo 6.45"
+            },
+            {
+                "id": "{note:n}",
+                "text": "54.10 ou não será abalado"
+            },
+            {
+                "id": "{note:m}",
+                "text": "54.10 ou removerá de ti"
+            },
+            {
+                "id": "{note:l}",
+                "text": "54.10 ou serão abalados"
             }
         ]
     }

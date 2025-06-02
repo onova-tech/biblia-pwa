@@ -162,24 +162,28 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 15.1 Ap 15.3"
+                "id": "{note:1}",
+                "text": "15.1 Ap 15.3"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 15.2 Sl 118.14; Is 12.2 {note:s} 15.2 Heb. e o louvarei"
+                "id": "{note:2}",
+                "text": "15.2 Sl 118.14; Is 12.2"
             },
             {
-                "id": "n3",
-                "text": "{note:t} 15.9 Heb. o meu desejo"
+                "id": "{note:t}",
+                "text": "15.9 Heb. o meu desejo"
             },
             {
-                "id": "n4",
-                "text": "{note:u} 15.11 ou poderoso"
+                "id": "{note:u}",
+                "text": "15.11 ou poderoso"
             },
             {
-                "id": "n5",
-                "text": "{note:v} 15.23 que significa amarga"
+                "id": "{note:v}",
+                "text": "15.23 que significa amarga"
+            },
+            {
+                "id": "{note:s}",
+                "text": "15.2 Heb. e o louvarei"
             }
         ]
     }

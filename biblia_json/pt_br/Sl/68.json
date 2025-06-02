@@ -191,20 +191,20 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:v} 68.1 ou dispersos"
+                "id": "{note:v}",
+                "text": "68.1 ou dispersos"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 68.8 Êx 19.18"
+                "id": "{note:1}",
+                "text": "68.8 Êx 19.18"
             },
             {
-                "id": "n3",
-                "text": "{note:w} 68.16 ou olhais com inveja"
+                "id": "{note:w}",
+                "text": "68.16 ou olhais com inveja"
             },
             {
-                "id": "n4",
-                "text": "{note:2} 68.18 Ef 4.8"
+                "id": "{note:2}",
+                "text": "68.18 Ef 4.8"
             }
         ]
     }

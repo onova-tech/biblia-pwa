@@ -147,8 +147,8 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:f} 4.2 Heb. Harosete-Hagoim"
+                "id": "{note:f}",
+                "text": "4.2 Heb. Harosete-Hagoim"
             }
         ]
     }

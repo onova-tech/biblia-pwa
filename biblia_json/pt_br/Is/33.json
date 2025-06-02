@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 66,
         "book_name": "ISAÍAS",
-        "book_full_name": "ISAÍAS"
+        "book_full_name": "O LIVRO DE ISAÍAS"
     },
     "chapter": {
         "chapter_number": 33,
@@ -136,8 +136,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:p} 33.18 ou que pesa o tributo"
+                "id": "{note:p}",
+                "text": "33.18 ou que pesa o tributo"
             }
         ]
     }

@@ -141,32 +141,32 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 4.3 Gn 15.6"
+                "id": "{note:1}",
+                "text": "4.3 Gn 15.6"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 4.7-8 Sl 32.1-2"
+                "id": "{note:2}",
+                "text": "4.7-8 Sl 32.1-2"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 4.11 Gn 17.10"
+                "id": "{note:3}",
+                "text": "4.11 Gn 17.10"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 4.1-12 Gl 3.6-18"
+                "id": "{note:4}",
+                "text": "4.1-12 Gl 3.6-18"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 4.17 Gn 17.5"
+                "id": "{note:5}",
+                "text": "4.17 Gn 17.5"
             },
             {
-                "id": "n6",
-                "text": "{note:6} 4.18 Gn 15.5"
+                "id": "{note:6}",
+                "text": "4.18 Gn 15.5"
             },
             {
-                "id": "n7",
-                "text": "{note:7} 4.19 Gn 17.17"
+                "id": "{note:7}",
+                "text": "4.19 Gn 17.17"
             }
         ]
     }

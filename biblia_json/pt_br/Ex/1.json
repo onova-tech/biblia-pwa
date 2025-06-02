@@ -132,28 +132,28 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 1.7 At 7.17"
+                "id": "{note:1}",
+                "text": "1.7 At 7.17"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 1.8 At 7.18"
+                "id": "{note:2}",
+                "text": "1.8 At 7.18"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 1.10 At 7.19"
+                "id": "{note:3}",
+                "text": "1.10 At 7.19"
             },
             {
-                "id": "n4",
-                "text": "{note:a} 1.11 ou tarefas"
+                "id": "{note:a}",
+                "text": "1.11 ou tarefas"
             },
             {
-                "id": "n5",
-                "text": "{note:b} 1.19 ou espertas"
+                "id": "{note:b}",
+                "text": "1.19 ou espertas"
             },
             {
-                "id": "n6",
-                "text": "{note:4} 1.22 At 7.19"
+                "id": "{note:4}",
+                "text": "1.22 At 7.19"
             }
         ]
     }

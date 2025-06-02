@@ -142,16 +142,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 7.7 Mt 24.38-39; Lc 17.27"
+                "id": "{note:1}",
+                "text": "7.7 Mt 24.38-39; Lc 17.27"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 7.11 2Pe 3.6"
+                "id": "{note:2}",
+                "text": "7.11 2Pe 3.6"
             },
             {
-                "id": "n3",
-                "text": "{note:z} 7.14 ou toda sorte de asas"
+                "id": "{note:z}",
+                "text": "7.14 ou toda sorte de asas"
             }
         ]
     }

@@ -171,12 +171,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 109.8 At 1.20"
+                "id": "{note:1}",
+                "text": "109.8 At 1.20"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 109.25 Mt 27.39; Mc 15.29"
+                "id": "{note:2}",
+                "text": "109.25 Mt 27.39; Mc 15.29"
             }
         ]
     }

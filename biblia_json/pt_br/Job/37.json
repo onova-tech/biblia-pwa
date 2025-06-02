@@ -136,8 +136,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:m} 37.11 ou do seu relâmpago"
+                "id": "{note:m}",
+                "text": "37.11 ou do seu relâmpago"
             }
         ]
     }

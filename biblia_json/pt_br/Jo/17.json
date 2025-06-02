@@ -146,8 +146,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 17.12 Sl 41.9"
+                "id": "{note:1}",
+                "text": "17.12 Sl 41.9"
             }
         ]
     }

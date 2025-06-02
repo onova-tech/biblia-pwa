@@ -191,8 +191,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 9.9 Jó 38.31; Am 5.8"
+                "id": "{note:1}",
+                "text": "9.9 Jó 38.31; Am 5.8"
             }
         ]
     }

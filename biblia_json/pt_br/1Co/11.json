@@ -4,7 +4,7 @@
         "book_number": 46,
         "new_testament": true,
         "num_chapters": 16,
-        "book_name": "CORÍNTIOS",
+        "book_name": "1º CORÍNTIOS",
         "book_full_name": "PRIMEIRA EPÍSTOLA DO APÓSTOLO PAULO AOS CORÍNTIOS"
     },
     "chapter": {
@@ -192,24 +192,28 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 11.1 1Co 4.16; Fp 3.17"
+                "id": "{note:1}",
+                "text": "11.1 1Co 4.16; Fp 3.17"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 11.7 Gn 1.26"
+                "id": "{note:2}",
+                "text": "11.7 Gn 1.26"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 11.8-9 Gn 2.18-23"
+                "id": "{note:3}",
+                "text": "11.8-9 Gn 2.18-23"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 11.25 Jr 31.31-34 {note:5} 11.25 Êx 24.6-8"
+                "id": "{note:4}",
+                "text": "11.25 Jr 31.31-34"
             },
             {
-                "id": "n5",
-                "text": "{note:6} 11.23-26 Mt 26.26-29; Mc 14.23-25; Lc 22.14-20"
+                "id": "{note:6}",
+                "text": "11.23-26 Mt 26.26-29; Mc 14.23-25; Lc 22.14-20"
+            },
+            {
+                "id": "{note:5}",
+                "text": "11.25 Êx 24.6-8"
             }
         ]
     }

@@ -246,16 +246,32 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 26.1 Lv 19.4 {note:r} 26.1 Heb. pilar ou obelisco {note:2} 26.1 Êx 20.4; Dt 5.8; 16.21-22; 27.15"
+                "id": "{note:1}",
+                "text": "26.1 Lv 19.4"
             },
             {
-                "id": "n2",
-                "text": "{note:3} 26.12 2Co 6.16"
+                "id": "{note:3}",
+                "text": "26.12 2Co 6.16"
             },
             {
-                "id": "n3",
-                "text": "{note:4} 26.42 Gn 28.13-14 {note:6} 26.42 Gn 17.7-8 {note:5} 26.42 Gn 26.3-4"
+                "id": "{note:4}",
+                "text": "26.42 Gn 28.13-14"
+            },
+            {
+                "id": "{note:r}",
+                "text": "26.1 Heb. pilar ou obelisco"
+            },
+            {
+                "id": "{note:2}",
+                "text": "26.1 Êx 20.4; Dt 5.8; 16.21-22; 27.15"
+            },
+            {
+                "id": "{note:6}",
+                "text": "26.42 Gn 17.7-8"
+            },
+            {
+                "id": "{note:5}",
+                "text": "26.42 Gn 26.3-4"
             }
         ]
     }

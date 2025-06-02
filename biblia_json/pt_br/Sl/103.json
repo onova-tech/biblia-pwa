@@ -126,12 +126,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:p} 103.4 ou cova"
+                "id": "{note:p}",
+                "text": "103.4 ou cova"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 103.8 Tg 5.11"
+                "id": "{note:1}",
+                "text": "103.8 Tg 5.11"
             }
         ]
     }

@@ -4,7 +4,7 @@
         "book_number": 13,
         "new_testament": false,
         "num_chapters": 29,
-        "book_name": "CRÔNICAS",
+        "book_name": "1º CRÔNICAS",
         "book_full_name": "O PRIMEIRO LIVRO DAS CRÔNICAS"
     },
     "chapter": {
@@ -161,16 +161,20 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 15.2 Dt 10.8"
+                "id": "{note:1}",
+                "text": "15.2 Dt 10.8"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 15.15 Êx 25.14"
+                "id": "{note:2}",
+                "text": "15.15 Êx 25.14"
             },
             {
-                "id": "n3",
-                "text": "{note:f} 15.22 ou levar a arca {note:g} 15.22 ou levar a arca"
+                "id": "{note:f}",
+                "text": "15.22 ou levar a arca"
+            },
+            {
+                "id": "{note:g}",
+                "text": "15.22 ou levar a arca"
             }
         ]
     }

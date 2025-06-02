@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 1,
         "book_name": "OBADIAS",
-        "book_full_name": "OBADIAS"
+        "book_full_name": "O LIVRO DE OBADIAS"
     },
     "chapter": {
         "chapter_number": 1,
@@ -121,8 +121,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 1.14 Is 34.1-17; 63.1-6; Jr 49.7-22; Ez 25.12-14; 35.1-15; Am 1.11-12; Ml 1.2-5"
+                "id": "{note:1}",
+                "text": "1.14 Is 34.1-17; 63.1-6; Jr 49.7-22; Ez 25.12-14; 35.1-15; Am 1.11-12; Ml 1.2-5"
             }
         ]
     }

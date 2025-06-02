@@ -51,20 +51,32 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 110.1 Mt 22.44; Mc 12.36; Lc 20.42-43; At 2.34-35 {note:3} 110.1 1Co 15.25 {note:2} 110.1 Ef 1.20; Cl 3.1; Hb 1.13; 8.1; 10.12-13"
+                "id": "{note:1}",
+                "text": "110.1 Mt 22.44; Mc 12.36; Lc 20.42-43; At 2.34-35"
             },
             {
-                "id": "n2",
-                "text": "{note:w} 110.3 ou ofertas voluntárias {note:x} 110.3 ou nas belezas"
+                "id": "{note:w}",
+                "text": "110.3 ou ofertas voluntárias"
             },
             {
-                "id": "n3",
-                "text": "{note:4} 110.4 Hb 5.6; 6.20; 7.17,21"
+                "id": "{note:4}",
+                "text": "110.4 Hb 5.6; 6.20; 7.17,21"
             },
             {
-                "id": "n4",
-                "text": "{note:y} 110.6 ou muitos países"
+                "id": "{note:y}",
+                "text": "110.6 ou muitos países"
+            },
+            {
+                "id": "{note:3}",
+                "text": "110.1 1Co 15.25"
+            },
+            {
+                "id": "{note:2}",
+                "text": "110.1 Ef 1.20; Cl 3.1; Hb 1.13; 8.1; 10.12-13"
+            },
+            {
+                "id": "{note:x}",
+                "text": "110.3 ou nas belezas"
             }
         ]
     }

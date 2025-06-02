@@ -66,8 +66,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:l} 11.2 ou joias {note:m} 11.2 ou joias"
+                "id": "{note:l}",
+                "text": "11.2 ou joias"
+            },
+            {
+                "id": "{note:m}",
+                "text": "11.2 ou joias"
             }
         ]
     }

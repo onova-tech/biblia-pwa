@@ -4,7 +4,7 @@
         "book_number": 11,
         "new_testament": false,
         "num_chapters": 22,
-        "book_name": "REIS",
+        "book_name": "1º REIS",
         "book_full_name": "O PRIMEIRO LIVRO DOS REIS"
     },
     "chapter": {
@@ -162,24 +162,24 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 9.2 1Rs 3.5; 2Cr 1.7"
+                "id": "{note:1}",
+                "text": "9.2 1Rs 3.5; 2Cr 1.7"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 9.5 1Rs 2.4"
+                "id": "{note:2}",
+                "text": "9.5 1Rs 2.4"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 9.8 2Rs 25.9; 2Cr 36.19"
+                "id": "{note:3}",
+                "text": "9.8 2Rs 25.9; 2Cr 36.19"
             },
             {
-                "id": "n4",
-                "text": "{note:c} 9.13 que significa areia ou seca"
+                "id": "{note:c}",
+                "text": "9.13 que significa areia ou seca"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 9.25 Êx 23.17; 34.23; Dt 16.16"
+                "id": "{note:4}",
+                "text": "9.25 Êx 23.17; 34.23; Dt 16.16"
             }
         ]
     }

@@ -142,28 +142,36 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:b} 2, título Quatro anos antes do ano Domini"
+                "id": "{note:b}",
+                "text": "2, título Quatro anos antes do ano Domini"
             },
             {
-                "id": "n2",
-                "text": "{note:c} 2.6 ou príncipes {note:1} 2.6 Mq 5.2 {note:d} 2.6 ou Governador"
+                "id": "{note:c}",
+                "text": "2.6 ou príncipes"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 2.15 Os 11.1"
+                "id": "{note:2}",
+                "text": "2.15 Os 11.1"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 2.18 Jr 31.15"
+                "id": "{note:3}",
+                "text": "2.18 Jr 31.15"
             },
             {
-                "id": "n5",
-                "text": "{note:e} 2.20 ou vida"
+                "id": "{note:e}",
+                "text": "2.20 ou vida"
             },
             {
-                "id": "n6",
-                "text": "{note:4} 2.23 Is 11.1"
+                "id": "{note:4}",
+                "text": "2.23 Is 11.1"
+            },
+            {
+                "id": "{note:1}",
+                "text": "2.6 Mq 5.2"
+            },
+            {
+                "id": "{note:d}",
+                "text": "2.6 ou Governador"
             }
         ]
     }

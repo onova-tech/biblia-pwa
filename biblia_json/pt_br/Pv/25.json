@@ -156,20 +156,20 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 25.6-7 Lc 14.8-10"
+                "id": "{note:1}",
+                "text": "25.6-7 Lc 14.8-10"
             },
             {
-                "id": "n2",
-                "text": "{note:o} 25.11 ou obra de filigrana"
+                "id": "{note:o}",
+                "text": "25.11 ou obra de filigrana"
             },
             {
-                "id": "n3",
-                "text": "{note:p} 25.20 ou soda"
+                "id": "{note:p}",
+                "text": "25.20 ou soda"
             },
             {
-                "id": "n4",
-                "text": "{note:2} 25.21-22 Rm 12.20"
+                "id": "{note:2}",
+                "text": "25.21-22 Rm 12.20"
             }
         ]
     }

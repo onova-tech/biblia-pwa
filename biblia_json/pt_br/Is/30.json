@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 66,
         "book_name": "ISAÍAS",
-        "book_full_name": "ISAÍAS"
+        "book_full_name": "O LIVRO DE ISAÍAS"
     },
     "chapter": {
         "chapter_number": 30,
@@ -181,12 +181,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:n} 30.6 ou Sentença"
+                "id": "{note:n}",
+                "text": "30.6 ou Sentença"
             },
             {
-                "id": "n2",
-                "text": "{note:o} 30.28 ou destruição"
+                "id": "{note:o}",
+                "text": "30.28 ou destruição"
             }
         ]
     }

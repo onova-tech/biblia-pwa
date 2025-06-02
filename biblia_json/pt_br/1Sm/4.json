@@ -4,7 +4,7 @@
         "book_number": 9,
         "new_testament": false,
         "num_chapters": 31,
-        "book_name": "SAMUEL",
+        "book_name": "1º SAMUEL",
         "book_full_name": "O PRIMEIRO LIVRO DE SAMUEL"
     },
     "chapter": {
@@ -137,12 +137,12 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 4.4 Êx 25.22"
+                "id": "{note:1}",
+                "text": "4.4 Êx 25.22"
             },
             {
-                "id": "n2",
-                "text": "{note:d} 4.21 que significa onde é a glória"
+                "id": "{note:d}",
+                "text": "4.21 que significa onde é a glória"
             }
         ]
     }

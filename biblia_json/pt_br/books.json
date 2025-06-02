@@ -134,7 +134,7 @@
             "new_testament": false,
             "num_chapters": 10,
             "book_name": "ESTER",
-            "book_full_name": "ESTER"
+            "book_full_name": "O LIVRO DE ESTER"
         },
         {
             "id": "Job",
@@ -182,7 +182,7 @@
             "new_testament": false,
             "num_chapters": 66,
             "book_name": "ISAÍAS",
-            "book_full_name": "ISAÍAS"
+            "book_full_name": "O LIVRO DE ISAÍAS"
         },
         {
             "id": "Jr",
@@ -190,7 +190,7 @@
             "new_testament": false,
             "num_chapters": 52,
             "book_name": "JEREMIAS",
-            "book_full_name": "JEREMIAS"
+            "book_full_name": "O LIVRO DE JEREMIAS"
         },
         {
             "id": "Lm",
@@ -206,7 +206,7 @@
             "new_testament": false,
             "num_chapters": 48,
             "book_name": "EZEQUIEL",
-            "book_full_name": "EZEQUIEL"
+            "book_full_name": "O LIVRO DE EZEQUIEL"
         },
         {
             "id": "Dn",
@@ -214,7 +214,7 @@
             "new_testament": false,
             "num_chapters": 12,
             "book_name": "DANIEL",
-            "book_full_name": "DANIEL"
+            "book_full_name": "O LIVRO DE DANIEL"
         },
         {
             "id": "Os",
@@ -222,7 +222,7 @@
             "new_testament": false,
             "num_chapters": 14,
             "book_name": "OSEIAS",
-            "book_full_name": "OSEIAS"
+            "book_full_name": "O LIVRO DE OSEIAS"
         },
         {
             "id": "Jl",
@@ -230,7 +230,7 @@
             "new_testament": false,
             "num_chapters": 3,
             "book_name": "JOEL",
-            "book_full_name": "JOEL"
+            "book_full_name": "O LIVRO DE JOEL"
         },
         {
             "id": "Am",
@@ -238,7 +238,7 @@
             "new_testament": false,
             "num_chapters": 9,
             "book_name": "AMÓS",
-            "book_full_name": "AMÓS"
+            "book_full_name": "O LIVRO DE AMÓS"
         },
         {
             "id": "Ob",
@@ -246,7 +246,7 @@
             "new_testament": false,
             "num_chapters": 1,
             "book_name": "OBADIAS",
-            "book_full_name": "OBADIAS"
+            "book_full_name": "O LIVRO DE OBADIAS"
         },
         {
             "id": "Jn",
@@ -254,7 +254,7 @@
             "new_testament": false,
             "num_chapters": 4,
             "book_name": "JONAS",
-            "book_full_name": "JONAS"
+            "book_full_name": "O LIVRO DE JONAS"
         },
         {
             "id": "Mq",
@@ -262,7 +262,7 @@
             "new_testament": false,
             "num_chapters": 7,
             "book_name": "MIQUEIAS",
-            "book_full_name": "MIQUEIAS"
+            "book_full_name": "O LIVRO DE MIQUEIAS"
         },
         {
             "id": "Na",
@@ -270,7 +270,7 @@
             "new_testament": false,
             "num_chapters": 3,
             "book_name": "NAUM",
-            "book_full_name": "NAUM"
+            "book_full_name": "O LIVRO DE NAUM"
         },
         {
             "id": "Hc",
@@ -278,7 +278,7 @@
             "new_testament": false,
             "num_chapters": 3,
             "book_name": "HABACUQUE",
-            "book_full_name": "HABACUQUE"
+            "book_full_name": "O LIVRO DE HABACUQUE"
         },
         {
             "id": "Sf",
@@ -286,7 +286,7 @@
             "new_testament": false,
             "num_chapters": 3,
             "book_name": "SOFONIAS",
-            "book_full_name": "SOFONIAS"
+            "book_full_name": "O LIVRO DE SOFONIAS"
         },
         {
             "id": "Ag",
@@ -294,7 +294,7 @@
             "new_testament": false,
             "num_chapters": 2,
             "book_name": "AGEU",
-            "book_full_name": "AGEU"
+            "book_full_name": "O LIVRO DE AGEU"
         },
         {
             "id": "Zc",
@@ -302,7 +302,7 @@
             "new_testament": false,
             "num_chapters": 14,
             "book_name": "ZACARIAS",
-            "book_full_name": "ZACARIAS"
+            "book_full_name": "O LIVRO DE ZACARIAS"
         },
         {
             "id": "Ml",
@@ -310,7 +310,7 @@
             "new_testament": false,
             "num_chapters": 4,
             "book_name": "MALAQUIAS",
-            "book_full_name": "MALAQUIAS"
+            "book_full_name": "O LIVRO DE MALAQUIAS"
         },
         {
             "id": "Mt",
@@ -350,7 +350,7 @@
             "new_testament": true,
             "num_chapters": 28,
             "book_name": "ATOS DOS APÓSTOLOS",
-            "book_full_name": "ATOS DOS APÓSTOLOS"
+            "book_full_name": "O LIVRO DE ATOS DOS APÓSTOLOS"
         },
         {
             "id": "Rm",

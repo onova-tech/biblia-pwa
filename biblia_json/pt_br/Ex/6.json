@@ -177,12 +177,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:h} 6.3 Heb. JEOVÁ {note:1} 6.2-3 Êx 3.13-15"
+                "id": "{note:h}",
+                "text": "6.3 Heb. JEOVÁ"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 6.16-19 1Cr 6.16-19"
+                "id": "{note:2}",
+                "text": "6.16-19 1Cr 6.16-19"
+            },
+            {
+                "id": "{note:1}",
+                "text": "6.2-3 Êx 3.13-15"
             }
         ]
     }

@@ -4,7 +4,7 @@
         "book_number": 11,
         "new_testament": false,
         "num_chapters": 22,
-        "book_name": "REIS",
+        "book_name": "1º REIS",
         "book_full_name": "O PRIMEIRO LIVRO DOS REIS"
     },
     "chapter": {
@@ -252,32 +252,40 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 2.5 2Sm 3.27 {note:2} 2.5 2Sm 20.10"
+                "id": "{note:1}",
+                "text": "2.5 2Sm 3.27"
             },
             {
-                "id": "n2",
-                "text": "{note:3} 2.7 2Sm 17.27-29"
+                "id": "{note:3}",
+                "text": "2.7 2Sm 17.27-29"
             },
             {
-                "id": "n3",
-                "text": "{note:4} 2.8 2Sm 16.5-13 {note:5} 2.8 2Sm 19.16-23"
+                "id": "{note:4}",
+                "text": "2.8 2Sm 16.5-13"
             },
             {
-                "id": "n4",
-                "text": "{note:6} 2.11 2Sm 5.4-5; 1Cr 3.4"
+                "id": "{note:6}",
+                "text": "2.11 2Sm 5.4-5; 1Cr 3.4"
             },
             {
-                "id": "n5",
-                "text": "{note:7} 2.12 1Cr 29.23"
+                "id": "{note:7}",
+                "text": "2.12 1Cr 29.23"
             },
             {
-                "id": "n6",
-                "text": "{note:8} 2.26 2Sm 15.24"
+                "id": "{note:8}",
+                "text": "2.26 2Sm 15.24"
             },
             {
-                "id": "n7",
-                "text": "{note:9} 2.27 1Sm 2.27-36"
+                "id": "{note:9}",
+                "text": "2.27 1Sm 2.27-36"
+            },
+            {
+                "id": "{note:2}",
+                "text": "2.5 2Sm 20.10"
+            },
+            {
+                "id": "{note:5}",
+                "text": "2.8 2Sm 19.16-23"
             }
         ]
     }

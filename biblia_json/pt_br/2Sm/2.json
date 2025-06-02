@@ -4,7 +4,7 @@
         "book_number": 10,
         "new_testament": false,
         "num_chapters": 24,
-        "book_name": "SAMUEL",
+        "book_name": "2º SAMUEL",
         "book_full_name": "O SEGUNDO LIVRO DE SAMUEL"
     },
     "chapter": {
@@ -187,16 +187,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 2.2 1Sm 25.42-43"
+                "id": "{note:1}",
+                "text": "2.2 1Sm 25.42-43"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 2.4 1Sm 31.11-13"
+                "id": "{note:2}",
+                "text": "2.4 1Sm 31.11-13"
             },
             {
-                "id": "n3",
-                "text": "{note:a} 2.16 que é o campo das facas aguçadas"
+                "id": "{note:a}",
+                "text": "2.16 que é o campo das facas aguçadas"
             }
         ]
     }

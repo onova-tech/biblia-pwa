@@ -237,16 +237,20 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:x} 39.5 ou de obra de artífice"
+                "id": "{note:x}",
+                "text": "39.5 ou de obra de artífice"
             },
             {
-                "id": "n2",
-                "text": "{note:y} 39.23 ou a abertura"
+                "id": "{note:y}",
+                "text": "39.23 ou a abertura"
             },
             {
-                "id": "n3",
-                "text": "{note:z} 39.30 ou coroa santa {note:a} 39.30 ou SANTO AO SENHOR"
+                "id": "{note:z}",
+                "text": "39.30 ou coroa santa"
+            },
+            {
+                "id": "{note:a}",
+                "text": "39.30 ou SANTO AO SENHOR"
             }
         ]
     }

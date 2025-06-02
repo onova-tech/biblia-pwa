@@ -116,16 +116,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 8.3 Mt 4.4; Lc 4.4"
+                "id": "{note:1}",
+                "text": "8.3 Mt 4.4; Lc 4.4"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 8.14 Os 13.5-6"
+                "id": "{note:2}",
+                "text": "8.14 Os 13.5-6"
             },
             {
-                "id": "n3",
-                "text": "{note:c} 8.15 ou da pederneira"
+                "id": "{note:c}",
+                "text": "8.15 ou da pederneira"
             }
         ]
     }

@@ -4,7 +4,7 @@
         "book_number": 13,
         "new_testament": false,
         "num_chapters": 29,
-        "book_name": "CRÔNICAS",
+        "book_name": "1º CRÔNICAS",
         "book_full_name": "O PRIMEIRO LIVRO DAS CRÔNICAS"
     },
     "chapter": {
@@ -421,12 +421,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 6.16-19 Êx 6.16-19"
+                "id": "{note:1}",
+                "text": "6.16-19 Êx 6.16-19"
             },
             {
-                "id": "n2",
-                "text": "{note:d} 6.28 ou Joel"
+                "id": "{note:d}",
+                "text": "6.28 ou Joel"
             }
         ]
     }

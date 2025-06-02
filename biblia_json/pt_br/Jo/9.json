@@ -221,8 +221,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 9.5 Mt 5.14; Jo 8.12"
+                "id": "{note:1}",
+                "text": "9.5 Mt 5.14; Jo 8.12"
             }
         ]
     }

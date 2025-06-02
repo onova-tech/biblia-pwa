@@ -4,7 +4,7 @@
         "book_number": 60,
         "new_testament": true,
         "num_chapters": 5,
-        "book_name": "PEDRO",
+        "book_name": "1º PEDRO",
         "book_full_name": "PRIMEIRA EPÍSTOLA UNIVERSAL DO APÓSTOLO PEDRO"
     },
     "chapter": {
@@ -92,28 +92,28 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 5.2 Jo 21.15-17"
+                "id": "{note:1}",
+                "text": "5.2 Jo 21.15-17"
             },
             {
-                "id": "n2",
-                "text": "{note:g} 5.3 Gr. o cargo"
+                "id": "{note:g}",
+                "text": "5.3 Gr. o cargo"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 5.5 Pv 3.34"
+                "id": "{note:2}",
+                "text": "5.5 Pv 3.34"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 5.6 Mt 23.12; Lc 14.11; 18.14"
+                "id": "{note:3}",
+                "text": "5.6 Mt 23.12; Lc 14.11; 18.14"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 5.12 At 15.22,40"
+                "id": "{note:4}",
+                "text": "5.12 At 15.22,40"
             },
             {
-                "id": "n6",
-                "text": "{note:5} 5.13 At 12.12,25; 13.13; 15.37-39; Cl 4.10; Fm 24"
+                "id": "{note:5}",
+                "text": "5.13 At 12.12,25; 13.13; 15.37-39; Cl 4.10; Fm 24"
             }
         ]
     }

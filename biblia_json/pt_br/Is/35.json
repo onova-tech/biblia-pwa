@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 66,
         "book_name": "ISAÍAS",
-        "book_full_name": "ISAÍAS"
+        "book_full_name": "O LIVRO DE ISAÍAS"
     },
     "chapter": {
         "chapter_number": 35,
@@ -66,12 +66,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 35.3 Hb 12.12"
+                "id": "{note:1}",
+                "text": "35.3 Hb 12.12"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 35.5-6 Mt 11.5; Lc 7.22"
+                "id": "{note:2}",
+                "text": "35.5-6 Mt 11.5; Lc 7.22"
             }
         ]
     }

@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 66,
         "book_name": "ISAÍAS",
-        "book_full_name": "ISAÍAS"
+        "book_full_name": "O LIVRO DE ISAÍAS"
     },
     "chapter": {
         "chapter_number": 48,
@@ -126,16 +126,20 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:z} 48.12 Heb. o meu chamado {note:1} 48.12 Is 44.6; Ap 1.17; 22.13"
+                "id": "{note:z}",
+                "text": "48.12 Heb. o meu chamado"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 48.20 Ap 18.4"
+                "id": "{note:2}",
+                "text": "48.20 Ap 18.4"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 48.22 Is 57.21"
+                "id": "{note:3}",
+                "text": "48.22 Is 57.21"
+            },
+            {
+                "id": "{note:1}",
+                "text": "48.12 Is 44.6; Ap 1.17; 22.13"
             }
         ]
     }

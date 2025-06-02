@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 7,
         "book_name": "MIQUEIAS",
-        "book_full_name": "MIQUEIAS"
+        "book_full_name": "O LIVRO DE MIQUEIAS"
     },
     "chapter": {
         "chapter_number": 6,
@@ -96,16 +96,28 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 6.4 Êx 12.50-51 {note:2} 6.4 Êx 15.20"
+                "id": "{note:1}",
+                "text": "6.4 Êx 12.50-51"
             },
             {
-                "id": "n2",
-                "text": "{note:3} 6.5 Nm 22.2—24.25 {note:4} 6.5 Js 3.1—4.19"
+                "id": "{note:3}",
+                "text": "6.5 Nm 22.2—24.25"
             },
             {
-                "id": "n3",
-                "text": "{note:5} 6.16 1Rs 16.23-28 {note:6} 6.16 1Rs 16.29-34; 21.25-26"
+                "id": "{note:5}",
+                "text": "6.16 1Rs 16.23-28"
+            },
+            {
+                "id": "{note:2}",
+                "text": "6.4 Êx 15.20"
+            },
+            {
+                "id": "{note:4}",
+                "text": "6.5 Js 3.1—4.19"
+            },
+            {
+                "id": "{note:6}",
+                "text": "6.16 1Rs 16.29-34; 21.25-26"
             }
         ]
     }

@@ -4,7 +4,7 @@
         "book_number": 13,
         "new_testament": false,
         "num_chapters": 29,
-        "book_name": "CRÔNICAS",
+        "book_name": "1º CRÔNICAS",
         "book_full_name": "O PRIMEIRO LIVRO DAS CRÔNICAS"
     },
     "chapter": {
@@ -56,24 +56,24 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 20.1 2Sm 11.1"
+                "id": "{note:1}",
+                "text": "20.1 2Sm 11.1"
             },
             {
-                "id": "n2",
-                "text": "{note:h} 20.4 que é do gigante"
+                "id": "{note:h}",
+                "text": "20.4 que é do gigante"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 20.5 1Sm 17.4-7"
+                "id": "{note:2}",
+                "text": "20.5 1Sm 17.4-7"
             },
             {
-                "id": "n4",
-                "text": "{note:i} 20.6 que é do gigante"
+                "id": "{note:i}",
+                "text": "20.6 que é do gigante"
             },
             {
-                "id": "n5",
-                "text": "{note:j} 20.8 que é ao gigante"
+                "id": "{note:j}",
+                "text": "20.8 que é ao gigante"
             }
         ]
     }

@@ -96,8 +96,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:d} 4.3 ou atrás do teu véu"
+                "id": "{note:d}",
+                "text": "4.3 ou atrás do teu véu"
             }
         ]
     }

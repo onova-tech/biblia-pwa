@@ -91,12 +91,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:f} 17.4 ou violento"
+                "id": "{note:f}",
+                "text": "17.4 ou violento"
             },
             {
-                "id": "n2",
-                "text": "{note:g} 17.9 Heb. despojam"
+                "id": "{note:g}",
+                "text": "17.9 Heb. despojam"
             }
         ]
     }

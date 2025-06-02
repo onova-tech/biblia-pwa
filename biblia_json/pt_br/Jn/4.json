@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 4,
         "book_name": "JONAS",
-        "book_full_name": "JONAS"
+        "book_full_name": "O LIVRO DE JONAS"
     },
     "chapter": {
         "chapter_number": 4,
@@ -71,8 +71,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 4.2 Êx 34.6"
+                "id": "{note:1}",
+                "text": "4.2 Êx 34.6"
             }
         ]
     }

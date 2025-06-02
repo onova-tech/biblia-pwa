@@ -137,28 +137,28 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 28.4 Gn 17.4-8"
+                "id": "{note:1}",
+                "text": "28.4 Gn 17.4-8"
             },
             {
-                "id": "n2",
-                "text": "{note:o} 28.5 ou siro"
+                "id": "{note:o}",
+                "text": "28.5 ou siro"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 28.12 Jo 1.51"
+                "id": "{note:2}",
+                "text": "28.12 Jo 1.51"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 28.13 Gn 13.14"
+                "id": "{note:3}",
+                "text": "28.13 Gn 13.14"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 28.14 Gn 12.3; 22.18"
+                "id": "{note:4}",
+                "text": "28.14 Gn 12.3; 22.18"
             },
             {
-                "id": "n6",
-                "text": "{note:p} 28.19 que significa Casa de Deus"
+                "id": "{note:p}",
+                "text": "28.19 que significa Casa de Deus"
             }
         ]
     }

@@ -172,20 +172,24 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:a} 2.14 ou recebedoria"
+                "id": "{note:a}",
+                "text": "2.14 ou recebedoria"
             },
             {
-                "id": "n2",
-                "text": "{note:b} 2.19 Gr. da câmara nupcial"
+                "id": "{note:b}",
+                "text": "2.19 Gr. da câmara nupcial"
             },
             {
-                "id": "n3",
-                "text": "{note:1} 2.23 Dt 23.25"
+                "id": "{note:1}",
+                "text": "2.23 Dt 23.25"
             },
             {
-                "id": "n4",
-                "text": "{note:2} 2.26 Lv 24.9 {note:3} 2.25-26 1Sm 21.1-6"
+                "id": "{note:2}",
+                "text": "2.26 Lv 24.9"
+            },
+            {
+                "id": "{note:3}",
+                "text": "2.25-26 1Sm 21.1-6"
             }
         ]
     }

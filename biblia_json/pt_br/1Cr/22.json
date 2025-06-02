@@ -4,7 +4,7 @@
         "book_number": 13,
         "new_testament": false,
         "num_chapters": 29,
-        "book_name": "CRÔNICAS",
+        "book_name": "1º CRÔNICAS",
         "book_full_name": "O PRIMEIRO LIVRO DAS CRÔNICAS"
     },
     "chapter": {
@@ -111,16 +111,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:l} 22.9 que é paz"
+                "id": "{note:l}",
+                "text": "22.9 que é paz"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 22.7-10 2Sm 7.1-16; 1Cr 17.1-14"
+                "id": "{note:1}",
+                "text": "22.7-10 2Sm 7.1-16; 1Cr 17.1-14"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 22.13 Js 1.6-9"
+                "id": "{note:2}",
+                "text": "22.13 Js 1.6-9"
             }
         ]
     }

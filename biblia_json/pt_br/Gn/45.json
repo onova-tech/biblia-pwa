@@ -162,16 +162,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 45.1 At 7.13"
+                "id": "{note:1}",
+                "text": "45.1 At 7.13"
             },
             {
-                "id": "n2",
-                "text": "{note:j} 45.8 ou governador"
+                "id": "{note:j}",
+                "text": "45.8 ou governador"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 45.9 At 7.14"
+                "id": "{note:2}",
+                "text": "45.9 At 7.14"
             }
         ]
     }

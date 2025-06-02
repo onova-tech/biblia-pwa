@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 12,
         "book_name": "DANIEL",
-        "book_full_name": "DANIEL"
+        "book_full_name": "O LIVRO DE DANIEL"
     },
     "chapter": {
         "chapter_number": 3,
@@ -166,8 +166,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:b} 3.28 ou mudaram"
+                "id": "{note:b}",
+                "text": "3.28 ou mudaram"
             }
         ]
     }

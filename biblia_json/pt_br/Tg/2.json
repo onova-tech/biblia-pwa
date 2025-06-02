@@ -152,28 +152,36 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 2.8 Lv 19.18"
+                "id": "{note:1}",
+                "text": "2.8 Lv 19.18"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 2.11 Êx 20.13; Dt 5.17 {note:3} 2.11 Êx 20.14; Dt 5.18"
+                "id": "{note:2}",
+                "text": "2.11 Êx 20.13; Dt 5.17"
             },
             {
-                "id": "n3",
-                "text": "{note:c} 2.18 ou pelas tuas obras"
+                "id": "{note:c}",
+                "text": "2.18 ou pelas tuas obras"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 2.21 Gn 22.1-14"
+                "id": "{note:4}",
+                "text": "2.21 Gn 22.1-14"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 2.23 Gn 15.6 {note:6} 2.23 2Cr 20.7; Is 41.8"
+                "id": "{note:5}",
+                "text": "2.23 Gn 15.6"
             },
             {
-                "id": "n6",
-                "text": "{note:7} 2.25 Js 2.1-21"
+                "id": "{note:7}",
+                "text": "2.25 Js 2.1-21"
+            },
+            {
+                "id": "{note:3}",
+                "text": "2.11 Êx 20.14; Dt 5.18"
+            },
+            {
+                "id": "{note:6}",
+                "text": "2.23 2Cr 20.7; Is 41.8"
             }
         ]
     }

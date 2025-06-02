@@ -211,36 +211,40 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:d} 10.1 ou governador"
+                "id": "{note:d}",
+                "text": "10.1 ou governador"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 10.30 Êx 34.16; Dt 7.3"
+                "id": "{note:1}",
+                "text": "10.30 Êx 34.16; Dt 7.3"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 10.31 Êx 23.10-11 {note:3} 10.31 Dt 15.1-2"
+                "id": "{note:2}",
+                "text": "10.31 Êx 23.10-11"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 10.32 Êx 30.11-16"
+                "id": "{note:4}",
+                "text": "10.32 Êx 30.11-16"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 10.35 Êx 23.19; 34.26; Dt 26.2"
+                "id": "{note:5}",
+                "text": "10.35 Êx 23.19; 34.26; Dt 26.2"
             },
             {
-                "id": "n6",
-                "text": "{note:6} 10.36 Êx 13.2"
+                "id": "{note:6}",
+                "text": "10.36 Êx 13.2"
             },
             {
-                "id": "n7",
-                "text": "{note:7} 10.37 Nm 18.21"
+                "id": "{note:7}",
+                "text": "10.37 Nm 18.21"
             },
             {
-                "id": "n8",
-                "text": "{note:8} 10.38 Nm 18.26"
+                "id": "{note:8}",
+                "text": "10.38 Nm 18.26"
+            },
+            {
+                "id": "{note:3}",
+                "text": "10.31 Dt 15.1-2"
             }
         ]
     }

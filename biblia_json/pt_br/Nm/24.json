@@ -141,12 +141,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 24.9 Gn 49.9 {note:2} 24.9 Gn 12.3"
+                "id": "{note:1}",
+                "text": "24.9 Gn 49.9"
             },
             {
-                "id": "n2",
-                "text": "{note:k} 24.17 ou do tumulto"
+                "id": "{note:k}",
+                "text": "24.17 ou do tumulto"
+            },
+            {
+                "id": "{note:2}",
+                "text": "24.9 Gn 12.3"
             }
         ]
     }

@@ -61,12 +61,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:n} 149.1 Heb. Aleluia"
+                "id": "{note:n}",
+                "text": "149.1 Heb. Aleluia"
             },
             {
-                "id": "n2",
-                "text": "{note:o} 149.3 ou dança"
+                "id": "{note:o}",
+                "text": "149.3 ou dança"
             }
         ]
     }

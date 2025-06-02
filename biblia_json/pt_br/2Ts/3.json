@@ -4,7 +4,7 @@
         "book_number": 53,
         "new_testament": true,
         "num_chapters": 3,
-        "book_name": "TESSALONICENSES",
+        "book_name": "2º TESSALONICENSES",
         "book_full_name": "SEGUNDA EPÍSTOLA DO APÓSTOLO PAULO AOS TESSALONICENSES"
     },
     "chapter": {
@@ -106,8 +106,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:b} 3.5 ou no amor"
+                "id": "{note:b}",
+                "text": "3.5 ou no amor"
             }
         ]
     }

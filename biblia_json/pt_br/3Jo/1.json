@@ -4,7 +4,7 @@
         "book_number": 64,
         "new_testament": true,
         "num_chapters": 1,
-        "book_name": "JOÃO",
+        "book_name": "3º JOÃO",
         "book_full_name": "TERCEIRA EPÍSTOLA DO APÓSTOLO JOÃO"
     },
     "chapter": {
@@ -97,12 +97,12 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 1 At 19.29; Rm 16.23; 1Co 1.14"
+                "id": "{note:1}",
+                "text": "1 At 19.29; Rm 16.23; 1Co 1.14"
             },
             {
-                "id": "n2",
-                "text": "{note:a} 6 ou do teu amor"
+                "id": "{note:a}",
+                "text": "6 ou do teu amor"
             }
         ]
     }

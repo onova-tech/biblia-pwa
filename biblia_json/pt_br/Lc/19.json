@@ -272,24 +272,28 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:p} 19.4 ou a um sicômoro"
+                "id": "{note:p}",
+                "text": "19.4 ou a um sicômoro"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 19.26 Mt 13.12; Mc 4.25; Lc 8.18"
+                "id": "{note:1}",
+                "text": "19.26 Mt 13.12; Mc 4.25; Lc 8.18"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 19.38 Sl 118.26"
+                "id": "{note:2}",
+                "text": "19.38 Sl 118.26"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 19.46 Is 56.7 {note:4} 19.46 Jr 7.11"
+                "id": "{note:3}",
+                "text": "19.46 Is 56.7"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 19.47 Lc 21.37"
+                "id": "{note:5}",
+                "text": "19.47 Lc 21.37"
+            },
+            {
+                "id": "{note:4}",
+                "text": "19.46 Jr 7.11"
             }
         ]
     }

@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 48,
         "book_name": "EZEQUIEL",
-        "book_full_name": "EZEQUIEL"
+        "book_full_name": "O LIVRO DE EZEQUIEL"
     },
     "chapter": {
         "chapter_number": 33,
@@ -187,16 +187,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 33.1-9 Ez 3.16-21"
+                "id": "{note:1}",
+                "text": "33.1-9 Ez 3.16-21"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 33.11-20 Ez 18.21-32"
+                "id": "{note:2}",
+                "text": "33.11-20 Ez 18.21-32"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 33.21 2Rs 25.3-10; Jr 39.2-8; 52.4-14"
+                "id": "{note:3}",
+                "text": "33.21 2Rs 25.3-10; Jr 39.2-8; 52.4-14"
             }
         ]
     }

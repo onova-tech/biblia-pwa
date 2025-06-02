@@ -202,32 +202,32 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 21.1-11 Lv 25.39-46"
+                "id": "{note:1}",
+                "text": "21.1-11 Lv 25.39-46"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 21.12 Lv 24.17"
+                "id": "{note:2}",
+                "text": "21.12 Lv 24.17"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 21.13 Nm 35.10-34; Dt 19.1-13; Js 20.1-9"
+                "id": "{note:3}",
+                "text": "21.13 Nm 35.10-34; Dt 19.1-13; Js 20.1-9"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 21.16 Dt 24.7"
+                "id": "{note:4}",
+                "text": "21.16 Dt 24.7"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 21.17 Lv 20.9; Mt 15.4; Mc 7.10"
+                "id": "{note:5}",
+                "text": "21.17 Lv 20.9; Mt 15.4; Mc 7.10"
             },
             {
-                "id": "n6",
-                "text": "{note:b} 21.20 ou vingado"
+                "id": "{note:b}",
+                "text": "21.20 ou vingado"
             },
             {
-                "id": "n7",
-                "text": "{note:6} 21.24 Lv 24.19-20; Dt 19.21; Mt 5.38"
+                "id": "{note:6}",
+                "text": "21.24 Lv 24.19-20; Dt 19.21; Mt 5.38"
             }
         ]
     }

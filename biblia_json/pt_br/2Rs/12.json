@@ -4,7 +4,7 @@
         "book_number": 12,
         "new_testament": false,
         "num_chapters": 25,
-        "book_name": "REIS",
+        "book_name": "2º REIS",
         "book_full_name": "O SEGUNDO LIVRO DOS REIS"
     },
     "chapter": {
@@ -121,24 +121,24 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 12.4 Êx 30.11-16"
+                "id": "{note:1}",
+                "text": "12.4 Êx 30.11-16"
             },
             {
-                "id": "n2",
-                "text": "{note:e} 12.5 ou brechas ou ruínas"
+                "id": "{note:e}",
+                "text": "12.5 ou brechas ou ruínas"
             },
             {
-                "id": "n3",
-                "text": "{note:f} 12.9 ou caixa"
+                "id": "{note:f}",
+                "text": "12.9 ou caixa"
             },
             {
-                "id": "n4",
-                "text": "{note:2} 12.16 Lv 7.7"
+                "id": "{note:2}",
+                "text": "12.16 Lv 7.7"
             },
             {
-                "id": "n5",
-                "text": "{note:3} 12.17-18 2Cr 24.23-24"
+                "id": "{note:3}",
+                "text": "12.17-18 2Cr 24.23-24"
             }
         ]
     }

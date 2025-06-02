@@ -192,28 +192,32 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 22.2 Nm 32.20-32; Js 1.12-15"
+                "id": "{note:1}",
+                "text": "22.2 Nm 32.20-32; Js 1.12-15"
             },
             {
-                "id": "n2",
-                "text": "{note:t} 22.10 ou um altar grande, para que o avistassem"
+                "id": "{note:t}",
+                "text": "22.10 ou um altar grande, para que o avistassem"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 22.16 Dt 12.6"
+                "id": "{note:2}",
+                "text": "22.16 Dt 12.6"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 22.17 Nm 25.1-9"
+                "id": "{note:3}",
+                "text": "22.17 Nm 25.1-9"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 22.20 Js 7.1-26 {note:u} 22.20 Heb. à coisa consagrada"
+                "id": "{note:4}",
+                "text": "22.20 Js 7.1-26"
             },
             {
-                "id": "n6",
-                "text": "{note:v} 22.34 que significa testemunho"
+                "id": "{note:v}",
+                "text": "22.34 que significa testemunho"
+            },
+            {
+                "id": "{note:u}",
+                "text": "22.20 Heb. à coisa consagrada"
             }
         ]
     }

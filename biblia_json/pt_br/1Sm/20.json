@@ -4,7 +4,7 @@
         "book_number": 9,
         "new_testament": false,
         "num_chapters": 31,
-        "book_name": "SAMUEL",
+        "book_name": "1º SAMUEL",
         "book_full_name": "O PRIMEIRO LIVRO DE SAMUEL"
     },
     "chapter": {
@@ -237,12 +237,12 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 20.5 Nm 28.11"
+                "id": "{note:1}",
+                "text": "20.5 Nm 28.11"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 20.15 2Sm 9.1"
+                "id": "{note:2}",
+                "text": "20.15 2Sm 9.1"
             }
         ]
     }

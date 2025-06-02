@@ -4,7 +4,7 @@
         "book_number": 47,
         "new_testament": true,
         "num_chapters": 13,
-        "book_name": "CORÍNTIOS",
+        "book_name": "2º CORÍNTIOS",
         "book_full_name": "SEGUNDA EPÍSTOLA DO APÓSTOLO PAULO AOS CORÍNTIOS"
     },
     "chapter": {
@@ -132,8 +132,8 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:e} 12.7 ou anjo"
+                "id": "{note:e}",
+                "text": "12.7 ou anjo"
             }
         ]
     }

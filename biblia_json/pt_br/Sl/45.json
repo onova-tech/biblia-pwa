@@ -101,16 +101,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:i} 45.4 ou em tua majestade cavalga"
+                "id": "{note:i}",
+                "text": "45.4 ou em tua majestade cavalga"
             },
             {
-                "id": "n2",
-                "text": "{note:j} 45.5 ou os povos caíram debaixo de ti; elas estão no coração"
+                "id": "{note:j}",
+                "text": "45.5 ou os povos caíram debaixo de ti; elas estão no coração"
             },
             {
-                "id": "n3",
-                "text": "{note:1} 45.6-7 Hb 1.8-9"
+                "id": "{note:1}",
+                "text": "45.6-7 Hb 1.8-9"
             }
         ]
     }

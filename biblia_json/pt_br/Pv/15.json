@@ -181,8 +181,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:l} 15.11 Heb. Sheol e Abaddon"
+                "id": "{note:l}",
+                "text": "15.11 Heb. Sheol e Abaddon"
             }
         ]
     }

@@ -4,7 +4,7 @@
         "book_number": 54,
         "new_testament": true,
         "num_chapters": 6,
-        "book_name": "TIMÓTEO",
+        "book_name": "1º TIMÓTEO",
         "book_full_name": "PRIMEIRA EPÍSTOLA DO APÓSTOLO PAULO A TIMÓTEO"
     },
     "chapter": {
@@ -97,24 +97,32 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 2.7 2Tm 1.11 {note:c} 2.7 ou instruidor"
+                "id": "{note:1}",
+                "text": "2.7 2Tm 1.11"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 2.9 1Pe 3.3"
+                "id": "{note:2}",
+                "text": "2.9 1Pe 3.3"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 2.13 Gn 2.7 {note:4} 2.13 Gn 2.21-22"
+                "id": "{note:3}",
+                "text": "2.13 Gn 2.7"
             },
             {
-                "id": "n4",
-                "text": "{note:5} 2.14 Gn 3.1-6"
+                "id": "{note:5}",
+                "text": "2.14 Gn 3.1-6"
             },
             {
-                "id": "n5",
-                "text": "{note:d} 2.15 ou no amor"
+                "id": "{note:d}",
+                "text": "2.15 ou no amor"
+            },
+            {
+                "id": "{note:c}",
+                "text": "2.7 ou instruidor"
+            },
+            {
+                "id": "{note:4}",
+                "text": "2.13 Gn 2.21-22"
             }
         ]
     }

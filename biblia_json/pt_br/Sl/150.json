@@ -46,16 +46,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:p} 150.1 Heb. Aleluia"
+                "id": "{note:p}",
+                "text": "150.1 Heb. Aleluia"
             },
             {
-                "id": "n2",
-                "text": "{note:q} 150.4 ou dança"
+                "id": "{note:q}",
+                "text": "150.4 ou dança"
             },
             {
-                "id": "n3",
-                "text": "{note:r} 150.6 Heb. a JAH"
+                "id": "{note:r}",
+                "text": "150.6 Heb. a JAH"
             }
         ]
     }

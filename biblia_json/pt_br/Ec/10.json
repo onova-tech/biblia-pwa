@@ -116,12 +116,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:b} 10.1 Heb. feder e corromper"
+                "id": "{note:b}",
+                "text": "10.1 Heb. feder e corromper"
             },
             {
-                "id": "n2",
-                "text": "{note:c} 10.18 ou enfraquecem as vigas"
+                "id": "{note:c}",
+                "text": "10.18 ou enfraquecem as vigas"
             }
         ]
     }

@@ -152,40 +152,40 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:p} 4.1 que significa aquisição"
+                "id": "{note:p}",
+                "text": "4.1 que significa aquisição"
             },
             {
-                "id": "n2",
-                "text": "{note:q} 4.2 que significa vaidade"
+                "id": "{note:q}",
+                "text": "4.2 que significa vaidade"
             },
             {
-                "id": "n3",
-                "text": "{note:1} 4.4 Hb 11.4"
+                "id": "{note:1}",
+                "text": "4.4 Hb 11.4"
             },
             {
-                "id": "n4",
-                "text": "{note:r} 4.7 ou remissão"
+                "id": "{note:r}",
+                "text": "4.7 ou remissão"
             },
             {
-                "id": "n5",
-                "text": "{note:2} 4.8 Mt 23.35; Lc 11.51; 1Jo 3.12"
+                "id": "{note:2}",
+                "text": "4.8 Mt 23.35; Lc 11.51; 1Jo 3.12"
             },
             {
-                "id": "n6",
-                "text": "{note:s} 4.13 ou suportar"
+                "id": "{note:s}",
+                "text": "4.13 ou suportar"
             },
             {
-                "id": "n7",
-                "text": "{note:t} 4.15 ou vingado"
+                "id": "{note:t}",
+                "text": "4.15 ou vingado"
             },
             {
-                "id": "n8",
-                "text": "{note:u} 4.24 ou castigado"
+                "id": "{note:u}",
+                "text": "4.24 ou castigado"
             },
             {
-                "id": "n9",
-                "text": "{note:v} 4.25 que significa compensação ou renovo"
+                "id": "{note:v}",
+                "text": "4.25 que significa compensação ou renovo"
             }
         ]
     }

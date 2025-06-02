@@ -192,8 +192,8 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:i} 43.11 ou nozes da pistaceira"
+                "id": "{note:i}",
+                "text": "43.11 ou nozes da pistaceira"
             }
         ]
     }

@@ -4,7 +4,7 @@
         "book_number": 13,
         "new_testament": false,
         "num_chapters": 29,
-        "book_name": "CRÔNICAS",
+        "book_name": "1º CRÔNICAS",
         "book_full_name": "O PRIMEIRO LIVRO DAS CRÔNICAS"
     },
     "chapter": {
@@ -146,20 +146,28 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 5.1 Gn 35.22; 49.3-4"
+                "id": "{note:1}",
+                "text": "5.1 Gn 35.22; 49.3-4"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 5.2 Gn 49.8-10"
+                "id": "{note:2}",
+                "text": "5.2 Gn 49.8-10"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 5.6 2Rs 15.29"
+                "id": "{note:3}",
+                "text": "5.6 2Rs 15.29"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 5.26 2Rs 15.19 {note:6} 5.26 2Rs 17.6 {note:5} 5.26 2Rs 15.29"
+                "id": "{note:4}",
+                "text": "5.26 2Rs 15.19"
+            },
+            {
+                "id": "{note:6}",
+                "text": "5.26 2Rs 17.6"
+            },
+            {
+                "id": "{note:5}",
+                "text": "5.26 2Rs 15.29"
             }
         ]
     }

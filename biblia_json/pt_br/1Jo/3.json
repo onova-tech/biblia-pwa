@@ -4,7 +4,7 @@
         "book_number": 62,
         "new_testament": true,
         "num_chapters": 5,
-        "book_name": "JOÃO",
+        "book_name": "1º JOÃO",
         "book_full_name": "PRIMEIRA EPÍSTOLA UNIVERSAL DO APÓSTOLO JOÃO"
     },
     "chapter": {
@@ -136,36 +136,40 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:b} 3.1 ou amor {note:1} 3.1 Jo 1.12"
+                "id": "{note:b}",
+                "text": "3.1 ou amor"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 3.5 Jo 1.29"
+                "id": "{note:2}",
+                "text": "3.5 Jo 1.29"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 3.11 Jo 13.34"
+                "id": "{note:3}",
+                "text": "3.11 Jo 13.34"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 3.12 Gn 4.8"
+                "id": "{note:4}",
+                "text": "3.12 Gn 4.8"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 3.14 Jo 5.24"
+                "id": "{note:5}",
+                "text": "3.14 Jo 5.24"
             },
             {
-                "id": "n6",
-                "text": "{note:c} 3.16 ou o amor"
+                "id": "{note:c}",
+                "text": "3.16 ou o amor"
             },
             {
-                "id": "n7",
-                "text": "{note:d} 3.17 ou o amor"
+                "id": "{note:d}",
+                "text": "3.17 ou o amor"
             },
             {
-                "id": "n8",
-                "text": "{note:6} 3.23 Jo 13.34; 15.12,17"
+                "id": "{note:6}",
+                "text": "3.23 Jo 13.34; 15.12,17"
+            },
+            {
+                "id": "{note:1}",
+                "text": "3.1 Jo 1.12"
             }
         ]
     }

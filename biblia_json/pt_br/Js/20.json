@@ -61,12 +61,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 20.2 Nm 35.9-28; Dt 4.41-43; 19.1-13"
+                "id": "{note:1}",
+                "text": "20.2 Nm 35.9-28; Dt 4.41-43; 19.1-13"
             },
             {
-                "id": "n2",
-                "text": "{note:s} 20.7 Heb. santificaram"
+                "id": "{note:s}",
+                "text": "20.7 Heb. santificaram"
             }
         ]
     }

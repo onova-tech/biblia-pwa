@@ -126,8 +126,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 19.9 Hb 9.16"
+                "id": "{note:1}",
+                "text": "19.9 Hb 9.16"
             }
         ]
     }

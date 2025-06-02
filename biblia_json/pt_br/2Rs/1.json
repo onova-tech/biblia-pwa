@@ -4,7 +4,7 @@
         "book_number": 12,
         "new_testament": false,
         "num_chapters": 25,
-        "book_name": "REIS",
+        "book_name": "2º REIS",
         "book_full_name": "O SEGUNDO LIVRO DOS REIS"
     },
     "chapter": {
@@ -112,16 +112,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 1.8 Mt 3.4; Mc 1.6"
+                "id": "{note:1}",
+                "text": "1.8 Mt 3.4; Mc 1.6"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 1.10 Lc 9.54"
+                "id": "{note:2}",
+                "text": "1.10 Lc 9.54"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 1.12 Lc 9.54"
+                "id": "{note:3}",
+                "text": "1.12 Lc 9.54"
             }
         ]
     }

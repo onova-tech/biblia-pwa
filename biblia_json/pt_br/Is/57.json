@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 66,
         "book_name": "ISAÍAS",
-        "book_full_name": "ISAÍAS"
+        "book_full_name": "O LIVRO DE ISAÍAS"
     },
     "chapter": {
         "chapter_number": 57,
@@ -121,24 +121,24 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:o} 57.9 Heb. ao Sheol"
+                "id": "{note:o}",
+                "text": "57.9 Heb. ao Sheol"
             },
             {
-                "id": "n2",
-                "text": "{note:p} 57.16 ou desfaleceria"
+                "id": "{note:p}",
+                "text": "57.16 ou desfaleceria"
             },
             {
-                "id": "n3",
-                "text": "{note:1} 57.19 Ef 2.13"
+                "id": "{note:1}",
+                "text": "57.19 Ef 2.13"
             },
             {
-                "id": "n4",
-                "text": "{note:q} 57.20 ou arrojam lama e lodo"
+                "id": "{note:q}",
+                "text": "57.20 ou arrojam lama e lodo"
             },
             {
-                "id": "n5",
-                "text": "{note:2} 57.21 Is 48.22"
+                "id": "{note:2}",
+                "text": "57.21 Is 48.22"
             }
         ]
     }

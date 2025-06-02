@@ -126,12 +126,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:a} 1.2 ou Naomi, que é agradável"
+                "id": "{note:a}",
+                "text": "1.2 ou Naomi, que é agradável"
             },
             {
-                "id": "n2",
-                "text": "{note:b} 1.20 que significa agradável {note:c} 1.20 que significa amargosa"
+                "id": "{note:b}",
+                "text": "1.20 que significa agradável"
+            },
+            {
+                "id": "{note:c}",
+                "text": "1.20 que significa amargosa"
             }
         ]
     }

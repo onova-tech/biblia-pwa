@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 14,
         "book_name": "ZACARIAS",
-        "book_full_name": "ZACARIAS"
+        "book_full_name": "O LIVRO DE ZACARIAS"
     },
     "chapter": {
         "chapter_number": 10,
@@ -76,12 +76,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:g} 10.2 ou ídolos do lar"
+                "id": "{note:g}",
+                "text": "10.2 ou ídolos do lar"
             },
             {
-                "id": "n2",
-                "text": "{note:h} 10.5 ou que pisam os seus inimigos na lama das ruas na peleja"
+                "id": "{note:h}",
+                "text": "10.5 ou que pisam os seus inimigos na lama das ruas na peleja"
             }
         ]
     }

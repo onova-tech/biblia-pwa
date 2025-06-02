@@ -118,6 +118,14 @@ function addElement(container, text, id=null, template=null, href=null) {
     container.appendChild(elem);
 }
 
+function getOffset(el) {
+    const rect = el.getBoundingClientRect();
+    return {
+        left: rect.left + window.scrollX,
+        top: rect.top + window.scrollY
+    };
+}
+
 async function load_random_chapter() {
     let todays_book_id = localStorage.getItem("todays_book_id");
     let todays_chapter_number = localStorage.getItem("todays_chapter_number");
@@ -145,3 +153,28 @@ async function load_random_chapter() {
 
     window.location.href = `/biblia-pwa/pages/chapter_read.html?language=${language}&book_id=${book_id}&chapter_number=${chapter_number}`
 }
+
+async function downloadAll() {
+    let language = getSearchParameterOrDefault(current_url, "language");
+
+    let books = (await getFileContent(language)).books;
+    for(const book of books) {
+        await getFileContent(language, book.id);
+
+        for(let chapter_number = 1; chapter_number <= book.num_chapters; chapter_number++) {
+            await getFileContent(language, book.id, chapter_number);
+        }
+    }
+
+    localStorage.setItem(`${language}_downloaded`, "true");
+
+    M.toast({html: `Books for the language ${language} downloaded!`});
+}
+
+window.addEventListener("load",function(event) {
+    let language = getSearchParameterOrDefault(current_url, "language");
+
+    if(localStorage.getItem(`${language}_downloaded`) == 'true'){
+        download_for_offline_btn.setAttribute("style", "visibility: hidden;");
+    }
+},false);

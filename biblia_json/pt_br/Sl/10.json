@@ -106,12 +106,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 10.7 Rm 3.14"
+                "id": "{note:1}",
+                "text": "10.7 Rm 3.14"
             },
             {
-                "id": "n2",
-                "text": "{note:b} 10.16 ou as nações"
+                "id": "{note:b}",
+                "text": "10.16 ou as nações"
             }
         ]
     }

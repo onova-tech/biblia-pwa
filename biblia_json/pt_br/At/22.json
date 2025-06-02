@@ -5,7 +5,7 @@
         "new_testament": true,
         "num_chapters": 28,
         "book_name": "ATOS DOS APÓSTOLOS",
-        "book_full_name": "ATOS DOS APÓSTOLOS"
+        "book_full_name": "O LIVRO DE ATOS DOS APÓSTOLOS"
     },
     "chapter": {
         "chapter_number": 22,
@@ -172,20 +172,20 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 22.3 At 5.34-39"
+                "id": "{note:1}",
+                "text": "22.3 At 5.34-39"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 22.4-5 At 8.3"
+                "id": "{note:2}",
+                "text": "22.4-5 At 8.3"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 22.6-16 At 9.1-19"
+                "id": "{note:3}",
+                "text": "22.6-16 At 9.1-19"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 22.20 At 7.58"
+                "id": "{note:4}",
+                "text": "22.20 At 7.58"
             }
         ]
     }

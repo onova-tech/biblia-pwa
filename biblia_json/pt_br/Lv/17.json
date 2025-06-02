@@ -102,12 +102,20 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:j} 17.11 ou vida {note:1} 17.11 Hb 9.22"
+                "id": "{note:j}",
+                "text": "17.11 ou vida"
             },
             {
-                "id": "n2",
-                "text": "{note:k} 17.14 ou vida {note:2} 17.10-14 Gn 9.4; Lv 7.26-27; 19.26; Dt 12.16,23; 15.23"
+                "id": "{note:k}",
+                "text": "17.14 ou vida"
+            },
+            {
+                "id": "{note:1}",
+                "text": "17.11 Hb 9.22"
+            },
+            {
+                "id": "{note:2}",
+                "text": "17.10-14 Gn 9.4; Lv 7.26-27; 19.26; Dt 12.16,23; 15.23"
             }
         ]
     }

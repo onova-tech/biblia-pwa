@@ -181,12 +181,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:t} 30.28 ou lagartixa"
+                "id": "{note:t}",
+                "text": "30.28 ou lagartixa"
             },
             {
-                "id": "n2",
-                "text": "{note:u} 30.31 ou o cão de caça"
+                "id": "{note:u}",
+                "text": "30.31 ou o cão de caça"
             }
         ]
     }

@@ -187,56 +187,60 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:b} 9.3 ou anátema"
+                "id": "{note:b}",
+                "text": "9.3 ou anátema"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 9.7 Gn 21.12"
+                "id": "{note:1}",
+                "text": "9.7 Gn 21.12"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 9.9 Gn 18.10"
+                "id": "{note:2}",
+                "text": "9.9 Gn 18.10"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 9.12 Gn 25.23"
+                "id": "{note:3}",
+                "text": "9.12 Gn 25.23"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 9.13 Ml 1.2-3"
+                "id": "{note:4}",
+                "text": "9.13 Ml 1.2-3"
             },
             {
-                "id": "n6",
-                "text": "{note:5} 9.15 Êx 33.19"
+                "id": "{note:5}",
+                "text": "9.15 Êx 33.19"
             },
             {
-                "id": "n7",
-                "text": "{note:6} 9.17 Êx 9.16"
+                "id": "{note:6}",
+                "text": "9.17 Êx 9.16"
             },
             {
-                "id": "n8",
-                "text": "{note:7} 9.20 Is 45.9"
+                "id": "{note:7}",
+                "text": "9.20 Is 45.9"
             },
             {
-                "id": "n9",
-                "text": "{note:8} 9.25 Os 2.23"
+                "id": "{note:8}",
+                "text": "9.25 Os 2.23"
             },
             {
-                "id": "n10",
-                "text": "{note:9} 9.26 Os 1.10"
+                "id": "{note:9}",
+                "text": "9.26 Os 1.10"
             },
             {
-                "id": "n11",
-                "text": "{note:10} 9.27-28 Is 10.22-23"
+                "id": "{note:10}",
+                "text": "9.27-28 Is 10.22-23"
             },
             {
-                "id": "n12",
-                "text": "{note:c} 9.29 ou de Sebaoth {note:11} 9.29 Is 1.9"
+                "id": "{note:c}",
+                "text": "9.29 ou de Sebaoth"
             },
             {
-                "id": "n13",
-                "text": "{note:12} 9.33 Is 28.16"
+                "id": "{note:12}",
+                "text": "9.33 Is 28.16"
+            },
+            {
+                "id": "{note:11}",
+                "text": "9.29 Is 1.9"
             }
         ]
     }

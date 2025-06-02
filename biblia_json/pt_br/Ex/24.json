@@ -106,16 +106,20 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:e} 24.4 ou pilares"
+                "id": "{note:e}",
+                "text": "24.4 ou pilares"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 24.8 Mt 26.28; Mc 14.24; Lc 22.20; 1Co 11.25; Hb 10.29 {note:2} 24.6-8 Hb 9.19-20"
+                "id": "{note:1}",
+                "text": "24.8 Mt 26.28; Mc 14.24; Lc 22.20; 1Co 11.25; Hb 10.29"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 24.18 Dt 9.9"
+                "id": "{note:3}",
+                "text": "24.18 Dt 9.9"
+            },
+            {
+                "id": "{note:2}",
+                "text": "24.6-8 Hb 9.19-20"
             }
         ]
     }

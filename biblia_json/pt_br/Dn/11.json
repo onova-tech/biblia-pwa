@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 12,
         "book_name": "DANIEL",
-        "book_full_name": "DANIEL"
+        "book_full_name": "O LIVRO DE DANIEL"
     },
     "chapter": {
         "chapter_number": 11,
@@ -241,16 +241,24 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:g} 11.24 ou em tempo de segurança"
+                "id": "{note:g}",
+                "text": "11.24 ou em tempo de segurança"
             },
             {
-                "id": "n2",
-                "text": "{note:h} 11.31 ou braços haverá por seu lado {note:1} 11.31 Dn 9.27; 12.11; Mt 24.15; Mc 13.14"
+                "id": "{note:h}",
+                "text": "11.31 ou braços haverá por seu lado"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 11.36 2Ts 2.3-4 {note:3} 11.36 Ap 13.5-6"
+                "id": "{note:2}",
+                "text": "11.36 2Ts 2.3-4"
+            },
+            {
+                "id": "{note:1}",
+                "text": "11.31 Dn 9.27; 12.11; Mt 24.15; Mc 13.14"
+            },
+            {
+                "id": "{note:3}",
+                "text": "11.36 Ap 13.5-6"
             }
         ]
     }

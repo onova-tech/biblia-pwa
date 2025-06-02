@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 66,
         "book_name": "ISAÍAS",
-        "book_full_name": "ISAÍAS"
+        "book_full_name": "O LIVRO DE ISAÍAS"
     },
     "chapter": {
         "chapter_number": 53,
@@ -76,44 +76,52 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 53.1 Jo 12.38; Rm 10.16"
+                "id": "{note:1}",
+                "text": "53.1 Jo 12.38; Rm 10.16"
             },
             {
-                "id": "n2",
-                "text": "{note:e} 53.2 ou formosura nem beleza"
+                "id": "{note:e}",
+                "text": "53.2 ou formosura nem beleza"
             },
             {
-                "id": "n3",
-                "text": "{note:f} 53.3 ou rejeitado pelos homens"
+                "id": "{note:f}",
+                "text": "53.3 ou rejeitado pelos homens"
             },
             {
-                "id": "n4",
-                "text": "{note:2} 53.4 Mt 8.17"
+                "id": "{note:2}",
+                "text": "53.4 Mt 8.17"
             },
             {
-                "id": "n5",
-                "text": "{note:g} 53.5 ou quebrantado"
+                "id": "{note:g}",
+                "text": "53.5 ou quebrantado"
             },
             {
-                "id": "n6",
-                "text": "{note:3} 53.5-6 1Pe 2.24-25"
+                "id": "{note:3}",
+                "text": "53.5-6 1Pe 2.24-25"
             },
             {
-                "id": "n7",
-                "text": "{note:h} 53.8 ou Pela angústia e pelo juízo ele foi tirado; {note:4} 53.7-8 At 8.32-33; Ap 5.6"
+                "id": "{note:h}",
+                "text": "53.8 ou Pela angústia e pelo juízo ele foi tirado;"
             },
             {
-                "id": "n8",
-                "text": "{note:5} 53.9 1Pe 2.22"
+                "id": "{note:5}",
+                "text": "53.9 1Pe 2.22"
             },
             {
-                "id": "n9",
-                "text": "{note:i} 53.10 ou quebrantá-lo"
+                "id": "{note:i}",
+                "text": "53.10 ou quebrantá-lo"
             },
             {
-                "id": "n10",
-                "text": "{note:j} 53.12 ou o quinhão dos grandes {note:6} 53.12 Mc 15.28; Lc 22.37"
+                "id": "{note:j}",
+                "text": "53.12 ou o quinhão dos grandes"
+            },
+            {
+                "id": "{note:4}",
+                "text": "53.7-8 At 8.32-33; Ap 5.6"
+            },
+            {
+                "id": "{note:6}",
+                "text": "53.12 Mc 15.28; Lc 22.37"
             }
         ]
     }

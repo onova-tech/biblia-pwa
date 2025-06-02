@@ -4,7 +4,7 @@
         "book_number": 13,
         "new_testament": false,
         "num_chapters": 29,
-        "book_name": "CRÔNICAS",
+        "book_name": "1º CRÔNICAS",
         "book_full_name": "O PRIMEIRO LIVRO DAS CRÔNICAS"
     },
     "chapter": {
@@ -257,12 +257,12 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 11.4 Js 15.63; Jz 1.21"
+                "id": "{note:1}",
+                "text": "11.4 Js 15.63; Jz 1.21"
             },
             {
-                "id": "n2",
-                "text": "{note:e} 11.22 ou homens, quais leões, de Moabe"
+                "id": "{note:e}",
+                "text": "11.22 ou homens, quais leões, de Moabe"
             }
         ]
     }

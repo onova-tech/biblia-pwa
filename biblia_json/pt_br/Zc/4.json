@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 14,
         "book_name": "ZACARIAS",
-        "book_full_name": "ZACARIAS"
+        "book_full_name": "O LIVRO DE ZACARIAS"
     },
     "chapter": {
         "chapter_number": 4,
@@ -86,20 +86,20 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 4.3 Ap 11.4"
+                "id": "{note:1}",
+                "text": "4.3 Ap 11.4"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 4.6 Ed 5.2"
+                "id": "{note:2}",
+                "text": "4.6 Ed 5.2"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 4.10 Ap 5.6"
+                "id": "{note:3}",
+                "text": "4.10 Ap 5.6"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 4.11 Ap 11.4"
+                "id": "{note:4}",
+                "text": "4.11 Ap 11.4"
             }
         ]
     }

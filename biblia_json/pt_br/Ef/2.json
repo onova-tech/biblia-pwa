@@ -132,20 +132,20 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 2.1-10 Cl 2.8-23"
+                "id": "{note:1}",
+                "text": "2.1-10 Cl 2.8-23"
             },
             {
-                "id": "n2",
-                "text": "{note:c} 2.12 ou separados da comunhão"
+                "id": "{note:c}",
+                "text": "2.12 ou separados da comunhão"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 2.17 Is 57.19"
+                "id": "{note:2}",
+                "text": "2.17 Is 57.19"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 2.11-22 Cl 1.15-23"
+                "id": "{note:3}",
+                "text": "2.11-22 Cl 1.15-23"
             }
         ]
     }

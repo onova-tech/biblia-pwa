@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 48,
         "book_name": "EZEQUIEL",
-        "book_full_name": "EZEQUIEL"
+        "book_full_name": "O LIVRO DE EZEQUIEL"
     },
     "chapter": {
         "chapter_number": 22,
@@ -171,24 +171,32 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 22.7 Êx 20.12; Dt 5.16 {note:2} 22.7 Êx 22.21-22"
+                "id": "{note:1}",
+                "text": "22.7 Êx 20.12; Dt 5.16"
             },
             {
-                "id": "n2",
-                "text": "{note:3} 22.8 Lv 18.30"
+                "id": "{note:3}",
+                "text": "22.8 Lv 18.30"
             },
             {
-                "id": "n3",
-                "text": "{note:4} 22.10 Lv 18.7-20"
+                "id": "{note:4}",
+                "text": "22.10 Lv 18.7-20"
             },
             {
-                "id": "n4",
-                "text": "{note:5} 22.12 Êx 23.8 {note:6} 22.12 Dt 23.19"
+                "id": "{note:5}",
+                "text": "22.12 Êx 23.8"
             },
             {
-                "id": "n5",
-                "text": "{note:7} 22.26 Lv 10.10"
+                "id": "{note:7}",
+                "text": "22.26 Lv 10.10"
+            },
+            {
+                "id": "{note:2}",
+                "text": "22.7 Êx 22.21-22"
+            },
+            {
+                "id": "{note:6}",
+                "text": "22.12 Dt 23.19"
             }
         ]
     }

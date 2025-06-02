@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 3,
         "book_name": "HABACUQUE",
-        "book_full_name": "HABACUQUE"
+        "book_full_name": "O LIVRO DE HABACUQUE"
     },
     "chapter": {
         "chapter_number": 2,
@@ -116,16 +116,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 2.3 Hb 10.37"
+                "id": "{note:1}",
+                "text": "2.3 Hb 10.37"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 2.4 Rm 1.17; Gl 3.11; Hb 10.38-39"
+                "id": "{note:2}",
+                "text": "2.4 Rm 1.17; Gl 3.11; Hb 10.38-39"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 2.14 Is 11.9"
+                "id": "{note:3}",
+                "text": "2.14 Is 11.9"
             }
         ]
     }

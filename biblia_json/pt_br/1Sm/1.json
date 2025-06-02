@@ -4,7 +4,7 @@
         "book_number": 9,
         "new_testament": false,
         "num_chapters": 31,
-        "book_name": "SAMUEL",
+        "book_name": "1º SAMUEL",
         "book_full_name": "O PRIMEIRO LIVRO DE SAMUEL"
     },
     "chapter": {
@@ -167,12 +167,12 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 1.11 Nm 6.5"
+                "id": "{note:1}",
+                "text": "1.11 Nm 6.5"
             },
             {
-                "id": "n2",
-                "text": "{note:a} 1.20 que significa ouvido por Deus"
+                "id": "{note:a}",
+                "text": "1.20 que significa ouvido por Deus"
             }
         ]
     }

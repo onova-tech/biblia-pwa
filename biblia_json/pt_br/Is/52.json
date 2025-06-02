@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 66,
         "book_name": "ISAÍAS",
-        "book_full_name": "ISAÍAS"
+        "book_full_name": "O LIVRO DE ISAÍAS"
     },
     "chapter": {
         "chapter_number": 52,
@@ -91,24 +91,28 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 52.1 Ap 21.2,27"
+                "id": "{note:1}",
+                "text": "52.1 Ap 21.2,27"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 52.5 Rm 2.24"
+                "id": "{note:2}",
+                "text": "52.5 Rm 2.24"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 52.7 Na 1.15; Rm 10.15; Ef 6.15"
+                "id": "{note:3}",
+                "text": "52.7 Na 1.15; Rm 10.15; Ef 6.15"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 52.11 2Co 6.17"
+                "id": "{note:4}",
+                "text": "52.11 2Co 6.17"
             },
             {
-                "id": "n5",
-                "text": "{note:d} 52.15 ou espargirá {note:5} 52.15 Rm 15.21"
+                "id": "{note:d}",
+                "text": "52.15 ou espargirá"
+            },
+            {
+                "id": "{note:5}",
+                "text": "52.15 Rm 15.21"
             }
         ]
     }

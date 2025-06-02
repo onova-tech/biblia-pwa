@@ -247,24 +247,24 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:i} 14.14 Heb. olho ao olho"
+                "id": "{note:i}",
+                "text": "14.14 Heb. olho ao olho"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 14.18 Êx 20.5-6; 34.6-7; Dt 5.9-10; 7.9"
+                "id": "{note:1}",
+                "text": "14.18 Êx 20.5-6; 34.6-7; Dt 5.9-10; 7.9"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 14.24 Js 14.9-12"
+                "id": "{note:2}",
+                "text": "14.24 Js 14.9-12"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 14.33 At 7.36"
+                "id": "{note:3}",
+                "text": "14.33 At 7.36"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 14.1-35 Hb 3.16-19"
+                "id": "{note:4}",
+                "text": "14.1-35 Hb 3.16-19"
             }
         ]
     }

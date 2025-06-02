@@ -92,12 +92,12 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:d} 12.5 ou durável morada"
+                "id": "{note:d}",
+                "text": "12.5 ou durável morada"
             },
             {
-                "id": "n2",
-                "text": "{note:e} 12.12 Heb. muitos livros"
+                "id": "{note:e}",
+                "text": "12.12 Heb. muitos livros"
             }
         ]
     }

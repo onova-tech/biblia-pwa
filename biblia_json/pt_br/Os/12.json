@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 14,
         "book_name": "OSEIAS",
-        "book_full_name": "OSEIAS"
+        "book_full_name": "O LIVRO DE OSEIAS"
     },
     "chapter": {
         "chapter_number": 12,
@@ -86,24 +86,32 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 12.3 Gn 25.26 {note:2} 12.3 Gn 32.24-26"
+                "id": "{note:1}",
+                "text": "12.3 Gn 25.26"
             },
             {
-                "id": "n2",
-                "text": "{note:3} 12.4 Gn 28.10-22"
+                "id": "{note:3}",
+                "text": "12.4 Gn 28.10-22"
             },
             {
-                "id": "n3",
-                "text": "{note:4} 12.9 Lv 23.39-43"
+                "id": "{note:4}",
+                "text": "12.9 Lv 23.39-43"
             },
             {
-                "id": "n4",
-                "text": "{note:c} 12.12 Heb. de Aram {note:5} 12.12 Gn 29.1-20"
+                "id": "{note:c}",
+                "text": "12.12 Heb. de Aram"
             },
             {
-                "id": "n5",
-                "text": "{note:6} 12.13 Êx 12.50-51"
+                "id": "{note:6}",
+                "text": "12.13 Êx 12.50-51"
+            },
+            {
+                "id": "{note:2}",
+                "text": "12.3 Gn 32.24-26"
+            },
+            {
+                "id": "{note:5}",
+                "text": "12.12 Gn 29.1-20"
             }
         ]
     }

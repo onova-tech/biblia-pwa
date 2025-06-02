@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 12,
         "book_name": "DANIEL",
-        "book_full_name": "DANIEL"
+        "book_full_name": "O LIVRO DE DANIEL"
     },
     "chapter": {
         "chapter_number": 8,
@@ -151,12 +151,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 8.10 Ap 12.4"
+                "id": "{note:1}",
+                "text": "8.10 Ap 12.4"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 8.16 Lc 1.19,26"
+                "id": "{note:2}",
+                "text": "8.16 Lc 1.19,26"
             }
         ]
     }

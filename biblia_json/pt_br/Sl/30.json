@@ -76,12 +76,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:o} 30.3 Heb. Sheol"
+                "id": "{note:o}",
+                "text": "30.3 Heb. Sheol"
             },
             {
-                "id": "n2",
-                "text": "{note:p} 30.4 ou sua santa memória"
+                "id": "{note:p}",
+                "text": "30.4 ou sua santa memória"
             }
         ]
     }

@@ -56,8 +56,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 82.6 Jo 10.34"
+                "id": "{note:1}",
+                "text": "82.6 Jo 10.34"
             }
         ]
     }

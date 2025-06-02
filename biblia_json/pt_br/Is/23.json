@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 66,
         "book_name": "ISAÍAS",
-        "book_full_name": "ISAÍAS"
+        "book_full_name": "O LIVRO DE ISAÍAS"
     },
     "chapter": {
         "chapter_number": 23,
@@ -106,12 +106,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:d} 23.1 ou Sentença"
+                "id": "{note:d}",
+                "text": "23.1 ou Sentença"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 23.1-18 Ez 26.1—29.19; Jl 3.4-8; Am 1.9-10; Zc 9.3-4; Mt 11.21-22; Lc 10.13-14"
+                "id": "{note:1}",
+                "text": "23.1-18 Ez 26.1—29.19; Jl 3.4-8; Am 1.9-10; Zc 9.3-4; Mt 11.21-22; Lc 10.13-14"
             }
         ]
     }

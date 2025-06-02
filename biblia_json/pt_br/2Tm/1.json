@@ -4,7 +4,7 @@
         "book_number": 55,
         "new_testament": true,
         "num_chapters": 4,
-        "book_name": "TIMÓTEO",
+        "book_name": "2º TIMÓTEO",
         "book_full_name": "SEGUNDA EPÍSTOLA DO APÓSTOLO PAULO A TIMÓTEO"
     },
     "chapter": {
@@ -112,24 +112,24 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 1.2 At 16.1"
+                "id": "{note:1}",
+                "text": "1.2 At 16.1"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 1.5 At 16.1"
+                "id": "{note:2}",
+                "text": "1.5 At 16.1"
             },
             {
-                "id": "n3",
-                "text": "{note:a} 1.7 ou poder"
+                "id": "{note:a}",
+                "text": "1.7 ou poder"
             },
             {
-                "id": "n4",
-                "text": "{note:b} 1.11 ou instruidor"
+                "id": "{note:b}",
+                "text": "1.11 ou instruidor"
             },
             {
-                "id": "n5",
-                "text": "{note:c} 1.13 ou no amor"
+                "id": "{note:c}",
+                "text": "1.13 ou no amor"
             }
         ]
     }

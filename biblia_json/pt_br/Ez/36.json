@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 48,
         "book_name": "EZEQUIEL",
-        "book_full_name": "EZEQUIEL"
+        "book_full_name": "O LIVRO DE EZEQUIEL"
     },
     "chapter": {
         "chapter_number": 36,
@@ -212,8 +212,8 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 36.26 Ez 11.19-20"
+                "id": "{note:1}",
+                "text": "36.26 Ez 11.19-20"
             }
         ]
     }

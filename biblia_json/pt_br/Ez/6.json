@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 48,
         "book_name": "EZEQUIEL",
-        "book_full_name": "EZEQUIEL"
+        "book_full_name": "O LIVRO DE EZEQUIEL"
     },
     "chapter": {
         "chapter_number": 6,
@@ -86,8 +86,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:h} 6.9 ou quebrantei eu o seu coração adúltero"
+                "id": "{note:h}",
+                "text": "6.9 ou quebrantei eu o seu coração adúltero"
             }
         ]
     }

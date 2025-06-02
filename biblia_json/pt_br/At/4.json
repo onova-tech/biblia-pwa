@@ -5,7 +5,7 @@
         "new_testament": true,
         "num_chapters": 28,
         "book_name": "ATOS DOS APÓSTOLOS",
-        "book_full_name": "ATOS DOS APÓSTOLOS"
+        "book_full_name": "O LIVRO DE ATOS DOS APÓSTOLOS"
     },
     "chapter": {
         "chapter_number": 4,
@@ -207,28 +207,32 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 4.11 Sl 118.22"
+                "id": "{note:1}",
+                "text": "4.11 Sl 118.22"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 4.24 Êx 20.11; Sl 146.6"
+                "id": "{note:2}",
+                "text": "4.24 Êx 20.11; Sl 146.6"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 4.25-26 Sl 2.1-2"
+                "id": "{note:3}",
+                "text": "4.25-26 Sl 2.1-2"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 4.27 Lc 23.7-11 {note:5} 4.27 Mt 27.1-2; Mc 15.1; Lc 23.1; Jo 18.28-29"
+                "id": "{note:4}",
+                "text": "4.27 Lc 23.7-11"
             },
             {
-                "id": "n5",
-                "text": "{note:6} 4.32 At 2.44-45"
+                "id": "{note:6}",
+                "text": "4.32 At 2.44-45"
             },
             {
-                "id": "n6",
-                "text": "{note:7} 4.34-35 Mt 19.21; Mc 10.21; Lc 12.33; 18.22"
+                "id": "{note:7}",
+                "text": "4.34-35 Mt 19.21; Mc 10.21; Lc 12.33; 18.22"
+            },
+            {
+                "id": "{note:5}",
+                "text": "4.27 Mt 27.1-2; Mc 15.1; Lc 23.1; Jo 18.28-29"
             }
         ]
     }

@@ -131,32 +131,32 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 15.1 Êx 23.10-11"
+                "id": "{note:1}",
+                "text": "15.1 Êx 23.10-11"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 15.7 Êx 22.25; Dt 23.19-20"
+                "id": "{note:2}",
+                "text": "15.7 Êx 22.25; Dt 23.19-20"
             },
             {
-                "id": "n3",
-                "text": "{note:f} 15.9 ou vil pensamento"
+                "id": "{note:f}",
+                "text": "15.9 ou vil pensamento"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 15.11 Mt 26.11; Mc 14.7; Jo 12.8"
+                "id": "{note:3}",
+                "text": "15.11 Mt 26.11; Mc 14.7; Jo 12.8"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 15.12-18 Lv 25.39-46"
+                "id": "{note:4}",
+                "text": "15.12-18 Lv 25.39-46"
             },
             {
-                "id": "n6",
-                "text": "{note:5} 15.19 Êx 13.12"
+                "id": "{note:5}",
+                "text": "15.19 Êx 13.12"
             },
             {
-                "id": "n7",
-                "text": "{note:6} 15.23 Gn 9.4; Lv 7.26-27; 17.10-14; Dt 12.16,23"
+                "id": "{note:6}",
+                "text": "15.23 Gn 9.4; Lv 7.26-27; 17.10-14; Dt 12.16,23"
             }
         ]
     }

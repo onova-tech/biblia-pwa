@@ -136,16 +136,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 4.2 2Rs 17.24-41"
+                "id": "{note:1}",
+                "text": "4.2 2Rs 17.24-41"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 4.6 Et 1.1"
+                "id": "{note:2}",
+                "text": "4.6 Et 1.1"
             },
             {
-                "id": "n3",
-                "text": "{note:c} 4.10 variante aramaica de Assurbanipal"
+                "id": "{note:c}",
+                "text": "4.10 variante aramaica de Assurbanipal"
             }
         ]
     }

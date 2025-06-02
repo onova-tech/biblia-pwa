@@ -71,16 +71,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:a} 1.1 ou o palácio"
+                "id": "{note:a}",
+                "text": "1.1 ou o palácio"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 1.8 Lv 26.33"
+                "id": "{note:1}",
+                "text": "1.8 Lv 26.33"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 1.9 Dt 30.1-5"
+                "id": "{note:2}",
+                "text": "1.9 Dt 30.1-5"
             }
         ]
     }

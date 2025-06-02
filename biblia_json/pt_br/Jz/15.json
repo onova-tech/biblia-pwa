@@ -127,12 +127,12 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:l} 15.17 que significa o alto da queixada"
+                "id": "{note:l}",
+                "text": "15.17 que significa o alto da queixada"
             },
             {
-                "id": "n2",
-                "text": "{note:m} 15.19 que significa queixada"
+                "id": "{note:m}",
+                "text": "15.19 que significa queixada"
             }
         ]
     }

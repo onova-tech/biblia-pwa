@@ -152,32 +152,40 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 2.2 At 7.20; Hb 11.23"
+                "id": "{note:1}",
+                "text": "2.2 At 7.20; Hb 11.23"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 2.10 At 7.21 {note:c} 2.10 que significa tirando"
+                "id": "{note:2}",
+                "text": "2.10 At 7.21"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 2.11 At 7.23-29; Hb 11.24"
+                "id": "{note:3}",
+                "text": "2.11 At 7.23-29; Hb 11.24"
             },
             {
-                "id": "n4",
-                "text": "{note:d} 2.14 ou príncipe"
+                "id": "{note:d}",
+                "text": "2.14 ou príncipe"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 2.15 At 7.29; Hb 11.27"
+                "id": "{note:4}",
+                "text": "2.15 At 7.29; Hb 11.27"
             },
             {
-                "id": "n6",
-                "text": "{note:5} 2.22 At 7.29 {note:e} 2.22 que significa um estranho ali"
+                "id": "{note:5}",
+                "text": "2.22 At 7.29"
             },
             {
-                "id": "n7",
-                "text": "{note:6} 2.24 Gn 15.13-14"
+                "id": "{note:6}",
+                "text": "2.24 Gn 15.13-14"
+            },
+            {
+                "id": "{note:c}",
+                "text": "2.10 que significa tirando"
+            },
+            {
+                "id": "{note:e}",
+                "text": "2.22 que significa um estranho ali"
             }
         ]
     }

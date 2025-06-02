@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 66,
         "book_name": "ISAÍAS",
-        "book_full_name": "ISAÍAS"
+        "book_full_name": "O LIVRO DE ISAÍAS"
     },
     "chapter": {
         "chapter_number": 58,
@@ -86,16 +86,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:r} 58.2 ou a ordenança"
+                "id": "{note:r}",
+                "text": "58.2 ou a ordenança"
             },
             {
-                "id": "n2",
-                "text": "{note:s} 58.6 ou oprimidos"
+                "id": "{note:s}",
+                "text": "58.6 ou oprimidos"
             },
             {
-                "id": "n3",
-                "text": "{note:t} 58.12 ou brechas"
+                "id": "{note:t}",
+                "text": "58.12 ou brechas"
             }
         ]
     }

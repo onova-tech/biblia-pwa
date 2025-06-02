@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 9,
         "book_name": "AMÓS",
-        "book_full_name": "AMÓS"
+        "book_full_name": "O LIVRO DE AMÓS"
     },
     "chapter": {
         "chapter_number": 5,
@@ -151,20 +151,20 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 5.8 Jó 9.9; 38.31"
+                "id": "{note:1}",
+                "text": "5.8 Jó 9.9; 38.31"
             },
             {
-                "id": "n2",
-                "text": "{note:a} 5.12 ou suborno"
+                "id": "{note:a}",
+                "text": "5.12 ou suborno"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 5.21-22 Is 1.11-14"
+                "id": "{note:2}",
+                "text": "5.21-22 Is 1.11-14"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 5.25-27 At 7.42-43"
+                "id": "{note:3}",
+                "text": "5.25-27 At 7.42-43"
             }
         ]
     }

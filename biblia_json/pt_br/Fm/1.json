@@ -152,32 +152,44 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 2 Cl 4.17"
+                "id": "{note:1}",
+                "text": "2 Cl 4.17"
             },
             {
-                "id": "n2",
-                "text": "{note:a} 5 ou o teu amor"
+                "id": "{note:a}",
+                "text": "5 ou o teu amor"
             },
             {
-                "id": "n3",
-                "text": "{note:b} 7 ou do teu amor"
+                "id": "{note:b}",
+                "text": "7 ou do teu amor"
             },
             {
-                "id": "n4",
-                "text": "{note:c} 9 ou amor"
+                "id": "{note:c}",
+                "text": "9 ou amor"
             },
             {
-                "id": "n5",
-                "text": "{note:2} 10-12 Cl 4.9"
+                "id": "{note:2}",
+                "text": "10-12 Cl 4.9"
             },
             {
-                "id": "n6",
-                "text": "{note:3} 23 Cl 1.7; 4.12"
+                "id": "{note:3}",
+                "text": "23 Cl 1.7; 4.12"
             },
             {
-                "id": "n7",
-                "text": "{note:4} 24 At 12.12,25; 13.13; 15.37-39; Cl 4.10 {note:7} 24 Cl 4.14; 2Tm 4.11 {note:6} 24 Cl 4.14; 2Tm 4.10 {note:5} 24 At 19.29; 27.2; Cl 4.10"
+                "id": "{note:4}",
+                "text": "24 At 12.12,25; 13.13; 15.37-39; Cl 4.10"
+            },
+            {
+                "id": "{note:7}",
+                "text": "24 Cl 4.14; 2Tm 4.11"
+            },
+            {
+                "id": "{note:6}",
+                "text": "24 Cl 4.14; 2Tm 4.10"
+            },
+            {
+                "id": "{note:5}",
+                "text": "24 At 19.29; 27.2; Cl 4.10"
             }
         ]
     }

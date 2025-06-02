@@ -166,16 +166,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:a} 38.14 ou na porta de Enaim"
+                "id": "{note:a}",
+                "text": "38.14 ou na porta de Enaim"
             },
             {
-                "id": "n2",
-                "text": "{note:b} 38.18 ou cordão"
+                "id": "{note:b}",
+                "text": "38.18 ou cordão"
             },
             {
-                "id": "n3",
-                "text": "{note:c} 38.25 ou cordões"
+                "id": "{note:c}",
+                "text": "38.25 ou cordões"
             }
         ]
     }

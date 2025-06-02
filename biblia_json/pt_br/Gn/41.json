@@ -307,28 +307,28 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 41.40 At 7.10"
+                "id": "{note:1}",
+                "text": "41.40 At 7.10"
             },
             {
-                "id": "n2",
-                "text": "{note:f} 41.45 que significa salvador do mundo"
+                "id": "{note:f}",
+                "text": "41.45 que significa salvador do mundo"
             },
             {
-                "id": "n3",
-                "text": "{note:g} 41.51 que significa que faz esquecer"
+                "id": "{note:g}",
+                "text": "41.51 que significa que faz esquecer"
             },
             {
-                "id": "n4",
-                "text": "{note:h} 41.52 que significa duplamente frutífero"
+                "id": "{note:h}",
+                "text": "41.52 que significa duplamente frutífero"
             },
             {
-                "id": "n5",
-                "text": "{note:2} 41.54 At 7.11"
+                "id": "{note:2}",
+                "text": "41.54 At 7.11"
             },
             {
-                "id": "n6",
-                "text": "{note:3} 41.55 Jo 2.5"
+                "id": "{note:3}",
+                "text": "41.55 Jo 2.5"
             }
         ]
     }

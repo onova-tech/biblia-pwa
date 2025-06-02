@@ -156,8 +156,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:a} 73.26 Heb. rocha"
+                "id": "{note:a}",
+                "text": "73.26 Heb. rocha"
             }
         ]
     }

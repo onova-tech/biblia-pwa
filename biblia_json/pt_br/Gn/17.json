@@ -162,28 +162,36 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:m} 17.5 que significa pai da altura {note:1} 17.5 Rm 4.17 {note:n} 17.5 que significa pai de uma multidão"
+                "id": "{note:m}",
+                "text": "17.5 que significa pai da altura"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 17.7 Lc 1.55"
+                "id": "{note:2}",
+                "text": "17.7 Lc 1.55"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 17.8 At 7.5"
+                "id": "{note:3}",
+                "text": "17.8 At 7.5"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 17.10 At 7.8"
+                "id": "{note:4}",
+                "text": "17.10 At 7.8"
             },
             {
-                "id": "n5",
-                "text": "{note:o} 17.15 que significa princesa"
+                "id": "{note:o}",
+                "text": "17.15 que significa princesa"
             },
             {
-                "id": "n6",
-                "text": "{note:p} 17.19 que significa riso"
+                "id": "{note:p}",
+                "text": "17.19 que significa riso"
+            },
+            {
+                "id": "{note:1}",
+                "text": "17.5 Rm 4.17"
+            },
+            {
+                "id": "{note:n}",
+                "text": "17.5 que significa pai de uma multidão"
             }
         ]
     }

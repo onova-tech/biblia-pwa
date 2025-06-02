@@ -171,16 +171,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:i} 11.15 ou se quebrantará"
+                "id": "{note:i}",
+                "text": "11.15 ou se quebrantará"
             },
             {
-                "id": "n2",
-                "text": "{note:j} 11.22 ou discrição"
+                "id": "{note:j}",
+                "text": "11.22 ou discrição"
             },
             {
-                "id": "n3",
-                "text": "{note:1} 11.31 1Pe 4.18"
+                "id": "{note:1}",
+                "text": "11.31 1Pe 4.18"
             }
         ]
     }

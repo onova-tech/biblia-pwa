@@ -156,20 +156,20 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 7.1-10 Gn 14.17-20"
+                "id": "{note:1}",
+                "text": "7.1-10 Gn 14.17-20"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 7.17 Sl 110.4"
+                "id": "{note:2}",
+                "text": "7.17 Sl 110.4"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 7.21 Sl 110.4"
+                "id": "{note:3}",
+                "text": "7.21 Sl 110.4"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 7.27 Lv 9.7"
+                "id": "{note:4}",
+                "text": "7.27 Lv 9.7"
             }
         ]
     }

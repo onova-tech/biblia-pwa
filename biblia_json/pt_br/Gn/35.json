@@ -172,44 +172,48 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 35.1 Gn 28.11-17"
+                "id": "{note:1}",
+                "text": "35.1 Gn 28.11-17"
             },
             {
-                "id": "n2",
-                "text": "{note:t} 35.7 que significa o Deus de Betel"
+                "id": "{note:t}",
+                "text": "35.7 que significa o Deus de Betel"
             },
             {
-                "id": "n3",
-                "text": "{note:u} 35.8 que significa o carvalho de pranto"
+                "id": "{note:u}",
+                "text": "35.8 que significa o carvalho de pranto"
             },
             {
-                "id": "n4",
-                "text": "{note:2} 35.10 Gn 32.28"
+                "id": "{note:2}",
+                "text": "35.10 Gn 32.28"
             },
             {
-                "id": "n5",
-                "text": "{note:3} 35.11-12 Gn 17.4-8"
+                "id": "{note:3}",
+                "text": "35.11-12 Gn 17.4-8"
             },
             {
-                "id": "n6",
-                "text": "{note:4} 35.14-15 Gn 28.18-19"
+                "id": "{note:4}",
+                "text": "35.14-15 Gn 28.18-19"
             },
             {
-                "id": "n7",
-                "text": "{note:v} 35.18 que significa filho de minha dor {note:w} 35.18 que significa filho da destra"
+                "id": "{note:v}",
+                "text": "35.18 que significa filho de minha dor"
             },
             {
-                "id": "n8",
-                "text": "{note:5} 35.16-19 Jr 31.15"
+                "id": "{note:5}",
+                "text": "35.16-19 Jr 31.15"
             },
             {
-                "id": "n9",
-                "text": "{note:x} 35.21 ou a torre de Éder"
+                "id": "{note:x}",
+                "text": "35.21 ou a torre de Éder"
             },
             {
-                "id": "n10",
-                "text": "{note:6} 35.27 Gn 13.18"
+                "id": "{note:6}",
+                "text": "35.27 Gn 13.18"
+            },
+            {
+                "id": "{note:w}",
+                "text": "35.18 que significa filho da destra"
             }
         ]
     }

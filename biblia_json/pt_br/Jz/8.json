@@ -197,8 +197,8 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:h} 8.21 ou crescentes"
+                "id": "{note:h}",
+                "text": "8.21 ou crescentes"
             }
         ]
     }

@@ -181,24 +181,24 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 5.2 Êx 29.18"
+                "id": "{note:1}",
+                "text": "5.2 Êx 29.18"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 5.16 Cl 4.5"
+                "id": "{note:2}",
+                "text": "5.16 Cl 4.5"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 5.15-20 Cl 3.16-17"
+                "id": "{note:3}",
+                "text": "5.15-20 Cl 3.16-17"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 5.22 1Pe 3.1"
+                "id": "{note:4}",
+                "text": "5.22 1Pe 3.1"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 5.31 Gn 2.24"
+                "id": "{note:5}",
+                "text": "5.31 Gn 2.24"
             }
         ]
     }

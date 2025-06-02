@@ -176,20 +176,24 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 12.3 Dt 7.5 {note:d} 12.3 ou os seus pilares ou os seus obeliscos"
+                "id": "{note:1}",
+                "text": "12.3 Dt 7.5"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 12.16 Gn 9.4; Lv 7.26-27; 17.10-14; 19.26; Dt 15.23"
+                "id": "{note:2}",
+                "text": "12.16 Gn 9.4; Lv 7.26-27; 17.10-14; 19.26; Dt 15.23"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 12.23 Lv 17.10-14"
+                "id": "{note:3}",
+                "text": "12.23 Lv 17.10-14"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 12.32 Dt 4.2; Ap 22.18-19"
+                "id": "{note:4}",
+                "text": "12.32 Dt 4.2; Ap 22.18-19"
+            },
+            {
+                "id": "{note:d}",
+                "text": "12.3 ou os seus pilares ou os seus obeliscos"
             }
         ]
     }

@@ -172,32 +172,36 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:a} 1.4 ou do amor"
+                "id": "{note:a}",
+                "text": "1.4 ou do amor"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 1.7 Cl 4.12; Fm 23"
+                "id": "{note:1}",
+                "text": "1.7 Cl 4.12; Fm 23"
             },
             {
-                "id": "n3",
-                "text": "{note:b} 1.8 ou o vosso amor"
+                "id": "{note:b}",
+                "text": "1.8 ou o vosso amor"
             },
             {
-                "id": "n4",
-                "text": "{note:c} 1.10 ou como dignos do Senhor"
+                "id": "{note:c}",
+                "text": "1.10 ou como dignos do Senhor"
             },
             {
-                "id": "n5",
-                "text": "{note:2} 1.14 Ef 1.7 {note:3} 1.3-14 Ef 1.15-23"
+                "id": "{note:2}",
+                "text": "1.14 Ef 1.7"
             },
             {
-                "id": "n6",
-                "text": "{note:4} 1.15-23 Ef 2.11-22"
+                "id": "{note:4}",
+                "text": "1.15-23 Ef 2.11-22"
             },
             {
-                "id": "n7",
-                "text": "{note:5} 1.24-29 Ef 3.1-13"
+                "id": "{note:5}",
+                "text": "1.24-29 Ef 3.1-13"
+            },
+            {
+                "id": "{note:3}",
+                "text": "1.3-14 Ef 1.15-23"
             }
         ]
     }

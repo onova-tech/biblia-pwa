@@ -5,7 +5,7 @@
         "new_testament": true,
         "num_chapters": 28,
         "book_name": "ATOS DOS APÓSTOLOS",
-        "book_full_name": "ATOS DOS APÓSTOLOS"
+        "book_full_name": "O LIVRO DE ATOS DOS APÓSTOLOS"
     },
     "chapter": {
         "chapter_number": 28,
@@ -177,16 +177,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:j} 28.11 ou os gêmeos"
+                "id": "{note:j}",
+                "text": "28.11 ou os gêmeos"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 28.19 At 25.11"
+                "id": "{note:1}",
+                "text": "28.19 At 25.11"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 28.26-27 Is 6.9-10"
+                "id": "{note:2}",
+                "text": "28.26-27 Is 6.9-10"
             }
         ]
     }

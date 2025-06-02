@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 7,
         "book_name": "MIQUEIAS",
-        "book_full_name": "MIQUEIAS"
+        "book_full_name": "O LIVRO DE MIQUEIAS"
     },
     "chapter": {
         "chapter_number": 4,
@@ -81,24 +81,24 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 4.3 Jl 3.10"
+                "id": "{note:1}",
+                "text": "4.3 Jl 3.10"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 4.4 Zc 3.10"
+                "id": "{note:2}",
+                "text": "4.4 Zc 3.10"
             },
             {
-                "id": "n3",
-                "text": "{note:b} 4.8 Heb. de Éder"
+                "id": "{note:b}",
+                "text": "4.8 Heb. de Éder"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 4.10 Ap 12.2"
+                "id": "{note:3}",
+                "text": "4.10 Ap 12.2"
             },
             {
-                "id": "n5",
-                "text": "{note:c} 4.13 Heb. o teu chifre"
+                "id": "{note:c}",
+                "text": "4.13 Heb. o teu chifre"
             }
         ]
     }

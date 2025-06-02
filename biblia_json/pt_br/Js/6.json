@@ -151,28 +151,28 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:f} 6.17 ou consagrada (vide Lv 27.28; Dt 20.17)"
+                "id": "{note:f}",
+                "text": "6.17 ou consagrada (vide Lv 27.28; Dt 20.17)"
             },
             {
-                "id": "n2",
-                "text": "{note:g} 6.18 ou anátema"
+                "id": "{note:g}",
+                "text": "6.18 ou anátema"
             },
             {
-                "id": "n3",
-                "text": "{note:1} 6.20 Hb 11.30"
+                "id": "{note:1}",
+                "text": "6.20 Hb 11.30"
             },
             {
-                "id": "n4",
-                "text": "{note:h} 6.21 ou anatematizaram"
+                "id": "{note:h}",
+                "text": "6.21 ou anatematizaram"
             },
             {
-                "id": "n5",
-                "text": "{note:2} 6.25 Hb 11.31"
+                "id": "{note:2}",
+                "text": "6.25 Hb 11.31"
             },
             {
-                "id": "n6",
-                "text": "{note:3} 6.26 1Rs 16.34"
+                "id": "{note:3}",
+                "text": "6.26 1Rs 16.34"
             }
         ]
     }

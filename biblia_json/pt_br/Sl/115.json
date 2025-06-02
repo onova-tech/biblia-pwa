@@ -106,16 +106,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 115.4-8 Sl 135.15-18; Ap 9.20"
+                "id": "{note:1}",
+                "text": "115.4-8 Sl 135.15-18; Ap 9.20"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 115.13 Ap 11.18; 19.5"
+                "id": "{note:2}",
+                "text": "115.13 Ap 11.18; 19.5"
             },
             {
-                "id": "n3",
-                "text": "{note:c} 115.18 Heb. Aleluia"
+                "id": "{note:c}",
+                "text": "115.18 Heb. Aleluia"
             }
         ]
     }

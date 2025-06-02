@@ -71,20 +71,20 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:z} 42.1 ou anela"
+                "id": "{note:z}",
+                "text": "42.1 ou anela"
             },
             {
-                "id": "n2",
-                "text": "{note:a} 42.6 Heb. monte Mizar"
+                "id": "{note:a}",
+                "text": "42.6 Heb. monte Mizar"
             },
             {
-                "id": "n3",
-                "text": "{note:b} 42.10 Heb. com espada ou esmagamento"
+                "id": "{note:b}",
+                "text": "42.10 Heb. com espada ou esmagamento"
             },
             {
-                "id": "n4",
-                "text": "{note:c} 42.11 ou a saúde"
+                "id": "{note:c}",
+                "text": "42.11 ou a saúde"
             }
         ]
     }

@@ -177,8 +177,8 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:n} 16.5 ou peças"
+                "id": "{note:n}",
+                "text": "16.5 ou peças"
             }
         ]
     }

@@ -4,7 +4,7 @@
         "book_number": 11,
         "new_testament": false,
         "num_chapters": 22,
-        "book_name": "REIS",
+        "book_name": "1º REIS",
         "book_full_name": "O PRIMEIRO LIVRO DOS REIS"
     },
     "chapter": {
@@ -177,16 +177,24 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 14.10 1Rs 15.29 {note:d} 14.10 Heb. o que urina à parede"
+                "id": "{note:1}",
+                "text": "14.10 1Rs 15.29"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 14.23 2Rs 17.9-10 {note:e} 14.23 ou pilares ou obeliscos"
+                "id": "{note:2}",
+                "text": "14.23 2Rs 17.9-10"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 14.26 1Rs 10.16-17; 2Cr 9.15-16"
+                "id": "{note:3}",
+                "text": "14.26 1Rs 10.16-17; 2Cr 9.15-16"
+            },
+            {
+                "id": "{note:d}",
+                "text": "14.10 Heb. o que urina à parede"
+            },
+            {
+                "id": "{note:e}",
+                "text": "14.23 ou pilares ou obeliscos"
             }
         ]
     }

@@ -151,24 +151,28 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 16.3 At 18.2"
+                "id": "{note:1}",
+                "text": "16.3 At 18.2"
             },
             {
-                "id": "n2",
-                "text": "{note:d} 16.4 Gr. o seu pescoço"
+                "id": "{note:d}",
+                "text": "16.4 Gr. o seu pescoço"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 16.13 Mc 15.21"
+                "id": "{note:2}",
+                "text": "16.13 Mc 15.21"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 16.21 At 16.1"
+                "id": "{note:3}",
+                "text": "16.21 At 16.1"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 16.23 At 19.29; 1Co 1.14 {note:5} 16.23 2Tm 4.20"
+                "id": "{note:4}",
+                "text": "16.23 At 19.29; 1Co 1.14"
+            },
+            {
+                "id": "{note:5}",
+                "text": "16.23 2Tm 4.20"
             }
         ]
     }

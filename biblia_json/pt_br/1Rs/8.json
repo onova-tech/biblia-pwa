@@ -4,7 +4,7 @@
         "book_number": 11,
         "new_testament": false,
         "num_chapters": 22,
-        "book_name": "REIS",
+        "book_name": "1º REIS",
         "book_full_name": "O PRIMEIRO LIVRO DOS REIS"
     },
     "chapter": {
@@ -362,40 +362,40 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 8.1 2Sm 6.12-15; 1Cr 15.25-28"
+                "id": "{note:1}",
+                "text": "8.1 2Sm 6.12-15; 1Cr 15.25-28"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 8.9 Dt 10.5"
+                "id": "{note:2}",
+                "text": "8.9 Dt 10.5"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 8.10-11 Êx 40.34-35"
+                "id": "{note:3}",
+                "text": "8.10-11 Êx 40.34-35"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 8.16 2Sm 7.4-11; 1Cr 17.3-10"
+                "id": "{note:4}",
+                "text": "8.16 2Sm 7.4-11; 1Cr 17.3-10"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 8.17-18 2Sm 7.1-3; 1Cr 17.1-2"
+                "id": "{note:5}",
+                "text": "8.17-18 2Sm 7.1-3; 1Cr 17.1-2"
             },
             {
-                "id": "n6",
-                "text": "{note:6} 8.19 2Sm 7.12-13; 1Cr 17.11-12"
+                "id": "{note:6}",
+                "text": "8.19 2Sm 7.12-13; 1Cr 17.11-12"
             },
             {
-                "id": "n7",
-                "text": "{note:7} 8.25 1Rs 2.4"
+                "id": "{note:7}",
+                "text": "8.25 1Rs 2.4"
             },
             {
-                "id": "n8",
-                "text": "{note:8} 8.29 Dt 12.11"
+                "id": "{note:8}",
+                "text": "8.29 Dt 12.11"
             },
             {
-                "id": "n9",
-                "text": "{note:9} 8.56 Dt 12.10; Js 21.44-45"
+                "id": "{note:9}",
+                "text": "8.56 Dt 12.10; Js 21.44-45"
             }
         ]
     }

@@ -111,12 +111,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 51, título 2Sm 12.1-15"
+                "id": "{note:1}",
+                "text": "51, título 2Sm 12.1-15"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 51.4 Rm 3.4"
+                "id": "{note:2}",
+                "text": "51.4 Rm 3.4"
             }
         ]
     }

@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 14,
         "book_name": "ZACARIAS",
-        "book_full_name": "ZACARIAS"
+        "book_full_name": "O LIVRO DE ZACARIAS"
     },
     "chapter": {
         "chapter_number": 7,
@@ -86,8 +86,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:d} 7.7 ou próspera"
+                "id": "{note:d}",
+                "text": "7.7 ou próspera"
             }
         ]
     }

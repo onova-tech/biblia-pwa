@@ -141,8 +141,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 13.5 Nm 6.1-5"
+                "id": "{note:1}",
+                "text": "13.5 Nm 6.1-5"
             }
         ]
     }

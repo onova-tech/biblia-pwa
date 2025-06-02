@@ -41,8 +41,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:r} 127, título ou Cântico gradual"
+                "id": "{note:r}",
+                "text": "127, título ou Cântico gradual"
             }
         ]
     }

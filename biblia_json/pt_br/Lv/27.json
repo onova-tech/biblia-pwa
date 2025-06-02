@@ -197,16 +197,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:s} 27.23 ou coisa santa"
+                "id": "{note:s}",
+                "text": "27.23 ou coisa santa"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 27.28 Nm 18.14"
+                "id": "{note:1}",
+                "text": "27.28 Nm 18.14"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 27.30-33 Nm 18.21; Dt 14.22-29"
+                "id": "{note:2}",
+                "text": "27.30-33 Nm 18.21; Dt 14.22-29"
             }
         ]
     }

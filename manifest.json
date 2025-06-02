@@ -1,0 +1,37 @@
+{
+    "short_name": "Bíblia",
+    "name": "Bíblia CCB",
+    "icons": [
+      {
+        "src": "/biblia-pwa/fav/bible.128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "/biblia-pwa/fav/bible.512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "screenshots": [
+        {
+          "src": "/biblia-pwa/images/screenshot-wide.png",
+          "sizes": "1919x958",
+          "type": "image/png",
+          "form_factor": "wide",
+          "label": "Bíblia CCB"
+        },
+        {
+          "src": "/biblia-pwa/images/screenshot-narrow.png",
+          "sizes": "359x741",
+          "type": "image/png",
+          "form_factor": "narrow",
+          "label": "Bíblia CCB"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
+  

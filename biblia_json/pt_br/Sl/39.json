@@ -81,8 +81,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:x} 39.11 Heb. um assopro"
+                "id": "{note:x}",
+                "text": "39.11 Heb. um assopro"
             }
         ]
     }

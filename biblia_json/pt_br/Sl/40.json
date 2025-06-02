@@ -101,12 +101,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:y} 40.2 ou de uma cova de destruição"
+                "id": "{note:y}",
+                "text": "40.2 ou de uma cova de destruição"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 40.6-8 Hb 10.5-7"
+                "id": "{note:1}",
+                "text": "40.6-8 Hb 10.5-7"
             }
         ]
     }

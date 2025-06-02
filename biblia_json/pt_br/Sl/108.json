@@ -81,12 +81,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:u} 108.8 ou Gileade"
+                "id": "{note:u}",
+                "text": "108.8 ou Gileade"
             },
             {
-                "id": "n2",
-                "text": "{note:v} 108.12 ou contra os nossos inimigos"
+                "id": "{note:v}",
+                "text": "108.12 ou contra os nossos inimigos"
             }
         ]
     }

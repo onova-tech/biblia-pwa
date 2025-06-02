@@ -147,28 +147,28 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 1.11 2Rs 24.14-15; 2Cr 36.10; Jr 27.20"
+                "id": "{note:1}",
+                "text": "1.11 2Rs 24.14-15; 2Cr 36.10; Jr 27.20"
             },
             {
-                "id": "n2",
-                "text": "{note:a} 1.18, título Quase cinco anos antes do ano Domini"
+                "id": "{note:a}",
+                "text": "1.18, título Quase cinco anos antes do ano Domini"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 1.18 Lc 1.27"
+                "id": "{note:2}",
+                "text": "1.18 Lc 1.27"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 1.21 Lc 1.31"
+                "id": "{note:3}",
+                "text": "1.21 Lc 1.31"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 1.23 Is 7.14"
+                "id": "{note:4}",
+                "text": "1.23 Is 7.14"
             },
             {
-                "id": "n6",
-                "text": "{note:5} 1.25 Lc 2.21"
+                "id": "{note:5}",
+                "text": "1.25 Lc 2.21"
             }
         ]
     }

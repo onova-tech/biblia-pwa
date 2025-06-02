@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 14,
         "book_name": "OSEIAS",
-        "book_full_name": "OSEIAS"
+        "book_full_name": "O LIVRO DE OSEIAS"
     },
     "chapter": {
         "chapter_number": 3,
@@ -41,8 +41,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:a} 3.4 que significa ídolos do lar"
+                "id": "{note:a}",
+                "text": "3.4 que significa ídolos do lar"
             }
         ]
     }

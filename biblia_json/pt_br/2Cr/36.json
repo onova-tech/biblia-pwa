@@ -4,7 +4,7 @@
         "book_number": 14,
         "new_testament": false,
         "num_chapters": 36,
-        "book_name": "CRÔNICAS",
+        "book_name": "2º CRÔNICAS",
         "book_full_name": "O SEGUNDO LIVRO DAS CRÔNICAS"
     },
     "chapter": {
@@ -142,48 +142,52 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 36.4 Jr 22.11-12"
+                "id": "{note:1}",
+                "text": "36.4 Jr 22.11-12"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 36.5 Jr 22.18-19; 26.1-6; 35.1-19"
+                "id": "{note:2}",
+                "text": "36.5 Jr 22.18-19; 26.1-6; 35.1-19"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 36.6 Jr 25.1-38; 36.1-32; 45.1-5; Dn 1.1-2"
+                "id": "{note:3}",
+                "text": "36.6 Jr 25.1-38; 36.1-32; 45.1-5; Dn 1.1-2"
             },
             {
-                "id": "n4",
-                "text": "{note:a} 36.7 ou palácio"
+                "id": "{note:a}",
+                "text": "36.7 ou palácio"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 36.10 Jr 22.24-30; 24.1-10; 29.1-2; Ez 17.12 {note:5} 36.10 Jr 37.1; Ez 17.13"
+                "id": "{note:4}",
+                "text": "36.10 Jr 22.24-30; 24.1-10; 29.1-2; Ez 17.12"
             },
             {
-                "id": "n6",
-                "text": "{note:6} 36.11 Jr 27.1-22; 28.1-17"
+                "id": "{note:6}",
+                "text": "36.11 Jr 27.1-22; 28.1-17"
             },
             {
-                "id": "n7",
-                "text": "{note:7} 36.13 Ez 17.15"
+                "id": "{note:7}",
+                "text": "36.13 Ez 17.15"
             },
             {
-                "id": "n8",
-                "text": "{note:8} 36.17 Jr 21.1-10; 34.1-5"
+                "id": "{note:8}",
+                "text": "36.17 Jr 21.1-10; 34.1-5"
             },
             {
-                "id": "n9",
-                "text": "{note:9} 36.19 1Rs 9.8"
+                "id": "{note:9}",
+                "text": "36.19 1Rs 9.8"
             },
             {
-                "id": "n10",
-                "text": "{note:10} 36.21 Jr 25.11; 29.10"
+                "id": "{note:10}",
+                "text": "36.21 Jr 25.11; 29.10"
             },
             {
-                "id": "n11",
-                "text": "{note:11} 36.23 Is 44.28"
+                "id": "{note:11}",
+                "text": "36.23 Is 44.28"
+            },
+            {
+                "id": "{note:5}",
+                "text": "36.10 Jr 37.1; Ez 17.13"
             }
         ]
     }

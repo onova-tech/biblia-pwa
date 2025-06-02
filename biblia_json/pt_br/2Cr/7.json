@@ -4,7 +4,7 @@
         "book_number": 14,
         "new_testament": false,
         "num_chapters": 36,
-        "book_name": "CRÔNICAS",
+        "book_name": "2º CRÔNICAS",
         "book_full_name": "O SEGUNDO LIVRO DAS CRÔNICAS"
     },
     "chapter": {
@@ -132,16 +132,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 7.1 Lv 9.23-24"
+                "id": "{note:1}",
+                "text": "7.1 Lv 9.23-24"
             },
             {
-                "id": "n2",
-                "text": "{note:m} 7.9 ou o termo da festa"
+                "id": "{note:m}",
+                "text": "7.9 ou o termo da festa"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 7.18 1Rs 2.4"
+                "id": "{note:2}",
+                "text": "7.18 1Rs 2.4"
             }
         ]
     }

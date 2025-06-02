@@ -141,8 +141,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:i} 29.4 ou a amizade"
+                "id": "{note:i}",
+                "text": "29.4 ou a amizade"
             }
         ]
     }

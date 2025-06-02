@@ -101,12 +101,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:l} 90.1 ou a nossa morada"
+                "id": "{note:l}",
+                "text": "90.1 ou a nossa morada"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 90.4 2Pe 3.8"
+                "id": "{note:1}",
+                "text": "90.4 2Pe 3.8"
             }
         ]
     }

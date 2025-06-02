@@ -252,8 +252,12 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:l} 10.13 Heb. Jasher {note:1} 10.13 2Sm 1.18"
+                "id": "{note:l}",
+                "text": "10.13 Heb. Jasher"
+            },
+            {
+                "id": "{note:1}",
+                "text": "10.13 2Sm 1.18"
             }
         ]
     }

@@ -101,40 +101,48 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 6.2 Zc 1.8; 6.3"
+                "id": "{note:1}",
+                "text": "6.2 Zc 1.8; 6.3"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 6.4 Zc 1.8; 6.2"
+                "id": "{note:2}",
+                "text": "6.4 Zc 1.8; 6.2"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 6.5 Zc 6.2-6"
+                "id": "{note:3}",
+                "text": "6.5 Zc 6.2-6"
             },
             {
-                "id": "n4",
-                "text": "{note:h} 6.8 Gr. Hades {note:4} 6.8 Jr 15.3; Ez 5.12,17; 14.21"
+                "id": "{note:h}",
+                "text": "6.8 Gr. Hades"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 6.12 Is 13.10; Ez 32.7; Jl 2.31; Mt 24.29; Mc 13.24-25; Lc 21.25"
+                "id": "{note:5}",
+                "text": "6.12 Is 13.10; Ez 32.7; Jl 2.31; Mt 24.29; Mc 13.24-25; Lc 21.25"
             },
             {
-                "id": "n6",
-                "text": "{note:i} 6.14 ou rolo {note:6} 6.13-14 Is 34.4"
+                "id": "{note:i}",
+                "text": "6.14 ou rolo"
             },
             {
-                "id": "n7",
-                "text": "{note:7} 6.15 Is 2.10"
+                "id": "{note:7}",
+                "text": "6.15 Is 2.10"
             },
             {
-                "id": "n8",
-                "text": "{note:8} 6.16 Os 10.8"
+                "id": "{note:8}",
+                "text": "6.16 Os 10.8"
             },
             {
-                "id": "n9",
-                "text": "{note:9} 6.17 Jl 2.11; Ml 3.2"
+                "id": "{note:9}",
+                "text": "6.17 Jl 2.11; Ml 3.2"
+            },
+            {
+                "id": "{note:4}",
+                "text": "6.8 Jr 15.3; Ez 5.12,17; 14.21"
+            },
+            {
+                "id": "{note:6}",
+                "text": "6.13-14 Is 34.4"
             }
         ]
     }

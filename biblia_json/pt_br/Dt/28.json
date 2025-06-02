@@ -362,8 +362,8 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:k} 28.4 ou as crias das tuas ovelhas"
+                "id": "{note:k}",
+                "text": "28.4 ou as crias das tuas ovelhas"
             }
         ]
     }

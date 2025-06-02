@@ -212,24 +212,24 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:q} 29.17 ou enfermos"
+                "id": "{note:q}",
+                "text": "29.17 ou enfermos"
             },
             {
-                "id": "n2",
-                "text": "{note:r} 29.32 que significa Eis um filho"
+                "id": "{note:r}",
+                "text": "29.32 que significa Eis um filho"
             },
             {
-                "id": "n3",
-                "text": "{note:s} 29.33 que significa ouvindo"
+                "id": "{note:s}",
+                "text": "29.33 que significa ouvindo"
             },
             {
-                "id": "n4",
-                "text": "{note:t} 29.34 que significa junto"
+                "id": "{note:t}",
+                "text": "29.34 que significa junto"
             },
             {
-                "id": "n5",
-                "text": "{note:u} 29.35 que significa louvor"
+                "id": "{note:u}",
+                "text": "29.35 que significa louvor"
             }
         ]
     }

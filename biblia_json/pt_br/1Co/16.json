@@ -4,7 +4,7 @@
         "book_number": 46,
         "new_testament": true,
         "num_chapters": 16,
-        "book_name": "CORÍNTIOS",
+        "book_name": "1º CORÍNTIOS",
         "book_full_name": "PRIMEIRA EPÍSTOLA DO APÓSTOLO PAULO AOS CORÍNTIOS"
     },
     "chapter": {
@@ -142,36 +142,36 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 16.1-4 Rm 15.25-26"
+                "id": "{note:1}",
+                "text": "16.1-4 Rm 15.25-26"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 16.5 At 19.21"
+                "id": "{note:2}",
+                "text": "16.5 At 19.21"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 16.8 Lv 23.15-21; Dt 16.9-11"
+                "id": "{note:3}",
+                "text": "16.8 Lv 23.15-21; Dt 16.9-11"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 16.8-9 At 19.8-10"
+                "id": "{note:4}",
+                "text": "16.8-9 At 19.8-10"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 16.10 1Co 4.17"
+                "id": "{note:5}",
+                "text": "16.10 1Co 4.17"
             },
             {
-                "id": "n6",
-                "text": "{note:6} 16.15 1Co 1.16"
+                "id": "{note:6}",
+                "text": "16.15 1Co 1.16"
             },
             {
-                "id": "n7",
-                "text": "{note:7} 16.19 At 18.2"
+                "id": "{note:7}",
+                "text": "16.19 At 18.2"
             },
             {
-                "id": "n8",
-                "text": "{note:d} 16.22 que é o Senhor vem"
+                "id": "{note:d}",
+                "text": "16.22 que é o Senhor vem"
             }
         ]
     }

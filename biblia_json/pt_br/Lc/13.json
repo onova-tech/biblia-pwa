@@ -217,24 +217,24 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:k} 13.4 ou devedores"
+                "id": "{note:k}",
+                "text": "13.4 ou devedores"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 13.14 Êx 20.9-10; Dt 5.13-14"
+                "id": "{note:1}",
+                "text": "13.14 Êx 20.9-10; Dt 5.13-14"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 13.27 Sl 6.8"
+                "id": "{note:2}",
+                "text": "13.27 Sl 6.8"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 13.30 Mt 19.30; 20.16; Mc 10.31"
+                "id": "{note:3}",
+                "text": "13.30 Mt 19.30; 20.16; Mc 10.31"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 13.35 Sl 118.26"
+                "id": "{note:4}",
+                "text": "13.35 Sl 118.26"
             }
         ]
     }

@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 48,
         "book_name": "EZEQUIEL",
-        "book_full_name": "EZEQUIEL"
+        "book_full_name": "O LIVRO DE EZEQUIEL"
     },
     "chapter": {
         "chapter_number": 28,
@@ -157,20 +157,20 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:a} 28.2 ou consideras"
+                "id": "{note:a}",
+                "text": "28.2 ou consideras"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 26.1—28.19 Is 23.1-18; Jl 3.4-8; Am 1.9-10; Zc 9.3-4; Mt 11.21-22; Lc 10.13-14"
+                "id": "{note:1}",
+                "text": "26.1—28.19 Is 23.1-18; Jl 3.4-8; Am 1.9-10; Zc 9.3-4; Mt 11.21-22; Lc 10.13-14"
             },
             {
-                "id": "n3",
-                "text": "{note:b} 28.24 ou desprezam"
+                "id": "{note:b}",
+                "text": "28.24 ou desprezam"
             },
             {
-                "id": "n4",
-                "text": "{note:2} 28.20-26 Jl 3.4-8; Zc 9.2; Mt 11.21-22; Lc 10.13-14"
+                "id": "{note:2}",
+                "text": "28.20-26 Jl 3.4-8; Zc 9.2; Mt 11.21-22; Lc 10.13-14"
             }
         ]
     }

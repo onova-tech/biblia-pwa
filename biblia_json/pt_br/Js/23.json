@@ -96,8 +96,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 23.10 Dt 32.30 {note:2} 23.10 Dt 3.22"
+                "id": "{note:1}",
+                "text": "23.10 Dt 32.30"
+            },
+            {
+                "id": "{note:2}",
+                "text": "23.10 Dt 3.22"
             }
         ]
     }

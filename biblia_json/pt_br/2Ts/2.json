@@ -4,7 +4,7 @@
         "book_number": 53,
         "new_testament": true,
         "num_chapters": 3,
-        "book_name": "TESSALONICENSES",
+        "book_name": "2º TESSALONICENSES",
         "book_full_name": "SEGUNDA EPÍSTOLA DO APÓSTOLO PAULO AOS TESSALONICENSES"
     },
     "chapter": {
@@ -101,20 +101,20 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 2.1 1Ts 4.15-17"
+                "id": "{note:1}",
+                "text": "2.1 1Ts 4.15-17"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 2.3-4 Dn 11.36"
+                "id": "{note:2}",
+                "text": "2.3-4 Dn 11.36"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 2.8 Is 11.4"
+                "id": "{note:3}",
+                "text": "2.8 Is 11.4"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 2.9-10 Mt 24.24"
+                "id": "{note:4}",
+                "text": "2.9-10 Mt 24.24"
             }
         ]
     }

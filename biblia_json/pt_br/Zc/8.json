@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 14,
         "book_name": "ZACARIAS",
-        "book_full_name": "ZACARIAS"
+        "book_full_name": "O LIVRO DE ZACARIAS"
     },
     "chapter": {
         "chapter_number": 8,
@@ -131,12 +131,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 8.16 Ef 4.25"
+                "id": "{note:1}",
+                "text": "8.16 Ef 4.25"
             },
             {
-                "id": "n2",
-                "text": "{note:e} 8.19 ou festas alegres"
+                "id": "{note:e}",
+                "text": "8.19 ou festas alegres"
             }
         ]
     }

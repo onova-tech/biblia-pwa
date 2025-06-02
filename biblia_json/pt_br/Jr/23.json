@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 52,
         "book_name": "JEREMIAS",
-        "book_full_name": "JEREMIAS"
+        "book_full_name": "O LIVRO DE JEREMIAS"
     },
     "chapter": {
         "chapter_number": 23,
@@ -222,16 +222,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 23.5-6 Jr 33.14-16"
+                "id": "{note:1}",
+                "text": "23.5-6 Jr 33.14-16"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 23.14 Gn 18.20"
+                "id": "{note:2}",
+                "text": "23.14 Gn 18.20"
             },
             {
-                "id": "n3",
-                "text": "{note:u} 23.33 ou a sentença"
+                "id": "{note:u}",
+                "text": "23.33 ou a sentença"
             }
         ]
     }

@@ -4,7 +4,7 @@
         "book_number": 63,
         "new_testament": true,
         "num_chapters": 1,
-        "book_name": "JOÃO",
+        "book_name": "2º JOÃO",
         "book_full_name": "SEGUNDA EPÍSTOLA UNIVERSAL DO APÓSTOLO JOÃO"
     },
     "chapter": {
@@ -87,16 +87,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:a} 3 ou amor"
+                "id": "{note:a}",
+                "text": "3 ou amor"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 5 Jo 13.34; 15.12,17"
+                "id": "{note:1}",
+                "text": "5 Jo 13.34; 15.12,17"
             },
             {
-                "id": "n3",
-                "text": "{note:b} 6 ou o amor"
+                "id": "{note:b}",
+                "text": "6 ou o amor"
             }
         ]
     }

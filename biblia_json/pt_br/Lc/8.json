@@ -327,24 +327,24 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 8.10 Is 6.9-10"
+                "id": "{note:1}",
+                "text": "8.10 Is 6.9-10"
             },
             {
-                "id": "n2",
-                "text": "{note:h} 8.15 Gr. com paciência"
+                "id": "{note:h}",
+                "text": "8.15 Gr. com paciência"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 8.16 Mt 5.15; Lc 11.33"
+                "id": "{note:2}",
+                "text": "8.16 Mt 5.15; Lc 11.33"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 8.17 Mt 10.26; Lc 12.2"
+                "id": "{note:3}",
+                "text": "8.17 Mt 10.26; Lc 12.2"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 8.18 Mt 25.29; Lc 19.26"
+                "id": "{note:4}",
+                "text": "8.18 Mt 25.29; Lc 19.26"
             }
         ]
     }

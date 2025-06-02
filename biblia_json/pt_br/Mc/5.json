@@ -237,8 +237,8 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:e} 5.29 ou flagelo"
+                "id": "{note:e}",
+                "text": "5.29 ou flagelo"
             }
         ]
     }

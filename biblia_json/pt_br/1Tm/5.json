@@ -4,7 +4,7 @@
         "book_number": 54,
         "new_testament": true,
         "num_chapters": 6,
-        "book_name": "TIMÓTEO",
+        "book_name": "1º TIMÓTEO",
         "book_full_name": "PRIMEIRA EPÍSTOLA DO APÓSTOLO PAULO A TIMÓTEO"
     },
     "chapter": {
@@ -147,16 +147,20 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:e} 5.6 ou em delícias"
+                "id": "{note:e}",
+                "text": "5.6 ou em delícias"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 5.18 Dt 25.4 {note:2} 5.18 Mt 10.10; Lc 10.7"
+                "id": "{note:1}",
+                "text": "5.18 Dt 25.4"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 5.19 Dt 17.6; 19.15"
+                "id": "{note:3}",
+                "text": "5.19 Dt 17.6; 19.15"
+            },
+            {
+                "id": "{note:2}",
+                "text": "5.18 Mt 10.10; Lc 10.7"
             }
         ]
     }

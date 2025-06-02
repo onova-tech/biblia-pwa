@@ -312,40 +312,40 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:r} 23.2 ou um rei ungido"
+                "id": "{note:r}",
+                "text": "23.2 ou um rei ungido"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 23.30 Os 10.8; Ap 6.16"
+                "id": "{note:1}",
+                "text": "23.30 Os 10.8; Ap 6.16"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 23.34 Sl 22.18"
+                "id": "{note:2}",
+                "text": "23.34 Sl 22.18"
             },
             {
-                "id": "n4",
-                "text": "{note:s} 23.35 ou magistrados"
+                "id": "{note:s}",
+                "text": "23.35 ou magistrados"
             },
             {
-                "id": "n5",
-                "text": "{note:3} 23.45 Êx 26.31-33"
+                "id": "{note:3}",
+                "text": "23.45 Êx 26.31-33"
             },
             {
-                "id": "n6",
-                "text": "{note:4} 23.46 Sl 31.5"
+                "id": "{note:4}",
+                "text": "23.46 Sl 31.5"
             },
             {
-                "id": "n7",
-                "text": "{note:5} 23.49 Lc 8.2-3"
+                "id": "{note:5}",
+                "text": "23.49 Lc 8.2-3"
             },
             {
-                "id": "n8",
-                "text": "{note:t} 23.53 ou rocha"
+                "id": "{note:t}",
+                "text": "23.53 ou rocha"
             },
             {
-                "id": "n9",
-                "text": "{note:6} 23.56 Êx 20.10; Dt 5.14"
+                "id": "{note:6}",
+                "text": "23.56 Êx 20.10; Dt 5.14"
             }
         ]
     }

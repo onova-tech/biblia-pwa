@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 48,
         "book_name": "EZEQUIEL",
-        "book_full_name": "EZEQUIEL"
+        "book_full_name": "O LIVRO DE EZEQUIEL"
     },
     "chapter": {
         "chapter_number": 17,
@@ -136,12 +136,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:r} 17.4 ou Canaã"
+                "id": "{note:r}",
+                "text": "17.4 ou Canaã"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 17.12-15 2Rs 24.15-20; 2Cr 36.10-13"
+                "id": "{note:1}",
+                "text": "17.12-15 2Rs 24.15-20; 2Cr 36.10-13"
             }
         ]
     }

@@ -137,16 +137,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 2.2 Êx 34.12-13; Dt 7.2-5"
+                "id": "{note:1}",
+                "text": "2.2 Êx 34.12-13; Dt 7.2-5"
             },
             {
-                "id": "n2",
-                "text": "{note:c} 2.5 que significa choradores"
+                "id": "{note:c}",
+                "text": "2.5 que significa choradores"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 2.9 Js 19.49-50"
+                "id": "{note:2}",
+                "text": "2.9 Js 19.49-50"
             }
         ]
     }

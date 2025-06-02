@@ -166,16 +166,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:c} 2.7 ou despojou-se"
+                "id": "{note:c}",
+                "text": "2.7 ou despojou-se"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 2.10-11 Is 45.23"
+                "id": "{note:1}",
+                "text": "2.10-11 Is 45.23"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 2.15 Dt 32.5"
+                "id": "{note:2}",
+                "text": "2.15 Dt 32.5"
             }
         ]
     }

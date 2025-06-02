@@ -142,8 +142,8 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:g} 5.2 Heb. JEOVÁ"
+                "id": "{note:g}",
+                "text": "5.2 Heb. JEOVÁ"
             }
         ]
     }

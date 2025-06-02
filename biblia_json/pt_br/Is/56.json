@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 66,
         "book_name": "ISAÍAS",
-        "book_full_name": "ISAÍAS"
+        "book_full_name": "O LIVRO DE ISAÍAS"
     },
     "chapter": {
         "chapter_number": 56,
@@ -82,8 +82,8 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 56.7 Mt 21.13; Mc 11.17; Lc 19.46"
+                "id": "{note:1}",
+                "text": "56.7 Mt 21.13; Mc 11.17; Lc 19.46"
             }
         ]
     }

@@ -4,7 +4,7 @@
         "book_number": 60,
         "new_testament": true,
         "num_chapters": 5,
-        "book_name": "PEDRO",
+        "book_name": "1º PEDRO",
         "book_full_name": "PRIMEIRA EPÍSTOLA UNIVERSAL DO APÓSTOLO PEDRO"
     },
     "chapter": {
@@ -152,20 +152,20 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:a} 1.11 ou as paixões"
+                "id": "{note:a}",
+                "text": "1.11 ou as paixões"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 1.16 Lv 11.44-45; 19.2"
+                "id": "{note:1}",
+                "text": "1.16 Lv 11.44-45; 19.2"
             },
             {
-                "id": "n3",
-                "text": "{note:b} 1.22 ou amor"
+                "id": "{note:b}",
+                "text": "1.22 ou amor"
             },
             {
-                "id": "n4",
-                "text": "{note:2} 1.24-25 Is 40.6-9"
+                "id": "{note:2}",
+                "text": "1.24-25 Is 40.6-9"
             }
         ]
     }

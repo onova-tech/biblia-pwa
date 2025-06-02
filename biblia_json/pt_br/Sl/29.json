@@ -71,8 +71,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:n} 29.2 ou no santo adorno, ou no glorioso santuário {note:1} 29.1-2 Sl 96.7-9"
+                "id": "{note:n}",
+                "text": "29.2 ou no santo adorno, ou no glorioso santuário"
+            },
+            {
+                "id": "{note:1}",
+                "text": "29.1-2 Sl 96.7-9"
             }
         ]
     }

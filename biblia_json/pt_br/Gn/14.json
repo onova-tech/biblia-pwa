@@ -147,12 +147,12 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:f} 14.1 que significa nações"
+                "id": "{note:f}",
+                "text": "14.1 que significa nações"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 14.18 Hb 7.1-10"
+                "id": "{note:1}",
+                "text": "14.18 Hb 7.1-10"
             }
         ]
     }

@@ -142,12 +142,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 12.1 Nm 21.21-35; Dt 2.26—3.11 {note:m} 12.1 ou vale"
+                "id": "{note:1}",
+                "text": "12.1 Nm 21.21-35; Dt 2.26—3.11"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 12.6 Nm 32.33; Dt 3.12"
+                "id": "{note:2}",
+                "text": "12.6 Nm 32.33; Dt 3.12"
+            },
+            {
+                "id": "{note:m}",
+                "text": "12.1 ou vale"
             }
         ]
     }

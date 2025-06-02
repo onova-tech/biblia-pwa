@@ -4,7 +4,7 @@
         "book_number": 54,
         "new_testament": true,
         "num_chapters": 6,
-        "book_name": "TIMÓTEO",
+        "book_name": "1º TIMÓTEO",
         "book_full_name": "PRIMEIRA EPÍSTOLA DO APÓSTOLO PAULO A TIMÓTEO"
     },
     "chapter": {
@@ -127,16 +127,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:f} 6.11 ou o amor"
+                "id": "{note:f}",
+                "text": "6.11 ou o amor"
             },
             {
-                "id": "n2",
-                "text": "{note:g} 6.12 Gr. e já confessaste a boa confissão"
+                "id": "{note:g}",
+                "text": "6.12 Gr. e já confessaste a boa confissão"
             },
             {
-                "id": "n3",
-                "text": "{note:1} 6.13 Jo 18.37"
+                "id": "{note:1}",
+                "text": "6.13 Jo 18.37"
             }
         ]
     }

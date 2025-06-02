@@ -182,8 +182,8 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:e} 11.9 que significa confusão"
+                "id": "{note:e}",
+                "text": "11.9 que significa confusão"
             }
         ]
     }

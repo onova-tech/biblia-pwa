@@ -5,7 +5,7 @@
         "new_testament": true,
         "num_chapters": 28,
         "book_name": "ATOS DOS APÓSTOLOS",
-        "book_full_name": "ATOS DOS APÓSTOLOS"
+        "book_full_name": "O LIVRO DE ATOS DOS APÓSTOLOS"
     },
     "chapter": {
         "chapter_number": 5,
@@ -226,12 +226,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:c} 5.22 Gr. meirinhos"
+                "id": "{note:c}",
+                "text": "5.22 Gr. meirinhos"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 5.28 Mt 27.25"
+                "id": "{note:1}",
+                "text": "5.28 Mt 27.25"
             }
         ]
     }

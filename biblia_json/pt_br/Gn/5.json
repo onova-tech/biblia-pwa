@@ -176,16 +176,20 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 5.2 Mt 19.4; Mc 10.6 {note:2} 5.1-2 Gn 1.27"
+                "id": "{note:1}",
+                "text": "5.2 Mt 19.4; Mc 10.6"
             },
             {
-                "id": "n2",
-                "text": "{note:3} 5.24 Hb 11.5; Jud 14"
+                "id": "{note:3}",
+                "text": "5.24 Hb 11.5; Jud 14"
             },
             {
-                "id": "n3",
-                "text": "{note:w} 5.29 Heb. Noah, que significa repouso"
+                "id": "{note:w}",
+                "text": "5.29 Heb. Noah, que significa repouso"
+            },
+            {
+                "id": "{note:2}",
+                "text": "5.1-2 Gn 1.27"
             }
         ]
     }

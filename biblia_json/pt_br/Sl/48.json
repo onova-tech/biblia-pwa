@@ -86,8 +86,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:l} 48.2 Heb. elevação {note:1} 48.2 Mt 5.35"
+                "id": "{note:l}",
+                "text": "48.2 Heb. elevação"
+            },
+            {
+                "id": "{note:1}",
+                "text": "48.2 Mt 5.35"
             }
         ]
     }

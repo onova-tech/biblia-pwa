@@ -96,32 +96,32 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:c} 4.2 ou foi pregado o evangelho"
+                "id": "{note:c}",
+                "text": "4.2 ou foi pregado o evangelho"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 4.3 Sl 95.11"
+                "id": "{note:1}",
+                "text": "4.3 Sl 95.11"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 4.4 Gn 2.2"
+                "id": "{note:2}",
+                "text": "4.4 Gn 2.2"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 4.5 Sl 95.11"
+                "id": "{note:3}",
+                "text": "4.5 Sl 95.11"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 4.7 Sl 95.7-8"
+                "id": "{note:4}",
+                "text": "4.7 Sl 95.7-8"
             },
             {
-                "id": "n6",
-                "text": "{note:5} 4.8 Dt 31.7; Js 22.4"
+                "id": "{note:5}",
+                "text": "4.8 Dt 31.7; Js 22.4"
             },
             {
-                "id": "n7",
-                "text": "{note:6} 4.10 Gn 2.2"
+                "id": "{note:6}",
+                "text": "4.10 Gn 2.2"
             }
         ]
     }

@@ -66,8 +66,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:g} 146.1 Heb. Aleluia"
+                "id": "{note:g}",
+                "text": "146.1 Heb. Aleluia"
             }
         ]
     }

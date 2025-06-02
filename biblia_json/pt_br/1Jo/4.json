@@ -4,7 +4,7 @@
         "book_number": 62,
         "new_testament": true,
         "num_chapters": 5,
-        "book_name": "JOÃO",
+        "book_name": "1º JOÃO",
         "book_full_name": "PRIMEIRA EPÍSTOLA UNIVERSAL DO APÓSTOLO JOÃO"
     },
     "chapter": {
@@ -127,36 +127,52 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:e} 4.7 ou o amor"
+                "id": "{note:e}",
+                "text": "4.7 ou o amor"
             },
             {
-                "id": "n2",
-                "text": "{note:f} 4.8 ou o amor"
+                "id": "{note:f}",
+                "text": "4.8 ou o amor"
             },
             {
-                "id": "n3",
-                "text": "{note:g} 4.9 ou o amor"
+                "id": "{note:g}",
+                "text": "4.9 ou o amor"
             },
             {
-                "id": "n4",
-                "text": "{note:h} 4.10 ou o amor"
+                "id": "{note:h}",
+                "text": "4.10 ou o amor"
             },
             {
-                "id": "n5",
-                "text": "{note:1} 4.12 Jo 1.18 {note:i} 4.12 ou perfeito o seu amor"
+                "id": "{note:1}",
+                "text": "4.12 Jo 1.18"
             },
             {
-                "id": "n6",
-                "text": "{note:j} 4.16 ou amor {note:k} 4.16 ou amor"
+                "id": "{note:j}",
+                "text": "4.16 ou amor"
             },
             {
-                "id": "n7",
-                "text": "{note:l} 4.17 ou perfeito o amor"
+                "id": "{note:l}",
+                "text": "4.17 ou perfeito o amor"
             },
             {
-                "id": "n8",
-                "text": "{note:m} 4.18 ou no amor {note:o} 4.18 ou amor {note:n} 4.18 ou o perfeito amor"
+                "id": "{note:m}",
+                "text": "4.18 ou no amor"
+            },
+            {
+                "id": "{note:i}",
+                "text": "4.12 ou perfeito o seu amor"
+            },
+            {
+                "id": "{note:k}",
+                "text": "4.16 ou amor"
+            },
+            {
+                "id": "{note:o}",
+                "text": "4.18 ou amor"
+            },
+            {
+                "id": "{note:n}",
+                "text": "4.18 ou o perfeito amor"
             }
         ]
     }

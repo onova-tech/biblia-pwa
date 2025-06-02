@@ -4,7 +4,7 @@
         "book_number": 61,
         "new_testament": true,
         "num_chapters": 3,
-        "book_name": "PEDRO",
+        "book_name": "2º PEDRO",
         "book_full_name": "SEGUNDA EPÍSTOLA UNIVERSAL DO APÓSTOLO PEDRO"
     },
     "chapter": {
@@ -126,44 +126,48 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:d} 2.1 ou instrutores"
+                "id": "{note:d}",
+                "text": "2.1 ou instrutores"
             },
             {
-                "id": "n2",
-                "text": "{note:e} 2.2 ou práticas lascivas"
+                "id": "{note:e}",
+                "text": "2.2 ou práticas lascivas"
             },
             {
-                "id": "n3",
-                "text": "{note:f} 2.3 ou o juízo não tarda"
+                "id": "{note:f}",
+                "text": "2.3 ou o juízo não tarda"
             },
             {
-                "id": "n4",
-                "text": "{note:1} 2.5 Gn 6.1—7.24"
+                "id": "{note:1}",
+                "text": "2.5 Gn 6.1—7.24"
             },
             {
-                "id": "n5",
-                "text": "{note:2} 2.6 Gn 19.24"
+                "id": "{note:2}",
+                "text": "2.6 Gn 19.24"
             },
             {
-                "id": "n6",
-                "text": "{note:3} 2.7 Gn 19.16"
+                "id": "{note:3}",
+                "text": "2.7 Gn 19.16"
             },
             {
-                "id": "n7",
-                "text": "{note:g} 2.13 ou reputam por prazer o viver diariamente em delícias;"
+                "id": "{note:g}",
+                "text": "2.13 ou reputam por prazer o viver diariamente em delícias;"
             },
             {
-                "id": "n8",
-                "text": "{note:4} 2.15-16 Nm 22.4-35"
+                "id": "{note:4}",
+                "text": "2.15-16 Nm 22.4-35"
             },
             {
-                "id": "n9",
-                "text": "{note:h} 2.19 ou escravos"
+                "id": "{note:h}",
+                "text": "2.19 ou escravos"
             },
             {
-                "id": "n10",
-                "text": "{note:5} 2.22 Pv 26.11 {note:6} 2.1-22 Jd 3-23"
+                "id": "{note:5}",
+                "text": "2.22 Pv 26.11"
+            },
+            {
+                "id": "{note:6}",
+                "text": "2.1-22 Jd 3-23"
             }
         ]
     }

@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 52,
         "book_name": "JEREMIAS",
-        "book_full_name": "JEREMIAS"
+        "book_full_name": "O LIVRO DE JEREMIAS"
     },
     "chapter": {
         "chapter_number": 43,
@@ -87,8 +87,8 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 43.7 2Rs 25.26"
+                "id": "{note:1}",
+                "text": "43.7 2Rs 25.26"
             }
         ]
     }

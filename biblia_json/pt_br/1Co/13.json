@@ -4,7 +4,7 @@
         "book_number": 46,
         "new_testament": true,
         "num_chapters": 16,
-        "book_name": "CORÍNTIOS",
+        "book_name": "1º CORÍNTIOS",
         "book_full_name": "PRIMEIRA EPÍSTOLA DO APÓSTOLO PAULO AOS CORÍNTIOS"
     },
     "chapter": {
@@ -81,12 +81,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:b} 13.1 ou amor"
+                "id": "{note:b}",
+                "text": "13.1 ou amor"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 13.2 Mt 17.20; 21.21; Mc 11.23"
+                "id": "{note:1}",
+                "text": "13.2 Mt 17.20; 21.21; Mc 11.23"
             }
         ]
     }

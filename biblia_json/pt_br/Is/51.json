@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 66,
         "book_name": "ISAÍAS",
-        "book_full_name": "ISAÍAS"
+        "book_full_name": "O LIVRO DE ISAÍAS"
     },
     "chapter": {
         "chapter_number": 51,
@@ -131,12 +131,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:b} 51.6 ou abolida"
+                "id": "{note:b}",
+                "text": "51.6 ou abolida"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 51.17 Ap 14.10; 16.19 {note:c} 51.17 ou do cambaleio."
+                "id": "{note:1}",
+                "text": "51.17 Ap 14.10; 16.19"
+            },
+            {
+                "id": "{note:c}",
+                "text": "51.17 ou do cambaleio."
             }
         ]
     }

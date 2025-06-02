@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 12,
         "book_name": "DANIEL",
-        "book_full_name": "DANIEL"
+        "book_full_name": "O LIVRO DE DANIEL"
     },
     "chapter": {
         "chapter_number": 4,
@@ -201,12 +201,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:c} 4.15 ou erva"
+                "id": "{note:c}",
+                "text": "4.15 ou erva"
             },
             {
-                "id": "n2",
-                "text": "{note:d} 4.17 ou este negócio"
+                "id": "{note:d}",
+                "text": "4.17 ou este negócio"
             }
         ]
     }

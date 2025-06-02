@@ -222,12 +222,12 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 7.26-27 Gn 9.4; Lv 17.10-14; 19.26; Dt 12.16,23; 15.23"
+                "id": "{note:1}",
+                "text": "7.26-27 Gn 9.4; Lv 17.10-14; 19.26; Dt 12.16,23; 15.23"
             },
             {
-                "id": "n2",
-                "text": "{note:d} 7.36 ou um preceito perpétuo"
+                "id": "{note:d}",
+                "text": "7.36 ou um preceito perpétuo"
             }
         ]
     }

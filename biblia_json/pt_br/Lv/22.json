@@ -187,16 +187,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:o} 22.2 ou o meu santo nome"
+                "id": "{note:o}",
+                "text": "22.2 ou o meu santo nome"
             },
             {
-                "id": "n2",
-                "text": "{note:p} 22.19 ou para que seja aceito, oferecerá"
+                "id": "{note:p}",
+                "text": "22.19 ou para que seja aceito, oferecerá"
             },
             {
-                "id": "n3",
-                "text": "{note:1} 22.20 Dt 17.1"
+                "id": "{note:1}",
+                "text": "22.20 Dt 17.1"
             }
         ]
     }

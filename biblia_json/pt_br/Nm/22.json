@@ -221,8 +221,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:j} 22.18 Heb. a palavra"
+                "id": "{note:j}",
+                "text": "22.18 Heb. a palavra"
             }
         ]
     }

@@ -202,12 +202,12 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 11.7-9 Êx 16.13-15"
+                "id": "{note:1}",
+                "text": "11.7-9 Êx 16.13-15"
             },
             {
-                "id": "n2",
-                "text": "{note:g} 11.34 que significa os sepulcros da concupiscência"
+                "id": "{note:g}",
+                "text": "11.34 que significa os sepulcros da concupiscência"
             }
         ]
     }

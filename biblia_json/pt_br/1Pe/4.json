@@ -4,7 +4,7 @@
         "book_number": 60,
         "new_testament": true,
         "num_chapters": 5,
-        "book_name": "PEDRO",
+        "book_name": "1º PEDRO",
         "book_full_name": "PRIMEIRA EPÍSTOLA UNIVERSAL DO APÓSTOLO PEDRO"
     },
     "chapter": {
@@ -111,12 +111,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:f} 4.8 ou amor {note:1} 4.8 Pv 10.12"
+                "id": "{note:f}",
+                "text": "4.8 ou amor"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 4.18 Pv 11.31"
+                "id": "{note:2}",
+                "text": "4.18 Pv 11.31"
+            },
+            {
+                "id": "{note:1}",
+                "text": "4.8 Pv 10.12"
             }
         ]
     }

@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 2,
         "book_name": "AGEU",
-        "book_full_name": "AGEU"
+        "book_full_name": "O LIVRO DE AGEU"
     },
     "chapter": {
         "chapter_number": 1,
@@ -91,12 +91,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 1.1 Ed 4.24—5.2; 6.14"
+                "id": "{note:1}",
+                "text": "1.1 Ed 4.24—5.2; 6.14"
             },
             {
-                "id": "n2",
-                "text": "{note:a} 1.13 ou mensageiro"
+                "id": "{note:a}",
+                "text": "1.13 ou mensageiro"
             }
         ]
     }

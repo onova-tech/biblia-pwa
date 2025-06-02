@@ -56,24 +56,28 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 15.3 Êx 15.1"
+                "id": "{note:1}",
+                "text": "15.3 Êx 15.1"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 15.4 Jr 10.7 {note:3} 15.4 Sl 86.9"
+                "id": "{note:2}",
+                "text": "15.4 Jr 10.7"
             },
             {
-                "id": "n3",
-                "text": "{note:4} 15.5 Êx 40.34"
+                "id": "{note:4}",
+                "text": "15.5 Êx 40.34"
             },
             {
-                "id": "n4",
-                "text": "{note:m} 15.7 ou taças"
+                "id": "{note:m}",
+                "text": "15.7 ou taças"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 15.8 1Rs 8.10-11; 2Cr 5.13-14; Is 6.4"
+                "id": "{note:5}",
+                "text": "15.8 1Rs 8.10-11; 2Cr 5.13-14; Is 6.4"
+            },
+            {
+                "id": "{note:3}",
+                "text": "15.4 Sl 86.9"
             }
         ]
     }

@@ -171,12 +171,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:j} 30.15 ou nobreza"
+                "id": "{note:j}",
+                "text": "30.15 ou nobreza"
             },
             {
-                "id": "n2",
-                "text": "{note:k} 30.29 ou chacais"
+                "id": "{note:k}",
+                "text": "30.29 ou chacais"
             }
         ]
     }

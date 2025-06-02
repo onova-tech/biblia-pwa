@@ -177,8 +177,8 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:l} 47.6 ou aptos"
+                "id": "{note:l}",
+                "text": "47.6 ou aptos"
             }
         ]
     }

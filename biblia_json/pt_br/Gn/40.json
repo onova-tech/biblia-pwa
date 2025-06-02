@@ -131,8 +131,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:e} 40.16 ou cestos de pão branco"
+                "id": "{note:e}",
+                "text": "40.16 ou cestos de pão branco"
             }
         ]
     }

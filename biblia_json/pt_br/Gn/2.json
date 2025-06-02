@@ -147,44 +147,56 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 2.2 Êx 20.11 {note:2} 2.2 Hb 4.4,10"
+                "id": "{note:1}",
+                "text": "2.2 Êx 20.11"
             },
             {
-                "id": "n2",
-                "text": "{note:e} 2.4 ou gerações {note:f} 2.4 Heb. JEOVÁ"
+                "id": "{note:e}",
+                "text": "2.4 ou gerações"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 2.7 1Co 15.45"
+                "id": "{note:3}",
+                "text": "2.7 1Co 15.45"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 2.9 Ap 2.7; 22.2,14 {note:g} 2.9 ou conhecimento"
+                "id": "{note:4}",
+                "text": "2.9 Ap 2.7; 22.2,14"
             },
             {
-                "id": "n5",
-                "text": "{note:h} 2.12 ou o ônix, ou o berilo"
+                "id": "{note:h}",
+                "text": "2.12 ou o ônix, ou o berilo"
             },
             {
-                "id": "n6",
-                "text": "{note:i} 2.13 ou Etiópia"
+                "id": "{note:i}",
+                "text": "2.13 ou Etiópia"
             },
             {
-                "id": "n7",
-                "text": "{note:j} 2.14 ou Tigre"
+                "id": "{note:j}",
+                "text": "2.14 ou Tigre"
             },
             {
-                "id": "n8",
-                "text": "{note:k} 2.18 ou lhe assista"
+                "id": "{note:k}",
+                "text": "2.18 ou lhe assista"
             },
             {
-                "id": "n9",
-                "text": "{note:l} 2.22 Heb. edificou"
+                "id": "{note:l}",
+                "text": "2.22 Heb. edificou"
             },
             {
-                "id": "n10",
-                "text": "{note:5} 2.24 Mt 19.5; Mc 10.7-8; 1Co 6.16; Ef 5.31"
+                "id": "{note:5}",
+                "text": "2.24 Mt 19.5; Mc 10.7-8; 1Co 6.16; Ef 5.31"
+            },
+            {
+                "id": "{note:2}",
+                "text": "2.2 Hb 4.4,10"
+            },
+            {
+                "id": "{note:f}",
+                "text": "2.4 Heb. JEOVÁ"
+            },
+            {
+                "id": "{note:g}",
+                "text": "2.9 ou conhecimento"
             }
         ]
     }

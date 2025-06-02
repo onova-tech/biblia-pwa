@@ -4,7 +4,7 @@
         "book_number": 14,
         "new_testament": false,
         "num_chapters": 36,
-        "book_name": "CRÔNICAS",
+        "book_name": "2º CRÔNICAS",
         "book_full_name": "O SEGUNDO LIVRO DAS CRÔNICAS"
     },
     "chapter": {
@@ -201,20 +201,20 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 20.7 Is 41.8; Tg 2.23"
+                "id": "{note:1}",
+                "text": "20.7 Is 41.8; Tg 2.23"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 20.10 Dt 2.4-19"
+                "id": "{note:2}",
+                "text": "20.10 Dt 2.4-19"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 20.15-17 Dt 20.2-4"
+                "id": "{note:3}",
+                "text": "20.15-17 Dt 20.2-4"
             },
             {
-                "id": "n4",
-                "text": "{note:s} 20.26 que é bênção ou louvor"
+                "id": "{note:s}",
+                "text": "20.26 que é bênção ou louvor"
             }
         ]
     }

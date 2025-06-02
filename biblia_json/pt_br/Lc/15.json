@@ -182,12 +182,12 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 15.1-2 Lc 5.29-30"
+                "id": "{note:1}",
+                "text": "15.1-2 Lc 5.29-30"
             },
             {
-                "id": "n2",
-                "text": "{note:l} 15.16 ou alfarrobas"
+                "id": "{note:l}",
+                "text": "15.16 ou alfarrobas"
             }
         ]
     }

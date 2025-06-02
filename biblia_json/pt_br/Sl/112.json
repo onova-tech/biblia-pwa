@@ -66,16 +66,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:z} 112.1 Heb. Aleluia"
+                "id": "{note:z}",
+                "text": "112.1 Heb. Aleluia"
             },
             {
-                "id": "n2",
-                "text": "{note:a} 112.5 ou defenderá a sua causa em juízo"
+                "id": "{note:a}",
+                "text": "112.5 ou defenderá a sua causa em juízo"
             },
             {
-                "id": "n3",
-                "text": "{note:1} 112.9 2Co 9.9"
+                "id": "{note:1}",
+                "text": "112.9 2Co 9.9"
             }
         ]
     }

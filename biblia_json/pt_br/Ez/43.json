@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 48,
         "book_name": "EZEQUIEL",
-        "book_full_name": "EZEQUIEL"
+        "book_full_name": "O LIVRO DE EZEQUIEL"
     },
     "chapter": {
         "chapter_number": 43,
@@ -157,28 +157,36 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 43.2 Ez 10.3-4,18-19; 11.22-23"
+                "id": "{note:1}",
+                "text": "43.2 Ez 10.3-4,18-19; 11.22-23"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 43.13 Êx 27.1-2; 2Cr 4.1 {note:k} 43.13 ou estas são as costas do altar"
+                "id": "{note:2}",
+                "text": "43.13 Êx 27.1-2; 2Cr 4.1"
             },
             {
-                "id": "n3",
-                "text": "{note:l} 43.15 que é altar superior {note:m} 43.15 que é a lareira do altar"
+                "id": "{note:l}",
+                "text": "43.15 que é altar superior"
             },
             {
-                "id": "n4",
-                "text": "{note:n} 43.17 ou a parte inferior"
+                "id": "{note:n}",
+                "text": "43.17 ou a parte inferior"
             },
             {
-                "id": "n5",
-                "text": "{note:3} 43.18 Êx 29.35-37"
+                "id": "{note:3}",
+                "text": "43.18 Êx 29.35-37"
             },
             {
-                "id": "n6",
-                "text": "{note:o} 43.27 ou vos aceitarei"
+                "id": "{note:o}",
+                "text": "43.27 ou vos aceitarei"
+            },
+            {
+                "id": "{note:k}",
+                "text": "43.13 ou estas são as costas do altar"
+            },
+            {
+                "id": "{note:m}",
+                "text": "43.15 que é a lareira do altar"
             }
         ]
     }

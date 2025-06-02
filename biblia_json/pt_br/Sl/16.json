@@ -71,16 +71,24 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:d} 16.6 ou sortes"
+                "id": "{note:d}",
+                "text": "16.6 ou sortes"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 16.10 1Co 15.4 {note:2} 16.10 At 13.35 {note:e} 16.10 ou amado"
+                "id": "{note:1}",
+                "text": "16.10 1Co 15.4"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 16.8-11 At 2.25-28"
+                "id": "{note:3}",
+                "text": "16.8-11 At 2.25-28"
+            },
+            {
+                "id": "{note:2}",
+                "text": "16.10 At 13.35"
+            },
+            {
+                "id": "{note:e}",
+                "text": "16.10 ou amado"
             }
         ]
     }

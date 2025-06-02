@@ -167,52 +167,64 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 16.4 Jn 3.4-5 {note:2} 16.1-4 Mt 12.38-42; Lc 11.29-32"
+                "id": "{note:1}",
+                "text": "16.4 Jn 3.4-5"
             },
             {
-                "id": "n2",
-                "text": "{note:3} 16.6 Lc 12.1"
+                "id": "{note:3}",
+                "text": "16.6 Lc 12.1"
             },
             {
-                "id": "n3",
-                "text": "{note:4} 16.9 Mt 14.17-21"
+                "id": "{note:4}",
+                "text": "16.9 Mt 14.17-21"
             },
             {
-                "id": "n4",
-                "text": "{note:5} 16.10 Mt 15.34-38"
+                "id": "{note:5}",
+                "text": "16.10 Mt 15.34-38"
             },
             {
-                "id": "n5",
-                "text": "{note:6} 16.14 Mt 14.1-2; Mc 6.14-15; Lc 9.7-8"
+                "id": "{note:6}",
+                "text": "16.14 Mt 14.1-2; Mc 6.14-15; Lc 9.7-8"
             },
             {
-                "id": "n6",
-                "text": "{note:7} 16.16 Jo 6.68-69"
+                "id": "{note:7}",
+                "text": "16.16 Jo 6.68-69"
             },
             {
-                "id": "n7",
-                "text": "{note:q} 16.18 Gr. Petros"
+                "id": "{note:q}",
+                "text": "16.18 Gr. Petros"
             },
             {
-                "id": "n8",
-                "text": "{note:8} 16.19 Mt 18.18; Jo 20.23"
+                "id": "{note:8}",
+                "text": "16.19 Mt 18.18; Jo 20.23"
             },
             {
-                "id": "n9",
-                "text": "{note:9} 16.24 Mt 10.38; Lc 14.27"
+                "id": "{note:9}",
+                "text": "16.24 Mt 10.38; Lc 14.27"
             },
             {
-                "id": "n10",
-                "text": "{note:10} 16.25 Mt 10.39; Lc 17.33; Jo 12.25 {note:r} 16.25 ou alma"
+                "id": "{note:10}",
+                "text": "16.25 Mt 10.39; Lc 17.33; Jo 12.25"
             },
             {
-                "id": "n11",
-                "text": "{note:s} 16.26 ou vida"
+                "id": "{note:s}",
+                "text": "16.26 ou vida"
             },
             {
-                "id": "n12",
-                "text": "{note:11} 16.27 Mt 25.31 {note:12} 16.27 Sl 62.12"
+                "id": "{note:11}",
+                "text": "16.27 Mt 25.31"
+            },
+            {
+                "id": "{note:2}",
+                "text": "16.1-4 Mt 12.38-42; Lc 11.29-32"
+            },
+            {
+                "id": "{note:r}",
+                "text": "16.25 ou alma"
+            },
+            {
+                "id": "{note:12}",
+                "text": "16.27 Sl 62.12"
             }
         ]
     }

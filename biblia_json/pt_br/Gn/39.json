@@ -131,16 +131,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:d} 39.1 ou oficial"
+                "id": "{note:d}",
+                "text": "39.1 ou oficial"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 39.2 At 7.9"
+                "id": "{note:1}",
+                "text": "39.2 At 7.9"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 39.21 At 7.9"
+                "id": "{note:2}",
+                "text": "39.21 At 7.9"
             }
         ]
     }

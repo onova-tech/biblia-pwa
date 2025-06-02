@@ -232,36 +232,40 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 9.10-11 Lc 15.1-2"
+                "id": "{note:1}",
+                "text": "9.10-11 Lc 15.1-2"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 9.13 Mt 12.7 {note:3} 9.13 Os 6.6"
+                "id": "{note:2}",
+                "text": "9.13 Mt 12.7"
             },
             {
-                "id": "n3",
-                "text": "{note:l} 9.15 Gr. os filhos da câmara nupcial"
+                "id": "{note:l}",
+                "text": "9.15 Gr. os filhos da câmara nupcial"
             },
             {
-                "id": "n4",
-                "text": "{note:m} 9.18 ou governador"
+                "id": "{note:m}",
+                "text": "9.18 ou governador"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 9.32-34 Mt 10.25; 12.22-24; Mc 3.22; Lc 11.14-15"
+                "id": "{note:4}",
+                "text": "9.32-34 Mt 10.25; 12.22-24; Mc 3.22; Lc 11.14-15"
             },
             {
-                "id": "n6",
-                "text": "{note:5} 9.35 Mt 4.23; Mc 1.39; Lc 4.44"
+                "id": "{note:5}",
+                "text": "9.35 Mt 4.23; Mc 1.39; Lc 4.44"
             },
             {
-                "id": "n7",
-                "text": "{note:6} 9.36 1Rs 22.17; 2Cr 18.16; Mc 6.34"
+                "id": "{note:6}",
+                "text": "9.36 1Rs 22.17; 2Cr 18.16; Mc 6.34"
             },
             {
-                "id": "n8",
-                "text": "{note:7} 9.37-38 Lc 10.2"
+                "id": "{note:7}",
+                "text": "9.37-38 Lc 10.2"
+            },
+            {
+                "id": "{note:3}",
+                "text": "9.13 Os 6.6"
             }
         ]
     }

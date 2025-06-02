@@ -212,12 +212,20 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:f} 7.7 ou me adoram {note:1} 7.6-7 Is 29.13"
+                "id": "{note:f}",
+                "text": "7.7 ou me adoram"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 7.10 Êx 20.12; Dt 5.16 {note:3} 7.10 Êx 21.17; Lv 20.9"
+                "id": "{note:2}",
+                "text": "7.10 Êx 20.12; Dt 5.16"
+            },
+            {
+                "id": "{note:1}",
+                "text": "7.6-7 Is 29.13"
+            },
+            {
+                "id": "{note:3}",
+                "text": "7.10 Êx 21.17; Lv 20.9"
             }
         ]
     }

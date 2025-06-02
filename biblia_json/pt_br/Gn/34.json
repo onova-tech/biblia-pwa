@@ -177,8 +177,8 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:s} 34.3 Heb. falou ao coração da moça"
+                "id": "{note:s}",
+                "text": "34.3 Heb. falou ao coração da moça"
             }
         ]
     }

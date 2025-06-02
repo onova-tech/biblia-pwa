@@ -4,8 +4,8 @@
         "book_number": 17,
         "new_testament": false,
         "num_chapters": 10,
-    	"book_name": "ESTER",
-    	"book_full_name": "ESTER"
+        "book_name": "ESTER",
+        "book_full_name": "O LIVRO DE ESTER"
     },
     "chapter": {
         "chapter_number": 9,
@@ -182,8 +182,8 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 9.24 Et 3.7"
+                "id": "{note:1}",
+                "text": "9.24 Et 3.7"
             }
         ]
     }

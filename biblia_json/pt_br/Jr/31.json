@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 52,
         "book_name": "JEREMIAS",
-        "book_full_name": "JEREMIAS"
+        "book_full_name": "O LIVRO DE JEREMIAS"
     },
     "chapter": {
         "chapter_number": 31,
@@ -216,24 +216,28 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 31.15 Mt 2.18 {note:2} 31.15 Gn 35.16-19"
+                "id": "{note:1}",
+                "text": "31.15 Mt 2.18"
             },
             {
-                "id": "n2",
-                "text": "{note:3} 31.29 Ez 18.2"
+                "id": "{note:3}",
+                "text": "31.29 Ez 18.2"
             },
             {
-                "id": "n3",
-                "text": "{note:4} 31.31 Mt 26.28; Mc 14.24; Lc 22.20; 1Co 11.25; 2Co 3.6"
+                "id": "{note:4}",
+                "text": "31.31 Mt 26.28; Mc 14.24; Lc 22.20; 1Co 11.25; 2Co 3.6"
             },
             {
-                "id": "n4",
-                "text": "{note:5} 31.33 Hb 10.16-17"
+                "id": "{note:5}",
+                "text": "31.33 Hb 10.16-17"
             },
             {
-                "id": "n5",
-                "text": "{note:6} 31.31-34 Hb 8.8-12"
+                "id": "{note:6}",
+                "text": "31.31-34 Hb 8.8-12"
+            },
+            {
+                "id": "{note:2}",
+                "text": "31.15 Gn 35.16-19"
             }
         ]
     }

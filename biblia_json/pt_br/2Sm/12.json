@@ -4,7 +4,7 @@
         "book_number": 10,
         "new_testament": false,
         "num_chapters": 24,
-        "book_name": "SAMUEL",
+        "book_name": "2º SAMUEL",
         "book_full_name": "O SEGUNDO LIVRO DE SAMUEL"
     },
     "chapter": {
@@ -171,12 +171,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 12.1 Sl 51, título"
+                "id": "{note:1}",
+                "text": "12.1 Sl 51, título"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 12.11 2Sm 16.22"
+                "id": "{note:2}",
+                "text": "12.11 2Sm 16.22"
             }
         ]
     }

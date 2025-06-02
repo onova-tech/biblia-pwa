@@ -447,64 +447,72 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 1.5 1Cr 24.10 {note:a} 1.5 Heb. Elizabeth"
+                "id": "{note:1}",
+                "text": "1.5 1Cr 24.10"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 1.15 Nm 6.3 {note:b} 1.15 Gr. sikera"
+                "id": "{note:2}",
+                "text": "1.15 Nm 6.3"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 1.17 Ml 4.5-6"
+                "id": "{note:3}",
+                "text": "1.17 Ml 4.5-6"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 1.19 Dn 8.16; 9.21"
+                "id": "{note:4}",
+                "text": "1.19 Dn 8.16; 9.21"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 1.27 Mt 1.18"
+                "id": "{note:5}",
+                "text": "1.27 Mt 1.18"
             },
             {
-                "id": "n6",
-                "text": "{note:c} 1.28 Eu te saúdo, muito favorecida"
+                "id": "{note:c}",
+                "text": "1.28 Eu te saúdo, muito favorecida"
             },
             {
-                "id": "n7",
-                "text": "{note:6} 1.31 Mt 1.21"
+                "id": "{note:6}",
+                "text": "1.31 Mt 1.21"
             },
             {
-                "id": "n8",
-                "text": "{note:7} 1.32-33 Is 9.7"
+                "id": "{note:7}",
+                "text": "1.32-33 Is 9.7"
             },
             {
-                "id": "n9",
-                "text": "{note:8} 1.37 Gn 18.14"
+                "id": "{note:8}",
+                "text": "1.37 Gn 18.14"
             },
             {
-                "id": "n10",
-                "text": "{note:9} 1.55 Gn 17.7"
+                "id": "{note:9}",
+                "text": "1.55 Gn 17.7"
             },
             {
-                "id": "n11",
-                "text": "{note:10} 1.46-56 1Sm 2.1-10"
+                "id": "{note:10}",
+                "text": "1.46-56 1Sm 2.1-10"
             },
             {
-                "id": "n12",
-                "text": "{note:11} 1.59 Lv 12.3"
+                "id": "{note:11}",
+                "text": "1.59 Lv 12.3"
             },
             {
-                "id": "n13",
-                "text": "{note:d} 1.69 Gr. um chifre da salvação"
+                "id": "{note:d}",
+                "text": "1.69 Gr. um chifre da salvação"
             },
             {
-                "id": "n14",
-                "text": "{note:12} 1.76 Ml 3.1"
+                "id": "{note:12}",
+                "text": "1.76 Ml 3.1"
             },
             {
-                "id": "n15",
-                "text": "{note:13} 1.79 Is 9.2"
+                "id": "{note:13}",
+                "text": "1.79 Is 9.2"
+            },
+            {
+                "id": "{note:a}",
+                "text": "1.5 Heb. Elizabeth"
+            },
+            {
+                "id": "{note:b}",
+                "text": "1.15 Gr. sikera"
             }
         ]
     }

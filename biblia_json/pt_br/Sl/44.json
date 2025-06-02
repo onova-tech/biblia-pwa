@@ -146,20 +146,20 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:f} 44.4 ou vitórias"
+                "id": "{note:f}",
+                "text": "44.4 ou vitórias"
             },
             {
-                "id": "n2",
-                "text": "{note:g} 44.15 ou desonra"
+                "id": "{note:g}",
+                "text": "44.15 ou desonra"
             },
             {
-                "id": "n3",
-                "text": "{note:h} 44.19 ou chacais"
+                "id": "{note:h}",
+                "text": "44.19 ou chacais"
             },
             {
-                "id": "n4",
-                "text": "{note:1} 44.22 Rm 8.36"
+                "id": "{note:1}",
+                "text": "44.22 Rm 8.36"
             }
         ]
     }

@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 48,
         "book_name": "EZEQUIEL",
-        "book_full_name": "EZEQUIEL"
+        "book_full_name": "O LIVRO DE EZEQUIEL"
     },
     "chapter": {
         "chapter_number": 47,
@@ -137,12 +137,12 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 47.1 Zc 14.8; Jo 7.38; Ap 22.1"
+                "id": "{note:1}",
+                "text": "47.1 Zc 14.8; Jo 7.38; Ap 22.1"
             },
             {
-                "id": "n2",
-                "text": "{note:r} 47.19 Heb. de Meribote-Cades"
+                "id": "{note:r}",
+                "text": "47.19 Heb. de Meribote-Cades"
             }
         ]
     }

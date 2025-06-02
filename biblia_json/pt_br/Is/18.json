@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 66,
         "book_name": "ISAÍAS",
-        "book_full_name": "ISAÍAS"
+        "book_full_name": "O LIVRO DE ISAÍAS"
     },
     "chapter": {
         "chapter_number": 18,
@@ -51,12 +51,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:v} 18.1 ou o roçar das asas, {note:w} 18.1 Heb. de Cuxe!"
+                "id": "{note:v}",
+                "text": "18.1 ou o roçar das asas,"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 18.1-7 Sf 2.12"
+                "id": "{note:1}",
+                "text": "18.1-7 Sf 2.12"
+            },
+            {
+                "id": "{note:w}",
+                "text": "18.1 Heb. de Cuxe!"
             }
         ]
     }

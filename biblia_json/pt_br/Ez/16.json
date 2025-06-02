@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 48,
         "book_name": "EZEQUIEL",
-        "book_full_name": "EZEQUIEL"
+        "book_full_name": "O LIVRO DE EZEQUIEL"
     },
     "chapter": {
         "chapter_number": 16,
@@ -331,16 +331,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:o} 16.13 ou um reino"
+                "id": "{note:o}",
+                "text": "16.13 ou um reino"
             },
             {
-                "id": "n2",
-                "text": "{note:p} 16.24 ou uma casa de prostituição"
+                "id": "{note:p}",
+                "text": "16.24 ou uma casa de prostituição"
             },
             {
-                "id": "n3",
-                "text": "{note:q} 16.31 ou casa de prostituição"
+                "id": "{note:q}",
+                "text": "16.31 ou casa de prostituição"
             }
         ]
     }

@@ -5,7 +5,7 @@
         "new_testament": true,
         "num_chapters": 28,
         "book_name": "ATOS DOS APÓSTOLOS",
-        "book_full_name": "ATOS DOS APÓSTOLOS"
+        "book_full_name": "O LIVRO DE ATOS DOS APÓSTOLOS"
     },
     "chapter": {
         "chapter_number": 18,
@@ -162,8 +162,8 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 18.18 Nm 6.18"
+                "id": "{note:1}",
+                "text": "18.18 Nm 6.18"
             }
         ]
     }

@@ -4,7 +4,7 @@
         "book_number": 62,
         "new_testament": true,
         "num_chapters": 5,
-        "book_name": "JOÃO",
+        "book_name": "1º JOÃO",
         "book_full_name": "PRIMEIRA EPÍSTOLA UNIVERSAL DO APÓSTOLO JOÃO"
     },
     "chapter": {
@@ -127,16 +127,20 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:p} 5.3 ou este é o amor {note:1} 5.3 Jo 14.15"
+                "id": "{note:p}",
+                "text": "5.3 ou este é o amor"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 5.11 Jo 3.36"
+                "id": "{note:2}",
+                "text": "5.11 Jo 3.36"
             },
             {
-                "id": "n3",
-                "text": "{note:q} 5.15 Gr. temos"
+                "id": "{note:q}",
+                "text": "5.15 Gr. temos"
+            },
+            {
+                "id": "{note:1}",
+                "text": "5.3 Jo 14.15"
             }
         ]
     }

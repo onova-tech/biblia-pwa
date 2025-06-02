@@ -166,12 +166,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:n} 39.4 ou no campo livre"
+                "id": "{note:n}",
+                "text": "39.4 ou no campo livre"
             },
             {
-                "id": "n2",
-                "text": "{note:o} 39.7 ou condutor"
+                "id": "{note:o}",
+                "text": "39.7 ou condutor"
             }
         ]
     }

@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 48,
         "book_name": "EZEQUIEL",
-        "book_full_name": "EZEQUIEL"
+        "book_full_name": "O LIVRO DE EZEQUIEL"
     },
     "chapter": {
         "chapter_number": 45,
@@ -141,20 +141,20 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:p} 45.6 ou a par"
+                "id": "{note:p}",
+                "text": "45.6 ou a par"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 45.10 Lv 19.36"
+                "id": "{note:1}",
+                "text": "45.10 Lv 19.36"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 45.21 Êx 12.1-20"
+                "id": "{note:2}",
+                "text": "45.21 Êx 12.1-20"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 45.25 Lv 23.33-36"
+                "id": "{note:3}",
+                "text": "45.25 Lv 23.33-36"
             }
         ]
     }

@@ -4,7 +4,7 @@
         "book_number": 46,
         "new_testament": true,
         "num_chapters": 16,
-        "book_name": "CORÍNTIOS",
+        "book_name": "1º CORÍNTIOS",
         "book_full_name": "PRIMEIRA EPÍSTOLA DO APÓSTOLO PAULO AOS CORÍNTIOS"
     },
     "chapter": {
@@ -127,16 +127,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 4.12 At 18.3"
+                "id": "{note:1}",
+                "text": "4.12 At 18.3"
             },
             {
-                "id": "n2",
-                "text": "{note:a} 4.15 ou pedagogos"
+                "id": "{note:a}",
+                "text": "4.15 ou pedagogos"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 4.16 1Co 11.1; Fp 3.17"
+                "id": "{note:2}",
+                "text": "4.16 1Co 11.1; Fp 3.17"
             }
         ]
     }

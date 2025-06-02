@@ -102,24 +102,24 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 20.2 Gn 3.1"
+                "id": "{note:1}",
+                "text": "20.2 Gn 3.1"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 20.4 Dn 7.9,22,27"
+                "id": "{note:2}",
+                "text": "20.4 Dn 7.9,22,27"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 20.8 Ez 38.1-16"
+                "id": "{note:3}",
+                "text": "20.8 Ez 38.1-16"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 20.11-12 Dn 7.9-10"
+                "id": "{note:4}",
+                "text": "20.11-12 Dn 7.9-10"
             },
             {
-                "id": "n5",
-                "text": "{note:p} 20.13 Gr. Hades"
+                "id": "{note:p}",
+                "text": "20.13 Gr. Hades"
             }
         ]
     }

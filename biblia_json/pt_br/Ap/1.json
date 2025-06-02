@@ -127,44 +127,60 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 1.4 Êx 3.14 {note:2} 1.4 Ap 4.5"
+                "id": "{note:1}",
+                "text": "1.4 Êx 3.14"
             },
             {
-                "id": "n2",
-                "text": "{note:3} 1.5 Sl 89.27"
+                "id": "{note:3}",
+                "text": "1.5 Sl 89.27"
             },
             {
-                "id": "n3",
-                "text": "{note:4} 1.6 Êx 19.6"
+                "id": "{note:4}",
+                "text": "1.6 Êx 19.6"
             },
             {
-                "id": "n4",
-                "text": "{note:5} 1.7 Dn 7.13; Mt 24.30; Mc 13.26; Lc 21.27 {note:6} 1.7 Zc 12.10; Jo 19.34,37"
+                "id": "{note:5}",
+                "text": "1.7 Dn 7.13; Mt 24.30; Mc 13.26; Lc 21.27"
             },
             {
-                "id": "n5",
-                "text": "{note:7} 1.8 Êx 3.14"
+                "id": "{note:7}",
+                "text": "1.8 Êx 3.14"
             },
             {
-                "id": "n6",
-                "text": "{note:8} 1.13 Dn 7.13 {note:9} 1.13 Dn 10.5"
+                "id": "{note:8}",
+                "text": "1.13 Dn 7.13"
             },
             {
-                "id": "n7",
-                "text": "{note:10} 1.14 Dn 7.9 {note:11} 1.14 Dn 10.6"
+                "id": "{note:10}",
+                "text": "1.14 Dn 7.9"
             },
             {
-                "id": "n8",
-                "text": "{note:12} 1.15 Ez 1.24"
+                "id": "{note:12}",
+                "text": "1.15 Ez 1.24"
             },
             {
-                "id": "n9",
-                "text": "{note:13} 1.17 Is 44.6; 48.12"
+                "id": "{note:13}",
+                "text": "1.17 Is 44.6; 48.12"
             },
             {
-                "id": "n10",
-                "text": "{note:a} 1.18 Gr. Hades"
+                "id": "{note:a}",
+                "text": "1.18 Gr. Hades"
+            },
+            {
+                "id": "{note:2}",
+                "text": "1.4 Ap 4.5"
+            },
+            {
+                "id": "{note:6}",
+                "text": "1.7 Zc 12.10; Jo 19.34,37"
+            },
+            {
+                "id": "{note:9}",
+                "text": "1.13 Dn 10.5"
+            },
+            {
+                "id": "{note:11}",
+                "text": "1.14 Dn 10.6"
             }
         ]
     }

@@ -106,16 +106,24 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 83.9 Jz 7.1-23 {note:2} 83.9 Jz 4.6-22"
+                "id": "{note:1}",
+                "text": "83.9 Jz 7.1-23"
             },
             {
-                "id": "n2",
-                "text": "{note:3} 83.11 Jz 7.25 {note:4} 83.11 Jz 8.12"
+                "id": "{note:3}",
+                "text": "83.11 Jz 7.25"
             },
             {
-                "id": "n3",
-                "text": "{note:g} 83.14 ou montanhas"
+                "id": "{note:g}",
+                "text": "83.14 ou montanhas"
+            },
+            {
+                "id": "{note:2}",
+                "text": "83.9 Jz 4.6-22"
+            },
+            {
+                "id": "{note:4}",
+                "text": "83.11 Jz 8.12"
             }
         ]
     }

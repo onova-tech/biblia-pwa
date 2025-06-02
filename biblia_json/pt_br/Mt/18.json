@@ -202,36 +202,36 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 18.1 Lc 22.24"
+                "id": "{note:1}",
+                "text": "18.1 Lc 22.24"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 18.3 Mc 10.15; Lc 18.17"
+                "id": "{note:2}",
+                "text": "18.3 Mc 10.15; Lc 18.17"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 18.8 Mt 5.30"
+                "id": "{note:3}",
+                "text": "18.8 Mt 5.30"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 18.9 Mt 5.29"
+                "id": "{note:4}",
+                "text": "18.9 Mt 5.29"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 18.11 Lc 19.10"
+                "id": "{note:5}",
+                "text": "18.11 Lc 19.10"
             },
             {
-                "id": "n6",
-                "text": "{note:6} 18.16 Dt 17.6; 19.15"
+                "id": "{note:6}",
+                "text": "18.16 Dt 17.6; 19.15"
             },
             {
-                "id": "n7",
-                "text": "{note:7} 18.18 Mt 16.19; Jo 20.23"
+                "id": "{note:7}",
+                "text": "18.18 Mt 16.19; Jo 20.23"
             },
             {
-                "id": "n8",
-                "text": "{note:t} 18.28 ou denários"
+                "id": "{note:t}",
+                "text": "18.28 ou denários"
             }
         ]
     }

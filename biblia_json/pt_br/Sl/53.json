@@ -46,12 +46,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:n} 53.1 ou louco"
+                "id": "{note:n}",
+                "text": "53.1 ou louco"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 53.1-2 Rm 3.10-12"
+                "id": "{note:1}",
+                "text": "53.1-2 Rm 3.10-12"
             }
         ]
     }

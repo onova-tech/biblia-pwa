@@ -182,20 +182,24 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 1.1 At 16.12"
+                "id": "{note:1}",
+                "text": "1.1 At 16.12"
             },
             {
-                "id": "n2",
-                "text": "{note:a} 1.9 ou o vosso amor"
+                "id": "{note:a}",
+                "text": "1.9 ou o vosso amor"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 1.13 At 28.30 {note:b} 1.13 Gr. todo o pretório"
+                "id": "{note:2}",
+                "text": "1.13 At 28.30"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 1.30 At 16.19-40"
+                "id": "{note:3}",
+                "text": "1.30 At 16.19-40"
+            },
+            {
+                "id": "{note:b}",
+                "text": "1.13 Gr. todo o pretório"
             }
         ]
     }

@@ -4,7 +4,7 @@
         "book_number": 12,
         "new_testament": false,
         "num_chapters": 25,
-        "book_name": "REIS",
+        "book_name": "2º REIS",
         "book_full_name": "O SEGUNDO LIVRO DOS REIS"
     },
     "chapter": {
@@ -217,40 +217,44 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 23.4-6 2Rs 21.3; 2Cr 33.3"
+                "id": "{note:1}",
+                "text": "23.4-6 2Rs 21.3; 2Cr 33.3"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 23.10 Lv 18.21 {note:3} 23.10 Jr 7.30-31; 19.1-6; 32.34-35"
+                "id": "{note:2}",
+                "text": "23.10 Lv 18.21"
             },
             {
-                "id": "n3",
-                "text": "{note:4} 23.12 2Rs 21.5; 2Cr 33.5"
+                "id": "{note:4}",
+                "text": "23.12 2Rs 21.5; 2Cr 33.5"
             },
             {
-                "id": "n4",
-                "text": "{note:5} 23.13 1Rs 11.7"
+                "id": "{note:5}",
+                "text": "23.13 1Rs 11.7"
             },
             {
-                "id": "n5",
-                "text": "{note:6} 23.15 1Rs 12.33"
+                "id": "{note:6}",
+                "text": "23.15 1Rs 12.33"
             },
             {
-                "id": "n6",
-                "text": "{note:7} 23.16 1Rs 13.2"
+                "id": "{note:7}",
+                "text": "23.16 1Rs 13.2"
             },
             {
-                "id": "n7",
-                "text": "{note:8} 23.17 1Rs 13.30-32"
+                "id": "{note:8}",
+                "text": "23.17 1Rs 13.30-32"
             },
             {
-                "id": "n8",
-                "text": "{note:9} 23.34 Jr 22.11-12"
+                "id": "{note:9}",
+                "text": "23.34 Jr 22.11-12"
             },
             {
-                "id": "n9",
-                "text": "{note:10} 23.36 Jr 22.18-19; 26.1-6; 35.1-19"
+                "id": "{note:10}",
+                "text": "23.36 Jr 22.18-19; 26.1-6; 35.1-19"
+            },
+            {
+                "id": "{note:3}",
+                "text": "23.10 Jr 7.30-31; 19.1-6; 32.34-35"
             }
         ]
     }

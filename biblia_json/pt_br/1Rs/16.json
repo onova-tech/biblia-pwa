@@ -4,7 +4,7 @@
         "book_number": 11,
         "new_testament": false,
         "num_chapters": 22,
-        "book_name": "REIS",
+        "book_name": "1º REIS",
         "book_full_name": "O PRIMEIRO LIVRO DOS REIS"
     },
     "chapter": {
@@ -197,12 +197,12 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:f} 16.24 ou fortificou o monte"
+                "id": "{note:f}",
+                "text": "16.24 ou fortificou o monte"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 16.34 Js 6.26"
+                "id": "{note:1}",
+                "text": "16.34 Js 6.26"
             }
         ]
     }

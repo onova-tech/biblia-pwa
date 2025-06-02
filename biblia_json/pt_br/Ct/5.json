@@ -96,20 +96,20 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:e} 5.1 ou bebei abundantemente do amor"
+                "id": "{note:e}",
+                "text": "5.1 ou bebei abundantemente do amor"
             },
             {
-                "id": "n2",
-                "text": "{note:f} 5.13 ou outeiros aromáticos"
+                "id": "{note:f}",
+                "text": "5.13 ou outeiros aromáticos"
             },
             {
-                "id": "n3",
-                "text": "{note:g} 5.14 ou corpo"
+                "id": "{note:g}",
+                "text": "5.14 ou corpo"
             },
             {
-                "id": "n4",
-                "text": "{note:h} 5.16 Heb. paladar"
+                "id": "{note:h}",
+                "text": "5.16 Heb. paladar"
             }
         ]
     }

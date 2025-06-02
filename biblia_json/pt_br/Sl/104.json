@@ -191,16 +191,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 104.4 Hb 1.7"
+                "id": "{note:1}",
+                "text": "104.4 Hb 1.7"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 104.26 Jó 41.1; Sl 74.14; Is 27.1"
+                "id": "{note:2}",
+                "text": "104.26 Jó 41.1; Sl 74.14; Is 27.1"
             },
             {
-                "id": "n3",
-                "text": "{note:q} 104.35 Heb. Aleluia"
+                "id": "{note:q}",
+                "text": "104.35 Heb. Aleluia"
             }
         ]
     }

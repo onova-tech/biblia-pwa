@@ -267,104 +267,120 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 5.4 Is 61.2"
+                "id": "{note:1}",
+                "text": "5.4 Is 61.2"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 5.5 Sl 37.11"
+                "id": "{note:2}",
+                "text": "5.5 Sl 37.11"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 5.6 Is 55.1-2"
+                "id": "{note:3}",
+                "text": "5.6 Is 55.1-2"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 5.8 Sl 24.4"
+                "id": "{note:4}",
+                "text": "5.8 Sl 24.4"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 5.10 1Pe 3.14"
+                "id": "{note:5}",
+                "text": "5.10 1Pe 3.14"
             },
             {
-                "id": "n6",
-                "text": "{note:6} 5.11 1Pe 4.14"
+                "id": "{note:6}",
+                "text": "5.11 1Pe 4.14"
             },
             {
-                "id": "n7",
-                "text": "{note:7} 5.12 2Cr 36.16; At 7.52"
+                "id": "{note:7}",
+                "text": "5.12 2Cr 36.16; At 7.52"
             },
             {
-                "id": "n8",
-                "text": "{note:8} 5.14 Jo 8.12; 9.5"
+                "id": "{note:8}",
+                "text": "5.14 Jo 8.12; 9.5"
             },
             {
-                "id": "n9",
-                "text": "{note:9} 5.15 Mc 4.21; Lc 8.16; 11.33"
+                "id": "{note:9}",
+                "text": "5.15 Mc 4.21; Lc 8.16; 11.33"
             },
             {
-                "id": "n10",
-                "text": "{note:10} 5.16 1Pe 2.12"
+                "id": "{note:10}",
+                "text": "5.16 1Pe 2.12"
             },
             {
-                "id": "n11",
-                "text": "{note:11} 5.18 Lc 16.17"
+                "id": "{note:11}",
+                "text": "5.18 Lc 16.17"
             },
             {
-                "id": "n12",
-                "text": "{note:12} 5.21 Êx 20.13; Dt 5.17 {note:g} 5.21 ou sujeito ao juízo"
+                "id": "{note:12}",
+                "text": "5.21 Êx 20.13; Dt 5.17"
             },
             {
-                "id": "n13",
-                "text": "{note:h} 5.22 ou sujeito ao conselho"
+                "id": "{note:h}",
+                "text": "5.22 ou sujeito ao conselho"
             },
             {
-                "id": "n14",
-                "text": "{note:i} 5.25 ou meirinho"
+                "id": "{note:i}",
+                "text": "5.25 ou meirinho"
             },
             {
-                "id": "n15",
-                "text": "{note:13} 5.27 Êx 20.14; Dt 5.18"
+                "id": "{note:13}",
+                "text": "5.27 Êx 20.14; Dt 5.18"
             },
             {
-                "id": "n16",
-                "text": "{note:14} 5.29 Mt 18.9; Mc 9.47"
+                "id": "{note:14}",
+                "text": "5.29 Mt 18.9; Mc 9.47"
             },
             {
-                "id": "n17",
-                "text": "{note:15} 5.30 Mt 18.8; Mc 9.43"
+                "id": "{note:15}",
+                "text": "5.30 Mt 18.8; Mc 9.43"
             },
             {
-                "id": "n18",
-                "text": "{note:16} 5.31 Dt 24.1-4; Mt 19.7; Mc 10.4"
+                "id": "{note:16}",
+                "text": "5.31 Dt 24.1-4; Mt 19.7; Mc 10.4"
             },
             {
-                "id": "n19",
-                "text": "{note:17} 5.32 Lc 16.18; 1Co 7.10-11"
+                "id": "{note:17}",
+                "text": "5.32 Lc 16.18; 1Co 7.10-11"
             },
             {
-                "id": "n20",
-                "text": "{note:18} 5.33 Lv 19.12 {note:19} 5.33 Nm 30.2; Dt 23.21"
+                "id": "{note:18}",
+                "text": "5.33 Lv 19.12"
             },
             {
-                "id": "n21",
-                "text": "{note:20} 5.34 Tg 5.12 {note:21} 5.34 Is 66.1; Mt 23.22"
+                "id": "{note:20}",
+                "text": "5.34 Tg 5.12"
             },
             {
-                "id": "n22",
-                "text": "{note:22} 5.35 Is 66.1 {note:23} 5.35 Sl 48.2"
+                "id": "{note:22}",
+                "text": "5.35 Is 66.1"
             },
             {
-                "id": "n23",
-                "text": "{note:24} 5.38 Êx 21.24; Lv 24.20; Dt 19.21"
+                "id": "{note:24}",
+                "text": "5.38 Êx 21.24; Lv 24.20; Dt 19.21"
             },
             {
-                "id": "n24",
-                "text": "{note:25} 5.43 Lv 19.18"
+                "id": "{note:25}",
+                "text": "5.43 Lv 19.18"
             },
             {
-                "id": "n25",
-                "text": "{note:26} 5.48 Dt 18.13"
+                "id": "{note:26}",
+                "text": "5.48 Dt 18.13"
+            },
+            {
+                "id": "{note:g}",
+                "text": "5.21 ou sujeito ao juízo"
+            },
+            {
+                "id": "{note:19}",
+                "text": "5.33 Nm 30.2; Dt 23.21"
+            },
+            {
+                "id": "{note:21}",
+                "text": "5.34 Is 66.1; Mt 23.22"
+            },
+            {
+                "id": "{note:23}",
+                "text": "5.35 Sl 48.2"
             }
         ]
     }

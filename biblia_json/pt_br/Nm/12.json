@@ -96,12 +96,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 12.7 Hb 3.2"
+                "id": "{note:1}",
+                "text": "12.7 Hb 3.2"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 12.14 Nm 5.2-3"
+                "id": "{note:2}",
+                "text": "12.14 Nm 5.2-3"
             }
         ]
     }

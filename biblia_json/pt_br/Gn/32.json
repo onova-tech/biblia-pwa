@@ -182,20 +182,24 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:n} 32.2 que significa dois exércitos ou bandos"
+                "id": "{note:n}",
+                "text": "32.2 que significa dois exércitos ou bandos"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 32.12 Gn 22.17"
+                "id": "{note:1}",
+                "text": "32.12 Gn 22.17"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 32.28 Gn 35.10 {note:o} 32.28 que significa aquele que luta com Deus"
+                "id": "{note:2}",
+                "text": "32.28 Gn 35.10"
             },
             {
-                "id": "n4",
-                "text": "{note:p} 32.30 que significa a face de Deus"
+                "id": "{note:p}",
+                "text": "32.30 que significa a face de Deus"
+            },
+            {
+                "id": "{note:o}",
+                "text": "32.28 que significa aquele que luta com Deus"
             }
         ]
     }

@@ -132,20 +132,20 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 13.2 Lc 2.23"
+                "id": "{note:1}",
+                "text": "13.2 Lc 2.23"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 13.12 Lc 2.23"
+                "id": "{note:2}",
+                "text": "13.12 Lc 2.23"
             },
             {
-                "id": "n3",
-                "text": "{note:r} 13.13 ou cabrito"
+                "id": "{note:r}",
+                "text": "13.13 ou cabrito"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 13.19 Gn 50.25; Js 24.32"
+                "id": "{note:3}",
+                "text": "13.19 Gn 50.25; Js 24.32"
             }
         ]
     }

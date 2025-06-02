@@ -4,7 +4,7 @@
         "book_number": 61,
         "new_testament": true,
         "num_chapters": 3,
-        "book_name": "PEDRO",
+        "book_name": "2º PEDRO",
         "book_full_name": "SEGUNDA EPÍSTOLA UNIVERSAL DO APÓSTOLO PEDRO"
     },
     "chapter": {
@@ -121,16 +121,20 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:a} 1.7 ou fraternidade, e à fraternidade, {note:b} 1.7 ou amor"
+                "id": "{note:a}",
+                "text": "1.7 ou fraternidade, e à fraternidade,"
             },
             {
-                "id": "n2",
-                "text": "{note:c} 1.15 ou partida"
+                "id": "{note:c}",
+                "text": "1.15 ou partida"
             },
             {
-                "id": "n3",
-                "text": "{note:1} 1.17-18 Mt 17.1-5; Mc 9.2-8; Lc 9.28-35"
+                "id": "{note:1}",
+                "text": "1.17-18 Mt 17.1-5; Mc 9.2-8; Lc 9.28-35"
+            },
+            {
+                "id": "{note:b}",
+                "text": "1.7 ou amor"
             }
         ]
     }

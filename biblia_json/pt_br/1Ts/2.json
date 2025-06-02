@@ -4,7 +4,7 @@
         "book_number": 52,
         "new_testament": true,
         "num_chapters": 5,
-        "book_name": "TESSALONICENSES",
+        "book_name": "1º TESSALONICENSES",
         "book_full_name": "PRIMEIRA EPÍSTOLA DO APÓSTOLO PAULO AOS TESSALONICENSES"
     },
     "chapter": {
@@ -122,16 +122,20 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 2.2 At 16.19-24 {note:2} 2.2 At 17.1-9"
+                "id": "{note:1}",
+                "text": "2.2 At 16.19-24"
             },
             {
-                "id": "n2",
-                "text": "{note:3} 2.14 At 17.5"
+                "id": "{note:3}",
+                "text": "2.14 At 17.5"
             },
             {
-                "id": "n3",
-                "text": "{note:4} 2.15-16 At 9.23,29; 13.45,50; 14.2,5,19; 17.5,13; 18.12"
+                "id": "{note:4}",
+                "text": "2.15-16 At 9.23,29; 13.45,50; 14.2,5,19; 17.5,13; 18.12"
+            },
+            {
+                "id": "{note:2}",
+                "text": "2.2 At 17.1-9"
             }
         ]
     }

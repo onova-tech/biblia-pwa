@@ -196,12 +196,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:e} 8.7 ou de obra de artífice"
+                "id": "{note:e}",
+                "text": "8.7 ou de obra de artífice"
             },
             {
-                "id": "n2",
-                "text": "{note:f} 8.9 ou coroa santa"
+                "id": "{note:f}",
+                "text": "8.9 ou coroa santa"
             }
         ]
     }

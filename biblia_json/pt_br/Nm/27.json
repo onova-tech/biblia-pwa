@@ -142,20 +142,20 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 27.7 Nm 36.2"
+                "id": "{note:1}",
+                "text": "27.7 Nm 36.2"
             },
             {
-                "id": "n2",
-                "text": "{note:l} 27.11 ou juízo"
+                "id": "{note:l}",
+                "text": "27.11 ou juízo"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 27.12-14 Dt 32.48-52"
+                "id": "{note:2}",
+                "text": "27.12-14 Dt 32.48-52"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 27.18 Êx 24.13"
+                "id": "{note:3}",
+                "text": "27.18 Êx 24.13"
             }
         ]
     }

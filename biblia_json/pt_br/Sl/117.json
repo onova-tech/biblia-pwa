@@ -26,8 +26,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:e} 117.1 Heb. Aleluia {note:1} 117.1 Rm 15.11"
+                "id": "{note:e}",
+                "text": "117.1 Heb. Aleluia"
+            },
+            {
+                "id": "{note:1}",
+                "text": "117.1 Rm 15.11"
             }
         ]
     }

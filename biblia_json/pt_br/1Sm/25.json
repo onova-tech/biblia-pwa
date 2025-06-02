@@ -4,7 +4,7 @@
         "book_number": 9,
         "new_testament": false,
         "num_chapters": 31,
-        "book_name": "SAMUEL",
+        "book_name": "1º SAMUEL",
         "book_full_name": "O PRIMEIRO LIVRO DE SAMUEL"
     },
     "chapter": {
@@ -247,12 +247,12 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:m} 25.22 Heb. ao que urine à parede"
+                "id": "{note:m}",
+                "text": "25.22 Heb. ao que urine à parede"
             },
             {
-                "id": "n2",
-                "text": "{note:n} 25.25 que significa tolo"
+                "id": "{note:n}",
+                "text": "25.25 que significa tolo"
             }
         ]
     }

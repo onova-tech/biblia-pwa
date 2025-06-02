@@ -252,52 +252,60 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 4.4 Dt 8.3"
+                "id": "{note:1}",
+                "text": "4.4 Dt 8.3"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 4.8 Dt 6.13"
+                "id": "{note:2}",
+                "text": "4.8 Dt 6.13"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 4.10 Sl 91.11"
+                "id": "{note:3}",
+                "text": "4.10 Sl 91.11"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 4.11 Sl 91.12"
+                "id": "{note:4}",
+                "text": "4.11 Sl 91.12"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 4.12 Dt 6.16"
+                "id": "{note:5}",
+                "text": "4.12 Dt 6.16"
             },
             {
-                "id": "n6",
-                "text": "{note:e} 4.19 Gr. remissão {note:6} 4.18-19 Is 61.1-2 {note:f} 4.19 Gr. remissão"
+                "id": "{note:e}",
+                "text": "4.19 Gr. remissão"
             },
             {
-                "id": "n7",
-                "text": "{note:7} 4.24 Jo 4.44"
+                "id": "{note:7}",
+                "text": "4.24 Jo 4.44"
             },
             {
-                "id": "n8",
-                "text": "{note:8} 4.25 1Rs 17.1"
+                "id": "{note:8}",
+                "text": "4.25 1Rs 17.1"
             },
             {
-                "id": "n9",
-                "text": "{note:9} 4.26 1Rs 17.8-16"
+                "id": "{note:9}",
+                "text": "4.26 1Rs 17.8-16"
             },
             {
-                "id": "n10",
-                "text": "{note:10} 4.27 2Rs 5.1-14"
+                "id": "{note:10}",
+                "text": "4.27 2Rs 5.1-14"
             },
             {
-                "id": "n11",
-                "text": "{note:11} 4.32 Mt 7.28-29"
+                "id": "{note:11}",
+                "text": "4.32 Mt 7.28-29"
             },
             {
-                "id": "n12",
-                "text": "{note:12} 4.44 Mt 4.23; 9.35"
+                "id": "{note:12}",
+                "text": "4.44 Mt 4.23; 9.35"
+            },
+            {
+                "id": "{note:6}",
+                "text": "4.18-19 Is 61.1-2"
+            },
+            {
+                "id": "{note:f}",
+                "text": "4.19 Gr. remissão"
             }
         ]
     }

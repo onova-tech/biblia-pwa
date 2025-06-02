@@ -167,60 +167,80 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:v} 12.2 ou o capitão e perfector"
+                "id": "{note:v}",
+                "text": "12.2 ou o capitão e perfector"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 12.5-6 Pv 3.11-12; Jó 5.17"
+                "id": "{note:1}",
+                "text": "12.5-6 Pv 3.11-12; Jó 5.17"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 12.12 Is 35.3 {note:w} 12.12 ou paralisados"
+                "id": "{note:2}",
+                "text": "12.12 Is 35.3"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 12.13 Pv 4.26"
+                "id": "{note:3}",
+                "text": "12.13 Pv 4.26"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 12.15 Dt 29.18"
+                "id": "{note:4}",
+                "text": "12.15 Dt 29.18"
             },
             {
-                "id": "n6",
-                "text": "{note:5} 12.16 Gn 25.29-34"
+                "id": "{note:5}",
+                "text": "12.16 Gn 25.29-34"
             },
             {
-                "id": "n7",
-                "text": "{note:6} 12.17 Gn 27.30-40"
+                "id": "{note:6}",
+                "text": "12.17 Gn 27.30-40"
             },
             {
-                "id": "n8",
-                "text": "{note:7} 12.18-19 Êx 19.16-22; 20.18-21; Dt 4.11-12; 5.22-27"
+                "id": "{note:7}",
+                "text": "12.18-19 Êx 19.16-22; 20.18-21; Dt 4.11-12; 5.22-27"
             },
             {
-                "id": "n9",
-                "text": "{note:8} 12.20 Êx 19.12-13"
+                "id": "{note:8}",
+                "text": "12.20 Êx 19.12-13"
             },
             {
-                "id": "n10",
-                "text": "{note:x} 12.21 ou o que se via {note:9} 12.21 Dt 9.19"
+                "id": "{note:x}",
+                "text": "12.21 ou o que se via"
             },
             {
-                "id": "n11",
-                "text": "{note:10} 12.24 Gn 4.10"
+                "id": "{note:10}",
+                "text": "12.24 Gn 4.10"
             },
             {
-                "id": "n12",
-                "text": "{note:y} 12.25 ou os avisou na terra {note:z} 12.25 ou os avisou dos céus {note:11} 12.25 Êx 20.19"
+                "id": "{note:y}",
+                "text": "12.25 ou os avisou na terra"
             },
             {
-                "id": "n13",
-                "text": "{note:a} 12.26 ou prometeu {note:12} 12.26 Ag 2.6"
+                "id": "{note:a}",
+                "text": "12.26 ou prometeu"
             },
             {
-                "id": "n14",
-                "text": "{note:13} 12.29 Dt 4.24"
+                "id": "{note:13}",
+                "text": "12.29 Dt 4.24"
+            },
+            {
+                "id": "{note:w}",
+                "text": "12.12 ou paralisados"
+            },
+            {
+                "id": "{note:9}",
+                "text": "12.21 Dt 9.19"
+            },
+            {
+                "id": "{note:z}",
+                "text": "12.25 ou os avisou dos céus"
+            },
+            {
+                "id": "{note:11}",
+                "text": "12.25 Êx 20.19"
+            },
+            {
+                "id": "{note:12}",
+                "text": "12.26 Ag 2.6"
             }
         ]
     }

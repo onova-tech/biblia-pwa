@@ -51,8 +51,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:i} 87.4 Heb. de Cuxe"
+                "id": "{note:i}",
+                "text": "87.4 Heb. de Cuxe"
             }
         ]
     }

@@ -187,12 +187,12 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:d} 3.10 Heb. Aram"
+                "id": "{note:d}",
+                "text": "3.10 Heb. Aram"
             },
             {
-                "id": "n2",
-                "text": "{note:e} 3.19 ou pedreiras"
+                "id": "{note:e}",
+                "text": "3.19 ou pedreiras"
             }
         ]
     }

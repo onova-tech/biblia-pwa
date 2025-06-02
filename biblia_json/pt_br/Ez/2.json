@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 48,
         "book_name": "EZEQUIEL",
-        "book_full_name": "EZEQUIEL"
+        "book_full_name": "O LIVRO DE EZEQUIEL"
     },
     "chapter": {
         "chapter_number": 2,
@@ -66,12 +66,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:e} 2.4 ou impudentes"
+                "id": "{note:e}",
+                "text": "2.4 ou impudentes"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 2.9 Ap 5.1"
+                "id": "{note:1}",
+                "text": "2.9 Ap 5.1"
             }
         ]
     }

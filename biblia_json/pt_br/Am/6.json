@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 9,
         "book_name": "AMÓS",
-        "book_full_name": "AMÓS"
+        "book_full_name": "O LIVRO DE AMÓS"
     },
     "chapter": {
         "chapter_number": 6,
@@ -86,12 +86,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:b} 6.6 ou por causa da aflição de José"
+                "id": "{note:b}",
+                "text": "6.6 ou por causa da aflição de José"
             },
             {
-                "id": "n2",
-                "text": "{note:c} 6.11 ou brechas"
+                "id": "{note:c}",
+                "text": "6.11 ou brechas"
             }
         ]
     }

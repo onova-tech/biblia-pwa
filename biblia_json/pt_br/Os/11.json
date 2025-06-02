@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 14,
         "book_name": "OSEIAS",
-        "book_full_name": "OSEIAS"
+        "book_full_name": "O LIVRO DE OSEIAS"
     },
     "chapter": {
         "chapter_number": 11,
@@ -76,12 +76,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 11.1 Mt 2.15"
+                "id": "{note:1}",
+                "text": "11.1 Mt 2.15"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 11.8 Dt 29.23"
+                "id": "{note:2}",
+                "text": "11.8 Dt 29.23"
             }
         ]
     }

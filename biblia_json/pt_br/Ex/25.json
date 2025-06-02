@@ -232,20 +232,20 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:f} 25.5 ou acácia"
+                "id": "{note:f}",
+                "text": "25.5 ou acácia"
             },
             {
-                "id": "n2",
-                "text": "{note:g} 25.29 ou com que se hão de derramar os licores"
+                "id": "{note:g}",
+                "text": "25.29 ou com que se hão de derramar os licores"
             },
             {
-                "id": "n3",
-                "text": "{note:1} 25.30 Lv 24.5-8"
+                "id": "{note:1}",
+                "text": "25.30 Lv 24.5-8"
             },
             {
-                "id": "n4",
-                "text": "{note:2} 25.40 At 7.44; Hb 8.5"
+                "id": "{note:2}",
+                "text": "25.40 At 7.44; Hb 8.5"
             }
         ]
     }

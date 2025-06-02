@@ -196,32 +196,40 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 69.4 Sl 35.19; Jo 15.25"
+                "id": "{note:1}",
+                "text": "69.4 Sl 35.19; Jo 15.25"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 69.9 Jo 2.17 {note:3} 69.9 Rm 15.3"
+                "id": "{note:2}",
+                "text": "69.9 Jo 2.17"
             },
             {
-                "id": "n3",
-                "text": "{note:4} 69.21 Mt 27.48; Mc 15.36; Jo 19.28-29"
+                "id": "{note:4}",
+                "text": "69.21 Mt 27.48; Mc 15.36; Jo 19.28-29"
             },
             {
-                "id": "n4",
-                "text": "{note:x} 69.22 ou quando se julguem em paz, torne-se ela uma armadilha"
+                "id": "{note:x}",
+                "text": "69.22 ou quando se julguem em paz, torne-se ela uma armadilha"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 69.22-23 Rm 11.9-10"
+                "id": "{note:5}",
+                "text": "69.22-23 Rm 11.9-10"
             },
             {
-                "id": "n6",
-                "text": "{note:y} 69.25 ou acampamento {note:6} 69.25 At 1.20"
+                "id": "{note:y}",
+                "text": "69.25 ou acampamento"
             },
             {
-                "id": "n7",
-                "text": "{note:7} 69.28 Ap 3.5; 13.8; 17.8"
+                "id": "{note:7}",
+                "text": "69.28 Ap 3.5; 13.8; 17.8"
+            },
+            {
+                "id": "{note:3}",
+                "text": "69.9 Rm 15.3"
+            },
+            {
+                "id": "{note:6}",
+                "text": "69.25 At 1.20"
             }
         ]
     }

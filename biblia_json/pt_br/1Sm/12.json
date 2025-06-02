@@ -4,7 +4,7 @@
         "book_number": 9,
         "new_testament": false,
         "num_chapters": 31,
-        "book_name": "SAMUEL",
+        "book_name": "1º SAMUEL",
         "book_full_name": "O PRIMEIRO LIVRO DE SAMUEL"
     },
     "chapter": {
@@ -141,28 +141,48 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 12.6 Êx 6.26"
+                "id": "{note:1}",
+                "text": "12.6 Êx 6.26"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 12.8 Êx 2.23"
+                "id": "{note:2}",
+                "text": "12.8 Êx 2.23"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 12.9 Jz 4.2 {note:5} 12.9 Jz 3.12 {note:4} 12.9 Jz 13.1"
+                "id": "{note:3}",
+                "text": "12.9 Jz 4.2"
             },
             {
-                "id": "n4",
-                "text": "{note:6} 12.10 Jz 10.10"
+                "id": "{note:6}",
+                "text": "12.10 Jz 10.10"
             },
             {
-                "id": "n5",
-                "text": "{note:7} 12.11 Jz 7.1 {note:10} 12.11 1Sm 3.20 {note:9} 12.11 Jz 11.29 {note:8} 12.11 Jz 4.6"
+                "id": "{note:7}",
+                "text": "12.11 Jz 7.1"
             },
             {
-                "id": "n6",
-                "text": "{note:11} 12.12 1Sm 8.19"
+                "id": "{note:11}",
+                "text": "12.12 1Sm 8.19"
+            },
+            {
+                "id": "{note:5}",
+                "text": "12.9 Jz 3.12"
+            },
+            {
+                "id": "{note:4}",
+                "text": "12.9 Jz 13.1"
+            },
+            {
+                "id": "{note:10}",
+                "text": "12.11 1Sm 3.20"
+            },
+            {
+                "id": "{note:9}",
+                "text": "12.11 Jz 11.29"
+            },
+            {
+                "id": "{note:8}",
+                "text": "12.11 Jz 4.6"
             }
         ]
     }

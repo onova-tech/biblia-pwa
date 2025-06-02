@@ -276,28 +276,36 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 32.17 1Co 10.20"
+                "id": "{note:1}",
+                "text": "32.17 1Co 10.20"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 32.21 1Co 10.22 {note:3} 32.21 Rm 10.19"
+                "id": "{note:2}",
+                "text": "32.21 1Co 10.22"
             },
             {
-                "id": "n3",
-                "text": "{note:4} 32.35 Rm 12.19; Hb 10.30"
+                "id": "{note:4}",
+                "text": "32.35 Rm 12.19; Hb 10.30"
             },
             {
-                "id": "n4",
-                "text": "{note:5} 32.43 Rm 15.10 {note:6} 32.43 Ap 19.2"
+                "id": "{note:5}",
+                "text": "32.43 Rm 15.10"
             },
             {
-                "id": "n5",
-                "text": "{note:m} 32.44 ou Josué"
+                "id": "{note:m}",
+                "text": "32.44 ou Josué"
             },
             {
-                "id": "n6",
-                "text": "{note:7} 32.48-52 Nm 27.12-14"
+                "id": "{note:7}",
+                "text": "32.48-52 Nm 27.12-14"
+            },
+            {
+                "id": "{note:3}",
+                "text": "32.21 Rm 10.19"
+            },
+            {
+                "id": "{note:6}",
+                "text": "32.43 Ap 19.2"
             }
         ]
     }

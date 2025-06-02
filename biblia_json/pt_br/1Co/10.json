@@ -4,7 +4,7 @@
         "book_number": 46,
         "new_testament": true,
         "num_chapters": 16,
-        "book_name": "CORÍNTIOS",
+        "book_name": "1º CORÍNTIOS",
         "book_full_name": "PRIMEIRA EPÍSTOLA DO APÓSTOLO PAULO AOS CORÍNTIOS"
     },
     "chapter": {
@@ -192,64 +192,68 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 10.1 Êx 13.21-22 {note:2} 10.1 Êx 14.22-29"
+                "id": "{note:1}",
+                "text": "10.1 Êx 13.21-22"
             },
             {
-                "id": "n2",
-                "text": "{note:3} 10.3 Êx 16.35"
+                "id": "{note:3}",
+                "text": "10.3 Êx 16.35"
             },
             {
-                "id": "n3",
-                "text": "{note:4} 10.4 Êx 17.6; Nm 20.11"
+                "id": "{note:4}",
+                "text": "10.4 Êx 17.6; Nm 20.11"
             },
             {
-                "id": "n4",
-                "text": "{note:5} 10.5 Nm 14.29-30"
+                "id": "{note:5}",
+                "text": "10.5 Nm 14.29-30"
             },
             {
-                "id": "n5",
-                "text": "{note:6} 10.6 Nm 11.4"
+                "id": "{note:6}",
+                "text": "10.6 Nm 11.4"
             },
             {
-                "id": "n6",
-                "text": "{note:7} 10.7 Êx 32.6"
+                "id": "{note:7}",
+                "text": "10.7 Êx 32.6"
             },
             {
-                "id": "n7",
-                "text": "{note:8} 10.8 Nm 25.1-18"
+                "id": "{note:8}",
+                "text": "10.8 Nm 25.1-18"
             },
             {
-                "id": "n8",
-                "text": "{note:9} 10.9 Nm 21.5-6"
+                "id": "{note:9}",
+                "text": "10.9 Nm 21.5-6"
             },
             {
-                "id": "n9",
-                "text": "{note:10} 10.10 Nm 16.41,49"
+                "id": "{note:10}",
+                "text": "10.10 Nm 16.41,49"
             },
             {
-                "id": "n10",
-                "text": "{note:11} 10.16 Mt 26.27-28; Mc 14.22-24; Lc 22.19-20"
+                "id": "{note:11}",
+                "text": "10.16 Mt 26.27-28; Mc 14.22-24; Lc 22.19-20"
             },
             {
-                "id": "n11",
-                "text": "{note:12} 10.18 Lv 7.6"
+                "id": "{note:12}",
+                "text": "10.18 Lv 7.6"
             },
             {
-                "id": "n12",
-                "text": "{note:13} 10.20 Dt 32.17"
+                "id": "{note:13}",
+                "text": "10.20 Dt 32.17"
             },
             {
-                "id": "n13",
-                "text": "{note:14} 10.22 Dt 32.21"
+                "id": "{note:14}",
+                "text": "10.22 Dt 32.21"
             },
             {
-                "id": "n14",
-                "text": "{note:15} 10.23 1Co 6.12"
+                "id": "{note:15}",
+                "text": "10.23 1Co 6.12"
             },
             {
-                "id": "n15",
-                "text": "{note:16} 10.26 Sl 24.1"
+                "id": "{note:16}",
+                "text": "10.26 Sl 24.1"
+            },
+            {
+                "id": "{note:2}",
+                "text": "10.1 Êx 14.22-29"
             }
         ]
     }

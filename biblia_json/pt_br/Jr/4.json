@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 52,
         "book_name": "JEREMIAS",
-        "book_full_name": "JEREMIAS"
+        "book_full_name": "O LIVRO DE JEREMIAS"
     },
     "chapter": {
         "chapter_number": 4,
@@ -171,28 +171,28 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 4.3 Os 10.12"
+                "id": "{note:1}",
+                "text": "4.3 Os 10.12"
             },
             {
-                "id": "n2",
-                "text": "{note:e} 4.12 ou vento forte de mais para tal virá"
+                "id": "{note:e}",
+                "text": "4.12 ou vento forte de mais para tal virá"
             },
             {
-                "id": "n3",
-                "text": "{note:f} 4.19 Heb. nas paredes do meu coração!"
+                "id": "{note:f}",
+                "text": "4.19 Heb. nas paredes do meu coração!"
             },
             {
-                "id": "n4",
-                "text": "{note:g} 4.20 ou Destruição sobre destruição"
+                "id": "{note:g}",
+                "text": "4.20 ou Destruição sobre destruição"
             },
             {
-                "id": "n5",
-                "text": "{note:h} 4.22 ou obtusos"
+                "id": "{note:h}",
+                "text": "4.22 ou obtusos"
             },
             {
-                "id": "n6",
-                "text": "{note:i} 4.29 ou matas"
+                "id": "{note:i}",
+                "text": "4.29 ou matas"
             }
         ]
     }

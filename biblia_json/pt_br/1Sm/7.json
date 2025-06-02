@@ -4,7 +4,7 @@
         "book_number": 9,
         "new_testament": false,
         "num_chapters": 31,
-        "book_name": "SAMUEL",
+        "book_name": "1º SAMUEL",
         "book_full_name": "O PRIMEIRO LIVRO DE SAMUEL"
     },
     "chapter": {
@@ -107,12 +107,12 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 7.1-2 2Sm 6.2-4; 1Cr 13.5-7"
+                "id": "{note:1}",
+                "text": "7.1-2 2Sm 6.2-4; 1Cr 13.5-7"
             },
             {
-                "id": "n2",
-                "text": "{note:e} 7.12 que significa a pedra de ajuda"
+                "id": "{note:e}",
+                "text": "7.12 que significa a pedra de ajuda"
             }
         ]
     }

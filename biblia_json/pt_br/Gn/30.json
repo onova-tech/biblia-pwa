@@ -237,44 +237,52 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:v} 30.3 ou tenha filhos"
+                "id": "{note:v}",
+                "text": "30.3 ou tenha filhos"
             },
             {
-                "id": "n2",
-                "text": "{note:w} 30.6 que significa juiz"
+                "id": "{note:w}",
+                "text": "30.6 que significa juiz"
             },
             {
-                "id": "n3",
-                "text": "{note:x} 30.8 que significa lutando"
+                "id": "{note:x}",
+                "text": "30.8 que significa lutando"
             },
             {
-                "id": "n4",
-                "text": "{note:y} 30.11 Heb. Vem uma fortuna {note:z} 30.11 que significa fortuna"
+                "id": "{note:y}",
+                "text": "30.11 Heb. Vem uma fortuna"
             },
             {
-                "id": "n5",
-                "text": "{note:a} 30.13 Heb. Sou feliz {note:b} 30.13 que significa feliz"
+                "id": "{note:a}",
+                "text": "30.13 Heb. Sou feliz"
             },
             {
-                "id": "n6",
-                "text": "{note:c} 30.18 que significa galardão"
+                "id": "{note:c}",
+                "text": "30.18 que significa galardão"
             },
             {
-                "id": "n7",
-                "text": "{note:d} 30.20 que significa morada"
+                "id": "{note:d}",
+                "text": "30.20 que significa morada"
             },
             {
-                "id": "n8",
-                "text": "{note:e} 30.21 que significa julgada"
+                "id": "{note:e}",
+                "text": "30.21 que significa julgada"
             },
             {
-                "id": "n9",
-                "text": "{note:f} 30.24 que significa aumentador"
+                "id": "{note:f}",
+                "text": "30.24 que significa aumentador"
             },
             {
-                "id": "n10",
-                "text": "{note:g} 30.27 Heb. Tenho adivinhado"
+                "id": "{note:g}",
+                "text": "30.27 Heb. Tenho adivinhado"
+            },
+            {
+                "id": "{note:z}",
+                "text": "30.11 que significa fortuna"
+            },
+            {
+                "id": "{note:b}",
+                "text": "30.13 que significa feliz"
             }
         ]
     }

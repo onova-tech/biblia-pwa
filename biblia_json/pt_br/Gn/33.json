@@ -122,12 +122,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:q} 33.17 ou cabanas {note:r} 33.17 que significa em paz"
+                "id": "{note:q}",
+                "text": "33.17 ou cabanas"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 33.19 Js 24.32; Jo 4.5"
+                "id": "{note:1}",
+                "text": "33.19 Js 24.32; Jo 4.5"
+            },
+            {
+                "id": "{note:r}",
+                "text": "33.17 que significa em paz"
             }
         ]
     }

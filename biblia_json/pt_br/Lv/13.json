@@ -311,8 +311,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:i} 13.55 Heb. na sua calva ou meia-calva"
+                "id": "{note:i}",
+                "text": "13.55 Heb. na sua calva ou meia-calva"
             }
         ]
     }

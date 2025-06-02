@@ -106,28 +106,32 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 17.1 Jr 51.13"
+                "id": "{note:1}",
+                "text": "17.1 Jr 51.13"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 17.2 Jr 51.7"
+                "id": "{note:2}",
+                "text": "17.2 Jr 51.7"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 17.3 Ap 13.1"
+                "id": "{note:3}",
+                "text": "17.3 Ap 13.1"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 17.4 Jr 51.7"
+                "id": "{note:4}",
+                "text": "17.4 Jr 51.7"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 17.8 Dn 7.3 {note:6} 17.8 Sl 69.28"
+                "id": "{note:5}",
+                "text": "17.8 Dn 7.3"
             },
             {
-                "id": "n6",
-                "text": "{note:7} 17.12 Dn 7.24"
+                "id": "{note:7}",
+                "text": "17.12 Dn 7.24"
+            },
+            {
+                "id": "{note:6}",
+                "text": "17.8 Sl 69.28"
             }
         ]
     }

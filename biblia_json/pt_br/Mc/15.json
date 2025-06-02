@@ -262,40 +262,44 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:l} 15.16 isto é, o pretório"
+                "id": "{note:l}",
+                "text": "15.16 isto é, o pretório"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 15.21 Rm 16.13"
+                "id": "{note:1}",
+                "text": "15.21 Rm 16.13"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 15.24 Sl 22.18"
+                "id": "{note:2}",
+                "text": "15.24 Sl 22.18"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 15.28 Is 53.12"
+                "id": "{note:3}",
+                "text": "15.28 Is 53.12"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 15.29 Mc 14.58; Jo 2.19 {note:5} 15.29 Sl 22.7; 109.25"
+                "id": "{note:4}",
+                "text": "15.29 Mc 14.58; Jo 2.19"
             },
             {
-                "id": "n6",
-                "text": "{note:6} 15.34 Sl 22.1"
+                "id": "{note:6}",
+                "text": "15.34 Sl 22.1"
             },
             {
-                "id": "n7",
-                "text": "{note:7} 15.36 Sl 69.21"
+                "id": "{note:7}",
+                "text": "15.36 Sl 69.21"
             },
             {
-                "id": "n8",
-                "text": "{note:8} 15.38 Êx 26.31-33"
+                "id": "{note:8}",
+                "text": "15.38 Êx 26.31-33"
             },
             {
-                "id": "n9",
-                "text": "{note:9} 15.40-41 Lc 8.2-3"
+                "id": "{note:9}",
+                "text": "15.40-41 Lc 8.2-3"
+            },
+            {
+                "id": "{note:5}",
+                "text": "15.29 Sl 22.7; 109.25"
             }
         ]
     }

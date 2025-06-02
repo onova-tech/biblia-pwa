@@ -146,12 +146,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 2.4-8 1Rs 10.23-27; 2Cr 9.22-27"
+                "id": "{note:1}",
+                "text": "2.4-8 1Rs 10.23-27; 2Cr 9.22-27"
             },
             {
-                "id": "n2",
-                "text": "{note:a} 2.25 Heb. se apressaria a gozar"
+                "id": "{note:a}",
+                "text": "2.25 Heb. se apressaria a gozar"
             }
         ]
     }

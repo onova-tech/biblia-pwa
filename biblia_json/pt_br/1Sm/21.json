@@ -4,7 +4,7 @@
         "book_number": 9,
         "new_testament": false,
         "num_chapters": 31,
-        "book_name": "SAMUEL",
+        "book_name": "1º SAMUEL",
         "book_full_name": "O PRIMEIRO LIVRO DE SAMUEL"
     },
     "chapter": {
@@ -97,28 +97,28 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 21.1 Mt 12.3-4; Mc 2.25-26; Lc 6.3"
+                "id": "{note:1}",
+                "text": "21.1 Mt 12.3-4; Mc 2.25-26; Lc 6.3"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 21.6 Lv 24.5-9"
+                "id": "{note:2}",
+                "text": "21.6 Lv 24.5-9"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 21.9 1Sm 17.51"
+                "id": "{note:3}",
+                "text": "21.9 1Sm 17.51"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 21.11 1Sm 18.7; 29.5"
+                "id": "{note:4}",
+                "text": "21.11 1Sm 18.7; 29.5"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 21.12 Sl 56, título"
+                "id": "{note:5}",
+                "text": "21.12 Sl 56, título"
             },
             {
-                "id": "n6",
-                "text": "{note:6} 21.13 Sl 34, título"
+                "id": "{note:6}",
+                "text": "21.13 Sl 34, título"
             }
         ]
     }

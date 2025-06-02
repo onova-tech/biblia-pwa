@@ -4,7 +4,7 @@
         "book_number": 62,
         "new_testament": true,
         "num_chapters": 5,
-        "book_name": "JOÃO",
+        "book_name": "1º JOÃO",
         "book_full_name": "PRIMEIRA EPÍSTOLA UNIVERSAL DO APÓSTOLO JOÃO"
     },
     "chapter": {
@@ -167,12 +167,12 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:a} 2.1 ou Consolador Gr. Paracleto"
+                "id": "{note:a}",
+                "text": "2.1 ou Consolador Gr. Paracleto"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 2.7 Jo 13.34"
+                "id": "{note:1}",
+                "text": "2.7 Jo 13.34"
             }
         ]
     }

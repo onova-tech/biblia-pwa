@@ -142,16 +142,24 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 33.1 Gn 12.7 {note:3} 33.1 Gn 28.13 {note:2} 33.1 Gn 26.3"
+                "id": "{note:1}",
+                "text": "33.1 Gn 12.7"
             },
             {
-                "id": "n2",
-                "text": "{note:4} 33.19 Rm 9.15"
+                "id": "{note:4}",
+                "text": "33.19 Rm 9.15"
             },
             {
-                "id": "n3",
-                "text": "{note:r} 33.21 ou rocha"
+                "id": "{note:r}",
+                "text": "33.21 ou rocha"
+            },
+            {
+                "id": "{note:3}",
+                "text": "33.1 Gn 28.13"
+            },
+            {
+                "id": "{note:2}",
+                "text": "33.1 Gn 26.3"
             }
         ]
     }

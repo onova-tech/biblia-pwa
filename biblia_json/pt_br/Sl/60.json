@@ -76,12 +76,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 60, título 2Sm 8.13; 1Cr 18.12"
+                "id": "{note:1}",
+                "text": "60, título 2Sm 8.13; 1Cr 18.12"
             },
             {
-                "id": "n2",
-                "text": "{note:r} 60.11 ou a salvação"
+                "id": "{note:r}",
+                "text": "60.11 ou a salvação"
             }
         ]
     }

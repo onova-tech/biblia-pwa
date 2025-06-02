@@ -3,34 +3,39 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="manifest" href="/biblia-pwa/manifest.json" />
         <link type="text/css" href="/biblia-pwa/css/materialize.css" rel="stylesheet">
         <link type="text/css" href="/biblia-pwa/css/styles.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Ancizar+Sans:ital,wght@0,100..1000;1,100..1000&display=swap" rel="stylesheet">
+        <script type="text/javascript" src="/biblia-pwa/js/service_worker_enabler.js"></script>
         <script type="text/javascript" src="/biblia-pwa/js/utils.js"></script>
         <script type="text/javascript" src="/biblia-pwa/pages/js/book_selection.js"></script>
-        <title>Bíblia JFA 1969</title>
+        <title>Bíblia CCB</title>
+        <link rel="icon" type="image/x-icon" href="/biblia-pwa/fav/bible.32.png" />
     </head>
     <body>
         <div id="content">
             <nav>
                 <div class="nav-wrapper blue navbar_spacing">
-                    <a href="/biblia-pwa/index.html" class="brand-logo center ancizar-sans-font"><i class="material-icons">book</i>Bíblia</a>
+                    <a href="/index.html" class="brand-logo center ancizar-sans-font"><i class="material-icons">book</i>Bíblia</a>
                     <a href="#" data-target="mobile-menu" class="sidenav-trigger"><i class="material-icons">menu</i></a>
                     <ul class="right hide-on-med-and-down">
-                        <li><button onclick="load_random_chapter();" class="btn">Capítulo do Dia</button></li>
+                        <li id="download_for_offline_btn"><a onclick="downloadAll().then(() => { console.log('Async done!'); })" class="btn"><i class="material-icons">download_for_offline</i></a></li>
+                        <li><a onclick="load_random_chapter();" class="btn">Capítulo do Dia</a></li>
                     </ul>
                 </div>
             </nav>
 
             <ul class="sidenav center" id="mobile-menu">
-                <li><button onclick="load_random_chapter();" class="btn">Capítulo do Dia</button></li>
+                <li id="download_for_offline_btn_mobile"><a onclick="downloadAll().then(() => { console.log('Async done!'); })" class="btn"><i class="material-icons">download_for_offline</i></a></li>
+                <li><a onclick="load_random_chapter();" class="btn">Capítulo do Dia</a></li>
             </ul>
 
             <div id="book_selection" class="book_selection" >
-                <h3 id="bible_name" class="bible_name ancizar-sans-font">Bíblia JFA 1969</h3>
+                <h3 id="bible_name" class="bible_name ancizar-sans-font">Bíblia CCB</h3>
 
                 <h5 id="old_testament_title" class="testament_title ancizar-sans-font">Antigo Testamento:</h5>
                 <div id="old_testament_books" class="books_names"></div>

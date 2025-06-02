@@ -111,12 +111,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 80.1 Êx 25.22"
+                "id": "{note:1}",
+                "text": "80.1 Êx 25.22"
             },
             {
-                "id": "n2",
-                "text": "{note:f} 80.5 Heb. em grande medida"
+                "id": "{note:f}",
+                "text": "80.5 Heb. em grande medida"
             }
         ]
     }

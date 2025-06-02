@@ -231,12 +231,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 36.2 Gn 26.34"
+                "id": "{note:1}",
+                "text": "36.2 Gn 26.34"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 36.3 Gn 28.9"
+                "id": "{note:2}",
+                "text": "36.3 Gn 28.9"
             }
         ]
     }

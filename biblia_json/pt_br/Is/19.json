@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 66,
         "book_name": "ISAÍAS",
-        "book_full_name": "ISAÍAS"
+        "book_full_name": "O LIVRO DE ISAÍAS"
     },
     "chapter": {
         "chapter_number": 19,
@@ -141,16 +141,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:x} 19.1 ou Sentença"
+                "id": "{note:x}",
+                "text": "19.1 ou Sentença"
             },
             {
-                "id": "n2",
-                "text": "{note:y} 19.7 ou Os prados"
+                "id": "{note:y}",
+                "text": "19.7 ou Os prados"
             },
             {
-                "id": "n3",
-                "text": "{note:1} 19.1-25 Jr 46.2-26; Ez 29.1—32.32"
+                "id": "{note:1}",
+                "text": "19.1-25 Jr 46.2-26; Ez 29.1—32.32"
             }
         ]
     }

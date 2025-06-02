@@ -76,8 +76,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 143.2 Rm 3.20; Gl 2.16"
+                "id": "{note:1}",
+                "text": "143.2 Rm 3.20; Gl 2.16"
             }
         ]
     }

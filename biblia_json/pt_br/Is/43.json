@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 66,
         "book_name": "ISAÍAS",
-        "book_full_name": "ISAÍAS"
+        "book_full_name": "O LIVRO DE ISAÍAS"
     },
     "chapter": {
         "chapter_number": 43,
@@ -156,12 +156,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:v} 43.20 ou chacais"
+                "id": "{note:v}",
+                "text": "43.20 ou chacais"
             },
             {
-                "id": "n2",
-                "text": "{note:w} 43.27 ou embaixadores"
+                "id": "{note:w}",
+                "text": "43.27 ou embaixadores"
             }
         ]
     }

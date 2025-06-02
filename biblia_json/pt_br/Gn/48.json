@@ -132,24 +132,24 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 48.3-4 Gn 28.13-14"
+                "id": "{note:1}",
+                "text": "48.3-4 Gn 28.13-14"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 48.7 Gn 35.16-19"
+                "id": "{note:2}",
+                "text": "48.7 Gn 35.16-19"
             },
             {
-                "id": "n3",
-                "text": "{note:m} 48.16 ou remiu"
+                "id": "{note:m}",
+                "text": "48.16 ou remiu"
             },
             {
-                "id": "n4",
-                "text": "{note:n} 48.19 Heb. plenitude"
+                "id": "{note:n}",
+                "text": "48.19 Heb. plenitude"
             },
             {
-                "id": "n5",
-                "text": "{note:3} 48.20 Hb 11.21"
+                "id": "{note:3}",
+                "text": "48.20 Hb 11.21"
             }
         ]
     }

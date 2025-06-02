@@ -5,7 +5,7 @@
         "new_testament": true,
         "num_chapters": 28,
         "book_name": "ATOS DOS APÓSTOLOS",
-        "book_full_name": "ATOS DOS APÓSTOLOS"
+        "book_full_name": "O LIVRO DE ATOS DOS APÓSTOLOS"
     },
     "chapter": {
         "chapter_number": 8,
@@ -222,12 +222,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 8.21 Sl 78.37"
+                "id": "{note:1}",
+                "text": "8.21 Sl 78.37"
             },
             {
-                "id": "n2",
-                "text": "{note:e} 8.33 ou tirada a sua sentença {note:2} 8.32-33 Is 53.7-8"
+                "id": "{note:e}",
+                "text": "8.33 ou tirada a sua sentença"
+            },
+            {
+                "id": "{note:2}",
+                "text": "8.32-33 Is 53.7-8"
             }
         ]
     }

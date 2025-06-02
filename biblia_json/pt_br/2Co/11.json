@@ -4,7 +4,7 @@
         "book_number": 47,
         "new_testament": true,
         "num_chapters": 13,
-        "book_name": "CORÍNTIOS",
+        "book_name": "2º CORÍNTIOS",
         "book_full_name": "SEGUNDA EPÍSTOLA DO APÓSTOLO PAULO AOS CORÍNTIOS"
     },
     "chapter": {
@@ -187,32 +187,40 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 11.3 Gn 3.4-13"
+                "id": "{note:1}",
+                "text": "11.3 Gn 3.4-13"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 11.9 Fp 4.15-18"
+                "id": "{note:2}",
+                "text": "11.9 Fp 4.15-18"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 11.23 At 16.23"
+                "id": "{note:3}",
+                "text": "11.23 At 16.23"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 11.24 Dt 25.3"
+                "id": "{note:4}",
+                "text": "11.24 Dt 25.3"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 11.25 At 16.22 {note:6} 11.25 At 14.19"
+                "id": "{note:5}",
+                "text": "11.25 At 16.22"
             },
             {
-                "id": "n6",
-                "text": "{note:7} 11.26 At 9.23 {note:8} 11.26 At 14.5"
+                "id": "{note:7}",
+                "text": "11.26 At 9.23"
             },
             {
-                "id": "n7",
-                "text": "{note:9} 11.32-33 At 9.23-25"
+                "id": "{note:9}",
+                "text": "11.32-33 At 9.23-25"
+            },
+            {
+                "id": "{note:6}",
+                "text": "11.25 At 14.19"
+            },
+            {
+                "id": "{note:8}",
+                "text": "11.26 At 14.5"
             }
         ]
     }

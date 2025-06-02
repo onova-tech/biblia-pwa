@@ -207,28 +207,36 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:o} 32.1 ou um deus"
+                "id": "{note:o}",
+                "text": "32.1 ou um deus"
             },
             {
-                "id": "n2",
-                "text": "{note:p} 32.4 ou Isto é o teu deus"
+                "id": "{note:p}",
+                "text": "32.4 ou Isto é o teu deus"
             },
             {
-                "id": "n3",
-                "text": "{note:1} 32.6 1Co 10.7 {note:2} 32.1-6 At 7.39-41"
+                "id": "{note:1}",
+                "text": "32.6 1Co 10.7"
             },
             {
-                "id": "n4",
-                "text": "{note:q} 32.9 Heb. duro de cerviz"
+                "id": "{note:q}",
+                "text": "32.9 Heb. duro de cerviz"
             },
             {
-                "id": "n5",
-                "text": "{note:3} 32.13 Gn 22.16-17 {note:4} 32.13 Gn 17.8"
+                "id": "{note:3}",
+                "text": "32.13 Gn 22.16-17"
             },
             {
-                "id": "n6",
-                "text": "{note:5} 32.32-33 Ap 3.5"
+                "id": "{note:5}",
+                "text": "32.32-33 Ap 3.5"
+            },
+            {
+                "id": "{note:2}",
+                "text": "32.1-6 At 7.39-41"
+            },
+            {
+                "id": "{note:4}",
+                "text": "32.13 Gn 17.8"
             }
         ]
     }

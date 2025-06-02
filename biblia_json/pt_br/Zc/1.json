@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 14,
         "book_name": "ZACARIAS",
-        "book_full_name": "ZACARIAS"
+        "book_full_name": "O LIVRO DE ZACARIAS"
     },
     "chapter": {
         "chapter_number": 1,
@@ -132,20 +132,28 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 1.1 Ed 4.24—5.1; 6.14"
+                "id": "{note:1}",
+                "text": "1.1 Ed 4.24—5.1; 6.14"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 1.8 Ap 6.4 {note:3} 1.8 Ap 6.2 {note:a} 1.8 ou no lugar sombrio"
+                "id": "{note:2}",
+                "text": "1.8 Ap 6.4"
             },
             {
-                "id": "n3",
-                "text": "{note:b} 1.19 Heb. chifres"
+                "id": "{note:b}",
+                "text": "1.19 Heb. chifres"
             },
             {
-                "id": "n4",
-                "text": "{note:c} 1.21 Heb. chifre"
+                "id": "{note:c}",
+                "text": "1.21 Heb. chifre"
+            },
+            {
+                "id": "{note:3}",
+                "text": "1.8 Ap 6.2"
+            },
+            {
+                "id": "{note:a}",
+                "text": "1.8 ou no lugar sombrio"
             }
         ]
     }

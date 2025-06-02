@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 66,
         "book_name": "ISAÍAS",
-        "book_full_name": "ISAÍAS"
+        "book_full_name": "O LIVRO DE ISAÍAS"
     },
     "chapter": {
         "chapter_number": 28,
@@ -161,28 +161,36 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:e} 28.7 ou cambaleiam"
+                "id": "{note:e}",
+                "text": "28.7 ou cambaleiam"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 28.11-12 1Co 14.21"
+                "id": "{note:1}",
+                "text": "28.11-12 1Co 14.21"
             },
             {
-                "id": "n3",
-                "text": "{note:f} 28.15 Heb. Sheol"
+                "id": "{note:f}",
+                "text": "28.15 Heb. Sheol"
             },
             {
-                "id": "n4",
-                "text": "{note:2} 28.16 Rm 9.33; 1Pe 2.6 {note:3} 28.16 Rm 10.11"
+                "id": "{note:2}",
+                "text": "28.16 Rm 9.33; 1Pe 2.6"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 28.21 2Sm 5.20; 1Cr 14.11 {note:5} 28.21 Js 10.10-12"
+                "id": "{note:4}",
+                "text": "28.21 2Sm 5.20; 1Cr 14.11"
             },
             {
-                "id": "n6",
-                "text": "{note:g} 28.22 ou consumação"
+                "id": "{note:g}",
+                "text": "28.22 ou consumação"
+            },
+            {
+                "id": "{note:3}",
+                "text": "28.16 Rm 10.11"
+            },
+            {
+                "id": "{note:5}",
+                "text": "28.21 Js 10.10-12"
             }
         ]
     }

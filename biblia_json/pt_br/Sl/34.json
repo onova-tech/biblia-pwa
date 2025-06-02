@@ -126,20 +126,20 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 34, título 1Sm 21.13-15"
+                "id": "{note:1}",
+                "text": "34, título 1Sm 21.13-15"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 34.8 1Pe 2.3"
+                "id": "{note:2}",
+                "text": "34.8 1Pe 2.3"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 34.12-16 1Pe 3.10-12"
+                "id": "{note:3}",
+                "text": "34.12-16 1Pe 3.10-12"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 34.20 Êx 12.46; Nm 9.12; Jo 19.36"
+                "id": "{note:4}",
+                "text": "34.20 Êx 12.46; Nm 9.12; Jo 19.36"
             }
         ]
     }

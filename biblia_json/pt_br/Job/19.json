@@ -161,8 +161,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:h} 19.28 Heb. palavra ou matéria"
+                "id": "{note:h}",
+                "text": "19.28 Heb. palavra ou matéria"
             }
         ]
     }

@@ -4,7 +4,7 @@
         "book_number": 11,
         "new_testament": false,
         "num_chapters": 22,
-        "book_name": "REIS",
+        "book_name": "1º REIS",
         "book_full_name": "O PRIMEIRO LIVRO DOS REIS"
     },
     "chapter": {
@@ -252,12 +252,12 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 18.31 Gn 32.28; 35.10"
+                "id": "{note:1}",
+                "text": "18.31 Gn 32.28; 35.10"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 18.42 Tg 5.18"
+                "id": "{note:2}",
+                "text": "18.42 Tg 5.18"
             }
         ]
     }

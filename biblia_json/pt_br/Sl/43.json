@@ -41,12 +41,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:d} 43.1 ou nação"
+                "id": "{note:d}",
+                "text": "43.1 ou nação"
             },
             {
-                "id": "n2",
-                "text": "{note:e} 43.4 Heb. a alegria da minha alegria"
+                "id": "{note:e}",
+                "text": "43.4 Heb. a alegria da minha alegria"
             }
         ]
     }

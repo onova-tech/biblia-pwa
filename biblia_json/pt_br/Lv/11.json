@@ -251,16 +251,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:g} 11.10 ou criatura vivente"
+                "id": "{note:g}",
+                "text": "11.10 ou criatura vivente"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 11.44-45 Lv 19.2; 1Pe 1.16"
+                "id": "{note:1}",
+                "text": "11.44-45 Lv 19.2; 1Pe 1.16"
             },
             {
-                "id": "n3",
-                "text": "{note:h} 11.46 ou criatura vivente"
+                "id": "{note:h}",
+                "text": "11.46 ou criatura vivente"
             }
         ]
     }

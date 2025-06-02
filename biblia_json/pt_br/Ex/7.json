@@ -147,16 +147,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 7.3 At 7.36"
+                "id": "{note:1}",
+                "text": "7.3 At 7.36"
             },
             {
-                "id": "n2",
-                "text": "{note:i} 7.14 ou pesado"
+                "id": "{note:i}",
+                "text": "7.14 ou pesado"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 7.17 Ap 16.4"
+                "id": "{note:2}",
+                "text": "7.17 Ap 16.4"
             }
         ]
     }

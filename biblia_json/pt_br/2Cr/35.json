@@ -4,7 +4,7 @@
         "book_number": 14,
         "new_testament": false,
         "num_chapters": 36,
-        "book_name": "CRÔNICAS",
+        "book_name": "2º CRÔNICAS",
         "book_full_name": "O SEGUNDO LIVRO DAS CRÔNICAS"
     },
     "chapter": {
@@ -157,24 +157,24 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 35.4 2Cr 8.14"
+                "id": "{note:1}",
+                "text": "35.4 2Cr 8.14"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 35.13 Êx 12.8-9"
+                "id": "{note:2}",
+                "text": "35.13 Êx 12.8-9"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 35.15 1Cr 25.1"
+                "id": "{note:3}",
+                "text": "35.15 1Cr 25.1"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 35.17 Êx 12.14-20"
+                "id": "{note:4}",
+                "text": "35.17 Êx 12.14-20"
             },
             {
-                "id": "n5",
-                "text": "{note:z} 35.20 ou o templo"
+                "id": "{note:z}",
+                "text": "35.20 ou o templo"
             }
         ]
     }

@@ -46,8 +46,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:m} 23.2 ou de descanso {note:1} 23.2 Ap 7.17"
+                "id": "{note:m}",
+                "text": "23.2 ou de descanso"
+            },
+            {
+                "id": "{note:1}",
+                "text": "23.2 Ap 7.17"
             }
         ]
     }

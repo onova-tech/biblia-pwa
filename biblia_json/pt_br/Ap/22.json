@@ -121,48 +121,64 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 22.1 Ez 47.1; Zc 14.8"
+                "id": "{note:1}",
+                "text": "22.1 Ez 47.1; Zc 14.8"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 22.2 Gn 2.9"
+                "id": "{note:2}",
+                "text": "22.2 Gn 2.9"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 22.3 Zc 14.11"
+                "id": "{note:3}",
+                "text": "22.3 Zc 14.11"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 22.5 Is 60.19 {note:5} 22.5 Dn 7.18,27"
+                "id": "{note:4}",
+                "text": "22.5 Is 60.19"
             },
             {
-                "id": "n5",
-                "text": "{note:6} 22.11 Dn 12.10 {note:q} 22.11 ou ainda mais"
+                "id": "{note:6}",
+                "text": "22.11 Dn 12.10"
             },
             {
-                "id": "n6",
-                "text": "{note:7} 22.12 Is 40.10; 62.11 {note:8} 22.12 Sl 28.4"
+                "id": "{note:7}",
+                "text": "22.12 Is 40.10; 62.11"
             },
             {
-                "id": "n7",
-                "text": "{note:9} 22.13 Is 44.6; 48.12"
+                "id": "{note:9}",
+                "text": "22.13 Is 44.6; 48.12"
             },
             {
-                "id": "n8",
-                "text": "{note:r} 22.14 ou que guardam os seus mandamentos, para que tenham poder na árvore da vida {note:10} 22.14 Gn 2.9; 3.22"
+                "id": "{note:r}",
+                "text": "22.14 ou que guardam os seus mandamentos, para que tenham poder na árvore da vida"
             },
             {
-                "id": "n9",
-                "text": "{note:11} 22.16 Is 11.1"
+                "id": "{note:11}",
+                "text": "22.16 Is 11.1"
             },
             {
-                "id": "n10",
-                "text": "{note:12} 22.17 Is 55.1"
+                "id": "{note:12}",
+                "text": "22.17 Is 55.1"
             },
             {
-                "id": "n11",
-                "text": "{note:13} 22.18-19 Dt 4.2; 12.32"
+                "id": "{note:13}",
+                "text": "22.18-19 Dt 4.2; 12.32"
+            },
+            {
+                "id": "{note:5}",
+                "text": "22.5 Dn 7.18,27"
+            },
+            {
+                "id": "{note:q}",
+                "text": "22.11 ou ainda mais"
+            },
+            {
+                "id": "{note:8}",
+                "text": "22.12 Sl 28.4"
+            },
+            {
+                "id": "{note:10}",
+                "text": "22.14 Gn 2.9; 3.22"
             }
         ]
     }

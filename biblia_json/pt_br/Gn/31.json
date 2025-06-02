@@ -307,28 +307,32 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:h} 31.1 ou riqueza"
+                "id": "{note:h}",
+                "text": "31.1 ou riqueza"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 31.13 Gn 28.18"
+                "id": "{note:1}",
+                "text": "31.13 Gn 28.18"
             },
             {
-                "id": "n3",
-                "text": "{note:i} 31.19 Heb. terafim (ver Jz 17.5; 1Sm 19.13; Os 3.4)"
+                "id": "{note:i}",
+                "text": "31.19 Heb. terafim (ver Jz 17.5; 1Sm 19.13; Os 3.4)"
             },
             {
-                "id": "n4",
-                "text": "{note:j} 31.20 ou siro"
+                "id": "{note:j}",
+                "text": "31.20 ou siro"
             },
             {
-                "id": "n5",
-                "text": "{note:k} 31.47 que é, em Aramaico, o montão do testemunho {note:l} 31.47 que é, em Hebraico, o montão do testemunho"
+                "id": "{note:k}",
+                "text": "31.47 que é, em Aramaico, o montão do testemunho"
             },
             {
-                "id": "n6",
-                "text": "{note:m} 31.49 que significa torre de vigia"
+                "id": "{note:m}",
+                "text": "31.49 que significa torre de vigia"
+            },
+            {
+                "id": "{note:l}",
+                "text": "31.47 que é, em Hebraico, o montão do testemunho"
             }
         ]
     }

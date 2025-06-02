@@ -4,7 +4,7 @@
         "book_number": 47,
         "new_testament": true,
         "num_chapters": 13,
-        "book_name": "CORÍNTIOS",
+        "book_name": "2º CORÍNTIOS",
         "book_full_name": "SEGUNDA EPÍSTOLA DO APÓSTOLO PAULO AOS CORÍNTIOS"
     },
     "chapter": {
@@ -136,16 +136,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 8.1-4 Rm 15.26"
+                "id": "{note:1}",
+                "text": "8.1-4 Rm 15.26"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 8.15 Êx 16.18"
+                "id": "{note:2}",
+                "text": "8.15 Êx 16.18"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 8.21 Pv 3.4"
+                "id": "{note:3}",
+                "text": "8.21 Pv 3.4"
             }
         ]
     }

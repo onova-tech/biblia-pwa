@@ -381,12 +381,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:b} 7.65 ou governador {note:1} 7.65 Êx 28.30"
+                "id": "{note:b}",
+                "text": "7.65 ou governador"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 7.73 1Cr 9.2; Ne 11.3"
+                "id": "{note:2}",
+                "text": "7.73 1Cr 9.2; Ne 11.3"
+            },
+            {
+                "id": "{note:1}",
+                "text": "7.65 Êx 28.30"
             }
         ]
     }

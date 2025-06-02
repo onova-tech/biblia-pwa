@@ -152,48 +152,72 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 1 Mt 13.55; Mc 6.3"
+                "id": "{note:1}",
+                "text": "1 Mt 13.55; Mc 6.3"
             },
             {
-                "id": "n2",
-                "text": "{note:a} 2 ou amor"
+                "id": "{note:a}",
+                "text": "2 ou amor"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 5 Êx 12.51 {note:3} 5 Nm 14.29-30"
+                "id": "{note:2}",
+                "text": "5 Êx 12.51"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 7 Gn 19.1-24"
+                "id": "{note:4}",
+                "text": "7 Gn 19.1-24"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 9 Dt 34.6 {note:6} 9 Zc 3.2"
+                "id": "{note:5}",
+                "text": "9 Dt 34.6"
             },
             {
-                "id": "n6",
-                "text": "{note:7} 11 Gn 4.3-8 {note:9} 11 Nm 16.1-35 {note:8} 11 Nm 22.1-35"
+                "id": "{note:7}",
+                "text": "11 Gn 4.3-8"
             },
             {
-                "id": "n7",
-                "text": "{note:b} 12 ou rochas ocultas {note:d} 12 ou são pastores que a si mesmos apascentam-se sem temor {note:c} 12 ou amor"
+                "id": "{note:b}",
+                "text": "12 ou rochas ocultas"
             },
             {
-                "id": "n8",
-                "text": "{note:10} 14 Gn 5.21-24"
+                "id": "{note:10}",
+                "text": "14 Gn 5.21-24"
             },
             {
-                "id": "n9",
-                "text": "{note:11} 18 2Pe 3.3"
+                "id": "{note:11}",
+                "text": "18 2Pe 3.3"
             },
             {
-                "id": "n10",
-                "text": "{note:e} 21 ou no amor"
+                "id": "{note:e}",
+                "text": "21 ou no amor"
             },
             {
-                "id": "n11",
-                "text": "{note:12} 3-23 2Pe 2.1-22"
+                "id": "{note:12}",
+                "text": "3-23 2Pe 2.1-22"
+            },
+            {
+                "id": "{note:3}",
+                "text": "5 Nm 14.29-30"
+            },
+            {
+                "id": "{note:6}",
+                "text": "9 Zc 3.2"
+            },
+            {
+                "id": "{note:9}",
+                "text": "11 Nm 16.1-35"
+            },
+            {
+                "id": "{note:8}",
+                "text": "11 Nm 22.1-35"
+            },
+            {
+                "id": "{note:d}",
+                "text": "12 ou são pastores que a si mesmos apascentam-se sem temor"
+            },
+            {
+                "id": "{note:c}",
+                "text": "12 ou amor"
             }
         ]
     }

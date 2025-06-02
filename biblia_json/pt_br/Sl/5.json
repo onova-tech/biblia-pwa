@@ -76,8 +76,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 5.9 Rm 3.13"
+                "id": "{note:1}",
+                "text": "5.9 Rm 3.13"
             }
         ]
     }

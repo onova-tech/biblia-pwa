@@ -197,36 +197,44 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 26.3-4 Gn 22.16-18"
+                "id": "{note:1}",
+                "text": "26.3-4 Gn 22.16-18"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 26.7 Gn 12.13; 20.2"
+                "id": "{note:2}",
+                "text": "26.7 Gn 12.13; 20.2"
             },
             {
-                "id": "n3",
-                "text": "{note:g} 26.12 ou o cêntuplo"
+                "id": "{note:g}",
+                "text": "26.12 ou o cêntuplo"
             },
             {
-                "id": "n4",
-                "text": "{note:h} 26.20 que significa contenda"
+                "id": "{note:h}",
+                "text": "26.20 que significa contenda"
             },
             {
-                "id": "n5",
-                "text": "{note:i} 26.21 que significa inimizade"
+                "id": "{note:i}",
+                "text": "26.21 que significa inimizade"
             },
             {
-                "id": "n6",
-                "text": "{note:j} 26.22 que significa alargamento"
+                "id": "{note:j}",
+                "text": "26.22 que significa alargamento"
             },
             {
-                "id": "n7",
-                "text": "{note:3} 26.26 Gn 21.22 {note:k} 26.26 ou capitão-mor"
+                "id": "{note:3}",
+                "text": "26.26 Gn 21.22"
             },
             {
-                "id": "n8",
-                "text": "{note:l} 26.33 que significa juramento {note:m} 26.33 Heb. Beer-Seba, que significa poço do juramento"
+                "id": "{note:l}",
+                "text": "26.33 que significa juramento"
+            },
+            {
+                "id": "{note:k}",
+                "text": "26.26 ou capitão-mor"
+            },
+            {
+                "id": "{note:m}",
+                "text": "26.33 Heb. Beer-Seba, que significa poço do juramento"
             }
         ]
     }

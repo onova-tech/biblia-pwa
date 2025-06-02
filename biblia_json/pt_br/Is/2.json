@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 66,
         "book_name": "ISAÍAS",
-        "book_full_name": "ISAÍAS"
+        "book_full_name": "O LIVRO DE ISAÍAS"
     },
     "chapter": {
         "chapter_number": 2,
@@ -126,24 +126,24 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:d} 2.1 Heb. A palavra"
+                "id": "{note:d}",
+                "text": "2.1 Heb. A palavra"
             },
             {
-                "id": "n2",
-                "text": "{note:e} 2.3 ou instrução"
+                "id": "{note:e}",
+                "text": "2.3 ou instrução"
             },
             {
-                "id": "n3",
-                "text": "{note:1} 2.4 Jl 3.10"
+                "id": "{note:1}",
+                "text": "2.4 Jl 3.10"
             },
             {
-                "id": "n4",
-                "text": "{note:2} 2.10 Ap 6.15"
+                "id": "{note:2}",
+                "text": "2.10 Ap 6.15"
             },
             {
-                "id": "n5",
-                "text": "{note:f} 2.16 ou atalaias"
+                "id": "{note:f}",
+                "text": "2.16 ou atalaias"
             }
         ]
     }

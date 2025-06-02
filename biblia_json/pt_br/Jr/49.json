@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 52,
         "book_name": "JEREMIAS",
-        "book_full_name": "JEREMIAS"
+        "book_full_name": "O LIVRO DE JEREMIAS"
     },
     "chapter": {
         "chapter_number": 49,
@@ -232,36 +232,36 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:w} 49.1 que é o seu rei"
+                "id": "{note:w}",
+                "text": "49.1 que é o seu rei"
             },
             {
-                "id": "n2",
-                "text": "{note:x} 49.2 ou as suas filhas serão queimadas"
+                "id": "{note:x}",
+                "text": "49.2 ou as suas filhas serão queimadas"
             },
             {
-                "id": "n3",
-                "text": "{note:y} 49.3 que é o seu rei"
+                "id": "{note:y}",
+                "text": "49.3 que é o seu rei"
             },
             {
-                "id": "n4",
-                "text": "{note:1} 49.1-6 Ez 21.28-32; 25.1-7; Am 1.13-15; Sf 2.8-11"
+                "id": "{note:1}",
+                "text": "49.1-6 Ez 21.28-32; 25.1-7; Am 1.13-15; Sf 2.8-11"
             },
             {
-                "id": "n5",
-                "text": "{note:2} 49.18 Gn 19.24-25"
+                "id": "{note:2}",
+                "text": "49.18 Gn 19.24-25"
             },
             {
-                "id": "n6",
-                "text": "{note:3} 49.7-22 Is 34.1-17; 63.1-6; Ez 25.12-14; 35.1-15; Am 1.11-12; Ob 1-14; Ml 1.2-5"
+                "id": "{note:3}",
+                "text": "49.7-22 Is 34.1-17; 63.1-6; Ez 25.12-14; 35.1-15; Am 1.11-12; Ob 1-14; Ml 1.2-5"
             },
             {
-                "id": "n7",
-                "text": "{note:4} 49.23-27 Is 17.1-3; Am 1.3-5; Zc 9.1"
+                "id": "{note:4}",
+                "text": "49.23-27 Is 17.1-3; Am 1.3-5; Zc 9.1"
             },
             {
-                "id": "n8",
-                "text": "{note:z} 49.33 ou chacais"
+                "id": "{note:z}",
+                "text": "49.33 ou chacais"
             }
         ]
     }

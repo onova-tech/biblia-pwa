@@ -227,36 +227,40 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 8.11-13 Mt 12.38-42; Lc 11.29-32"
+                "id": "{note:1}",
+                "text": "8.11-13 Mt 12.38-42; Lc 11.29-32"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 8.15 Lc 12.1"
+                "id": "{note:2}",
+                "text": "8.15 Lc 12.1"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 8.18 Is 6.9-10"
+                "id": "{note:3}",
+                "text": "8.18 Is 6.9-10"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 8.28 Mc 6.14-15; Lc 9.7-8"
+                "id": "{note:4}",
+                "text": "8.28 Mc 6.14-15; Lc 9.7-8"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 8.29 Jo 6.68-69"
+                "id": "{note:5}",
+                "text": "8.29 Jo 6.68-69"
             },
             {
-                "id": "n6",
-                "text": "{note:6} 8.34 Mt 10.38; Lc 14.27"
+                "id": "{note:6}",
+                "text": "8.34 Mt 10.38; Lc 14.27"
             },
             {
-                "id": "n7",
-                "text": "{note:g} 8.35 ou alma {note:7} 8.35 Mt 10.39; Lc 17.33; Jo 12.25"
+                "id": "{note:g}",
+                "text": "8.35 ou alma"
             },
             {
-                "id": "n8",
-                "text": "{note:h} 8.37 ou vida"
+                "id": "{note:h}",
+                "text": "8.37 ou vida"
+            },
+            {
+                "id": "{note:7}",
+                "text": "8.35 Mt 10.39; Lc 17.33; Jo 12.25"
             }
         ]
     }

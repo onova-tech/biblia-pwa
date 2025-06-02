@@ -102,28 +102,32 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:b} 5.2 ou pederneira"
+                "id": "{note:b}",
+                "text": "5.2 ou pederneira"
             },
             {
-                "id": "n2",
-                "text": "{note:c} 5.3 Heb. Gibeate-Haralote"
+                "id": "{note:c}",
+                "text": "5.3 Heb. Gibeate-Haralote"
             },
             {
-                "id": "n3",
-                "text": "{note:1} 5.6 Nm 14.28-35"
+                "id": "{note:1}",
+                "text": "5.6 Nm 14.28-35"
             },
             {
-                "id": "n4",
-                "text": "{note:d} 5.10 que significa círculo ou roda {note:2} 5.10 Êx 12.1-13"
+                "id": "{note:d}",
+                "text": "5.10 que significa círculo ou roda"
             },
             {
-                "id": "n5",
-                "text": "{note:3} 5.12 Êx 16.35"
+                "id": "{note:3}",
+                "text": "5.12 Êx 16.35"
             },
             {
-                "id": "n6",
-                "text": "{note:e} 5.14 ou capitão"
+                "id": "{note:e}",
+                "text": "5.14 ou capitão"
+            },
+            {
+                "id": "{note:2}",
+                "text": "5.10 Êx 12.1-13"
             }
         ]
     }

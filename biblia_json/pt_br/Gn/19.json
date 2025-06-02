@@ -212,20 +212,20 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 19.16 2Pe 2.7"
+                "id": "{note:1}",
+                "text": "19.16 2Pe 2.7"
             },
             {
-                "id": "n2",
-                "text": "{note:r} 19.22 que significa pequena"
+                "id": "{note:r}",
+                "text": "19.22 que significa pequena"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 19.24 Mt 10.15; 11.23-24; Lc 10.12; 17.29; 2Pe 2.6; Jud 7"
+                "id": "{note:2}",
+                "text": "19.24 Mt 10.15; 11.23-24; Lc 10.12; 17.29; 2Pe 2.6; Jud 7"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 19.26 Lc 17.32"
+                "id": "{note:3}",
+                "text": "19.26 Lc 17.32"
             }
         ]
     }

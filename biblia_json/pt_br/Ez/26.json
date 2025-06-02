@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 48,
         "book_name": "EZEQUIEL",
-        "book_full_name": "EZEQUIEL"
+        "book_full_name": "O LIVRO DE EZEQUIEL"
     },
     "chapter": {
         "chapter_number": 26,
@@ -121,16 +121,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 26.13 Ap 18.22"
+                "id": "{note:1}",
+                "text": "26.13 Ap 18.22"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 26.16 Ap 18.9-10"
+                "id": "{note:2}",
+                "text": "26.16 Ap 18.9-10"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 26.21 Ap 18.21"
+                "id": "{note:3}",
+                "text": "26.21 Ap 18.21"
             }
         ]
     }

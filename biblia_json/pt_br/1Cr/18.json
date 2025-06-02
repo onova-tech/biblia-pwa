@@ -4,7 +4,7 @@
         "book_number": 13,
         "new_testament": false,
         "num_chapters": 29,
-        "book_name": "CRÔNICAS",
+        "book_name": "1º CRÔNICAS",
         "book_full_name": "O PRIMEIRO LIVRO DAS CRÔNICAS"
     },
     "chapter": {
@@ -101,12 +101,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 18.8 1Rs 7.40-47; 2Cr 4.11-18"
+                "id": "{note:1}",
+                "text": "18.8 1Rs 7.40-47; 2Cr 4.11-18"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 18.12 Sl 60, título"
+                "id": "{note:2}",
+                "text": "18.12 Sl 60, título"
             }
         ]
     }

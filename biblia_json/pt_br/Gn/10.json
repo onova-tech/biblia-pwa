@@ -176,8 +176,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:d} 10.25 que significa divisão"
+                "id": "{note:d}",
+                "text": "10.25 que significa divisão"
             }
         ]
     }

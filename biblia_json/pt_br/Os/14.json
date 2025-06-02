@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 14,
         "book_name": "OSEIAS",
-        "book_full_name": "OSEIAS"
+        "book_full_name": "O LIVRO DE OSEIAS"
     },
     "chapter": {
         "chapter_number": 14,
@@ -61,8 +61,8 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:d} 14.2 ou recebe-nos benignamente"
+                "id": "{note:d}",
+                "text": "14.2 ou recebe-nos benignamente"
             }
         ]
     }

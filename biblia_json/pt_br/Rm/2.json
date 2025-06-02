@@ -167,20 +167,20 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 2.1 Mt 7.1; Lc 6.37"
+                "id": "{note:1}",
+                "text": "2.1 Mt 7.1; Lc 6.37"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 2.6 Sl 62.12"
+                "id": "{note:2}",
+                "text": "2.6 Sl 62.12"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 2.11 Dt 10.17"
+                "id": "{note:3}",
+                "text": "2.11 Dt 10.17"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 2.24 Is 52.5"
+                "id": "{note:4}",
+                "text": "2.24 Is 52.5"
             }
         ]
     }

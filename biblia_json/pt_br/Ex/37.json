@@ -177,12 +177,16 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:u} 37.16 ou tigelas, com que se haviam de derramar"
+                "id": "{note:u}",
+                "text": "37.16 ou tigelas, com que se haviam de derramar"
             },
             {
-                "id": "n2",
-                "text": "{note:v} 37.23 Heb. tenazes {note:w} 37.23 ou espevitadores"
+                "id": "{note:v}",
+                "text": "37.23 Heb. tenazes"
+            },
+            {
+                "id": "{note:w}",
+                "text": "37.23 ou espevitadores"
             }
         ]
     }

@@ -126,12 +126,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:a} 1.5 ou renunciaram"
+                "id": "{note:a}",
+                "text": "1.5 ou renunciaram"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 1.9 Ap 12.10"
+                "id": "{note:1}",
+                "text": "1.9 Ap 12.10"
             }
         ]
     }

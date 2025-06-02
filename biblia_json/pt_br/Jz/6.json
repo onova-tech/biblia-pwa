@@ -222,8 +222,8 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:g} 6.18 ou a minha oferta"
+                "id": "{note:g}",
+                "text": "6.18 ou a minha oferta"
             }
         ]
     }

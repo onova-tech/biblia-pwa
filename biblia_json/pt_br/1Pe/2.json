@@ -4,7 +4,7 @@
         "book_number": 60,
         "new_testament": true,
         "num_chapters": 5,
-        "book_name": "PEDRO",
+        "book_name": "1º PEDRO",
         "book_full_name": "PRIMEIRA EPÍSTOLA UNIVERSAL DO APÓSTOLO PEDRO"
     },
     "chapter": {
@@ -147,36 +147,48 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 2.3 Sl 34.8"
+                "id": "{note:1}",
+                "text": "2.3 Sl 34.8"
             },
             {
-                "id": "n2",
-                "text": "{note:c} 2.6 ou envergonhado {note:2} 2.6 Is 28.16"
+                "id": "{note:c}",
+                "text": "2.6 ou envergonhado"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 2.7 Sl 118.22"
+                "id": "{note:3}",
+                "text": "2.7 Sl 118.22"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 2.8 Is 8.14-15"
+                "id": "{note:4}",
+                "text": "2.8 Is 8.14-15"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 2.9 Êx 19.5-6 {note:6} 2.9 Dt 7.6; 14.2"
+                "id": "{note:5}",
+                "text": "2.9 Êx 19.5-6"
             },
             {
-                "id": "n6",
-                "text": "{note:7} 2.10 Os 2.23"
+                "id": "{note:7}",
+                "text": "2.10 Os 2.23"
             },
             {
-                "id": "n7",
-                "text": "{note:8} 2.22 Is 53.9"
+                "id": "{note:8}",
+                "text": "2.22 Is 53.9"
             },
             {
-                "id": "n8",
-                "text": "{note:d} 2.25 ou superintendente {note:9} 2.24-25 Is 53.5-6"
+                "id": "{note:d}",
+                "text": "2.25 ou superintendente"
+            },
+            {
+                "id": "{note:2}",
+                "text": "2.6 Is 28.16"
+            },
+            {
+                "id": "{note:6}",
+                "text": "2.9 Dt 7.6; 14.2"
+            },
+            {
+                "id": "{note:9}",
+                "text": "2.24-25 Is 53.5-6"
             }
         ]
     }

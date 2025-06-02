@@ -81,16 +81,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 140.3 Rm 3.13"
+                "id": "{note:1}",
+                "text": "140.3 Rm 3.13"
             },
             {
-                "id": "n2",
-                "text": "{note:e} 140.7 ou força"
+                "id": "{note:e}",
+                "text": "140.7 ou força"
             },
             {
-                "id": "n3",
-                "text": "{note:f} 140.12 ou manterá"
+                "id": "{note:f}",
+                "text": "140.12 ou manterá"
             }
         ]
     }

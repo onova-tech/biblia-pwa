@@ -56,12 +56,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 12.3 Gn 17.12"
+                "id": "{note:1}",
+                "text": "12.3 Gn 17.12"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 12.8 Lc 2.22-24"
+                "id": "{note:2}",
+                "text": "12.8 Lc 2.22-24"
             }
         ]
     }

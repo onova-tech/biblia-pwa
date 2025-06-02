@@ -81,12 +81,12 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:i} 6.7 ou atrás do teu véu"
+                "id": "{note:i}",
+                "text": "6.7 ou atrás do teu véu"
             },
             {
-                "id": "n2",
-                "text": "{note:j} 6.13 ou como para a dança de dois bandos?"
+                "id": "{note:j}",
+                "text": "6.13 ou como para a dança de dois bandos?"
             }
         ]
     }

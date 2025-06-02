@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 48,
         "book_name": "EZEQUIEL",
-        "book_full_name": "EZEQUIEL"
+        "book_full_name": "O LIVRO DE EZEQUIEL"
     },
     "chapter": {
         "chapter_number": 44,
@@ -171,44 +171,44 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 44.17 Êx 28.39-43; Lv 16.4"
+                "id": "{note:1}",
+                "text": "44.17 Êx 28.39-43; Lv 16.4"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 44.19 Lv 16.23"
+                "id": "{note:2}",
+                "text": "44.19 Lv 16.23"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 44.20 Lv 21.5"
+                "id": "{note:3}",
+                "text": "44.20 Lv 21.5"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 44.21 Lv 10.9"
+                "id": "{note:4}",
+                "text": "44.21 Lv 10.9"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 44.22 Lv 21.7,13-14"
+                "id": "{note:5}",
+                "text": "44.22 Lv 21.7,13-14"
             },
             {
-                "id": "n6",
-                "text": "{note:6} 44.23 Lv 10.10"
+                "id": "{note:6}",
+                "text": "44.23 Lv 10.10"
             },
             {
-                "id": "n7",
-                "text": "{note:7} 44.25 Lv 21.1-4"
+                "id": "{note:7}",
+                "text": "44.25 Lv 21.1-4"
             },
             {
-                "id": "n8",
-                "text": "{note:8} 44.28 Nm 18.20"
+                "id": "{note:8}",
+                "text": "44.28 Nm 18.20"
             },
             {
-                "id": "n9",
-                "text": "{note:9} 44.29 Nm 18.8-19"
+                "id": "{note:9}",
+                "text": "44.29 Nm 18.8-19"
             },
             {
-                "id": "n10",
-                "text": "{note:10} 44.31 Lv 22.8"
+                "id": "{note:10}",
+                "text": "44.31 Lv 22.8"
             }
         ]
     }

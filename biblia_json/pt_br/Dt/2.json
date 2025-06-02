@@ -201,24 +201,24 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:1} 2.1 Nm 21.4"
+                "id": "{note:1}",
+                "text": "2.1 Nm 21.4"
             },
             {
-                "id": "n2",
-                "text": "{note:2} 2.4 Gn 36.8"
+                "id": "{note:2}",
+                "text": "2.4 Gn 36.8"
             },
             {
-                "id": "n3",
-                "text": "{note:3} 2.9 Gn 19.37"
+                "id": "{note:3}",
+                "text": "2.9 Gn 19.37"
             },
             {
-                "id": "n4",
-                "text": "{note:4} 2.14 Nm 14.28-35"
+                "id": "{note:4}",
+                "text": "2.14 Nm 14.28-35"
             },
             {
-                "id": "n5",
-                "text": "{note:5} 2.19 Gn 19.38"
+                "id": "{note:5}",
+                "text": "2.19 Gn 19.38"
             }
         ]
     }

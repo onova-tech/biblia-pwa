@@ -177,40 +177,48 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:b} 2.4 ou o teu primeiro amor"
+                "id": "{note:b}",
+                "text": "2.4 ou o teu primeiro amor"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 2.7 Gn 2.9; Ap 22.2"
+                "id": "{note:1}",
+                "text": "2.7 Gn 2.9; Ap 22.2"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 2.11 Ap 20.14; 21.8"
+                "id": "{note:2}",
+                "text": "2.11 Ap 20.14; 21.8"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 2.14 Nm 25.1-2; 31.16"
+                "id": "{note:3}",
+                "text": "2.14 Nm 25.1-2; 31.16"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 2.17 Êx 16.14-15"
+                "id": "{note:4}",
+                "text": "2.17 Êx 16.14-15"
             },
             {
-                "id": "n6",
-                "text": "{note:c} 2.19 ou o teu amor"
+                "id": "{note:c}",
+                "text": "2.19 ou o teu amor"
             },
             {
-                "id": "n7",
-                "text": "{note:5} 2.20 1Rs 16.31; 2Rs 9.22,30"
+                "id": "{note:5}",
+                "text": "2.20 1Rs 16.31; 2Rs 9.22,30"
             },
             {
-                "id": "n8",
-                "text": "{note:d} 2.23 ou pestilência {note:7} 2.23 Sl 62.12 {note:6} 2.23 Sl 7.9; Jr 17.10"
+                "id": "{note:d}",
+                "text": "2.23 ou pestilência"
             },
             {
-                "id": "n9",
-                "text": "{note:8} 2.26-27 Sl 2.8-9"
+                "id": "{note:8}",
+                "text": "2.26-27 Sl 2.8-9"
+            },
+            {
+                "id": "{note:7}",
+                "text": "2.23 Sl 62.12"
+            },
+            {
+                "id": "{note:6}",
+                "text": "2.23 Sl 7.9; Jr 17.10"
             }
         ]
     }

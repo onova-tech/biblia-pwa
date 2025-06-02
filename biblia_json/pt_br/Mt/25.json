@@ -257,28 +257,32 @@
         ],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:y} 25.1 ou os seus fachos"
+                "id": "{note:y}",
+                "text": "25.1 ou os seus fachos"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 25.10-12 Lc 13.25"
+                "id": "{note:1}",
+                "text": "25.10-12 Lc 13.25"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 25.29 Mt 13.12; Mc 4.25; Lc 8.18"
+                "id": "{note:2}",
+                "text": "25.29 Mt 13.12; Mc 4.25; Lc 8.18"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 25.30 Mt 8.12; 22.13"
+                "id": "{note:3}",
+                "text": "25.30 Mt 8.12; 22.13"
             },
             {
-                "id": "n5",
-                "text": "{note:4} 25.31 Mt 16.27 {note:5} 25.31 Mt 19.28"
+                "id": "{note:4}",
+                "text": "25.31 Mt 16.27"
             },
             {
-                "id": "n6",
-                "text": "{note:6} 25.46 Dn 12.2"
+                "id": "{note:6}",
+                "text": "25.46 Dn 12.2"
+            },
+            {
+                "id": "{note:5}",
+                "text": "25.31 Mt 19.28"
             }
         ]
     }

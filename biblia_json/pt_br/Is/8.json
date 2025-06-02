@@ -5,7 +5,7 @@
         "new_testament": false,
         "num_chapters": 66,
         "book_name": "ISAÍAS",
-        "book_full_name": "ISAÍAS"
+        "book_full_name": "O LIVRO DE ISAÍAS"
     },
     "chapter": {
         "chapter_number": 8,
@@ -126,24 +126,24 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:l} 8.1 Heb. Maer-Salal-Hás-Baz"
+                "id": "{note:l}",
+                "text": "8.1 Heb. Maer-Salal-Hás-Baz"
             },
             {
-                "id": "n2",
-                "text": "{note:1} 8.12-13 1Pe 3.14-15"
+                "id": "{note:1}",
+                "text": "8.12-13 1Pe 3.14-15"
             },
             {
-                "id": "n3",
-                "text": "{note:2} 8.14-15 1Pe 2.8"
+                "id": "{note:2}",
+                "text": "8.14-15 1Pe 2.8"
             },
             {
-                "id": "n4",
-                "text": "{note:3} 8.17-18 Hb 2.13"
+                "id": "{note:3}",
+                "text": "8.17-18 Hb 2.13"
             },
             {
-                "id": "n5",
-                "text": "{note:m} 8.20 ou não haverá manhã para eles."
+                "id": "{note:m}",
+                "text": "8.20 ou não haverá manhã para eles."
             }
         ]
     }

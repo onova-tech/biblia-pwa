@@ -131,16 +131,16 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:d} 5.2 ou a discrição"
+                "id": "{note:d}",
+                "text": "5.2 ou a discrição"
             },
             {
-                "id": "n2",
-                "text": "{note:e} 5.5 Heb. Sheol"
+                "id": "{note:e}",
+                "text": "5.5 Heb. Sheol"
             },
             {
-                "id": "n3",
-                "text": "{note:f} 5.10 ou das tuas riquezas"
+                "id": "{note:f}",
+                "text": "5.10 ou das tuas riquezas"
             }
         ]
     }

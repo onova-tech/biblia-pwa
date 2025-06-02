@@ -96,24 +96,24 @@
         "subtitles": [],
         "notes": [
             {
-                "id": "n1",
-                "text": "{note:h} 16.2 ou serei dela edificada"
+                "id": "{note:h}",
+                "text": "16.2 ou serei dela edificada"
             },
             {
-                "id": "n2",
-                "text": "{note:i} 16.11 que significa Deus (está) ouvindo"
+                "id": "{note:i}",
+                "text": "16.11 que significa Deus (está) ouvindo"
             },
             {
-                "id": "n3",
-                "text": "{note:j} 16.12 Heb. como um jumento bravo"
+                "id": "{note:j}",
+                "text": "16.12 Heb. como um jumento bravo"
             },
             {
-                "id": "n4",
-                "text": "{note:k} 16.13 ou Tu és um Deus que me vês"
+                "id": "{note:k}",
+                "text": "16.13 ou Tu és um Deus que me vês"
             },
             {
-                "id": "n5",
-                "text": "{note:l} 16.14 que significa aquele que vive e me vê"
+                "id": "{note:l}",
+                "text": "16.14 que significa aquele que vive e me vê"
             }
         ]
     }
