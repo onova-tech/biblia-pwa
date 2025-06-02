@@ -1,4 +1,4 @@
-const applicationVersion = 'v1.0.6';
+const applicationVersion = 'v1.1.0';
 
 self.addEventListener('install', event => {
   event.waitUntil(

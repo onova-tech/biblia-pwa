@@ -176,5 +176,6 @@ function disableDownloadButton() {
 
     if(localStorage.getItem(`${language}_downloaded`) == 'true'){
         download_for_offline_btn.setAttribute("style", "visibility: hidden;");
+        download_for_offline_btn_mobile.setAttribute("style", "visibility: hidden;");
     }
 }
