@@ -171,10 +171,10 @@ async function downloadAll() {
     M.toast({html: `Books for the language ${language} downloaded!`});
 }
 
-window.addEventListener("load",function(event) {
+function disableDownloadButton() {
     let language = getSearchParameterOrDefault(current_url, "language");
 
     if(localStorage.getItem(`${language}_downloaded`) == 'true'){
         download_for_offline_btn.setAttribute("style", "visibility: hidden;");
     }
-},false);
+}
