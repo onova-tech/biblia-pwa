@@ -4,7 +4,6 @@ self.addEventListener('install', event => {
   event.waitUntil(
     caches.open(applicationVersion).then(cache => {
       return cache.addAll([
-        '/',
         '/biblia-pwa/index.html',
         '/biblia-pwa/pages/book_selection.html',
         '/biblia-pwa/pages/chapter_read.html',
