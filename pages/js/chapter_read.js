@@ -67,17 +67,19 @@ function addNoteTooltips(container, data) {
 
                 verse.innerHTML = verse.innerHTML.replace(note.id, `<div class="note_tooltip">${noteTooltip.innerHTML}</div>`);
             }
+        }
+    }
 
-            for(const tooltipText of document.getElementsByClassName("note_tooltiptext_right")){
-                if(getOffset(tooltipText).left + 200 >= window.innerWidth) {
-                    tooltipText.classList.remove("note_tooltiptext_right");
-                    tooltipText.classList.add("note_tooltiptext_left");
-                    tooltipText.setAttribute("style", `margin-left: calc(-1 * (${tooltipText.clientWidth}px + 10px));`)
+    let tooltipTexts = [...document.getElementsByClassName("note_tooltiptext_right")];
 
-                    if(getOffset(tooltipText).left < 0) {
-                        tooltipText.setAttribute("style", `margin-left: calc(-1 * (${tooltipText.clientWidth}px + ${getOffset(tooltipText).left}px + 10px));`)
-                    }
-                }
+    for(const tooltipText of tooltipTexts){
+        if(getOffset(tooltipText).left + 200 > content.clientWidth) {
+            tooltipText.classList.remove("note_tooltiptext_right");
+            tooltipText.classList.add("note_tooltiptext_left");
+            tooltipText.setAttribute("style", `margin-left: calc(-1 * (${tooltipText.clientWidth}px + 10px));`)
+
+            if(getOffset(tooltipText).left < 0) {
+                tooltipText.setAttribute("style", `margin-left: calc(-1 * (${tooltipText.clientWidth}px + ${getOffset(tooltipText).left}px + 10px));`)
             }
         }
     }

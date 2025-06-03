@@ -1,3 +1,5 @@
+const applicationVersion = 'v1.1.2';
+
 let searchParametersDefaults = {
     "language": "pt_br",
     "book_id": "Gn",
@@ -23,7 +25,7 @@ function getSearchParameterOrDefault(url, searchParameterName) {
  * 
  * @returns {object}
  */
-async function getFileContent(language, book_id=null, chapter_number=null) {
+function getFileUrl(language, book_id=null, chapter_number=null) {
     let url = `/biblia-pwa/biblia_json/${language}/`;
 
     if(book_id == null || book_id.length == 0) {
@@ -36,7 +38,18 @@ async function getFileContent(language, book_id=null, chapter_number=null) {
         url += `${book_id}/${chapter_number}.json`
     }
 
-    let response = await fetch(url);
+    return url;
+}
+
+/**
+ * @param {string} language
+ * @param {string} book_id
+ * @param {string} chapter_number
+ * 
+ * @returns {object}
+ */
+async function getFileContent(language, book_id=null, chapter_number=null) {
+    let response = await fetch(getFileUrl(language, book_id, chapter_number));
 
     if (!response.ok) {
         throw new Error(`Response status: ${response.status}`);
@@ -166,7 +179,7 @@ async function downloadAll() {
         }
     }
 
-    localStorage.setItem(`${language}_downloaded`, "true");
+    localStorage.setItem(`${applicationVersion}_${language}_downloaded`, "true");
 
     M.toast({html: `Books for the language ${language} downloaded!`});
 }
@@ -174,7 +187,7 @@ async function downloadAll() {
 function disableDownloadButton() {
     let language = getSearchParameterOrDefault(current_url, "language");
 
-    if(localStorage.getItem(`${language}_downloaded`) == 'true'){
+    if(localStorage.getItem(`${applicationVersion}_${language}_downloaded`) == 'true'){
         download_for_offline_btn.setAttribute("style", "visibility: hidden;");
         download_for_offline_btn_mobile.setAttribute("style", "visibility: hidden;");
     }
