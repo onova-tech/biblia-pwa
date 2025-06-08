@@ -1,4 +1,4 @@
-const applicationVersion = 'v1.1.2';
+const applicationVersion = 'v1.1.3';
 
 let searchParametersDefaults = {
     "language": "pt_br",
@@ -20,23 +20,11 @@ function getSearchParameterOrDefault(url, searchParameterName) {
 
 /**
  * @param {string} language
- * @param {string} book_id
- * @param {string} chapter_number
  * 
  * @returns {object}
  */
-function getFileUrl(language, book_id=null, chapter_number=null) {
-    let url = `/biblia-pwa/biblia_json/${language}/`;
-
-    if(book_id == null || book_id.length == 0) {
-        url += "books.json"
-    }
-    else if(chapter_number == null || chapter_number.length == 0) {
-        url += `${book_id}/chapters.json`
-    }
-    else {
-        url += `${book_id}/${chapter_number}.json`
-    }
+function getFileUrl(language) {
+    let url = `/biblia-pwa/biblia_json/${language}_full.json`;
 
     return url;
 }
@@ -49,13 +37,33 @@ function getFileUrl(language, book_id=null, chapter_number=null) {
  * @returns {object}
  */
 async function getFileContent(language, book_id=null, chapter_number=null) {
-    let response = await fetch(getFileUrl(language, book_id, chapter_number));
+    let response = await fetch(getFileUrl(language));
 
     if (!response.ok) {
         throw new Error(`Response status: ${response.status}`);
     }
 
-    return await response.json();
+    let bibleContent = await response.json();
+
+    if(book_id == null) {
+        for(const book in bibleContent.books){
+            book.chapters = [];
+        }
+
+    return { "books": bibleContent.books };
+    }
+
+    let book = bibleContent.books.filter((book) => book.id === book_id)[0];
+
+    if(chapter_number == null) {
+        for(const chapter in book.chapters){
+            chapter.versicles = [];
+        }
+        return { "book": book, "chapters": book.chapters };
+    }
+
+    book.chapters = [ book.chapters.filter((chapter) => chapter.chapter_number == chapter_number)[0] ];
+    return { "book": book, "chapter": book.chapters[0] };
 }
 
 /**
@@ -165,30 +173,4 @@ async function load_random_chapter() {
     }
 
     window.location.href = `/biblia-pwa/pages/chapter_read.html?language=${language}&book_id=${book_id}&chapter_number=${chapter_number}`
-}
-
-async function downloadAll() {
-    let language = getSearchParameterOrDefault(current_url, "language");
-
-    let books = (await getFileContent(language)).books;
-    for(const book of books) {
-        await getFileContent(language, book.id);
-
-        for(let chapter_number = 1; chapter_number <= book.num_chapters; chapter_number++) {
-            await getFileContent(language, book.id, chapter_number);
-        }
-    }
-
-    localStorage.setItem(`${applicationVersion}_${language}_downloaded`, "true");
-
-    M.toast({html: `Books for the language ${language} downloaded!`});
-}
-
-function disableDownloadButton() {
-    let language = getSearchParameterOrDefault(current_url, "language");
-
-    if(localStorage.getItem(`${applicationVersion}_${language}_downloaded`) == 'true'){
-        download_for_offline_btn.setAttribute("style", "visibility: hidden;");
-        download_for_offline_btn_mobile.setAttribute("style", "visibility: hidden;");
-    }
 }

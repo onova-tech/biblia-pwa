@@ -1,9 +1,10 @@
-const applicationVersion = 'v1.1.2';
+const applicationVersion = 'v1.1.3';
 
 self.addEventListener('install', event => {
   event.waitUntil(
     caches.open(applicationVersion).then(cache => {
       return cache.addAll([
+        '/biblia-pwa/',
         '/biblia-pwa/index.html',
         '/biblia-pwa/pages/book_selection.html',
         '/biblia-pwa/pages/chapter_read.html',
@@ -16,7 +17,8 @@ self.addEventListener('install', event => {
         '/biblia-pwa/fav/bible.512.png',
         '/biblia-pwa/css/styles.css',
         '/biblia-pwa/css/materialize.css',
-        '/biblia-pwa/js/materialize.js'
+        '/biblia-pwa/js/materialize.js',
+        '/biblia-pwa/biblia_json/pt_br_full.json'
       ]);
     }),
   );

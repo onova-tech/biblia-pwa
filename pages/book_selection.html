@@ -24,7 +24,6 @@
                         <a href="/biblia-pwa/index.html" class="brand-logo center ancizar-sans-font"><i class="material-icons">book</i>Bíblia</a>
                         <a href="#" data-target="mobile-menu" class="sidenav-trigger"><i class="material-icons">menu</i></a>
                         <ul class="right hide-on-med-and-down">
-                            <li id="download_for_offline_btn"><a onclick="downloadAll().then(() => { console.log('Async done!'); })" class="btn"><i class="material-icons">download_for_offline</i></a></li>
                             <li><a onclick="load_random_chapter();" class="btn">Capítulo do Dia</a></li>
                         </ul>
                     </div>
@@ -33,7 +32,6 @@
 
             <ul class="sidenav center" id="mobile-menu">
                 <li><a onclick="load_random_chapter();" class="btn blue">Capítulo do Dia</a></li>
-                <li id="download_for_offline_btn_mobile"><a onclick="downloadAll().then(() => { console.log('Async done!'); })" class="btn blue"><i class="material-icons">download_for_offline</i>Download</a></li>
             </ul>
 
             <div id="book_selection" class="book_selection" >
@@ -55,7 +53,6 @@
             document.addEventListener('DOMContentLoaded', function() {
                 var elems = document.querySelectorAll('.sidenav');
                 var instances = M.Sidenav.init(elems);
-                disableDownloadButton();
             });
         </script>
     </body>
