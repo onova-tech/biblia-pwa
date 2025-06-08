@@ -3,26 +3,26 @@
     "name": "Bíblia CCB",
     "icons": [
       {
-        "src": "/__root__/fav/bible.128.png",
+        "src": "/fav/bible.128.png",
         "sizes": "128x128",
         "type": "image/png"
       },
       {
-        "src": "/__root__/fav/bible.512.png",
+        "src": "/fav/bible.512.png",
         "sizes": "512x512",
         "type": "image/png"
       }
     ],
     "screenshots": [
         {
-          "src": "/__root__/images/screenshot-wide.png",
+          "src": "/images/screenshot-wide.png",
           "sizes": "1919x958",
           "type": "image/png",
           "form_factor": "wide",
           "label": "Bíblia CCB"
         },
         {
-          "src": "/__root__/images/screenshot-narrow.png",
+          "src": "/images/screenshot-narrow.png",
           "sizes": "359x741",
           "type": "image/png",
           "form_factor": "narrow",
