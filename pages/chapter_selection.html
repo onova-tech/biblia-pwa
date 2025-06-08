@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="manifest" href="/biblia-pwa/manifest.json" />
+        <link type="text/css" href="/biblia-pwa/css/materialize.css" rel="stylesheet">
+        <link type="text/css" href="/biblia-pwa/css/styles.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Ancizar+Sans:ital,wght@0,100..1000;1,100..1000&display=swap" rel="stylesheet">
+        <script type="text/javascript" src="/biblia-pwa/js/service_worker_enabler.js"></script>
+        <script type="text/javascript" src="/biblia-pwa/js/utils.js"></script>
+        <script type="text/javascript" src="/biblia-pwa/pages/js/chapter_selection.js"></script>
+        <link rel="icon" type="image/x-icon" href="/biblia-pwa/fav/bible.32.png" />
+    </head>
+    <body>
+        <div id="content">
+            <div class="navbar-fixed">
+                <nav>
+                    <div class="nav-wrapper blue navbar_spacing">
+                        <a href="/biblia-pwa/index.html" class="brand-logo center ancizar-sans-font"><i class="material-icons">book</i>Bíblia</a>
+                        <a href="#" data-target="mobile-menu" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+                        <ul class="right hide-on-med-and-down">
+                            <li><a onclick="load_random_chapter();" class="btn">Capítulo do Dia</a></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+
+            <ul class="sidenav center" id="mobile-menu">
+                <li><a onclick="load_random_chapter();" class="btn blue">Capítulo do Dia</a></li>
+            </ul>
+
+            <h3 id="book_name" class="book_name ancizar-sans-font"></h3>
+            <h4 id="book_subname" class="book_name ancizar-sans-font"></h4>
+            
+            <div id="chapter_selection" class="chapter_selection">
+                <h5 id="chapter_title" class="chapter_title ancizar-sans-font">Capítulos:</h5>
+            </div>
+
+            <div id="templates" style="visibility: hidden;">
+                <a id="template_chapter_name_list" class="chapter_name_list ancizar-sans-font"></a>
+            </div>
+        </div>
+
+        <script type="text/javascript" src="/biblia-pwa/js/materialize.js"></script>
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                var elems = document.querySelectorAll('.sidenav');
+                var instances = M.Sidenav.init(elems);
+            });
+        </script>
+    </body>
+</html>
