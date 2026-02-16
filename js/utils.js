@@ -1,4 +1,4 @@
-const applicationVersion = 'v1.1.2';
+const applicationVersion = 'v1.1.3';
 
 let searchParametersDefaults = {
     "language": "pt_br",
@@ -167,6 +167,24 @@ async function load_random_chapter() {
     window.location.href = `/biblia-pwa/pages/chapter_read.html?language=${language}&book_id=${book_id}&chapter_number=${chapter_number}`
 }
 
+function caseAndAccentInsensitiveSearch(text, query) {
+  // Function to normalize and lowercase a string
+  const normalizeForComparison = (str) => {
+    if (!str) return '';
+    // NFD separates combined characters (base letter + accent)
+    return str.normalize('NFD')
+      // Remove combining diacritical marks (Unicode range U+0300 to U+036F)
+      .replace(/[\u0300-\u036f]/g, '')
+      .toLowerCase();
+  };
+
+  const normalizedText = normalizeForComparison(text);
+  const normalizedQuery = normalizeForComparison(query);
+
+  // Perform the substring search on the normalized strings
+  return normalizedText.includes(normalizedQuery);
+}
+
 async function downloadAll() {
     let language = getSearchParameterOrDefault(current_url, "language");
 
@@ -190,5 +208,13 @@ function disableDownloadButton() {
     if(localStorage.getItem(`${applicationVersion}_${language}_downloaded`) == 'true'){
         download_for_offline_btn.setAttribute("style", "visibility: hidden;");
         download_for_offline_btn_mobile.setAttribute("style", "visibility: hidden;");
+    }
+}
+
+function afterPageLoad() {
+    const items_to_unhide = document.querySelectorAll('.hidden_before_load');
+
+    for(let item of items_to_unhide) {
+        item.classList.remove('hidden_before_load')
     }
 }

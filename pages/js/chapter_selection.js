@@ -37,4 +37,6 @@ window.onload = async function() {
 
     updatePageTitleAndBookName(chaptersData)
     updateChaptersSection(chapter_selection, chaptersData);
+
+    afterPageLoad();
 }

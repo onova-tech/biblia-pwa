@@ -117,4 +117,6 @@ window.onload = async function() {
     displayChapterVersiclesAndSubtitles(chapter, jsonData);
     addNoteTooltips(chapter, jsonData);
     setNavigationButtonsLink(jsonData, language);
+
+    afterPageLoad();
 }

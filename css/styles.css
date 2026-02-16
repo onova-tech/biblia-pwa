@@ -1,3 +1,7 @@
+.hidden_before_load {
+    visibility: hidden;
+}
+
 .ancizar-sans-font {
     font-family: "Ancizar Sans", sans-serif;
     font-optical-sizing: auto;

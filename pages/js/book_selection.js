@@ -26,4 +26,6 @@ window.onload = async function() {
 
     updateBooksSection(old_testament_books, booksData, false);
     updateBooksSection(new_testament_books, booksData, true);
+    
+    afterPageLoad();
 }
