@@ -16,7 +16,7 @@ self.addEventListener('install', event => {
         '/biblia-pwa/fav/bible.128.png',
         '/biblia-pwa/fav/bible.512.png',
         '/biblia-pwa/css/styles.css',
-        '/biblia-pwa/css/materialize.css',
+        '/biblia-pwa/css/materialize.min.css',
         '/biblia-pwa/js/materialize.js',
         '/biblia-pwa/biblia_json/pt_br_full.json'
       ]);

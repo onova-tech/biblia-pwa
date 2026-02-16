@@ -11,6 +11,7 @@ function updatePageTitleAndBookName(chaptersData) {
 function updateChaptersSection(container, chaptersData){
     let book_id = chaptersData.book.id;
     let chapters = chaptersData.chapters.sort((a, b) => a.chapter_number - b.chapter_number);
+    const fragment = document.createDocumentFragment();
 
     for(const chapter of chapters) {
         let chapter_full_name = chapter.chapter_number;
@@ -23,8 +24,10 @@ function updateChaptersSection(container, chaptersData){
         }
 
         chapter_full_name += "\n";
-        addElement(container, chapter_full_name, chapter_elem_id, template_chapter_name_list, chapter_href)
+        addElement(container, chapter_full_name, chapter_elem_id, template_chapter_name_list, chapter_href, fragment)
     }
+
+    flushFragment(container, fragment);
 }
 
 

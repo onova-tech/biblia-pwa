@@ -50,7 +50,7 @@ async function getFileContent(language, book_id=null, chapter_number=null) {
             book.chapters = [];
         }
 
-    return { "books": bibleContent.books };
+        return { "books": bibleContent.books };
     }
 
     let book = bibleContent.books.filter((book) => book.id === book_id)[0];
@@ -109,8 +109,9 @@ Date.prototype.today = function () {
  * @param {string} id - Id of the element that'll be created
  * @param {Element} template - Element that'll be cloned to create a new one
  * @param {string} href
+ * @param {DocumentFragment} fragment - Optional fragment for batch insertion
  */
-function addElement(container, text, id=null, template=null, href=null) {
+function addElement(container, text, id=null, template=null, href=null, fragment=null) {
     let elem = document.createElement('div');
 
     if(template != null) {
@@ -136,7 +137,15 @@ function addElement(container, text, id=null, template=null, href=null) {
         elem.href = href;
     }
 
-    container.appendChild(elem);
+    if(fragment) {
+        fragment.appendChild(elem);
+    } else {
+        container.appendChild(elem);
+    }
+}
+
+function flushFragment(container, fragment) {
+    container.appendChild(fragment);
 }
 
 function getOffset(el) {

@@ -24,16 +24,22 @@ function displayChapterTitleAndReference(container, data) {
 }
 
 function displayChapterVersiclesAndSubtitles(container, data) {
+    const fragment = document.createDocumentFragment();
+    const subtitlesMap = new Map(
+        data.chapter.subtitles.map(subtitle => [subtitle.next_versicle_id, subtitle])
+    );
+
     data.chapter.versicles.forEach(verse => {
-        let verseText = `${verse.versicle_number}. ${verse.text}`;
-        let subtitle = data.chapter.subtitles.filter((subtitle) => subtitle.next_versicle_id == verse.id)[0];
+        let subtitle = subtitlesMap.get(verse.id);
 
         if(subtitle != null && subtitle.text.length > 0) {
-            addElement(container, subtitle.text, subtitle.id, template_chapter_subtitle);
+            addElement(container, subtitle.text, subtitle.id, template_chapter_subtitle, null, fragment);
         }
 
-        addElement(container, verseText, verse.id, template_verse);
+        addElement(container, `${verse.versicle_number}. ${verse.text}`, verse.id, template_verse, null, fragment);
     });
+
+    flushFragment(container, fragment);
 }
 
 function addNoteTooltips(container, data) {

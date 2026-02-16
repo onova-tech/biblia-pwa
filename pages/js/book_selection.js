@@ -1,5 +1,6 @@
 function updateBooksSection(container, booksData, isNewTestament){
     let books = booksData.books.sort((a, b) => a.book_number - b.book_number);
+    const fragment = document.createDocumentFragment();
 
     for(const book of books) {
         if(isNewTestament != book.new_testament)
@@ -9,13 +10,11 @@ function updateBooksSection(container, booksData, isNewTestament){
         let book_elem_id = `book_${book.id}`;
         let book_href = `/biblia-pwa/pages/chapter_selection.html?book_id=${book.id}`
 
-        /*if(book.book_full_name != book.book_name) {
-            book_full_name += " - " + book.book_full_name;
-        }*/
-
         book_full_name += "\n";
-        addElement(container, book_full_name, book_elem_id, template_book_name_list, book_href)
+        addElement(container, book_full_name, book_elem_id, template_book_name_list, book_href, fragment)
     }
+
+    flushFragment(container, fragment);
 }
 
 let current_url = new URL(window.location.href);
