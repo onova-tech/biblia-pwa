@@ -1,5 +1,3 @@
-const applicationVersion = 'v1.2.0';
-
 let searchParametersDefaults = {
     "language": "pt_br",
     "book_id": "Gn",

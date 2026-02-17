@@ -3,9 +3,24 @@
 set -e
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+SW_FILE="$SCRIPT_DIR/service_worker.js"
 
 echo "=== Bible PWA Deploy Script ==="
-echo ""
+
+echo "Bumping version in service_worker.js..."
+CURRENT_VERSION=$(grep -oP "const applicationVersion = '\K[v]?\d+\.\d+\.\d+" "$SW_FILE" || echo "v1.0.0")
+CURRENT_VERSION="${CURRENT_VERSION#v}"
+
+MAJOR=$(echo "$CURRENT_VERSION" | cut -d. -f1)
+MINOR=$(echo "$CURRENT_VERSION" | cut -d. -f2)
+PATCH=$(echo "$CURRENT_VERSION" | cut -d. -f3)
+
+PATCH=$((PATCH + 1))
+NEW_VERSION="v$MAJOR.$MINOR.$PATCH"
+
+sed -i "s/const applicationVersion = '[^']*'/const applicationVersion = '$NEW_VERSION'/" "$SW_FILE"
+
+echo "Version bumped: $CURRENT_VERSION -> $NEW_VERSION"
 
 if [ -d "$SCRIPT_DIR/publish" ]; then
     echo "Found existing 'publish' folder. Deleting..."

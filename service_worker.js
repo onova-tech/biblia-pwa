@@ -1,6 +1,8 @@
-const applicationVersion = 'v1.2.0';
+const applicationVersion = 'v1.2.3';
 
 self.addEventListener('install', event => {
+  self.skipWaiting();
+  
   event.waitUntil(
     caches.open(applicationVersion).then(cache => {
       return cache.addAll([
@@ -22,15 +24,6 @@ self.addEventListener('install', event => {
       ]);
     }),
   );
-
-  caches.keys().then(function(cacheNames) {
-    for(const cacheName of cacheNames) {
-      if(cacheName != applicationVersion){
-        console.log("Deletando cache antigo: ", cacheName);
-        caches.delete(cacheName);
-      }
-    }
-  });
 });
 
 async function fromCacheOrAdd(url, cache){
@@ -74,4 +67,25 @@ self.addEventListener("fetch", (e) => {
       return response;
     })(),
   );
+});
+
+self.addEventListener('activate', event => {
+  event.waitUntil(
+    caches.keys().then(cacheNames => {
+      return Promise.all(
+        cacheNames.map(cacheName => {
+          if (cacheName !== applicationVersion) {
+            console.log("Deletando cache antigo: ", cacheName);
+            return caches.delete(cacheName);
+          }
+        })
+      );
+    }).then(() => self.clients.claim())
+  );
+});
+
+self.addEventListener('message', event => {
+  if (event.data && event.data.type === 'GET_VERSION') {
+    event.ports[0].postMessage({ version: applicationVersion });
+  }
 });
