@@ -185,21 +185,23 @@ async function load_random_chapter() {
 }
 
 function caseAndAccentInsensitiveSearch(text, query) {
-  // Function to normalize and lowercase a string
   const normalizeForComparison = (str) => {
     if (!str) return '';
-    // NFD separates combined characters (base letter + accent)
     return str.normalize('NFD')
-      // Remove combining diacritical marks (Unicode range U+0300 to U+036F)
       .replace(/[\u0300-\u036f]/g, '')
+      .replace(/[.,:;?!¡¿"''()[\]{}–—…]/g, '')
       .toLowerCase();
   };
 
-  const normalizedText = normalizeForComparison(text);
+  const normalizedText = normalizeForComparison(removeNoteNotations(text));
   const normalizedQuery = normalizeForComparison(query);
 
-  // Perform the substring search on the normalized strings
   return normalizedText.includes(normalizedQuery);
+}
+
+function removeNoteNotations(text) {
+  if (!text) return '';
+  return text.replace(/\{note:\w+\}/g, '');
 }
 
 function afterPageLoad() {

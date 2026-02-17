@@ -2,6 +2,10 @@
     visibility: hidden;
 }
 
+.hidden {
+    display: none !important;
+}
+
 .ancizar-sans-font {
     font-family: "Ancizar Sans", sans-serif;
     font-optical-sizing: auto;
@@ -199,4 +203,39 @@ body {
 
 a {
     color: #006080;
+}
+
+.search_results {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.search_result {
+    display: block;
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.search_result:hover {
+    background-color: #e3f2fd;
+}
+
+.search_result_text {
+    color: #333;
+}
+
+.search_result_book_chapter {
+    font-weight: bold;
+    color: #1565c0;
+    font-size: 16px;
+}
+
+.search_result_verse {
+    font-size: 15px;
+    color: #424242;
+    display: block;
+    margin-top: 5px;
 }

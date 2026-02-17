@@ -8,6 +8,7 @@ Uma Progressive Web App para ler a Bíblia.
 - Lista de livros (Antigo e Novo Testamento)
 - Navegação por capítulos
 - Capítulo do dia aleatório
+- Busca de versos
 - Instalável como app nativo
 
 ## Como usar
@@ -19,6 +20,16 @@ Para testar localmente com Python:
 python3 -m http.server 8000
 ```
 Acesse: `http://localhost:8000`
+
+## Busca de Textos
+
+Clique no ícone de busca (lupa) na barra superior, digite o termo e pressione Enter.
+A busca encontra versos que contenham o termo, ignorando:
+- Maiúsculas/minúsculas
+- Acentos
+- Pontuação
+
+Os primeiros 30 resultados são exibidos com link direto para o capítulo.
 
 ## Instalação como App
 
@@ -32,7 +43,13 @@ No navegador, procure pelo ícone de instalação na barra de endereços ou use 
 ├── pages/                  # Páginas do app
 │   ├── book_selection.html
 │   ├── chapter_selection.html
-│   └── chapter_read.html
+│   ├── chapter_read.html
+│   ├── search.html         # Página de busca
+│   └── js/
+│       ├── book_selection.js
+│       ├── chapter_selection.js
+│       ├── chapter_read.js
+│       └── search.js       # Lógica de busca
 ├── biblia_json/            # Dados da Bíblia
 ├── css/                    # Estilos (Materialize)
 ├── js/                     # Scripts

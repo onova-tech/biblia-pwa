@@ -12,8 +12,9 @@
         <link href="https://fonts.googleapis.com/css2?family=Ancizar+Sans:ital,wght@0,100..1000;1,100..1000&display=swap" rel="stylesheet">
         <script type="text/javascript" src="/biblia-pwa/js/service_worker_enabler.js"></script>
         <script type="text/javascript" src="/biblia-pwa/js/utils.js"></script>
-        <script type="text/javascript" src="/biblia-pwa/pages/js/chapter_selection.js"></script>
+        <script type="text/javascript" src="/biblia-pwa/pages/js/search.js"></script>
         <link rel="icon" type="image/x-icon" href="/biblia-pwa/fav/bible.32.png" />
+        <title>Buscar - Bíblia CCB</title>
     </head>
     <body>
         <div id="content">
@@ -43,15 +44,19 @@
                 <li><a id="mobile-search-btn" class="btn blue" href="/biblia-pwa/pages/search.html">Buscar na Bíblia</a></li>
             </ul>
 
-            <h3 id="book_name" class="book_name ancizar-sans-font"></h3>
-            <h4 id="book_subname" class="book_name ancizar-sans-font"></h4>
+            <h3 id="search_title" class="bible_name ancizar-sans-font">Resultados da Busca</h3>
+            <h4 id="search_query" class="book_subname ancizar-sans-font"></h4>
+            <h5 id="result_count" class="book_subname ancizar-sans-font"></h5>
             
-            <div id="chapter_selection" class="chapter_selection">
-                <h5 id="chapter_title" class="chapter_title ancizar-sans-font hidden_before_load">Capítulos:</h5>
+            <div id="search_results" class="search_results">
+            </div>
+
+            <div id="no_results" class="hidden" style="text-align: center; padding: 20px;">
+                <p class="ancizar-sans-font" style="font-size: 18px;">Nenhum resultado encontrado.</p>
             </div>
 
             <div id="templates" style="visibility: hidden;">
-                <a id="template_chapter_name_list" class="chapter_name_list ancizar-sans-font"></a>
+                <a id="template_search_result" class="search_result ancizar-sans-font hidden"></a>
             </div>
         </div>
 
