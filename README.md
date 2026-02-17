@@ -57,6 +57,21 @@ No navegador, procure pelo ícone de instalação na barra de endereços ou use 
 └── manifest.json           # Manifesto PWA
 ```
 
+## Deploy para Amazon S3
+
+Execute o script de deploy:
+```bash
+./deploy.sh
+```
+
+O script irá:
+1. Criar uma pasta `publish` com os arquivos modificados
+2. Substituir `/biblia-pwa/` por `/` nos caminhos
+3. Perguntar se deseja fazer upload para S3
+4. Se confirmado, pedir o nome do bucket e realizar o upload
+
+**Pré-requisitos**: AWS CLI instalado e configurado com credenciais.
+
 ## Tecnologias
 
 - HTML, CSS, JavaScript (Vanilla)
