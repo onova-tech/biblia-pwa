@@ -1,4 +1,4 @@
-const applicationVersion = 'v1.2.3';
+const applicationVersion = 'v1.3.0';
 
 self.addEventListener('install', event => {
   self.skipWaiting();
@@ -19,6 +19,11 @@ self.addEventListener('install', event => {
         '/biblia-pwa/fav/bible.512.png',
         '/biblia-pwa/css/styles.css',
         '/biblia-pwa/css/materialize.min.css',
+        '/biblia-pwa/css/fonts.css',
+        '/biblia-pwa/fonts/MaterialIcons-Regular.ttf',
+        '/biblia-pwa/fonts/ancizar-sans-latin-400-normal.woff2',
+        '/biblia-pwa/fonts/ancizar-sans-latin-400-italic.woff2',
+        '/biblia-pwa/fonts/ancizar-sans-latin-700-normal.woff2',
         '/biblia-pwa/js/materialize.js',
         '/biblia-pwa/biblia_json/pt_br_full.json'
       ]);
